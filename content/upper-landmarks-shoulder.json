@@ -1,0 +1,701 @@
+[
+  {
+    "key": "acromial-end",
+    "kind": "landmark",
+    "la": "Extremitas acromialis",
+    "alt": ["Extremitas acromialis claviculae"],
+    "en": "Acromial end of clavicle",
+    "desc": {
+      "en": "The flattened lateral end of the clavicle. It carries the facet for the acromioclavicular joint, and its inferior surface is tied to the coracoid process by the coracoclavicular ligament.",
+      "id": "Ujung lateral clavicula yang pipih. Ujung ini membawa facies articularis untuk sendi acromioclavicularis, dan permukaan bawahnya diikat ke processus coracoideus oleh lig. coracoclaviculare."
+    },
+    "facts": {
+      "bone": "clavicle",
+      "attach": {
+        "en": "Anterior border: clavicular part of M. deltoideus. Posterior border: descending part of M. trapezius. Inferior surface: Lig. coracoclaviculare (Lig. conoideum and Lig. trapezoideum).",
+        "id": "Tepi anterior: pars clavicularis m. deltoideus. Tepi posterior: pars descendens m. trapezius. Permukaan inferior: lig. coracoclaviculare (lig. conoideum dan lig. trapezoideum)."
+      }
+    },
+    "quiz": {"bone": ["Clavicula", "Os clavicula"]}
+  },
+  {
+    "key": "acromial-facet",
+    "kind": "landmark",
+    "la": "Facies articularis acromialis",
+    "alt": ["Facies articularis acromialis claviculae"],
+    "en": "Acromial facet of clavicle",
+    "desc": {
+      "en": "Small oval facet on the lateral end of the clavicle, facing laterally and slightly downward. It articulates with the clavicular facet of the acromion at the acromioclavicular joint.",
+      "id": "Faset oval kecil di ujung lateral clavicula yang menghadap ke lateral dan sedikit ke bawah. Bersendi dengan facies articularis clavicularis acromii pada sendi acromioclavicularis."
+    },
+    "facts": {
+      "bone": "clavicle",
+      "attach": {
+        "en": "The joint capsule and Lig. acromioclaviculare attach around its margin.",
+        "id": "Capsula articularis dan lig. acromioclaviculare melekat di sekeliling tepinya."
+      }
+    },
+    "quiz": {"bone": ["Clavicula", "Os clavicula"]}
+  },
+  {
+    "key": "body-of-clavicle",
+    "kind": "landmark",
+    "la": "Corpus claviculae",
+    "alt": [],
+    "en": "Body (shaft) of clavicle",
+    "desc": {
+      "en": "The shaft between the two ends. Its medial two-thirds are convex forward and its lateral third is concave forward, which gives the bone its S shape.",
+      "id": "Bagian batang di antara kedua ujung clavicula. Dua pertiga medialnya cembung ke depan dan sepertiga lateralnya cekung ke depan, sehingga tulang ini berbentuk huruf S."
+    },
+    "facts": {
+      "bone": "clavicle",
+      "attach": {
+        "en": "Medial part: clavicular head of M. sternocleidomastoideus (superior surface) and clavicular part of M. pectoralis major (anterior surface). Middle third, inferior surface: M. subclavius. Lateral third: M. deltoideus in front and M. trapezius behind.",
+        "id": "Bagian medial: caput claviculare m. sternocleidomastoideus (permukaan superior) dan pars clavicularis m. pectoralis major (permukaan anterior). Sepertiga tengah, permukaan inferior: m. subclavius. Sepertiga lateral: m. deltoideus di depan dan m. trapezius di belakang."
+      },
+      "clinical": {
+        "en": "The junction of the middle and lateral thirds is the weakest part of the bone and the usual site of fracture.",
+        "id": "Perbatasan sepertiga tengah dan sepertiga lateral adalah bagian terlemah dan lokasi fraktur yang paling sering."
+      }
+    },
+    "quiz": {"bone": ["Clavicula", "Os clavicula"]}
+  },
+  {
+    "key": "conoid-tubercle",
+    "kind": "landmark",
+    "la": "Tuberculum conoideum",
+    "alt": ["Tuberculum conoideum claviculae"],
+    "en": "Conoid tubercle",
+    "desc": {
+      "en": "Small tubercle on the inferior surface of the lateral part of the clavicle, close to its posterior border.",
+      "id": "Tonjolan kecil pada permukaan inferior bagian lateral clavicula, dekat tepi posteriornya."
+    },
+    "facts": {
+      "bone": "clavicle",
+      "attach": {
+        "en": "Lig. conoideum, the posteromedial part of Lig. coracoclaviculare.",
+        "id": "Lig. conoideum, bagian posteromedial lig. coracoclaviculare."
+      }
+    },
+    "quiz": {"bone": ["Clavicula", "Os clavicula"]}
+  },
+  {
+    "key": "groove-for-subclavius-muscle",
+    "kind": "landmark",
+    "la": "Sulcus musculi subclavii",
+    "alt": ["Sulcus m. subclavii", "Sulcus musculi subclavii claviculae"],
+    "en": "Groove for subclavius",
+    "desc": {
+      "en": "Shallow groove along the middle third of the inferior surface of the clavicle.",
+      "id": "Alur dangkal di sepanjang sepertiga tengah permukaan inferior clavicula."
+    },
+    "facts": {
+      "bone": "clavicle",
+      "attach": {
+        "en": "Insertion of M. subclavius; the clavipectoral fascia attaches to the edges of the groove.",
+        "id": "Insersio m. subclavius; fascia clavipectoralis melekat pada kedua tepi alur ini."
+      }
+    },
+    "quiz": {"bone": ["Clavicula", "Os clavicula"]}
+  },
+  {
+    "key": "impression-for-costoclavicular-ligament",
+    "kind": "landmark",
+    "la": "Impressio ligamenti costoclavicularis",
+    "alt": ["Impressio ligamenti costo-clavicularis", "Impressio lig. costoclavicularis", "Impressio ligamenti costoclavicularis claviculae"],
+    "en": "Impression for costoclavicular ligament",
+    "desc": {
+      "en": "Rough oval area on the inferior surface of the medial end of the clavicle.",
+      "id": "Daerah kasar berbentuk oval pada permukaan inferior ujung medial clavicula."
+    },
+    "facts": {
+      "bone": "clavicle",
+      "attach": {
+        "en": "Lig. costoclaviculare, which runs down to the first rib and its costal cartilage.",
+        "id": "Lig. costoclaviculare yang berjalan ke bawah menuju costa I dan cartilago costalisnya."
+      }
+    },
+    "quiz": {"bone": ["Clavicula", "Os clavicula"]}
+  },
+  {
+    "key": "sternal-articular-surface",
+    "kind": "landmark",
+    "la": "Facies articularis sternalis",
+    "alt": ["Facies articularis sternalis claviculae"],
+    "en": "Sternal articular surface of clavicle",
+    "desc": {
+      "en": "Saddle-shaped surface on the medial end of the clavicle. It articulates with the clavicular notch of the manubrium and the first costal cartilage, with the articular disc between them.",
+      "id": "Permukaan sendi berbentuk pelana di ujung medial clavicula. Bersendi dengan incisura clavicularis manubrii sterni dan cartilago costalis I, dengan discus articularis di antaranya."
+    },
+    "facts": {
+      "bone": "clavicle",
+      "attach": {
+        "en": "The articular disc of the sternoclavicular joint attaches to its posterosuperior margin; the joint capsule attaches around it.",
+        "id": "Discus articularis sendi sternoclavicularis melekat pada tepi posterosuperiornya; capsula articularis melekat di sekelilingnya."
+      }
+    },
+    "quiz": {"bone": ["Clavicula", "Os clavicula"]}
+  },
+  {
+    "key": "sternal-end",
+    "kind": "landmark",
+    "la": "Extremitas sternalis",
+    "alt": ["Extremitas sternalis claviculae"],
+    "en": "Sternal end of clavicle",
+    "desc": {
+      "en": "The enlarged, roughly triangular medial end of the clavicle. It projects above the manubrium and can be felt beside the jugular notch.",
+      "id": "Ujung medial clavicula yang membesar dan kira-kira berbentuk segitiga. Ujung ini menonjol di atas manubrium dan dapat diraba di samping incisura jugularis."
+    },
+    "facts": {
+      "bone": "clavicle",
+      "attach": {
+        "en": "Lig. sternoclaviculare anterius and posterius, Lig. interclaviculare (above), Lig. costoclaviculare (below), clavicular head of M. sternocleidomastoideus, and M. sternohyoideus on the posterior surface.",
+        "id": "Lig. sternoclaviculare anterius dan posterius, lig. interclaviculare (di atas), lig. costoclaviculare (di bawah), caput claviculare m. sternocleidomastoideus, dan m. sternohyoideus pada permukaan posterior."
+      }
+    },
+    "quiz": {"bone": ["Clavicula", "Os clavicula"]}
+  },
+  {
+    "key": "trapezoid-line",
+    "kind": "landmark",
+    "la": "Linea trapezoidea",
+    "alt": ["Linea trapezoidea claviculae"],
+    "en": "Trapezoid line",
+    "desc": {
+      "en": "Oblique ridge on the inferior surface of the lateral end of the clavicle, running forward and laterally from the conoid tubercle.",
+      "id": "Rigi miring pada permukaan inferior ujung lateral clavicula, berjalan ke depan dan ke lateral dari tuberculum conoideum."
+    },
+    "facts": {
+      "bone": "clavicle",
+      "attach": {
+        "en": "Lig. trapezoideum, the anterolateral part of Lig. coracoclaviculare.",
+        "id": "Lig. trapezoideum, bagian anterolateral lig. coracoclaviculare."
+      }
+    },
+    "quiz": {"bone": ["Clavicula", "Os clavicula"]}
+  },
+  {
+    "key": "tuberosity-for-coracoclavicular-ligament",
+    "kind": "landmark",
+    "la": "Tuberositas ligamenti coracoclavicularis",
+    "alt": ["Tuberositas lig. coracoclavicularis", "Tuberositas ligamenti coracoclavicularis claviculae"],
+    "en": "Tuberosity for coracoclavicular ligament",
+    "desc": {
+      "en": "Roughened area on the inferior surface of the lateral end of the clavicle, made up of the conoid tubercle and the trapezoid line.",
+      "id": "Daerah kasar pada permukaan inferior ujung lateral clavicula yang terdiri atas tuberculum conoideum dan linea trapezoidea."
+    },
+    "facts": {
+      "bone": "clavicle",
+      "attach": {
+        "en": "Lig. coracoclaviculare (Lig. conoideum and Lig. trapezoideum), which suspends the scapula from the clavicle.",
+        "id": "Lig. coracoclaviculare (lig. conoideum dan lig. trapezoideum) yang menggantungkan scapula pada clavicula."
+      }
+    },
+    "quiz": {"bone": ["Clavicula", "Os clavicula"]}
+  },
+  {
+    "key": "acromial-angle",
+    "kind": "landmark",
+    "la": "Angulus acromii",
+    "alt": ["Angulus acromialis", "Angulus acromii scapulae"],
+    "en": "Acromial angle",
+    "desc": {
+      "en": "Palpable corner where the lateral border of the acromion turns into the crest of the spine of the scapula.",
+      "id": "Sudut yang dapat diraba, tempat tepi lateral acromion berbelok menjadi crista spinae scapulae."
+    },
+    "facts": {
+      "bone": "scapula",
+      "attach": {
+        "en": "The origin of M. deltoideus runs around it, from the lateral border of the acromion onto the spine.",
+        "id": "Origo m. deltoideus melingkari sudut ini, dari tepi lateral acromion ke spina scapulae."
+      },
+      "clinical": {
+        "en": "Used as a fixed bony point in clinical measurement of the length of the arm.",
+        "id": "Dipakai sebagai titik tulang tetap untuk mengukur panjang lengan secara klinis."
+      }
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]}
+  },
+  {
+    "key": "acromion",
+    "kind": "landmark",
+    "la": "Acromion",
+    "alt": ["Acromion scapulae"],
+    "en": "Acromion",
+    "desc": {
+      "en": "Flat lateral continuation of the spine of the scapula that forms the point of the shoulder. Its medial margin articulates with the clavicle at the acromioclavicular joint.",
+      "id": "Lanjutan spina scapulae ke lateral yang pipih dan membentuk puncak bahu. Tepi medialnya bersendi dengan clavicula pada sendi acromioclavicularis."
+    },
+    "facts": {
+      "bone": "scapula",
+      "attach": {
+        "en": "Lateral border: acromial part of M. deltoideus (origin). Medial border and upper surface: M. trapezius (insertion). Tip: Lig. coracoacromiale. Clavicular facet: Lig. acromioclaviculare and joint capsule.",
+        "id": "Tepi lateral: pars acromialis m. deltoideus (origo). Tepi medial dan permukaan atas: m. trapezius (insersio). Ujung: lig. coracoacromiale. Facies articularis clavicularis: lig. acromioclaviculare dan capsula articularis."
+      },
+      "clinical": {
+        "en": "The supraspinatus tendon and the subacromial bursa lie beneath it; narrowing of this space causes impingement pain during abduction.",
+        "id": "Tendo m. supraspinatus dan bursa subacromialis terletak di bawahnya; penyempitan ruang ini menimbulkan nyeri impingement saat abduksi."
+      }
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]}
+  },
+  {
+    "key": "clavicular-facet",
+    "kind": "landmark",
+    "la": "Facies articularis clavicularis",
+    "alt": ["Facies articularis clavicularis acromii", "Facies articularis clavicularis scapulae", "Facies articularis acromii", "Facies articularis acromia"],
+    "en": "Clavicular facet of acromion",
+    "desc": {
+      "en": "Small oval facet on the medial margin of the acromion for the acromial end of the clavicle (acromioclavicular joint).",
+      "id": "Faset oval kecil pada tepi medial acromion untuk extremitas acromialis claviculae (sendi acromioclavicularis)."
+    },
+    "facts": {
+      "bone": "scapula",
+      "attach": {
+        "en": "The joint capsule and Lig. acromioclaviculare attach around its margin.",
+        "id": "Capsula articularis dan lig. acromioclaviculare melekat di sekeliling tepinya."
+      },
+      "note": {
+        "en": "The module lists this facet of the scapula as 'Facies articularis acromia'. Its TA98 name is Facies articularis clavicularis (of the acromion); Facies articularis acromialis is the matching facet on the clavicle.",
+        "id": "Modul menyebut faset pada scapula ini sebagai 'Facies articularis acromia'. Nama TA98-nya facies articularis clavicularis (pada acromion); facies articularis acromialis adalah faset pasangannya pada clavicula."
+      }
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]}
+  },
+  {
+    "key": "coracoid-process",
+    "kind": "landmark",
+    "la": "Processus coracoideus",
+    "alt": ["Processus coracoideus scapulae"],
+    "en": "Coracoid process",
+    "desc": {
+      "en": "Hook-like process projecting forward and laterally from the superior border of the scapula. Its tip can be felt deep in the deltopectoral triangle, below the lateral part of the clavicle.",
+      "id": "Tonjolan berbentuk kait yang menonjol ke depan dan ke lateral dari margo superior scapulae. Ujungnya dapat diraba di dalam trigonum deltopectorale, di bawah bagian lateral clavicula."
+    },
+    "facts": {
+      "bone": "scapula",
+      "attach": {
+        "en": "Tip: origin of the short head of M. biceps brachii and of M. coracobrachialis. Medial border and upper surface: insertion of M. pectoralis minor. Ligaments: Lig. coracoclaviculare (conoid and trapezoid parts), Lig. coracoacromiale and Lig. coracohumerale.",
+        "id": "Ujung: origo caput breve m. biceps brachii dan m. coracobrachialis. Tepi medial dan permukaan atas: insersio m. pectoralis minor. Ligamentum: lig. coracoclaviculare (bagian conoideum dan trapezoideum), lig. coracoacromiale dan lig. coracohumerale."
+      }
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]}
+  },
+  {
+    "key": "costal-surface-of-scapula",
+    "kind": "landmark",
+    "la": "Facies costalis",
+    "alt": ["Facies costalis scapulae", "Facies anterior scapulae"],
+    "en": "Costal surface of scapula",
+    "desc": {
+      "en": "The concave anterior surface of the scapula that faces the ribs. Most of it is taken up by the subscapular fossa.",
+      "id": "Permukaan anterior scapula yang cekung dan menghadap ke costae. Sebagian besar permukaan ini berupa fossa subscapularis."
+    },
+    "facts": {
+      "bone": "scapula",
+      "attach": {
+        "en": "M. subscapularis (origin, from the subscapular fossa); M. serratus anterior (insertion, along the medial border).",
+        "id": "M. subscapularis (origo, dari fossa subscapularis); m. serratus anterior (insersio, di sepanjang margo medialis)."
+      }
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]}
+  },
+  {
+    "key": "deltoid-tubercle",
+    "kind": "landmark",
+    "la": "Tuberculum deltoideum",
+    "alt": ["Tuberculum deltoideum spinae scapulae", "Tuberculum deltoideum scapulae"],
+    "en": "Deltoid tubercle of spine of scapula",
+    "desc": {
+      "en": "Prominence on the crest of the spine of the scapula near its medial end, where the lower lip of the crest bends.",
+      "id": "Tonjolan pada crista spinae scapulae dekat ujung medialnya, tempat labium inferius crista melengkung."
+    },
+    "facts": {
+      "bone": "scapula",
+      "attach": {
+        "en": "Marks the medial end of the origin of the spinal part of M. deltoideus; the transverse and ascending parts of M. trapezius insert close to it.",
+        "id": "Menandai ujung medial origo pars spinalis m. deltoideus; pars transversa dan pars ascendens m. trapezius berinsersio di dekatnya."
+      }
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]}
+  },
+  {
+    "key": "glenoid-fossa",
+    "kind": "landmark",
+    "la": "Cavitas glenoidalis",
+    "alt": ["Fossa glenoidea", "Cavitas glenoidalis scapulae", "Cavitas glenoidea", "Fossa glenoidalis"],
+    "en": "Glenoid cavity",
+    "desc": {
+      "en": "Shallow, pear-shaped articular cavity on the lateral angle of the scapula. It receives the head of the humerus and is deepened by the glenoid labrum.",
+      "id": "Cekungan sendi yang dangkal dan berbentuk buah pir pada angulus lateralis scapulae. Menerima caput humeri dan diperdalam oleh labrum glenoidale."
+    },
+    "facts": {
+      "bone": "scapula",
+      "attach": {
+        "en": "Labrum glenoidale attaches to its rim and the joint capsule just beyond it; the glenohumeral ligaments arise from its anterior margin.",
+        "id": "Labrum glenoidale melekat pada tepinya dan capsula articularis tepat di luarnya; ligg. glenohumeralia berasal dari tepi anteriornya."
+      }
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]}
+  },
+  {
+    "key": "glenoid-process-of-scapula",
+    "kind": "landmark",
+    "la": "Processus glenoideus",
+    "alt": ["Processus glenoideus scapulae", "Processus glenoidalis"],
+    "en": "Glenoid process of scapula",
+    "desc": {
+      "en": "TA2 name for the thick lateral part of the scapula that carries the glenoid cavity and is joined to the body by the neck. It corresponds to the lateral angle.",
+      "id": "Nama TA2 untuk bagian lateral scapula yang tebal, membawa cavitas glenoidalis, dan dihubungkan dengan corpus melalui collum scapulae. Bagian ini sesuai dengan angulus lateralis."
+    },
+    "facts": {
+      "bone": "scapula",
+      "attach": {
+        "en": "Supraglenoid tubercle above the cavity (long head of M. biceps brachii) and infraglenoid tubercle below it (long head of M. triceps brachii).",
+        "id": "Tuberculum supraglenoidale di atas cavitas (caput longum m. biceps brachii) dan tuberculum infraglenoidale di bawahnya (caput longum m. triceps brachii)."
+      }
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]}
+  },
+  {
+    "key": "inferior-angle-of-scapula",
+    "kind": "landmark",
+    "la": "Angulus inferior",
+    "alt": ["Angulus inferior scapulae"],
+    "en": "Inferior angle of scapula",
+    "desc": {
+      "en": "Lowest point of the scapula, where the medial and lateral borders meet. With the arm at the side it lies at about the level of the seventh rib and the spinous process of T7.",
+      "id": "Titik terendah scapula, tempat bertemunya margo medialis dan margo lateralis. Dengan lengan di samping badan, letaknya kira-kira setinggi costa VII dan processus spinosus T7."
+    },
+    "facts": {
+      "bone": "scapula",
+      "attach": {
+        "en": "Posterior surface: origin of M. teres major (and often a slip of M. latissimus dorsi). Costal surface: lower digitations of M. serratus anterior.",
+        "id": "Permukaan posterior: origo m. teres major (dan sering satu berkas m. latissimus dorsi). Permukaan costal: digitationes bawah m. serratus anterior."
+      }
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]}
+  },
+  {
+    "key": "infraglenoid-tubercle",
+    "kind": "landmark",
+    "la": "Tuberculum infraglenoidale",
+    "alt": ["Tuberculum infraglenoideum", "Tuberculum infraglenoidale scapulae"],
+    "en": "Infraglenoid tubercle",
+    "desc": {
+      "en": "Rough elevation just below the glenoid cavity, at the upper end of the lateral border of the scapula.",
+      "id": "Tonjolan kasar tepat di bawah cavitas glenoidalis, di ujung atas margo lateralis scapulae."
+    },
+    "facts": {
+      "bone": "scapula",
+      "attach": {
+        "en": "Origin of the long head of M. triceps brachii.",
+        "id": "Origo caput longum m. triceps brachii."
+      }
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]}
+  },
+  {
+    "key": "infraspinous-fossa",
+    "kind": "landmark",
+    "la": "Fossa infraspinata",
+    "alt": ["Fossa infraspinata scapulae", "Fossa infraspinosa"],
+    "en": "Infraspinous fossa",
+    "desc": {
+      "en": "The larger part of the posterior surface of the scapula, below the spine.",
+      "id": "Bagian yang lebih luas dari facies posterior scapulae, di bawah spina scapulae."
+    },
+    "facts": {
+      "bone": "scapula",
+      "attach": {
+        "en": "Origin of M. infraspinatus (medial two-thirds of the fossa).",
+        "id": "Origo m. infraspinatus (dua pertiga medial fossa)."
+      }
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]}
+  },
+  {
+    "key": "lateral-angle-of-scapula",
+    "kind": "landmark",
+    "la": "Angulus lateralis",
+    "alt": ["Angulus lateralis scapulae"],
+    "en": "Lateral angle of scapula",
+    "desc": {
+      "en": "The thickest part of the scapula, where the superior and lateral borders meet. It carries the glenoid cavity and is joined to the body by the neck.",
+      "id": "Bagian scapula yang paling tebal, di pertemuan margo superior dan margo lateralis. Membawa cavitas glenoidalis dan dihubungkan dengan corpus melalui collum scapulae."
+    },
+    "facts": {
+      "bone": "scapula"
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]}
+  },
+  {
+    "key": "lateral-border-of-scapula",
+    "kind": "landmark",
+    "la": "Margo lateralis",
+    "alt": ["Margo lateralis scapulae", "Margo axillaris"],
+    "en": "Lateral border of scapula",
+    "desc": {
+      "en": "Thick border running from the infraglenoid tubercle down to the inferior angle; it faces the axilla.",
+      "id": "Tepi yang tebal dari tuberculum infraglenoidale sampai angulus inferior; menghadap ke axilla."
+    },
+    "facts": {
+      "bone": "scapula",
+      "attach": {
+        "en": "Posterior surface along the border: M. teres minor (middle part) and M. teres major (lower part, near the inferior angle). Upper end: long head of M. triceps brachii at the infraglenoid tubercle.",
+        "id": "Permukaan posterior di sepanjang tepi ini: m. teres minor (bagian tengah) dan m. teres major (bagian bawah, dekat angulus inferior). Ujung atas: caput longum m. triceps brachii pada tuberculum infraglenoidale."
+      }
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]}
+  },
+  {
+    "key": "medial-border-of-scapula",
+    "kind": "landmark",
+    "la": "Margo medialis",
+    "alt": ["Margo medialis scapulae", "Margo vertebralis"],
+    "en": "Medial border of scapula",
+    "desc": {
+      "en": "Long, thin border that runs parallel to the vertebral column, about 5 cm lateral to the spinous processes.",
+      "id": "Tepi panjang dan tipis yang sejajar columna vertebralis, kira-kira 5 cm lateral dari processus spinosus."
+    },
+    "facts": {
+      "bone": "scapula",
+      "attach": {
+        "en": "Posterior lip: M. levator scapulae (superior angle to root of spine), M. rhomboideus minor (at the root of the spine), M. rhomboideus major (spine to inferior angle). Costal lip: M. serratus anterior.",
+        "id": "Bibir posterior: m. levator scapulae (angulus superior sampai radix spinae), m. rhomboideus minor (setinggi radix spinae), m. rhomboideus major (spina sampai angulus inferior). Bibir costal: m. serratus anterior."
+      },
+      "clinical": {
+        "en": "In serratus anterior paralysis this border lifts away from the chest wall (winged scapula).",
+        "id": "Pada kelumpuhan m. serratus anterior, tepi ini terangkat dari dinding dada (winged scapula)."
+      }
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]}
+  },
+  {
+    "key": "neck-of-scapula",
+    "kind": "landmark",
+    "la": "Collum scapulae",
+    "alt": [],
+    "en": "Neck of scapula",
+    "desc": {
+      "en": "The slightly narrowed part just medial to the glenoid cavity that joins the lateral angle to the body of the scapula.",
+      "id": "Bagian yang sedikit menyempit tepat di medial cavitas glenoidalis, menghubungkan angulus lateralis dengan corpus scapulae."
+    },
+    "facts": {
+      "bone": "scapula",
+      "attach": {
+        "en": "The capsule of the glenohumeral joint attaches close to the glenoid rim; the suprascapular nerve and vessels pass behind the neck through the spinoglenoid notch.",
+        "id": "Capsula articularis sendi glenohumeralis melekat dekat tepi cavitas glenoidalis; n. dan vasa suprascapularia berjalan di belakang collum melalui incisura spinoglenoidea."
+      }
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]}
+  },
+  {
+    "key": "posterior-surface-of-scapula",
+    "kind": "landmark",
+    "la": "Facies posterior",
+    "alt": ["Facies posterior scapulae", "Facies dorsalis scapulae"],
+    "en": "Posterior surface of scapula",
+    "desc": {
+      "en": "Convex dorsal surface, divided by the spine into a small supraspinous fossa and a larger infraspinous fossa.",
+      "id": "Permukaan dorsal yang cembung, dibagi oleh spina scapulae menjadi fossa supraspinata yang kecil dan fossa infraspinata yang lebih luas."
+    },
+    "facts": {
+      "bone": "scapula",
+      "attach": {
+        "en": "M. supraspinatus, M. infraspinatus, M. teres minor and M. teres major arise from it; the spine gives attachment to M. trapezius and M. deltoideus.",
+        "id": "M. supraspinatus, m. infraspinatus, m. teres minor dan m. teres major berorigo di sini; spina scapulae menjadi tempat melekat m. trapezius dan m. deltoideus."
+      }
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]}
+  },
+  {
+    "key": "scapular-notch",
+    "kind": "landmark",
+    "la": "Incisura scapulae",
+    "alt": ["Incisura scapularis", "Incisura suprascapularis"],
+    "en": "Scapular (suprascapular) notch",
+    "desc": {
+      "en": "Notch in the lateral part of the superior border, just medial to the base of the coracoid process. The superior transverse scapular ligament bridges it and turns it into a foramen.",
+      "id": "Lekukan pada bagian lateral margo superior, tepat di medial pangkal processus coracoideus. Lig. transversum scapulae superius menjembatani lekukan ini sehingga menjadi foramen."
+    },
+    "facts": {
+      "bone": "scapula",
+      "attach": {
+        "en": "Lig. transversum scapulae superius.",
+        "id": "Lig. transversum scapulae superius."
+      },
+      "clinical": {
+        "en": "The suprascapular nerve passes below the ligament, through the foramen, while the suprascapular artery passes above it. Entrapment of the nerve here weakens supraspinatus and infraspinatus.",
+        "id": "N. suprascapularis lewat di bawah ligamentum (melalui foramen), sedangkan a. suprascapularis lewat di atasnya. Jepitan saraf di tempat ini melemahkan m. supraspinatus dan m. infraspinatus."
+      }
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]}
+  },
+  {
+    "key": "spine-of-scapula",
+    "kind": "landmark",
+    "la": "Spina scapulae",
+    "alt": ["Spina scapula"],
+    "en": "Spine of scapula",
+    "desc": {
+      "en": "Thick bony ridge on the posterior surface, running from the medial border to the acromion. Its medial end (root) lies at the level of the spinous process of T3.",
+      "id": "Rigi tulang yang tebal pada facies posterior, berjalan dari margo medialis sampai acromion. Ujung medialnya (radix spinae) setinggi processus spinosus T3."
+    },
+    "facts": {
+      "bone": "scapula",
+      "attach": {
+        "en": "Upper lip of the crest: M. trapezius (insertion). Lower lip: spinal part of M. deltoideus (origin). The upper and lower surfaces of the spine give origin to fibres of M. supraspinatus and M. infraspinatus.",
+        "id": "Bibir atas crista: m. trapezius (insersio). Bibir bawah: pars spinalis m. deltoideus (origo). Permukaan atas dan bawah spina menjadi origo sebagian serabut m. supraspinatus dan m. infraspinatus."
+      }
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]}
+  },
+  {
+    "key": "spinoglenoid-notch",
+    "kind": "landmark",
+    "la": "Incisura spinoglenoidea",
+    "alt": ["Incisura spinoglenoidalis", "Incisura spinoglenoidea scapulae"],
+    "en": "Spinoglenoid notch",
+    "desc": {
+      "en": "Notch between the lateral edge of the spine of the scapula and the back of the neck. It connects the supraspinous and infraspinous fossae.",
+      "id": "Lekukan di antara tepi lateral spina scapulae dan bagian belakang collum scapulae. Menghubungkan fossa supraspinata dengan fossa infraspinata."
+    },
+    "facts": {
+      "bone": "scapula",
+      "attach": {
+        "en": "Lig. transversum scapulae inferius bridges it when present.",
+        "id": "Lig. transversum scapulae inferius menjembataninya bila ada."
+      },
+      "clinical": {
+        "en": "The suprascapular nerve and vessels pass through it to reach infraspinatus. A ganglion cyst here can compress the nerve and weaken infraspinatus alone.",
+        "id": "N. dan vasa suprascapularia melewati lekukan ini menuju m. infraspinatus. Kista ganglion di sini dapat menekan saraf dan hanya melemahkan m. infraspinatus."
+      }
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]}
+  },
+  {
+    "key": "subscapular-fossa",
+    "kind": "landmark",
+    "la": "Fossa subscapularis",
+    "alt": ["Fossa subscapularis scapulae"],
+    "en": "Subscapular fossa",
+    "desc": {
+      "en": "Large shallow hollow that takes up most of the costal surface of the scapula and is crossed by several oblique ridges.",
+      "id": "Cekungan dangkal yang luas, menempati sebagian besar facies costalis scapulae dan dilintasi beberapa rigi miring."
+    },
+    "facts": {
+      "bone": "scapula",
+      "attach": {
+        "en": "Origin of M. subscapularis; its intramuscular tendons attach to the oblique ridges (lineae musculares).",
+        "id": "Origo m. subscapularis; tendo-tendo di dalam ototnya melekat pada rigi-rigi miring (lineae musculares)."
+      }
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]}
+  },
+  {
+    "key": "superior-angle-of-scapula",
+    "kind": "landmark",
+    "la": "Angulus superior",
+    "alt": ["Angulus superior scapulae"],
+    "en": "Superior angle of scapula",
+    "desc": {
+      "en": "Junction of the superior and medial borders, at about the level of the spinous process of T2.",
+      "id": "Pertemuan margo superior dan margo medialis, kira-kira setinggi processus spinosus T2."
+    },
+    "facts": {
+      "bone": "scapula",
+      "attach": {
+        "en": "Insertion of M. levator scapulae.",
+        "id": "Insersio m. levator scapulae."
+      }
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]}
+  },
+  {
+    "key": "superior-border-of-scapula",
+    "kind": "landmark",
+    "la": "Margo superior",
+    "alt": ["Margo superior scapulae"],
+    "en": "Superior border of scapula",
+    "desc": {
+      "en": "The shortest and thinnest border of the scapula. Near its lateral end is the scapular notch, just medial to the coracoid process.",
+      "id": "Tepi scapula yang paling pendek dan paling tipis. Di dekat ujung lateralnya terdapat incisura scapulae, tepat di medial processus coracoideus."
+    },
+    "facts": {
+      "bone": "scapula",
+      "attach": {
+        "en": "Inferior belly of M. omohyoideus (origin, near the scapular notch); Lig. transversum scapulae superius across the notch.",
+        "id": "Venter inferior m. omohyoideus (origo, dekat incisura scapulae); lig. transversum scapulae superius melintang di atas incisura."
+      }
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]}
+  },
+  {
+    "key": "supraglenoid-tubercle",
+    "kind": "landmark",
+    "la": "Tuberculum supraglenoidale",
+    "alt": ["Tuberculum supraglenoideum", "Tuberculum supraglenoidale scapulae"],
+    "en": "Supraglenoid tubercle",
+    "desc": {
+      "en": "Small elevation just above the glenoid cavity, at the root of the coracoid process.",
+      "id": "Tonjolan kecil tepat di atas cavitas glenoidalis, di pangkal processus coracoideus."
+    },
+    "facts": {
+      "bone": "scapula",
+      "attach": {
+        "en": "Origin of the long head of M. biceps brachii, blended with the superior part of the glenoid labrum.",
+        "id": "Origo caput longum m. biceps brachii yang menyatu dengan bagian atas labrum glenoidale."
+      },
+      "clinical": {
+        "en": "A tear of the superior labrum at this attachment is called a SLAP lesion (superior labrum, anterior to posterior).",
+        "id": "Robekan labrum bagian atas pada perlekatan ini disebut lesi SLAP (superior labrum, anterior to posterior)."
+      }
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]}
+  },
+  {
+    "key": "supraspinous-fossa",
+    "kind": "landmark",
+    "la": "Fossa supraspinata",
+    "alt": ["Fossa supraspinata scapulae", "Fossa supraspinosa"],
+    "en": "Supraspinous fossa",
+    "desc": {
+      "en": "The smaller hollow above the spine of the scapula on the posterior surface.",
+      "id": "Cekungan yang lebih kecil di atas spina scapulae pada facies posterior."
+    },
+    "facts": {
+      "bone": "scapula",
+      "attach": {
+        "en": "Origin of M. supraspinatus (medial two-thirds of the fossa).",
+        "id": "Origo m. supraspinatus (dua pertiga medial fossa)."
+      }
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]}
+  },
+  {
+    "key": "muscular-lines-of-scapula",
+    "kind": "landmark",
+    "la": "Lineae musculares",
+    "alt": ["Lineae musculares scapulae", "Linea musculi scapulae", "Linea muscularis scapulae"],
+    "en": "Oblique (muscular) ridges of scapula",
+    "desc": {
+      "en": "Several oblique ridges on the costal surface of the scapula that run upward and laterally across the subscapular fossa.",
+      "id": "Beberapa rigi miring pada facies costalis scapulae yang berjalan ke atas dan ke lateral melintasi fossa subscapularis."
+    },
+    "facts": {
+      "bone": "scapula",
+      "attach": {
+        "en": "The tendinous septa inside M. subscapularis attach to the ridges; the muscle fibres arise from the bone between them.",
+        "id": "Septa tendinea di dalam m. subscapularis melekat pada rigi-rigi ini; serabut ototnya berorigo dari tulang di antaranya."
+      },
+      "note": {
+        "en": "The module lists this as 'Linea musculi scapulae'. The usual Latin is lineae musculares (scapulae); it has no separate entry in TA98 and is not a separate mesh in the 3D model.",
+        "id": "Modul menyebutnya 'Linea musculi scapulae'. Nama Latin yang lazim adalah lineae musculares (scapulae); istilah ini tidak tercantum tersendiri dalam TA98 dan tidak tersedia sebagai bagian terpisah pada model 3D."
+      }
+    },
+    "quiz": {"bone": ["Scapula", "Os scapula"]},
+    "model": false,
+    "verify": true
+  }
+]

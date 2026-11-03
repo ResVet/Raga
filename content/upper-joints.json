@@ -1,0 +1,618 @@
+[
+  {
+    "key": "sternoclavicular-joint",
+    "kind": "joint",
+    "la": "Articulatio sternoclavicularis",
+    "alt": ["Art. sternoclavicularis"],
+    "en": "Sternoclavicular joint",
+    "desc": {
+      "en": "The only bony joint between the upper limb and the axial skeleton. The sternal end of the clavicle articulates with the clavicular notch of the manubrium and the first costal cartilage, and an articular disc divides the cavity into two.",
+      "id": "Satu-satunya sendi tulang yang menghubungkan ekstremitas superior dengan skeleton axiale. Extremitas sternalis claviculae bersendi dengan incisura clavicularis manubrii sterni dan cartilago costalis I, dan discus articularis membagi rongga sendinya menjadi dua."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio sellaris",
+      "complexity": "Articulatio simplex",
+      "axes": "multiaxial",
+      "surfaces": "Facies articularis sternalis claviculae; incisura clavicularis manubrii sterni et cartilago costalis I",
+      "movements": {
+        "en": "Elevation and depression, protraction and retraction, and rotation of the clavicle about its long axis; combined, they give circumduction. These movements accompany every movement of the scapula.",
+        "id": "Elevasi dan depresi, protraksi dan retraksi, serta rotasi clavicula pada sumbu panjangnya; gabungannya menghasilkan circumductio. Gerakan ini selalu menyertai gerakan scapula."
+      },
+      "ligaments": ["Ligamentum sternoclaviculare anterius", "Ligamentum sternoclaviculare posterius", "Ligamentum interclaviculare", "Ligamentum costoclaviculare"],
+      "discs": "Discus articularis",
+      "stability": {
+        "en": "Very strong. The disc and the costoclavicular ligament resist displacement, so a fall on the shoulder usually breaks the clavicle before this joint dislocates.",
+        "id": "Sangat kuat. Discus articularis dan lig. costoclaviculare menahan pergeseran, sehingga jatuh bertumpu pada bahu biasanya mematahkan clavicula sebelum sendi ini mengalami dislokasi."
+      },
+      "clinical": {
+        "en": "Posterior dislocation is rare but dangerous, because the clavicle can press on the great vessels and the trachea behind the manubrium.",
+        "id": "Dislokasi ke posterior jarang terjadi tetapi berbahaya, karena clavicula dapat menekan pembuluh darah besar dan trachea di belakang manubrium."
+      },
+      "note": {
+        "en": "By shape it is a saddle joint, which alone allows movement about two axes. The disc adds rotation of the clavicle, so the joint moves about three axes and behaves like a ball-and-socket joint.",
+        "id": "Menurut bentuknya sendi ini sellaris, yang hanya memberi gerak pada dua sumbu. Discus articularis menambahkan rotasi clavicula, sehingga gerakannya terjadi pada tiga sumbu dan secara fungsional menyerupai sendi spheroidea."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio sellaris", "sellaris", "sellaris (saddle)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["multiaxial", "multiaksial", "triaxial", "triaksial"]
+    }
+  },
+  {
+    "key": "acromioclavicular-joint",
+    "kind": "joint",
+    "la": "Articulatio acromioclavicularis",
+    "alt": ["Art. acromioclavicularis"],
+    "en": "Acromioclavicular joint",
+    "desc": {
+      "en": "Small plane synovial joint between the acromial end of the clavicle and the medial margin of the acromion, at the top of the shoulder. Its stability depends mainly on the coracoclavicular ligament.",
+      "id": "Sendi sinovial kecil bertipe plana antara extremitas acromialis claviculae dan tepi medial acromion, di puncak bahu. Kestabilannya terutama bergantung pada lig. coracoclaviculare."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio plana",
+      "complexity": "Articulatio simplex",
+      "axes": "multiaxial",
+      "surfaces": "Facies articularis acromialis claviculae et facies articularis clavicularis acromii",
+      "movements": {
+        "en": "Small gliding and rotation of the acromion on the clavicle. These adjust the position of the scapula on the thorax, for example as it rotates upward when the arm is raised.",
+        "id": "Gerak meluncur dan rotasi kecil acromion terhadap clavicula. Gerakan ini menyesuaikan posisi scapula pada dinding dada, misalnya saat scapula berotasi ke atas ketika lengan diangkat."
+      },
+      "ligaments": ["Ligamentum acromioclaviculare", "Ligamentum coracoclaviculare (Ligamentum conoideum et Ligamentum trapezoideum)"],
+      "discs": "Discus articularis (inconstans)",
+      "stability": {
+        "en": "The capsule and acromioclavicular ligament are weak. The coracoclavicular ligament carries much of the weight of the limb and keeps the acromion from being driven down and under the clavicle.",
+        "id": "Kapsul dan lig. acromioclaviculare lemah. Lig. coracoclaviculare menanggung sebagian besar berat lengan dan mencegah acromion terdorong ke bawah clavicula."
+      },
+      "clinical": {
+        "en": "A fall on the point of the shoulder can tear the acromioclavicular ligament (subluxation) or both it and the coracoclavicular ligament (dislocation). The acromion then drops with the weight of the arm, and the lateral end of the clavicle forms a visible step.",
+        "id": "Jatuh bertumpu pada puncak bahu dapat merobek lig. acromioclaviculare (subluksasi) atau sekaligus lig. coracoclaviculare (dislokasi). Acromion lalu turun karena berat lengan dan ujung lateral clavicula tampak menonjol seperti anak tangga."
+      },
+      "note": {
+        "en": "Plane joints only glide, and textbooks describe them either as multiaxial or as nonaxial. At this joint the gliding allows small rotations of the scapula about several axes.",
+        "id": "Sendi plana hanya meluncur, dan buku ajar menyebutnya multiaksial atau nonaksial. Pada sendi ini, gerak meluncur memungkinkan rotasi kecil scapula pada beberapa sumbu."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio plana", "plana", "plana (gliding)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["multiaxial", "multiaksial", "nonaxial", "nonaksial"]
+    }
+  },
+  {
+    "key": "fibrous-joints-of-pectoral-girdle",
+    "kind": "joint",
+    "la": "Syndesmoses cinguli pectoralis",
+    "alt": ["Juncturae fibrosae cinguli pectoralis", "Syndesmosis cinguli pectoralis"],
+    "en": "Fibrous joints (syndesmoses) of pectoral girdle",
+    "desc": {
+      "en": "Terminologia Anatomica groups three ligaments of the scapula as syndesmoses of the pectoral girdle: the coracoacromial ligament and the superior and inferior transverse scapular ligaments. Each joins two parts of the same bone, so they allow no movement; they form an arch over the shoulder joint and bridges over nerves and vessels.",
+      "id": "Terminologia Anatomica mengelompokkan tiga ligamentum scapula sebagai syndesmosis gelang bahu: lig. coracoacromiale, lig. transversum scapulae superius dan lig. transversum scapulae inferius. Masing-masing menghubungkan dua bagian dari tulang yang sama sehingga tidak menghasilkan gerakan; ligamentum ini membentuk lengkung di atas sendi bahu serta jembatan di atas saraf dan pembuluh darah."
+    },
+    "facts": {
+      "class": "Junctura fibrosa",
+      "subtype": "Syndesmosis",
+      "ligaments": ["Ligamentum coracoacromiale", "Ligamentum transversum scapulae superius", "Ligamentum transversum scapulae inferius"],
+      "note": {
+        "en": "The coracoclavicular ligament, which joins the clavicle to the scapula, is also a syndesmosis by structure; TA98 lists it with the acromioclavicular joint.",
+        "id": "Lig. coracoclaviculare, yang menghubungkan clavicula dengan scapula, secara struktur juga merupakan syndesmosis; TA98 memasukkannya ke sendi acromioclavicularis."
+      }
+    },
+    "quiz": {
+      "type": ["Syndesmosis", "syndesmosis"],
+      "class": ["Junctura fibrosa", "fibrosa", "articulatio fibrosa", "sendi fibrosa"]
+    }
+  },
+  {
+    "key": "glenohumeral-joint",
+    "kind": "joint",
+    "la": "Articulatio glenohumeralis",
+    "alt": ["Articulatio humeri", "Art. glenohumeralis", "Art. humeri"],
+    "en": "Glenohumeral (shoulder) joint",
+    "desc": {
+      "en": "Ball-and-socket synovial joint between the head of the humerus and the glenoid cavity of the scapula. It is the most mobile joint of the body; the socket is small and shallow, so the surrounding muscles do most of the work of holding it together.",
+      "id": "Sendi sinovial bertipe spheroidea antara caput humeri dan cavitas glenoidalis scapulae. Sendi ini paling bebas bergerak di tubuh; cekungannya kecil dan dangkal sehingga kestabilannya lebih banyak dijaga oleh otot di sekitarnya."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio spheroidea",
+      "complexity": "Articulatio simplex",
+      "axes": "multiaxial",
+      "surfaces": "Caput humeri; cavitas glenoidalis scapulae et labrum glenoidale",
+      "movements": {
+        "en": "Flexion and extension, abduction and adduction, medial and lateral rotation, and circumduction. Raising the arm above the head also needs upward rotation of the scapula (scapulohumeral rhythm, roughly two degrees at the glenohumeral joint for every degree of scapular movement).",
+        "id": "Fleksi dan ekstensi, abduksi dan adduksi, rotasi medial dan lateral, serta sirkumduksi. Mengangkat lengan di atas kepala juga memerlukan rotasi scapula ke atas (ritme scapulohumeral, kira-kira dua derajat gerak sendi glenohumeralis untuk setiap satu derajat gerak scapula)."
+      },
+      "ligaments": ["Ligamentum glenohumerale superius", "Ligamentum glenohumerale medium", "Ligamentum glenohumerale inferius", "Ligamentum coracohumerale", "Ligamentum transversum humeri", "Ligamentum coracoacromiale"],
+      "labrum": "Labrum glenoidale",
+      "stability": {
+        "en": "The rotator cuff (Mm. supraspinatus, infraspinatus, teres minor and subscapularis) holds the head in the glenoid cavity, helped by the long head of biceps and by the coracoacromial arch above. The inferior part of the capsule has no muscle support and is the weakest.",
+        "id": "Rotator cuff (mm. supraspinatus, infraspinatus, teres minor dan subscapularis) menahan caput humeri di dalam cavitas glenoidalis, dibantu caput longum m. biceps brachii dan arcus coracoacromialis di atasnya. Bagian inferior kapsul tidak ditopang otot dan merupakan bagian terlemah."
+      },
+      "clinical": {
+        "en": "Most dislocations are anterior (anteroinferior), with the head ending up below the coracoid process. The axillary nerve runs close to the inferior capsule and may be injured.",
+        "id": "Sebagian besar dislokasi terjadi ke anterior (anteroinferior), dengan caput humeri berpindah ke bawah processus coracoideus. N. axillaris berjalan dekat kapsul bagian inferior dan dapat ikut cedera."
+      },
+      "note": {
+        "en": "The tendon of the long head of biceps passes through the joint over the head of the humerus, inside the capsule and outside the synovial membrane (intracapsular, extrasynovial).",
+        "id": "Tendo caput longum m. biceps brachii melintasi sendi di atas caput humeri, di dalam kapsul dan di luar membrana synovialis (intrakapsular, ekstrasinovial)."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio spheroidea", "spheroidea", "sphaeroidea", "globoidea", "spheroidea (ball-and-socket)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["multiaxial", "multiaksial", "triaxial", "triaksial"]
+    }
+  },
+  {
+    "key": "elbow-joint",
+    "kind": "joint",
+    "la": "Articulatio cubiti",
+    "alt": ["Art. cubiti"],
+    "en": "Elbow joint",
+    "desc": {
+      "en": "Compound synovial joint in which three articulations share one capsule and one cavity: humero-ulnar, humeroradial and proximal radio-ulnar. The first two flex and extend the forearm; the third lets the radius rotate for pronation and supination.",
+      "id": "Sendi sinovial majemuk (articulatio composita) yang terdiri atas tiga artikulasi dalam satu kapsul dan satu rongga sendi: humeroulnaris, humeroradialis dan radioulnaris proximalis. Dua yang pertama melakukan fleksi dan ekstensi lengan bawah; yang ketiga memungkinkan radius berputar untuk pronasi dan supinasi."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Ginglymus",
+      "complexity": "Articulatio composita",
+      "axes": "biaxial",
+      "surfaces": "Trochlea humeri et incisura trochlearis ulnae; capitulum humeri et fovea articularis capitis radii; circumferentia articularis capitis radii et incisura radialis ulnae",
+      "movements": {
+        "en": "Flexion and extension of the forearm (humero-ulnar and humeroradial joints); rotation of the radius in pronation and supination (proximal radio-ulnar joint, working with the distal radio-ulnar joint).",
+        "id": "Fleksi dan ekstensi lengan bawah (sendi humeroulnaris dan humeroradialis); rotasi radius saat pronasi dan supinasi (sendi radioulnaris proximalis, bersama sendi radioulnaris distalis)."
+      },
+      "ligaments": ["Ligamentum collaterale ulnare", "Ligamentum collaterale radiale", "Ligamentum anulare radii", "Ligamentum quadratum"],
+      "parts": ["humero-ulnar-joint", "humeroradial-joint", "proximal-radio-ulnar-joint"],
+      "stability": {
+        "en": "The trochlea locks into the trochlear notch, and strong collateral ligaments on each side limit sideways movement. The capsule is thin in front and behind.",
+        "id": "Trochlea humeri terkunci di dalam incisura trochlearis, dan ligamentum collaterale yang kuat di kedua sisi membatasi gerak ke samping. Kapsul di bagian depan dan belakang tipis."
+      },
+      "clinical": {
+        "en": "Posterior dislocation follows a fall on the outstretched hand with the elbow flexed and may injure the ulnar nerve. In young children a pull on the hand can slip the radial head out of the annular ligament (pulled elbow).",
+        "id": "Dislokasi ke posterior terjadi akibat jatuh bertumpu pada tangan yang terulur dengan siku fleksi dan dapat mencederai n. ulnaris. Pada anak kecil, tarikan pada tangan dapat membuat caput radii tergelincir keluar dari lig. anulare (pulled elbow)."
+      },
+      "note": {
+        "en": "Moore classes the elbow as a hinge; the module stresses that it is an articulatio composita. Flexion-extension uses a transverse axis and rotation of the radius a longitudinal one, so the complex works about two axes. With the elbow extended and the forearm supinated, the forearm angles laterally from the arm by about 5 to 15 degrees (carrying angle), more in women.",
+        "id": "Moore menggolongkan siku sebagai ginglymus; modul menekankan bahwa sendi ini articulatio composita. Fleksi-ekstensi memakai sumbu transversal dan rotasi radius memakai sumbu longitudinal, sehingga kompleks sendi ini bekerja pada dua sumbu. Saat siku ekstensi dan lengan bawah supinasi, lengan bawah membentuk sudut ke lateral sekitar 5-15 derajat terhadap lengan atas (carrying angle), lebih besar pada perempuan."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio composita", "composita", "Ginglymus", "ginglymus", "Articulatio ginglymus", "trochoginglymus"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["biaxial", "biaksial"]
+    }
+  },
+  {
+    "key": "humero-ulnar-joint",
+    "kind": "joint",
+    "la": "Articulatio humeroulnaris",
+    "alt": ["Art. humeroulnaris", "Articulatio humero-ulnaris"],
+    "en": "Humero-ulnar joint",
+    "desc": {
+      "en": "Hinge joint between the trochlea of the humerus and the trochlear notch of the ulna, inside the elbow joint capsule. It is the main joint for flexion and extension of the elbow.",
+      "id": "Sendi engsel antara trochlea humeri dan incisura trochlearis ulnae, di dalam kapsul sendi siku. Merupakan sendi utama untuk fleksi dan ekstensi siku."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Ginglymus",
+      "complexity": "Articulatio simplex",
+      "axes": "uniaxial",
+      "surfaces": "Trochlea humeri et incisura trochlearis ulnae",
+      "movements": {
+        "en": "Flexion and extension of the forearm about a transverse axis through the trochlea.",
+        "id": "Fleksi dan ekstensi lengan bawah pada sumbu transversal yang melalui trochlea."
+      },
+      "ligaments": ["Ligamentum collaterale ulnare"],
+      "part_of": "elbow-joint"
+    },
+    "quiz": {
+      "type": ["Ginglymus", "ginglymus", "Articulatio ginglymus", "ginglymus (hinge)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["uniaxial", "uniaksial", "monoaxial"]
+    }
+  },
+  {
+    "key": "humeroradial-joint",
+    "kind": "joint",
+    "la": "Articulatio humeroradialis",
+    "alt": ["Art. humeroradialis"],
+    "en": "Humeroradial joint",
+    "desc": {
+      "en": "Joint between the capitulum of the humerus and the fovea on the head of the radius, inside the elbow joint capsule. Its surfaces are shaped like a ball and socket, yet the annular ligament ties the radius to the ulna, so the joint follows flexion and extension and lets the radial head spin during pronation and supination.",
+      "id": "Sendi antara capitulum humeri dan fovea articularis capitis radii, di dalam kapsul sendi siku. Permukaannya berbentuk bola dan mangkuk, tetapi lig. anulare mengikat radius pada ulna, sehingga sendi ini mengikuti fleksi-ekstensi dan memungkinkan caput radii berputar saat pronasi dan supinasi."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio spheroidea",
+      "complexity": "Articulatio simplex",
+      "axes": "biaxial",
+      "surfaces": "Capitulum humeri et fovea articularis capitis radii",
+      "movements": {
+        "en": "Flexion and extension together with the humero-ulnar joint, and rotation of the radial head on the capitulum in pronation and supination.",
+        "id": "Fleksi dan ekstensi bersama sendi humeroulnaris, serta rotasi caput radii pada capitulum humeri saat pronasi dan supinasi."
+      },
+      "ligaments": ["Ligamentum collaterale radiale", "Ligamentum anulare radii"],
+      "part_of": "elbow-joint",
+      "note": {
+        "en": "The module gives no shape for it ('komponen sendi siku'). Sobotta and other references class it as a ball-and-socket joint by shape; abduction and adduction are blocked because the radius is bound to the ulna, so it works about two axes. Some English texts treat it simply as part of the elbow hinge.",
+        "id": "Modul tidak menyebut bentuknya ('komponen sendi siku'). Sobotta dan rujukan lain menggolongkannya sebagai articulatio spheroidea menurut bentuk; abduksi dan adduksi terhalang karena radius terikat pada ulna, sehingga sendi ini bekerja pada dua sumbu. Sebagian buku berbahasa Inggris hanya menganggapnya bagian dari engsel siku."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio spheroidea", "spheroidea", "sphaeroidea", "spheroidea (ball-and-socket)", "ginglymus"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["biaxial", "biaksial"]
+    }
+  },
+  {
+    "key": "proximal-radio-ulnar-joint",
+    "kind": "joint",
+    "la": "Articulatio radioulnaris proximalis",
+    "alt": ["Art. radioulnaris proximalis", "Articulatio radio-ulnaris proximalis"],
+    "en": "Proximal radio-ulnar joint",
+    "desc": {
+      "en": "Pivot joint between the articular circumference of the radial head and the radial notch of the ulna, inside the elbow joint capsule. The head turns within a ring formed by the notch and the annular ligament.",
+      "id": "Sendi putar antara circumferentia articularis capitis radii dan incisura radialis ulnae, di dalam kapsul sendi siku. Caput radii berputar di dalam cincin yang dibentuk incisura radialis dan lig. anulare radii."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio trochoidea",
+      "complexity": "Articulatio simplex",
+      "axes": "uniaxial",
+      "surfaces": "Circumferentia articularis capitis radii et incisura radialis ulnae",
+      "movements": {
+        "en": "Rotation of the radial head about the long axis of the radius, producing pronation and supination together with the distal radio-ulnar joint.",
+        "id": "Rotasi caput radii pada sumbu panjang radius, menghasilkan pronasi dan supinasi bersama sendi radioulnaris distalis."
+      },
+      "ligaments": ["Ligamentum anulare radii", "Ligamentum quadratum"],
+      "part_of": "elbow-joint"
+    },
+    "quiz": {
+      "type": ["Articulatio trochoidea", "trochoidea", "trochoidea (pivot)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["uniaxial", "uniaksial", "monoaxial"]
+    }
+  },
+  {
+    "key": "distal-radio-ulnar-joint",
+    "kind": "joint",
+    "la": "Articulatio radioulnaris distalis",
+    "alt": ["Art. radioulnaris distalis", "Articulatio radio-ulnaris distalis"],
+    "en": "Distal radio-ulnar joint",
+    "desc": {
+      "en": "Pivot joint between the head of the ulna and the ulnar notch of the radius. In pronation and supination the radius swings around the ulnar head; the articular disc binds the two bones and separates this joint from the radiocarpal joint.",
+      "id": "Sendi putar antara caput ulnae dan incisura ulnaris radii. Saat pronasi dan supinasi, radius berayun mengelilingi caput ulnae; discus articularis mengikat kedua tulang dan memisahkan sendi ini dari sendi radiocarpalis."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio trochoidea",
+      "complexity": "Articulatio simplex",
+      "axes": "uniaxial",
+      "surfaces": "Circumferentia articularis capitis ulnae et incisura ulnaris radii",
+      "movements": {
+        "en": "Rotation of the distal radius around the head of the ulna in pronation and supination.",
+        "id": "Rotasi ujung distal radius mengelilingi caput ulnae saat pronasi dan supinasi."
+      },
+      "ligaments": ["Ligamentum radioulnare dorsale", "Ligamentum radioulnare palmare"],
+      "discs": "Discus articularis (fibrocartilago triangularis)",
+      "clinical": {
+        "en": "A fracture of the radial shaft with dislocation of this joint is a Galeazzi fracture. Tears of the articular disc (triangular fibrocartilage complex) cause pain on the ulnar side of the wrist.",
+        "id": "Fraktur corpus radii disertai dislokasi sendi ini disebut fraktur Galeazzi. Robekan discus articularis (triangular fibrocartilage complex) menimbulkan nyeri di sisi ulnar pergelangan tangan."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio trochoidea", "trochoidea", "trochoidea (pivot)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["uniaxial", "uniaksial", "monoaxial"]
+    }
+  },
+  {
+    "key": "radio-ulnar-syndesmoses",
+    "kind": "joint",
+    "la": "Syndesmosis radioulnaris",
+    "alt": ["Syndesmoses radioulnares", "Syndesmosis radio-ulnaris", "Articulatio radioulnaris media"],
+    "en": "Radio-ulnar syndesmosis",
+    "desc": {
+      "en": "Fibrous joint that binds the shafts of the radius and ulna through the interosseous membrane of the forearm and the oblique cord. It holds the bones together while still letting the radius rotate around the ulna.",
+      "id": "Sendi fibrosa yang mengikat corpus radii dan corpus ulnae melalui membrana interossea antebrachii dan chorda obliqua. Sendi ini menyatukan kedua tulang sambil tetap membiarkan radius berputar mengelilingi ulna."
+    },
+    "facts": {
+      "class": "Junctura fibrosa",
+      "subtype": "Syndesmosis",
+      "ligaments": ["Membrana interossea antebrachii", "Chorda obliqua"],
+      "parts": ["interosseous-membrane-of-forearm", "oblique-cord"],
+      "function": {
+        "en": "The membrane passes force from the radius, which takes the load from the hand, to the ulna and on to the humerus. It also gives origin to deep forearm muscles and separates the anterior and posterior compartments.",
+        "id": "Membrana interossea meneruskan gaya dari radius, yang menerima beban dari tangan, ke ulna lalu ke humerus. Membran ini juga menjadi origo otot lapisan dalam lengan bawah dan memisahkan kompartemen anterior dan posterior."
+      }
+    },
+    "quiz": {
+      "type": ["Syndesmosis", "syndesmosis"],
+      "class": ["Junctura fibrosa", "fibrosa", "articulatio fibrosa", "sendi fibrosa"]
+    }
+  },
+  {
+    "key": "radiocarpal-joint",
+    "kind": "joint",
+    "la": "Articulatio radiocarpalis",
+    "alt": ["Articulatio radiocarpea", "Art. radiocarpalis"],
+    "en": "Radiocarpal (wrist) joint",
+    "desc": {
+      "en": "Ellipsoid synovial joint between the distal radius together with the articular disc above, and the scaphoid, lunate and triquetrum below. The ulna does not touch the carpal bones directly; the disc lies between them.",
+      "id": "Sendi sinovial bertipe ellipsoidea antara ujung distal radius beserta discus articularis di atas, dan os scaphoideum, os lunatum serta os triquetrum di bawah. Ulna tidak langsung bersentuhan dengan ossa carpi karena dipisahkan oleh discus articularis."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio ellipsoidea",
+      "complexity": "Articulatio composita",
+      "axes": "biaxial",
+      "surfaces": "Facies articularis carpalis radii et discus articularis; os scaphoideum, os lunatum et os triquetrum",
+      "movements": {
+        "en": "Flexion (palmar flexion) and extension (dorsiflexion), abduction (radial deviation) and adduction (ulnar deviation), and circumduction. The midcarpal joint takes part in every wrist movement.",
+        "id": "Fleksi (palmarfleksi) dan ekstensi (dorsofleksi), abduksi (deviasi radial) dan adduksi (deviasi ulnar), serta sirkumduksi. Sendi mediocarpalis ikut berperan pada setiap gerakan pergelangan tangan."
+      },
+      "ligaments": ["Ligamentum radiocarpale dorsale", "Ligamentum radiocarpale palmare", "Ligamentum ulnocarpale palmare", "Ligamentum collaterale carpi radiale", "Ligamentum collaterale carpi ulnare"],
+      "discs": "Discus articularis (articulationis radioulnaris distalis)",
+      "stability": {
+        "en": "The palmar and dorsal radiocarpal ligaments run obliquely, so the hand follows the radius in supination and pronation.",
+        "id": "Lig. radiocarpale palmare dan dorsale berjalan miring sehingga tangan ikut bergerak bersama radius saat supinasi dan pronasi."
+      },
+      "clinical": {
+        "en": "A fall on the outstretched hand loads this joint, and the usual result is a fracture of the distal radius (Colles) or of the scaphoid rather than a dislocation.",
+        "id": "Jatuh bertumpu pada tangan yang terulur membebani sendi ini; akibat yang biasa terjadi adalah fraktur radius distal (Colles) atau os scaphoideum, jarang dislokasi."
+      },
+      "note": {
+        "en": "It counts as a composite joint because the radius and disc meet three carpal bones.",
+        "id": "Sendi ini tergolong articulatio composita karena radius dan discus articularis bertemu dengan tiga tulang carpal."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio ellipsoidea", "ellipsoidea", "ellipsoidea (condyloid)", "Articulatio condylaris", "condylaris"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["biaxial", "biaksial"]
+    }
+  },
+  {
+    "key": "midcarpal-joint",
+    "kind": "joint",
+    "la": "Articulatio mediocarpalis",
+    "alt": ["Articulatio mediocarpea", "Art. mediocarpalis"],
+    "en": "Midcarpal joint",
+    "desc": {
+      "en": "S-shaped joint cavity between the proximal carpal row (scaphoid, lunate, triquetrum) and the distal row (trapezium, trapezoid, capitate, hamate). The heads of the capitate and hamate sit in the concavity of the proximal row.",
+      "id": "Rongga sendi berbentuk huruf S antara baris proksimal ossa carpi (os scaphoideum, os lunatum, os triquetrum) dan baris distal (os trapezium, os trapezoideum, os capitatum, os hamatum). Caput ossis capitati dan os hamatum masuk ke cekungan baris proksimal."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio plana",
+      "complexity": "Articulatio composita",
+      "axes": "biaxial",
+      "surfaces": "Os scaphoideum, os lunatum et os triquetrum; os trapezium, os trapezoideum, os capitatum et os hamatum",
+      "movements": {
+        "en": "Adds to flexion and extension and to radial and ulnar deviation of the hand, together with the radiocarpal joint.",
+        "id": "Menambah luas fleksi dan ekstensi serta deviasi radial dan ulnar tangan, bersama sendi radiocarpalis."
+      },
+      "ligaments": ["Ligamentum carpi radiatum", "Ligamenta intercarpalia dorsalia", "Ligamenta intercarpalia palmaria"],
+      "note": {
+        "en": "Moore and most references group it with the plane intercarpal joints. Its medial part, where the heads of the capitate and hamate fit into the proximal row, works almost like an ellipsoid joint, so its movements follow the two axes of the wrist. It has no separate mesh in the 3D model.",
+        "id": "Moore dan sebagian besar rujukan memasukkannya ke kelompok sendi intercarpal bertipe plana. Bagian medialnya, tempat caput ossis capitati dan os hamatum masuk ke baris proksimal, bekerja hampir seperti sendi ellipsoidea, sehingga gerakannya mengikuti dua sumbu pergelangan tangan. Sendi ini tidak tersedia sebagai bagian terpisah pada model 3D."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio plana", "plana", "plana (gliding)", "Articulatio ellipsoidea", "ellipsoidea"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["biaxial", "biaksial", "multiaxial", "multiaksial"]
+    },
+    "model": false
+  },
+  {
+    "key": "intercarpal-joints",
+    "kind": "joint",
+    "la": "Articulationes intercarpales",
+    "alt": ["Articulationes intercarpeae", "Artt. intercarpales", "Articulatio intercarpalis"],
+    "en": "Intercarpal joints",
+    "desc": {
+      "en": "Plane synovial joints between neighbouring carpal bones of the same row, including the small joint between the pisiform and the triquetrum. Interosseous, dorsal and palmar ligaments bind the bones tightly, so each joint allows only slight gliding.",
+      "id": "Sendi sinovial bertipe plana antara tulang carpal yang bersebelahan dalam satu baris, termasuk sendi kecil antara os pisiforme dan os triquetrum. Ligamentum interosseum, dorsal dan palmar mengikat tulang-tulang ini dengan erat sehingga setiap sendi hanya dapat sedikit meluncur."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio plana",
+      "axes": "multiaxial",
+      "surfaces": "Facies articulares ossium carpi vicinorum",
+      "movements": {
+        "en": "Small gliding movements that add to the range of wrist movement and allow the carpus to deepen its arch.",
+        "id": "Gerak meluncur kecil yang menambah luas gerak pergelangan tangan dan memungkinkan lengkung carpus menjadi lebih dalam."
+      },
+      "ligaments": ["Ligamenta intercarpalia dorsalia", "Ligamenta intercarpalia palmaria", "Ligamenta intercarpalia interossea", "Ligamentum carpi radiatum", "Ligamentum pisohamatum", "Ligamentum pisometacarpale"],
+      "note": {
+        "en": "The joint between the pisiform and the triquetrum is named Articulatio ossis pisiformis in TA98.",
+        "id": "Sendi antara os pisiforme dan os triquetrum dalam TA98 disebut articulatio ossis pisiformis."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio plana", "plana", "plana (gliding)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["multiaxial", "multiaksial", "nonaxial", "nonaksial"]
+    }
+  },
+  {
+    "key": "carpometacarpal-joints",
+    "kind": "joint",
+    "la": "Articulationes carpometacarpales",
+    "alt": ["Articulationes carpometacarpeae", "Artt. carpometacarpales", "Articulatio carpometacarpalis"],
+    "en": "Carpometacarpal joints (digits II to V)",
+    "desc": {
+      "en": "Joints between the distal carpal row and the bases of the second to fifth metacarpals, sharing one joint cavity. The second and third are almost immobile; the fourth and fifth move more, which lets the palm cup around an object.",
+      "id": "Sendi antara baris distal ossa carpi dan basis os metacarpi II sampai V, dengan satu rongga sendi bersama. Sendi II dan III hampir tidak bergerak; sendi IV dan V lebih leluasa sehingga telapak tangan dapat menangkup benda."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio plana",
+      "axes": "multiaxial",
+      "surfaces": "Ossa carpi seriei distalis et bases ossium metacarpi II-V",
+      "movements": {
+        "en": "Slight gliding; some flexion and rotation at the fourth and especially the fifth joint.",
+        "id": "Gerak meluncur sedikit; sedikit fleksi dan rotasi pada sendi IV dan terutama sendi V."
+      },
+      "ligaments": ["Ligamenta carpometacarpalia dorsalia", "Ligamenta carpometacarpalia palmaria", "Ligamenta carpometacarpalia interossea"],
+      "note": {
+        "en": "The carpometacarpal joint of the thumb has its own capsule and is described separately as a saddle joint.",
+        "id": "Sendi carpometacarpalis ibu jari memiliki kapsul sendiri dan dibahas terpisah sebagai articulatio sellaris."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio plana", "plana", "plana (gliding)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["multiaxial", "multiaksial", "nonaxial", "nonaksial"]
+    }
+  },
+  {
+    "key": "carpometacarpal-joint-of-thumb",
+    "kind": "joint",
+    "la": "Articulatio carpometacarpalis pollicis",
+    "alt": ["Articulatio carpometacarpea pollicis", "Art. carpometacarpalis pollicis", "Articulatio carpometacarpalis I"],
+    "en": "Carpometacarpal joint of thumb",
+    "desc": {
+      "en": "Saddle joint between the trapezium and the base of the first metacarpal, with its own loose capsule. It gives the thumb its wide range of movement, including opposition.",
+      "id": "Sendi pelana antara os trapezium dan basis os metacarpi I, dengan kapsul sendiri yang longgar. Sendi ini memberi ibu jari ruang gerak yang luas, termasuk gerakan oposisi."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio sellaris",
+      "complexity": "Articulatio simplex",
+      "axes": "biaxial",
+      "surfaces": "Os trapezium et basis ossis metacarpi I",
+      "movements": {
+        "en": "Flexion and extension (in the plane of the palm), abduction and adduction (at right angles to the palm) and circumduction. Opposition combines flexion, abduction and medial rotation of the first metacarpal.",
+        "id": "Fleksi dan ekstensi (sejajar bidang telapak tangan), abduksi dan adduksi (tegak lurus telapak tangan) serta sirkumduksi. Oposisi merupakan gabungan fleksi, abduksi dan rotasi medial os metacarpi I."
+      },
+      "stability": {
+        "en": "The loose capsule allows the large range of movement and is reinforced by dorsal and palmar ligaments.",
+        "id": "Kapsul yang longgar memungkinkan ruang gerak yang luas dan diperkuat oleh ligamentum dorsal dan palmar."
+      },
+      "clinical": {
+        "en": "A common site of osteoarthritis in older adults. An intra-articular fracture of the base of the first metacarpal is a Bennett fracture.",
+        "id": "Lokasi osteoartritis yang sering pada usia lanjut. Fraktur intraartikular basis os metacarpi I disebut fraktur Bennett."
+      },
+      "note": {
+        "en": "It has no separate mesh in the 3D model.",
+        "id": "Sendi ini tidak tersedia sebagai bagian terpisah pada model 3D."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio sellaris", "sellaris", "sellaris (saddle)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["biaxial", "biaksial"]
+    },
+    "model": false
+  },
+  {
+    "key": "intermetacarpal-joints",
+    "kind": "joint",
+    "la": "Articulationes intermetacarpales",
+    "alt": ["Articulationes intermetacarpeae", "Artt. intermetacarpales"],
+    "en": "Intermetacarpal joints",
+    "desc": {
+      "en": "Small plane joints between the sides of the bases of the second to fifth metacarpals. Their cavities are continuous with the carpometacarpal joint cavity.",
+      "id": "Sendi plana kecil di antara sisi basis os metacarpi II sampai V. Rongganya bersambung dengan rongga sendi carpometacarpalis."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio plana",
+      "axes": "multiaxial",
+      "surfaces": "Bases ossium metacarpi II-V",
+      "movements": {
+        "en": "Slight gliding that accompanies movement at the carpometacarpal joints.",
+        "id": "Gerak meluncur sedikit yang menyertai gerakan sendi carpometacarpalis."
+      },
+      "ligaments": ["Ligamenta metacarpalia dorsalia", "Ligamenta metacarpalia palmaria", "Ligamenta metacarpalia interossea"]
+    },
+    "quiz": {
+      "type": ["Articulatio plana", "plana", "plana (gliding)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["multiaxial", "multiaksial", "nonaxial", "nonaksial"]
+    }
+  },
+  {
+    "key": "metacarpophalangeal-joints",
+    "kind": "joint",
+    "la": "Articulationes metacarpophalangeae",
+    "alt": ["Articulatio metacarpophalangea", "Artt. metacarpophalangeae", "Articulationes metacarpophalangeales"],
+    "en": "Metacarpophalangeal joints",
+    "desc": {
+      "en": "Joints between the heads of the metacarpals and the bases of the proximal phalanges, at the knuckles. In digits II to V they are condyloid joints that allow flexion, extension, abduction, adduction and circumduction.",
+      "id": "Sendi antara caput ossis metacarpi dan basis phalanx proximalis, pada buku-buku jari. Pada jari II sampai V, sendi ini bertipe ellipsoidea (kondiloid) yang memungkinkan fleksi, ekstensi, abduksi, adduksi dan sirkumduksi."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio ellipsoidea",
+      "complexity": "Articulatio simplex",
+      "axes": "biaxial",
+      "surfaces": "Caput ossis metacarpi et basis phalangis proximalis",
+      "movements": {
+        "en": "Flexion and extension, abduction and adduction (fingers spread from or brought back to the axis of the middle finger) and circumduction. The thumb joint moves mainly in flexion and extension.",
+        "id": "Fleksi dan ekstensi, abduksi dan adduksi (jari menjauhi atau mendekati sumbu jari tengah) serta sirkumduksi. Sendi ibu jari terutama bergerak fleksi dan ekstensi."
+      },
+      "ligaments": ["Ligamenta collateralia", "Ligamenta palmaria", "Ligamentum metacarpale transversum profundum"],
+      "stability": {
+        "en": "The metacarpal heads are wider on the palmar side, so the collateral ligaments are slack in extension and tight in flexion. The fingers can therefore be spread only when these joints are extended.",
+        "id": "Caput ossis metacarpi lebih lebar di sisi palmar, sehingga ligg. collateralia kendur saat ekstensi dan tegang saat fleksi. Akibatnya jari hanya dapat direnggangkan bila sendi ini dalam posisi ekstensi."
+      },
+      "clinical": {
+        "en": "When the hand must be immobilised, these joints are splinted in flexion so that the collateral ligaments do not shorten.",
+        "id": "Bila tangan harus diimobilisasi, sendi ini dibidai dalam posisi fleksi agar ligg. collateralia tidak memendek."
+      },
+      "note": {
+        "en": "The module and Moore describe them as ellipsoid (condyloid). Some atlases (Sobotta) call joints II to V ball-and-socket joints whose rotation is blocked by the collateral ligaments; in both descriptions they move about two axes.",
+        "id": "Modul dan Moore menyebutnya ellipsoidea (kondiloid). Sebagian atlas (Sobotta) menyebut sendi II sampai V sebagai spheroidea yang rotasinya dihambat ligg. collateralia; menurut kedua uraian, sendi ini bergerak pada dua sumbu."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio ellipsoidea", "ellipsoidea", "ellipsoidea (condyloid)", "Articulatio condylaris", "condylaris"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["biaxial", "biaksial"]
+    }
+  },
+  {
+    "key": "interphalangeal-joints-of-hand",
+    "kind": "joint",
+    "la": "Articulationes interphalangeae manus",
+    "alt": ["Articulationes interphalangeae", "Articulatio interphalangea", "Artt. interphalangeae manus", "Articulatio interphalangea proximalis", "Articulatio interphalangea distalis"],
+    "en": "Interphalangeal joints of hand",
+    "desc": {
+      "en": "Hinge joints between the head of one phalanx and the base of the next. Digits II to V each have a proximal (PIP) and a distal (DIP) joint; the thumb has a single interphalangeal joint.",
+      "id": "Sendi engsel antara caput satu phalanx dan basis phalanx berikutnya. Jari II sampai V masing-masing memiliki sendi interphalangea proksimal (PIP) dan distal (DIP); ibu jari hanya memiliki satu sendi interphalangea."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Ginglymus",
+      "complexity": "Articulatio simplex",
+      "axes": "uniaxial",
+      "surfaces": "Trochlea phalangis proximalis et mediae; basis phalangis mediae et distalis",
+      "movements": {
+        "en": "Flexion and extension only. The proximal joints flex further than the distal ones.",
+        "id": "Hanya fleksi dan ekstensi. Sendi proksimal dapat fleksi lebih jauh daripada sendi distal."
+      },
+      "ligaments": ["Ligamenta collateralia", "Ligamenta palmaria"],
+      "stability": {
+        "en": "Collateral ligaments prevent sideways movement, and the thick palmar ligament (volar plate) prevents hyperextension.",
+        "id": "Ligg. collateralia mencegah gerak ke samping, dan lig. palmare yang tebal (volar plate) mencegah hiperekstensi."
+      },
+      "clinical": {
+        "en": "Rupture of the central slip of the extensor expansion over the PIP joint gives a boutonniere deformity; avulsion of the terminal extensor tendon at the DIP joint gives a mallet finger.",
+        "id": "Putusnya bagian tengah aponeurosis dorsalis di atas sendi PIP menimbulkan deformitas boutonniere; avulsi ujung tendo ekstensor pada sendi DIP menimbulkan mallet finger."
+      }
+    },
+    "quiz": {
+      "type": ["Ginglymus", "ginglymus", "Articulatio ginglymus", "ginglymus (hinge)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["uniaxial", "uniaksial", "monoaxial"]
+    }
+  }
+]

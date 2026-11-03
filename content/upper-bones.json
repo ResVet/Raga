@@ -1,0 +1,339 @@
+[
+  {
+    "key": "clavicle",
+    "kind": "bone",
+    "la": "Clavicula",
+    "alt": ["Os clavicula"],
+    "en": "Clavicle",
+    "desc": {
+      "en": "S-shaped long bone lying horizontally at the root of the neck, palpable along its whole length. It is the only bony link between the upper limb and the trunk: its medial end meets the manubrium of the sternum and its lateral end meets the acromion of the scapula.",
+      "id": "Tulang panjang berbentuk huruf S yang terletak mendatar di pangkal leher dan dapat diraba di sepanjang tulangnya. Clavicula adalah satu-satunya penghubung tulang antara ekstremitas superior dan badan: ujung medialnya bersendi dengan manubrium sterni, ujung lateralnya dengan acromion scapulae."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Sternum", "Scapula"],
+      "features": ["acromial-end", "acromial-facet", "body-of-clavicle", "conoid-tubercle", "groove-for-subclavius-muscle", "impression-for-costoclavicular-ligament", "sternal-articular-surface", "sternal-end", "trapezoid-line", "tuberosity-for-coracoclavicular-ligament"],
+      "region": {"en": "Pectoral (shoulder) girdle", "id": "Gelang bahu (cingulum pectorale)"},
+      "clinical": {
+        "en": "One of the most frequently fractured bones, usually after a fall on the shoulder or on the outstretched hand. The break is typically at the junction of the middle and lateral thirds; sternocleidomastoid pulls the medial fragment up while the weight of the limb drags the lateral fragment down.",
+        "id": "Termasuk tulang yang paling sering patah, biasanya akibat jatuh bertumpu pada bahu atau tangan yang terulur. Fraktur umumnya terjadi di perbatasan sepertiga tengah dan sepertiga lateral; fragmen medial tertarik ke atas oleh m. sternocleidomastoideus, sedangkan fragmen lateral turun karena berat lengan."
+      },
+      "note": {
+        "en": "It is the first bone to begin ossifying (fifth to sixth week of embryonic life) and ossifies largely in membrane, unlike the other long bones.",
+        "id": "Clavicula adalah tulang pertama yang mulai mengalami osifikasi (minggu ke-5 sampai ke-6 masa embrio), dan sebagian besar melalui osifikasi intramembranosa, berbeda dengan tulang panjang lain."
+      }
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "scapula",
+    "kind": "bone",
+    "la": "Scapula",
+    "alt": ["Os scapula"],
+    "en": "Scapula",
+    "desc": {
+      "en": "Flat triangular bone on the posterolateral wall of the thorax, overlying the second to seventh ribs. Its lateral angle carries the glenoid cavity for the head of the humerus, and its spine, acromion and coracoid process give attachment to most of the shoulder muscles.",
+      "id": "Tulang pipih berbentuk segitiga di dinding posterolateral thorax, menutupi costa II sampai VII. Angulus lateralis-nya membawa cavitas glenoidalis untuk caput humeri, sedangkan spina scapulae, acromion dan processus coracoideus menjadi tempat melekat sebagian besar otot bahu."
+    },
+    "facts": {
+      "type": "Os planum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Clavicula", "Humerus"],
+      "features": ["acromial-angle", "acromion", "clavicular-facet", "coracoid-process", "costal-surface-of-scapula", "deltoid-tubercle", "glenoid-fossa", "glenoid-process-of-scapula", "inferior-angle-of-scapula", "infraglenoid-tubercle", "infraspinous-fossa", "lateral-angle-of-scapula", "lateral-border-of-scapula", "medial-border-of-scapula", "neck-of-scapula", "posterior-surface-of-scapula", "scapular-notch", "spine-of-scapula", "spinoglenoid-notch", "subscapular-fossa", "superior-angle-of-scapula", "superior-border-of-scapula", "supraglenoid-tubercle", "supraspinous-fossa", "muscular-lines-of-scapula"],
+      "region": {"en": "Pectoral (shoulder) girdle", "id": "Gelang bahu (cingulum pectorale)"},
+      "clinical": {
+        "en": "The scapula is thickly covered by muscle and rarely fractures. Paralysis of serratus anterior (long thoracic nerve injury) lets the medial border lift off the chest wall when the patient pushes against a wall: winged scapula.",
+        "id": "Scapula tertutup otot yang tebal sehingga jarang patah. Kelumpuhan m. serratus anterior (cedera n. thoracicus longus) membuat margo medialis terangkat dari dinding dada saat pasien mendorong dinding: winged scapula (scapula alata)."
+      }
+    },
+    "quiz": {
+      "type": ["Os planum", "planum", "tulang pipih"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "humerus",
+    "kind": "bone",
+    "la": "Humerus",
+    "alt": ["Os humerus", "Os humeri"],
+    "en": "Humerus",
+    "desc": {
+      "en": "The long bone of the arm, running from the shoulder to the elbow. Its rounded head fits the glenoid cavity of the scapula, and its distal condyle articulates with both the radius and the ulna.",
+      "id": "Tulang panjang lengan atas yang membentang dari bahu sampai siku. Caput humeri yang bulat bersendi dengan cavitas glenoidalis scapulae, sedangkan condylus humeri di ujung distal bersendi dengan radius dan ulna."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Scapula", "Radius", "Ulna"],
+      "features": ["anatomical-neck-of-humerus", "anterior-border-of-humerus", "anterolateral-surface-of-humerus", "anteromedial-surface-of-humerus", "body-of-humerus", "capitulum-of-humerus", "condyle-of-humerus", "coronoid-fossa", "crest-of-greater-tubercle", "crest-of-lesser-tubercle", "deltoid-tuberosity", "greater-tubercle", "groove-for-ulnar-nerve", "head-of-humerus", "intertubercular-sulcus", "lateral-border-of-humerus", "lateral-epicondyle-of-humerus", "lateral-supracondylar-ridge", "lesser-tubercle", "medial-border-of-humerus", "medial-epicondyle-of-humerus", "medial-supracondylar-ridge", "olecranon-fossa", "posterior-surface-of-humerus", "radial-fossa", "radial-groove", "surgical-neck-of-humerus", "trochlea-of-humerus"],
+      "region": {"en": "Arm (brachium)", "id": "Lengan atas (regio brachii)"},
+      "clinical": {
+        "en": "A fracture of the surgical neck can injure the axillary nerve, a shaft fracture at the radial groove can injure the radial nerve (wrist drop), and a fracture of the medial epicondyle can injure the ulnar nerve. Supracondylar fractures in children may damage the brachial artery and the median nerve.",
+        "id": "Fraktur collum chirurgicum dapat mencederai n. axillaris, fraktur corpus setinggi sulcus nervi radialis dapat mencederai n. radialis (wrist drop), dan fraktur epicondylus medialis dapat mencederai n. ulnaris. Fraktur suprakondiler pada anak dapat merusak a. brachialis dan n. medianus."
+      }
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "radius",
+    "kind": "bone",
+    "la": "Radius",
+    "alt": ["Os radius", "Os radii"],
+    "en": "Radius",
+    "desc": {
+      "en": "The lateral bone of the forearm, on the thumb side. It is slender at the elbow, where its head rotates against the ulna and the capitulum of the humerus, and broad at the wrist, where it forms most of the radiocarpal joint.",
+      "id": "Tulang lateral lengan bawah, pada sisi ibu jari. Ujung proksimalnya ramping, caput radii berputar terhadap ulna dan capitulum humeri; ujung distalnya lebar dan membentuk sebagian besar sendi radiocarpalis."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Humerus", "Ulna", "Os scaphoideum", "Os lunatum"],
+      "features": ["anterior-border-of-radius", "anterior-surface-of-radius", "articular-circumference-of-head-of-radius", "articular-facet-of-head-of-radius", "body-of-radius", "carpal-articular-surface", "dorsal-radial-tubercle", "grooves-for-extensor-tendons", "head-of-radius", "interosseous-border-of-radius", "lateral-surface-of-radius", "neck-of-radius", "posterior-border-of-radius", "posterior-surface-of-radius", "pronator-tuberosity", "radial-styloid-process", "radial-tuberosity", "suprastyloid-crest", "ulnar-notch"],
+      "region": {"en": "Forearm (antebrachium)", "id": "Lengan bawah (regio antebrachii)"},
+      "clinical": {
+        "en": "A fall on the outstretched hand commonly fractures the distal radius (Colles fracture). The distal fragment is displaced dorsally and shortened, giving the 'dinner fork' deformity.",
+        "id": "Jatuh bertumpu pada tangan yang terulur sering menyebabkan fraktur radius distal (fraktur Colles). Fragmen distal bergeser ke dorsal dan memendek sehingga tampak deformitas 'garpu makan' (dinner fork)."
+      }
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "ulna",
+    "kind": "bone",
+    "la": "Ulna",
+    "alt": ["Os ulna", "Os ulnae"],
+    "en": "Ulna",
+    "desc": {
+      "en": "The medial bone of the forearm, on the little finger side. It is large at the elbow, where the trochlear notch grips the trochlea of the humerus, and small at the wrist, where its head is separated from the carpal bones by the articular disc.",
+      "id": "Tulang medial lengan bawah, pada sisi jari kelingking. Ujung proksimalnya besar, incisura trochlearis menjepit trochlea humeri; ujung distalnya kecil, caput ulnae dipisahkan dari ossa carpi oleh discus articularis."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Humerus", "Radius"],
+      "features": ["anterior-border-of-ulna", "anterior-surface-of-ulna", "articular-circumference-of-head-of-ulna", "body-of-ulna", "coronoid-process-of-ulna", "head-of-ulna", "interosseous-border-of-ulna", "medial-surface-of-ulna", "olecranon", "posterior-border-of-ulna", "posterior-surface-of-ulna", "radial-notch", "sublime-tubercle", "supinator-crest", "trochlear-notch", "tuberosity-of-ulna", "ulnar-styloid-process"],
+      "region": {"en": "Forearm (antebrachium)", "id": "Lengan bawah (regio antebrachii)"},
+      "clinical": {
+        "en": "A fracture of the ulnar shaft combined with dislocation of the radial head is a Monteggia fracture. A fall on the point of the elbow can fracture the olecranon, and triceps then pulls the proximal fragment upward.",
+        "id": "Fraktur corpus ulnae disertai dislokasi caput radii disebut fraktur Monteggia. Jatuh dengan siku sebagai tumpuan dapat mematahkan olecranon, lalu m. triceps brachii menarik fragmen proksimal ke atas."
+      }
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "scaphoid-bone",
+    "kind": "bone",
+    "la": "Os scaphoideum",
+    "alt": ["Scaphoideum", "Os scaphoideum manus", "Os naviculare manus"],
+    "en": "Scaphoid",
+    "desc": {
+      "en": "The largest bone of the proximal carpal row, on its lateral side. It articulates with the radius, links the proximal and distal rows, and lies in the floor of the anatomical snuffbox.",
+      "id": "Tulang terbesar pada baris proksimal ossa carpi, di sisi lateral. Os scaphoideum bersendi dengan radius, menghubungkan baris proksimal dan distal, serta terletak di dasar anatomical snuffbox (tabatiere anatomique)."
+    },
+    "facts": {
+      "type": "Os breve",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Radius", "Os lunatum", "Os capitatum", "Os trapezium", "Os trapezoideum"],
+      "features": ["tubercle-of-scaphoid-bone"],
+      "region": {"en": "Wrist (carpus), proximal row", "id": "Pergelangan tangan (carpus), baris proksimal"},
+      "clinical": {
+        "en": "The most commonly fractured carpal bone, usually across its waist after a fall on the outstretched hand; tenderness in the anatomical snuffbox suggests it. Vessels enter mainly at the distal end, so the proximal fragment may undergo avascular necrosis.",
+        "id": "Tulang carpal yang paling sering patah, biasanya pada bagian pinggangnya setelah jatuh bertumpu pada tangan yang terulur; nyeri tekan di anatomical snuffbox mengarah ke fraktur ini. Pembuluh darah masuk terutama dari ujung distal, sehingga fragmen proksimal dapat mengalami nekrosis avaskular."
+      }
+    },
+    "quiz": {
+      "type": ["Os breve", "breve", "Os brevis", "tulang pendek"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "lunate-bone",
+    "kind": "bone",
+    "la": "Os lunatum",
+    "alt": ["Lunatum", "Os lunatum manus"],
+    "en": "Lunate",
+    "desc": {
+      "en": "Crescent-shaped bone in the middle of the proximal carpal row, between the scaphoid and the triquetrum. It articulates with the radius proximally and with the head of the capitate distally.",
+      "id": "Tulang berbentuk bulan sabit di tengah baris proksimal ossa carpi, di antara os scaphoideum dan os triquetrum. Di proksimal bersendi dengan radius, di distal dengan caput ossis capitati."
+    },
+    "facts": {
+      "type": "Os breve",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Radius", "Os scaphoideum", "Os triquetrum", "Os capitatum"],
+      "region": {"en": "Wrist (carpus), proximal row", "id": "Pergelangan tangan (carpus), baris proksimal"},
+      "clinical": {
+        "en": "The most commonly dislocated carpal bone. It usually dislocates anteriorly into the carpal tunnel, where it can compress the median nerve. Avascular necrosis of the lunate is called Kienböck disease.",
+        "id": "Tulang carpal yang paling sering mengalami dislokasi. Biasanya bergeser ke anterior masuk ke canalis carpi dan dapat menekan n. medianus. Nekrosis avaskular os lunatum disebut penyakit Kienböck."
+      }
+    },
+    "quiz": {
+      "type": ["Os breve", "breve", "Os brevis", "tulang pendek"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "triquetrum-bone",
+    "kind": "bone",
+    "la": "Os triquetrum",
+    "alt": ["Triquetrum", "Os triquetrale", "Os pyramidale"],
+    "en": "Triquetrum",
+    "desc": {
+      "en": "Pyramid-shaped bone on the medial side of the proximal carpal row. Its palmar surface has a small oval facet for the pisiform, and its proximal surface rests against the articular disc of the wrist.",
+      "id": "Tulang berbentuk piramid di sisi medial baris proksimal ossa carpi. Permukaan palmarnya memiliki faset kecil untuk os pisiforme, dan permukaan proksimalnya menempel pada discus articularis pergelangan tangan."
+    },
+    "facts": {
+      "type": "Os breve",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os lunatum", "Os pisiforme", "Os hamatum"],
+      "region": {"en": "Wrist (carpus), proximal row", "id": "Pergelangan tangan (carpus), baris proksimal"},
+      "clinical": {
+        "en": "A small dorsal avulsion (chip) fracture of the triquetrum is the second most common carpal fracture after the scaphoid.",
+        "id": "Fraktur avulsi kecil di dorsal os triquetrum adalah fraktur carpal kedua tersering setelah os scaphoideum."
+      }
+    },
+    "quiz": {
+      "type": ["Os breve", "breve", "Os brevis", "tulang pendek"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "pisiform-bone",
+    "kind": "bone",
+    "la": "Os pisiforme",
+    "alt": ["Pisiforme"],
+    "en": "Pisiform",
+    "desc": {
+      "en": "Small pea-shaped bone on the palmar surface of the triquetrum, lying within the tendon of flexor carpi ulnaris. It is easily felt at the base of the hypothenar eminence.",
+      "id": "Tulang kecil sebesar kacang polong di permukaan palmar os triquetrum, terletak di dalam tendo m. flexor carpi ulnaris. Mudah diraba di pangkal eminentia hypothenaris."
+    },
+    "facts": {
+      "type": "Os sesamoideum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os triquetrum"],
+      "region": {"en": "Wrist (carpus), proximal row", "id": "Pergelangan tangan (carpus), baris proksimal"},
+      "note": {
+        "en": "It is listed with the proximal carpal row but is a sesamoid bone in the tendon of flexor carpi ulnaris, and it takes no part in the radiocarpal joint. It gives attachment to flexor carpi ulnaris, abductor digiti minimi, the flexor retinaculum and the pisohamate and pisometacarpal ligaments.",
+        "id": "Os pisiforme dimasukkan ke baris proksimal ossa carpi, tetapi sebenarnya merupakan tulang sesamoid di dalam tendo m. flexor carpi ulnaris dan tidak ikut membentuk sendi radiocarpalis. Tempat melekat m. flexor carpi ulnaris, m. abductor digiti minimi, retinaculum musculorum flexorum, lig. pisohamatum dan lig. pisometacarpale."
+      },
+      "clinical": {
+        "en": "The ulnar nerve and artery pass lateral to it in the ulnar canal (Guyon canal) at the wrist.",
+        "id": "N. ulnaris dan a. ulnaris berjalan di sisi lateralnya di dalam canalis ulnaris (kanal Guyon) di pergelangan tangan."
+      }
+    },
+    "quiz": {
+      "type": ["Os sesamoideum", "sesamoideum", "Os sesamoid", "tulang sesamoid", "Os breve"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "trapezium-bone",
+    "kind": "bone",
+    "la": "Os trapezium",
+    "alt": ["Trapezium", "Os multangulum majus"],
+    "en": "Trapezium",
+    "desc": {
+      "en": "Lateral bone of the distal carpal row. Its saddle-shaped distal surface forms the carpometacarpal joint of the thumb, and its palmar tubercle bounds a groove for the tendon of flexor carpi radialis.",
+      "id": "Tulang paling lateral pada baris distal ossa carpi. Permukaan distalnya berbentuk pelana dan membentuk sendi carpometacarpalis ibu jari; tuberculum di permukaan palmarnya membatasi alur untuk tendo m. flexor carpi radialis."
+    },
+    "facts": {
+      "type": "Os breve",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os scaphoideum", "Os trapezoideum", "Os metacarpi I", "Os metacarpi II"],
+      "features": ["tubercle-of-trapezium-bone"],
+      "region": {"en": "Wrist (carpus), distal row", "id": "Pergelangan tangan (carpus), baris distal"},
+      "clinical": {
+        "en": "Osteoarthritis of the joint between the trapezium and the first metacarpal is a common cause of pain at the base of the thumb.",
+        "id": "Osteoartritis pada sendi antara os trapezium dan os metacarpi I sering menjadi penyebab nyeri di pangkal ibu jari."
+      }
+    },
+    "quiz": {
+      "type": ["Os breve", "breve", "Os brevis", "tulang pendek"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "trapezoid-bone",
+    "kind": "bone",
+    "la": "Os trapezoideum",
+    "alt": ["Trapezoideum", "Os multangulum minus"],
+    "en": "Trapezoid",
+    "desc": {
+      "en": "Small wedge-shaped bone between the trapezium and the capitate, the smallest bone of the distal carpal row. It fits into the notched base of the second metacarpal.",
+      "id": "Tulang kecil berbentuk baji di antara os trapezium dan os capitatum, tulang terkecil pada baris distal ossa carpi. Tulang ini masuk ke lekukan pada basis os metacarpi II."
+    },
+    "facts": {
+      "type": "Os breve",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os scaphoideum", "Os trapezium", "Os capitatum", "Os metacarpi II"],
+      "region": {"en": "Wrist (carpus), distal row", "id": "Pergelangan tangan (carpus), baris distal"}
+    },
+    "quiz": {
+      "type": ["Os breve", "breve", "Os brevis", "tulang pendek"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "capitate-bone",
+    "kind": "bone",
+    "la": "Os capitatum",
+    "alt": ["Capitatum", "Os magnum"],
+    "en": "Capitate",
+    "desc": {
+      "en": "The largest carpal bone, in the centre of the distal row. Its rounded head sits in the concavity formed by the scaphoid and lunate, and its base articulates mainly with the third metacarpal.",
+      "id": "Tulang carpal terbesar, terletak di tengah baris distal. Caput-nya yang bulat masuk ke cekungan yang dibentuk os scaphoideum dan os lunatum, sedangkan basisnya terutama bersendi dengan os metacarpi III."
+    },
+    "facts": {
+      "type": "Os breve",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os scaphoideum", "Os lunatum", "Os trapezoideum", "Os hamatum", "Os metacarpi II", "Os metacarpi III", "Os metacarpi IV"],
+      "region": {"en": "Wrist (carpus), distal row", "id": "Pergelangan tangan (carpus), baris distal"},
+      "note": {
+        "en": "It is the first carpal bone to ossify, in the first months after birth; the pisiform is the last, at about 9 to 12 years. This sequence is used to estimate bone age on hand radiographs.",
+        "id": "Os capitatum adalah tulang carpal pertama yang mengalami osifikasi, pada bulan-bulan pertama setelah lahir; os pisiforme yang terakhir, sekitar usia 9-12 tahun. Urutan ini dipakai untuk menilai usia tulang pada foto rontgen tangan."
+      }
+    },
+    "quiz": {
+      "type": ["Os breve", "breve", "Os brevis", "tulang pendek"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "hamate-bone",
+    "kind": "bone",
+    "la": "Os hamatum",
+    "alt": ["Hamatum", "Os uncinatum"],
+    "en": "Hamate",
+    "desc": {
+      "en": "Wedge-shaped bone on the medial side of the distal carpal row, with a hook (hamulus) projecting from its palmar surface. Distally it articulates with the fourth and fifth metacarpals.",
+      "id": "Tulang berbentuk baji di sisi medial baris distal ossa carpi, dengan tonjolan berbentuk kait (hamulus) pada permukaan palmarnya. Di distal bersendi dengan os metacarpi IV dan V."
+    },
+    "facts": {
+      "type": "Os breve",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os triquetrum", "Os capitatum", "Os metacarpi IV", "Os metacarpi V"],
+      "features": ["hook-of-hamate-bone"],
+      "region": {"en": "Wrist (carpus), distal row", "id": "Pergelangan tangan (carpus), baris distal"},
+      "clinical": {
+        "en": "The hook can fracture in golf, baseball or racquet sports. The deep branch of the ulnar nerve curves around the hook, so a fracture may injure it.",
+        "id": "Hamulus dapat patah pada olahraga golf, bisbol atau raket. Ramus profundus n. ulnaris melengkung di sekitar hamulus sehingga dapat ikut cedera."
+      }
+    },
+    "quiz": {
+      "type": ["Os breve", "breve", "Os brevis", "tulang pendek"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  }
+]

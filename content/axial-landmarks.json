@@ -1,0 +1,2023 @@
+[
+ {
+  "key": "anterior-arch-of-atlas",
+  "kind": "landmark",
+  "la": "Arcus anterior atlantis",
+  "alt": [],
+  "en": "Anterior arch of atlas",
+  "desc": {
+   "en": "The short curved front part of the ring of the atlas. Its back carries the facet for the dens and its front the anterior tubercle.",
+   "id": "Bagian depan cincin atlas yang pendek dan melengkung. Permukaan belakangnya memuat fovea dentis dan permukaan depannya tuberculum anterius."
+  },
+  "facts": {
+   "bone": "atlas-c1",
+   "attach": {
+    "en": "Anterior atlanto-occipital membrane (upper border), anterior atlanto-axial ligament (lower border).",
+    "id": "Membrana atlantooccipitalis anterior (tepi atas), ligamentum atlantoaxiale anterius (tepi bawah)."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Atlas",
+    "Vertebra cervicalis I",
+    "C1"
+   ]
+  }
+ },
+ {
+  "key": "anterior-tubercle-of-atlas",
+  "kind": "landmark",
+  "la": "Tuberculum anterius atlantis",
+  "alt": [],
+  "en": "Anterior tubercle of atlas",
+  "desc": {
+   "en": "A small midline bump on the front of the anterior arch of the atlas.",
+   "id": "Tonjolan kecil di garis tengah permukaan depan arcus anterior atlantis."
+  },
+  "facts": {
+   "bone": "atlas-c1",
+   "attach": {
+    "en": "Longus colli (superior oblique part) and the anterior longitudinal ligament.",
+    "id": "M. longus colli (pars obliqua superior) dan ligamentum longitudinale anterius."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Atlas",
+    "Vertebra cervicalis I",
+    "C1"
+   ]
+  }
+ },
+ {
+  "key": "canal-for-vertebral-artery",
+  "kind": "landmark",
+  "la": "Canalis arteriae vertebralis",
+  "alt": [
+   "Foramen arcuale"
+  ],
+  "en": "Canal for vertebral artery",
+  "desc": {
+   "en": "A bony tunnel over the groove for the vertebral artery on the posterior arch of the atlas, formed when a bridge of bone (posterior ponticle) roofs the groove; it is present in a minority of people.",
+   "id": "Terowongan tulang di atas sulcus arteriae vertebralis pada arcus posterior atlantis, terbentuk bila jembatan tulang (ponticulus posterior) menutupi alur tersebut; hanya ditemukan pada sebagian orang."
+  },
+  "facts": {
+   "bone": "atlas-c1",
+   "clinical": {
+    "en": "The canal can be mistaken for a fracture on radiographs and matters when screws are placed in the lateral mass of C1.",
+    "id": "Kanal ini dapat dikira fraktur pada foto rontgen dan penting diperhatikan saat pemasangan sekrup pada massa lateralis C1."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Atlas",
+    "Vertebra cervicalis I",
+    "C1"
+   ]
+  },
+  "verify": true
+ },
+ {
+  "key": "facet-for-dens",
+  "kind": "landmark",
+  "la": "Fovea dentis",
+  "alt": [
+   "Fovea dentis atlantis"
+  ],
+  "en": "Facet for dens",
+  "desc": {
+   "en": "An oval facet on the back of the anterior arch of the atlas that articulates with the anterior facet of the dens (median atlanto-axial joint).",
+   "id": "Fovea lonjong di permukaan belakang arcus anterior atlantis yang bersendi dengan facies articularis anterior dentis (articulatio atlantoaxialis mediana)."
+  },
+  "facts": {
+   "bone": "atlas-c1"
+  },
+  "quiz": {
+   "bone": [
+    "Atlas",
+    "Vertebra cervicalis I",
+    "C1"
+   ]
+  }
+ },
+ {
+  "key": "groove-for-vertebral-artery",
+  "kind": "landmark",
+  "la": "Sulcus arteriae vertebralis",
+  "alt": [],
+  "en": "Groove for vertebral artery",
+  "desc": {
+   "en": "A groove on the upper surface of the posterior arch, behind each lateral mass. The vertebral artery lies in it after leaving the foramen transversarium of the atlas and before entering the foramen magnum; the suboccipital nerve (C1) runs below the artery.",
+   "id": "Alur di permukaan atas arcus posterior, di belakang tiap massa lateralis. A. vertebralis berjalan di alur ini setelah keluar dari foramen transversarium atlas dan sebelum masuk foramen magnum; n. suboccipitalis (C1) berjalan di bawah arteri."
+  },
+  "facts": {
+   "bone": "atlas-c1"
+  },
+  "quiz": {
+   "bone": [
+    "Atlas",
+    "Vertebra cervicalis I",
+    "C1"
+   ]
+  }
+ },
+ {
+  "key": "inferior-articular-surface-of-atlas",
+  "kind": "landmark",
+  "la": "Facies articularis inferior atlantis",
+  "alt": [],
+  "en": "Inferior articular facet of atlas",
+  "desc": {
+   "en": "The round, nearly flat facet under each lateral mass that rests on the superior facet of the axis (lateral atlanto-axial joint).",
+   "id": "Facies articularis yang bulat dan hampir datar di bawah tiap massa lateralis, bertumpu pada facies articularis superior axis (articulatio atlantoaxialis lateralis)."
+  },
+  "facts": {
+   "bone": "atlas-c1"
+  },
+  "quiz": {
+   "bone": [
+    "Atlas",
+    "Vertebra cervicalis I",
+    "C1"
+   ]
+  }
+ },
+ {
+  "key": "lateral-mass",
+  "kind": "landmark",
+  "la": "Massa lateralis atlantis",
+  "alt": [
+   "Massa lateralis"
+  ],
+  "en": "Lateral mass of atlas",
+  "desc": {
+   "en": "The thick weight-bearing block on each side of the atlas, carrying the superior and inferior articular facets; the transverse process projects from it.",
+   "id": "Bagian tebal penahan beban di kiri dan kanan atlas yang memuat facies articularis superior dan inferior; processus transversus menonjol dari bagian ini."
+  },
+  "facts": {
+   "bone": "atlas-c1",
+   "attach": {
+    "en": "Transverse ligament of the atlas (on the tubercle of its medial side).",
+    "id": "Ligamentum transversum atlantis (pada tuberculum di sisi medialnya)."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Atlas",
+    "Vertebra cervicalis I",
+    "C1"
+   ]
+  }
+ },
+ {
+  "key": "posterior-arch-of-atlas",
+  "kind": "landmark",
+  "la": "Arcus posterior atlantis",
+  "alt": [],
+  "en": "Posterior arch of atlas",
+  "desc": {
+   "en": "The longer curved back part of the ring of the atlas, equivalent to the laminae of other vertebrae, with the vertebral artery groove on its upper surface.",
+   "id": "Bagian belakang cincin atlas yang lebih panjang dan melengkung, setara dengan lamina vertebra lain, dengan sulcus arteriae vertebralis di permukaan atasnya."
+  },
+  "facts": {
+   "bone": "atlas-c1",
+   "attach": {
+    "en": "Posterior atlanto-occipital membrane (upper border) and the ligamentum flavum to C2 (lower border).",
+    "id": "Membrana atlantooccipitalis posterior (tepi atas) dan ligamentum flavum ke C2 (tepi bawah)."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Atlas",
+    "Vertebra cervicalis I",
+    "C1"
+   ]
+  }
+ },
+ {
+  "key": "posterior-tubercle-of-atlas",
+  "kind": "landmark",
+  "la": "Tuberculum posterius atlantis",
+  "alt": [],
+  "en": "Posterior tubercle of atlas",
+  "desc": {
+   "en": "A small midline bump on the back of the posterior arch, the remnant of a spinous process.",
+   "id": "Tonjolan kecil di garis tengah belakang arcus posterior, sisa processus spinosus."
+  },
+  "facts": {
+   "bone": "atlas-c1",
+   "attach": {
+    "en": "Rectus capitis posterior minor and the nuchal ligament.",
+    "id": "M. rectus capitis posterior minor dan ligamentum nuchae."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Atlas",
+    "Vertebra cervicalis I",
+    "C1"
+   ]
+  }
+ },
+ {
+  "key": "superior-articular-surface-of-atlas",
+  "kind": "landmark",
+  "la": "Facies articularis superior atlantis",
+  "alt": [],
+  "en": "Superior articular facet of atlas",
+  "desc": {
+   "en": "The large, concave, kidney-shaped facet on top of each lateral mass that receives the occipital condyle (atlanto-occipital joint).",
+   "id": "Facies articularis besar, cekung, dan berbentuk ginjal di atas tiap massa lateralis, tempat condylus occipitalis (articulatio atlantooccipitalis)."
+  },
+  "facts": {
+   "bone": "atlas-c1"
+  },
+  "quiz": {
+   "bone": [
+    "Atlas",
+    "Vertebra cervicalis I",
+    "C1"
+   ]
+  }
+ },
+ {
+  "key": "transverse-ligament-tubercle",
+  "kind": "landmark",
+  "la": "Tuberculum ligamenti transversi atlantis",
+  "alt": [
+   "Tuberculum ligamenti transversi"
+  ],
+  "en": "Tubercle for transverse ligament of atlas",
+  "desc": {
+   "en": "A tubercle on the medial side of each lateral mass for the attachment of the transverse ligament of the atlas.",
+   "id": "Tonjolan di sisi medial tiap massa lateralis, tempat melekat ligamentum transversum atlantis."
+  },
+  "facts": {
+   "bone": "atlas-c1",
+   "attach": {
+    "en": "Transverse ligament of the atlas, which holds the dens against the anterior arch.",
+    "id": "Ligamentum transversum atlantis yang menahan dens pada arcus anterior."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Atlas",
+    "Vertebra cervicalis I",
+    "C1"
+   ]
+  }
+ },
+ {
+  "key": "anterior-articular-facet-of-dens-axis",
+  "kind": "landmark",
+  "la": "Facies articularis anterior dentis",
+  "alt": [
+   "Facies articularis anterior dentis axis"
+  ],
+  "en": "Anterior articular facet of dens",
+  "desc": {
+   "en": "An oval facet on the front of the dens that articulates with the facet on the anterior arch of the atlas.",
+   "id": "Facies articularis lonjong di depan dens yang bersendi dengan fovea dentis pada arcus anterior atlantis."
+  },
+  "facts": {
+   "bone": "axis-c2"
+  },
+  "quiz": {
+   "bone": [
+    "Axis",
+    "Vertebra cervicalis II",
+    "C2"
+   ]
+  }
+ },
+ {
+  "key": "apex-of-dens-axis",
+  "kind": "landmark",
+  "la": "Apex dentis",
+  "alt": [
+   "Apex dentis axis"
+  ],
+  "en": "Apex of dens",
+  "desc": {
+   "en": "The pointed tip of the dens.",
+   "id": "Ujung runcing dens axis."
+  },
+  "facts": {
+   "bone": "axis-c2",
+   "attach": {
+    "en": "Apical ligament of the dens; the alar ligaments attach to the sides of the dens just below it.",
+    "id": "Ligamentum apicis dentis; ligamenta alaria melekat pada sisi dens tepat di bawahnya."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Axis",
+    "Vertebra cervicalis II",
+    "C2"
+   ]
+  }
+ },
+ {
+  "key": "dens-axis",
+  "kind": "landmark",
+  "la": "Dens axis",
+  "alt": [
+   "Processus odontoideus",
+   "Dens"
+  ],
+  "en": "Dens (odontoid process)",
+  "desc": {
+   "en": "The tooth-like process that projects up from the body of the axis into the ring of the atlas; developmentally it is the body of the atlas. The atlas and head rotate around it.",
+   "id": "Tonjolan seperti gigi yang menonjol ke atas dari corpus axis masuk ke cincin atlas; secara embriologis dens adalah corpus atlas. Atlas dan kepala berputar di sekelilingnya."
+  },
+  "facts": {
+   "bone": "axis-c2",
+   "attach": {
+    "en": "Apical and alar ligaments; held by the transverse ligament of the atlas.",
+    "id": "Ligamentum apicis dentis dan ligamenta alaria; ditahan ligamentum transversum atlantis."
+   },
+   "clinical": {
+    "en": "Fractures of the dens, often at its base, and laxity of the transverse ligament (rheumatoid arthritis, Down syndrome) can let the dens compress the spinal cord.",
+    "id": "Fraktur dens, sering di pangkalnya, dan kendurnya ligamentum transversum (artritis reumatoid, sindrom Down) dapat membuat dens menekan medulla spinalis."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Axis",
+    "Vertebra cervicalis II",
+    "C2"
+   ]
+  }
+ },
+ {
+  "key": "posterior-articular-facet-of-dens-axis",
+  "kind": "landmark",
+  "la": "Facies articularis posterior dentis",
+  "alt": [
+   "Facies articularis posterior dentis axis"
+  ],
+  "en": "Posterior articular facet of dens",
+  "desc": {
+   "en": "A smooth groove on the back of the dens where the transverse ligament of the atlas glides.",
+   "id": "Alur halus di belakang dens tempat ligamentum transversum atlantis bergeser."
+  },
+  "facts": {
+   "bone": "axis-c2"
+  },
+  "quiz": {
+   "bone": [
+    "Axis",
+    "Vertebra cervicalis II",
+    "C2"
+   ]
+  }
+ },
+ {
+  "key": "anterior-tubercle-of-transverse-process",
+  "kind": "landmark",
+  "la": "Tuberculum anterius processus transversi",
+  "alt": [
+   "Tuberculum anterius vertebrae cervicalis"
+  ],
+  "en": "Anterior tubercle of transverse process",
+  "desc": {
+   "en": "The front end of the transverse process of a cervical vertebra, part of its rib element. On C6 it is large and is called the carotid tubercle.",
+   "id": "Ujung depan processus transversus vertebra cervicalis, bagian dari unsur costa-nya. Pada C6 tonjolan ini besar dan disebut tuberculum caroticum."
+  },
+  "facts": {
+   "bone": "cervical-vertebra",
+   "attach": {
+    "en": "Scalenus anterior (C3-C6), longus capitis and longus colli.",
+    "id": "M. scalenus anterior (C3-C6), m. longus capitis, dan m. longus colli."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra cervicalis",
+    "Vertebrae cervicales"
+   ]
+  }
+ },
+ {
+  "key": "foramen-transversarium",
+  "kind": "landmark",
+  "la": "Foramen transversarium",
+  "alt": [],
+  "en": "Foramen transversarium",
+  "desc": {
+   "en": "The opening in the transverse process of every cervical vertebra. The vertebral artery, its veins and sympathetic plexus pass up through those of C6 to C1; the small foramen of C7 usually carries only accessory veins.",
+   "id": "Lubang pada processus transversus setiap vertebra cervicalis. A. vertebralis beserta venanya dan plexus sympathicus naik melalui foramen C6 sampai C1; foramen C7 yang kecil biasanya hanya dilalui vena accessoria."
+  },
+  "facts": {
+   "bone": "cervical-vertebra",
+   "clinical": {
+    "en": "This foramen identifies a cervical vertebra at a glance.",
+    "id": "Foramen ini menjadi ciri pengenal vertebra cervicalis."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra cervicalis",
+    "Vertebrae cervicales"
+   ]
+  }
+ },
+ {
+  "key": "groove-for-spinal-nerve",
+  "kind": "landmark",
+  "la": "Sulcus nervi spinalis",
+  "alt": [],
+  "en": "Groove for spinal nerve",
+  "desc": {
+   "en": "A gutter on the upper surface of the transverse process, between the anterior and posterior tubercles, that carries the anterior ramus of the spinal nerve.",
+   "id": "Alur di permukaan atas processus transversus, di antara tuberculum anterius dan posterius, yang dilalui ramus anterior n. spinalis."
+  },
+  "facts": {
+   "bone": "cervical-vertebra"
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra cervicalis",
+    "Vertebrae cervicales"
+   ]
+  }
+ },
+ {
+  "key": "posterior-tubercle-of-transverse-process",
+  "kind": "landmark",
+  "la": "Tuberculum posterius processus transversi",
+  "alt": [
+   "Tuberculum posterius vertebrae cervicalis"
+  ],
+  "en": "Posterior tubercle of transverse process",
+  "desc": {
+   "en": "The back end of the transverse process of a cervical vertebra.",
+   "id": "Ujung belakang processus transversus vertebra cervicalis."
+  },
+  "facts": {
+   "bone": "cervical-vertebra",
+   "attach": {
+    "en": "Scalenus medius and posterior, levator scapulae, splenius cervicis, longissimus cervicis and iliocostalis cervicis.",
+    "id": "M. scalenus medius dan posterior, m. levator scapulae, m. splenius cervicis, m. longissimus cervicis, dan m. iliocostalis cervicis."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra cervicalis",
+    "Vertebrae cervicales"
+   ]
+  }
+ },
+ {
+  "key": "uncinate-process-of-vertebra",
+  "kind": "landmark",
+  "la": "Uncus corporis vertebrae",
+  "alt": [
+   "Processus uncinatus vertebrae",
+   "Processus uncinatus",
+   "Uncus corporis"
+  ],
+  "en": "Uncinate process",
+  "desc": {
+   "en": "A raised lip on each side of the upper surface of the bodies of C3-C7, which meets the bevelled lower edge of the body above at the uncovertebral joint.",
+   "id": "Bibir tulang yang menonjol di kiri dan kanan permukaan atas corpus C3-C7, bertemu tepi bawah corpus di atasnya yang miring pada articulatio uncovertebralis."
+  },
+  "facts": {
+   "bone": "cervical-vertebra",
+   "clinical": {
+    "en": "Bony spurs from these processes can narrow the intervertebral foramen and press on a cervical nerve root.",
+    "id": "Osteofit dari processus ini dapat menyempitkan foramen intervertebrale dan menekan radix n. cervicalis."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra cervicalis",
+    "Vertebrae cervicales"
+   ]
+  }
+ },
+ {
+  "key": "annular-epiphysis",
+  "kind": "landmark",
+  "la": "Epiphysis anularis",
+  "alt": [
+   "Anulus epiphysialis"
+  ],
+  "en": "Annular epiphysis (ring apophysis)",
+  "desc": {
+   "en": "The smooth raised rim around the edge of the upper and lower surfaces of a vertebral body. It ossifies separately in adolescence and later fuses with the body.",
+   "id": "Bibir halus yang menonjol di tepi permukaan atas dan bawah corpus vertebrae. Bagian ini menulang tersendiri pada masa remaja lalu menyatu dengan corpus."
+  },
+  "facts": {
+   "bone": "vertebra",
+   "attach": {
+    "en": "Outer fibres of the anulus fibrosus.",
+    "id": "Serabut luar anulus fibrosus."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra"
+   ]
+  }
+ },
+ {
+  "key": "costal-part-of-transverse-process",
+  "kind": "landmark",
+  "la": "Pars costalis processus transversi",
+  "alt": [
+   "Processus costiformis",
+   "Processus costalis"
+  ],
+  "en": "Costal part of transverse process",
+  "desc": {
+   "en": "The part of the transverse process that develops from a rib element. In lumbar vertebrae it forms most of the long, slender transverse process, which TA98 calls the costal process; in cervical vertebrae it is the bar ending in the anterior tubercle.",
+   "id": "Bagian processus transversus yang berkembang dari unsur costa. Pada vertebra lumbalis bagian ini membentuk sebagian besar processus transversus yang panjang dan ramping, yang dalam TA98 disebut processus costiformis; pada vertebra cervicalis berupa batang yang berakhir pada tuberculum anterius."
+  },
+  "facts": {
+   "bone": "lumbar-vertebra",
+   "attach": {
+    "en": "Quadratus lumborum, psoas major, intertransversarii and the thoracolumbar fascia attach to the lumbar transverse processes.",
+    "id": "M. quadratus lumborum, m. psoas major, mm. intertransversarii, dan fascia thoracolumbalis melekat pada processus transversus lumbal."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra lumbalis",
+    "Vertebrae lumbales"
+   ]
+  }
+ },
+ {
+  "key": "inferior-articular-facet-of-vertebra",
+  "kind": "landmark",
+  "la": "Facies articularis inferior vertebrae",
+  "alt": [
+   "Facies articularis inferior"
+  ],
+  "en": "Inferior articular facet",
+  "desc": {
+   "en": "The articular surface on each inferior articular process. In lumbar vertebrae it is convex and faces forward and laterally into the superior facet of the vertebra below (zygapophysial joint).",
+   "id": "Permukaan sendi pada tiap processus articularis inferior. Pada vertebra lumbalis permukaannya cembung dan menghadap ke depan lateral, masuk ke facies articularis superior vertebra di bawahnya (articulatio zygapophysialis)."
+  },
+  "facts": {
+   "bone": "vertebra"
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra"
+   ]
+  }
+ },
+ {
+  "key": "inferior-vertebral-notch",
+  "kind": "landmark",
+  "la": "Incisura vertebralis inferior",
+  "alt": [
+   "Incisura inferior vertebrae"
+  ],
+  "en": "Inferior vertebral notch",
+  "desc": {
+   "en": "The deep notch below each pedicle; with the superior notch of the vertebra below it bounds the intervertebral foramen.",
+   "id": "Takik dalam di bawah tiap pediculus; bersama incisura vertebralis superior vertebra di bawahnya membatasi foramen intervertebrale."
+  },
+  "facts": {
+   "bone": "vertebra"
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra"
+   ]
+  }
+ },
+ {
+  "key": "intervertebral-foramen",
+  "kind": "landmark",
+  "la": "Foramen intervertebrale",
+  "alt": [],
+  "en": "Intervertebral foramen",
+  "desc": {
+   "en": "The opening between the pedicles of two adjacent vertebrae, bounded in front by the vertebral bodies and disc and behind by the zygapophysial joint. It carries the spinal nerve with its spinal ganglion, spinal arteries and veins.",
+   "id": "Lubang di antara pediculus dua vertebra yang berdekatan, dibatasi di depan oleh corpus vertebrae dan discus serta di belakang oleh articulatio zygapophysialis. Lubang ini dilalui n. spinalis beserta ganglion sensorisnya, a. spinalis, dan vena."
+  },
+  "facts": {
+   "bone": "vertebra",
+   "clinical": {
+    "en": "Disc herniation or bony spurs narrowing the foramen compress the nerve root and cause radicular pain.",
+    "id": "Herniasi discus atau osteofit yang menyempitkan foramen menekan radix saraf dan menimbulkan nyeri radikular."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra"
+   ]
+  }
+ },
+ {
+  "key": "intervertebral-surface",
+  "kind": "landmark",
+  "la": "Facies intervertebralis",
+  "alt": [],
+  "en": "Intervertebral surface",
+  "desc": {
+   "en": "The upper or lower surface of a vertebral body, joined to the intervertebral disc; its central part is covered by a thin cartilaginous end plate and its rim is the annular epiphysis.",
+   "id": "Permukaan atas atau bawah corpus vertebrae yang bersatu dengan discus intervertebralis; bagian tengahnya dilapisi lempeng tulang rawan tipis dan tepinya adalah epiphysis anularis."
+  },
+  "facts": {
+   "bone": "vertebra"
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra"
+   ]
+  }
+ },
+ {
+  "key": "lamina-of-vertebral-arch",
+  "kind": "landmark",
+  "la": "Lamina arcus vertebrae",
+  "alt": [
+   "Lamina vertebrae"
+  ],
+  "en": "Lamina of vertebral arch",
+  "desc": {
+   "en": "The flat plate on each side of the vertebral arch that runs from the pedicle back to the midline, where the two laminae join at the spinous process.",
+   "id": "Lempeng pipih di kiri dan kanan arcus vertebrae yang berjalan dari pediculus ke belakang sampai garis tengah, tempat kedua lamina bertemu pada processus spinosus."
+  },
+  "facts": {
+   "bone": "vertebra",
+   "attach": {
+    "en": "Ligamenta flava join the laminae of adjacent vertebrae.",
+    "id": "Ligamenta flava menghubungkan lamina vertebra yang berdekatan."
+   },
+   "clinical": {
+    "en": "Removing laminae (laminectomy) opens the vertebral canal to decompress the spinal cord or nerve roots.",
+    "id": "Pengangkatan lamina (laminektomi) membuka canalis vertebralis untuk membebaskan tekanan pada medulla spinalis atau radix saraf."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra"
+   ]
+  }
+ },
+ {
+  "key": "lateral-part-of-transverse-process",
+  "kind": "landmark",
+  "la": "Pars lateralis processus transversi",
+  "alt": [
+   "Processus lateralis vertebrae"
+  ],
+  "en": "Lateral part of transverse process",
+  "desc": {
+   "en": "The true transverse element of the transverse process, as distinct from its costal part (TA2). In lumbar vertebrae it is the small part at the root and back of the process, near the accessory process.",
+   "id": "Unsur transversus sejati pada processus transversus, dibedakan dari pars costalis (TA2). Pada vertebra lumbalis bagian ini kecil, terletak di pangkal dan sisi belakang processus, dekat processus accessorius."
+  },
+  "facts": {
+   "bone": "lumbar-vertebra"
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra lumbalis",
+    "Vertebrae lumbales"
+   ]
+  },
+  "verify": true
+ },
+ {
+  "key": "pars-interarticularis-of-vertebral-arch",
+  "kind": "landmark",
+  "la": "Pars interarticularis arcus vertebrae",
+  "alt": [
+   "Pars interarticularis",
+   "Isthmus arcus vertebrae"
+  ],
+  "en": "Pars interarticularis",
+  "desc": {
+   "en": "The narrow part of the lamina between the superior and inferior articular processes.",
+   "id": "Bagian sempit lamina di antara processus articularis superior dan inferior."
+  },
+  "facts": {
+   "bone": "vertebra",
+   "clinical": {
+    "en": "A stress fracture here (spondylolysis), most often at L5, can let the vertebral body slip forward (spondylolisthesis); on oblique radiographs it appears as a collar on the neck of the 'Scottie dog'.",
+    "id": "Fraktur stres di sini (spondilolisis), paling sering pada L5, dapat membuat corpus vertebrae tergelincir ke depan (spondilolistesis); pada foto oblik tampak sebagai kalung pada leher gambaran 'anjing Scottie'."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra"
+   ]
+  }
+ },
+ {
+  "key": "pedicle-of-vertebral-arch",
+  "kind": "landmark",
+  "la": "Pediculus arcus vertebrae",
+  "alt": [
+   "Pediculus vertebrae"
+  ],
+  "en": "Pedicle of vertebral arch",
+  "desc": {
+   "en": "The short thick bar on each side that joins the vertebral arch to the back of the body; the vertebral notches lie above and below it.",
+   "id": "Batang pendek dan tebal di kiri dan kanan yang menghubungkan arcus vertebrae dengan bagian belakang corpus; incisura vertebralis terletak di atas dan di bawahnya."
+  },
+  "facts": {
+   "bone": "vertebra",
+   "clinical": {
+    "en": "Pedicle screws are placed through this strong bar in spinal fixation.",
+    "id": "Sekrup pedikel dipasang melalui batang yang kuat ini pada fiksasi tulang belakang."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra"
+   ]
+  }
+ },
+ {
+  "key": "spinous-process",
+  "kind": "landmark",
+  "la": "Processus spinosus",
+  "alt": [],
+  "en": "Spinous process",
+  "desc": {
+   "en": "The process projecting backward from the junction of the laminae. It is short and bifid in typical cervical vertebrae, long and sloping in thoracic ones, and short, thick and hatchet-shaped in lumbar ones; the tips can be felt along the back.",
+   "id": "Processus yang menonjol ke belakang dari pertemuan kedua lamina. Pada vertebra cervicalis tipikal pendek dan bercabang dua, pada thoracica panjang dan miring, dan pada lumbalis pendek, tebal, dan berbentuk kapak; ujung-ujungnya dapat diraba di sepanjang punggung."
+  },
+  "facts": {
+   "bone": "vertebra",
+   "attach": {
+    "en": "Supraspinous and interspinous ligaments; trapezius, latissimus dorsi, rhomboids, serratus posterior, spinalis, multifidus, rotatores and interspinales.",
+    "id": "Ligamentum supraspinale dan ligamenta interspinalia; m. trapezius, m. latissimus dorsi, mm. rhomboidei, m. serratus posterior, m. spinalis, m. multifidus, mm. rotatores, dan mm. interspinales."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra"
+   ]
+  }
+ },
+ {
+  "key": "superior-articular-facet-of-vertebra",
+  "kind": "landmark",
+  "la": "Facies articularis superior vertebrae",
+  "alt": [
+   "Facies articularis superior"
+  ],
+  "en": "Superior articular facet",
+  "desc": {
+   "en": "The articular surface on each superior articular process. In lumbar vertebrae it is concave and faces backward and medially; its orientation in each region decides which movements the zygapophysial joints allow.",
+   "id": "Permukaan sendi pada tiap processus articularis superior. Pada vertebra lumbalis permukaannya cekung dan menghadap ke belakang medial; arahnya di tiap daerah menentukan gerakan yang dimungkinkan articulatio zygapophysialis."
+  },
+  "facts": {
+   "bone": "vertebra"
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra"
+   ]
+  }
+ },
+ {
+  "key": "superior-articular-process-of-vertebra",
+  "kind": "landmark",
+  "la": "Processus articularis superior",
+  "alt": [
+   "Processus articularis superior vertebrae",
+   "Zygapophysis superior"
+  ],
+  "en": "Superior articular process",
+  "desc": {
+   "en": "The upward-projecting process on each side of the vertebral arch at the junction of pedicle and lamina, carrying the superior articular facet. On lumbar vertebrae its back edge bears the mammillary process.",
+   "id": "Processus yang menonjol ke atas di kiri dan kanan arcus vertebrae pada pertemuan pediculus dan lamina, memuat facies articularis superior. Pada vertebra lumbalis tepi belakangnya memiliki processus mammillaris."
+  },
+  "facts": {
+   "bone": "vertebra",
+   "attach": {
+    "en": "Capsule of the zygapophysial joint; multifidus attaches to the lumbar mammillary processes.",
+    "id": "Capsula articulatio zygapophysialis; m. multifidus melekat pada processus mammillaris lumbal."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra"
+   ]
+  }
+ },
+ {
+  "key": "superior-vertebral-notch",
+  "kind": "landmark",
+  "la": "Incisura vertebralis superior",
+  "alt": [
+   "Incisura superior vertebrae"
+  ],
+  "en": "Superior vertebral notch",
+  "desc": {
+   "en": "The shallow notch above each pedicle that forms the lower boundary of the intervertebral foramen above.",
+   "id": "Takik dangkal di atas tiap pediculus yang membentuk batas bawah foramen intervertebrale di atasnya."
+  },
+  "facts": {
+   "bone": "vertebra"
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra"
+   ]
+  }
+ },
+ {
+  "key": "transverse-process",
+  "kind": "landmark",
+  "la": "Processus transversus",
+  "alt": [],
+  "en": "Transverse process",
+  "desc": {
+   "en": "The process projecting laterally from each side of the vertebral arch at the junction of pedicle and lamina. It is a lever for muscles; in the thoracic region (T1-T10) it articulates with the tubercle of a rib.",
+   "id": "Processus yang menonjol ke lateral dari kiri dan kanan arcus vertebrae pada pertemuan pediculus dan lamina. Processus ini menjadi tuas bagi otot; di daerah thoracal (T1-T10) bersendi dengan tuberculum costae."
+  },
+  "facts": {
+   "bone": "vertebra",
+   "attach": {
+    "en": "Intertransverse ligaments, levatores costarum (C7-T11), semispinalis, rotatores, longissimus and other deep back muscles.",
+    "id": "Ligamenta intertransversaria, mm. levatores costarum (C7-T11), m. semispinalis, mm. rotatores, m. longissimus, dan otot punggung dalam lainnya."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra"
+   ]
+  }
+ },
+ {
+  "key": "vertebral-arch",
+  "kind": "landmark",
+  "la": "Arcus vertebrae",
+  "alt": [],
+  "en": "Vertebral arch",
+  "desc": {
+   "en": "The posterior part of a vertebra, made of two pedicles and two laminae, which with the body encloses the vertebral foramen and carries the seven processes.",
+   "id": "Bagian belakang vertebra yang terdiri atas dua pediculus dan dua lamina; bersama corpus mengelilingi foramen vertebrale dan memuat tujuh processus."
+  },
+  "facts": {
+   "bone": "vertebra"
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra"
+   ]
+  }
+ },
+ {
+  "key": "vertebral-body",
+  "kind": "landmark",
+  "la": "Corpus vertebrae",
+  "alt": [],
+  "en": "Vertebral body",
+  "desc": {
+   "en": "The cylindrical, weight-bearing front part of a vertebra, made of spongy bone with red marrow inside a thin shell of compact bone. Bodies grow larger from the neck down to the lumbar region.",
+   "id": "Bagian depan vertebra berbentuk silinder yang menahan beban, terdiri atas substantia spongiosa berisi sumsum merah yang dibungkus lapisan tipis substantia compacta. Ukurannya makin besar dari leher ke daerah lumbal."
+  },
+  "facts": {
+   "bone": "vertebra",
+   "attach": {
+    "en": "Intervertebral discs; anterior and posterior longitudinal ligaments.",
+    "id": "Discus intervertebralis; ligamentum longitudinale anterius dan posterius."
+   },
+   "clinical": {
+    "en": "In osteoporosis the bodies can collapse into a wedge shape (compression fractures), increasing the thoracic curve.",
+    "id": "Pada osteoporosis corpus vertebrae dapat kolaps berbentuk baji (fraktur kompresi) sehingga lengkung thoracal bertambah."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra"
+   ]
+  }
+ },
+ {
+  "key": "vertebral-foramen",
+  "kind": "landmark",
+  "la": "Foramen vertebrale",
+  "alt": [],
+  "en": "Vertebral foramen",
+  "desc": {
+   "en": "The opening enclosed by the body and the arch. Together the foramina form the vertebral canal, which holds the spinal cord, meninges, nerve roots, epidural fat and veins. It is large and triangular in the cervical and lumbar regions and small and round in the thoracic region.",
+   "id": "Lubang yang dikelilingi corpus dan arcus vertebrae. Seluruh foramen ini bersama-sama membentuk canalis vertebralis yang berisi medulla spinalis, meninges, radix saraf, lemak epidural, dan vena. Bentuknya besar dan segitiga di daerah cervical dan lumbal, serta kecil dan bulat di daerah thoracal."
+  },
+  "facts": {
+   "bone": "vertebra"
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra"
+   ]
+  }
+ },
+ {
+  "key": "inferior-articular-process-of-vertebra",
+  "kind": "landmark",
+  "la": "Processus articularis inferior",
+  "alt": [
+   "Processus articularis inferior vertebrae",
+   "Zygapophysis inferior"
+  ],
+  "en": "Inferior articular process",
+  "desc": {
+   "en": "The downward-projecting process on each side of the vertebral arch, carrying the inferior articular facet that meets the superior facet of the vertebra below.",
+   "id": "Processus yang menonjol ke bawah di kiri dan kanan arcus vertebrae, memuat facies articularis inferior yang bertemu facies articularis superior vertebra di bawahnya."
+  },
+  "facts": {
+   "bone": "vertebra",
+   "attach": {
+    "en": "Capsule of the zygapophysial joint.",
+    "id": "Capsula articulatio zygapophysialis."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "uncinate-process-of-first-thoracic-vertebra",
+  "kind": "landmark",
+  "la": "Processus uncinatus vertebrae thoracicae primae",
+  "alt": [
+   "Uncus corporis vertebrae thoracicae I"
+  ],
+  "en": "Uncinate process of first thoracic vertebra",
+  "desc": {
+   "en": "A small, inconstant lip on the upper surface of the body of T1 that continues the series of cervical uncinate processes; TA2 lists it in parentheses.",
+   "id": "Bibir kecil yang tidak selalu ada di permukaan atas corpus T1, melanjutkan deretan processus uncinatus cervical; TA2 mencantumkannya dalam tanda kurung."
+  },
+  "facts": {
+   "bone": "vertebra-t1"
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra thoracica I",
+    "T1"
+   ]
+  }
+ },
+ {
+  "key": "inferior-costal-facet",
+  "kind": "landmark",
+  "la": "Fovea costalis inferior",
+  "alt": [],
+  "en": "Inferior costal facet (demifacet)",
+  "desc": {
+   "en": "A half-facet at the lower edge of the body near the pedicle that receives the upper part of the head of the rib one number lower (for example, T6 and rib 7). It is present on T1-T8 and usually absent from T9 downward.",
+   "id": "Setengah fovea di tepi bawah corpus dekat pediculus yang menerima bagian atas caput costae satu nomor di bawahnya (misalnya T6 dengan costa VII). Terdapat pada T1-T8 dan biasanya tidak ada mulai T9."
+  },
+  "facts": {
+   "bone": "thoracic-vertebra"
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra thoracica",
+    "Vertebrae thoracicae"
+   ]
+  }
+ },
+ {
+  "key": "superior-costal-facet",
+  "kind": "landmark",
+  "la": "Fovea costalis superior",
+  "alt": [],
+  "en": "Superior costal facet (demifacet)",
+  "desc": {
+   "en": "A half-facet at the upper edge of the body near the pedicle that receives the lower part of the head of the rib of the same number. On T1 it is a full facet for rib 1, and T10-T12 carry a single complete facet.",
+   "id": "Setengah fovea di tepi atas corpus dekat pediculus yang menerima bagian bawah caput costae dengan nomor yang sama. Pada T1 berupa fovea utuh untuk costa I, dan T10-T12 memiliki satu fovea utuh."
+  },
+  "facts": {
+   "bone": "thoracic-vertebra"
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra thoracica",
+    "Vertebrae thoracicae"
+   ]
+  }
+ },
+ {
+  "key": "transverse-costal-facet",
+  "kind": "landmark",
+  "la": "Fovea costalis processus transversi",
+  "alt": [],
+  "en": "Transverse costal facet",
+  "desc": {
+   "en": "A facet on the front of the tip of the transverse process that articulates with the tubercle of the rib of the same number (costotransverse joint). It is present on T1-T10 (small or absent on T10 in some people) and absent on T11 and T12.",
+   "id": "Fovea di depan ujung processus transversus yang bersendi dengan tuberculum costae bernomor sama (articulatio costotransversaria). Terdapat pada T1-T10 (pada sebagian orang kecil atau tidak ada di T10) dan tidak ada pada T11 dan T12."
+  },
+  "facts": {
+   "bone": "thoracic-vertebra"
+  },
+  "quiz": {
+   "bone": [
+    "Vertebra thoracica",
+    "Vertebrae thoracicae"
+   ]
+  }
+ },
+ {
+  "key": "ala-of-sacrum",
+  "kind": "landmark",
+  "la": "Ala ossis sacri",
+  "alt": [
+   "Ala sacralis"
+  ],
+  "en": "Ala of sacrum",
+  "desc": {
+   "en": "The wing-like upper surface of the lateral part on each side of the base, formed by the fused transverse processes and rib elements of S1; the lumbosacral trunk crosses in front of it.",
+   "id": "Permukaan atas pars lateralis yang menyerupai sayap di kiri dan kanan basis, dibentuk penyatuan processus transversus dan unsur costa S1; truncus lumbosacralis melintas di depannya."
+  },
+  "facts": {
+   "bone": "sacrum",
+   "attach": {
+    "en": "Iliacus, the iliolumbar and anterior sacroiliac ligaments.",
+    "id": "M. iliacus, ligamentum iliolumbale, dan ligamentum sacroiliacum anterius."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Os sacrum",
+    "Sacrum"
+   ]
+  }
+ },
+ {
+  "key": "anterior-sacral-foramina",
+  "kind": "landmark",
+  "la": "Foramina sacralia anteriora",
+  "alt": [
+   "Foramina sacralia pelvica"
+  ],
+  "en": "Anterior sacral foramina",
+  "desc": {
+   "en": "Four pairs of openings on the pelvic surface that carry the anterior rami of S1-S4 toward the sacral plexus.",
+   "id": "Empat pasang lubang pada facies pelvica yang dilalui rami anteriores S1-S4 menuju plexus sacralis."
+  },
+  "facts": {
+   "bone": "sacrum",
+   "attach": {
+    "en": "Piriformis arises from the bone between and lateral to the second to fourth foramina.",
+    "id": "M. piriformis berorigo pada tulang di antara dan di lateral foramina kedua sampai keempat."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Os sacrum",
+    "Sacrum"
+   ]
+  }
+ },
+ {
+  "key": "apex-of-sacrum",
+  "kind": "landmark",
+  "la": "Apex ossis sacri",
+  "alt": [],
+  "en": "Apex of sacrum",
+  "desc": {
+   "en": "The narrow lower end of the sacrum (body of S5), which articulates with the coccyx.",
+   "id": "Ujung bawah os sacrum yang sempit (corpus S5), bersendi dengan os coccygis."
+  },
+  "facts": {
+   "bone": "sacrum"
+  },
+  "quiz": {
+   "bone": [
+    "Os sacrum",
+    "Sacrum"
+   ]
+  }
+ },
+ {
+  "key": "auricular-surface-of-sacrum",
+  "kind": "landmark",
+  "la": "Facies auricularis ossis sacri",
+  "alt": [],
+  "en": "Auricular surface of sacrum",
+  "desc": {
+   "en": "The ear-shaped articular surface on the side of the sacrum (S1-S3) that meets the auricular surface of the ilium at the sacroiliac joint.",
+   "id": "Permukaan sendi berbentuk daun telinga di sisi os sacrum (S1-S3) yang bertemu facies auricularis ossis ilii pada articulatio sacroiliaca."
+  },
+  "facts": {
+   "bone": "sacrum"
+  },
+  "quiz": {
+   "bone": [
+    "Os sacrum",
+    "Sacrum"
+   ]
+  }
+ },
+ {
+  "key": "base-of-sacrum",
+  "kind": "landmark",
+  "la": "Basis ossis sacri",
+  "alt": [],
+  "en": "Base of sacrum",
+  "desc": {
+   "en": "The upper surface of the sacrum, the body and alae of S1 with its superior articular processes; it meets L5 through the L5-S1 disc and zygapophysial joints.",
+   "id": "Permukaan atas os sacrum, yaitu corpus dan ala S1 dengan processus articularis superior-nya; bertemu L5 melalui discus L5-S1 dan articulatio zygapophysialis."
+  },
+  "facts": {
+   "bone": "sacrum"
+  },
+  "quiz": {
+   "bone": [
+    "Os sacrum",
+    "Sacrum"
+   ]
+  }
+ },
+ {
+  "key": "dorsal-surface-of-sacrum",
+  "kind": "landmark",
+  "la": "Facies dorsalis ossis sacri",
+  "alt": [
+   "Facies posterior ossis sacri"
+  ],
+  "en": "Dorsal surface of sacrum",
+  "desc": {
+   "en": "The rough convex back of the sacrum, with the median, intermediate and lateral sacral crests and the posterior sacral foramina.",
+   "id": "Permukaan belakang os sacrum yang kasar dan cembung, dengan crista sacralis mediana, medialis, dan lateralis serta foramina sacralia posteriora."
+  },
+  "facts": {
+   "bone": "sacrum",
+   "attach": {
+    "en": "Erector spinae, multifidus and gluteus maximus.",
+    "id": "M. erector spinae, m. multifidus, dan m. gluteus maximus."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Os sacrum",
+    "Sacrum"
+   ]
+  }
+ },
+ {
+  "key": "intermediate-sacral-crest",
+  "kind": "landmark",
+  "la": "Crista sacralis medialis",
+  "alt": [
+   "Crista sacralis intermedia"
+  ],
+  "en": "Intermediate sacral crest",
+  "desc": {
+   "en": "A row of small tubercles on each side of the median crest, formed by the fused articular processes; it ends below as the sacral cornu. TA98 calls it 'medialis', which is easy to confuse with the median crest ('mediana').",
+   "id": "Deretan tonjolan kecil di kiri dan kanan crista sacralis mediana, hasil penyatuan processus articularis; berakhir di bawah sebagai cornu sacrale. TA98 menyebutnya 'medialis', mudah tertukar dengan crista 'mediana'."
+  },
+  "facts": {
+   "bone": "sacrum"
+  },
+  "quiz": {
+   "bone": [
+    "Os sacrum",
+    "Sacrum"
+   ]
+  }
+ },
+ {
+  "key": "intervertebral-foramina",
+  "kind": "landmark",
+  "la": "Foramina intervertebralia ossis sacri",
+  "alt": [
+   "Foramina intervertebralia"
+  ],
+  "en": "Intervertebral foramina of sacrum",
+  "desc": {
+   "en": "Short channels inside the sacrum that link the sacral canal with the anterior and posterior sacral foramina; each sacral spinal nerve divides into its rami within them.",
+   "id": "Saluran pendek di dalam os sacrum yang menghubungkan canalis sacralis dengan foramina sacralia anteriora dan posteriora; tiap n. spinalis sacralis bercabang menjadi rami-nya di dalam saluran ini."
+  },
+  "facts": {
+   "bone": "sacrum"
+  },
+  "quiz": {
+   "bone": [
+    "Os sacrum",
+    "Sacrum"
+   ]
+  }
+ },
+ {
+  "key": "lateral-part-of-sacrum",
+  "kind": "landmark",
+  "la": "Pars lateralis ossis sacri",
+  "alt": [],
+  "en": "Lateral part of sacrum",
+  "desc": {
+   "en": "The mass lateral to the sacral foramina, formed by fused transverse processes and rib elements; it carries the ala, the auricular surface and the sacral tuberosity.",
+   "id": "Massa tulang di lateral foramina sacralia, hasil penyatuan processus transversus dan unsur costa; memuat ala, facies auricularis, dan tuberositas ossis sacri."
+  },
+  "facts": {
+   "bone": "sacrum"
+  },
+  "quiz": {
+   "bone": [
+    "Os sacrum",
+    "Sacrum"
+   ]
+  }
+ },
+ {
+  "key": "lateral-sacral-crest",
+  "kind": "landmark",
+  "la": "Crista sacralis lateralis",
+  "alt": [],
+  "en": "Lateral sacral crest",
+  "desc": {
+   "en": "A row of tubercles lateral to the posterior sacral foramina, formed by the fused tips of the transverse processes.",
+   "id": "Deretan tonjolan di lateral foramina sacralia posteriora, hasil penyatuan ujung processus transversus."
+  },
+  "facts": {
+   "bone": "sacrum",
+   "attach": {
+    "en": "Posterior sacroiliac ligaments and the sacrotuberous ligament.",
+    "id": "Ligamenta sacroiliaca posteriora dan ligamentum sacrotuberale."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Os sacrum",
+    "Sacrum"
+   ]
+  }
+ },
+ {
+  "key": "median-sacral-crest",
+  "kind": "landmark",
+  "la": "Crista sacralis mediana",
+  "alt": [],
+  "en": "Median sacral crest",
+  "desc": {
+   "en": "A midline ridge with three or four tubercles, the fused spinous processes of the upper sacral vertebrae.",
+   "id": "Rigi di garis tengah dengan tiga atau empat tonjolan, hasil penyatuan processus spinosus vertebrae sacrales atas."
+  },
+  "facts": {
+   "bone": "sacrum",
+   "attach": {
+    "en": "Supraspinous ligament, aponeurosis of erector spinae and multifidus.",
+    "id": "Ligamentum supraspinale, aponeurosis m. erector spinae, dan m. multifidus."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Os sacrum",
+    "Sacrum"
+   ]
+  }
+ },
+ {
+  "key": "pelvic-surface-of-sacrum",
+  "kind": "landmark",
+  "la": "Facies pelvica ossis sacri",
+  "alt": [
+   "Facies pelvina ossis sacri",
+   "Facies pelvina os sacrum",
+   "Facies anterior ossis sacri"
+  ],
+  "en": "Pelvic surface of sacrum",
+  "desc": {
+   "en": "The concave front surface of the sacrum facing the pelvic cavity, crossed by the transverse ridges and pierced by the anterior sacral foramina.",
+   "id": "Permukaan depan os sacrum yang cekung menghadap cavitas pelvis, dilintasi lineae transversae dan ditembus foramina sacralia anteriora."
+  },
+  "facts": {
+   "bone": "sacrum",
+   "attach": {
+    "en": "Piriformis (S2-S4), which the module lists with origin 'facies pelvina os sacrum'.",
+    "id": "M. piriformis (S2-S4); modul menuliskan origonya 'facies pelvina os sacrum'."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Os sacrum",
+    "Sacrum"
+   ]
+  }
+ },
+ {
+  "key": "posterior-sacral-foramina",
+  "kind": "landmark",
+  "la": "Foramina sacralia posteriora",
+  "alt": [
+   "Foramina sacralia dorsalia"
+  ],
+  "en": "Posterior sacral foramina",
+  "desc": {
+   "en": "Four pairs of openings on the dorsal surface between the intermediate and lateral crests; they carry the posterior rami of S1-S4.",
+   "id": "Empat pasang lubang pada facies dorsalis di antara crista sacralis medialis dan lateralis; dilalui rami posteriores S1-S4."
+  },
+  "facts": {
+   "bone": "sacrum"
+  },
+  "quiz": {
+   "bone": [
+    "Os sacrum",
+    "Sacrum"
+   ]
+  }
+ },
+ {
+  "key": "promontory",
+  "kind": "landmark",
+  "la": "Promontorium ossis sacri",
+  "alt": [
+   "Promontorium"
+  ],
+  "en": "Sacral promontory",
+  "desc": {
+   "en": "The projecting front edge of the upper surface of the S1 body. It forms the back of the pelvic inlet (linea terminalis) and is an obstetric landmark for measuring the pelvis.",
+   "id": "Tepi depan permukaan atas corpus S1 yang menonjol. Bagian ini membentuk batas belakang aditus pelvis (linea terminalis) dan menjadi patokan obstetri untuk mengukur panggul."
+  },
+  "facts": {
+   "bone": "sacrum",
+   "clinical": {
+    "en": "The diagonal conjugate is measured from the lower border of the pubic symphysis to the promontory.",
+    "id": "Konjugata diagonalis diukur dari tepi bawah symphysis pubica ke promontorium."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Os sacrum",
+    "Sacrum"
+   ]
+  }
+ },
+ {
+  "key": "sacral-canal",
+  "kind": "landmark",
+  "la": "Canalis sacralis",
+  "alt": [],
+  "en": "Sacral canal",
+  "desc": {
+   "en": "The continuation of the vertebral canal through the sacrum. It contains the sacral and coccygeal nerve roots of the cauda equina, the filum terminale, epidural fat and veins; the dural sac usually ends at about S2.",
+   "id": "Lanjutan canalis vertebralis di dalam os sacrum. Isinya radix saraf sacral dan coccygeal dari cauda equina, filum terminale, lemak epidural, dan vena; saccus duralis biasanya berakhir kira-kira setinggi S2."
+  },
+  "facts": {
+   "bone": "sacrum"
+  },
+  "quiz": {
+   "bone": [
+    "Os sacrum",
+    "Sacrum"
+   ]
+  }
+ },
+ {
+  "key": "sacral-hiatus",
+  "kind": "landmark",
+  "la": "Hiatus sacralis",
+  "alt": [],
+  "en": "Sacral hiatus",
+  "desc": {
+   "en": "The opening at the lower end of the sacral canal, left where the laminae and spinous process of S5 (sometimes S4) are missing. It is flanked by the sacral cornua and covered by the superficial posterior sacrococcygeal ligament.",
+   "id": "Lubang di ujung bawah canalis sacralis yang terbentuk karena lamina dan processus spinosus S5 (kadang S4) tidak ada. Di kiri dan kanannya terdapat cornu sacrale, dan lubang ini ditutup ligamentum sacrococcygeum posterius superficiale."
+  },
+  "facts": {
+   "bone": "sacrum",
+   "clinical": {
+    "en": "Site for a caudal epidural block.",
+    "id": "Tempat penyuntikan anestesi epidural kaudal."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Os sacrum",
+    "Sacrum"
+   ]
+  }
+ },
+ {
+  "key": "sacral-horn",
+  "kind": "landmark",
+  "la": "Cornu sacrale",
+  "alt": [
+   "Cornua sacralia"
+  ],
+  "en": "Sacral cornu",
+  "desc": {
+   "en": "A small downward projection on each side of the sacral hiatus, the inferior articular process of S5; it is joined to the coccygeal cornu by the intercornual ligament.",
+   "id": "Tonjolan kecil ke bawah di kiri dan kanan hiatus sacralis, yaitu processus articularis inferior S5; dihubungkan dengan cornu coccygeum oleh ligamentum intercornuale."
+  },
+  "facts": {
+   "bone": "sacrum",
+   "clinical": {
+    "en": "Palpated to locate the sacral hiatus.",
+    "id": "Diraba untuk menemukan hiatus sacralis."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Os sacrum",
+    "Sacrum"
+   ]
+  }
+ },
+ {
+  "key": "sacral-tuberosity",
+  "kind": "landmark",
+  "la": "Tuberositas ossis sacri",
+  "alt": [
+   "Tuberositas sacralis"
+  ],
+  "en": "Sacral tuberosity",
+  "desc": {
+   "en": "A rough area behind the auricular surface.",
+   "id": "Daerah kasar di belakang facies auricularis."
+  },
+  "facts": {
+   "bone": "sacrum",
+   "attach": {
+    "en": "Interosseous sacroiliac ligament, the strongest ligament of the sacroiliac joint.",
+    "id": "Ligamentum sacroiliacum interosseum, ligamentum terkuat articulatio sacroiliaca."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Os sacrum",
+    "Sacrum"
+   ]
+  }
+ },
+ {
+  "key": "superior-articular-process-of-sacrum",
+  "kind": "landmark",
+  "la": "Processus articularis superior ossis sacri",
+  "alt": [],
+  "en": "Superior articular process of sacrum",
+  "desc": {
+   "en": "A paired process on the base of the sacrum whose facet faces backward and medially to meet the inferior articular process of L5 (zygapophysial joint).",
+   "id": "Processus berpasangan pada basis ossis sacri dengan facies articularis yang menghadap ke belakang medial untuk bertemu processus articularis inferior L5 (articulatio zygapophysialis)."
+  },
+  "facts": {
+   "bone": "sacrum"
+  },
+  "quiz": {
+   "bone": [
+    "Os sacrum",
+    "Sacrum"
+   ]
+  }
+ },
+ {
+  "key": "transverse-ridges",
+  "kind": "landmark",
+  "la": "Lineae transversae ossis sacri",
+  "alt": [
+   "Lineae transversae"
+  ],
+  "en": "Transverse ridges",
+  "desc": {
+   "en": "Four lines across the pelvic surface that mark where the bodies of the five sacral vertebrae fused, at the sites of the former discs.",
+   "id": "Empat garis melintang pada facies pelvica yang menandai tempat penyatuan corpus kelima vertebrae sacrales, di bekas letak discus."
+  },
+  "facts": {
+   "bone": "sacrum"
+  },
+  "quiz": {
+   "bone": [
+    "Os sacrum",
+    "Sacrum"
+   ]
+  }
+ },
+ {
+  "key": "apex-of-coccyx",
+  "kind": "landmark",
+  "la": "Apex ossis coccygis",
+  "alt": [],
+  "en": "Apex of coccyx",
+  "desc": {
+   "en": "The rounded tip of the coccyx, the lowest point of the vertebral column.",
+   "id": "Ujung bulat os coccygis, titik terendah columna vertebralis."
+  },
+  "facts": {
+   "bone": "coccyx",
+   "attach": {
+    "en": "Anococcygeal ligament (body), linking the coccyx to the anal canal and external anal sphincter.",
+    "id": "Ligamentum (corpus) anococcygeum yang menghubungkan os coccygis dengan canalis analis dan m. sphincter ani externus."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Os coccygis",
+    "Coccyx"
+   ]
+  }
+ },
+ {
+  "key": "base-of-coccyx",
+  "kind": "landmark",
+  "la": "Basis ossis coccygis",
+  "alt": [],
+  "en": "Base of coccyx",
+  "desc": {
+   "en": "The upper surface of the first coccygeal segment, which articulates with the apex of the sacrum at the sacrococcygeal joint.",
+   "id": "Permukaan atas segmen coccygeal pertama yang bersendi dengan apex ossis sacri pada articulatio sacrococcygea."
+  },
+  "facts": {
+   "bone": "coccyx"
+  },
+  "quiz": {
+   "bone": [
+    "Os coccygis",
+    "Coccyx"
+   ]
+  }
+ },
+ {
+  "key": "coccygeal-horn",
+  "kind": "landmark",
+  "la": "Cornu coccygeum",
+  "alt": [
+   "Cornua coccygea"
+  ],
+  "en": "Coccygeal cornu",
+  "desc": {
+   "en": "A small upward projection on each side of the first coccygeal segment (its pedicle and superior articular process) that meets the sacral cornu.",
+   "id": "Tonjolan kecil ke atas di kiri dan kanan segmen coccygeal pertama (pediculus dan processus articularis superior-nya) yang bertemu cornu sacrale."
+  },
+  "facts": {
+   "bone": "coccyx",
+   "attach": {
+    "en": "Intercornual ligament.",
+    "id": "Ligamentum intercornuale."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Os coccygis",
+    "Coccyx"
+   ]
+  }
+ },
+ {
+  "key": "costal-notches",
+  "kind": "landmark",
+  "la": "Incisurae costales",
+  "alt": [
+   "Incisura costalis"
+  ],
+  "en": "Costal notches",
+  "desc": {
+   "en": "Notches along the lateral borders of the sternum for the costal cartilages of ribs 1-7: the first on the manubrium, the second at the sternal angle (half on the manubrium, half on the body), the third to sixth on the body and the seventh at the junction of body and xiphoid process.",
+   "id": "Takik-takik di sepanjang tepi lateral sternum untuk cartilago costalis I-VII: yang pertama pada manubrium, yang kedua pada angulus sterni (separuh pada manubrium, separuh pada corpus), ketiga sampai keenam pada corpus, dan ketujuh pada pertemuan corpus dengan processus xiphoideus."
+  },
+  "facts": {
+   "bone": "sternum",
+   "attach": {
+    "en": "Radiate sternocostal ligaments of the sternocostal joints.",
+    "id": "Ligamenta sternocostalia radiata dari articulationes sternocostales."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Sternum"
+   ]
+  }
+ },
+ {
+  "key": "sternal-angle",
+  "kind": "landmark",
+  "la": "Angulus sterni",
+  "alt": [
+   "Angulus Ludovici",
+   "Angulus Louisi"
+  ],
+  "en": "Sternal angle (angle of Louis)",
+  "desc": {
+   "en": "The palpable transverse ridge where the manubrium meets the body of the sternum (manubriosternal joint). The second costal cartilage joins the sternum here, so it is the starting point for counting ribs and intercostal spaces.",
+   "id": "Rigi melintang yang dapat diraba pada pertemuan manubrium dan corpus sterni (symphysis manubriosternalis). Cartilago costalis II bersendi di sini, sehingga angulus sterni menjadi titik awal menghitung costa dan spatium intercostale."
+  },
+  "facts": {
+   "bone": "sternum",
+   "clinical": {
+    "en": "It lies at the level of the T4-T5 disc. A horizontal plane through it (transverse thoracic plane) separates the superior and inferior mediastinum and passes through the beginning and end of the aortic arch, the tracheal bifurcation, the pulmonary trunk bifurcation and the entry of the azygos vein into the superior vena cava.",
+    "id": "Angulus sterni setinggi discus T4-T5. Bidang horizontal melaluinya (bidang transversal thorax) memisahkan mediastinum superius dan inferius, serta melewati awal dan akhir arcus aortae, bifurcatio tracheae, percabangan truncus pulmonalis, dan muara v. azygos ke v. cava superior."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Sternum"
+   ]
+  }
+ },
+ {
+  "key": "clavicular-notch",
+  "kind": "landmark",
+  "la": "Incisura clavicularis",
+  "alt": [
+   "Incisura clavicularis sterni"
+  ],
+  "en": "Clavicular notch",
+  "desc": {
+   "en": "An oval notch at each upper lateral corner of the manubrium that articulates with the sternal end of the clavicle (sternoclavicular joint).",
+   "id": "Takik lonjong di tiap sudut lateral atas manubrium yang bersendi dengan extremitas sternalis claviculae (articulatio sternoclavicularis)."
+  },
+  "facts": {
+   "bone": "sternum",
+   "attach": {
+    "en": "Capsule and articular disc of the sternoclavicular joint.",
+    "id": "Capsula dan discus articularis articulatio sternoclavicularis."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Sternum"
+   ]
+  }
+ },
+ {
+  "key": "jugular-notch-of-sternum",
+  "kind": "landmark",
+  "la": "Incisura jugularis sterni",
+  "alt": [
+   "Incisura jugularis",
+   "Incisura suprasternalis"
+  ],
+  "en": "Jugular (suprasternal) notch",
+  "desc": {
+   "en": "The notch on the upper border of the manubrium between the two clavicular notches, easily felt at the base of the neck; it lies at about the level of the lower border of T2. The trachea can be felt just above it.",
+   "id": "Takik pada tepi atas manubrium di antara kedua incisura clavicularis, mudah diraba di pangkal leher; letaknya kira-kira setinggi tepi bawah T2. Trachea dapat diraba tepat di atasnya."
+  },
+  "facts": {
+   "bone": "sternum",
+   "attach": {
+    "en": "Interclavicular ligament; sternal heads of sternocleidomastoid beside it.",
+    "id": "Ligamentum interclaviculare; caput sternale m. sternocleidomastoideus di sampingnya."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Sternum"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "angle-of-rib",
+  "kind": "landmark",
+  "la": "Angulus costae",
+  "alt": [],
+  "en": "Angle of rib",
+  "desc": {
+   "en": "The point a short distance lateral to the tubercle where the body of the rib turns sharply forward; it is the most posterior part of the rib.",
+   "id": "Titik sedikit di lateral tuberculum tempat corpus costae berbelok tajam ke depan; bagian paling belakang dari costa."
+  },
+  "facts": {
+   "bone": "rib",
+   "attach": {
+    "en": "Iliocostalis; the internal intercostal muscle reaches back to it and is replaced medially by the internal intercostal membrane.",
+    "id": "M. iliocostalis; m. intercostalis internus mencapai angulus ini lalu ke medial digantikan membrana intercostalis interna."
+   },
+   "clinical": {
+    "en": "The weakest part of a rib is just in front of its angle, a common fracture site.",
+    "id": "Bagian terlemah costa tepat di depan angulus, tempat fraktur yang sering terjadi."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Costa"
+   ]
+  }
+ },
+ {
+  "key": "articular-facet-of-tubercle-of-rib",
+  "kind": "landmark",
+  "la": "Facies articularis tuberculi costae",
+  "alt": [],
+  "en": "Articular facet of tubercle of rib",
+  "desc": {
+   "en": "A small oval facet on the medial part of the tubercle that articulates with the transverse costal facet of the vertebra of the same number (costotransverse joint); ribs 11 and 12 lack it.",
+   "id": "Fovea kecil lonjong di bagian medial tuberculum yang bersendi dengan fovea costalis processus transversi vertebra bernomor sama (articulatio costotransversaria); costa XI dan XII tidak memilikinya."
+  },
+  "facts": {
+   "bone": "rib"
+  },
+  "quiz": {
+   "bone": [
+    "Costa"
+   ]
+  }
+ },
+ {
+  "key": "articular-facets-of-head-of-rib",
+  "kind": "landmark",
+  "la": "Facies articularis capitis costae",
+  "alt": [
+   "Facies articulares capitis costae"
+  ],
+  "en": "Articular facets of head of rib",
+  "desc": {
+   "en": "On a typical rib, two facets separated by the crest of the head: the upper one meets the vertebra above, the lower one the vertebra of the same number. Ribs 1, 10, 11 and 12 have a single facet.",
+   "id": "Pada costa tipikal terdapat dua facies articularis yang dipisahkan crista capitis costae: yang atas bertemu vertebra di atasnya, yang bawah bertemu vertebra bernomor sama. Costa I, X, XI, dan XII hanya memiliki satu facies."
+  },
+  "facts": {
+   "bone": "rib"
+  },
+  "quiz": {
+   "bone": [
+    "Costa"
+   ]
+  }
+ },
+ {
+  "key": "body-of-rib",
+  "kind": "landmark",
+  "la": "Corpus costae",
+  "alt": [],
+  "en": "Body (shaft) of rib",
+  "desc": {
+   "en": "The long, thin, flat and curved part of the rib from the tubercle to the anterior end, with a convex outer surface and a concave inner surface grooved along its lower border.",
+   "id": "Bagian costa yang panjang, tipis, pipih, dan melengkung dari tuberculum sampai ujung depan, dengan permukaan luar cembung dan permukaan dalam cekung yang beralur di sepanjang tepi bawahnya."
+  },
+  "facts": {
+   "bone": "rib",
+   "attach": {
+    "en": "Intercostal muscles; on the outer surface serratus anterior, pectoral and abdominal wall muscles depending on the rib.",
+    "id": "Mm. intercostales; pada permukaan luar m. serratus anterior, otot dada, dan otot dinding perut sesuai costa-nya."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Costa"
+   ]
+  }
+ },
+ {
+  "key": "costal-groove",
+  "kind": "landmark",
+  "la": "Sulcus costae",
+  "alt": [],
+  "en": "Costal groove",
+  "desc": {
+   "en": "A groove along the lower inner border of the body of the rib that shelters the intercostal vein, artery and nerve, in that order from above down (VAN).",
+   "id": "Alur di sepanjang tepi bawah permukaan dalam corpus costae yang melindungi v., a., dan n. intercostalis, berurutan dari atas ke bawah (VAN)."
+  },
+  "facts": {
+   "bone": "rib",
+   "attach": {
+    "en": "Internal intercostal muscle fibres arise from its floor.",
+    "id": "Serabut m. intercostalis internus berorigo dari dasar alur ini."
+   },
+   "clinical": {
+    "en": "Needles for thoracocentesis or chest drains go in just above the upper border of the rib below, away from this groove.",
+    "id": "Jarum torakosentesis atau selang dada dimasukkan tepat di atas tepi atas costa di bawahnya, menjauhi alur ini."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Costa"
+   ]
+  }
+ },
+ {
+  "key": "crest-of-head-of-rib",
+  "kind": "landmark",
+  "la": "Crista capitis costae",
+  "alt": [],
+  "en": "Crest of head of rib",
+  "desc": {
+   "en": "The ridge between the two facets of the head of a typical rib.",
+   "id": "Rigi di antara kedua facies articularis caput costae tipikal."
+  },
+  "facts": {
+   "bone": "rib",
+   "attach": {
+    "en": "Intra-articular ligament of the head of the rib, to the intervertebral disc.",
+    "id": "Ligamentum intraarticulare capitis costae yang menuju discus intervertebralis."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Costa"
+   ]
+  }
+ },
+ {
+  "key": "crest-of-neck-of-rib",
+  "kind": "landmark",
+  "la": "Crista colli costae",
+  "alt": [],
+  "en": "Crest of neck of rib",
+  "desc": {
+   "en": "The sharp ridge on the upper border of the neck of the rib.",
+   "id": "Rigi tajam pada tepi atas collum costae."
+  },
+  "facts": {
+   "bone": "rib",
+   "attach": {
+    "en": "Superior costotransverse ligament, to the transverse process above.",
+    "id": "Ligamentum costotransversarium superius yang menuju processus transversus di atasnya."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Costa"
+   ]
+  }
+ },
+ {
+  "key": "head-of-rib",
+  "kind": "landmark",
+  "la": "Caput costae",
+  "alt": [],
+  "en": "Head of rib",
+  "desc": {
+   "en": "The wedge-shaped back end of the rib, which articulates with the bodies of two adjacent vertebrae and the disc between them (joint of the head of the rib).",
+   "id": "Ujung belakang costa berbentuk baji yang bersendi dengan corpus dua vertebra berdekatan dan discus di antaranya (articulatio capitis costae)."
+  },
+  "facts": {
+   "bone": "rib",
+   "attach": {
+    "en": "Radiate and intra-articular ligaments of the head of the rib.",
+    "id": "Ligamentum radiatum dan ligamentum intraarticulare capitis costae."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Costa"
+   ]
+  }
+ },
+ {
+  "key": "neck-of-rib",
+  "kind": "landmark",
+  "la": "Collum costae",
+  "alt": [],
+  "en": "Neck of rib",
+  "desc": {
+   "en": "The flattened part between the head and the tubercle, lying in front of the transverse process; ribs 11 and 12 have practically no neck.",
+   "id": "Bagian pipih di antara caput dan tuberculum, terletak di depan processus transversus; costa XI dan XII praktis tidak memiliki collum."
+  },
+  "facts": {
+   "bone": "rib",
+   "attach": {
+    "en": "Costotransverse ligament (to the transverse process) and superior costotransverse ligament (crest of the neck).",
+    "id": "Ligamentum costotransversarium (ke processus transversus) dan ligamentum costotransversarium superius (crista colli)."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Costa"
+   ]
+  }
+ },
+ {
+  "key": "tubercle-of-rib",
+  "kind": "landmark",
+  "la": "Tuberculum costae",
+  "alt": [],
+  "en": "Tubercle of rib",
+  "desc": {
+   "en": "A knob on the back of the rib at the junction of neck and body, with a medial articular part and a lateral rough part; ribs 11 and 12 have none.",
+   "id": "Tonjolan di belakang costa pada pertemuan collum dan corpus, dengan bagian medial yang bersendi dan bagian lateral yang kasar; costa XI dan XII tidak memilikinya."
+  },
+  "facts": {
+   "bone": "rib",
+   "attach": {
+    "en": "Lateral costotransverse ligament on its non-articular part.",
+    "id": "Ligamentum costotransversarium laterale pada bagian yang tidak bersendi."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Costa"
+   ]
+  }
+ },
+ {
+  "key": "scalene-tubercle-of-first-rib",
+  "kind": "landmark",
+  "la": "Tuberculum musculi scaleni anterioris",
+  "alt": [
+   "Tuberculum scaleni"
+  ],
+  "en": "Scalene tubercle",
+  "desc": {
+   "en": "A small tubercle on the inner border of the first rib, between the grooves for the subclavian vein in front and the subclavian artery behind.",
+   "id": "Tonjolan kecil pada tepi dalam costa I, di antara sulcus venae subclaviae di depan dan sulcus arteriae subclaviae di belakang."
+  },
+  "facts": {
+   "bone": "first-rib",
+   "attach": {
+    "en": "Insertion of scalenus anterior.",
+    "id": "Insersio m. scalenus anterior."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Costa I",
+    "Costa prima"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "groove-for-subclavian-artery",
+  "kind": "landmark",
+  "la": "Sulcus arteriae subclaviae",
+  "alt": [],
+  "en": "Groove for subclavian artery",
+  "desc": {
+   "en": "A shallow transverse groove on the upper surface of the first rib behind the scalene tubercle, where the subclavian artery and the lower trunk of the brachial plexus cross the rib.",
+   "id": "Alur melintang yang dangkal di permukaan atas costa I di belakang tuberculum musculi scaleni anterioris, tempat a. subclavia dan truncus inferior plexus brachialis menyilang costa."
+  },
+  "facts": {
+   "bone": "first-rib",
+   "attach": {
+    "en": "Scalenus medius attaches behind it.",
+    "id": "M. scalenus medius melekat di belakangnya."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Costa I",
+    "Costa prima"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "groove-for-subclavian-vein",
+  "kind": "landmark",
+  "la": "Sulcus venae subclaviae",
+  "alt": [],
+  "en": "Groove for subclavian vein",
+  "desc": {
+   "en": "A groove on the upper surface of the first rib in front of the scalene tubercle, where the subclavian vein crosses the rib.",
+   "id": "Alur pada permukaan atas costa I di depan tuberculum musculi scaleni anterioris, tempat v. subclavia menyilang costa."
+  },
+  "facts": {
+   "bone": "first-rib",
+   "attach": {
+    "en": "Subclavius and the costoclavicular ligament attach just in front of it, near the costal cartilage.",
+    "id": "M. subclavius dan ligamentum costoclaviculare melekat tepat di depannya, dekat cartilago costalis."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Costa I",
+    "Costa prima"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "tuberosity-for-serratus-anterior",
+  "kind": "landmark",
+  "la": "Tuberositas musculi serrati anterioris",
+  "alt": [],
+  "en": "Tuberosity for serratus anterior",
+  "desc": {
+   "en": "A rough elevation on the outer surface of the second rib.",
+   "id": "Tonjolan kasar pada permukaan luar costa II."
+  },
+  "facts": {
+   "bone": "second-rib",
+   "attach": {
+    "en": "Part of the first digitation of serratus anterior.",
+    "id": "Sebagian digitatio pertama m. serratus anterior."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Costa II",
+    "Costa secunda"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "costal-margin",
+  "kind": "landmark",
+  "la": "Arcus costalis",
+  "alt": [
+   "Margo costalis"
+  ],
+  "en": "Costal margin (costal arch)",
+  "desc": {
+   "en": "The curved lower edge of the front of the thoracic cage on each side, formed by the joined costal cartilages of ribs 7-10. The two margins meet at the xiphisternal joint and bound the infrasternal angle.",
+   "id": "Tepi bawah dinding depan rongga dada yang melengkung di kiri dan kanan, dibentuk cartilagines costales VII-X yang saling bersambung. Kedua arcus bertemu pada articulatio xiphosternalis dan membatasi angulus infrasternalis."
+  },
+  "facts": {
+   "bone": "compages-thoracis",
+   "attach": {
+    "en": "Diaphragm (inner surface), rectus abdominis, external and internal obliques and transversus abdominis.",
+    "id": "Diaphragma (permukaan dalam), m. rectus abdominis, m. obliquus externus dan internus abdominis, serta m. transversus abdominis."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Compages thoracis"
+   ]
+  },
+  "model": false
+ }
+]

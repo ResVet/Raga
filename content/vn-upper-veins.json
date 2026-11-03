@@ -1,0 +1,547 @@
+[
+  {
+    "key": "dorsal-venous-network-of-hand",
+    "kind": "vein",
+    "la": "Rete venosum dorsale manus",
+    "alt": ["Arcus venosus dorsalis manus"],
+    "en": "Dorsal venous network of hand",
+    "desc": {
+      "en": "Network of superficial veins on the back of the hand formed by the dorsal metacarpal veins. Its lateral part continues as v. cephalica and its medial part as v. basilica.",
+      "id": "Jaringan vena superfisial di punggung tangan yang dibentuk oleh vv. metacarpales dorsales. Bagian lateralnya berlanjut sebagai v. cephalica dan bagian medialnya sebagai v. basilica."
+    },
+    "facts": {
+      "drains": {
+        "en": "The fingers and most of the hand; much of the blood from the palm reaches it through the intercapitular veins, so that gripping does not obstruct venous return.",
+        "id": "Jari-jari dan sebagian besar tangan; banyak darah dari telapak tangan mencapainya melalui vv. intercapitulares, sehingga menggenggam tidak menghambat aliran balik vena."
+      },
+      "continues": "Vena cephalica et vena basilica",
+      "clinical": {
+        "en": "Visible, superficial and easy to fix, so it is a common site for intravenous cannulation.",
+        "id": "Terlihat jelas, superfisial dan mudah difiksasi, sehingga sering dipakai untuk pemasangan kanula intravena."
+      }
+    },
+    "quiz": {
+      "continues": ["Vena cephalica et vena basilica", "V. cephalica dan V. basilica", "Vena cephalica dan vena basilica"]
+    }
+  },
+  {
+    "key": "dorsal-digital-veins-of-hand",
+    "kind": "vein",
+    "la": "Venae digitales dorsales manus",
+    "alt": ["Vv. digitales dorsales manus"],
+    "en": "Dorsal digital veins of hand",
+    "desc": {
+      "en": "Veins along the dorsal sides of the fingers that unite to form the dorsal metacarpal veins, which open into the rete venosum dorsale manus.",
+      "id": "Vena di sisi dorsal jari-jari yang bersatu membentuk vv. metacarpales dorsales, lalu bermuara ke rete venosum dorsale manus."
+    },
+    "facts": {
+      "continues": "Venae metacarpales dorsales"
+    },
+    "quiz": {
+      "drains": ["Venae metacarpales dorsales", "Rete venosum dorsale manus"]
+    }
+  },
+  {
+    "key": "palmar-digital-veins",
+    "kind": "vein",
+    "la": "Venae digitales palmares",
+    "alt": ["Vv. digitales palmares"],
+    "en": "Palmar digital veins",
+    "desc": {
+      "en": "Small veins on the palmar side of the fingers. They drain mainly through the intercapitular veins to the dorsal veins of the hand, and partly into the arcus venosus palmaris superficialis.",
+      "id": "Vena kecil di sisi palmar jari-jari. Vena ini terutama mengalir melalui vv. intercapitulares ke vena dorsal tangan, dan sebagian ke arcus venosus palmaris superficialis."
+    },
+    "facts": {
+      "continues": "Arcus venosus palmaris superficialis"
+    },
+    "quiz": {
+      "drains": ["Arcus venosus palmaris superficialis", "Rete venosum dorsale manus"]
+    }
+  },
+  {
+    "key": "superficial-venous-palmar-arch",
+    "kind": "vein",
+    "la": "Arcus venosus palmaris superficialis",
+    "alt": ["Arcus venosus volaris superficialis"],
+    "en": "Superficial venous palmar arch",
+    "desc": {
+      "en": "Paired venae comitantes that accompany the arcus palmaris superficialis. They receive the palmar digital veins and drain into the deep veins of the forearm, mainly the vv. ulnares.",
+      "id": "Venae comitantes berpasangan yang menyertai arcus palmaris superficialis. Vena ini menerima vv. digitales palmares dan bermuara ke vena dalam lengan bawah, terutama vv. ulnares."
+    },
+    "facts": {
+      "continues": "Venae ulnares"
+    },
+    "quiz": {
+      "drains": ["Venae ulnares", "Vv. ulnares"]
+    }
+  },
+  {
+    "key": "deep-venous-palmar-arch",
+    "kind": "vein",
+    "la": "Arcus venosus palmaris profundus",
+    "alt": ["Arcus venosus volaris profundus"],
+    "en": "Deep venous palmar arch",
+    "desc": {
+      "en": "Venae comitantes of the arcus palmaris profundus. They receive the palmar metacarpal veins and drain mainly into the vv. radiales.",
+      "id": "Venae comitantes arcus palmaris profundus. Vena ini menerima vv. metacarpales palmares dan terutama bermuara ke vv. radiales."
+    },
+    "facts": {
+      "continues": "Venae radiales"
+    },
+    "quiz": {
+      "drains": ["Venae radiales", "Vv. radiales"]
+    }
+  },
+  {
+    "key": "cephalic-vein",
+    "kind": "vein",
+    "la": "Vena cephalica",
+    "alt": ["V. cephalica"],
+    "en": "Cephalic vein",
+    "desc": {
+      "en": "Superficial vein of the lateral (radial) side of the upper limb. It begins from the lateral part of the rete venosum dorsale manus, ascends along the forearm and arm, runs in the sulcus deltoideopectoralis and drains into v. axillaris.",
+      "id": "Vena superfisial sisi lateral (radial) ekstremitas superior. Vena ini dimulai dari bagian lateral rete venosum dorsale manus, naik di sepanjang lengan bawah dan lengan atas, berjalan di sulcus deltoideopectoralis lalu bermuara ke v. axillaris."
+    },
+    "facts": {
+      "from": "Rete venosum dorsale manus",
+      "course": {
+        "en": "Begins over the tabatiere anatomique, winds onto the front of the forearm along its radial border, and ascends lateral to the tendon of m. biceps brachii in the fossa cubiti, where v. mediana cubiti leaves it. It runs up the sulcus bicipitalis lateralis and then the sulcus deltoideopectoralis between m. deltoideus and m. pectoralis major. In the trigonum clavipectorale it pierces the fascia clavipectoralis and ends in v. axillaris.",
+        "id": "Dimulai di atas tabatiere anatomique, melingkar ke depan lengan bawah di sepanjang tepi radialnya, lalu naik di lateral tendo m. biceps brachii di fossa cubiti, tempat v. mediana cubiti keluar darinya. Vena naik di sulcus bicipitalis lateralis lalu sulcus deltoideopectoralis di antara m. deltoideus dan m. pectoralis major. Di trigonum clavipectorale vena menembus fascia clavipectoralis dan bermuara ke v. axillaris."
+      },
+      "drains": {
+        "en": "Superficial tissues of the lateral hand, forearm and arm.",
+        "id": "Jaringan superfisial sisi lateral tangan, lengan bawah dan lengan atas."
+      },
+      "continues": "Vena axillaris",
+      "clinical": {
+        "en": "Used for intravenous access; its constant position over the radial side of the wrist makes it reliable for cannulation. In the sulcus deltoideopectoralis it is used to introduce pacemaker leads.",
+        "id": "Dipakai untuk akses intravena; letaknya yang tetap di sisi radial pergelangan tangan membuatnya andal untuk kanulasi. Di sulcus deltoideopectoralis vena ini dipakai untuk memasukkan kabel pacu jantung."
+      }
+    },
+    "quiz": {
+      "from": ["Rete venosum dorsale manus"],
+      "drains": ["Vena axillaris", "V. axillaris"]
+    }
+  },
+  {
+    "key": "basilic-vein",
+    "kind": "vein",
+    "la": "Vena basilica",
+    "alt": ["V. basilica"],
+    "en": "Basilic vein",
+    "desc": {
+      "en": "Superficial vein of the medial (ulnar) side of the upper limb. It begins from the medial part of the rete venosum dorsale manus and in the arm joins the vv. brachiales to form v. axillaris.",
+      "id": "Vena superfisial sisi medial (ulnar) ekstremitas superior. Vena ini dimulai dari bagian medial rete venosum dorsale manus dan di lengan atas bergabung dengan vv. brachiales membentuk v. axillaris."
+    },
+    "facts": {
+      "from": "Rete venosum dorsale manus",
+      "course": {
+        "en": "Ascends along the medial side of the forearm, passes in front of the epicondylus medialis where it receives v. mediana cubiti, runs up the sulcus bicipitalis medialis and pierces the deep fascia near the middle of the arm. It then ascends medial to a. brachialis and joins the vv. brachiales at the lower border of m. teres major to form v. axillaris.",
+        "id": "Naik di sepanjang sisi medial lengan bawah, lewat di depan epicondylus medialis tempat vena menerima v. mediana cubiti, naik di sulcus bicipitalis medialis lalu menembus fascia profunda sekitar pertengahan lengan atas. Selanjutnya vena naik di medial a. brachialis dan bergabung dengan vv. brachiales di tepi bawah m. teres major membentuk v. axillaris."
+      },
+      "drains": {
+        "en": "Superficial tissues of the medial hand, forearm and arm.",
+        "id": "Jaringan superfisial sisi medial tangan, lengan bawah dan lengan atas."
+      },
+      "continues": "Vena axillaris",
+      "clinical": {
+        "en": "Large and straight in the arm, so it is used for peripherally inserted central catheters and for arteriovenous fistulas in dialysis patients. N. cutaneus antebrachii medialis runs close to it.",
+        "id": "Besar dan lurus di lengan atas sehingga dipakai untuk kateter sentral yang dipasang dari perifer (PICC) dan untuk fistula arteriovena pada pasien dialisis. N. cutaneus antebrachii medialis berjalan dekat vena ini."
+      }
+    },
+    "quiz": {
+      "from": ["Rete venosum dorsale manus"],
+      "drains": ["Vena axillaris", "V. axillaris"]
+    }
+  },
+  {
+    "key": "median-cubital-vein",
+    "kind": "vein",
+    "la": "Vena mediana cubiti",
+    "alt": ["V. mediana cubiti"],
+    "en": "Median cubital vein",
+    "desc": {
+      "en": "Short oblique vein in the fossa cubiti that runs upward and medially from v. cephalica to v. basilica. It is the usual site for drawing blood.",
+      "id": "Vena pendek yang berjalan miring di fossa cubiti ke atas dan medial dari v. cephalica ke v. basilica. Vena ini tempat yang lazim untuk pengambilan darah."
+    },
+    "facts": {
+      "from": "Vena cephalica",
+      "course": {
+        "en": "Leaves v. cephalica below the elbow, crosses the fossa cubiti superficial to the aponeurosis bicipitalis and joins v. basilica above the epicondylus medialis. It often receives v. mediana antebrachii and is anchored to the deep veins by a perforating vein.",
+        "id": "Keluar dari v. cephalica di bawah siku, menyeberangi fossa cubiti di atas aponeurosis bicipitalis lalu bergabung dengan v. basilica di atas epicondylus medialis. Vena ini sering menerima v. mediana antebrachii dan ditambatkan ke vena dalam oleh sebuah vena perforans."
+      },
+      "drains": {
+        "en": "Shunts blood from v. cephalica to v. basilica.",
+        "id": "Mengalirkan darah dari v. cephalica ke v. basilica."
+      },
+      "continues": "Vena basilica",
+      "clinical": {
+        "en": "Preferred vein for venipuncture because it is superficial, wide and fixed. The aponeurosis bicipitalis lies between it and a. brachialis and n. medianus, which protects these deeper structures. The pattern of the elbow veins varies (H or M pattern).",
+        "id": "Vena pilihan untuk pungsi vena karena superfisial, lebar dan terfiksasi. Aponeurosis bicipitalis terletak di antara vena ini dan a. brachialis serta n. medianus, sehingga melindungi struktur yang lebih dalam. Pola vena siku bervariasi (pola H atau M)."
+      }
+    },
+    "quiz": {
+      "from": ["Vena cephalica", "V. cephalica"],
+      "drains": ["Vena basilica", "V. basilica"]
+    }
+  },
+  {
+    "key": "median-antebrachial-vein",
+    "kind": "vein",
+    "la": "Vena mediana antebrachii",
+    "alt": ["V. mediana antebrachii"],
+    "en": "Median antebrachial vein",
+    "desc": {
+      "en": "Superficial vein on the front of the forearm, between v. cephalica and v. basilica, draining the palmar venous network. It ends variably in v. basilica, v. mediana cubiti or v. cephalica, or divides into v. mediana cephalica and v. mediana basilica.",
+      "id": "Vena superfisial di depan lengan bawah, di antara v. cephalica dan v. basilica, yang menampung jaringan vena palmar. Ujungnya bervariasi: ke v. basilica, v. mediana cubiti atau v. cephalica, atau bercabang menjadi v. mediana cephalica dan v. mediana basilica."
+    },
+    "facts": {
+      "drains": {
+        "en": "Superficial tissues of the palm and the front of the forearm.",
+        "id": "Jaringan superfisial telapak tangan dan bagian depan lengan bawah."
+      },
+      "continues": "Vena basilica (variabilis)"
+    },
+    "quiz": {
+      "drains": ["Vena basilica", "Vena mediana cubiti", "V. basilica", "V. mediana cubiti"]
+    }
+  },
+  {
+    "key": "median-cephalic-vein",
+    "kind": "vein",
+    "model": false,
+    "la": "Vena mediana cephalica",
+    "alt": ["V. mediana cephalica"],
+    "en": "Median cephalic vein",
+    "desc": {
+      "en": "Traditional name for the lateral limb of the M-shaped vein pattern at the elbow: when v. mediana antebrachii divides in the fossa cubiti, its branch to v. cephalica is called v. mediana cephalica.",
+      "id": "Nama lama untuk kaki lateral pola vena berbentuk M di siku: bila v. mediana antebrachii bercabang di fossa cubiti, cabangnya ke v. cephalica disebut v. mediana cephalica."
+    },
+    "facts": {
+      "from": "Vena mediana antebrachii",
+      "continues": "Vena cephalica",
+      "note": {
+        "en": "Terminologia Anatomica does not list this term; it remains in older texts and in the module.",
+        "id": "Terminologia Anatomica tidak mencantumkan istilah ini; istilah ini masih dipakai di buku lama dan di modul."
+      }
+    },
+    "quiz": {
+      "from": ["Vena mediana antebrachii", "V. mediana antebrachii"],
+      "drains": ["Vena cephalica", "V. cephalica"]
+    }
+  },
+  {
+    "key": "median-basilic-vein",
+    "kind": "vein",
+    "model": false,
+    "la": "Vena mediana basilica",
+    "alt": ["V. mediana basilica"],
+    "en": "Median basilic vein",
+    "desc": {
+      "en": "Traditional name for the medial limb of the M-shaped vein pattern at the elbow: the branch of v. mediana antebrachii to v. basilica, which crosses in front of the aponeurosis bicipitalis over a. brachialis.",
+      "id": "Nama lama untuk kaki medial pola vena berbentuk M di siku: cabang v. mediana antebrachii ke v. basilica yang menyilang di depan aponeurosis bicipitalis di atas a. brachialis."
+    },
+    "facts": {
+      "from": "Vena mediana antebrachii",
+      "continues": "Vena basilica",
+      "note": {
+        "en": "Terminologia Anatomica does not list this term; it remains in older texts and in the module.",
+        "id": "Terminologia Anatomica tidak mencantumkan istilah ini; istilah ini masih dipakai di buku lama dan di modul."
+      }
+    },
+    "quiz": {
+      "from": ["Vena mediana antebrachii", "V. mediana antebrachii"],
+      "drains": ["Vena basilica", "V. basilica"]
+    }
+  },
+  {
+    "key": "deep-median-vein",
+    "kind": "vein",
+    "model": false,
+    "verify": true,
+    "la": "Vena mediana profunda",
+    "alt": ["V. mediana profunda"],
+    "en": "Deep median (perforating) vein of elbow",
+    "desc": {
+      "en": "Short communicating vein in the fossa cubiti that passes through the deep fascia and connects the superficial veins (v. mediana cubiti or v. mediana antebrachii) with the deep veins. It anchors v. mediana cubiti in place.",
+      "id": "Vena penghubung pendek di fossa cubiti yang menembus fascia profunda dan menghubungkan vena superfisial (v. mediana cubiti atau v. mediana antebrachii) dengan vena dalam. Vena ini menambatkan v. mediana cubiti di tempatnya."
+    },
+    "facts": {
+      "continues": "Venae brachiales (venae profundae)",
+      "note": {
+        "en": "This older term, used in the module, is not listed in Terminologia Anatomica; modern texts call it the perforating vein of the cubital fossa.",
+        "id": "Istilah lama yang dipakai di modul ini tidak tercantum dalam Terminologia Anatomica; buku modern menyebutnya vena perforans fossa cubiti."
+      }
+    },
+    "quiz": {
+      "drains": ["Venae profundae", "Venae brachiales", "vena dalam"]
+    }
+  },
+  {
+    "key": "radial-veins",
+    "kind": "vein",
+    "la": "Venae radiales",
+    "alt": ["Vv. radiales"],
+    "en": "Radial veins",
+    "desc": {
+      "en": "Paired venae comitantes of a. radialis. They arise from the deep palmar venous arch and join the ulnar veins in the fossa cubiti to form the vv. brachiales.",
+      "id": "Venae comitantes berpasangan dari a. radialis. Vena ini berasal dari arcus venosus palmaris profundus dan bergabung dengan vv. ulnares di fossa cubiti membentuk vv. brachiales."
+    },
+    "facts": {
+      "from": "Arcus venosus palmaris profundus",
+      "continues": "Venae brachiales"
+    },
+    "quiz": {
+      "drains": ["Venae brachiales", "Vv. brachiales"]
+    }
+  },
+  {
+    "key": "ulnar-veins",
+    "kind": "vein",
+    "la": "Venae ulnares",
+    "alt": ["Vv. ulnares"],
+    "en": "Ulnar veins",
+    "desc": {
+      "en": "Paired venae comitantes of a. ulnaris. They come from the palmar venous arches, receive the interosseous veins and unite with the radial veins to form the vv. brachiales.",
+      "id": "Venae comitantes berpasangan dari a. ulnaris. Vena ini berasal dari arcus venosus palmaris, menerima vv. interosseae dan bersatu dengan vv. radiales membentuk vv. brachiales."
+    },
+    "facts": {
+      "from": "Arcus venosus palmaris superficialis",
+      "continues": "Venae brachiales"
+    },
+    "quiz": {
+      "drains": ["Venae brachiales", "Vv. brachiales"]
+    }
+  },
+  {
+    "key": "brachial-veins",
+    "kind": "vein",
+    "la": "Venae brachiales",
+    "alt": ["Vv. brachiales"],
+    "en": "Brachial veins",
+    "desc": {
+      "en": "Paired venae comitantes of a. brachialis, linked by cross channels around the artery. At the lower border of m. teres major they join v. basilica to form v. axillaris.",
+      "id": "Venae comitantes berpasangan dari a. brachialis yang saling dihubungkan oleh cabang-cabang melintang di sekeliling arteri. Di tepi bawah m. teres major vena ini bergabung dengan v. basilica membentuk v. axillaris."
+    },
+    "facts": {
+      "from": "Venae radiales et venae ulnares",
+      "drains": {
+        "en": "The deep tissues of the arm and, through the radial and ulnar veins, the forearm and hand.",
+        "id": "Jaringan dalam lengan atas dan, melalui vv. radiales dan vv. ulnares, lengan bawah dan tangan."
+      },
+      "continues": "Vena axillaris"
+    },
+    "quiz": {
+      "from": ["Venae radiales et venae ulnares", "Vv. radiales dan Vv. ulnares"],
+      "drains": ["Vena axillaris", "V. axillaris"]
+    }
+  },
+  {
+    "key": "axillary-vein",
+    "kind": "vein",
+    "la": "Vena axillaris",
+    "alt": ["V. axillaris"],
+    "en": "Axillary vein",
+    "desc": {
+      "en": "Large vein of the axilla formed at the lower border of m. teres major by v. basilica and the vv. brachiales. It lies on the medial side of a. axillaris and becomes v. subclavia at the lateral border of the first rib.",
+      "id": "Vena besar axilla yang dibentuk di tepi bawah m. teres major oleh v. basilica dan vv. brachiales. Vena ini terletak di sisi medial a. axillaris dan menjadi v. subclavia di tepi lateral costa I."
+    },
+    "facts": {
+      "from": "Vena basilica et venae brachiales",
+      "course": {
+        "en": "Ascends through the axilla on the medial side of a. axillaris. Its tributaries match the branches of the artery and include v. cephalica, which enters its first part after piercing the fascia clavipectoralis.",
+        "id": "Naik melalui axilla di sisi medial a. axillaris. Cabang-cabang yang bermuara kepadanya sesuai dengan cabang arteri, ditambah v. cephalica yang masuk ke bagian pertamanya setelah menembus fascia clavipectoralis."
+      },
+      "branches": ["Vena cephalica", "Vena subscapularis", "Vena circumflexa humeri anterior", "Vena circumflexa humeri posterior", "Vena thoracica lateralis", "Vena thoracoacromialis"],
+      "drains": {
+        "en": "The whole upper limb, the axilla and part of the lateral thoracic wall.",
+        "id": "Seluruh ekstremitas superior, axilla dan sebagian dinding dada lateral."
+      },
+      "continues": "Vena subclavia",
+      "clinical": {
+        "en": "Thrombosis can follow repeated strenuous use of the arm (effort thrombosis, Paget-Schroetter syndrome). A wound of its upper part can draw in air (air embolism) because the vein is large and close to the thorax.",
+        "id": "Trombosis dapat terjadi setelah penggunaan lengan yang berat dan berulang (effort thrombosis, sindrom Paget-Schroetter). Luka pada bagian atasnya dapat menghisap udara (emboli udara) karena vena ini besar dan dekat dengan rongga thorax."
+      }
+    },
+    "quiz": {
+      "from": ["Vena basilica et venae brachiales", "V. basilica dan Vv. brachiales"],
+      "continues": ["Vena subclavia", "V. subclavia"]
+    }
+  },
+  {
+    "key": "right-subclavian-vein",
+    "kind": "vein",
+    "la": "Vena subclavia dextra",
+    "alt": ["V. subclavia dextra", "Vena subclavia", "V. subclavia"],
+    "en": "Right subclavian vein",
+    "desc": {
+      "en": "Continuation of v. axillaris from the lateral border of the first rib. It passes in front of m. scalenus anterior and joins v. jugularis interna behind the sternoclavicular joint to form v. brachiocephalica dextra.",
+      "id": "Lanjutan v. axillaris dari tepi lateral costa I. Vena ini lewat di depan m. scalenus anterior dan bergabung dengan v. jugularis interna di belakang articulatio sternoclavicularis membentuk v. brachiocephalica dextra."
+    },
+    "facts": {
+      "from": "Vena axillaris",
+      "course": {
+        "en": "Lies on the first rib behind the clavicle and m. subclavius, in front of m. scalenus anterior (the artery lies behind the muscle). Its main tributary is v. jugularis externa. The ductus lymphaticus dexter opens at its junction with v. jugularis interna (angulus venosus dexter).",
+        "id": "Terletak di atas costa I di belakang clavicula dan m. subclavius, di depan m. scalenus anterior (arterinya di belakang otot ini). Cabang utama yang bermuara kepadanya adalah v. jugularis externa. Ductus lymphaticus dexter bermuara di pertemuannya dengan v. jugularis interna (angulus venosus dexter)."
+      },
+      "branches": ["Vena jugularis externa"],
+      "continues": "Vena brachiocephalica dextra",
+      "clinical": {
+        "en": "Used for central venous catheters by an infraclavicular approach; a misdirected needle can puncture the pleura (pneumothorax) or a. subclavia.",
+        "id": "Dipakai untuk pemasangan kateter vena sentral melalui pendekatan infraklavikula; jarum yang salah arah dapat menembus pleura (pneumothorax) atau a. subclavia."
+      }
+    },
+    "quiz": {
+      "from": ["Vena axillaris", "V. axillaris"],
+      "continues": ["Vena brachiocephalica dextra", "V. brachiocephalica dextra", "Vena brachiocephalica"]
+    }
+  },
+  {
+    "key": "left-subclavian-vein",
+    "kind": "vein",
+    "la": "Vena subclavia sinistra",
+    "alt": ["V. subclavia sinistra", "Vena subclavia", "V. subclavia"],
+    "en": "Left subclavian vein",
+    "desc": {
+      "en": "Continuation of v. axillaris from the lateral border of the first rib. It passes in front of m. scalenus anterior and joins v. jugularis interna behind the left sternoclavicular joint to form v. brachiocephalica sinistra; the ductus thoracicus opens at this junction.",
+      "id": "Lanjutan v. axillaris dari tepi lateral costa I. Vena ini lewat di depan m. scalenus anterior dan bergabung dengan v. jugularis interna di belakang articulatio sternoclavicularis kiri membentuk v. brachiocephalica sinistra; ductus thoracicus bermuara di pertemuan ini."
+    },
+    "facts": {
+      "from": "Vena axillaris",
+      "course": {
+        "en": "Lies on the first rib behind the clavicle and m. subclavius, in front of m. scalenus anterior. It receives v. jugularis externa, and the ductus thoracicus enters at the angulus venosus sinister.",
+        "id": "Terletak di atas costa I di belakang clavicula dan m. subclavius, di depan m. scalenus anterior. Vena ini menerima v. jugularis externa, dan ductus thoracicus masuk di angulus venosus sinister."
+      },
+      "branches": ["Vena jugularis externa"],
+      "continues": "Vena brachiocephalica sinistra",
+      "clinical": {
+        "en": "Used for central venous catheters; puncture of the pleura or of a. subclavia is the main risk.",
+        "id": "Dipakai untuk kateter vena sentral; risiko utamanya tertusuknya pleura atau a. subclavia."
+      }
+    },
+    "quiz": {
+      "from": ["Vena axillaris", "V. axillaris"],
+      "continues": ["Vena brachiocephalica sinistra", "V. brachiocephalica sinistra", "Vena brachiocephalica"]
+    }
+  },
+  {
+    "key": "anterior-circumflex-humeral-vein",
+    "kind": "vein",
+    "la": "Vena circumflexa humeri anterior",
+    "alt": ["V. circumflexa humeri anterior", "Vena circumflexa anterior humeri"],
+    "en": "Anterior circumflex humeral vein",
+    "desc": {
+      "en": "Accompanies a. circumflexa humeri anterior around the front of the collum chirurgicum humeri and drains into v. axillaris.",
+      "id": "Menyertai a. circumflexa humeri anterior di depan collum chirurgicum humeri dan bermuara ke v. axillaris."
+    },
+    "facts": {
+      "continues": "Vena axillaris"
+    },
+    "quiz": {
+      "drains": ["Vena axillaris", "V. axillaris"]
+    }
+  },
+  {
+    "key": "posterior-circumflex-humeral-vein",
+    "kind": "vein",
+    "la": "Vena circumflexa humeri posterior",
+    "alt": ["V. circumflexa humeri posterior", "Vena circumflexa posterior humeri"],
+    "en": "Posterior circumflex humeral vein",
+    "desc": {
+      "en": "Accompanies a. circumflexa humeri posterior and n. axillaris through the quadrangular space and drains into v. axillaris.",
+      "id": "Menyertai a. circumflexa humeri posterior dan n. axillaris melalui spatium quadrangulare dan bermuara ke v. axillaris."
+    },
+    "facts": {
+      "continues": "Vena axillaris"
+    },
+    "quiz": {
+      "drains": ["Vena axillaris", "V. axillaris"]
+    }
+  },
+  {
+    "key": "subscapular-vein",
+    "kind": "vein",
+    "la": "Vena subscapularis",
+    "alt": ["V. subscapularis"],
+    "en": "Subscapular vein",
+    "desc": {
+      "en": "Accompanies a. subscapularis; it is formed by v. circumflexa scapulae and v. thoracodorsalis and drains into v. axillaris.",
+      "id": "Menyertai a. subscapularis; dibentuk oleh v. circumflexa scapulae dan v. thoracodorsalis dan bermuara ke v. axillaris."
+    },
+    "facts": {
+      "branches": ["Vena circumflexa scapulae", "Vena thoracodorsalis"],
+      "continues": "Vena axillaris"
+    },
+    "quiz": {
+      "drains": ["Vena axillaris", "V. axillaris"]
+    }
+  },
+  {
+    "key": "circumflex-scapular-vein",
+    "kind": "vein",
+    "la": "Vena circumflexa scapulae",
+    "alt": ["V. circumflexa scapulae"],
+    "en": "Circumflex scapular vein",
+    "desc": {
+      "en": "Accompanies a. circumflexa scapulae through the triangular space and joins v. subscapularis.",
+      "id": "Menyertai a. circumflexa scapulae melalui spatium triangulare dan bergabung dengan v. subscapularis."
+    },
+    "facts": {
+      "continues": "Vena subscapularis"
+    },
+    "quiz": {
+      "drains": ["Vena subscapularis", "V. subscapularis"]
+    }
+  },
+  {
+    "key": "thoracodorsal-vein",
+    "kind": "vein",
+    "la": "Vena thoracodorsalis",
+    "alt": ["V. thoracodorsalis"],
+    "en": "Thoracodorsal vein",
+    "desc": {
+      "en": "Accompanies a. thoracodorsalis and n. thoracodorsalis from m. latissimus dorsi and joins v. subscapularis.",
+      "id": "Menyertai a. thoracodorsalis dan n. thoracodorsalis dari m. latissimus dorsi dan bergabung dengan v. subscapularis."
+    },
+    "facts": {
+      "continues": "Vena subscapularis"
+    },
+    "quiz": {
+      "drains": ["Vena subscapularis", "V. subscapularis"]
+    }
+  },
+  {
+    "key": "lateral-thoracic-vein",
+    "kind": "vein",
+    "la": "Vena thoracica lateralis",
+    "alt": ["V. thoracica lateralis"],
+    "en": "Lateral thoracic vein",
+    "desc": {
+      "en": "Accompanies a. thoracica lateralis on the lateral thoracic wall and drains into v. axillaris. Through the vv. thoracoepigastricae it connects with v. epigastrica superficialis, a route that enlarges when v. cava inferior is blocked.",
+      "id": "Menyertai a. thoracica lateralis di dinding dada lateral dan bermuara ke v. axillaris. Melalui vv. thoracoepigastricae vena ini berhubungan dengan v. epigastrica superficialis; jalur ini melebar bila v. cava inferior tersumbat."
+    },
+    "facts": {
+      "continues": "Vena axillaris"
+    },
+    "quiz": {
+      "drains": ["Vena axillaris", "V. axillaris"]
+    }
+  },
+  {
+    "key": "suprascapular-vein",
+    "kind": "vein",
+    "la": "Vena suprascapularis",
+    "alt": ["V. suprascapularis"],
+    "en": "Suprascapular vein",
+    "desc": {
+      "en": "Accompanies a. suprascapularis and drains into v. jugularis externa, sometimes into v. subclavia.",
+      "id": "Menyertai a. suprascapularis dan bermuara ke v. jugularis externa, kadang ke v. subclavia."
+    },
+    "facts": {
+      "continues": "Vena jugularis externa"
+    },
+    "quiz": {
+      "drains": ["Vena jugularis externa", "V. jugularis externa", "Vena subclavia"]
+    }
+  }
+]

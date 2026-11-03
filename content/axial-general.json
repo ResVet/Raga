@@ -1,0 +1,1464 @@
+[
+ {
+  "key": "os-longum",
+  "kind": "bone",
+  "la": "Os longum",
+  "alt": [
+   "Ossa longa"
+  ],
+  "en": "Long bone",
+  "desc": {
+   "en": "A bone much longer than it is wide, with a shaft (diaphysis) around a marrow cavity and two ends (epiphyses) capped with articular cartilage. Examples are the humerus, radius, ulna, femur, tibia, fibula, the metacarpals, metatarsals and phalanges; the clavicle is also counted here.",
+   "id": "Tulang yang ukuran panjangnya jauh melebihi lebarnya, terdiri atas corpus (diaphysis) yang membungkus cavitas medullaris dan dua ujung (epiphysis) berlapis cartilago articularis. Contohnya humerus, radius, ulna, femur, tibia, fibula, ossa metacarpi, ossa metatarsi, dan phalanges; clavicula juga dimasukkan ke golongan ini."
+  },
+  "facts": {
+   "type": "Os longum",
+   "examples": [
+    "Humerus",
+    "Radius",
+    "Ulna",
+    "Femur",
+    "Tibia",
+    "Fibula",
+    "Ossa metacarpi",
+    "Ossa metatarsi",
+    "Phalanges",
+    "Clavicula"
+   ]
+  },
+  "quiz": {
+   "examples": [
+    "Femur",
+    "Humerus",
+    "Radius",
+    "Ulna",
+    "Tibia",
+    "Fibula",
+    "Clavicula",
+    "Os metacarpi",
+    "Os metatarsi",
+    "Phalanx"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "os-breve",
+  "kind": "bone",
+  "la": "Os breve",
+  "alt": [
+   "Ossa brevia",
+   "Os brevis"
+  ],
+  "en": "Short bone",
+  "desc": {
+   "en": "A roughly cube-shaped bone whose length, width and height are similar. It is mostly spongy bone inside a thin shell of compact bone, and it occurs where many small bones share load and allow limited gliding: the carpal and tarsal bones.",
+   "id": "Tulang yang panjang, lebar, dan tingginya hampir sama sehingga bentuknya menyerupai kubus. Isinya sebagian besar substantia spongiosa yang dibungkus lapisan tipis substantia compacta. Contohnya ossa carpi (os scaphoideum, os lunatum, dan lain-lain) dan ossa tarsi (talus, calcaneus, dan lain-lain)."
+  },
+  "facts": {
+   "type": "Os breve",
+   "examples": [
+    "Ossa carpi",
+    "Ossa tarsi"
+   ],
+   "note": {
+    "en": "The module spells this class \"Os Brevis\"; the correct neuter Latin form is \"Os breve\".",
+    "id": "Modul menuliskannya \"Os Brevis\"; bentuk Latin yang benar adalah \"Os breve\"."
+   }
+  },
+  "quiz": {
+   "examples": [
+    "Os scaphoideum",
+    "Os lunatum",
+    "Os triquetrum",
+    "Os pisiforme",
+    "Os trapezium",
+    "Os trapezoideum",
+    "Os capitatum",
+    "Os hamatum",
+    "Talus",
+    "Calcaneus",
+    "Os naviculare",
+    "Os cuboideum",
+    "Os cuneiforme",
+    "Ossa carpi",
+    "Ossa tarsi"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "os-planum",
+  "kind": "bone",
+  "la": "Os planum",
+  "alt": [
+   "Ossa plana"
+  ],
+  "en": "Flat bone",
+  "desc": {
+   "en": "A thin, flat and often curved bone made of two plates of compact bone with spongy bone (diploe in the skull) between them. Flat bones protect organs and give wide areas for muscle attachment; examples are the parietal, frontal and occipital bones, the nasal and lacrimal bones, the vomer, the sternum, the ribs and the scapula.",
+   "id": "Tulang tipis, pipih, dan sering melengkung, tersusun atas dua lempeng substantia compacta dengan substantia spongiosa di antaranya (pada tengkorak disebut diploe). Tulang pipih melindungi organ dan memberi permukaan luas untuk perlekatan otot. Contohnya os parietale, os frontale, os occipitale, os nasale, os lacrimale, vomer, sternum, costae, dan scapula."
+  },
+  "facts": {
+   "type": "Os planum",
+   "examples": [
+    "Os parietale",
+    "Os frontale",
+    "Os occipitale",
+    "Os nasale",
+    "Os lacrimale",
+    "Vomer",
+    "Sternum",
+    "Costae",
+    "Scapula"
+   ]
+  },
+  "quiz": {
+   "examples": [
+    "Os parietale",
+    "Os frontale",
+    "Os occipitale",
+    "Sternum",
+    "Costa",
+    "Scapula",
+    "Os nasale",
+    "Os lacrimale",
+    "Vomer"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "os-irregulare",
+  "kind": "bone",
+  "la": "Os irregulare",
+  "alt": [
+   "Ossa irregularia",
+   "Os irregularis"
+  ],
+  "en": "Irregular bone",
+  "desc": {
+   "en": "A bone with a complex shape that fits none of the other classes. The vertebrae, sacrum and coccyx are the standard examples; many skull bones (sphenoid, ethmoid, temporal, zygomatic, palatine, mandible, inferior nasal concha), the hyoid bone and the hip bone are also classed as irregular.",
+   "id": "Tulang dengan bentuk rumit yang tidak cocok dengan golongan lain. Contoh baku adalah vertebrae, os sacrum, dan os coccygis; banyak tulang tengkorak (os sphenoidale, os ethmoidale, os temporale, os zygomaticum, os palatinum, mandibula, concha nasalis inferior), os hyoideum, dan os coxae juga digolongkan ke sini."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "examples": [
+    "Vertebrae",
+    "Os sacrum",
+    "Os coccygis",
+    "Os sphenoidale",
+    "Os ethmoidale",
+    "Os temporale",
+    "Mandibula",
+    "Os zygomaticum",
+    "Os palatinum",
+    "Concha nasalis inferior",
+    "Os hyoideum",
+    "Os coxae"
+   ],
+   "note": {
+    "en": "The module spells this class \"Os Irregularis\"; the correct neuter Latin form is \"Os irregulare\".",
+    "id": "Modul menuliskannya \"Os Irregularis\"; bentuk Latin yang benar adalah \"Os irregulare\"."
+   }
+  },
+  "quiz": {
+   "examples": [
+    "Vertebra",
+    "Os sacrum",
+    "Os coccygis",
+    "Mandibula",
+    "Os sphenoidale",
+    "Os ethmoidale",
+    "Os temporale",
+    "Os zygomaticum",
+    "Os palatinum",
+    "Os hyoideum",
+    "Os coxae"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "os-sesamoideum",
+  "kind": "bone",
+  "la": "Os sesamoideum",
+  "alt": [
+   "Ossa sesamoidea",
+   "Os sesamoid",
+   "Os sesamoidea"
+  ],
+  "en": "Sesamoid bone",
+  "desc": {
+   "en": "A small bone that develops inside a tendon where the tendon runs over a joint or a bony surface. It protects the tendon from wear and changes its angle of pull. The patella, in the quadriceps tendon, is the largest; others are the pisiform and the paired sesamoids at the first metatarsophalangeal and thumb metacarpophalangeal joints.",
+   "id": "Tulang kecil yang tumbuh di dalam tendo pada tempat tendo melewati sendi atau permukaan tulang. Tulang ini melindungi tendo dari gesekan dan mengubah sudut tarikan otot. Patella di dalam tendo m. quadriceps femoris adalah yang terbesar; contoh lain os pisiforme serta sepasang ossa sesamoidea pada articulatio metatarsophalangea I dan articulatio metacarpophalangea pollicis."
+  },
+  "facts": {
+   "type": "Os sesamoideum",
+   "examples": [
+    "Patella",
+    "Os pisiforme",
+    "Ossa sesamoidea articulationis metatarsophalangeae I",
+    "Ossa sesamoidea pollicis"
+   ]
+  },
+  "quiz": {
+   "examples": [
+    "Patella",
+    "Os pisiforme",
+    "Os sesamoideum hallucis",
+    "Os sesamoideum pollicis"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "os-pneumaticum",
+  "kind": "bone",
+  "la": "Os pneumaticum",
+  "alt": [
+   "Ossa pneumatica"
+  ],
+  "en": "Pneumatic bone",
+  "desc": {
+   "en": "A bone that contains air spaces lined with mucosa: the paranasal sinuses and the mastoid air cells. The spaces make the skull lighter and add resonance to the voice. Examples are the frontal bone, maxilla, sphenoid, ethmoid and temporal bone.",
+   "id": "Tulang yang berisi rongga udara berlapis mukosa, yaitu sinus paranasales dan cellulae mastoideae. Rongga ini meringankan tengkorak dan menambah resonansi suara. Contohnya os frontale, maxilla, os sphenoidale, os ethmoidale, dan os temporale."
+  },
+  "facts": {
+   "type": "Os pneumaticum",
+   "examples": [
+    "Os frontale",
+    "Maxilla",
+    "Os sphenoidale",
+    "Os ethmoidale",
+    "Os temporale"
+   ],
+   "note": {
+    "en": "The module lists five shape classes; the pneumatic class is the sixth one taught at FK and in most textbooks. A pneumatic bone can also be counted under another class (the frontal bone is also flat).",
+    "id": "Modul menyebut lima golongan bentuk; os pneumaticum adalah golongan keenam yang juga diajarkan di FK dan di kebanyakan buku ajar. Tulang pneumatik dapat sekaligus masuk golongan lain (os frontale juga tulang pipih)."
+   }
+  },
+  "quiz": {
+   "examples": [
+    "Os frontale",
+    "Maxilla",
+    "Os sphenoidale",
+    "Os ethmoidale",
+    "Os temporale"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "skeleton-axiale",
+  "kind": "bone",
+  "la": "Skeleton axiale",
+  "alt": [
+   "Skeleton axialis"
+  ],
+  "en": "Axial skeleton",
+  "desc": {
+   "en": "The bones along the central axis of the body: the skull with the mandible, the auditory ossicles, the hyoid bone, the vertebral column (vertebrae, sacrum, coccyx), the ribs and the sternum. In the adult it counts 80 bones and protects the brain, spinal cord and thoracic organs.",
+   "id": "Tulang-tulang yang membentuk sumbu tubuh: cranium beserta mandibula, ossicula auditus, os hyoideum, columna vertebralis (vertebrae, os sacrum, os coccygis), costae, dan sternum. Pada orang dewasa jumlahnya 80 tulang; rangka ini melindungi otak, medulla spinalis, dan organ rongga dada."
+  },
+  "facts": {
+   "count": "80",
+   "groups": [
+    "Cranium (22)",
+    "Ossicula auditus (6)",
+    "Os hyoideum (1)",
+    "Columna vertebralis (26)",
+    "Costae (24)",
+    "Sternum (1)"
+   ],
+   "note": {
+    "en": "The sacrum and coccyx belong to the axial skeleton even though they form part of the bony pelvis.",
+    "id": "Os sacrum dan os coccygis termasuk skeleton axiale walaupun ikut membentuk pelvis."
+   }
+  },
+  "quiz": {
+   "examples": [
+    "Cranium",
+    "Mandibula",
+    "Os hyoideum",
+    "Vertebra",
+    "Os sacrum",
+    "Os coccygis",
+    "Costa",
+    "Sternum",
+    "Ossicula auditus"
+   ],
+   "count": [
+    "80",
+    "delapan puluh"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "skeleton-appendiculare",
+  "kind": "bone",
+  "la": "Skeleton appendiculare",
+  "alt": [
+   "Skeleton appendicularis"
+  ],
+  "en": "Appendicular skeleton",
+  "desc": {
+   "en": "The bones of the limbs together with the girdles that attach them to the axial skeleton: the pectoral girdle (clavicle, scapula), the upper limb bones, the pelvic girdle (hip bone) and the lower limb bones. It counts 126 bones in the adult.",
+   "id": "Tulang anggota gerak beserta gelang yang menghubungkannya ke skeleton axiale: cingulum pectorale (clavicula, scapula), tulang membrum superius, cingulum pelvicum (os coxae), dan tulang membrum inferius. Jumlahnya 126 tulang pada orang dewasa."
+  },
+  "facts": {
+   "count": "126",
+   "groups": [
+    "Cingulum pectorale: clavicula, scapula (4)",
+    "Membrum superius: humerus, radius, ulna, ossa carpi, ossa metacarpi, phalanges (60)",
+    "Cingulum pelvicum: os coxae (2)",
+    "Membrum inferius: femur, patella, tibia, fibula, ossa tarsi, ossa metatarsi, phalanges (60)"
+   ]
+  },
+  "quiz": {
+   "examples": [
+    "Clavicula",
+    "Scapula",
+    "Humerus",
+    "Radius",
+    "Ulna",
+    "Os coxae",
+    "Femur",
+    "Patella",
+    "Tibia",
+    "Fibula",
+    "Ossa carpi",
+    "Ossa tarsi"
+   ],
+   "count": [
+    "126",
+    "seratus dua puluh enam"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "cranium",
+  "kind": "bone",
+  "la": "Cranium",
+  "alt": [
+   "Ossa cranii",
+   "Skeleton capitis"
+  ],
+  "en": "Skull",
+  "desc": {
+   "en": "The skeleton of the head, 22 bones without the auditory ossicles. The neurocranium (8 bones: frontal, two parietal, occipital, two temporal, sphenoid, ethmoid) encloses the brain; the viscerocranium (14 bones: two each of nasal, lacrimal, zygomatic, maxilla, palatine and inferior nasal concha, plus the vomer and mandible) forms the face. Apart from the mandible, the bones are joined by sutures.",
+   "id": "Kerangka kepala, terdiri atas 22 tulang tanpa ossicula auditus. Neurocranium (8 tulang: os frontale, dua os parietale, os occipitale, dua os temporale, os sphenoidale, os ethmoidale) membungkus otak; viscerocranium (14 tulang: masing-masing sepasang os nasale, os lacrimale, os zygomaticum, maxilla, os palatinum, dan concha nasalis inferior, ditambah vomer dan mandibula) membentuk wajah. Kecuali mandibula, tulang-tulangnya disatukan oleh sutura."
+  },
+  "facts": {
+   "type": "Os planum",
+   "skeleton": "Skeleton axiale",
+   "groups": [
+    "Neurocranium: Os frontale, Os parietale (2), Os occipitale, Os temporale (2), Os sphenoidale, Os ethmoidale",
+    "Viscerocranium: Os nasale (2), Os lacrimale (2), Os zygomaticum (2), Maxilla (2), Os palatinum (2), Concha nasalis inferior (2), Vomer, Mandibula"
+   ],
+   "note": {
+    "en": "Moore also counts the ethmoid among the facial bones, because it forms much of the nasal cavity.",
+    "id": "Moore juga memasukkan os ethmoidale ke tulang wajah karena tulang ini membentuk sebagian besar cavitas nasi."
+   }
+  },
+  "quiz": {
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "columna-vertebralis",
+  "kind": "bone",
+  "la": "Columna vertebralis",
+  "alt": [
+   "Vertebrae"
+  ],
+  "en": "Vertebral column",
+  "desc": {
+   "en": "The flexible column of 33 vertebrae: 7 cervical, 12 thoracic, 5 lumbar, 5 sacral fused into the sacrum and usually 4 coccygeal fused into the coccyx. It supports the head and trunk, protects the spinal cord, carries body weight to the pelvis and allows movement. The adult column has four curvatures: thoracic and sacral kyphoses (primary, present at birth) and cervical and lumbar lordoses (secondary, appearing when the infant holds up the head and starts to walk).",
+   "id": "Tiang lentur dari 33 vertebrae: 7 cervicales, 12 thoracicae, 5 lumbales, 5 sacrales yang menyatu menjadi os sacrum, dan biasanya 4 coccygeae yang menyatu menjadi os coccygis. Columna vertebralis menopang kepala dan badan, melindungi medulla spinalis, meneruskan berat badan ke pelvis, dan memungkinkan gerak. Pada dewasa terdapat empat lengkung: kyphosis thoracica dan sacralis (primer, sudah ada sejak lahir) serta lordosis cervicalis dan lumbalis (sekunder, muncul saat bayi mulai menegakkan kepala dan berjalan)."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "groups": [
+    "Vertebrae cervicales (7)",
+    "Vertebrae thoracicae (12)",
+    "Vertebrae lumbales (5)",
+    "Os sacrum (5 fused)",
+    "Os coccygis (3-5 fused, usually 4)"
+   ],
+   "features": [
+    "vertebra",
+    "cervical-vertebra",
+    "thoracic-vertebra",
+    "lumbar-vertebra",
+    "sacrum",
+    "coccyx",
+    "intervertebral-disc"
+   ]
+  },
+  "quiz": {
+   "count": [
+    "33",
+    "tiga puluh tiga"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "compages-thoracis",
+  "kind": "bone",
+  "la": "Compages thoracis",
+  "alt": [
+   "Cavea thoracis",
+   "Skeleton thoracis"
+  ],
+  "en": "Thoracic skeleton (thoracic cage)",
+  "desc": {
+   "en": "The osteocartilaginous cage of the chest: 12 thoracic vertebrae with their intervertebral discs behind, 12 pairs of ribs with their costal cartilages at the sides and the sternum in front. It protects the heart, lungs and upper abdominal organs, and its movements change the volume of the thoracic cavity in breathing. It opens above at the superior thoracic aperture and below at the inferior thoracic aperture.",
+   "id": "Kerangka tulang dan tulang rawan dada: 12 vertebrae thoracicae beserta discus intervertebralis di belakang, 12 pasang costae beserta cartilagines costales di samping, dan sternum di depan. Kerangka ini melindungi jantung, paru, dan organ abdomen atas, dan gerakannya mengubah volume cavitas thoracis saat bernapas. Di atas terbuka sebagai apertura thoracis superior dan di bawah sebagai apertura thoracis inferior."
+  },
+  "facts": {
+   "skeleton": "Skeleton axiale",
+   "groups": [
+    "Vertebrae thoracicae I-XII",
+    "Costae I-XII",
+    "Cartilagines costales",
+    "Sternum"
+   ],
+   "features": [
+    "sternum",
+    "rib",
+    "thoracic-vertebra",
+    "superior-thoracic-aperture",
+    "inferior-thoracic-aperture",
+    "costal-margin",
+    "intercostal-space"
+   ]
+  },
+  "quiz": {
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "junctura-fibrosa",
+  "kind": "joint",
+  "la": "Junctura fibrosa",
+  "alt": [
+   "Juncturae fibrosae",
+   "Articulatio fibrosa"
+  ],
+  "en": "Fibrous joint",
+  "desc": {
+   "en": "A joint in which the bones are united by dense fibrous tissue without a joint cavity. Movement is absent or very small (synarthrosis). There are three types: sutures of the skull, syndesmoses and gomphoses.",
+   "id": "Sendi yang tulangnya dihubungkan jaringan ikat fibrosa padat tanpa cavitas articularis. Gerakannya tidak ada atau sangat sedikit (synarthrosis). Ada tiga jenis: sutura pada tengkorak, syndesmosis, dan gomphosis."
+  },
+  "facts": {
+   "class": "Junctura fibrosa",
+   "subtypes": [
+    "Sutura",
+    "Syndesmosis",
+    "Gomphosis"
+   ]
+  },
+  "quiz": {
+   "class": [
+    "Junctura fibrosa",
+    "fibrosa",
+    "Articulatio fibrosa",
+    "sendi fibrosa",
+    "synarthrosis"
+   ],
+   "subtypes": [
+    "Sutura",
+    "Syndesmosis",
+    "Gomphosis"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "sutura",
+  "kind": "joint",
+  "la": "Sutura",
+  "alt": [
+   "Suturae"
+  ],
+  "en": "Suture",
+  "desc": {
+   "en": "A fibrous joint found only in the skull, where the edges of two bones are held together by a thin layer of fibrous tissue. The edges may interlock (sutura serrata, e.g. the sagittal suture), overlap (sutura squamosa) or meet flat (sutura plana). Many sutures ossify (synostosis) in adult life; in the newborn the wide fibrous areas between bones are the fontanelles.",
+   "id": "Sendi fibrosa yang hanya terdapat pada tengkorak; tepi dua tulang disatukan oleh lapisan tipis jaringan fibrosa. Tepinya dapat saling mengunci (sutura serrata, misalnya sutura sagittalis), saling tumpang (sutura squamosa), atau bertemu rata (sutura plana). Banyak sutura menulang (synostosis) pada usia dewasa; pada bayi baru lahir, daerah fibrosa yang lebar di antara tulang disebut fonticulus."
+  },
+  "facts": {
+   "class": "Junctura fibrosa",
+   "subtype": "Sutura",
+   "examples": [
+    "Sutura coronalis",
+    "Sutura sagittalis",
+    "Sutura lambdoidea",
+    "Sutura squamosa"
+   ]
+  },
+  "quiz": {
+   "type": [
+    "Sutura",
+    "sutura"
+   ],
+   "class": [
+    "Junctura fibrosa",
+    "fibrosa",
+    "Articulatio fibrosa",
+    "sendi fibrosa",
+    "synarthrosis"
+   ],
+   "examples": [
+    "Sutura coronalis",
+    "Sutura sagittalis",
+    "Sutura lambdoidea",
+    "Sutura squamosa"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "syndesmosis",
+  "kind": "joint",
+  "la": "Syndesmosis",
+  "alt": [
+   "Syndesmoses",
+   "Junctura fibrosa syndesmotica"
+  ],
+  "en": "Syndesmosis",
+  "desc": {
+   "en": "A fibrous joint in which the bones are joined by a ligament or a sheet of fibrous tissue (interosseous membrane), so a little movement is possible. Examples are the interosseous membranes of the forearm and leg and the distal tibiofibular joint; in the axial skeleton the ligamenta flava, interspinous ligaments and the cranial syndesmoses (stylohyoid and pterygospinous ligaments) belong to this type.",
+   "id": "Sendi fibrosa yang tulangnya dihubungkan oleh ligamentum atau lembaran jaringan fibrosa (membrana interossea), sehingga masih ada sedikit gerakan. Contohnya membrana interossea antebrachii dan cruris serta syndesmosis tibiofibularis; pada skeleton axiale, ligamenta flava, ligamenta interspinalia, dan syndesmoses cranii (lig. stylohyoideum, lig. pterygospinale) termasuk jenis ini."
+  },
+  "facts": {
+   "class": "Junctura fibrosa",
+   "subtype": "Syndesmosis",
+   "examples": [
+    "Membrana interossea antebrachii",
+    "Syndesmosis tibiofibularis",
+    "Membrana interossea cruris",
+    "Ligamenta flava",
+    "Ligamentum stylohyoideum"
+   ]
+  },
+  "quiz": {
+   "type": [
+    "Syndesmosis",
+    "syndesmosis"
+   ],
+   "class": [
+    "Junctura fibrosa",
+    "fibrosa",
+    "Articulatio fibrosa",
+    "sendi fibrosa",
+    "synarthrosis"
+   ],
+   "examples": [
+    "Membrana interossea antebrachii",
+    "Syndesmosis tibiofibularis",
+    "Membrana interossea cruris",
+    "Ligamenta flava",
+    "Ligamentum interspinale"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "gomphosis",
+  "kind": "joint",
+  "la": "Gomphosis",
+  "alt": [
+   "Syndesmosis dentoalveolaris",
+   "Articulatio dentoalveolaris"
+  ],
+  "en": "Gomphosis (dentoalveolar joint)",
+  "desc": {
+   "en": "A peg-in-socket fibrous joint: the root of a tooth is held in its alveolus in the maxilla or mandible by the periodontal ligament. The teeth are the only example; the joint allows only tiny movements under chewing loads, and the periodontal ligament carries sensory endings that sense biting force.",
+   "id": "Sendi fibrosa model pasak dalam lubang: radix dentis tertanam di alveolus maxilla atau mandibula dan diikat oleh periodontium (ligamentum periodontale). Contohnya hanya gigi; gerakannya sangat kecil saat mengunyah, dan ligamentum periodontale berisi ujung saraf sensoris yang merasakan kekuatan gigitan."
+  },
+  "facts": {
+   "class": "Junctura fibrosa",
+   "subtype": "Gomphosis",
+   "examples": [
+    "Dentes in alveolis dentales"
+   ]
+  },
+  "quiz": {
+   "type": [
+    "Gomphosis",
+    "gomphosis"
+   ],
+   "class": [
+    "Junctura fibrosa",
+    "fibrosa",
+    "Articulatio fibrosa",
+    "sendi fibrosa",
+    "synarthrosis"
+   ],
+   "examples": [
+    "Gigi pada alveolus",
+    "Articulatio dentoalveolaris",
+    "Dens"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "junctura-cartilaginea",
+  "kind": "joint",
+  "la": "Junctura cartilaginea",
+  "alt": [
+   "Juncturae cartilagineae",
+   "Articulatio cartilaginea"
+  ],
+  "en": "Cartilaginous joint",
+  "desc": {
+   "en": "A joint in which the bones are united by hyaline cartilage or fibrocartilage, with no joint cavity. In a synchondrosis (primary cartilaginous joint) the link is hyaline cartilage; in a symphysis (secondary cartilaginous joint) it is fibrocartilage.",
+   "id": "Sendi yang tulangnya disatukan oleh cartilago hyalina atau fibrocartilago, tanpa cavitas articularis. Pada synchondrosis (sendi kartilaginosa primer) penghubungnya cartilago hyalina; pada symphysis (sendi kartilaginosa sekunder) penghubungnya fibrocartilago."
+  },
+  "facts": {
+   "class": "Junctura cartilaginea",
+   "subtypes": [
+    "Synchondrosis",
+    "Symphysis"
+   ]
+  },
+  "quiz": {
+   "class": [
+    "Junctura cartilaginea",
+    "cartilaginea",
+    "Articulatio cartilaginea",
+    "sendi kartilaginosa",
+    "amphiarthrosis"
+   ],
+   "subtypes": [
+    "Synchondrosis",
+    "Symphysis"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "synchondrosis",
+  "kind": "joint",
+  "la": "Synchondrosis",
+  "alt": [
+   "Synchondroses"
+  ],
+  "en": "Synchondrosis (primary cartilaginous joint)",
+  "desc": {
+   "en": "A cartilaginous joint in which the bones are united by hyaline cartilage. Most are temporary growth joints that ossify later (the epiphysial plates, the spheno-occipital synchondrosis). Permanent examples are the joint between the first costal cartilage and the manubrium and the costochondral joints.",
+   "id": "Sendi kartilaginosa yang tulangnya disatukan cartilago hyalina. Sebagian besar bersifat sementara sebagai tempat pertumbuhan dan kemudian menulang (lamina epiphysialis, synchondrosis sphenooccipitalis). Contoh yang menetap adalah sendi antara cartilago costalis I dan manubrium sterni serta articulationes costochondrales."
+  },
+  "facts": {
+   "class": "Junctura cartilaginea",
+   "subtype": "Synchondrosis",
+   "examples": [
+    "Lamina epiphysialis",
+    "Synchondrosis sphenooccipitalis",
+    "Synchondrosis costae primae",
+    "Articulationes costochondrales"
+   ]
+  },
+  "quiz": {
+   "type": [
+    "Synchondrosis",
+    "synchondrosis"
+   ],
+   "class": [
+    "Junctura cartilaginea",
+    "cartilaginea",
+    "Articulatio cartilaginea",
+    "sendi kartilaginosa",
+    "amphiarthrosis"
+   ],
+   "examples": [
+    "Lamina epiphysialis",
+    "Synchondrosis costae primae",
+    "Synchondrosis sphenooccipitalis",
+    "Articulatio costochondralis"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "symphysis",
+  "kind": "joint",
+  "la": "Symphysis",
+  "alt": [
+   "Symphyses"
+  ],
+  "en": "Symphysis (secondary cartilaginous joint)",
+  "desc": {
+   "en": "A strong, slightly movable cartilaginous joint in which hyaline-covered bone surfaces are joined by a plate of fibrocartilage; most lie in the median plane. Examples are the pubic symphysis, the joints between vertebral bodies (intervertebral discs) and the manubriosternal joint.",
+   "id": "Sendi kartilaginosa yang kuat dan sedikit bergerak; permukaan tulang berlapis cartilago hyalina dihubungkan lempeng fibrocartilago, dan sebagian besar terletak di bidang median. Contohnya symphysis pubica, sendi antar-corpus vertebrae (discus intervertebralis), dan symphysis manubriosternalis."
+  },
+  "facts": {
+   "class": "Junctura cartilaginea",
+   "subtype": "Symphysis",
+   "examples": [
+    "Symphysis pubica",
+    "Symphysis intervertebralis",
+    "Symphysis manubriosternalis"
+   ]
+  },
+  "quiz": {
+   "type": [
+    "Symphysis",
+    "symphysis"
+   ],
+   "class": [
+    "Junctura cartilaginea",
+    "cartilaginea",
+    "Articulatio cartilaginea",
+    "sendi kartilaginosa",
+    "amphiarthrosis"
+   ],
+   "examples": [
+    "Symphysis pubica",
+    "Symphysis intervertebralis",
+    "Discus intervertebralis",
+    "Symphysis manubriosternalis"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "articulatio-synovialis",
+  "kind": "joint",
+  "la": "Articulatio synovialis",
+  "alt": [
+   "Articulationes synoviales",
+   "Junctura synovialis",
+   "Diarthrosis"
+  ],
+  "en": "Synovial joint",
+  "desc": {
+   "en": "A freely movable joint in which the bone ends are separated by a joint cavity and enclosed in an articular capsule, whose synovial membrane secretes synovial fluid; the articular surfaces carry articular cartilage. Synovial joints are classed by the shape of their surfaces (plana, ginglymus, trochoidea, ellipsoidea, sellaris, spheroidea; TA also names bicondylaris and cotylica), by the number of bones (simplex or composita) and by the number of movement axes.",
+   "id": "Sendi yang bebas bergerak; ujung-ujung tulang dipisahkan cavitas articularis dan dibungkus capsula articularis, yang membrana synovialis-nya menghasilkan synovia; permukaan sendi dilapisi cartilago articularis. Sendi sinovial digolongkan menurut bentuk permukaannya (plana, ginglymus, trochoidea, ellipsoidea, sellaris, spheroidea; TA juga menyebut bicondylaris dan cotylica), menurut jumlah tulang (simplex atau composita), dan menurut jumlah sumbu gerak."
+  },
+  "facts": {
+   "class": "Articulatio synovialis",
+   "parts": [
+    "cartilago-articularis",
+    "capsula-articularis",
+    "membrana-synovialis",
+    "cavitas-articularis",
+    "ligamentum-articulare",
+    "discus-articularis"
+   ],
+   "shapes": [
+    "articulatio-plana",
+    "ginglymus",
+    "articulatio-trochoidea",
+    "articulatio-ellipsoidea",
+    "articulatio-sellaris",
+    "articulatio-spheroidea",
+    "articulatio-bicondylaris",
+    "articulatio-cotylica"
+   ]
+  },
+  "quiz": {
+   "class": [
+    "Articulatio synovialis",
+    "synovialis",
+    "Junctura synovialis",
+    "sendi sinovial",
+    "diarthrosis"
+   ],
+   "components": [
+    "Cartilago articularis",
+    "Capsula articularis",
+    "Membrana synovialis",
+    "Cavitas articularis",
+    "Ligamenta",
+    "Discus articularis",
+    "Meniscus",
+    "Synovia"
+   ],
+   "shapes": [
+    "Articulatio plana",
+    "Ginglymus",
+    "Articulatio trochoidea",
+    "Articulatio ellipsoidea",
+    "Articulatio sellaris",
+    "Articulatio spheroidea"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "articulatio-plana",
+  "kind": "joint",
+  "la": "Articulatio plana",
+  "alt": [
+   "Articulationes planae",
+   "Arthrodia",
+   "Plana"
+  ],
+  "en": "Plane (gliding) joint",
+  "desc": {
+   "en": "A synovial joint with flat or slightly curved surfaces that slide on each other; a tight capsule keeps the movement small. Examples: the acromioclavicular joint, intercarpal joints, zygapophysial joints, joints of the heads of ribs, costotransverse joints and the sternocostal joints of ribs 2-7.",
+   "id": "Sendi sinovial dengan permukaan datar atau sedikit melengkung yang saling bergeser; capsula yang ketat membatasi luas gerakannya. Contohnya articulatio acromioclavicularis, articulationes intercarpales, articulationes zygapophysiales, articulatio capitis costae, articulatio costotransversaria, dan articulationes sternocostales II-VII."
+  },
+  "facts": {
+   "class": "Articulatio synovialis",
+   "subtype": "Articulatio plana",
+   "axes": "multiaxial",
+   "examples": [
+    "Articulatio acromioclavicularis",
+    "Articulationes intercarpales",
+    "Articulationes zygapophysiales",
+    "Articulatio capitis costae",
+    "Articulatio costotransversaria",
+    "Articulationes sternocostales"
+   ],
+   "movements": {
+    "en": "Small gliding (sliding) movements in the plane of the surfaces.",
+    "id": "Gerakan menggeser yang kecil pada bidang permukaan sendi."
+   },
+   "note": {
+    "en": "Because the movement is gliding, some textbooks call plane joints non-axial; others class them as multiaxial because the gliding can occur in several directions.",
+    "id": "Karena gerakannya menggeser, sebagian buku menyebut sendi plana non-aksial; buku lain menggolongkannya multiaksial karena geseran dapat terjadi ke beberapa arah."
+   }
+  },
+  "quiz": {
+   "type": [
+    "Articulatio plana",
+    "plana",
+    "arthrodia",
+    "sendi geser"
+   ],
+   "class": [
+    "Articulatio synovialis",
+    "synovialis",
+    "Junctura synovialis",
+    "sendi sinovial",
+    "diarthrosis"
+   ],
+   "axes": [
+    "multiaxial",
+    "multiaksial",
+    "non-aksial",
+    "nonaxial",
+    "anaxial"
+   ],
+   "examples": [
+    "Articulatio acromioclavicularis",
+    "Articulatio intercarpalis",
+    "Articulatio zygapophysialis",
+    "Articulatio costotransversaria",
+    "Articulatio capitis costae",
+    "Articulatio sternocostalis"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "ginglymus",
+  "kind": "joint",
+  "la": "Ginglymus",
+  "alt": [
+   "Articulatio ginglymus",
+   "Ginglymi"
+  ],
+  "en": "Hinge joint",
+  "desc": {
+   "en": "A uniaxial synovial joint in which a pulley-shaped surface fits into a concave one, allowing only flexion and extension around a transverse axis; strong collateral ligaments stop sideways movement. Examples: the humeroulnar joint, the interphalangeal joints of hand and foot and the talocrural (ankle) joint.",
+   "id": "Sendi sinovial uniaksial; permukaan berbentuk katrol masuk ke permukaan cekung sehingga hanya terjadi fleksi dan ekstensi pada sumbu transversal; ligamentum collaterale yang kuat mencegah gerak ke samping. Contohnya articulatio humeroulnaris, articulationes interphalangeae manus et pedis, dan articulatio talocruralis."
+  },
+  "facts": {
+   "class": "Articulatio synovialis",
+   "subtype": "Ginglymus",
+   "axes": "uniaxial",
+   "examples": [
+    "Articulatio humeroulnaris",
+    "Articulationes interphalangeae manus",
+    "Articulationes interphalangeae pedis",
+    "Articulatio talocruralis"
+   ],
+   "movements": {
+    "en": "Flexion and extension.",
+    "id": "Fleksi dan ekstensi."
+   }
+  },
+  "quiz": {
+   "type": [
+    "Ginglymus",
+    "ginglymus",
+    "sendi engsel"
+   ],
+   "class": [
+    "Articulatio synovialis",
+    "synovialis",
+    "Junctura synovialis",
+    "sendi sinovial",
+    "diarthrosis"
+   ],
+   "axes": [
+    "uniaxial",
+    "uniaksial"
+   ],
+   "examples": [
+    "Articulatio humeroulnaris",
+    "Articulatio interphalangea",
+    "Articulatio talocruralis"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "articulatio-trochoidea",
+  "kind": "joint",
+  "la": "Articulatio trochoidea",
+  "alt": [
+   "Trochoidea",
+   "Articulatio trochoides"
+  ],
+  "en": "Pivot joint",
+  "desc": {
+   "en": "A uniaxial synovial joint in which a rounded bony process turns inside a ring made partly of bone and partly of ligament, giving rotation around a longitudinal axis. Examples: the median atlanto-axial joint (dens in the ring of the atlas and its transverse ligament) and the proximal and distal radio-ulnar joints.",
+   "id": "Sendi sinovial uniaksial; tonjolan tulang yang bulat berputar di dalam cincin yang dibentuk sebagian oleh tulang dan sebagian oleh ligamentum, sehingga terjadi rotasi pada sumbu longitudinal. Contohnya articulatio atlantoaxialis mediana (dens di dalam cincin atlas dan ligamentum transversum atlantis) serta articulatio radioulnaris proximalis et distalis."
+  },
+  "facts": {
+   "class": "Articulatio synovialis",
+   "subtype": "Articulatio trochoidea",
+   "axes": "uniaxial",
+   "examples": [
+    "Articulatio atlantoaxialis mediana",
+    "Articulatio radioulnaris proximalis",
+    "Articulatio radioulnaris distalis"
+   ],
+   "movements": {
+    "en": "Rotation around the long axis.",
+    "id": "Rotasi pada sumbu panjang."
+   }
+  },
+  "quiz": {
+   "type": [
+    "Articulatio trochoidea",
+    "trochoidea",
+    "sendi putar",
+    "sendi pasak"
+   ],
+   "class": [
+    "Articulatio synovialis",
+    "synovialis",
+    "Junctura synovialis",
+    "sendi sinovial",
+    "diarthrosis"
+   ],
+   "axes": [
+    "uniaxial",
+    "uniaksial"
+   ],
+   "examples": [
+    "Articulatio atlantoaxialis mediana",
+    "Articulatio radioulnaris proximalis",
+    "Articulatio radioulnaris distalis"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "articulatio-ellipsoidea",
+  "kind": "joint",
+  "la": "Articulatio ellipsoidea",
+  "alt": [
+   "Articulatio condylaris",
+   "Ellipsoidea",
+   "Condylaris"
+  ],
+  "en": "Ellipsoid (condyloid) joint",
+  "desc": {
+   "en": "A biaxial synovial joint in which an oval convex surface sits in an oval concavity. It allows flexion-extension and abduction-adduction, and circumduction as their combination, but no axial rotation. Examples: the radiocarpal joint, the metacarpophalangeal joints of fingers 2-5 and the atlanto-occipital joint.",
+   "id": "Sendi sinovial biaksial; permukaan cembung berbentuk lonjong duduk dalam cekungan lonjong. Gerakannya fleksi-ekstensi dan abduksi-adduksi, serta circumductio sebagai gabungannya, tanpa rotasi aksial. Contohnya articulatio radiocarpalis, articulationes metacarpophalangeae II-V, dan articulatio atlantooccipitalis."
+  },
+  "facts": {
+   "class": "Articulatio synovialis",
+   "subtype": "Articulatio ellipsoidea",
+   "axes": "biaxial",
+   "examples": [
+    "Articulatio radiocarpalis",
+    "Articulationes metacarpophalangeae",
+    "Articulatio atlantooccipitalis"
+   ],
+   "movements": {
+    "en": "Flexion-extension, abduction-adduction, circumduction.",
+    "id": "Fleksi-ekstensi, abduksi-adduksi, circumductio."
+   }
+  },
+  "quiz": {
+   "type": [
+    "Articulatio ellipsoidea",
+    "ellipsoidea",
+    "condylaris",
+    "articulatio condylaris",
+    "sendi elipsoid"
+   ],
+   "class": [
+    "Articulatio synovialis",
+    "synovialis",
+    "Junctura synovialis",
+    "sendi sinovial",
+    "diarthrosis"
+   ],
+   "axes": [
+    "biaxial",
+    "biaksial"
+   ],
+   "examples": [
+    "Articulatio radiocarpalis",
+    "Articulatio metacarpophalangea",
+    "Articulatio atlantooccipitalis"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "articulatio-sellaris",
+  "kind": "joint",
+  "la": "Articulatio sellaris",
+  "alt": [
+   "Sellaris"
+  ],
+  "en": "Saddle joint",
+  "desc": {
+   "en": "A biaxial synovial joint in which each surface is convex in one direction and concave in the other, like a rider on a saddle. It allows flexion-extension and abduction-adduction, and circumduction; at the thumb it also allows opposition. Examples: the carpometacarpal joint of the thumb and the sternoclavicular joint.",
+   "id": "Sendi sinovial biaksial; tiap permukaan cembung pada satu arah dan cekung pada arah lainnya, seperti penunggang di atas pelana. Gerakannya fleksi-ekstensi, abduksi-adduksi, dan circumductio; pada ibu jari juga oposisi. Contohnya articulatio carpometacarpalis pollicis dan articulatio sternoclavicularis."
+  },
+  "facts": {
+   "class": "Articulatio synovialis",
+   "subtype": "Articulatio sellaris",
+   "axes": "biaxial",
+   "examples": [
+    "Articulatio carpometacarpalis pollicis",
+    "Articulatio sternoclavicularis"
+   ],
+   "movements": {
+    "en": "Flexion-extension, abduction-adduction, circumduction (opposition at the thumb).",
+    "id": "Fleksi-ekstensi, abduksi-adduksi, circumductio (oposisi pada ibu jari)."
+   }
+  },
+  "quiz": {
+   "type": [
+    "Articulatio sellaris",
+    "sellaris",
+    "sendi pelana"
+   ],
+   "class": [
+    "Articulatio synovialis",
+    "synovialis",
+    "Junctura synovialis",
+    "sendi sinovial",
+    "diarthrosis"
+   ],
+   "axes": [
+    "biaxial",
+    "biaksial"
+   ],
+   "examples": [
+    "Articulatio carpometacarpalis pollicis",
+    "Articulatio sternoclavicularis"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "articulatio-spheroidea",
+  "kind": "joint",
+  "la": "Articulatio spheroidea",
+  "alt": [
+   "Spheroidea",
+   "Articulatio globoidea",
+   "Enarthrosis"
+  ],
+  "en": "Ball-and-socket joint",
+  "desc": {
+   "en": "A multiaxial synovial joint in which a spherical head turns in a cup-shaped socket. It allows flexion-extension, abduction-adduction, medial and lateral rotation and circumduction. Examples: the shoulder (glenohumeral) joint and the hip joint.",
+   "id": "Sendi sinovial multiaksial; caput yang bulat berputar di dalam mangkuk sendi. Gerakannya fleksi-ekstensi, abduksi-adduksi, rotasi medial dan lateral, serta circumductio. Contohnya articulatio humeri (glenohumeralis) dan articulatio coxae."
+  },
+  "facts": {
+   "class": "Articulatio synovialis",
+   "subtype": "Articulatio spheroidea",
+   "axes": "multiaxial",
+   "examples": [
+    "Articulatio humeri",
+    "Articulatio coxae"
+   ],
+   "movements": {
+    "en": "Flexion-extension, abduction-adduction, medial-lateral rotation, circumduction.",
+    "id": "Fleksi-ekstensi, abduksi-adduksi, rotasi medial-lateral, circumductio."
+   }
+  },
+  "quiz": {
+   "type": [
+    "Articulatio spheroidea",
+    "spheroidea",
+    "globoidea",
+    "enarthrosis",
+    "sendi peluru"
+   ],
+   "class": [
+    "Articulatio synovialis",
+    "synovialis",
+    "Junctura synovialis",
+    "sendi sinovial",
+    "diarthrosis"
+   ],
+   "axes": [
+    "multiaxial",
+    "multiaksial",
+    "triaxial",
+    "triaksial"
+   ],
+   "examples": [
+    "Articulatio humeri",
+    "Articulatio glenohumeralis",
+    "Articulatio coxae"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "articulatio-bicondylaris",
+  "kind": "joint",
+  "la": "Articulatio bicondylaris",
+  "alt": [
+   "Bicondylaris"
+  ],
+  "en": "Bicondylar joint",
+  "desc": {
+   "en": "A synovial joint in which two convex condyles on one bone meet two shallow surfaces on the other. Movement is mainly flexion-extension with some rotation, so it is usually counted as biaxial. The knee joint is the standard example.",
+   "id": "Sendi sinovial dengan dua condylus cembung pada satu tulang yang bertemu dua permukaan dangkal pada tulang lainnya. Gerakannya terutama fleksi-ekstensi dengan sedikit rotasi, sehingga biasanya digolongkan biaksial. Contoh bakunya articulatio genus."
+  },
+  "facts": {
+   "class": "Articulatio synovialis",
+   "subtype": "Articulatio bicondylaris",
+   "axes": "biaxial",
+   "examples": [
+    "Articulatio genus"
+   ]
+  },
+  "quiz": {
+   "type": [
+    "Articulatio bicondylaris",
+    "bicondylaris"
+   ],
+   "class": [
+    "Articulatio synovialis",
+    "synovialis",
+    "Junctura synovialis",
+    "sendi sinovial",
+    "diarthrosis"
+   ],
+   "axes": [
+    "biaxial",
+    "biaksial"
+   ],
+   "examples": [
+    "Articulatio genus"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "articulatio-cotylica",
+  "kind": "joint",
+  "la": "Articulatio cotylica",
+  "alt": [
+   "Cotylica",
+   "Enarthrosis"
+  ],
+  "en": "Cotyloid (deep ball-and-socket) joint",
+  "desc": {
+   "en": "A ball-and-socket joint whose socket covers more than half of the head. It is multiaxial like other ball-and-socket joints, with a smaller range and greater stability. The hip joint, with the acetabulum deepened by the acetabular labrum, is the example.",
+   "id": "Sendi peluru yang mangkuknya menutupi lebih dari separuh caput. Sendi ini multiaksial seperti sendi peluru lain, dengan luas gerak lebih kecil dan stabilitas lebih besar. Contohnya articulatio coxae, dengan acetabulum yang diperdalam labrum acetabuli."
+  },
+  "facts": {
+   "class": "Articulatio synovialis",
+   "subtype": "Articulatio cotylica",
+   "axes": "multiaxial",
+   "examples": [
+    "Articulatio coxae"
+   ]
+  },
+  "quiz": {
+   "type": [
+    "Articulatio cotylica",
+    "cotylica",
+    "enarthrosis"
+   ],
+   "class": [
+    "Articulatio synovialis",
+    "synovialis",
+    "Junctura synovialis",
+    "sendi sinovial",
+    "diarthrosis"
+   ],
+   "axes": [
+    "multiaxial",
+    "multiaksial",
+    "triaxial",
+    "triaksial"
+   ],
+   "examples": [
+    "Articulatio coxae"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "articulatio-simplex",
+  "kind": "joint",
+  "la": "Articulatio simplex",
+  "alt": [
+   "Articulationes simplices"
+  ],
+  "en": "Simple joint",
+  "desc": {
+   "en": "A synovial joint formed by two bones only, for example the glenohumeral, sternoclavicular and temporomandibular joints. A disc inside the joint does not change this count.",
+   "id": "Sendi sinovial yang hanya dibentuk dua tulang, misalnya articulatio humeri, articulatio sternoclavicularis, dan articulatio temporomandibularis. Adanya discus di dalam sendi tidak mengubah golongan ini."
+  },
+  "facts": {
+   "class": "Articulatio synovialis",
+   "examples": [
+    "Articulatio humeri",
+    "Articulatio sternoclavicularis",
+    "Articulatio temporomandibularis",
+    "Articulatio atlantooccipitalis"
+   ]
+  },
+  "quiz": {
+   "examples": [
+    "Articulatio humeri",
+    "Articulatio sternoclavicularis",
+    "Articulatio temporomandibularis",
+    "Articulatio atlantooccipitalis"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "articulatio-composita",
+  "kind": "joint",
+  "la": "Articulatio composita",
+  "alt": [
+   "Articulationes compositae"
+  ],
+  "en": "Compound joint",
+  "desc": {
+   "en": "A synovial joint formed by more than two bones within one capsule, for example the elbow joint (humerus, ulna, radius). In the trunk, the joint of the head of a typical rib is compound: the rib head meets two vertebral bodies.",
+   "id": "Sendi sinovial yang dibentuk lebih dari dua tulang dalam satu capsula, misalnya articulatio cubiti (humerus, ulna, radius). Pada badan, articulatio capitis costae dari costa tipikal termasuk composita karena caput costae bertemu dua corpus vertebrae."
+  },
+  "facts": {
+   "class": "Articulatio synovialis",
+   "examples": [
+    "Articulatio cubiti",
+    "Articulatio radiocarpalis",
+    "Articulatio capitis costae"
+   ]
+  },
+  "quiz": {
+   "examples": [
+    "Articulatio cubiti",
+    "Articulatio capitis costae"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "cartilago-articularis",
+  "kind": "cartilage",
+  "la": "Cartilago articularis",
+  "alt": [
+   "Cartilagines articulares"
+  ],
+  "en": "Articular cartilage",
+  "desc": {
+   "en": "The smooth layer, usually hyaline cartilage, that covers the articulating bone surfaces of a synovial joint. It lowers friction and spreads load. It has no blood vessels or nerves and is nourished by synovial fluid, so it heals poorly.",
+   "id": "Lapisan licin, umumnya cartilago hyalina, yang melapisi permukaan tulang yang bersendi pada sendi sinovial. Lapisan ini mengurangi gesekan dan meratakan beban. Tidak mengandung pembuluh darah maupun saraf dan mendapat nutrisi dari synovia, sehingga penyembuhannya buruk."
+  },
+  "facts": {
+   "location": {
+    "en": "On the articular surfaces of bones inside synovial joints.",
+    "id": "Pada permukaan sendi tulang di dalam sendi sinovial."
+   },
+   "features": {
+    "en": "Hyaline cartilage in most joints; fibrocartilage in the temporomandibular and sternoclavicular joints. Avascular and aneural.",
+    "id": "Cartilago hyalina pada kebanyakan sendi; fibrocartilago pada articulatio temporomandibularis dan sternoclavicularis. Tidak berpembuluh dan tidak bersaraf."
+   },
+   "clinical": {
+    "en": "Wear of articular cartilage is the main change in osteoarthritis.",
+    "id": "Ausnya cartilago articularis adalah perubahan utama pada osteoartritis."
+   }
+  },
+  "quiz": {},
+  "model": false
+ },
+ {
+  "key": "capsula-articularis",
+  "kind": "membrane",
+  "la": "Capsula articularis",
+  "alt": [
+   "Capsulae articulares"
+  ],
+  "en": "Joint capsule",
+  "desc": {
+   "en": "The sleeve that encloses a synovial joint and attaches to the bones near the margins of the articular surfaces. Its outer fibrous layer (membrana fibrosa) holds the bones together and is thickened in places as capsular ligaments; its inner layer is the synovial membrane. The capsule is richly supplied by the nerves that also supply the muscles moving the joint (Hilton's law).",
+   "id": "Selubung yang membungkus sendi sinovial dan melekat pada tulang dekat tepi permukaan sendi. Lapisan luarnya (membrana fibrosa) mempertahankan hubungan antartulang dan di beberapa tempat menebal menjadi ligamentum capsulare; lapisan dalamnya adalah membrana synovialis. Capsula banyak dipersarafi oleh saraf yang juga mempersarafi otot penggerak sendi tersebut (hukum Hilton)."
+  },
+  "facts": {
+   "joint": "articulatio-synovialis",
+   "attach": {
+    "en": "Bone margins around the articular surfaces.",
+    "id": "Tepi tulang di sekitar permukaan sendi."
+   },
+   "function": {
+    "en": "Encloses the joint cavity and keeps the bones in contact.",
+    "id": "Membungkus cavitas articularis dan mempertahankan kontak antartulang."
+   }
+  },
+  "quiz": {},
+  "model": false
+ },
+ {
+  "key": "membrana-synovialis",
+  "kind": "membrane",
+  "la": "Membrana synovialis",
+  "alt": [
+   "Stratum synoviale"
+  ],
+  "en": "Synovial membrane",
+  "desc": {
+   "en": "The vascular inner layer of the joint capsule. It lines the inside of the capsule and all non-articular surfaces within the joint, but not the articular cartilage, and secretes synovial fluid (synovia) that lubricates the joint and feeds the cartilage. It also lines bursae and tendon sheaths.",
+   "id": "Lapisan dalam capsula articularis yang kaya pembuluh darah. Membran ini melapisi bagian dalam capsula dan semua permukaan di dalam sendi yang tidak berlapis cartilago, lalu menghasilkan synovia yang melumasi sendi dan memberi nutrisi cartilago. Membran yang sama juga melapisi bursa dan vagina tendinis."
+  },
+  "facts": {
+   "joint": "articulatio-synovialis",
+   "attach": {
+    "en": "Inner surface of the fibrous capsule, ending at the edge of the articular cartilage.",
+    "id": "Permukaan dalam membrana fibrosa, berakhir di tepi cartilago articularis."
+   },
+   "function": {
+    "en": "Produces and absorbs synovial fluid.",
+    "id": "Menghasilkan dan menyerap kembali synovia."
+   },
+   "clinical": {
+    "en": "Inflammation of the synovial membrane (synovitis) is the main lesion in rheumatoid arthritis.",
+    "id": "Peradangan membrana synovialis (sinovitis) adalah kelainan utama pada artritis reumatoid."
+   }
+  },
+  "quiz": {},
+  "model": false
+ },
+ {
+  "key": "cavitas-articularis",
+  "kind": "joint",
+  "la": "Cavitas articularis",
+  "alt": [
+   "Cavum articulare"
+  ],
+  "en": "Joint cavity",
+  "desc": {
+   "en": "The narrow space between the articular surfaces inside the capsule of a synovial joint. Normally it holds only a thin film of synovial fluid. An articular disc may divide it into two compartments, as in the temporomandibular and sternoclavicular joints.",
+   "id": "Ruang sempit di antara permukaan sendi di dalam capsula sendi sinovial. Dalam keadaan normal ruang ini hanya berisi lapisan tipis synovia. Discus articularis dapat membaginya menjadi dua ruang, seperti pada articulatio temporomandibularis dan sternoclavicularis."
+  },
+  "facts": {
+   "class": "Articulatio synovialis",
+   "clinical": {
+    "en": "Fluid or blood collecting in the cavity (effusion, haemarthrosis) makes the joint swell.",
+    "id": "Cairan atau darah yang terkumpul di rongga ini (efusi, hemartrosis) membuat sendi membengkak."
+   }
+  },
+  "quiz": {},
+  "model": false
+ },
+ {
+  "key": "ligamentum-articulare",
+  "kind": "ligament",
+  "la": "Ligamentum",
+  "alt": [
+   "Ligamenta",
+   "Ligamenta articularia"
+  ],
+  "en": "Ligament",
+  "desc": {
+   "en": "A band of dense regular connective tissue that joins bone to bone. In synovial joints ligaments may be thickenings of the capsule (capsular ligaments), lie outside it (extracapsular) or inside it (intracapsular, such as the cruciate ligaments of the knee). They strengthen the joint and limit excessive movement.",
+   "id": "Pita jaringan ikat padat teratur yang menghubungkan tulang dengan tulang. Pada sendi sinovial, ligamentum dapat berupa penebalan capsula (ligamentum capsulare), terletak di luar capsula (extracapsular), atau di dalamnya (intracapsular, seperti ligamenta cruciata genus). Ligamentum memperkuat sendi dan membatasi gerakan berlebihan."
+  },
+  "facts": {
+   "joint": "articulatio-synovialis",
+   "function": {
+    "en": "Strengthens the joint and limits excessive movement.",
+    "id": "Memperkuat sendi dan membatasi gerakan berlebihan."
+   },
+   "clinical": {
+    "en": "A sprain is a partial or complete tear of a ligament.",
+    "id": "Sprain (keseleo) adalah robekan sebagian atau total pada ligamentum."
+   }
+  },
+  "quiz": {},
+  "model": false
+ },
+ {
+  "key": "discus-articularis",
+  "kind": "cartilage",
+  "la": "Discus articularis",
+  "alt": [
+   "Disci articulares",
+   "Meniscus articularis",
+   "Meniscus"
+  ],
+  "en": "Articular disc or meniscus",
+  "desc": {
+   "en": "A plate of fibrocartilage inside some synovial joints that improves the fit between the surfaces and spreads load. A complete disc divides the cavity into two compartments (temporomandibular, sternoclavicular and distal radio-ulnar joints); the crescent-shaped incomplete discs of the knee are the menisci. A related structure, the labrum (glenoid and acetabular), deepens a socket.",
+   "id": "Lempeng fibrocartilago di dalam beberapa sendi sinovial yang menyesuaikan bentuk permukaan sendi dan meratakan beban. Discus yang lengkap membagi rongga sendi menjadi dua (articulatio temporomandibularis, sternoclavicularis, dan radioulnaris distalis); discus tidak lengkap berbentuk bulan sabit pada lutut disebut meniscus. Struktur sejenis, labrum (glenoidale dan acetabuli), memperdalam mangkuk sendi."
+  },
+  "facts": {
+   "location": {
+    "en": "Between the articular surfaces of some synovial joints.",
+    "id": "Di antara permukaan sendi pada beberapa sendi sinovial."
+   },
+   "features": {
+    "en": "Fibrocartilage, attached at its edge to the capsule.",
+    "id": "Fibrocartilago, tepinya melekat pada capsula."
+   },
+   "examples": [
+    "Discus articularis articulationis temporomandibularis",
+    "Discus articularis articulationis sternoclavicularis",
+    "Meniscus medialis",
+    "Meniscus lateralis"
+   ]
+  },
+  "quiz": {
+   "examples": [
+    "Discus articularis articulationis temporomandibularis",
+    "Discus articularis articulationis sternoclavicularis",
+    "Meniscus medialis",
+    "Meniscus lateralis"
+   ]
+  },
+  "model": false
+ }
+]

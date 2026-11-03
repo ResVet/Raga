@@ -1,0 +1,402 @@
+[
+  {
+    "key": "nasal-cavity",
+    "kind": "organ",
+    "model": false,
+    "la": "Cavitas nasi",
+    "alt": ["Cavitas nasalis", "Cavum nasi"],
+    "en": "Nasal cavity",
+    "desc": {
+      "en": "The nasal cavity runs from the nares in front to the choanae behind and is split into right and left halves by the septum nasi. Each lateral wall carries three conchae with a meatus under each, and the paranasal sinuses and the nasolacrimal duct open into these meatuses.",
+      "id": "Cavitas nasi terbentang dari nares di depan sampai choanae di belakang dan dibagi menjadi belahan kanan dan kiri oleh septum nasi. Dinding lateralnya memiliki tiga concha dengan meatus di bawah masing-masing concha, tempat bermuaranya sinus paranasales dan ductus nasolacrimalis."
+    },
+    "facts": {
+      "location": {
+        "en": "Above the hard palate, below the anterior cranial fossa and medial to the orbits and maxillary sinuses; opens into the nasopharynx through the choanae.",
+        "id": "Di atas palatum durum, di bawah fossa cranii anterior, medial terhadap orbita dan sinus maxillaris; berhubungan dengan nasopharynx melalui choanae."
+      },
+      "features": {
+        "en": "Regions: vestibulum nasi (skin with hairs), regio respiratoria and regio olfactoria (roof, upper septum and concha superior). Openings: sinus sphenoidalis into the recessus sphenoethmoidalis; cellulae ethmoidales posteriores into the meatus nasi superior; sinus frontalis, sinus maxillaris and cellulae ethmoidales anteriores and mediae into the meatus nasi medius (hiatus semilunaris, bulla ethmoidalis); ductus nasolacrimalis into the meatus nasi inferior.",
+        "id": "Bagian: vestibulum nasi (kulit berambut), regio respiratoria dan regio olfactoria (atap, septum bagian atas dan concha superior). Muara: sinus sphenoidalis ke recessus sphenoethmoidalis; cellulae ethmoidales posteriores ke meatus nasi superior; sinus frontalis, sinus maxillaris, cellulae ethmoidales anteriores dan mediae ke meatus nasi medius (hiatus semilunaris, bulla ethmoidalis); ductus nasolacrimalis ke meatus nasi inferior."
+      },
+      "blood": ["Arteria sphenopalatina", "Arteria ethmoidalis anterior", "Arteria ethmoidalis posterior", "Arteria palatina major", "Arteria labialis superior"],
+      "nerve": ["Nervi olfactorii", "Nervus nasociliaris", "Nervus maxillaris"],
+      "clinical": {
+        "en": "Most nosebleeds come from the anterior septum (Kiesselbach area), where branches of the sphenopalatine, ethmoidal, greater palatine and superior labial arteries anastomose.",
+        "id": "Sebagian besar epistaksis berasal dari septum bagian depan (locus Kiesselbachi), tempat anastomosis cabang a. sphenopalatina, aa. ethmoidales, a. palatina major dan a. labialis superior."
+      }
+    }
+  },
+  {
+    "key": "mucosa-of-nasal-cavity",
+    "kind": "organ-part",
+    "la": "Tunica mucosa nasi",
+    "alt": ["Tunica mucosa cavitatis nasi", "Mucosa nasi", "Tunica mucosa cavitatis nasalis"],
+    "en": "Mucosa of nasal cavity",
+    "desc": {
+      "en": "The mucosa lines the whole nasal cavity except the vestibule, which is lined by skin. Its respiratory part has ciliated epithelium and a thick venous plexus that warms and moistens the air; its olfactory part sits in the roof of the cavity.",
+      "id": "Tunica mucosa melapisi seluruh cavitas nasi kecuali vestibulum yang dilapisi kulit. Bagian respiratorinya berepitel bersilia dengan pleksus vena yang tebal untuk menghangatkan dan melembapkan udara, sedangkan bagian olfaktoriusnya terdapat di atap rongga hidung."
+    },
+    "facts": {
+      "location": {
+        "en": "Covers the septum, the conchae and meatuses and the floor and roof of the nasal cavity; continuous with the mucosa of the paranasal sinuses and the nasopharynx.",
+        "id": "Menutupi septum, concha dan meatus, dasar serta atap cavitas nasi; bersambung dengan mukosa sinus paranasales dan nasopharynx."
+      },
+      "features": {
+        "en": "Regio respiratoria: pseudostratified ciliated columnar epithelium with goblet cells; erectile venous tissue is thickest over the inferior and middle conchae. Regio olfactoria: olfactory epithelium over the concha superior, the upper septum and the roof.",
+        "id": "Regio respiratoria: epitel kolumnar bertingkat semu bersilia dengan sel goblet; jaringan vena erektil paling tebal di concha inferior dan media. Regio olfactoria: epitel olfaktorius di concha superior, septum bagian atas dan atap rongga hidung."
+      },
+      "nerve": ["Nervi olfactorii", "Nervus ethmoidalis anterior", "Nervi nasales posteriores", "Nervus nasopalatinus"],
+      "clinical": {
+        "en": "Infection of the nasal mucosa (rhinitis) spreads easily into the sinuses because the lining is continuous.",
+        "id": "Radang mukosa hidung (rinitis) mudah menjalar ke sinus paranasales karena mukosanya bersambung."
+      }
+    }
+  },
+  {
+    "key": "piriform-aperture",
+    "kind": "landmark",
+    "model": false,
+    "la": "Apertura piriformis",
+    "alt": ["Apertura nasalis anterior", "Apertura piriformis cavitatis nasi"],
+    "en": "Piriform aperture",
+    "desc": {
+      "en": "Pear-shaped anterior opening of the bony nasal cavity on the dried skull. It is bounded above by the nasal bones and laterally and below by the nasal notches of the maxillae, with the spina nasalis anterior in the midline below.",
+      "id": "Lubang depan cavitas nasi bertulang yang berbentuk buah pir pada tengkorak kering. Batas atasnya ossa nasalia, batas lateral dan bawahnya incisura nasalis maxillae, dengan spina nasalis anterior di garis tengah bagian bawah."
+    },
+    "facts": {
+      "bone": "maxilla",
+      "attach": {
+        "en": "The nasal cartilages of the external nose attach around its margin.",
+        "id": "Kartilago hidung luar melekat di sekeliling tepinya."
+      }
+    },
+    "quiz": {"bone": ["Maxilla", "Os nasale"]}
+  },
+  {
+    "key": "naris",
+    "kind": "landmark",
+    "model": false,
+    "la": "Naris",
+    "alt": ["Nares", "Nares anteriores", "Naris anterior"],
+    "en": "Nostril (anterior naris)",
+    "desc": {
+      "en": "The nares are the two external openings of the nose, separated by the columella of the septum and bounded laterally by the ala nasi. They lead into the vestibulum nasi.",
+      "id": "Nares adalah dua lubang hidung luar yang dipisahkan oleh columella septum nasi dan dibatasi di lateral oleh ala nasi. Nares membuka ke vestibulum nasi."
+    },
+    "facts": {
+      "bone": "nasal-cavity"
+    }
+  },
+  {
+    "key": "choana",
+    "kind": "landmark",
+    "model": false,
+    "la": "Choana",
+    "alt": ["Choanae", "Naris posterior", "Nares posteriores", "Apertura nasalis posterior"],
+    "en": "Choana (posterior naris)",
+    "desc": {
+      "en": "The choanae are the paired posterior openings of the nasal cavity into the nasopharynx. Each is bounded medially by the vomer, laterally by the lamina medialis of the processus pterygoideus, below by the lamina horizontalis of the palatine bone and above by the body of the sphenoid.",
+      "id": "Choanae adalah sepasang lubang belakang cavitas nasi menuju nasopharynx. Batas medialnya vomer, batas lateral lamina medialis processus pterygoidei, batas bawah lamina horizontalis ossis palatini, dan batas atas corpus ossis sphenoidalis."
+    },
+    "facts": {
+      "bone": "nasal-cavity",
+      "clinical": {
+        "en": "Choanal atresia (a membrane or bone closing the choana) makes a newborn struggle to breathe through the nose.",
+        "id": "Atresia choanae (penutupan choana oleh membran atau tulang) menyebabkan bayi baru lahir sulit bernapas melalui hidung."
+      }
+    }
+  },
+  {
+    "key": "nasal-conchae",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Conchae nasales",
+    "alt": ["Concha nasalis", "Conchae nasi", "Concha nasalis superior", "Concha nasalis media", "Concha nasalis inferior"],
+    "en": "Nasal conchae",
+    "desc": {
+      "en": "Three curved shelves project from each lateral wall of the nasal cavity. The concha superior and concha media belong to the ethmoid bone, while the concha nasalis inferior is a separate bone; the space under each is the corresponding meatus.",
+      "id": "Tiga lempeng melengkung menonjol dari dinding lateral cavitas nasi. Concha superior dan concha media merupakan bagian os ethmoidale, sedangkan concha nasalis inferior adalah tulang tersendiri; ruang di bawah masing-masing concha disebut meatus."
+    },
+    "facts": {
+      "location": {
+        "en": "Lateral wall of each half of the nasal cavity; above the concha superior lies the recessus sphenoethmoidalis.",
+        "id": "Dinding lateral setiap belahan cavitas nasi; di atas concha superior terdapat recessus sphenoethmoidalis."
+      },
+      "features": {
+        "en": "They enlarge the mucosal surface and make the airflow turbulent so that air is warmed, humidified and filtered.",
+        "id": "Concha memperluas permukaan mukosa dan membuat aliran udara berputar sehingga udara dihangatkan, dilembapkan dan disaring."
+      }
+    }
+  },
+  {
+    "key": "paranasal-sinuses",
+    "kind": "organ",
+    "model": false,
+    "la": "Sinus paranasales",
+    "alt": ["Sinus paranasalis"],
+    "en": "Paranasal sinuses",
+    "desc": {
+      "en": "Air-filled extensions of the nasal cavity inside the frontal, ethmoid and sphenoid bones and the maxillae, lined by respiratory mucosa. All of them drain into the lateral wall or roof of the nasal cavity.",
+      "id": "Rongga berisi udara yang merupakan perluasan cavitas nasi ke dalam os frontale, os ethmoidale, os sphenoidale dan maxilla, dilapisi mukosa respiratori. Semuanya bermuara ke dinding lateral atau atap cavitas nasi."
+    },
+    "facts": {
+      "features": {
+        "en": "Sinus maxillaris, sinus frontalis and cellulae ethmoidales anteriores and mediae open into the meatus nasi medius; cellulae ethmoidales posteriores into the meatus nasi superior; sinus sphenoidalis into the recessus sphenoethmoidalis.",
+        "id": "Sinus maxillaris, sinus frontalis serta cellulae ethmoidales anteriores dan mediae bermuara ke meatus nasi medius; cellulae ethmoidales posteriores ke meatus nasi superior; sinus sphenoidalis ke recessus sphenoethmoidalis."
+      },
+      "clinical": {
+        "en": "Swelling of the mucosa in the meatus nasi medius blocks the drainage of several sinuses at once (sinusitis).",
+        "id": "Pembengkakan mukosa di meatus nasi medius dapat menyumbat drainase beberapa sinus sekaligus (sinusitis)."
+      }
+    }
+  },
+  {
+    "key": "maxillary-sinus",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Sinus maxillaris",
+    "alt": ["Antrum Highmori"],
+    "en": "Maxillary sinus",
+    "desc": {
+      "en": "The largest paranasal sinus, a pyramid-shaped space in the body of the maxilla. It opens into the meatus nasi medius through the hiatus semilunaris; the opening lies high on its medial wall, so drainage is poor when the head is upright.",
+      "id": "Sinus paranasales terbesar, berbentuk piramid di dalam corpus maxillae. Sinus ini bermuara ke meatus nasi medius melalui hiatus semilunaris; muaranya terletak tinggi di dinding medial sehingga drainase kurang baik pada posisi kepala tegak."
+    },
+    "facts": {
+      "location": {
+        "en": "Below the orbit, above the roots of the upper premolar and molar teeth, lateral to the nasal cavity.",
+        "id": "Di bawah orbita, di atas akar gigi premolar dan molar atas, lateral terhadap cavitas nasi."
+      },
+      "nerve": ["Nervi alveolares superiores", "Nervus infraorbitalis"],
+      "clinical": {
+        "en": "Because the roots of the upper molars lie close to its floor, sinusitis may feel like toothache and dental infection can spread into the sinus.",
+        "id": "Karena akar gigi molar atas dekat dengan dasarnya, sinusitis maksilaris dapat terasa seperti sakit gigi dan infeksi gigi dapat menjalar ke sinus."
+      }
+    }
+  },
+  {
+    "key": "frontal-sinus",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Sinus frontalis",
+    "alt": [],
+    "en": "Frontal sinus",
+    "desc": {
+      "en": "Paired sinuses in the frontal bone behind the superciliary arches, separated by a thin septum. Each drains through the ductus frontonasalis (infundibulum ethmoidale) into the hiatus semilunaris of the meatus nasi medius.",
+      "id": "Sinus berpasangan di dalam os frontale di belakang arcus superciliaris, dipisahkan oleh septum tipis. Masing-masing bermuara melalui ductus frontonasalis (infundibulum ethmoidale) ke hiatus semilunaris di meatus nasi medius."
+    },
+    "facts": {
+      "nerve": ["Nervus supraorbitalis"]
+    }
+  },
+  {
+    "key": "sphenoidal-sinus",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Sinus sphenoidalis",
+    "alt": [],
+    "en": "Sphenoidal sinus",
+    "desc": {
+      "en": "Paired sinus in the body of the sphenoid that opens into the recessus sphenoethmoidalis above the concha superior. The hypophysis lies above it, and the sinus cavernosus with the internal carotid artery lies on each side.",
+      "id": "Sinus berpasangan di dalam corpus ossis sphenoidalis yang bermuara ke recessus sphenoethmoidalis di atas concha superior. Di atasnya terletak hypophysis, dan di sampingnya sinus cavernosus dengan a. carotis interna."
+    },
+    "facts": {
+      "nerve": ["Nervus ethmoidalis posterior", "Rami orbitales ganglii pterygopalatini"],
+      "clinical": {
+        "en": "Surgeons reach the pituitary gland through this sinus (transsphenoidal approach).",
+        "id": "Hipofisis dapat dicapai melalui sinus ini (pendekatan transsfenoidal)."
+      }
+    }
+  },
+  {
+    "key": "ethmoidal-cells",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Cellulae ethmoidales",
+    "alt": ["Sinus ethmoidales", "Sinus ethmoidalis", "Cellulae ethmoidales anteriores", "Cellulae ethmoidales mediae", "Cellulae ethmoidales posteriores"],
+    "en": "Ethmoidal cells",
+    "desc": {
+      "en": "Many small air cells in the ethmoidal labyrinth between the nasal cavity and the orbit, grouped into anterior, middle and posterior cells. The anterior and middle cells open into the meatus nasi medius and the posterior cells into the meatus nasi superior.",
+      "id": "Banyak rongga udara kecil di labyrinthus ethmoidalis antara cavitas nasi dan orbita, dikelompokkan menjadi cellulae anteriores, mediae dan posteriores. Cellulae anteriores dan mediae bermuara ke meatus nasi medius, cellulae posteriores ke meatus nasi superior."
+    },
+    "facts": {
+      "clinical": {
+        "en": "Only the thin lamina orbitalis separates these cells from the orbit, so ethmoid sinusitis can spread into the orbit.",
+        "id": "Sel-sel ini hanya dipisahkan dari orbita oleh lamina orbitalis yang tipis sehingga sinusitis etmoidalis dapat menjalar ke orbita."
+      }
+    }
+  },
+  {
+    "key": "pharynx",
+    "kind": "organ",
+    "model": false,
+    "la": "Pharynx",
+    "alt": [],
+    "en": "Pharynx",
+    "desc": {
+      "en": "Fibromuscular tube, about 15 cm long, that hangs from the base of the skull and continues as the oesophagus at the lower border of the cricoid cartilage (C6). It lies behind the nasal cavity, mouth and larynx and is divided into the nasopharynx, oropharynx and laryngopharynx.",
+      "id": "Saluran fibromuskular sepanjang kira-kira 15 cm yang menggantung dari basis cranii dan berlanjut menjadi oesophagus setinggi tepi bawah cartilago cricoidea (C6). Pharynx terletak di belakang cavitas nasi, cavitas oris dan larynx, dan dibagi menjadi pars nasalis, pars oralis dan pars laryngea."
+    },
+    "facts": {
+      "location": {
+        "en": "From the base of the skull (pars basilaris ossis occipitalis, tuberculum pharyngeum) to C6, in front of the cervical vertebrae and the prevertebral fascia.",
+        "id": "Dari basis cranii (pars basilaris ossis occipitalis, tuberculum pharyngeum) sampai C6, di depan vertebra cervicalis dan fascia prevertebralis."
+      },
+      "features": {
+        "en": "Outer circular layer: mm. constrictores pharyngis superior, medius and inferior. Inner longitudinal layer: m. stylopharyngeus, m. palatopharyngeus and m. salpingopharyngeus.",
+        "id": "Lapisan otot sirkular luar: mm. constrictores pharyngis superior, medius dan inferior. Lapisan longitudinal dalam: m. stylopharyngeus, m. palatopharyngeus dan m. salpingopharyngeus."
+      },
+      "blood": ["Arteria pharyngea ascendens", "Arteria palatina ascendens", "Arteria thyroidea inferior"],
+      "nerve": ["Plexus pharyngeus", "Nervus glossopharyngeus", "Nervus vagus"]
+    }
+  },
+  {
+    "key": "nasopharynx",
+    "kind": "organ-part",
+    "la": "Pars nasalis pharyngis",
+    "alt": ["Nasopharynx", "Epipharynx"],
+    "en": "Nasopharynx",
+    "desc": {
+      "en": "Upper part of the pharynx, behind the choanae and above the soft palate. Its lateral wall carries the opening of the auditory tube with the torus tubarius and the recessus pharyngeus, and the tonsilla pharyngea lies in its roof and posterior wall.",
+      "id": "Bagian atas pharynx, di belakang choanae dan di atas palatum molle. Dinding lateralnya memiliki ostium pharyngeum tubae auditivae dengan torus tubarius serta recessus pharyngeus, sedangkan tonsilla pharyngea terletak di atap dan dinding posteriornya."
+    },
+    "facts": {
+      "location": {
+        "en": "From the base of the skull to the level of the soft palate; communicates with the oropharynx through the isthmus pharyngeus, which the soft palate closes during swallowing.",
+        "id": "Dari basis cranii sampai setinggi palatum molle; berhubungan dengan oropharynx melalui isthmus pharyngeus yang ditutup oleh palatum molle saat menelan."
+      },
+      "clinical": {
+        "en": "Enlarged adenoids (tonsilla pharyngea) block nasal breathing and the auditory tube, which predisposes children to otitis media.",
+        "id": "Adenoid (tonsilla pharyngea) yang membesar menyumbat pernapasan hidung dan tuba auditiva sehingga anak mudah terkena otitis media."
+      }
+    }
+  },
+  {
+    "key": "oropharynx",
+    "kind": "organ-part",
+    "la": "Pars oralis pharyngis",
+    "alt": ["Oropharynx", "Mesopharynx"],
+    "en": "Oropharynx",
+    "desc": {
+      "en": "Middle part of the pharynx, from the soft palate to the upper border of the epiglottis. It opens forward into the mouth through the isthmus faucium, and the tonsilla palatina lies in its lateral wall between the arcus palatoglossus and arcus palatopharyngeus.",
+      "id": "Bagian tengah pharynx, dari palatum molle sampai tepi atas epiglottis. Ke depan membuka ke cavitas oris melalui isthmus faucium, dan tonsilla palatina terletak di dinding lateralnya di antara arcus palatoglossus dan arcus palatopharyngeus."
+    },
+    "facts": {
+      "location": {
+        "en": "Behind the oral cavity and the root of the tongue, in front of C2-C3; contains the valleculae epiglotticae between the tongue and the epiglottis.",
+        "id": "Di belakang cavitas oris dan radix linguae, di depan C2-C3; memuat valleculae epiglotticae di antara lidah dan epiglottis."
+      },
+      "clinical": {
+        "en": "Air and food share this passage. The glossopharyngeal nerve lies in the bed of the palatine tonsil and can be injured in tonsillectomy.",
+        "id": "Udara dan makanan melewati saluran yang sama di sini. N. glossopharyngeus terletak di dasar fossa tonsillaris dan dapat cedera pada tonsilektomi."
+      }
+    }
+  },
+  {
+    "key": "laryngopharynx",
+    "kind": "organ-part",
+    "la": "Pars laryngea pharyngis",
+    "alt": ["Laryngopharynx", "Hypopharynx"],
+    "en": "Laryngopharynx",
+    "desc": {
+      "en": "Lowest part of the pharynx, behind the larynx, from the upper border of the epiglottis to the lower border of the cricoid cartilage, where it becomes the oesophagus. The aditus laryngis opens into its anterior wall, with a recessus piriformis on each side.",
+      "id": "Bagian terbawah pharynx, di belakang larynx, dari tepi atas epiglottis sampai tepi bawah cartilago cricoidea tempat ia berlanjut menjadi oesophagus. Aditus laryngis membuka di dinding anteriornya, dengan recessus piriformis di kiri dan kanannya."
+    },
+    "facts": {
+      "location": {
+        "en": "In front of C4-C6; the pharyngo-oesophageal junction at C6 is the narrowest part of the pharynx.",
+        "id": "Di depan C4-C6; peralihan pharynx ke oesophagus setinggi C6 adalah bagian tersempit pharynx."
+      },
+      "clinical": {
+        "en": "A pharyngeal pouch (Zenker diverticulum) forms through the weak area between the thyropharyngeal and cricopharyngeal parts of the inferior constrictor.",
+        "id": "Divertikulum Zenker terbentuk melalui daerah lemah di antara pars thyropharyngea dan pars cricopharyngea m. constrictor pharyngis inferior."
+      }
+    }
+  },
+  {
+    "key": "piriform-recess",
+    "kind": "landmark",
+    "model": false,
+    "la": "Recessus piriformis",
+    "alt": ["Fossa piriformis", "Sinus piriformis"],
+    "en": "Piriform recess",
+    "desc": {
+      "en": "Small gutter on each side of the aditus laryngis in the laryngopharynx, between the plica aryepiglottica medially and the thyroid cartilage and thyrohyoid membrane laterally. The internal branch of the superior laryngeal nerve runs under its mucosa.",
+      "id": "Cekungan kecil di kiri dan kanan aditus laryngis pada pars laryngea pharyngis, di antara plica aryepiglottica di medial serta cartilago thyroidea dan membrana thyrohyoidea di lateral. Ramus internus n. laryngei superioris berjalan di bawah mukosanya."
+    },
+    "facts": {
+      "bone": "laryngopharynx",
+      "clinical": {
+        "en": "Fish bones and other swallowed foreign bodies often lodge here and may injure the internal laryngeal nerve.",
+        "id": "Tulang ikan dan benda asing lain sering tersangkut di sini dan dapat mencederai ramus internus n. laryngei superioris."
+      }
+    }
+  },
+  {
+    "key": "soft-palate",
+    "kind": "organ-part",
+    "la": "Palatum molle",
+    "alt": ["Velum palatinum"],
+    "en": "Soft palate",
+    "desc": {
+      "en": "Mobile fibromuscular posterior third of the palate, hanging from the posterior edge of the hard palate with the uvula on its free border. During swallowing it rises and tenses to close off the nasopharynx.",
+      "id": "Sepertiga posterior palatum yang mudah bergerak, tersusun atas jaringan fibromuskular dan menggantung dari tepi belakang palatum durum dengan uvula pada tepi bebasnya. Saat menelan palatum molle terangkat dan menegang untuk menutup nasopharynx."
+    },
+    "facts": {
+      "location": {
+        "en": "Between the nasopharynx above and the oral cavity and oropharynx below; continues laterally into the arcus palatoglossus and arcus palatopharyngeus.",
+        "id": "Di antara nasopharynx di atas dan cavitas oris serta oropharynx di bawah; ke lateral berlanjut menjadi arcus palatoglossus dan arcus palatopharyngeus."
+      },
+      "features": {
+        "en": "Aponeurosis palatina (spread-out tendon of the tensor veli palatini) with m. tensor veli palatini, m. levator veli palatini, m. palatoglossus, m. palatopharyngeus and m. uvulae.",
+        "id": "Aponeurosis palatina (tendo m. tensor veli palatini yang melebar) dengan m. tensor veli palatini, m. levator veli palatini, m. palatoglossus, m. palatopharyngeus dan m. uvulae."
+      },
+      "nerve": ["Plexus pharyngeus (nervus vagus)", "Nervus mandibularis (m. tensor veli palatini)"],
+      "clinical": {
+        "en": "In a cleft palate or palatal paralysis, food and fluid regurgitate into the nose and speech becomes nasal.",
+        "id": "Pada celah langit-langit atau kelumpuhan palatum, makanan dan minuman dapat masuk ke hidung dan suara menjadi sengau."
+      }
+    }
+  },
+  {
+    "key": "uvula-of-palate",
+    "kind": "organ-part",
+    "la": "Uvula palatina",
+    "alt": ["Uvula"],
+    "en": "Uvula",
+    "desc": {
+      "en": "Conical projection hanging from the middle of the free border of the soft palate, containing the m. uvulae.",
+      "id": "Tonjolan berbentuk kerucut yang menggantung dari tengah tepi bebas palatum molle dan berisi m. uvulae."
+    },
+    "facts": {
+      "location": {
+        "en": "Midline, at the back of the oral cavity, above the root of the tongue.",
+        "id": "Di garis tengah, di bagian belakang cavitas oris, di atas radix linguae."
+      },
+      "nerve": ["Plexus pharyngeus (nervus vagus)"],
+      "clinical": {
+        "en": "With a unilateral vagus lesion the uvula deviates toward the healthy side when the patient says 'ah'.",
+        "id": "Pada lesi n. vagus satu sisi, uvula tertarik ke sisi yang sehat saat pasien mengucapkan 'aaa'."
+      }
+    }
+  },
+  {
+    "key": "pharyngeal-tubercle",
+    "kind": "landmark",
+    "la": "Tuberculum pharyngeum",
+    "alt": ["Tuberculum pharyngeum ossis occipitalis"],
+    "en": "Pharyngeal tubercle",
+    "desc": {
+      "en": "Small midline elevation on the underside of the pars basilaris of the occipital bone, about 1 cm in front of the foramen magnum. The raphe pharyngis, the median seam of the pharyngeal constrictors, is anchored here.",
+      "id": "Tonjolan kecil di garis tengah permukaan bawah pars basilaris ossis occipitalis, kira-kira 1 cm di depan foramen magnum. Raphe pharyngis, jahitan tengah mm. constrictores pharyngis, melekat di sini."
+    },
+    "facts": {
+      "bone": "occipital-bone",
+      "attach": {
+        "en": "Raphe pharyngis (upper end of the pharyngeal wall).",
+        "id": "Raphe pharyngis (ujung atas dinding pharynx)."
+      }
+    },
+    "quiz": {"bone": ["Os occipitale"]}
+  }
+]

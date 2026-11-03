@@ -1,0 +1,1588 @@
+[
+ {
+  "key": "frontal-bone",
+  "kind": "bone",
+  "la": "Os frontale",
+  "alt": [
+   "Os frontalis"
+  ],
+  "en": "Frontal bone",
+  "desc": {
+   "en": "The unpaired bone of the forehead and the front of the cranial vault. Its squama forms the forehead, its orbital parts form most of the orbital roofs and the floor of the anterior cranial fossa, and it contains the frontal sinuses. At birth it is in two halves joined by the frontal (metopic) suture, which usually closes in early childhood.",
+   "id": "Tulang tunggal yang membentuk dahi dan bagian depan atap tengkorak. Squama frontalis membentuk dahi, pars orbitalis membentuk sebagian besar atap orbita dan dasar fossa cranii anterior, dan di dalamnya terdapat sinus frontalis. Saat lahir tulang ini terdiri atas dua belahan yang disatukan sutura frontalis (metopica), yang biasanya menutup pada awal masa kanak-kanak."
+  },
+  "facts": {
+   "type": "Os pneumaticum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Ossa parietalia",
+    "Os sphenoidale",
+    "Os ethmoidale",
+    "Ossa nasalia",
+    "Maxillae",
+    "Ossa lacrimalia",
+    "Ossa zygomatica"
+   ],
+   "features": [
+    "squamous-part-of-frontal-bone",
+    "frontal-eminence",
+    "superciliary-arch",
+    "glabella",
+    "frontal-part-of-orbital-margin",
+    "supra-orbital-notch",
+    "zygomatic-process-of-frontal-bone",
+    "temporal-line",
+    "orbital-part-of-frontal-bone",
+    "fossa-for-lacrimal-gland",
+    "trochlear-fovea",
+    "ethmoidal-notch",
+    "nasal-part-of-frontal-bone",
+    "nasal-spine-of-frontal-bone",
+    "frontal-crest",
+    "foramen-caecum-of-frontal-bone",
+    "sinus-of-frontal-bone",
+    "opening-of-frontal-sinus"
+   ],
+   "region": {
+    "en": "Neurocranium (cranial vault and base)",
+    "id": "Neurocranium (atap dan dasar tengkorak)"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os pneumaticum",
+    "pneumaticum",
+    "tulang berongga udara",
+    "Os planum",
+    "planum",
+    "tulang pipih"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ]
+  }
+ },
+ {
+  "key": "parietal-bone",
+  "kind": "bone",
+  "la": "Os parietale",
+  "alt": [
+   "Os parietalis"
+  ],
+  "en": "Parietal bone",
+  "desc": {
+   "en": "A paired, four-sided curved plate that forms most of the roof and sides of the cranial vault. It has four borders (frontal, sagittal, occipital, squamosal) and four angles; the sphenoidal angle lies at the pterion, over the frontal branch of the middle meningeal artery.",
+   "id": "Lempeng melengkung segi empat yang berpasangan, membentuk sebagian besar atap dan dinding samping tengkorak. Tulang ini memiliki empat tepi (frontalis, sagittalis, occipitalis, squamosus) dan empat sudut; angulus sphenoidalis terletak di pterion, di atas ramus frontalis a. meningea media."
+  },
+  "facts": {
+   "type": "Os planum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Os parietale contralaterale",
+    "Os frontale",
+    "Os occipitale",
+    "Os temporale",
+    "Os sphenoidale"
+   ],
+   "features": [
+    "external-surface-of-parietal-bone",
+    "internal-surface-of-parietal-bone",
+    "parietal-eminence",
+    "superior-temporal-line",
+    "inferior-temporal-line",
+    "parietal-foramen",
+    "groove-for-middle-meningeal-artery",
+    "frontal-border-of-parietal-bone",
+    "sagittal-border-of-parietal-bone",
+    "occipital-border-of-parietal-bone",
+    "squamosal-border-of-parietal-bone",
+    "frontal-angle-of-parietal-bone",
+    "occipital-angle-of-parietal-bone",
+    "sphenoidal-angle-of-parietal-bone",
+    "mastoid-angle-of-parietal-bone"
+   ],
+   "region": {
+    "en": "Neurocranium (cranial vault and base)",
+    "id": "Neurocranium (atap dan dasar tengkorak)"
+   },
+   "clinical": {
+    "en": "A blow to the pterion can tear the frontal branch of the middle meningeal artery and cause an epidural haematoma.",
+    "id": "Benturan pada pterion dapat merobek ramus frontalis a. meningea media dan menimbulkan hematoma epidural."
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os planum",
+    "planum",
+    "tulang pipih"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ]
+  }
+ },
+ {
+  "key": "occipital-bone",
+  "kind": "bone",
+  "la": "Os occipitale",
+  "alt": [
+   "Os occipitalis"
+  ],
+  "en": "Occipital bone",
+  "desc": {
+   "en": "The unpaired bone at the back and base of the skull, built around the foramen magnum from four parts: the squama behind, two lateral parts carrying the occipital condyles, and the basilar part in front. The condyles articulate with the atlas at the atlanto-occipital joints.",
+   "id": "Tulang tunggal di bagian belakang dan dasar tengkorak, tersusun dari empat bagian di sekeliling foramen magnum: squama occipitalis di belakang, dua pars lateralis yang memuat condylus occipitalis, dan pars basilaris di depan. Condylus occipitalis bersendi dengan atlas pada articulatio atlantooccipitalis."
+  },
+  "facts": {
+   "type": "Os planum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Ossa parietalia",
+    "Ossa temporalia",
+    "Os sphenoidale",
+    "Atlas"
+   ],
+   "features": [
+    "squamous-part-of-occipital-bone",
+    "lateral-part-of-occipital-bone",
+    "basilar-part-of-occipital-bone",
+    "foramen-magnum",
+    "occipital-condyle",
+    "hypoglossal-canal",
+    "condylar-fossa",
+    "condylar-canal",
+    "jugular-process",
+    "jugular-notch-of-occipital-bone",
+    "intrajugular-process-of-occipital-bone",
+    "external-occipital-protuberance",
+    "external-occipital-crest",
+    "supreme-nuchal-line",
+    "superior-nuchal-line",
+    "inferior-nuchal-line",
+    "occipital-plane",
+    "internal-occipital-protuberance",
+    "internal-occipital-crest",
+    "cruciform-eminence",
+    "cerebral-fossa",
+    "cerebellar-fossa",
+    "groove-for-transverse-sinus",
+    "groove-for-occipital-sinus",
+    "groove-for-marginal-sinus",
+    "mastoid-border-of-occipital-bone",
+    "vermian-fossa"
+   ],
+   "region": {
+    "en": "Neurocranium (cranial vault and base)",
+    "id": "Neurocranium (atap dan dasar tengkorak)"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os planum",
+    "planum",
+    "tulang pipih",
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ]
+  }
+ },
+ {
+  "key": "temporal-bone",
+  "kind": "bone",
+  "la": "Os temporale",
+  "alt": [
+   "Os temporalis"
+  ],
+  "en": "Temporal bone",
+  "desc": {
+   "en": "A paired bone of the side and base of the skull. Its squamous part carries the zygomatic process and the mandibular fossa of the temporomandibular joint, its tympanic part forms the external acoustic meatus, its petrous part houses the middle and inner ear, and the mastoid process behind the ear holds the mastoid air cells. The styloid process projects downward.",
+   "id": "Tulang berpasangan pada sisi dan dasar tengkorak. Pars squamosa memuat processus zygomaticus dan fossa mandibularis untuk articulatio temporomandibularis, pars tympanica membentuk meatus acusticus externus, pars petrosa berisi telinga tengah dan dalam, dan processus mastoideus di belakang telinga berisi cellulae mastoideae. Processus styloideus menonjol ke bawah."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Os parietale",
+    "Os occipitale",
+    "Os sphenoidale",
+    "Os zygomaticum",
+    "Mandibula"
+   ],
+   "features": [
+    "squamous-part-of-temporal-bone",
+    "petrous-part-of-temporal-bone",
+    "tympanic-part-of-temporal-bone",
+    "mastoid-process",
+    "mastoid-notch",
+    "styloid-process-of-temporal-bone",
+    "anterior-surface-of-petrous-part",
+    "posterior-surface-of-petrous-part",
+    "apex-of-petrous-part",
+    "arcuate-eminence",
+    "tegmen-tympani",
+    "occipital-margin-of-temporal-bone"
+   ],
+   "region": {
+    "en": "Neurocranium (cranial vault and base)",
+    "id": "Neurocranium (atap dan dasar tengkorak)"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan",
+    "Os pneumaticum",
+    "pneumaticum",
+    "tulang berongga udara"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ]
+  }
+ },
+ {
+  "key": "sphenoid-bone",
+  "kind": "bone",
+  "la": "Os sphenoidale",
+  "alt": [
+   "Os sphenoideum",
+   "Os sphenoidalis"
+  ],
+  "en": "Sphenoid bone",
+  "desc": {
+   "en": "An unpaired bone shaped like a butterfly, wedged in the middle of the cranial base. It has a body (with the sella turcica above and the sphenoidal sinuses inside), paired greater and lesser wings and paired pterygoid processes. Its foramina carry major nerves: the optic canal (CN II), superior orbital fissure, foramen rotundum (V2), foramen ovale (V3) and foramen spinosum (middle meningeal artery).",
+   "id": "Tulang tunggal berbentuk kupu-kupu yang terjepit di tengah basis cranii. Tulang ini memiliki corpus (dengan sella turcica di atas dan sinus sphenoidalis di dalamnya), sepasang ala major dan ala minor, serta sepasang processus pterygoideus. Lubang-lubangnya dilalui saraf penting: canalis opticus (N. II), fissura orbitalis superior, foramen rotundum (V2), foramen ovale (V3), dan foramen spinosum (a. meningea media)."
+  },
+  "facts": {
+   "type": "Os pneumaticum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Os frontale",
+    "Ossa parietalia",
+    "Os occipitale",
+    "Ossa temporalia",
+    "Os ethmoidale",
+    "Vomer",
+    "Ossa palatina",
+    "Ossa zygomatica"
+   ],
+   "features": [
+    "body-of-sphenoid-bone",
+    "sella-turcica",
+    "tuberculum-sellae",
+    "hypophysial-fossa",
+    "dorsum-sellae",
+    "anterior-clinoid-process",
+    "middle-clinoid-process",
+    "posterior-clinoid-process",
+    "chiasmatic-sulcus",
+    "limbus-of-sphenoid",
+    "sphenoidal-yoke",
+    "carotid-sulcus",
+    "sphenoidal-lingula",
+    "sphenoidal-crest",
+    "lesser-wing",
+    "optic-canal",
+    "greater-wing",
+    "foramen-rotundum",
+    "foramen-ovale",
+    "foramen-spinosum",
+    "spine-of-sphenoid-bone",
+    "pterygoid-process",
+    "medial-pterygoid-plate",
+    "lateral-pterygoid-plate",
+    "pterygoid-hamulus",
+    "pterygoid-fossa",
+    "scaphoid-fossa",
+    "pterygoid-canal",
+    "sinus-of-sphenoid-bone"
+   ],
+   "region": {
+    "en": "Neurocranium (cranial vault and base)",
+    "id": "Neurocranium (atap dan dasar tengkorak)"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os pneumaticum",
+    "pneumaticum",
+    "tulang berongga udara",
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ]
+  }
+ },
+ {
+  "key": "ethmoid-bone",
+  "kind": "bone",
+  "la": "Os ethmoidale",
+  "alt": [
+   "Os ethmoideum",
+   "Os ethmoidalis"
+  ],
+  "en": "Ethmoid bone",
+  "desc": {
+   "en": "A light, unpaired bone between the orbits. Its cribriform plate, pierced by the olfactory nerve fibres, forms the roof of the nasal cavity, with the crista galli above it; the perpendicular plate forms the upper nasal septum; the two labyrinths contain the ethmoidal cells, carry the superior and middle nasal conchae and form much of the medial wall of each orbit (orbital plate).",
+   "id": "Tulang tunggal yang ringan, terletak di antara kedua orbita. Lamina cribrosa yang ditembus fila olfactoria membentuk atap cavitas nasi, dengan crista galli di atasnya; lamina perpendicularis membentuk bagian atas septum nasi; kedua labyrinthus ethmoidalis berisi cellulae ethmoidales, memuat concha nasalis superior dan media, dan membentuk sebagian besar dinding medial orbita (lamina orbitalis)."
+  },
+  "facts": {
+   "type": "Os pneumaticum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Os frontale",
+    "Os sphenoidale",
+    "Ossa nasalia",
+    "Maxillae",
+    "Ossa lacrimalia",
+    "Ossa palatina",
+    "Conchae nasales inferiores",
+    "Vomer"
+   ],
+   "features": [
+    "anterior-cells-of-ethmoid-bone",
+    "middle-cells-of-ethmoid-bone",
+    "posterior-cells-of-ethmoid-bone",
+    "concha-nasalis-media",
+    "concha-nasalis-superior"
+   ],
+   "region": {
+    "en": "Neurocranium (cranial vault and base)",
+    "id": "Neurocranium (atap dan dasar tengkorak)"
+   },
+   "clinical": {
+    "en": "A fracture of the cribriform plate can tear the meninges and cause leakage of CSF from the nose (CSF rhinorrhoea) and loss of smell.",
+    "id": "Fraktur lamina cribrosa dapat merobek meninges sehingga cairan serebrospinal keluar dari hidung (rinore LCS) dan penciuman hilang."
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os pneumaticum",
+    "pneumaticum",
+    "tulang berongga udara",
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ]
+  }
+ },
+ {
+  "key": "maxilla",
+  "kind": "bone",
+  "la": "Maxilla",
+  "alt": [
+   "Os maxillare",
+   "Maxillae"
+  ],
+  "en": "Maxilla",
+  "desc": {
+   "en": "A paired bone forming the upper jaw. Its body holds the maxillary sinus, the largest paranasal sinus; its frontal, zygomatic, alveolar and palatine processes reach the frontal bone, the zygomatic bone, the upper teeth and the hard palate. The two maxillae form most of the hard palate, the floor of each orbit and much of the lateral wall of the nasal cavity.",
+   "id": "Tulang berpasangan yang membentuk rahang atas. Corpus maxillae berisi sinus maxillaris, sinus paranasalis terbesar; processus frontalis, zygomaticus, alveolaris, dan palatinus menuju os frontale, os zygomaticum, gigi atas, dan palatum durum. Kedua maxilla membentuk sebagian besar palatum durum, dasar orbita, dan dinding lateral cavitas nasi."
+  },
+  "facts": {
+   "type": "Os pneumaticum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Os frontale",
+    "Os ethmoidale",
+    "Os nasale",
+    "Os lacrimale",
+    "Os zygomaticum",
+    "Os palatinum",
+    "Concha nasalis inferior",
+    "Vomer",
+    "Maxilla contralateralis"
+   ],
+   "features": [
+    "maxillary-dental-arch",
+    "sinus-maxillaris"
+   ],
+   "region": {
+    "en": "Viscerocranium (facial skeleton)",
+    "id": "Viscerocranium (kerangka wajah)"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os pneumaticum",
+    "pneumaticum",
+    "tulang berongga udara",
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ]
+  }
+ },
+ {
+  "key": "mandible",
+  "kind": "bone",
+  "la": "Mandibula",
+  "alt": [
+   "Os mandibulae"
+  ],
+  "en": "Mandible",
+  "desc": {
+   "en": "The lower jaw and the only freely movable bone of the skull (apart from the ossicles). Its U-shaped body carries the lower teeth; the rami rise from the angles and end in the coronoid process (insertion of temporalis) and the condylar process, whose head forms the temporomandibular joint. The inferior alveolar nerve enters the mandibular foramen and leaves as the mental nerve through the mental foramen.",
+   "id": "Rahang bawah dan satu-satunya tulang tengkorak yang bebas bergerak (selain ossicula auditus). Corpus mandibulae yang berbentuk U memuat gigi bawah; ramus mandibulae naik dari angulus mandibulae dan berakhir pada processus coronoideus (insersio m. temporalis) dan processus condylaris, yang caput-nya membentuk articulatio temporomandibularis. N. alveolaris inferior masuk melalui foramen mandibulae dan keluar sebagai n. mentalis lewat foramen mentale."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Ossa temporalia"
+   ],
+   "features": [
+    "body-of-mandible",
+    "base-of-mandible",
+    "mental-protuberance",
+    "mental-tubercle",
+    "mental-foramen",
+    "oblique-line-of-mandible",
+    "digastric-fossa",
+    "sublingual-fossa",
+    "superior-mental-spine",
+    "inferior-mental-spine",
+    "mandibular-symphysis",
+    "mandibular-dental-arch",
+    "genion",
+    "gnathion"
+   ],
+   "region": {
+    "en": "Viscerocranium (facial skeleton)",
+    "id": "Viscerocranium (kerangka wajah)"
+   },
+   "clinical": {
+    "en": "The mandible often breaks in two places, for example at the canine region on one side and the angle on the other.",
+    "id": "Mandibula sering patah di dua tempat, misalnya di daerah caninus pada satu sisi dan di angulus pada sisi lain."
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ]
+  }
+ },
+ {
+  "key": "zygomatic-bone",
+  "kind": "bone",
+  "la": "Os zygomaticum",
+  "alt": [
+   "Os zygomaticus"
+  ],
+  "en": "Zygomatic bone",
+  "desc": {
+   "en": "The paired cheekbone, forming the prominence of the cheek and parts of the lateral wall and floor of the orbit. Its temporal process joins the zygomatic process of the temporal bone to form the zygomatic arch.",
+   "id": "Tulang pipi yang berpasangan, membentuk tonjolan pipi serta sebagian dinding lateral dan dasar orbita. Processus temporalis-nya bersambung dengan processus zygomaticus os temporale membentuk arcus zygomaticus."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Os frontale",
+    "Os sphenoidale",
+    "Os temporale",
+    "Maxilla"
+   ],
+   "features": [],
+   "region": {
+    "en": "Viscerocranium (facial skeleton)",
+    "id": "Viscerocranium (kerangka wajah)"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ]
+  }
+ },
+ {
+  "key": "nasal-bone",
+  "kind": "bone",
+  "la": "Os nasale",
+  "alt": [
+   "Os nasalis",
+   "Ossa nasalia"
+  ],
+  "en": "Nasal bone",
+  "desc": {
+   "en": "A paired small oblong bone; the two nasal bones form the bridge of the nose above the piriform aperture. Each meets its partner in the midline, the frontal bone above, the frontal process of the maxilla laterally and the perpendicular plate of the ethmoid and the septal cartilage behind. It is the most often fractured facial bone.",
+   "id": "Tulang kecil lonjong yang berpasangan; kedua os nasale membentuk batang hidung di atas apertura piriformis. Masing-masing bertemu pasangannya di garis tengah, os frontale di atas, processus frontalis maxillae di lateral, serta lamina perpendicularis os ethmoidale dan cartilago septi nasi di belakang. Tulang ini paling sering patah di antara tulang wajah."
+  },
+  "facts": {
+   "type": "Os planum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Os nasale contralaterale",
+    "Os frontale",
+    "Maxilla",
+    "Os ethmoidale"
+   ],
+   "features": [],
+   "region": {
+    "en": "Viscerocranium (facial skeleton)",
+    "id": "Viscerocranium (kerangka wajah)"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os planum",
+    "planum",
+    "tulang pipih"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ]
+  }
+ },
+ {
+  "key": "lacrimal-bone",
+  "kind": "bone",
+  "la": "Os lacrimale",
+  "alt": [
+   "Os lacrimalis"
+  ],
+  "en": "Lacrimal bone",
+  "desc": {
+   "en": "A paired, very thin bone, the smallest of the face, in the front of the medial wall of the orbit. With the frontal process of the maxilla it forms the fossa for the lacrimal sac, which leads down into the nasolacrimal canal.",
+   "id": "Tulang berpasangan yang sangat tipis dan terkecil di wajah, terletak di bagian depan dinding medial orbita. Bersama processus frontalis maxillae tulang ini membentuk fossa sacci lacrimalis yang berlanjut ke bawah sebagai canalis nasolacrimalis."
+  },
+  "facts": {
+   "type": "Os planum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Os frontale",
+    "Os ethmoidale",
+    "Maxilla",
+    "Concha nasalis inferior"
+   ],
+   "features": [],
+   "region": {
+    "en": "Viscerocranium (facial skeleton)",
+    "id": "Viscerocranium (kerangka wajah)"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os planum",
+    "planum",
+    "tulang pipih"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ]
+  }
+ },
+ {
+  "key": "palatine-bone",
+  "kind": "bone",
+  "la": "Os palatinum",
+  "alt": [
+   "Os palatini"
+  ],
+  "en": "Palatine bone",
+  "desc": {
+   "en": "A paired L-shaped bone behind the maxilla. Its horizontal plate forms the back third of the hard palate, its perpendicular plate forms part of the lateral wall of the nasal cavity, and small orbital and pyramidal processes reach the orbit floor and the pterygoid notch. The greater and lesser palatine foramina open on its palatal surface.",
+   "id": "Tulang berpasangan berbentuk L di belakang maxilla. Lamina horizontalis membentuk sepertiga belakang palatum durum, lamina perpendicularis membentuk sebagian dinding lateral cavitas nasi, dan processus orbitalis serta pyramidalis yang kecil mencapai dasar orbita dan incisura pterygoidea. Foramen palatinum majus dan minus bermuara di permukaan palatinal-nya."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Maxilla",
+    "Os sphenoidale",
+    "Os ethmoidale",
+    "Concha nasalis inferior",
+    "Vomer",
+    "Os palatinum contralaterale"
+   ],
+   "features": [],
+   "region": {
+    "en": "Viscerocranium (facial skeleton)",
+    "id": "Viscerocranium (kerangka wajah)"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ]
+  }
+ },
+ {
+  "key": "vomer",
+  "kind": "bone",
+  "la": "Vomer",
+  "alt": [],
+  "en": "Vomer",
+  "desc": {
+   "en": "A thin, unpaired, plough-shaped bone forming the lower and back part of the bony nasal septum. Its free posterior border separates the two choanae.",
+   "id": "Tulang tunggal yang tipis berbentuk mata bajak, membentuk bagian bawah dan belakang septum nasi osseum. Tepi belakangnya yang bebas memisahkan kedua choana."
+  },
+  "facts": {
+   "type": "Os planum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Os sphenoidale",
+    "Os ethmoidale",
+    "Maxillae",
+    "Ossa palatina",
+    "Cartilago septi nasi"
+   ],
+   "features": [],
+   "region": {
+    "en": "Viscerocranium (facial skeleton)",
+    "id": "Viscerocranium (kerangka wajah)"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os planum",
+    "planum",
+    "tulang pipih"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ]
+  }
+ },
+ {
+  "key": "inferior-nasal-concha-bone",
+  "kind": "bone",
+  "la": "Concha nasalis inferior",
+  "alt": [
+   "Os conchae nasalis inferioris",
+   "Concha nasi inferior"
+  ],
+  "en": "Inferior nasal concha",
+  "desc": {
+   "en": "A paired, independent scroll-shaped bone attached to the lateral wall of the nasal cavity, below the middle concha. The inferior nasal meatus under it receives the opening of the nasolacrimal duct.",
+   "id": "Tulang berpasangan yang berdiri sendiri, berbentuk gulungan, melekat pada dinding lateral cavitas nasi di bawah concha nasalis media. Meatus nasi inferior di bawahnya menjadi muara ductus nasolacrimalis."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Maxilla",
+    "Os lacrimale",
+    "Os ethmoidale",
+    "Os palatinum"
+   ],
+   "features": [],
+   "region": {
+    "en": "Viscerocranium (facial skeleton)",
+    "id": "Viscerocranium (kerangka wajah)"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ]
+  }
+ },
+ {
+  "key": "sinus-of-frontal-bone",
+  "kind": "organ-part",
+  "la": "Sinus frontalis",
+  "alt": [
+   "Sinus ossis frontalis"
+  ],
+  "en": "Frontal sinus",
+  "desc": {
+   "en": "Paired air spaces in the frontal squama behind the superciliary arches, separated by a thin septum. Each drains through the frontonasal duct into the ethmoidal infundibulum and hiatus semilunaris of the middle nasal meatus.",
+   "id": "Rongga udara berpasangan di dalam squama frontalis di belakang arcus superciliaris, dipisahkan oleh septum tipis. Masing-masing bermuara melalui ductus frontonasalis ke infundibulum ethmoidale dan hiatus semilunaris di meatus nasi medius."
+  },
+  "facts": {
+   "location": {
+    "en": "In the frontal bone, above the orbits and the root of the nose.",
+    "id": "Di dalam os frontale, di atas orbita dan pangkal hidung."
+   },
+   "features": {
+    "en": "Opens into the middle nasal meatus (hiatus semilunaris). Usually absent at birth; becomes visible on radiographs at about 7 years.",
+    "id": "Bermuara di meatus nasi medius (hiatus semilunaris). Biasanya belum ada saat lahir; mulai tampak pada foto rontgen sekitar usia 7 tahun."
+   },
+   "nerve": "Nervus supraorbitalis (V1)"
+  },
+  "quiz": {}
+ },
+ {
+  "key": "sinus-of-sphenoid-bone",
+  "kind": "organ-part",
+  "la": "Sinus sphenoidalis",
+  "alt": [
+   "Sinus ossis sphenoidalis",
+   "Sinus sphenoideus"
+  ],
+  "en": "Sphenoidal sinus",
+  "desc": {
+   "en": "Paired, usually unequal air spaces in the body of the sphenoid, directly below the hypophysial fossa. Each opens into the sphenoethmoidal recess above the superior concha.",
+   "id": "Rongga udara berpasangan, biasanya tidak sama besar, di dalam corpus ossis sphenoidalis, tepat di bawah fossa hypophysialis. Masing-masing bermuara di recessus sphenoethmoidalis di atas concha nasalis superior."
+  },
+  "facts": {
+   "location": {
+    "en": "In the body of the sphenoid bone.",
+    "id": "Di dalam corpus ossis sphenoidalis."
+   },
+   "features": {
+    "en": "Opens into the sphenoethmoidal recess.",
+    "id": "Bermuara di recessus sphenoethmoidalis."
+   },
+   "nerve": "Nervus ethmoidalis posterior (V1) et rami orbitales ganglii pterygopalatini (V2)",
+   "relations": {
+    "en": "Above: hypophysis and optic chiasma; laterally: cavernous sinus with the internal carotid artery and cranial nerves III, IV, V1, V2 and VI.",
+    "id": "Di atas: hypophysis dan chiasma opticum; di lateral: sinus cavernosus dengan a. carotis interna serta N. III, IV, V1, V2, dan VI."
+   },
+   "clinical": {
+    "en": "Surgeons reach pituitary tumours through the sphenoidal sinus (transsphenoidal approach).",
+    "id": "Tumor hipofisis dapat dicapai melalui sinus sphenoidalis (pendekatan transsfenoidal)."
+   }
+  },
+  "quiz": {}
+ },
+ {
+  "key": "anterior-cells-of-ethmoid-bone",
+  "kind": "organ-part",
+  "la": "Cellulae ethmoidales anteriores",
+  "alt": [
+   "Cellulae anteriores ossis ethmoidalis",
+   "Sinus ethmoidales anteriores"
+  ],
+  "en": "Anterior ethmoidal cells",
+  "desc": {
+   "en": "The front group of the small air cells in the ethmoidal labyrinth. They drain into the middle nasal meatus through the ethmoidal infundibulum and hiatus semilunaris.",
+   "id": "Kelompok depan sel-sel udara kecil di dalam labyrinthus ethmoidalis. Sel-sel ini bermuara di meatus nasi medius melalui infundibulum ethmoidale dan hiatus semilunaris."
+  },
+  "facts": {
+   "location": {
+    "en": "In the ethmoidal labyrinth, between the orbit and the nasal cavity.",
+    "id": "Di labyrinthus ethmoidalis, di antara orbita dan cavitas nasi."
+   },
+   "features": {
+    "en": "Open into the middle nasal meatus (ethmoidal infundibulum, hiatus semilunaris).",
+    "id": "Bermuara di meatus nasi medius (infundibulum ethmoidale, hiatus semilunaris)."
+   },
+   "nerve": "Nervus ethmoidalis anterior (V1)",
+   "clinical": {
+    "en": "Infection can spread through the paper-thin orbital plate into the orbit (orbital cellulitis).",
+    "id": "Infeksi dapat menyebar menembus lamina orbitalis yang setipis kertas ke dalam orbita (selulitis orbita)."
+   }
+  },
+  "quiz": {}
+ },
+ {
+  "key": "middle-cells-of-ethmoid-bone",
+  "kind": "organ-part",
+  "la": "Cellulae ethmoidales mediae",
+  "alt": [
+   "Cellulae mediae ossis ethmoidalis",
+   "Sinus ethmoidales medii"
+  ],
+  "en": "Middle ethmoidal cells",
+  "desc": {
+   "en": "The middle group of ethmoidal air cells, which bulge into the middle meatus as the ethmoidal bulla and open on or above it.",
+   "id": "Kelompok tengah sel udara ethmoidalis yang menonjol ke meatus nasi medius sebagai bulla ethmoidalis dan bermuara pada atau di atas bulla tersebut."
+  },
+  "facts": {
+   "location": {
+    "en": "In the ethmoidal labyrinth.",
+    "id": "Di labyrinthus ethmoidalis."
+   },
+   "features": {
+    "en": "Open into the middle nasal meatus on or above the ethmoidal bulla.",
+    "id": "Bermuara di meatus nasi medius pada atau di atas bulla ethmoidalis."
+   },
+   "nerve": "Nervus ethmoidalis anterior et posterior (V1)"
+  },
+  "quiz": {}
+ },
+ {
+  "key": "posterior-cells-of-ethmoid-bone",
+  "kind": "organ-part",
+  "la": "Cellulae ethmoidales posteriores",
+  "alt": [
+   "Cellulae posteriores ossis ethmoidalis",
+   "Sinus ethmoidales posteriores"
+  ],
+  "en": "Posterior ethmoidal cells",
+  "desc": {
+   "en": "The back group of ethmoidal air cells, close to the optic canal. They open into the superior nasal meatus.",
+   "id": "Kelompok belakang sel udara ethmoidalis yang letaknya dekat canalis opticus. Sel-sel ini bermuara di meatus nasi superior."
+  },
+  "facts": {
+   "location": {
+    "en": "In the posterior part of the ethmoidal labyrinth.",
+    "id": "Di bagian belakang labyrinthus ethmoidalis."
+   },
+   "features": {
+    "en": "Open into the superior nasal meatus.",
+    "id": "Bermuara di meatus nasi superior."
+   },
+   "nerve": "Nervus ethmoidalis posterior (V1)"
+  },
+  "quiz": {}
+ },
+ {
+  "key": "sinus-maxillaris",
+  "kind": "organ-part",
+  "la": "Sinus maxillaris",
+  "alt": [
+   "Antrum Highmori"
+  ],
+  "en": "Maxillary sinus",
+  "desc": {
+   "en": "The largest paranasal sinus, a pyramid-shaped space in the body of the maxilla. It opens into the middle nasal meatus through the hiatus semilunaris; the opening lies high on its medial wall, so the sinus drains poorly when the head is upright.",
+   "id": "Sinus paranasalis terbesar, rongga berbentuk piramida di dalam corpus maxillae. Sinus ini bermuara di meatus nasi medius melalui hiatus semilunaris; muaranya terletak tinggi pada dinding medial sehingga drainasenya buruk saat kepala tegak."
+  },
+  "facts": {
+   "location": {
+    "en": "In the body of the maxilla, below the orbit and above the roots of the upper molars.",
+    "id": "Di corpus maxillae, di bawah orbita dan di atas akar gigi molar atas."
+   },
+   "features": {
+    "en": "Opens into the middle nasal meatus (hiatus semilunaris).",
+    "id": "Bermuara di meatus nasi medius (hiatus semilunaris)."
+   },
+   "nerve": "Nervi alveolares superiores et nervus infraorbitalis (V2)",
+   "relations": {
+    "en": "Roof: floor of the orbit with the infraorbital nerve; floor: alveolar process with the roots of the upper molars and premolars.",
+    "id": "Atap: dasar orbita dengan n. infraorbitalis; dasar: processus alveolaris dengan akar gigi molar dan premolar atas."
+   },
+   "clinical": {
+    "en": "Infection of an upper molar root can spread into the sinus, and sinusitis can be felt as upper toothache.",
+    "id": "Infeksi akar gigi molar atas dapat menyebar ke sinus, dan sinusitis dapat terasa sebagai sakit gigi atas."
+   }
+  },
+  "quiz": {},
+  "model": false
+ },
+ {
+  "key": "sinus-paranasales",
+  "kind": "organ-part",
+  "la": "Sinus paranasales",
+  "alt": [
+   "Sinus paranasalis"
+  ],
+  "en": "Paranasal sinuses",
+  "desc": {
+   "en": "Air-filled extensions of the nasal cavity into the frontal bone, maxilla, ethmoid and sphenoid, lined with respiratory mucosa. Their openings (muara) are: frontal sinus, maxillary sinus and anterior ethmoidal cells into the middle meatus (hiatus semilunaris); middle ethmoidal cells onto the ethmoidal bulla in the middle meatus; posterior ethmoidal cells into the superior meatus; sphenoidal sinus into the sphenoethmoidal recess. The nasolacrimal duct opens into the inferior meatus.",
+   "id": "Perluasan cavitas nasi berisi udara ke dalam os frontale, maxilla, os ethmoidale, dan os sphenoidale, dilapisi mukosa respiratorius. Muaranya: sinus frontalis, sinus maxillaris, dan cellulae ethmoidales anteriores ke meatus nasi medius (hiatus semilunaris); cellulae ethmoidales mediae ke bulla ethmoidalis di meatus medius; cellulae ethmoidales posteriores ke meatus nasi superior; sinus sphenoidalis ke recessus sphenoethmoidalis. Ductus nasolacrimalis bermuara di meatus nasi inferior."
+  },
+  "facts": {
+   "location": {
+    "en": "Around the nasal cavity, in the frontal bone, maxillae, ethmoid and sphenoid.",
+    "id": "Di sekitar cavitas nasi, di dalam os frontale, maxilla, os ethmoidale, dan os sphenoidale."
+   },
+   "features": {
+    "en": "Lighten the skull, warm and humidify air, add resonance to the voice.",
+    "id": "Meringankan tengkorak, menghangatkan dan melembapkan udara, serta menambah resonansi suara."
+   },
+   "openings": [
+    "Sinus frontalis: meatus nasi medius",
+    "Sinus maxillaris: meatus nasi medius",
+    "Cellulae ethmoidales anteriores: meatus nasi medius",
+    "Cellulae ethmoidales mediae: meatus nasi medius (bulla ethmoidalis)",
+    "Cellulae ethmoidales posteriores: meatus nasi superior",
+    "Sinus sphenoidalis: recessus sphenoethmoidalis",
+    "Ductus nasolacrimalis: meatus nasi inferior"
+   ],
+   "parts": [
+    "sinus-of-frontal-bone",
+    "sinus-maxillaris",
+    "anterior-cells-of-ethmoid-bone",
+    "middle-cells-of-ethmoid-bone",
+    "posterior-cells-of-ethmoid-bone",
+    "sinus-of-sphenoid-bone"
+   ]
+  },
+  "quiz": {
+   "middle_meatus": [
+    "Sinus frontalis",
+    "Sinus maxillaris",
+    "Cellulae ethmoidales anteriores",
+    "Cellulae ethmoidales mediae"
+   ],
+   "superior_meatus": [
+    "Cellulae ethmoidales posteriores"
+   ],
+   "sphenoethmoidal_recess": [
+    "Sinus sphenoidalis"
+   ],
+   "inferior_meatus": [
+    "Ductus nasolacrimalis"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "apertura-piriformis",
+  "kind": "landmark",
+  "la": "Apertura piriformis",
+  "alt": [
+   "Apertura nasalis anterior"
+  ],
+  "en": "Piriform aperture",
+  "desc": {
+   "en": "The pear-shaped anterior opening of the bony nasal cavity. The nasal bones bound it above and the nasal notches of the two maxillae at the sides and below, with the anterior nasal spine in the midline of its lower margin.",
+   "id": "Lubang depan cavitas nasi bagian tulang yang berbentuk buah pir. Batas atasnya ossa nasalia, sedangkan batas samping dan bawahnya incisura nasalis kedua maxilla, dengan spina nasalis anterior di garis tengah tepi bawahnya."
+  },
+  "facts": {
+   "bone": "cranium"
+  },
+  "quiz": {
+   "bone": [
+    "Os nasale",
+    "Maxilla"
+   ],
+   "boundaries": [
+    "Os nasale",
+    "Maxilla",
+    "Incisura nasalis maxillae",
+    "Spina nasalis anterior"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "concha-nasalis-media",
+  "kind": "landmark",
+  "la": "Concha nasalis media",
+  "alt": [
+   "Concha nasi media"
+  ],
+  "en": "Middle nasal concha",
+  "desc": {
+   "en": "A curved plate of the ethmoidal labyrinth on the lateral wall of the nasal cavity. The middle meatus beneath it receives the hiatus semilunaris and the ethmoidal bulla, so the frontal and maxillary sinuses and the anterior and middle ethmoidal cells drain under it.",
+   "id": "Lempeng melengkung dari labyrinthus ethmoidalis pada dinding lateral cavitas nasi. Meatus nasi medius di bawahnya memuat hiatus semilunaris dan bulla ethmoidalis, sehingga sinus frontalis, sinus maxillaris, serta cellulae ethmoidales anteriores dan mediae bermuara di bawahnya."
+  },
+  "facts": {
+   "bone": "ethmoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os ethmoidale",
+    "Os ethmoideum"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "concha-nasalis-superior",
+  "kind": "landmark",
+  "la": "Concha nasalis superior",
+  "alt": [
+   "Concha nasi superior"
+  ],
+  "en": "Superior nasal concha",
+  "desc": {
+   "en": "The smallest concha, a part of the ethmoid high on the lateral nasal wall. The posterior ethmoidal cells open into the superior meatus below it, and the sphenoidal sinus opens into the sphenoethmoidal recess above and behind it.",
+   "id": "Concha terkecil, bagian dari os ethmoidale yang terletak tinggi pada dinding lateral cavitas nasi. Cellulae ethmoidales posteriores bermuara di meatus nasi superior di bawahnya, dan sinus sphenoidalis bermuara di recessus sphenoethmoidalis di atas belakangnya."
+  },
+  "facts": {
+   "bone": "ethmoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os ethmoidale",
+    "Os ethmoideum"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "nasal-septal-cartilage",
+  "kind": "cartilage",
+  "la": "Cartilago septi nasi",
+  "alt": [
+   "Cartilago septalis nasi"
+  ],
+  "en": "Septal nasal cartilage",
+  "desc": {
+   "en": "A plate of hyaline cartilage that forms the front part of the nasal septum, fitted between the perpendicular plate of the ethmoid, the vomer and the nasal bones. Its upper edge spreads on each side as the lateral process.",
+   "id": "Lempeng cartilago hyalina yang membentuk bagian depan septum nasi, terletak di antara lamina perpendicularis os ethmoidale, vomer, dan ossa nasalia. Tepi atasnya melebar ke kiri dan kanan sebagai processus lateralis."
+  },
+  "facts": {
+   "location": {
+    "en": "Anterior part of the nasal septum.",
+    "id": "Bagian depan septum nasi."
+   },
+   "features": {
+    "en": "Hyaline cartilage; continuous above with its lateral processes.",
+    "id": "Cartilago hyalina; di atas bersambung dengan processus lateralis."
+   },
+   "clinical": {
+    "en": "Deviation of the septum can narrow one nasal passage.",
+    "id": "Septum yang bengkok (deviasi septum) dapat menyempitkan salah satu rongga hidung."
+   }
+  },
+  "quiz": {}
+ },
+ {
+  "key": "lateral-process-of-nasal-septal-cartilage",
+  "kind": "cartilage",
+  "la": "Processus lateralis cartilaginis septi nasi",
+  "alt": [
+   "Cartilago nasi lateralis",
+   "Processus lateralis"
+  ],
+  "en": "Lateral process of septal nasal cartilage",
+  "desc": {
+   "en": "The wing-like extension of the septal cartilage on each side that supports the middle third of the external nose, below the nasal bone and the frontal process of the maxilla. Older texts call it the lateral nasal cartilage.",
+   "id": "Perluasan cartilago septi nasi seperti sayap di kiri dan kanan yang menopang sepertiga tengah hidung luar, di bawah os nasale dan processus frontalis maxillae. Buku lama menyebutnya cartilago nasi lateralis."
+  },
+  "facts": {
+   "location": {
+    "en": "Side of the middle third of the external nose.",
+    "id": "Sisi sepertiga tengah hidung luar."
+   },
+   "features": {
+    "en": "Hyaline cartilage, attached above to the nasal bone and maxilla.",
+    "id": "Cartilago hyalina, melekat di atas pada os nasale dan maxilla."
+   }
+  },
+  "quiz": {}
+ },
+ {
+  "key": "major-alar-cartilage",
+  "kind": "cartilage",
+  "la": "Cartilago alaris major",
+  "alt": [
+   "Cartilagines alares majores"
+  ],
+  "en": "Major alar cartilage",
+  "desc": {
+   "en": "A paired U-shaped cartilage that curves around each nostril. Its medial crus lies in the columella and its lateral crus in the ala of the nose; together the two cartilages shape the tip of the nose.",
+   "id": "Cartilago berpasangan berbentuk U yang melengkung mengelilingi tiap nares. Crus mediale terletak di columella dan crus laterale di ala nasi; kedua cartilago bersama-sama membentuk ujung hidung."
+  },
+  "facts": {
+   "location": {
+    "en": "Around each naris, at the tip of the nose.",
+    "id": "Di sekeliling tiap nares, pada ujung hidung."
+   },
+   "features": {
+    "en": "Hyaline cartilage with a medial and a lateral crus.",
+    "id": "Cartilago hyalina dengan crus mediale dan crus laterale."
+   }
+  },
+  "quiz": {}
+ },
+ {
+  "key": "upper-medial-incisor",
+  "kind": "organ",
+  "la": "Dens incisivus medialis superior",
+  "alt": [
+   "Dens incisivus centralis superior",
+   "Dens incisivus medialis superioris",
+   "Incisivus I superior"
+  ],
+  "en": "Upper central (medial) incisor",
+  "desc": {
+   "en": "The widest incisor, with a chisel-shaped crown and a straight incisal edge used for cutting food. It has one conical root.",
+   "id": "Gigi seri terlebar dengan corona berbentuk pahat dan tepi insisal lurus untuk memotong makanan. Memiliki satu radix berbentuk kerucut."
+  },
+  "facts": {
+   "location": {
+    "en": "Permanent dentition, FDI tooth number 11, 21.",
+    "id": "Gigi permanen, nomor FDI 11, 21."
+   },
+   "features": {
+    "en": "One root; supplied by the anterior superior alveolar nerve.",
+    "id": "Satu radix; dipersarafi n. alveolaris superior anterior."
+   },
+   "nerve": "Nervus alveolaris superior anterior (V2)",
+   "fdi": "11, 21"
+  },
+  "quiz": {
+   "nerve": [
+    "Nervus alveolaris superior anterior",
+    "N. alveolaris superior anterior"
+   ]
+  }
+ },
+ {
+  "key": "upper-lateral-incisor",
+  "kind": "organ",
+  "la": "Dens incisivus lateralis superior",
+  "alt": [
+   "Dens incisivus lateralis superioris",
+   "Incisivus II superior"
+  ],
+  "en": "Upper lateral incisor",
+  "desc": {
+   "en": "A smaller incisor beside the central one, with a narrower, more rounded crown and one root.",
+   "id": "Gigi seri yang lebih kecil di samping gigi seri tengah, dengan corona lebih sempit dan lebih membulat serta satu radix."
+  },
+  "facts": {
+   "location": {
+    "en": "Permanent dentition, FDI tooth number 12, 22.",
+    "id": "Gigi permanen, nomor FDI 12, 22."
+   },
+   "features": {
+    "en": "One root; anterior superior alveolar nerve.",
+    "id": "Satu radix; n. alveolaris superior anterior."
+   },
+   "nerve": "Nervus alveolaris superior anterior (V2)",
+   "fdi": "12, 22"
+  },
+  "quiz": {
+   "nerve": [
+    "Nervus alveolaris superior anterior",
+    "N. alveolaris superior anterior"
+   ]
+  }
+ },
+ {
+  "key": "upper-canine",
+  "kind": "organ",
+  "la": "Dens caninus superior",
+  "alt": [
+   "Dens caninus superioris",
+   "Caninus superior"
+  ],
+  "en": "Upper canine",
+  "desc": {
+   "en": "A pointed tooth with one cusp at the corner of the dental arch. Its single root is the longest of all teeth.",
+   "id": "Gigi runcing dengan satu cuspis di sudut arcus dentalis. Radix tunggalnya paling panjang di antara semua gigi."
+  },
+  "facts": {
+   "location": {
+    "en": "Permanent dentition, FDI tooth number 13, 23.",
+    "id": "Gigi permanen, nomor FDI 13, 23."
+   },
+   "features": {
+    "en": "One long root; anterior superior alveolar nerve.",
+    "id": "Satu radix panjang; n. alveolaris superior anterior."
+   },
+   "nerve": "Nervus alveolaris superior anterior (V2)",
+   "fdi": "13, 23"
+  },
+  "quiz": {
+   "nerve": [
+    "Nervus alveolaris superior anterior",
+    "N. alveolaris superior anterior"
+   ]
+  }
+ },
+ {
+  "key": "upper-first-premolar",
+  "kind": "organ",
+  "la": "Dens premolaris primus superior",
+  "alt": [
+   "Dens premolaris primus superioris",
+   "Premolaris I superior"
+  ],
+  "en": "Upper first premolar",
+  "desc": {
+   "en": "A premolar with two cusps (buccal and palatal) and usually two roots, one buccal and one palatal.",
+   "id": "Gigi premolar dengan dua cuspis (bukal dan palatal) dan biasanya dua radix, satu bukal dan satu palatal."
+  },
+  "facts": {
+   "location": {
+    "en": "Permanent dentition, FDI tooth number 14, 24.",
+    "id": "Gigi permanen, nomor FDI 14, 24."
+   },
+   "features": {
+    "en": "Usually two roots; middle superior alveolar nerve where present, otherwise the anterior and posterior nerves.",
+    "id": "Biasanya dua radix; n. alveolaris superior medius bila ada, bila tidak oleh n. alveolaris superior anterior dan posterior."
+   },
+   "nerve": "Nervus alveolaris superior medius (V2)",
+   "fdi": "14, 24"
+  },
+  "quiz": {
+   "nerve": [
+    "Nervus alveolaris superior medius",
+    "N. alveolaris superior medius"
+   ]
+  }
+ },
+ {
+  "key": "upper-second-premolar",
+  "kind": "organ",
+  "la": "Dens premolaris secundus superior",
+  "alt": [
+   "Dens premolaris secundus superioris",
+   "Premolaris II superior"
+  ],
+  "en": "Upper second premolar",
+  "desc": {
+   "en": "A premolar with two cusps of nearly equal height and usually a single root.",
+   "id": "Gigi premolar dengan dua cuspis yang hampir sama tinggi dan biasanya satu radix."
+  },
+  "facts": {
+   "location": {
+    "en": "Permanent dentition, FDI tooth number 15, 25.",
+    "id": "Gigi permanen, nomor FDI 15, 25."
+   },
+   "features": {
+    "en": "Usually one root; middle superior alveolar nerve where present.",
+    "id": "Biasanya satu radix; n. alveolaris superior medius bila ada."
+   },
+   "nerve": "Nervus alveolaris superior medius (V2)",
+   "fdi": "15, 25"
+  },
+  "quiz": {
+   "nerve": [
+    "Nervus alveolaris superior medius",
+    "N. alveolaris superior medius"
+   ]
+  }
+ },
+ {
+  "key": "upper-first-molar-tooth",
+  "kind": "organ",
+  "la": "Dens molaris primus superior",
+  "alt": [
+   "Dens molaris primus superioris",
+   "Dens molaris primus suprioris",
+   "Molaris I superior"
+  ],
+  "en": "Upper first molar",
+  "desc": {
+   "en": "A large grinding tooth with four main cusps (often a small extra cusp of Carabelli on the palatal side) and three roots: two buccal and one palatal. Its roots lie just below the floor of the maxillary sinus.",
+   "id": "Gigi geraham besar dengan empat cuspis utama (sering dengan tonjolan tambahan Carabelli di sisi palatal) dan tiga radix: dua bukal dan satu palatal. Akar-akarnya terletak tepat di bawah dasar sinus maxillaris."
+  },
+  "facts": {
+   "location": {
+    "en": "Permanent dentition, FDI tooth number 16, 26.",
+    "id": "Gigi permanen, nomor FDI 16, 26."
+   },
+   "features": {
+    "en": "Three roots; posterior superior alveolar nerve (the middle nerve may reach the mesiobuccal root).",
+    "id": "Tiga radix; n. alveolaris superior posterior (n. alveolaris superior medius dapat mencapai radix mesiobukal)."
+   },
+   "nerve": "Nervus alveolaris superior posterior (V2)",
+   "fdi": "16, 26"
+  },
+  "quiz": {
+   "nerve": [
+    "Nervus alveolaris superior posterior",
+    "N. alveolaris superior posterior"
+   ]
+  }
+ },
+ {
+  "key": "upper-second-molar-tooth",
+  "kind": "organ",
+  "la": "Dens molaris secundus superior",
+  "alt": [
+   "Dens molaris secundus superioris",
+   "Molaris II superior"
+  ],
+  "en": "Upper second molar",
+  "desc": {
+   "en": "A grinding tooth smaller than the first molar, usually with four cusps (sometimes three) and three roots that are often closer together or fused.",
+   "id": "Gigi geraham yang lebih kecil dari molar pertama, biasanya dengan empat cuspis (kadang tiga) dan tiga radix yang sering lebih rapat atau menyatu."
+  },
+  "facts": {
+   "location": {
+    "en": "Permanent dentition, FDI tooth number 17, 27.",
+    "id": "Gigi permanen, nomor FDI 17, 27."
+   },
+   "features": {
+    "en": "Three roots; posterior superior alveolar nerve.",
+    "id": "Tiga radix; n. alveolaris superior posterior."
+   },
+   "nerve": "Nervus alveolaris superior posterior (V2)",
+   "fdi": "17, 27"
+  },
+  "quiz": {
+   "nerve": [
+    "Nervus alveolaris superior posterior",
+    "N. alveolaris superior posterior"
+   ]
+  }
+ },
+ {
+  "key": "lower-medial-incisor",
+  "kind": "organ",
+  "la": "Dens incisivus medialis inferior",
+  "alt": [
+   "Dens incisivus centralis inferior",
+   "Dens incisivus medialis inferioris",
+   "Incisivus I inferior"
+  ],
+  "en": "Lower central (medial) incisor",
+  "desc": {
+   "en": "The smallest tooth of the permanent dentition, with a narrow chisel-shaped crown and one flattened root.",
+   "id": "Gigi terkecil pada gigi permanen, dengan corona sempit berbentuk pahat dan satu radix yang pipih."
+  },
+  "facts": {
+   "location": {
+    "en": "Permanent dentition, FDI tooth number 31, 41.",
+    "id": "Gigi permanen, nomor FDI 31, 41."
+   },
+   "features": {
+    "en": "One root; incisive branch of the inferior alveolar nerve.",
+    "id": "Satu radix; ramus incisivus n. alveolaris inferior."
+   },
+   "nerve": "Nervus alveolaris inferior (V3)",
+   "fdi": "31, 41"
+  },
+  "quiz": {
+   "nerve": [
+    "Nervus alveolaris inferior",
+    "N. alveolaris inferior"
+   ]
+  }
+ },
+ {
+  "key": "lower-lateral-incisor",
+  "kind": "organ",
+  "la": "Dens incisivus lateralis inferior",
+  "alt": [
+   "Dens incisivus lateralis inferioris",
+   "Incisivus II inferior"
+  ],
+  "en": "Lower lateral incisor",
+  "desc": {
+   "en": "Slightly larger than the lower central incisor, with one flattened root.",
+   "id": "Sedikit lebih besar dari gigi seri tengah bawah, dengan satu radix yang pipih."
+  },
+  "facts": {
+   "location": {
+    "en": "Permanent dentition, FDI tooth number 32, 42.",
+    "id": "Gigi permanen, nomor FDI 32, 42."
+   },
+   "features": {
+    "en": "One root; incisive branch of the inferior alveolar nerve.",
+    "id": "Satu radix; ramus incisivus n. alveolaris inferior."
+   },
+   "nerve": "Nervus alveolaris inferior (V3)",
+   "fdi": "32, 42"
+  },
+  "quiz": {
+   "nerve": [
+    "Nervus alveolaris inferior",
+    "N. alveolaris inferior"
+   ]
+  }
+ },
+ {
+  "key": "lower-canine",
+  "kind": "organ",
+  "la": "Dens caninus inferior",
+  "alt": [
+   "Dens caninus inferioris",
+   "Caninus inferior"
+  ],
+  "en": "Lower canine",
+  "desc": {
+   "en": "A pointed tooth with one cusp and one long root, which is occasionally split.",
+   "id": "Gigi runcing dengan satu cuspis dan satu radix panjang yang kadang terbelah."
+  },
+  "facts": {
+   "location": {
+    "en": "Permanent dentition, FDI tooth number 33, 43.",
+    "id": "Gigi permanen, nomor FDI 33, 43."
+   },
+   "features": {
+    "en": "One root; inferior alveolar nerve.",
+    "id": "Satu radix; n. alveolaris inferior."
+   },
+   "nerve": "Nervus alveolaris inferior (V3)",
+   "fdi": "33, 43"
+  },
+  "quiz": {
+   "nerve": [
+    "Nervus alveolaris inferior",
+    "N. alveolaris inferior"
+   ]
+  }
+ },
+ {
+  "key": "lower-first-premolar",
+  "kind": "organ",
+  "la": "Dens premolaris primus inferior",
+  "alt": [
+   "Dens premolaris primus inferioris",
+   "Premolaris I inferior"
+  ],
+  "en": "Lower first premolar",
+  "desc": {
+   "en": "A premolar with a large buccal cusp and a small lingual cusp, and one root. The mental foramen lies near its root apex or just behind it.",
+   "id": "Gigi premolar dengan cuspis bukal besar dan cuspis lingual kecil, serta satu radix. Foramen mentale terletak dekat ujung akarnya atau sedikit di belakangnya."
+  },
+  "facts": {
+   "location": {
+    "en": "Permanent dentition, FDI tooth number 34, 44.",
+    "id": "Gigi permanen, nomor FDI 34, 44."
+   },
+   "features": {
+    "en": "One root; inferior alveolar nerve.",
+    "id": "Satu radix; n. alveolaris inferior."
+   },
+   "nerve": "Nervus alveolaris inferior (V3)",
+   "fdi": "34, 44"
+  },
+  "quiz": {
+   "nerve": [
+    "Nervus alveolaris inferior",
+    "N. alveolaris inferior"
+   ]
+  }
+ },
+ {
+  "key": "lower-second-premolar",
+  "kind": "organ",
+  "la": "Dens premolaris secundus inferior",
+  "alt": [
+   "Dens premolaris secundus inferioris",
+   "Premolaris II inferior"
+  ],
+  "en": "Lower second premolar",
+  "desc": {
+   "en": "A premolar with two or three cusps and one root; the mental foramen usually lies below it or between the two premolars.",
+   "id": "Gigi premolar dengan dua atau tiga cuspis dan satu radix; foramen mentale biasanya terletak di bawahnya atau di antara kedua premolar."
+  },
+  "facts": {
+   "location": {
+    "en": "Permanent dentition, FDI tooth number 35, 45.",
+    "id": "Gigi permanen, nomor FDI 35, 45."
+   },
+   "features": {
+    "en": "One root; inferior alveolar nerve.",
+    "id": "Satu radix; n. alveolaris inferior."
+   },
+   "nerve": "Nervus alveolaris inferior (V3)",
+   "fdi": "35, 45"
+  },
+  "quiz": {
+   "nerve": [
+    "Nervus alveolaris inferior",
+    "N. alveolaris inferior"
+   ]
+  }
+ },
+ {
+  "key": "lower-first-molar-tooth",
+  "kind": "organ",
+  "la": "Dens molaris primus inferior",
+  "alt": [
+   "Dens molaris primus inferioris",
+   "Molaris I inferior"
+  ],
+  "en": "Lower first molar",
+  "desc": {
+   "en": "The largest lower tooth, usually with five cusps (three buccal, two lingual) and two roots, mesial and distal. It is the first permanent tooth to erupt, at about 6 years.",
+   "id": "Gigi bawah terbesar, biasanya dengan lima cuspis (tiga bukal, dua lingual) dan dua radix, mesial dan distal. Gigi ini adalah gigi permanen pertama yang tumbuh, sekitar usia 6 tahun."
+  },
+  "facts": {
+   "location": {
+    "en": "Permanent dentition, FDI tooth number 36, 46.",
+    "id": "Gigi permanen, nomor FDI 36, 46."
+   },
+   "features": {
+    "en": "Two roots (mesial and distal); inferior alveolar nerve.",
+    "id": "Dua radix (mesial dan distal); n. alveolaris inferior."
+   },
+   "nerve": "Nervus alveolaris inferior (V3)",
+   "fdi": "36, 46"
+  },
+  "quiz": {
+   "nerve": [
+    "Nervus alveolaris inferior",
+    "N. alveolaris inferior"
+   ]
+  }
+ },
+ {
+  "key": "lower-second-molar-tooth",
+  "kind": "organ",
+  "la": "Dens molaris secundus inferior",
+  "alt": [
+   "Dens molaris secundus inferioris",
+   "Molaris II inferior"
+  ],
+  "en": "Lower second molar",
+  "desc": {
+   "en": "A grinding tooth with four cusps and two roots (mesial and distal), slightly smaller than the first molar; it erupts at about 12 years.",
+   "id": "Gigi geraham dengan empat cuspis dan dua radix (mesial dan distal), sedikit lebih kecil dari molar pertama; tumbuh sekitar usia 12 tahun."
+  },
+  "facts": {
+   "location": {
+    "en": "Permanent dentition, FDI tooth number 37, 47.",
+    "id": "Gigi permanen, nomor FDI 37, 47."
+   },
+   "features": {
+    "en": "Two roots; inferior alveolar nerve.",
+    "id": "Dua radix; n. alveolaris inferior."
+   },
+   "nerve": "Nervus alveolaris inferior (V3)",
+   "fdi": "37, 47"
+  },
+  "quiz": {
+   "nerve": [
+    "Nervus alveolaris inferior",
+    "N. alveolaris inferior"
+   ]
+  }
+ }
+]

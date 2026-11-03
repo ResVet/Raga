@@ -1,0 +1,587 @@
+[
+  {
+    "key": "trachea",
+    "kind": "organ",
+    "la": "Trachea",
+    "alt": [],
+    "en": "Trachea",
+    "desc": {
+      "en": "Fibrocartilaginous tube, about 10-12 cm long and 2-2.5 cm wide, that runs from the lower border of the cricoid cartilage (C6) to its bifurcation at the level of the sternal angle (T4-T5). Its wall is held open by 16-20 C-shaped hyaline cartilages; the posterior wall is flat and membranous and lies against the oesophagus.",
+      "id": "Saluran fibrokartilaginosa sepanjang kira-kira 10-12 cm dan selebar 2-2,5 cm, dari tepi bawah cartilago cricoidea (C6) sampai bifurcatio tracheae setinggi angulus sterni (T4-T5). Dindingnya dijaga tetap terbuka oleh 16-20 cartilago hialin berbentuk huruf C; dinding belakangnya datar, bermembran, dan menempel pada oesophagus."
+    },
+    "facts": {
+      "location": {
+        "en": "Pars cervicalis in the midline of the neck; pars thoracica in the superior mediastinum, slightly to the right of the midline at its lower end.",
+        "id": "Pars cervicalis di garis tengah leher; pars thoracica di mediastinum superius, ujung bawahnya sedikit ke kanan garis tengah."
+      },
+      "features": {
+        "en": "Cartilagines tracheales joined by ligamenta anularia; paries membranaceus with the m. trachealis (smooth muscle); carina tracheae inside the bifurcation.",
+        "id": "Cartilagines tracheales yang dihubungkan oleh ligamenta anularia; paries membranaceus dengan m. trachealis (otot polos); carina tracheae di dalam bifurcatio."
+      },
+      "relations": {
+        "en": "Neck: isthmus of the thyroid gland over rings 2-4, lobes of the thyroid on each side, oesophagus behind, recurrent laryngeal nerves in the grooves beside it. Thorax: in front the manubrium, thymus remnants, left brachiocephalic vein, arch of the aorta and brachiocephalic trunk; on the right the arch of the azygos vein, right vagus nerve and pleura; on the left the aortic arch, left common carotid and left subclavian arteries and the left recurrent laryngeal nerve.",
+        "id": "Leher: isthmus glandulae thyroideae di depan cincin 2-4, lobus glandulae thyroideae di kiri dan kanan, oesophagus di belakang, n. laryngeus recurrens di alur sampingnya. Thorax: di depan manubrium sterni, sisa thymus, v. brachiocephalica sinistra, arcus aortae dan truncus brachiocephalicus; di kanan arcus v. azygos, n. vagus dexter dan pleura; di kiri arcus aortae, a. carotis communis sinistra, a. subclavia sinistra dan n. laryngeus recurrens sinister."
+      },
+      "blood": ["Arteria thyroidea inferior", "Rami bronchiales aortae thoracicae"],
+      "nerve": ["Nervus vagus", "Nervus laryngeus recurrens", "Truncus sympathicus"],
+      "clinical": {
+        "en": "Tracheostomy is done through rings 2-4, usually below the thyroid isthmus. A mass in the neck or a tension pneumothorax pushes the trachea away from the midline.",
+        "id": "Trakeostomi dilakukan melalui cincin 2-4, biasanya di bawah isthmus glandulae thyroideae. Massa di leher atau pneumotoraks tension mendorong trachea menjauhi garis tengah."
+      }
+    },
+    "quiz": {
+      "begins": ["C6", "vertebra C6", "tepi bawah cartilago cricoidea"],
+      "bifurcation": ["T4-T5", "angulus sterni", "discus intervertebralis T4-T5"]
+    }
+  },
+  {
+    "key": "tracheal-cartilages",
+    "kind": "cartilage",
+    "model": false,
+    "la": "Cartilagines tracheales",
+    "alt": ["Cartilago trachealis", "Anuli tracheales"],
+    "en": "Tracheal cartilages",
+    "desc": {
+      "en": "Sixteen to twenty C-shaped rings of hyaline cartilage, open behind, that keep the trachea from collapsing. Neighbouring rings are joined by the ligamenta anularia, and the gap behind each ring is closed by the paries membranaceus.",
+      "id": "Enam belas sampai dua puluh cincin kartilago hialin berbentuk huruf C yang terbuka di belakang dan menjaga trachea agar tidak kolaps. Cincin yang berdekatan dihubungkan oleh ligamenta anularia, dan celah di belakang setiap cincin ditutup oleh paries membranaceus."
+    },
+    "facts": {
+      "location": {
+        "en": "In the wall of the trachea from C6 to T4-T5; the first ring is attached to the cricoid by the lig. cricotracheale.",
+        "id": "Di dinding trachea dari C6 sampai T4-T5; cincin pertama melekat pada cricoid melalui lig. cricotracheale."
+      }
+    },
+    "quiz": {"tissue": ["Cartilago hyalina", "hialin", "hyalin"]}
+  },
+  {
+    "key": "membranous-wall-of-trachea",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Paries membranaceus tracheae",
+    "alt": ["Paries membranaceus", "Musculus trachealis"],
+    "en": "Membranous wall of trachea",
+    "desc": {
+      "en": "Flat posterior wall of the trachea that closes the open ends of the C-shaped cartilages. It contains the smooth m. trachealis and lies directly in front of the oesophagus, so a swallowed bolus can bulge into it.",
+      "id": "Dinding posterior trachea yang datar dan menutup ujung terbuka cartilago berbentuk huruf C. Di dalamnya terdapat otot polos m. trachealis, dan dinding ini tepat di depan oesophagus sehingga bolus yang ditelan dapat menonjol ke dalamnya."
+    },
+    "facts": {
+      "nerve": ["Nervus vagus", "Nervus laryngeus recurrens"]
+    }
+  },
+  {
+    "key": "carina-of-trachea",
+    "kind": "landmark",
+    "model": false,
+    "la": "Carina tracheae",
+    "alt": ["Carina", "Bifurcatio tracheae"],
+    "en": "Carina of trachea",
+    "desc": {
+      "en": "Keel-shaped ridge of the last tracheal cartilage that projects up inside the bifurcation, between the openings of the two main bronchi. It lies at the level of the sternal angle (T4-T5 disc) and can drop to about T6 in deep inspiration in the upright position.",
+      "id": "Rigi berbentuk lunas kapal dari cartilago trachealis terakhir yang menonjol ke atas di dalam bifurcatio tracheae, di antara muara kedua bronchus principalis. Carina terletak setinggi angulus sterni (discus T4-T5) dan dapat turun sampai kira-kira T6 pada inspirasi dalam dalam posisi tegak."
+    },
+    "facts": {
+      "bone": "trachea",
+      "clinical": {
+        "en": "Its mucosa is very sensitive to touch and triggers coughing. On bronchoscopy, a widened or blunted carina suggests enlarged subcarinal (tracheobronchial) lymph nodes or an enlarged left atrium.",
+        "id": "Mukosanya sangat peka terhadap sentuhan dan memicu batuk. Pada bronkoskopi, carina yang melebar atau tumpul menandakan pembesaran kelenjar limfe subcarina (tracheobronchiales) atau pembesaran atrium sinistrum."
+      }
+    },
+    "quiz": {"level": ["Angulus sterni (T4-T5)", "angulus sterni", "T4-T5", "discus intervertebralis T4-T5"]}
+  },
+  {
+    "key": "right-main-bronchus",
+    "kind": "organ-part",
+    "la": "Bronchus principalis dexter",
+    "alt": ["Bronchus principalis dextra", "Bronchus primarius dexter"],
+    "en": "Right main bronchus",
+    "desc": {
+      "en": "Shorter (about 2.5 cm), wider and more vertical than the left main bronchus. It gives off the right superior lobar bronchus before entering the hilum and continues as the bronchus intermedius.",
+      "id": "Lebih pendek (kira-kira 2,5 cm), lebih lebar dan lebih vertikal dibandingkan bronchus principalis sinister. Bronchus ini memberikan bronchus lobaris superior dexter sebelum masuk ke hilum, lalu berlanjut sebagai bronchus intermedius."
+    },
+    "facts": {
+      "location": {
+        "en": "From the tracheal bifurcation to the right hilum, at about 25 degrees from the vertical.",
+        "id": "Dari bifurcatio tracheae ke hilum pulmonis dextri, membentuk sudut kira-kira 25 derajat terhadap garis vertikal."
+      },
+      "relations": {
+        "en": "The arch of the azygos vein hooks over it; the right pulmonary artery lies in front of it, below the upper lobe bronchus.",
+        "id": "Arcus v. azygos melengkung di atasnya; a. pulmonalis dextra terletak di depannya, di bawah bronchus lobus superior."
+      },
+      "blood": ["Rami bronchiales"],
+      "clinical": {
+        "en": "Inhaled foreign bodies enter the right main bronchus more often because it is wider and more in line with the trachea.",
+        "id": "Benda asing yang teraspirasi lebih sering masuk ke bronchus principalis dexter karena lebih lebar dan lebih segaris dengan trachea."
+      }
+    },
+    "quiz": {"from": ["Trachea", "Bifurcatio tracheae"]}
+  },
+  {
+    "key": "left-main-bronchus",
+    "kind": "organ-part",
+    "la": "Bronchus principalis sinister",
+    "alt": ["Bronchus principalis sinistra", "Bronchus primarius sinister"],
+    "en": "Left main bronchus",
+    "desc": {
+      "en": "Longer (about 5 cm), narrower and more horizontal than the right. It passes below the arch of the aorta and in front of the oesophagus and descending aorta to the left hilum, where it divides into the superior and inferior lobar bronchi.",
+      "id": "Lebih panjang (kira-kira 5 cm), lebih sempit dan lebih horizontal daripada yang kanan. Bronchus ini berjalan di bawah arcus aortae dan di depan oesophagus serta aorta descendens menuju hilum kiri, lalu bercabang menjadi bronchus lobaris superior dan inferior."
+    },
+    "facts": {
+      "location": {
+        "en": "From the tracheal bifurcation to the left hilum, at about 45 degrees from the vertical.",
+        "id": "Dari bifurcatio tracheae ke hilum pulmonis sinistri, membentuk sudut kira-kira 45 derajat terhadap garis vertikal."
+      },
+      "relations": {
+        "en": "The aortic arch lies above it and the left pulmonary artery arches over it; the oesophagus and thoracic aorta lie behind it.",
+        "id": "Arcus aortae terletak di atasnya dan a. pulmonalis sinistra melengkung di atasnya; oesophagus dan aorta thoracica di belakangnya."
+      },
+      "blood": ["Rami bronchiales"]
+    },
+    "quiz": {"from": ["Trachea", "Bifurcatio tracheae"]}
+  },
+  {
+    "key": "right-superior-lobar-bronchus",
+    "kind": "organ-part",
+    "la": "Bronchus lobaris superior dexter",
+    "alt": ["Bronchus lobaris superior dextra", "Bronchus eparterialis"],
+    "en": "Right superior lobar bronchus",
+    "desc": {
+      "en": "First branch of the right main bronchus, arising from its lateral wall before the hilum. It is the only lobar bronchus that lies above the pulmonary artery (eparterial bronchus) and divides into B I, B II and B III.",
+      "id": "Cabang pertama bronchus principalis dexter yang keluar dari dinding lateralnya sebelum hilum. Bronchus ini satu-satunya bronchus lobaris yang terletak di atas a. pulmonalis (bronchus eparterialis) dan bercabang menjadi B I, B II dan B III."
+    },
+    "facts": {
+      "location": {
+        "en": "Upper part of the right hilum, above and behind the right pulmonary artery.",
+        "id": "Bagian atas hilum pulmonis dextri, di atas dan di belakang a. pulmonalis dextra."
+      }
+    },
+    "quiz": {"from": ["Bronchus principalis dexter"], "lobe": ["Lobus superior pulmonis dextri", "lobus superior dexter"]}
+  },
+  {
+    "key": "intermediate-bronchus",
+    "kind": "organ-part",
+    "la": "Bronchus intermedius",
+    "alt": ["Truncus intermedius"],
+    "en": "Intermediate bronchus",
+    "desc": {
+      "en": "Short segment of the right bronchial tree between the origin of the superior lobar bronchus and the origin of the middle lobar bronchus. It lies below the pulmonary artery and continues as the right inferior lobar bronchus.",
+      "id": "Segmen pendek percabangan bronchus kanan di antara pangkal bronchus lobaris superior dan pangkal bronchus lobaris medius. Bronchus ini terletak di bawah a. pulmonalis dan berlanjut menjadi bronchus lobaris inferior dexter."
+    },
+    "facts": {
+      "location": {
+        "en": "Right lung only, in the right hilum below the eparterial bronchus.",
+        "id": "Hanya ada pada paru kanan, di hilum kanan di bawah bronchus eparterialis."
+      }
+    },
+    "quiz": {"from": ["Bronchus principalis dexter"]}
+  },
+  {
+    "key": "middle-lobar-bronchus",
+    "kind": "organ-part",
+    "la": "Bronchus lobaris medius",
+    "alt": ["Bronchus lobaris medius dexter", "Bronchus lobi medii"],
+    "en": "Middle lobar bronchus",
+    "desc": {
+      "en": "Arises from the anterior wall of the bronchus intermedius and runs forward and laterally into the middle lobe, where it divides into B IV and B V.",
+      "id": "Keluar dari dinding anterior bronchus intermedius dan berjalan ke depan lateral masuk ke lobus medius, lalu bercabang menjadi B IV dan B V."
+    },
+    "facts": {
+      "location": {
+        "en": "Right lung only.",
+        "id": "Hanya ada pada paru kanan."
+      },
+      "clinical": {
+        "en": "Its long, narrow course surrounded by lymph nodes makes it easy to compress, which can collapse the middle lobe (middle lobe syndrome).",
+        "id": "Perjalanannya yang panjang dan sempit serta dikelilingi kelenjar limfe membuatnya mudah tertekan, sehingga lobus medius dapat kolaps (sindrom lobus medius)."
+      }
+    },
+    "quiz": {"from": ["Bronchus intermedius"], "lobe": ["Lobus medius pulmonis dextri", "lobus medius"]}
+  },
+  {
+    "key": "right-inferior-lobar-bronchus",
+    "kind": "organ-part",
+    "la": "Bronchus lobaris inferior dexter",
+    "alt": ["Bronchus lobaris inferior dextra"],
+    "en": "Right inferior lobar bronchus",
+    "desc": {
+      "en": "Continuation of the bronchus intermedius into the lower lobe. Its first branch, B VI, leaves posteriorly almost opposite the middle lobar bronchus; it then gives the four basal segmental bronchi B VII to B X.",
+      "id": "Lanjutan bronchus intermedius ke dalam lobus inferior. Cabang pertamanya, B VI, keluar ke posterior hampir berhadapan dengan bronchus lobaris medius; selanjutnya memberikan empat bronchus segmentalis basalis B VII sampai B X."
+    },
+    "facts": {
+      "location": {
+        "en": "Lower part of the right hilum, running down and back into the inferior lobe.",
+        "id": "Bagian bawah hilum kanan, berjalan ke bawah belakang ke dalam lobus inferior."
+      }
+    },
+    "quiz": {"from": ["Bronchus intermedius"], "lobe": ["Lobus inferior pulmonis dextri", "lobus inferior dexter"]}
+  },
+  {
+    "key": "left-superior-lobar-bronchus",
+    "kind": "organ-part",
+    "la": "Bronchus lobaris superior sinister",
+    "alt": ["Bronchus lobaris superior sinistra"],
+    "en": "Left superior lobar bronchus",
+    "desc": {
+      "en": "Arises from the anterolateral side of the left main bronchus and splits into an upper division (B I+II and B III) and a lingular division (B IV and B V).",
+      "id": "Keluar dari sisi anterolateral bronchus principalis sinister dan bercabang menjadi divisi atas (B I+II dan B III) serta divisi lingularis (B IV dan B V)."
+    },
+    "facts": {
+      "location": {
+        "en": "Left hilum, below the left pulmonary artery.",
+        "id": "Hilum kiri, di bawah a. pulmonalis sinistra."
+      }
+    },
+    "quiz": {"from": ["Bronchus principalis sinister"], "lobe": ["Lobus superior pulmonis sinistri", "lobus superior sinister"]}
+  },
+  {
+    "key": "left-inferior-lobar-bronchus",
+    "kind": "organ-part",
+    "la": "Bronchus lobaris inferior sinister",
+    "alt": ["Bronchus lobaris inferior sinistra"],
+    "en": "Left inferior lobar bronchus",
+    "desc": {
+      "en": "Continuation of the left main bronchus into the lower lobe. It gives B VI posteriorly and then the basal bronchi, in which B VII and B VIII often share a common anteromedial trunk.",
+      "id": "Lanjutan bronchus principalis sinister ke lobus inferior. Bronchus ini memberikan B VI ke posterior, lalu bronchus basalis, dengan B VII dan B VIII sering berpangkal pada satu batang anteromedial."
+    },
+    "facts": {
+      "location": {
+        "en": "Lower part of the left hilum, running down and back into the inferior lobe.",
+        "id": "Bagian bawah hilum kiri, berjalan ke bawah belakang ke dalam lobus inferior."
+      }
+    },
+    "quiz": {"from": ["Bronchus principalis sinister"], "lobe": ["Lobus inferior pulmonis sinistri", "lobus inferior sinister"]}
+  },
+  {
+    "key": "apical-segmental-bronchus-of-right-lung-bi",
+    "kind": "organ-part",
+    "la": "Bronchus segmentalis apicalis (B I)",
+    "alt": ["Bronchus segmentalis apicalis", "Bronchus segmentalis apicalis dexter", "Bronchus segmentalis apicalis (BI)"],
+    "en": "Apical segmental bronchus of right lung (B I)",
+    "desc": {
+      "en": "Branch of the right superior lobar bronchus that runs straight up to the apical segment (S I) at the top of the lung.",
+      "id": "Cabang bronchus lobaris superior dexter yang berjalan lurus ke atas menuju segmentum apicale (S I) di puncak paru."
+    },
+    "facts": {
+      "location": {"en": "Right superior lobe, apex.", "id": "Lobus superior dexter, apex pulmonis."}
+    },
+    "quiz": {"from": ["Bronchus lobaris superior dexter"], "segment": ["Segmentum apicale (S I)", "Segmentum apicale", "S I"]}
+  },
+  {
+    "key": "posterior-segmental-bronchus-of-right-lung-bii",
+    "kind": "organ-part",
+    "la": "Bronchus segmentalis posterior (B II)",
+    "alt": ["Bronchus segmentalis posterior", "Bronchus segmentalis posterior dexter", "Bronchus segmentalis posterior (BII)"],
+    "en": "Posterior segmental bronchus of right lung (B II)",
+    "desc": {
+      "en": "Branch of the right superior lobar bronchus running backward and slightly upward to the posterior segment (S II).",
+      "id": "Cabang bronchus lobaris superior dexter yang berjalan ke belakang dan sedikit ke atas menuju segmentum posterius (S II)."
+    },
+    "facts": {
+      "location": {"en": "Right superior lobe, posterior part.", "id": "Lobus superior dexter, bagian posterior."},
+      "clinical": {
+        "en": "With B VI it is a common target of aspiration when a patient lies on the back.",
+        "id": "Bersama B VI sering menjadi tempat masuknya aspirasi bila pasien berbaring telentang."
+      }
+    },
+    "quiz": {"from": ["Bronchus lobaris superior dexter"], "segment": ["Segmentum posterius (S II)", "Segmentum posterius", "S II"]}
+  },
+  {
+    "key": "anterior-segmental-bronchus-of-right-lung-biii",
+    "kind": "organ-part",
+    "la": "Bronchus segmentalis anterior (B III)",
+    "alt": ["Bronchus segmentalis anterior", "Bronchus segmentalis anterior dexter", "Bronchus segmentalis anterior (BIII)"],
+    "en": "Anterior segmental bronchus of right lung (B III)",
+    "desc": {
+      "en": "Branch of the right superior lobar bronchus running forward and down to the anterior segment (S III).",
+      "id": "Cabang bronchus lobaris superior dexter yang berjalan ke depan bawah menuju segmentum anterius (S III)."
+    },
+    "facts": {
+      "location": {"en": "Right superior lobe, anterior part.", "id": "Lobus superior dexter, bagian anterior."}
+    },
+    "quiz": {"from": ["Bronchus lobaris superior dexter"], "segment": ["Segmentum anterius (S III)", "Segmentum anterius", "S III"]}
+  },
+  {
+    "key": "lateral-segmental-bronchus-of-right-lung-biv",
+    "kind": "organ-part",
+    "la": "Bronchus segmentalis lateralis (B IV)",
+    "alt": ["Bronchus segmentalis lateralis", "Bronchus segmentalis lateralis dexter", "Bronchus segmentalis lateralis (BIV)"],
+    "en": "Lateral segmental bronchus of right lung (B IV)",
+    "desc": {
+      "en": "Branch of the middle lobar bronchus to the lateral segment (S IV) of the middle lobe.",
+      "id": "Cabang bronchus lobaris medius menuju segmentum laterale (S IV) lobus medius."
+    },
+    "facts": {
+      "location": {"en": "Right middle lobe, lateral part.", "id": "Lobus medius, bagian lateral."}
+    },
+    "quiz": {"from": ["Bronchus lobaris medius"], "segment": ["Segmentum laterale (S IV)", "Segmentum laterale", "S IV"]}
+  },
+  {
+    "key": "medial-segmental-bronchus-of-right-lung-bv",
+    "kind": "organ-part",
+    "la": "Bronchus segmentalis medialis (B V)",
+    "alt": ["Bronchus segmentalis medialis", "Bronchus segmentalis medialis dexter", "Bronchus segmentalis medialis (BV)"],
+    "en": "Medial segmental bronchus of right lung (B V)",
+    "desc": {
+      "en": "Branch of the middle lobar bronchus to the medial segment (S V) of the middle lobe, next to the heart.",
+      "id": "Cabang bronchus lobaris medius menuju segmentum mediale (S V) lobus medius yang berbatasan dengan jantung."
+    },
+    "facts": {
+      "location": {"en": "Right middle lobe, medial part.", "id": "Lobus medius, bagian medial."}
+    },
+    "quiz": {"from": ["Bronchus lobaris medius"], "segment": ["Segmentum mediale (S V)", "Segmentum mediale", "S V"]}
+  },
+  {
+    "key": "superior-segmental-bronchus-of-right-lung-bvi",
+    "kind": "organ-part",
+    "la": "Bronchus segmentalis superior (B VI)",
+    "alt": ["Bronchus segmentalis superior", "Bronchus segmentalis superior dexter", "Bronchus segmentalis apicalis lobi inferioris", "Bronchus segmentalis superior (BVI)"],
+    "en": "Superior segmental bronchus of right lung (B VI)",
+    "desc": {
+      "en": "First branch of the right inferior lobar bronchus, running straight backward to the superior segment (S VI), the top of the lower lobe.",
+      "id": "Cabang pertama bronchus lobaris inferior dexter yang berjalan lurus ke belakang menuju segmentum superius (S VI), puncak lobus inferior."
+    },
+    "facts": {
+      "location": {"en": "Right inferior lobe, upper posterior part.", "id": "Lobus inferior dexter, bagian atas posterior."},
+      "clinical": {
+        "en": "Because it points straight back, aspirated material in a supine patient flows into it most easily.",
+        "id": "Karena arahnya lurus ke belakang, bahan aspirasi pada pasien yang berbaring telentang paling mudah masuk ke bronchus ini."
+      }
+    },
+    "quiz": {"from": ["Bronchus lobaris inferior dexter"], "segment": ["Segmentum superius (S VI)", "Segmentum superius", "S VI"]}
+  },
+  {
+    "key": "medial-basal-segmental-bronchus-of-right-lung-bvii",
+    "kind": "organ-part",
+    "la": "Bronchus segmentalis basalis medialis (B VII)",
+    "alt": ["Bronchus segmentalis basalis medialis", "Bronchus cardiacus", "Bronchus segmentalis basalis medialis dexter", "Bronchus segmentalis basalis medialis (BVII)"],
+    "en": "Medial basal segmental bronchus of right lung (B VII)",
+    "desc": {
+      "en": "Basal branch of the right inferior lobar bronchus to the medial basal (cardiac) segment (S VII), which lies against the heart and the inferior vena cava.",
+      "id": "Cabang basal bronchus lobaris inferior dexter menuju segmentum basale mediale atau cardiacum (S VII) yang menempel pada jantung dan v. cava inferior."
+    },
+    "facts": {
+      "location": {"en": "Right inferior lobe, medial part of the base.", "id": "Lobus inferior dexter, bagian medial basis pulmonis."}
+    },
+    "quiz": {"from": ["Bronchus lobaris inferior dexter"], "segment": ["Segmentum basale mediale (S VII)", "Segmentum basale mediale", "Segmentum cardiacum", "S VII"]}
+  },
+  {
+    "key": "anterior-basal-segmental-bronchus-of-right-lung-bviii",
+    "kind": "organ-part",
+    "la": "Bronchus segmentalis basalis anterior (B VIII)",
+    "alt": ["Bronchus segmentalis basalis anterior", "Bronchus segmentalis basalis anterior dexter", "Bronchus segmentalis basalis anterior (BVIII)"],
+    "en": "Anterior basal segmental bronchus of right lung (B VIII)",
+    "desc": {
+      "en": "Basal branch of the right inferior lobar bronchus running forward and down to the anterior basal segment (S VIII).",
+      "id": "Cabang basal bronchus lobaris inferior dexter yang berjalan ke depan bawah menuju segmentum basale anterius (S VIII)."
+    },
+    "facts": {
+      "location": {"en": "Right inferior lobe, anterior part of the base.", "id": "Lobus inferior dexter, bagian anterior basis pulmonis."}
+    },
+    "quiz": {"from": ["Bronchus lobaris inferior dexter"], "segment": ["Segmentum basale anterius (S VIII)", "Segmentum basale anterius", "S VIII"]}
+  },
+  {
+    "key": "lateral-basal-segmental-bronchus-of-right-lung-bix",
+    "kind": "organ-part",
+    "la": "Bronchus segmentalis basalis lateralis (B IX)",
+    "alt": ["Bronchus segmentalis basalis lateralis", "Bronchus segmentalis basalis lateralis dexter", "Bronchus segmentalis basalis lateralis (BIX)"],
+    "en": "Lateral basal segmental bronchus of right lung (B IX)",
+    "desc": {
+      "en": "Basal branch of the right inferior lobar bronchus running down and laterally to the lateral basal segment (S IX).",
+      "id": "Cabang basal bronchus lobaris inferior dexter yang berjalan ke bawah lateral menuju segmentum basale laterale (S IX)."
+    },
+    "facts": {
+      "location": {"en": "Right inferior lobe, lateral part of the base.", "id": "Lobus inferior dexter, bagian lateral basis pulmonis."}
+    },
+    "quiz": {"from": ["Bronchus lobaris inferior dexter"], "segment": ["Segmentum basale laterale (S IX)", "Segmentum basale laterale", "S IX"]}
+  },
+  {
+    "key": "posterior-basal-segmental-bronchus-of-right-lung-bx",
+    "kind": "organ-part",
+    "la": "Bronchus segmentalis basalis posterior (B X)",
+    "alt": ["Bronchus segmentalis basalis posterior", "Bronchus segmentalis basalis posterior dexter", "Bronchus segmentalis basalis posterior (BX)"],
+    "en": "Posterior basal segmental bronchus of right lung (B X)",
+    "desc": {
+      "en": "Terminal branch of the right inferior lobar bronchus, running down and back to the posterior basal segment (S X), the lowest part of the lung in the upright position.",
+      "id": "Cabang terminal bronchus lobaris inferior dexter yang berjalan ke bawah belakang menuju segmentum basale posterius (S X), bagian paru terendah dalam posisi tegak."
+    },
+    "facts": {
+      "location": {"en": "Right inferior lobe, posterior part of the base.", "id": "Lobus inferior dexter, bagian posterior basis pulmonis."},
+      "clinical": {
+        "en": "Aspiration in an upright patient most often reaches this segment.",
+        "id": "Aspirasi pada pasien dalam posisi tegak paling sering mencapai segmen ini."
+      }
+    },
+    "quiz": {"from": ["Bronchus lobaris inferior dexter"], "segment": ["Segmentum basale posterius (S X)", "Segmentum basale posterius", "S X"]}
+  },
+  {
+    "key": "apicoposterior-segmental-bronchus-of-left-lung-bi-bii",
+    "kind": "organ-part",
+    "la": "Bronchus segmentalis apicoposterior (B I+II)",
+    "alt": ["Bronchus segmentalis apicoposterior", "Bronchus segmentalis apicoposterior sinister", "Bronchus segmentalis apicoposterior (BI+BII)", "Bronchus segmentalis apicoposterior (B I+B II)"],
+    "en": "Apicoposterior segmental bronchus of left lung (B I+II)",
+    "desc": {
+      "en": "Branch of the upper division of the left superior lobar bronchus. On the left the apical and posterior bronchi usually share one trunk, which supplies the apicoposterior segment (S I+II).",
+      "id": "Cabang divisi atas bronchus lobaris superior sinister. Pada paru kiri, bronchus apicalis dan posterior biasanya berpangkal pada satu batang yang menuju segmentum apicoposterius (S I+II)."
+    },
+    "facts": {
+      "location": {"en": "Left superior lobe, apex and posterior part.", "id": "Lobus superior sinister, apex dan bagian posterior."}
+    },
+    "quiz": {"from": ["Bronchus lobaris superior sinister"], "segment": ["Segmentum apicoposterius (S I+II)", "Segmentum apicoposterius", "S I+II"]}
+  },
+  {
+    "key": "anterior-segmental-bronchus-of-left-lung-biii",
+    "kind": "organ-part",
+    "la": "Bronchus segmentalis anterior (B III)",
+    "alt": ["Bronchus segmentalis anterior", "Bronchus segmentalis anterior sinister", "Bronchus segmentalis anterior (BIII)"],
+    "en": "Anterior segmental bronchus of left lung (B III)",
+    "desc": {
+      "en": "Branch of the upper division of the left superior lobar bronchus to the anterior segment (S III).",
+      "id": "Cabang divisi atas bronchus lobaris superior sinister menuju segmentum anterius (S III)."
+    },
+    "facts": {
+      "location": {"en": "Left superior lobe, anterior part.", "id": "Lobus superior sinister, bagian anterior."}
+    },
+    "quiz": {"from": ["Bronchus lobaris superior sinister"], "segment": ["Segmentum anterius (S III)", "Segmentum anterius", "S III"]}
+  },
+  {
+    "key": "superior-lingular-segmental-bronchus-of-left-lung-biv",
+    "kind": "organ-part",
+    "la": "Bronchus lingularis superior (B IV)",
+    "alt": ["Bronchus lingularis superior", "Bronchus segmentalis lingularis superior", "Bronchus lingularis superior (BIV)"],
+    "en": "Superior lingular bronchus of left lung (B IV)",
+    "desc": {
+      "en": "Upper branch of the lingular division of the left superior lobar bronchus, supplying the superior lingular segment (S IV).",
+      "id": "Cabang atas divisi lingularis bronchus lobaris superior sinister yang menuju segmentum lingulare superius (S IV)."
+    },
+    "facts": {
+      "location": {"en": "Lingula of the left superior lobe, upper part.", "id": "Lingula lobus superior sinister, bagian atas."}
+    },
+    "quiz": {"from": ["Bronchus lobaris superior sinister"], "segment": ["Segmentum lingulare superius (S IV)", "Segmentum lingulare superius", "S IV"]}
+  },
+  {
+    "key": "inferior-lingular-segmental-bronchus-of-left-lung-bv",
+    "kind": "organ-part",
+    "la": "Bronchus lingularis inferior (B V)",
+    "alt": ["Bronchus lingularis inferior", "Bronchus segmentalis lingularis inferior", "Bronchus lingularis inferior (BV)"],
+    "en": "Inferior lingular bronchus of left lung (B V)",
+    "desc": {
+      "en": "Lower branch of the lingular division of the left superior lobar bronchus, supplying the inferior lingular segment (S V).",
+      "id": "Cabang bawah divisi lingularis bronchus lobaris superior sinister yang menuju segmentum lingulare inferius (S V)."
+    },
+    "facts": {
+      "location": {"en": "Lingula of the left superior lobe, lower part.", "id": "Lingula lobus superior sinister, bagian bawah."}
+    },
+    "quiz": {"from": ["Bronchus lobaris superior sinister"], "segment": ["Segmentum lingulare inferius (S V)", "Segmentum lingulare inferius", "S V"]}
+  },
+  {
+    "key": "superior-segmental-bronchus-of-left-lung-bvi",
+    "kind": "organ-part",
+    "la": "Bronchus segmentalis superior (B VI)",
+    "alt": ["Bronchus segmentalis superior", "Bronchus segmentalis superior sinister", "Bronchus segmentalis superior (BVI)"],
+    "en": "Superior segmental bronchus of left lung (B VI)",
+    "desc": {
+      "en": "First branch of the left inferior lobar bronchus, running backward to the superior segment (S VI) of the left lower lobe.",
+      "id": "Cabang pertama bronchus lobaris inferior sinister yang berjalan ke belakang menuju segmentum superius (S VI) lobus inferior kiri."
+    },
+    "facts": {
+      "location": {"en": "Left inferior lobe, upper posterior part.", "id": "Lobus inferior sinister, bagian atas posterior."}
+    },
+    "quiz": {"from": ["Bronchus lobaris inferior sinister"], "segment": ["Segmentum superius (S VI)", "Segmentum superius", "S VI"]}
+  },
+  {
+    "key": "medial-basal-segmental-bronchus-of-left-lung-bvii",
+    "kind": "organ-part",
+    "la": "Bronchus segmentalis basalis medialis (B VII)",
+    "alt": ["Bronchus segmentalis basalis medialis", "Bronchus cardiacus", "Bronchus segmentalis basalis medialis sinister", "Bronchus segmentalis basalis medialis (BVII)"],
+    "en": "Medial basal segmental bronchus of left lung (B VII)",
+    "desc": {
+      "en": "Basal branch of the left inferior lobar bronchus to the medial basal segment (S VII). On the left it usually arises together with B VIII from an anteromedial basal trunk.",
+      "id": "Cabang basal bronchus lobaris inferior sinister menuju segmentum basale mediale (S VII). Pada paru kiri bronchus ini biasanya berpangkal bersama B VIII dari satu batang basalis anteromedialis."
+    },
+    "facts": {
+      "location": {"en": "Left inferior lobe, medial part of the base.", "id": "Lobus inferior sinister, bagian medial basis pulmonis."}
+    },
+    "quiz": {"from": ["Bronchus lobaris inferior sinister"], "segment": ["Segmentum basale mediale (S VII)", "Segmentum basale mediale", "S VII"]}
+  },
+  {
+    "key": "anterior-basal-segmental-bronchus-of-left-lung-bviii",
+    "kind": "organ-part",
+    "la": "Bronchus segmentalis basalis anterior (B VIII)",
+    "alt": ["Bronchus segmentalis basalis anterior", "Bronchus segmentalis basalis anterior sinister", "Bronchus segmentalis basalis anterior (BVIII)"],
+    "en": "Anterior basal segmental bronchus of left lung (B VIII)",
+    "desc": {
+      "en": "Basal branch of the left inferior lobar bronchus to the anterior basal segment (S VIII).",
+      "id": "Cabang basal bronchus lobaris inferior sinister menuju segmentum basale anterius (S VIII)."
+    },
+    "facts": {
+      "location": {"en": "Left inferior lobe, anterior part of the base.", "id": "Lobus inferior sinister, bagian anterior basis pulmonis."}
+    },
+    "quiz": {"from": ["Bronchus lobaris inferior sinister"], "segment": ["Segmentum basale anterius (S VIII)", "Segmentum basale anterius", "S VIII"]}
+  },
+  {
+    "key": "anteromedial-basal-segmental-bronchus-of-left-lung",
+    "kind": "organ-part",
+    "la": "Bronchus segmentalis basalis anteromedialis (B VII+VIII)",
+    "alt": ["Bronchus segmentalis basalis anteromedialis", "Bronchus basalis anteromedialis", "Bronchus segmentalis basalis anteromedialis (BVII+BVIII)"],
+    "en": "Anteromedial basal segmental bronchus of left lung (B VII+VIII)",
+    "desc": {
+      "en": "Common trunk of the medial basal (B VII) and anterior basal (B VIII) bronchi, a frequent pattern in the left lower lobe. It explains why the left lung is often described with 8 or 9 segments instead of 10.",
+      "id": "Batang bersama bronchus segmentalis basalis medialis (B VII) dan basalis anterior (B VIII) yang sering dijumpai pada lobus inferior kiri. Pola inilah yang menyebabkan paru kiri sering digambarkan memiliki 8 atau 9 segmen, bukan 10."
+    },
+    "facts": {
+      "location": {"en": "Left inferior lobe, anteromedial part of the base.", "id": "Lobus inferior sinister, bagian anteromedial basis pulmonis."},
+      "note": {
+        "en": "This combined bronchus is described in clinical bronchoscopy texts; TA98 lists B VII and B VIII separately.",
+        "id": "Bronchus gabungan ini dikenal dalam buku bronkoskopi klinis; TA98 mencantumkan B VII dan B VIII secara terpisah."
+      }
+    },
+    "quiz": {"from": ["Bronchus lobaris inferior sinister"]}
+  },
+  {
+    "key": "lateral-basal-segmental-bronchus-of-left-lung-bix",
+    "kind": "organ-part",
+    "la": "Bronchus segmentalis basalis lateralis (B IX)",
+    "alt": ["Bronchus segmentalis basalis lateralis", "Bronchus segmentalis basalis lateralis sinister", "Bronchus segmentalis basalis lateralis (BIX)"],
+    "en": "Lateral basal segmental bronchus of left lung (B IX)",
+    "desc": {
+      "en": "Basal branch of the left inferior lobar bronchus to the lateral basal segment (S IX).",
+      "id": "Cabang basal bronchus lobaris inferior sinister menuju segmentum basale laterale (S IX)."
+    },
+    "facts": {
+      "location": {"en": "Left inferior lobe, lateral part of the base.", "id": "Lobus inferior sinister, bagian lateral basis pulmonis."}
+    },
+    "quiz": {"from": ["Bronchus lobaris inferior sinister"], "segment": ["Segmentum basale laterale (S IX)", "Segmentum basale laterale", "S IX"]}
+  },
+  {
+    "key": "posterior-basal-segmental-bronchus-of-left-lung-bx",
+    "kind": "organ-part",
+    "la": "Bronchus segmentalis basalis posterior (B X)",
+    "alt": ["Bronchus segmentalis basalis posterior", "Bronchus segmentalis basalis posterior sinister", "Bronchus segmentalis basalis posterior (BX)"],
+    "en": "Posterior basal segmental bronchus of left lung (B X)",
+    "desc": {
+      "en": "Terminal branch of the left inferior lobar bronchus to the posterior basal segment (S X).",
+      "id": "Cabang terminal bronchus lobaris inferior sinister menuju segmentum basale posterius (S X)."
+    },
+    "facts": {
+      "location": {"en": "Left inferior lobe, posterior part of the base.", "id": "Lobus inferior sinister, bagian posterior basis pulmonis."}
+    },
+    "quiz": {"from": ["Bronchus lobaris inferior sinister"], "segment": ["Segmentum basale posterius (S X)", "Segmentum basale posterius", "S X"]}
+  },
+  {
+    "key": "bronchioles",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Bronchioli",
+    "alt": ["Bronchiolus", "Bronchioli terminales", "Bronchioli respiratorii"],
+    "en": "Bronchioles",
+    "desc": {
+      "en": "Airways smaller than about 1 mm that have no cartilage in their wall. Terminal bronchioles end the conducting zone; respiratory bronchioles carry alveoli and begin the respiratory zone.",
+      "id": "Saluran napas berdiameter kurang dari kira-kira 1 mm yang dindingnya tidak mengandung kartilago. Bronchioli terminales mengakhiri zona konduksi; bronchioli respiratorii sudah memiliki alveoli dan memulai zona respirasi."
+    },
+    "facts": {
+      "features": {
+        "en": "The wall has a relatively thick layer of smooth muscle, so bronchospasm (asthma) narrows mainly these small airways.",
+        "id": "Dindingnya memiliki lapisan otot polos yang relatif tebal sehingga bronkospasme (asma) terutama menyempitkan saluran kecil ini."
+      }
+    }
+  }
+]
