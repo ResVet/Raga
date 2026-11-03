@@ -8,7 +8,8 @@
     "dev": "vite",
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview",
-    "data": "python3 pipeline/build_content.py"
+    "data": "python3 pipeline/build_content.py",
+    "test": "esbuild src/quiz/grader.ts --bundle --format=esm --platform=node --outfile=.cache/grader.mjs --log-level=error && node tests/grader.test.mjs"
   },
   "license": "MIT",
   "dependencies": {
