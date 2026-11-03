@@ -1,0 +1,1271 @@
+[
+  {
+    "key": "lumbar-plexus",
+    "kind": "plexus-part",
+    "model": false,
+    "la": "Plexus lumbalis",
+    "alt": ["Pl. lumbalis"],
+    "en": "Lumbar plexus",
+    "desc": {
+      "en": "Nerve plexus formed within m. psoas major by the anterior rami of L1-L4, usually with a contribution from T12. It supplies the lower abdominal wall, the groin, and the anterior and medial thigh.",
+      "id": "Anyaman saraf yang terbentuk di dalam m. psoas major oleh rami anteriores L1-L4, biasanya dengan tambahan dari T12. Plexus ini mempersarafi dinding perut bagian bawah, daerah inguinal, serta paha bagian anterior dan medial."
+    },
+    "facts": {
+      "roots": "L1-L4",
+      "from": "Rami anteriores nervorum spinalium L1-L4",
+      "course": {
+        "en": "Lies in the substance of m. psoas major, in front of the transverse processes of the lumbar vertebrae. Its branches emerge from the lateral border of the muscle (n. iliohypogastricus, n. ilioinguinalis, n. cutaneus femoris lateralis, n. femoralis), from its anterior surface (n. genitofemoralis) or from its medial border (n. obturatorius, truncus lumbosacralis).",
+        "id": "Terletak di dalam m. psoas major, di depan processus transversus vertebrae lumbales. Cabang-cabangnya keluar dari tepi lateral otot (n. iliohypogastricus, n. ilioinguinalis, n. cutaneus femoris lateralis, n. femoralis), dari permukaan anteriornya (n. genitofemoralis) atau dari tepi medialnya (n. obturatorius, truncus lumbosacralis)."
+      },
+      "branches": ["Nervus iliohypogastricus", "Nervus ilioinguinalis", "Nervus genitofemoralis", "Nervus cutaneus femoris lateralis", "Nervus femoralis", "Nervus obturatorius", "Truncus lumbosacralis", "Rami musculares (m. psoas major, m. quadratus lumborum)"],
+      "sensory": {
+        "en": "Skin of the lower abdominal wall, the groin and external genitalia (anterior part), the anterior, lateral and medial thigh, and through n. saphenus the medial leg and foot.",
+        "id": "Kulit dinding perut bagian bawah, daerah inguinal dan genitalia eksterna bagian anterior, paha bagian anterior, lateral dan medial, serta melalui n. saphenus kulit sisi medial tungkai bawah dan kaki."
+      },
+      "lesion": {
+        "en": "A retroperitoneal haematoma (for example during anticoagulation) or a psoas abscess can compress several branches at once, typically the femoral nerve, with weakness of knee extension and numbness of the anterior thigh.",
+        "id": "Hematoma retroperitoneal (misalnya saat terapi antikoagulan) atau abses psoas dapat menekan beberapa cabang sekaligus, terutama n. femoralis, sehingga ekstensi lutut lemah dan kulit paha depan mati rasa."
+      }
+    },
+    "quiz": {
+      "roots": ["L1-L4", "T12-L4", "L1, L2, L3, L4"],
+      "from": ["Rami anteriores nervorum spinalium L1-L4", "rami anteriores L1-L4"]
+    }
+  },
+  {
+    "key": "iliohypogastric-nerve",
+    "kind": "nerve",
+    "la": "Nervus iliohypogastricus",
+    "alt": ["N. iliohypogastricus"],
+    "en": "Iliohypogastric nerve",
+    "desc": {
+      "en": "Upper branch of the lumbar plexus (L1, often with T12). It runs between the flat abdominal muscles and supplies the skin of the upper lateral buttock and the suprapubic region.",
+      "id": "Cabang teratas plexus lumbalis (L1, sering dengan T12). Saraf ini berjalan di antara otot-otot pipih dinding perut dan mempersarafi kulit bokong bagian atas lateral serta daerah suprapubik."
+    },
+    "facts": {
+      "roots": "T12-L1",
+      "from": "Plexus lumbalis",
+      "course": {
+        "en": "Emerges from the lateral border of m. psoas major, crosses in front of m. quadratus lumborum behind the kidney, pierces m. transversus abdominis above the crista iliaca and runs forward between m. transversus abdominis and m. obliquus internus abdominis. Its ramus cutaneus lateralis crosses the crista iliaca to the buttock; its ramus cutaneus anterior pierces m. obliquus internus and the aponeurosis of m. obliquus externus a little above the anulus inguinalis superficialis.",
+        "id": "Keluar dari tepi lateral m. psoas major, menyilang di depan m. quadratus lumborum di belakang ginjal, menembus m. transversus abdominis di atas crista iliaca lalu berjalan ke depan di antara m. transversus abdominis dan m. obliquus internus abdominis. Ramus cutaneus lateralis-nya menyeberangi crista iliaca ke bokong; ramus cutaneus anterior-nya menembus m. obliquus internus dan aponeurosis m. obliquus externus sedikit di atas anulus inguinalis superficialis."
+      },
+      "branches": ["Ramus cutaneus lateralis", "Ramus cutaneus anterior"],
+      "motor": ["Musculus obliquus internus abdominis", "Musculus transversus abdominis"],
+      "sensory": {
+        "en": "Skin of the upper lateral gluteal region and of the suprapubic region.",
+        "id": "Kulit regio glutea bagian atas lateral dan kulit daerah suprapubik."
+      },
+      "lesion": {
+        "en": "Can be cut in lower abdominal incisions (appendicectomy, hernia repair), leaving numbness above the pubis and weakening the lower fibres of the abdominal muscles that protect the inguinal canal.",
+        "id": "Dapat terpotong pada insisi perut bawah (apendektomi, herniorafi), menyebabkan mati rasa di atas pubis dan melemahkan serabut bawah otot perut yang melindungi canalis inguinalis."
+      }
+    },
+    "quiz": {
+      "roots": ["L1", "T12-L1", "T12, L1"],
+      "from": ["Plexus lumbalis", "Pl. lumbalis"]
+    }
+  },
+  {
+    "key": "ilio-inguinal-nerve",
+    "kind": "nerve",
+    "la": "Nervus ilioinguinalis",
+    "alt": ["N. ilioinguinalis"],
+    "en": "Ilio-inguinal nerve",
+    "desc": {
+      "en": "Branch of the lumbar plexus (L1) that runs through the canalis inguinalis and leaves through the anulus inguinalis superficialis to supply the skin of the upper medial thigh and the anterior scrotum or labium majus.",
+      "id": "Cabang plexus lumbalis (L1) yang berjalan melalui canalis inguinalis dan keluar melalui anulus inguinalis superficialis untuk mempersarafi kulit paha atas bagian medial serta scrotum atau labium majus bagian anterior."
+    },
+    "facts": {
+      "roots": "L1",
+      "from": "Plexus lumbalis",
+      "course": {
+        "en": "Emerges from the lateral border of m. psoas major below n. iliohypogastricus, crosses m. quadratus lumborum and m. iliacus, pierces m. transversus abdominis near the front of the crista iliaca and then m. obliquus internus abdominis. It runs through the canalis inguinalis on the funiculus spermaticus (or ligamentum teres uteri) and leaves through the anulus inguinalis superficialis; it does not pass through the deep ring.",
+        "id": "Keluar dari tepi lateral m. psoas major di bawah n. iliohypogastricus, menyilang m. quadratus lumborum dan m. iliacus, menembus m. transversus abdominis dekat bagian depan crista iliaca lalu m. obliquus internus abdominis. Saraf berjalan dalam canalis inguinalis di atas funiculus spermaticus (atau ligamentum teres uteri) dan keluar melalui anulus inguinalis superficialis; saraf ini tidak melewati anulus inguinalis profundus."
+      },
+      "branches": ["Nervi scrotales anteriores", "Nervi labiales anteriores"],
+      "motor": ["Musculus obliquus internus abdominis", "Musculus transversus abdominis"],
+      "sensory": {
+        "en": "Skin of the upper medial thigh, the root of the penis and the anterior scrotum; in women the mons pubis and the anterior part of the labium majus.",
+        "id": "Kulit paha atas bagian medial, pangkal penis dan scrotum bagian anterior; pada perempuan mons pubis dan bagian anterior labium majus."
+      },
+      "lesion": {
+        "en": "Can be injured or caught in sutures or mesh during inguinal hernia repair, causing burning groin pain or numbness of the scrotum or labium (ilioinguinal neuralgia). Its sensory fibres take part in the afferent limb of the cremasteric reflex.",
+        "id": "Dapat cedera atau terjepit jahitan atau mesh pada operasi hernia inguinalis, menimbulkan nyeri terbakar di lipat paha atau mati rasa scrotum atau labium (neuralgia ilioinguinal). Serabut sensoriknya ikut membentuk jalur aferen refleks kremaster."
+      }
+    },
+    "quiz": {
+      "roots": ["L1"],
+      "from": ["Plexus lumbalis", "Pl. lumbalis"]
+    }
+  },
+  {
+    "key": "genitofemoral-nerve",
+    "kind": "nerve",
+    "la": "Nervus genitofemoralis",
+    "alt": ["N. genitofemoralis"],
+    "en": "Genitofemoral nerve",
+    "desc": {
+      "en": "Branch of the lumbar plexus (L1-L2) that emerges on the anterior surface of m. psoas major and divides into a genital branch (m. cremaster, scrotal or labial skin) and a femoral branch (skin of the femoral triangle).",
+      "id": "Cabang plexus lumbalis (L1-L2) yang muncul di permukaan anterior m. psoas major dan bercabang menjadi ramus genitalis (m. cremaster, kulit scrotum atau labium) dan ramus femoralis (kulit trigonum femorale)."
+    },
+    "facts": {
+      "roots": "L1-L2",
+      "from": "Plexus lumbalis",
+      "course": {
+        "en": "Pierces m. psoas major and descends on its anterior surface, behind the peritoneum and crossed by the ureter, and divides above the ligamentum inguinale into its genital and femoral branches.",
+        "id": "Menembus m. psoas major dan turun di permukaan anteriornya, di belakang peritoneum dan disilang ureter, lalu di atas ligamentum inguinale bercabang menjadi ramus genitalis dan ramus femoralis."
+      },
+      "branches": ["Ramus genitalis nervi genitofemoralis", "Ramus femoralis nervi genitofemoralis"],
+      "motor": ["Musculus cremaster"],
+      "sensory": {
+        "en": "Skin of the anterior scrotum or labium majus (genital branch) and the skin over the upper part of the trigonum femorale (femoral branch).",
+        "id": "Kulit scrotum atau labium majus bagian anterior (ramus genitalis) dan kulit di atas bagian atas trigonum femorale (ramus femoralis)."
+      },
+      "lesion": {
+        "en": "Its genital branch is the efferent limb of the cremasteric reflex: stroking the upper medial thigh raises the testis on the same side. Injury in hernia or pelvic surgery causes groin pain or numbness (genitofemoral neuralgia).",
+        "id": "Ramus genitalis-nya adalah jalur eferen refleks kremaster: menggores kulit paha atas bagian medial membuat testis sisi yang sama terangkat. Cedera pada operasi hernia atau pelvis menimbulkan nyeri atau mati rasa di lipat paha (neuralgia genitofemoral)."
+      }
+    },
+    "quiz": {
+      "roots": ["L1-L2", "L1, L2"],
+      "from": ["Plexus lumbalis", "Pl. lumbalis"]
+    }
+  },
+  {
+    "key": "genital-branch-of-genitofemoral-nerve",
+    "kind": "nerve",
+    "la": "Ramus genitalis nervi genitofemoralis",
+    "alt": ["R. genitalis n. genitofemoralis"],
+    "en": "Genital branch of genitofemoral nerve",
+    "desc": {
+      "en": "Enters the canalis inguinalis through the anulus inguinalis profundus, runs with the funiculus spermaticus (or ligamentum teres uteri), and supplies m. cremaster and the skin of the anterior scrotum or labium majus.",
+      "id": "Masuk ke canalis inguinalis melalui anulus inguinalis profundus, berjalan bersama funiculus spermaticus (atau ligamentum teres uteri), lalu mempersarafi m. cremaster dan kulit scrotum atau labium majus bagian anterior."
+    },
+    "facts": {
+      "roots": "L1-L2",
+      "from": "Nervus genitofemoralis",
+      "motor": ["Musculus cremaster"],
+      "sensory": {
+        "en": "Skin of the anterior scrotum or labium majus and mons pubis.",
+        "id": "Kulit scrotum atau labium majus bagian anterior dan mons pubis."
+      },
+      "lesion": {
+        "en": "Efferent limb of the cremasteric reflex.",
+        "id": "Jalur eferen refleks kremaster."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus genitofemoralis", "N. genitofemoralis"]
+    }
+  },
+  {
+    "key": "femoral-branch-of-genitofemoral-nerve",
+    "kind": "nerve",
+    "la": "Ramus femoralis nervi genitofemoralis",
+    "alt": ["R. femoralis n. genitofemoralis"],
+    "en": "Femoral branch of genitofemoral nerve",
+    "desc": {
+      "en": "Passes behind the ligamentum inguinale lateral to a. femoralis within the femoral sheath, then pierces the sheath and the fascia lata to supply the skin over the upper part of the trigonum femorale.",
+      "id": "Berjalan di belakang ligamentum inguinale di lateral a. femoralis di dalam vagina vasorum femoralium, lalu menembus selubung tersebut dan fascia lata untuk mempersarafi kulit di atas bagian atas trigonum femorale."
+    },
+    "facts": {
+      "roots": "L1-L2",
+      "from": "Nervus genitofemoralis",
+      "sensory": {
+        "en": "Skin of the upper anterior thigh over the trigonum femorale.",
+        "id": "Kulit paha atas bagian anterior di atas trigonum femorale."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus genitofemoralis", "N. genitofemoralis"]
+    }
+  },
+  {
+    "key": "lateral-femoral-cutaneous-nerve",
+    "kind": "nerve",
+    "la": "Nervus cutaneus femoris lateralis",
+    "alt": ["N. cutaneus femoris lateralis", "Nervus cutaneus lateralis femoris"],
+    "en": "Lateral femoral cutaneous nerve",
+    "desc": {
+      "en": "Sensory branch of the lumbar plexus (L2-L3) that passes under the lateral end of the ligamentum inguinale, close to the spina iliaca anterior superior, to supply the skin of the lateral thigh. Its compression causes meralgia paraesthetica.",
+      "id": "Cabang sensorik plexus lumbalis (L2-L3) yang lewat di bawah ujung lateral ligamentum inguinale, dekat spina iliaca anterior superior, untuk mempersarafi kulit paha bagian lateral. Penekanan saraf ini menimbulkan meralgia paraesthetica."
+    },
+    "facts": {
+      "roots": "L2-L3",
+      "from": "Plexus lumbalis",
+      "course": {
+        "en": "Emerges from the lateral border of m. psoas major, crosses m. iliacus obliquely toward the spina iliaca anterior superior, passes deep to (sometimes through) the lateral end of the ligamentum inguinale just medial to the spina, and divides in the thigh into anterior and posterior branches.",
+        "id": "Keluar dari tepi lateral m. psoas major, menyilang m. iliacus secara miring menuju spina iliaca anterior superior, lewat di bawah (kadang menembus) ujung lateral ligamentum inguinale tepat di medial spina tersebut, lalu di paha bercabang menjadi cabang anterior dan posterior."
+      },
+      "sensory": {
+        "en": "Skin of the anterolateral and lateral thigh down to the knee.",
+        "id": "Kulit paha bagian anterolateral dan lateral sampai lutut."
+      },
+      "lesion": {
+        "en": "Compression where it passes under the ligamentum inguinale (tight belts or clothing, obesity, pregnancy, long sitting) causes meralgia paraesthetica: burning pain, tingling and numbness on the anterolateral thigh, with no muscle weakness.",
+        "id": "Penekanan di tempat saraf lewat di bawah ligamentum inguinale (ikat pinggang atau pakaian ketat, obesitas, kehamilan, duduk lama) menimbulkan meralgia paraesthetica: nyeri terbakar, kesemutan dan mati rasa di paha anterolateral, tanpa kelemahan otot."
+      }
+    },
+    "quiz": {
+      "roots": ["L2-L3", "L2, L3"],
+      "from": ["Plexus lumbalis", "Pl. lumbalis"]
+    }
+  },
+  {
+    "key": "femoral-nerve",
+    "kind": "nerve",
+    "la": "Nervus femoralis",
+    "alt": ["N. femoralis"],
+    "en": "Femoral nerve",
+    "desc": {
+      "en": "Largest branch of the lumbar plexus and the nerve of the anterior compartment of the thigh. It enters the thigh under the ligamentum inguinale, lateral to a. femoralis and outside the femoral sheath, and supplies m. quadriceps femoris.",
+      "id": "Cabang terbesar plexus lumbalis dan saraf kompartemen anterior paha. Saraf ini masuk ke paha di bawah ligamentum inguinale, di lateral a. femoralis dan di luar vagina vasorum femoralium, lalu mempersarafi m. quadriceps femoris."
+    },
+    "facts": {
+      "roots": "L2-L4",
+      "from": "Plexus lumbalis",
+      "course": {
+        "en": "Formed in m. psoas major from the posterior divisions of L2-L4. It emerges at the lateral border of the muscle and descends in the groove between m. psoas major and m. iliacus, deep to the fascia iliaca, supplying m. iliacus. It passes under the ligamentum inguinale through the lacuna musculorum, lateral to a. femoralis and outside the femoral sheath (from lateral to medial: nerve, artery, vein, lymphatics). A few centimetres below the ligament, in the trigonum femorale, it breaks up into muscular branches, rami cutanei anteriores and n. saphenus.",
+        "id": "Terbentuk di dalam m. psoas major dari divisio posterior L2-L4. Saraf keluar di tepi lateral otot dan turun di alur antara m. psoas major dan m. iliacus, di bawah fascia iliaca, sambil mempersarafi m. iliacus. Saraf lewat di bawah ligamentum inguinale melalui lacuna musculorum, di lateral a. femoralis dan di luar vagina vasorum femoralium (dari lateral ke medial: saraf, arteri, vena, pembuluh limfe). Beberapa sentimeter di bawah ligamentum, di trigonum femorale, saraf pecah menjadi cabang muskular, rami cutanei anteriores dan n. saphenus."
+      },
+      "branches": ["Rami musculares nervi femoralis", "Rami cutanei anteriores nervi femoralis", "Nervus saphenus"],
+      "motor": ["Musculus iliacus", "Musculus pectineus", "Musculus sartorius", "Musculus rectus femoris", "Musculus vastus lateralis", "Musculus vastus intermedius", "Musculus vastus medialis", "Musculus articularis genus"],
+      "sensory": {
+        "en": "Skin of the anterior and medial thigh (rami cutanei anteriores) and of the medial leg and medial border of the foot (n. saphenus).",
+        "id": "Kulit paha bagian anterior dan medial (rami cutanei anteriores) serta kulit sisi medial tungkai bawah dan tepi medial kaki (n. saphenus)."
+      },
+      "lesion": {
+        "en": "Injured by pelvic or hip surgery, retroperitoneal haematoma, femoral catheterisation or wounds in the trigonum femorale. M. quadriceps femoris is paralysed: the knee cannot be extended against resistance and buckles when walking, especially downstairs; the patellar reflex (L3-L4) is lost, hip flexion is weak, and sensation is lost on the anterior thigh and medial leg.",
+        "id": "Dapat cedera pada operasi pelvis atau panggul, hematoma retroperitoneal, kateterisasi femoral atau luka di trigonum femorale. M. quadriceps femoris lumpuh: lutut tidak dapat diekstensikan melawan tahanan dan tertekuk saat berjalan, terutama saat menuruni tangga; refleks patella (L3-L4) hilang, fleksi panggul lemah, dan sensasi hilang di paha depan serta sisi medial tungkai bawah."
+      },
+      "note": {
+        "en": "The module gives its origin as L1-4; standard references (Moore, Gray's) give L2-L4.",
+        "id": "Modul menyebut asalnya L1-4; rujukan standar (Moore, Gray's) menyebut L2-L4."
+      }
+    },
+    "quiz": {
+      "roots": ["L2-L4", "L2, L3, L4"],
+      "from": ["Plexus lumbalis", "Pl. lumbalis"]
+    }
+  },
+  {
+    "key": "anterior-cutaneous-branches-of-femoral-nerve",
+    "kind": "nerve",
+    "la": "Rami cutanei anteriores nervi femoralis",
+    "alt": ["Rr. cutanei anteriores n. femoralis", "Nervus cutaneus femoris intermedius", "Nervus cutaneus femoris medialis"],
+    "en": "Anterior cutaneous branches of femoral nerve",
+    "desc": {
+      "en": "Several cutaneous branches of n. femoralis that pierce the fascia lata along the course of m. sartorius and supply the skin of the front and medial side of the thigh down to the knee; their lower twigs join the plexus patellae.",
+      "id": "Beberapa cabang kutaneus n. femoralis yang menembus fascia lata di sepanjang jalannya m. sartorius dan mempersarafi kulit paha bagian depan dan medial sampai lutut; cabang bawahnya ikut membentuk plexus patellae."
+    },
+    "facts": {
+      "from": "Nervus femoralis",
+      "sensory": {
+        "en": "Skin of the anterior and medial thigh.",
+        "id": "Kulit paha bagian anterior dan medial."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus femoralis", "N. femoralis"]
+    }
+  },
+  {
+    "key": "saphenous-nerve",
+    "kind": "nerve",
+    "la": "Nervus saphenus",
+    "alt": ["N. saphenus"],
+    "en": "Saphenous nerve",
+    "desc": {
+      "en": "Longest cutaneous branch of n. femoralis. It runs through the canalis adductorius, then accompanies v. saphena magna down the medial leg to the medial border of the foot.",
+      "id": "Cabang kutaneus terpanjang n. femoralis. Saraf ini berjalan melalui canalis adductorius, lalu menyertai v. saphena magna di sisi medial tungkai bawah sampai tepi medial kaki."
+    },
+    "facts": {
+      "roots": "L3-L4",
+      "from": "Nervus femoralis",
+      "course": {
+        "en": "Descends in the trigonum femorale lateral to a. femoralis and enters the canalis adductorius, where it crosses in front of the artery from lateral to medial. It does not pass through the hiatus adductorius; it leaves the canal through its fibrous roof and appears on the medial side of the knee between m. sartorius and m. gracilis, giving the ramus infrapatellaris. It then pierces the fascia, descends with v. saphena magna along the medial leg, passes in front of the malleolus medialis and ends on the medial side of the foot.",
+        "id": "Turun di trigonum femorale di lateral a. femoralis lalu masuk canalis adductorius, tempat saraf menyilang di depan arteri dari lateral ke medial. Saraf ini tidak melewati hiatus adductorius; saraf keluar melalui atap kanal yang fibrosa dan muncul di sisi medial lutut di antara m. sartorius dan m. gracilis, sambil memberikan ramus infrapatellaris. Selanjutnya saraf menembus fascia, turun bersama v. saphena magna di sisi medial tungkai bawah, lewat di depan malleolus medialis dan berakhir di sisi medial kaki."
+      },
+      "branches": ["Ramus infrapatellaris nervi sapheni", "Rami cutanei cruris mediales nervi sapheni"],
+      "sensory": {
+        "en": "Skin of the anteromedial knee, the medial side of the leg and the medial border of the foot to the base of the great toe.",
+        "id": "Kulit lutut bagian anteromedial, sisi medial tungkai bawah dan tepi medial kaki sampai pangkal ibu jari kaki."
+      },
+      "lesion": {
+        "en": "Can be injured when v. saphena magna is harvested for bypass grafts or stripped for varicose veins, or during a venous cut-down in front of the malleolus medialis. The result is numbness or painful paraesthesia along the medial leg and foot, without weakness.",
+        "id": "Dapat cedera saat v. saphena magna diambil untuk graft bypass atau dicabut pada terapi varises, atau saat venaseksi di depan malleolus medialis. Akibatnya timbul mati rasa atau parestesia nyeri di sepanjang sisi medial tungkai bawah dan kaki, tanpa kelemahan otot."
+      }
+    },
+    "quiz": {
+      "roots": ["L3-L4", "L3, L4"],
+      "from": ["Nervus femoralis", "N. femoralis"]
+    }
+  },
+  {
+    "key": "infrapatellar-branch-of-saphenous-nerve",
+    "kind": "nerve",
+    "la": "Ramus infrapatellaris nervi sapheni",
+    "alt": ["R. infrapatellaris n. sapheni"],
+    "en": "Infrapatellar branch of saphenous nerve",
+    "desc": {
+      "en": "Branch of n. saphenus that pierces m. sartorius and the fascia lata on the medial side of the knee and curves forward below the patella to supply the skin in front of the knee; it joins the plexus patellae.",
+      "id": "Cabang n. saphenus yang menembus m. sartorius dan fascia lata di sisi medial lutut lalu melengkung ke depan di bawah patella untuk mempersarafi kulit di depan lutut; cabang ini ikut membentuk plexus patellae."
+    },
+    "facts": {
+      "from": "Nervus saphenus",
+      "sensory": {
+        "en": "Skin over the front of the knee and the ligamentum patellae.",
+        "id": "Kulit di depan lutut dan di atas ligamentum patellae."
+      },
+      "lesion": {
+        "en": "Easily cut in medial knee incisions and arthroscopy portals, leaving a numb patch on the front of the knee below the patella.",
+        "id": "Mudah terpotong pada insisi lutut sisi medial dan portal artroskopi, meninggalkan daerah mati rasa di depan lutut di bawah patella."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus saphenus", "N. saphenus"]
+    }
+  },
+  {
+    "key": "medial-crural-cutaneous-branches-of-saphenous-nerve",
+    "kind": "nerve",
+    "la": "Rami cutanei cruris mediales nervi sapheni",
+    "alt": ["Rr. cutanei cruris mediales n. sapheni"],
+    "en": "Medial crural cutaneous branches of saphenous nerve",
+    "desc": {
+      "en": "Branches of n. saphenus that spread over the medial and anteromedial surface of the leg, next to v. saphena magna, and supply its skin.",
+      "id": "Cabang-cabang n. saphenus yang menyebar di permukaan medial dan anteromedial tungkai bawah, di samping v. saphena magna, dan mempersarafi kulitnya."
+    },
+    "facts": {
+      "from": "Nervus saphenus",
+      "sensory": {
+        "en": "Skin of the medial side of the leg.",
+        "id": "Kulit sisi medial tungkai bawah."
+      },
+      "lesion": {
+        "en": "Their close relation to v. saphena magna explains numbness of the medial leg after vein stripping.",
+        "id": "Letaknya yang dekat dengan v. saphena magna menjelaskan mati rasa di sisi medial tungkai bawah setelah tindakan pencabutan vena."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus saphenus", "N. saphenus"]
+    }
+  },
+  {
+    "key": "obturator-nerve",
+    "kind": "nerve",
+    "la": "Nervus obturatorius",
+    "alt": ["N. obturatorius"],
+    "en": "Obturator nerve",
+    "desc": {
+      "en": "Nerve of the medial (adductor) compartment of the thigh. It is the only large branch of the lumbar plexus that emerges from the medial border of m. psoas major, and it reaches the thigh through the canalis obturatorius.",
+      "id": "Saraf kompartemen medial (adduktor) paha. Saraf ini satu-satunya cabang besar plexus lumbalis yang keluar dari tepi medial m. psoas major, dan mencapai paha melalui canalis obturatorius."
+    },
+    "facts": {
+      "roots": "L2-L4",
+      "from": "Plexus lumbalis",
+      "course": {
+        "en": "Formed in m. psoas major from the anterior divisions of L2-L4, it emerges at the medial border of the muscle at the pelvic brim, passes behind the common iliac vessels and lateral to the internal iliac vessels, and runs along the lateral wall of the pelvis on m. obturatorius internus to the canalis obturatorius, which it traverses with a. and v. obturatoria. In the canal it divides into a ramus anterior and a ramus posterior, which are separated by m. adductor brevis.",
+        "id": "Terbentuk di dalam m. psoas major dari divisio anterior L2-L4, keluar di tepi medial otot setinggi pintu atas panggul, lewat di belakang vasa iliaca communis dan di lateral vasa iliaca interna, lalu berjalan di dinding lateral pelvis di atas m. obturatorius internus menuju canalis obturatorius yang dilaluinya bersama a. dan v. obturatoria. Di dalam kanal saraf terbagi menjadi ramus anterior dan ramus posterior yang dipisahkan oleh m. adductor brevis."
+      },
+      "branches": ["Ramus anterior nervi obturatorii", "Ramus posterior nervi obturatorii", "Ramus cutaneus nervi obturatorii"],
+      "motor": ["Musculus obturatorius externus", "Musculus adductor longus", "Musculus adductor brevis", "Musculus adductor magnus (pars adductoria)", "Musculus gracilis"],
+      "sensory": {
+        "en": "Skin on the middle of the medial thigh; articular branches to the hip and knee joints.",
+        "id": "Kulit bagian tengah sisi medial paha; cabang artikular ke articulatio coxae dan articulatio genus."
+      },
+      "lesion": {
+        "en": "Injured in pelvic surgery and pelvic fractures, or compressed by an obturator hernia or by the fetal head in labour. Adduction of the thigh is weak, the limb swings outward when walking and the medial thigh is numb. Because the nerve supplies both the hip and the knee joint, hip disease can be felt as pain in the knee.",
+        "id": "Dapat cedera pada operasi dan fraktur pelvis, atau tertekan oleh hernia obturatoria atau kepala janin saat persalinan. Adduksi paha lemah, tungkai berayun ke lateral saat berjalan dan kulit paha medial mati rasa. Karena saraf ini mempersarafi sendi panggul dan sendi lutut, kelainan sendi panggul dapat dirasakan sebagai nyeri lutut."
+      }
+    },
+    "quiz": {
+      "roots": ["L2-L4", "L2, L3, L4"],
+      "from": ["Plexus lumbalis", "Pl. lumbalis"]
+    }
+  },
+  {
+    "key": "anterior-branch-of-obturator-nerve",
+    "kind": "nerve",
+    "la": "Ramus anterior nervi obturatorii",
+    "alt": ["R. anterior n. obturatorii"],
+    "en": "Anterior branch of obturator nerve",
+    "desc": {
+      "en": "Descends in front of m. obturatorius externus and m. adductor brevis, behind m. pectineus and m. adductor longus. It supplies m. adductor longus, m. adductor brevis and m. gracilis (sometimes m. pectineus), gives an articular branch to the hip and ends as a cutaneous branch to the medial thigh.",
+      "id": "Turun di depan m. obturatorius externus dan m. adductor brevis, di belakang m. pectineus dan m. adductor longus. Cabang ini mempersarafi m. adductor longus, m. adductor brevis dan m. gracilis (kadang m. pectineus), memberi cabang artikular ke sendi panggul dan berakhir sebagai cabang kutaneus ke paha medial."
+    },
+    "facts": {
+      "from": "Nervus obturatorius",
+      "motor": ["Musculus adductor longus", "Musculus adductor brevis", "Musculus gracilis"],
+      "sensory": {
+        "en": "Skin of the middle part of the medial thigh.",
+        "id": "Kulit bagian tengah sisi medial paha."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus obturatorius", "N. obturatorius"]
+    }
+  },
+  {
+    "key": "posterior-branch-of-obturator-nerve",
+    "kind": "nerve",
+    "la": "Ramus posterior nervi obturatorii",
+    "alt": ["R. posterior n. obturatorii"],
+    "en": "Posterior branch of obturator nerve",
+    "desc": {
+      "en": "Pierces and supplies m. obturatorius externus, then descends behind m. adductor brevis and in front of m. adductor magnus, supplying the adductor part of m. adductor magnus. A slender articular branch follows a. poplitea through the hiatus adductorius to the knee joint.",
+      "id": "Menembus dan mempersarafi m. obturatorius externus, lalu turun di belakang m. adductor brevis dan di depan m. adductor magnus sambil mempersarafi pars adductoria m. adductor magnus. Satu cabang artikular yang halus mengikuti a. poplitea melalui hiatus adductorius menuju sendi lutut."
+    },
+    "facts": {
+      "from": "Nervus obturatorius",
+      "motor": ["Musculus obturatorius externus", "Musculus adductor magnus (pars adductoria)"]
+    },
+    "quiz": {
+      "from": ["Nervus obturatorius", "N. obturatorius"]
+    }
+  },
+  {
+    "key": "lumbosacral-trunk",
+    "kind": "plexus-part",
+    "model": false,
+    "la": "Truncus lumbosacralis",
+    "alt": ["Tr. lumbosacralis"],
+    "en": "Lumbosacral trunk",
+    "desc": {
+      "en": "Thick nerve trunk formed by part of the L4 anterior ramus and the whole L5 anterior ramus. It descends into the pelvis to join the sacral plexus on the anterior surface of m. piriformis.",
+      "id": "Batang saraf tebal yang dibentuk oleh sebagian ramus anterior L4 dan seluruh ramus anterior L5. Truncus ini turun ke pelvis untuk bergabung dengan plexus sacralis di permukaan anterior m. piriformis."
+    },
+    "facts": {
+      "roots": "L4-L5",
+      "from": "Rami anteriores L4 et L5",
+      "course": {
+        "en": "Appears at the medial border of m. psoas major and descends over the ala of the sacrum, in front of the articulatio sacroiliaca, to join the S1 anterior ramus.",
+        "id": "Muncul di tepi medial m. psoas major lalu turun di atas ala ossis sacri, di depan articulatio sacroiliaca, untuk bergabung dengan ramus anterior S1."
+      },
+      "lesion": {
+        "en": "Can be compressed against the pelvic brim by the fetal head during a difficult labour or by pelvic tumours, causing foot drop because the L4-L5 fibres for n. fibularis communis pass through it.",
+        "id": "Dapat tertekan pada pintu atas panggul oleh kepala janin saat persalinan sulit atau oleh tumor pelvis, menimbulkan foot drop karena serabut L4-L5 untuk n. fibularis communis lewat di dalamnya."
+      },
+      "note": {
+        "en": "The module describes the sacral nerves joining the lumbosacral trunk (L4, 5) in front of m. piriformis.",
+        "id": "Modul menyebut nervi sacrales bergabung dengan truncus lumbosacralis (L4, 5) di depan m. piriformis."
+      }
+    },
+    "quiz": {
+      "roots": ["L4-L5", "L4, L5"],
+      "from": ["Rami anteriores L4 et L5", "ramus anterior L4 dan L5"]
+    }
+  },
+  {
+    "key": "sacral-plexus",
+    "kind": "plexus-part",
+    "model": false,
+    "la": "Plexus sacralis",
+    "alt": ["Pl. sacralis"],
+    "en": "Sacral plexus",
+    "desc": {
+      "en": "Nerve plexus on the posterior wall of the pelvis, in front of m. piriformis, formed by the truncus lumbosacralis (L4-L5) and the anterior rami of S1-S4. It supplies the gluteal region, the back of the thigh, the leg and foot (except the area of n. saphenus) and the perineum.",
+      "id": "Anyaman saraf di dinding posterior pelvis, di depan m. piriformis, yang dibentuk oleh truncus lumbosacralis (L4-L5) dan rami anteriores S1-S4. Plexus ini mempersarafi regio glutea, paha bagian belakang, tungkai bawah dan kaki (kecuali daerah n. saphenus) serta perineum."
+    },
+    "facts": {
+      "roots": "L4-S4",
+      "from": "Truncus lumbosacralis et rami anteriores nervorum spinalium S1-S4",
+      "course": {
+        "en": "The anterior rami leave the foramina sacralia anteriora and converge with the truncus lumbosacralis on the anterior surface of m. piriformis, behind the internal iliac vessels and the ureter. Most branches leave the pelvis through the foramen ischiadicum majus, above m. piriformis (n. gluteus superior) or below it (the others).",
+        "id": "Rami anteriores keluar dari foramina sacralia anteriora dan menyatu dengan truncus lumbosacralis di permukaan anterior m. piriformis, di belakang vasa iliaca interna dan ureter. Sebagian besar cabangnya keluar dari pelvis melalui foramen ischiadicum majus, di atas m. piriformis (n. gluteus superior) atau di bawahnya (cabang lain)."
+      },
+      "branches": ["Nervus gluteus superior", "Nervus gluteus inferior", "Nervus musculi piriformis", "Nervus musculi obturatorii interni", "Nervus musculi quadrati femoris", "Nervus cutaneus femoris posterior", "Nervus cutaneus perforans", "Nervus ischiadicus", "Nervus pudendus", "Nervi splanchnici pelvici"],
+      "sensory": {
+        "en": "Skin of the buttock, perineum, back of the thigh, and the leg and foot except their medial side.",
+        "id": "Kulit bokong, perineum, paha bagian belakang, serta tungkai bawah dan kaki kecuali sisi medialnya."
+      },
+      "lesion": {
+        "en": "Pelvic tumours, fractures or haematomas can compress the plexus, producing pain and weakness in the buttock, back of the thigh, leg and foot.",
+        "id": "Tumor, fraktur atau hematoma pelvis dapat menekan plexus ini dan menimbulkan nyeri serta kelemahan di bokong, paha belakang, tungkai bawah dan kaki."
+      }
+    },
+    "quiz": {
+      "roots": ["L4-S4", "L4, L5, S1, S2, S3, S4"],
+      "from": ["Truncus lumbosacralis et rami anteriores S1-S4", "truncus lumbosacralis dan rami anteriores S1-S4"]
+    }
+  },
+  {
+    "key": "superior-gluteal-nerve",
+    "kind": "nerve",
+    "la": "Nervus gluteus superior",
+    "alt": ["N. gluteus superior", "Nervus glutaeus superior", "N. glutaeus superior"],
+    "en": "Superior gluteal nerve",
+    "desc": {
+      "en": "Branch of the sacral plexus that leaves the pelvis above m. piriformis and runs between m. gluteus medius and m. gluteus minimus, supplying both and m. tensor fasciae latae. Its injury gives a positive Trendelenburg sign.",
+      "id": "Cabang plexus sacralis yang keluar dari pelvis di atas m. piriformis dan berjalan di antara m. gluteus medius dan m. gluteus minimus, mempersarafi keduanya serta m. tensor fasciae latae. Cedera saraf ini menimbulkan tanda Trendelenburg positif."
+    },
+    "facts": {
+      "roots": "L4-S1",
+      "from": "Plexus sacralis",
+      "course": {
+        "en": "Leaves the pelvis through the foramen ischiadicum majus above m. piriformis (foramen suprapiriforme) with a. and v. glutea superior, runs forward between m. gluteus medius and m. gluteus minimus, and ends in m. tensor fasciae latae.",
+        "id": "Keluar dari pelvis melalui foramen ischiadicum majus di atas m. piriformis (foramen suprapiriforme) bersama a. dan v. glutea superior, berjalan ke depan di antara m. gluteus medius dan m. gluteus minimus, lalu berakhir di m. tensor fasciae latae."
+      },
+      "motor": ["Musculus gluteus medius", "Musculus gluteus minimus", "Musculus tensor fasciae latae"],
+      "sensory": {
+        "en": "No skin area (motor nerve).",
+        "id": "Tidak mempersarafi kulit (saraf motorik)."
+      },
+      "lesion": {
+        "en": "Injured by a badly placed intramuscular injection, hip surgery or pelvic fracture. The hip abductors are paralysed, so when the patient stands on the affected limb the pelvis drops on the opposite, unsupported side (positive Trendelenburg sign). Walking shows a gluteal (waddling) gait, with the trunk leaning toward the affected side at each step.",
+        "id": "Dapat cedera akibat suntikan intramuskular yang salah tempat, operasi panggul atau fraktur pelvis. Otot abduktor panggul lumpuh, sehingga saat pasien berdiri dengan tungkai yang sakit, pelvis sisi berlawanan (yang tidak ditopang) turun (tanda Trendelenburg positif). Cara berjalan menjadi gluteal gait (waddling), dengan badan condong ke sisi yang sakit setiap melangkah."
+      }
+    },
+    "quiz": {
+      "roots": ["L4-S1", "L4, L5, S1"],
+      "from": ["Plexus sacralis", "Pl. sacralis"]
+    }
+  },
+  {
+    "key": "inferior-gluteal-nerve",
+    "kind": "nerve",
+    "model": false,
+    "la": "Nervus gluteus inferior",
+    "alt": ["N. gluteus inferior", "Nervus glutaeus inferior", "N. glutaeus inferior"],
+    "en": "Inferior gluteal nerve",
+    "desc": {
+      "en": "Branch of the sacral plexus that leaves the pelvis below m. piriformis and supplies m. gluteus maximus.",
+      "id": "Cabang plexus sacralis yang keluar dari pelvis di bawah m. piriformis dan mempersarafi m. gluteus maximus."
+    },
+    "facts": {
+      "roots": "L5-S2",
+      "from": "Plexus sacralis",
+      "course": {
+        "en": "Leaves the pelvis through the foramen ischiadicum majus below m. piriformis (foramen infrapiriforme) with the inferior gluteal vessels, superficial to n. ischiadicus, and divides into branches that enter the deep surface of m. gluteus maximus.",
+        "id": "Keluar dari pelvis melalui foramen ischiadicum majus di bawah m. piriformis (foramen infrapiriforme) bersama vasa glutea inferior, di superfisial n. ischiadicus, lalu bercabang masuk ke permukaan dalam m. gluteus maximus."
+      },
+      "motor": ["Musculus gluteus maximus"],
+      "lesion": {
+        "en": "Paralysis of m. gluteus maximus makes rising from a chair, climbing stairs and running difficult because extension of the hip is weak; the patient may throw the trunk backward when the affected limb takes weight.",
+        "id": "Kelumpuhan m. gluteus maximus membuat pasien sulit bangkit dari kursi, menaiki tangga dan berlari karena ekstensi panggul lemah; pasien dapat menarik badan ke belakang saat tungkai yang sakit menumpu berat."
+      }
+    },
+    "quiz": {
+      "roots": ["L5-S2", "L5, S1, S2"],
+      "from": ["Plexus sacralis", "Pl. sacralis"]
+    }
+  },
+  {
+    "key": "nerve-to-piriformis-muscle",
+    "kind": "nerve",
+    "la": "Nervus musculi piriformis",
+    "alt": ["N. musculi piriformis", "Nervus ad musculum piriformem"],
+    "en": "Nerve to piriformis",
+    "desc": {
+      "en": "Short branch of the sacral plexus (S1-S2) that enters the anterior (pelvic) surface of m. piriformis.",
+      "id": "Cabang pendek plexus sacralis (S1-S2) yang masuk ke permukaan anterior (pelvina) m. piriformis."
+    },
+    "facts": {
+      "roots": "S1-S2",
+      "from": "Plexus sacralis",
+      "motor": ["Musculus piriformis"]
+    },
+    "quiz": {
+      "roots": ["S1-S2", "S2", "S1, S2"],
+      "from": ["Plexus sacralis", "Pl. sacralis"]
+    }
+  },
+  {
+    "key": "nerve-to-quadratus-femoris-muscle",
+    "kind": "nerve",
+    "la": "Nervus musculi quadrati femoris",
+    "alt": ["N. musculi quadrati femoris", "Nervus ad musculum quadratum femoris"],
+    "en": "Nerve to quadratus femoris",
+    "desc": {
+      "en": "Branch of the sacral plexus that leaves the pelvis below m. piriformis, deep to n. ischiadicus, and supplies m. quadratus femoris and m. gemellus inferior.",
+      "id": "Cabang plexus sacralis yang keluar dari pelvis di bawah m. piriformis, di sebelah dalam n. ischiadicus, dan mempersarafi m. quadratus femoris serta m. gemellus inferior."
+    },
+    "facts": {
+      "roots": "L4-S1",
+      "from": "Plexus sacralis",
+      "course": {
+        "en": "Leaves the pelvis through the foramen ischiadicum majus below m. piriformis and descends on the back of the hip joint, deep to n. ischiadicus, the gemelli and the tendon of m. obturatorius internus; it gives an articular branch to the hip joint.",
+        "id": "Keluar dari pelvis melalui foramen ischiadicum majus di bawah m. piriformis lalu turun di belakang sendi panggul, di sebelah dalam n. ischiadicus, mm. gemelli dan tendo m. obturatorius internus; saraf ini memberi cabang artikular ke sendi panggul."
+      },
+      "motor": ["Musculus quadratus femoris", "Musculus gemellus inferior"]
+    },
+    "quiz": {
+      "roots": ["L4-S1", "L4, L5, S1"],
+      "from": ["Plexus sacralis", "Pl. sacralis"]
+    }
+  },
+  {
+    "key": "nerve-to-obturator-internus",
+    "kind": "nerve",
+    "model": false,
+    "la": "Nervus musculi obturatorii interni",
+    "alt": ["N. musculi obturatorii interni", "Nervus ad musculum obturatorium internum"],
+    "en": "Nerve to obturator internus",
+    "desc": {
+      "en": "Branch of the sacral plexus that leaves the pelvis below m. piriformis, supplies m. gemellus superior, crosses the spina ischiadica and re-enters through the foramen ischiadicum minus to supply m. obturatorius internus.",
+      "id": "Cabang plexus sacralis yang keluar dari pelvis di bawah m. piriformis, mempersarafi m. gemellus superior, menyilang spina ischiadica lalu masuk kembali melalui foramen ischiadicum minus untuk mempersarafi m. obturatorius internus."
+    },
+    "facts": {
+      "roots": "L5-S2",
+      "from": "Plexus sacralis",
+      "motor": ["Musculus obturatorius internus", "Musculus gemellus superior"]
+    },
+    "quiz": {
+      "roots": ["L5-S2", "L5, S1, S2"],
+      "from": ["Plexus sacralis", "Pl. sacralis"]
+    }
+  },
+  {
+    "key": "posterior-femoral-cutaneous-nerve",
+    "kind": "nerve",
+    "la": "Nervus cutaneus femoris posterior",
+    "alt": ["N. cutaneus femoris posterior", "Nervus cutaneus posterior femoris", "N. cutaneus posterior paha"],
+    "en": "Posterior femoral cutaneous nerve",
+    "desc": {
+      "en": "Sensory branch of the sacral plexus (S1-S3) that leaves the pelvis below m. piriformis and runs down the back of the thigh deep to the fascia lata. It supplies the skin of the lower buttock, the perineum and the back of the thigh to the popliteal fossa.",
+      "id": "Cabang sensorik plexus sacralis (S1-S3) yang keluar dari pelvis di bawah m. piriformis dan turun di bagian belakang paha di bawah fascia lata. Saraf ini mempersarafi kulit bokong bagian bawah, perineum dan paha bagian belakang sampai fossa poplitea."
+    },
+    "facts": {
+      "roots": "S1-S3",
+      "from": "Plexus sacralis",
+      "course": {
+        "en": "Leaves the pelvis through the foramen ischiadicum majus below m. piriformis, descends deep to m. gluteus maximus beside n. ischiadicus, then runs down the back of the thigh under the fascia lata, superficial to the long head of m. biceps femoris, to the fossa poplitea, where its last twigs pierce the fascia.",
+        "id": "Keluar dari pelvis melalui foramen ischiadicum majus di bawah m. piriformis, turun di bawah m. gluteus maximus di samping n. ischiadicus, lalu berjalan di bagian belakang paha di bawah fascia lata, di superfisial caput longum m. biceps femoris, sampai fossa poplitea tempat cabang terakhirnya menembus fascia."
+      },
+      "branches": ["Nervi clunium inferiores", "Rami perineales nervi cutanei femoris posterioris"],
+      "sensory": {
+        "en": "Skin of the lower buttock (nn. clunium inferiores), the perineum and the back of the scrotum or labium majus (rami perineales), and the posterior thigh down to the fossa poplitea and upper calf.",
+        "id": "Kulit bokong bagian bawah (nn. clunium inferiores), perineum dan bagian belakang scrotum atau labium majus (rami perineales), serta paha bagian belakang sampai fossa poplitea dan betis atas."
+      },
+      "lesion": {
+        "en": "Purely sensory; injury (gluteal injections, prolonged pressure while sitting) causes numbness or pain over the back of the thigh.",
+        "id": "Murni sensorik; cedera (suntikan gluteal, tekanan lama saat duduk) menimbulkan mati rasa atau nyeri di paha bagian belakang."
+      }
+    },
+    "quiz": {
+      "roots": ["S1-S3", "S1, S2, S3"],
+      "from": ["Plexus sacralis", "Pl. sacralis"]
+    }
+  },
+  {
+    "key": "anterior-root-of-posterior-femoral-cutaneous-nerve",
+    "kind": "nerve",
+    "la": "Radix anterior nervi cutanei femoris posterioris",
+    "alt": ["Radix anterior n. cutanei femoris posterioris", "Radix anterior nervi cutanei femoris"],
+    "en": "Anterior root of posterior femoral cutaneous nerve",
+    "desc": {
+      "en": "The part of n. cutaneus femoris posterior that comes from the anterior divisions of the anterior rami of S2 and S3. It joins the posterior root to form the nerve.",
+      "id": "Bagian n. cutaneus femoris posterior yang berasal dari divisio anterior rami anteriores S2 dan S3. Radix ini bergabung dengan radix posterior membentuk saraf tersebut."
+    },
+    "facts": {
+      "roots": "S2-S3",
+      "from": "Plexus sacralis (divisiones anteriores)"
+    },
+    "quiz": {
+      "roots": ["S2-S3", "S2, S3"],
+      "from": ["Plexus sacralis", "Pl. sacralis"]
+    }
+  },
+  {
+    "key": "posterior-root-of-posterior-femoral-cutaneous-nerve",
+    "kind": "nerve",
+    "la": "Radix posterior nervi cutanei femoris posterioris",
+    "alt": ["Radix posterior n. cutanei femoris posterioris"],
+    "en": "Posterior root of posterior femoral cutaneous nerve",
+    "desc": {
+      "en": "The part of n. cutaneus femoris posterior that comes from the posterior divisions of the anterior rami of S1 and S2. It joins the anterior root to form the nerve.",
+      "id": "Bagian n. cutaneus femoris posterior yang berasal dari divisio posterior rami anteriores S1 dan S2. Radix ini bergabung dengan radix anterior membentuk saraf tersebut."
+    },
+    "facts": {
+      "roots": "S1-S2",
+      "from": "Plexus sacralis (divisiones posteriores)"
+    },
+    "quiz": {
+      "roots": ["S1-S2", "S1, S2"],
+      "from": ["Plexus sacralis", "Pl. sacralis"]
+    }
+  },
+  {
+    "key": "perforating-cutaneous-nerve",
+    "kind": "nerve",
+    "model": false,
+    "la": "Nervus cutaneus perforans",
+    "alt": ["N. cutaneus perforans", "N. cutaneus perforantes"],
+    "en": "Perforating cutaneous nerve",
+    "desc": {
+      "en": "Small cutaneous branch of the sacral plexus (S2-S3) that pierces the ligamentum sacrotuberale and supplies the skin over the lower medial buttock.",
+      "id": "Cabang kutaneus kecil plexus sacralis (S2-S3) yang menembus ligamentum sacrotuberale dan mempersarafi kulit bokong bagian bawah medial."
+    },
+    "facts": {
+      "roots": "S2-S3",
+      "from": "Plexus sacralis",
+      "course": {
+        "en": "Arises from the posterior divisions of S2-S3, pierces the lower part of the ligamentum sacrotuberale and winds around the lower border of m. gluteus maximus to reach the skin.",
+        "id": "Berasal dari divisio posterior S2-S3, menembus bagian bawah ligamentum sacrotuberale lalu melingkari tepi bawah m. gluteus maximus untuk mencapai kulit."
+      },
+      "sensory": {
+        "en": "Skin over the lower medial part of the buttock.",
+        "id": "Kulit bokong bagian bawah medial."
+      },
+      "note": {
+        "en": "The module says it pierces m. gluteus maximus. Standard references describe it piercing the ligamentum sacrotuberale and then curving around (sometimes through) the lower border of m. gluteus maximus.",
+        "id": "Modul menyebut saraf ini menembus m. gluteus maximus. Rujukan standar menggambarkannya menembus ligamentum sacrotuberale lalu melingkari (kadang menembus) tepi bawah m. gluteus maximus."
+      }
+    },
+    "quiz": {
+      "roots": ["S2-S3", "S2, S3"],
+      "from": ["Plexus sacralis", "Pl. sacralis"]
+    }
+  },
+  {
+    "key": "pudendal-nerve",
+    "kind": "nerve",
+    "la": "Nervus pudendus",
+    "alt": ["N. pudendus", "Nervus pudendalis", "N. pudendalis"],
+    "en": "Pudendal nerve",
+    "desc": {
+      "en": "Main nerve of the perineum (S2-S4). It leaves the pelvis through the foramen ischiadicum majus, hooks around the spina ischiadica, enters the perineum through the foramen ischiadicum minus and runs in the canalis pudendalis (Alcock canal).",
+      "id": "Saraf utama perineum (S2-S4). Saraf ini keluar dari pelvis melalui foramen ischiadicum majus, melingkari spina ischiadica, masuk ke perineum melalui foramen ischiadicum minus dan berjalan dalam canalis pudendalis (kanal Alcock)."
+    },
+    "facts": {
+      "roots": "S2-S4",
+      "from": "Plexus sacralis",
+      "course": {
+        "en": "Arises from the anterior divisions of S2-S4, passes between m. piriformis and m. coccygeus and leaves the pelvis through the foramen ischiadicum majus below m. piriformis, medial to the internal pudendal vessels. It crosses the ligamentum sacrospinale near the spina ischiadica, re-enters through the foramen ischiadicum minus and runs forward in the canalis pudendalis, a split in the fascia of m. obturatorius internus on the lateral wall of the fossa ischioanalis, together with a. and v. pudenda interna.",
+        "id": "Berasal dari divisio anterior S2-S4, berjalan di antara m. piriformis dan m. coccygeus lalu keluar dari pelvis melalui foramen ischiadicum majus di bawah m. piriformis, di medial vasa pudenda interna. Saraf menyilang ligamentum sacrospinale dekat spina ischiadica, masuk kembali melalui foramen ischiadicum minus, lalu berjalan ke depan di dalam canalis pudendalis, yaitu belahan fascia m. obturatorius internus di dinding lateral fossa ischioanalis, bersama a. dan v. pudenda interna."
+      },
+      "branches": ["Nervi rectales inferiores", "Nervi perineales", "Nervus dorsalis penis", "Nervus dorsalis clitoridis"],
+      "motor": ["Musculus sphincter ani externus", "Musculus sphincter urethrae externus", "Musculus bulbospongiosus", "Musculus ischiocavernosus", "Musculus transversus perinei superficialis", "Musculus transversus perinei profundus"],
+      "sensory": {
+        "en": "Skin of the perineum and anal region, the posterior scrotum or labia, and the penis or clitoris (n. dorsalis).",
+        "id": "Kulit perineum dan daerah anus, bagian posterior scrotum atau labia, serta penis atau clitoris (n. dorsalis)."
+      },
+      "lesion": {
+        "en": "A pudendal nerve block, given near the spina ischiadica, anaesthetises the perineum during childbirth. Stretching in labour or compression in the canalis pudendalis (long-distance cycling) causes perineal pain or numbness and can contribute to faecal or urinary incontinence.",
+        "id": "Blok n. pudendus yang disuntikkan dekat spina ischiadica menganestesi perineum saat persalinan. Peregangan saat persalinan atau penekanan di canalis pudendalis (bersepeda jarak jauh) menimbulkan nyeri atau mati rasa perineum dan dapat berperan pada inkontinensia feses atau urin."
+      }
+    },
+    "quiz": {
+      "roots": ["S2-S4", "S2, S3, S4"],
+      "from": ["Plexus sacralis", "Pl. sacralis"]
+    }
+  },
+  {
+    "key": "sciatic-nerve",
+    "kind": "nerve",
+    "la": "Nervus ischiadicus",
+    "alt": ["N. ischiadicus", "N. ishiadicus", "Nervus sciaticus"],
+    "en": "Sciatic nerve",
+    "desc": {
+      "en": "Largest nerve of the body and the main branch of the sacral plexus (L4-S3). It leaves the pelvis below m. piriformis, descends through the gluteal region and the back of the thigh, and usually divides at the upper angle of the fossa poplitea into n. tibialis and n. fibularis communis.",
+      "id": "Saraf terbesar di tubuh dan cabang utama plexus sacralis (L4-S3). Saraf ini keluar dari pelvis di bawah m. piriformis, turun melalui regio glutea dan paha bagian belakang, lalu biasanya bercabang di sudut atas fossa poplitea menjadi n. tibialis dan n. fibularis communis."
+    },
+    "facts": {
+      "roots": "L4-S3",
+      "from": "Plexus sacralis",
+      "course": {
+        "en": "Its tibial part comes from anterior divisions and its fibular part from posterior divisions of L4-S3. It leaves the pelvis through the foramen ischiadicum majus, usually below m. piriformis, and lies under m. gluteus maximus midway between the tuber ischiadicum and the trochanter major. It descends on m. gemellus superior, the tendon of m. obturatorius internus, m. gemellus inferior and m. quadratus femoris, then in the thigh on m. adductor magnus, deep to the long head of m. biceps femoris. It usually divides at the upper angle of the fossa poplitea, but the division can occur at any higher level; the fibular part may then pass through or above m. piriformis.",
+        "id": "Bagian tibialisnya berasal dari divisio anterior dan bagian fibularisnya dari divisio posterior L4-S3. Saraf keluar dari pelvis melalui foramen ischiadicum majus, biasanya di bawah m. piriformis, dan terletak di bawah m. gluteus maximus di pertengahan antara tuber ischiadicum dan trochanter major. Saraf turun di atas m. gemellus superior, tendo m. obturatorius internus, m. gemellus inferior dan m. quadratus femoris, lalu di paha di atas m. adductor magnus, di bawah caput longum m. biceps femoris. Biasanya bercabang di sudut atas fossa poplitea, tetapi percabangan dapat terjadi di tempat yang lebih tinggi; bagian fibularisnya kemudian dapat menembus atau lewat di atas m. piriformis."
+      },
+      "branches": ["Nervus tibialis", "Nervus fibularis communis", "Rami musculares nervi ischiadici"],
+      "motor": ["Musculus semitendinosus", "Musculus semimembranosus", "Musculus biceps femoris (caput longum)", "Musculus biceps femoris (caput breve)", "Musculus adductor magnus (pars ischiocondylaris)"],
+      "sensory": {
+        "en": "Through its terminal branches, the skin of the leg and foot except the medial side (n. saphenus).",
+        "id": "Melalui cabang terminalnya, kulit tungkai bawah dan kaki kecuali sisi medial (n. saphenus)."
+      },
+      "lesion": {
+        "en": "Can be injured by an intramuscular injection placed in the lower or medial part of the buttock, by posterior dislocation of the hip or by acetabular fractures; gluteal injections are therefore given in the upper lateral quadrant. A complete lesion paralyses the hamstrings and all muscles below the knee: knee flexion is weak, there is foot drop with loss of plantar flexion, and sensation is lost below the knee except on the medial side. The fibular part is injured more often than the tibial part. Pain along its course from compression of the L4-S1 roots (for example by a herniated disc) is called sciatica.",
+        "id": "Dapat cedera akibat suntikan intramuskular di bagian bawah atau medial bokong, dislokasi panggul ke posterior atau fraktur acetabulum; karena itu suntikan gluteal diberikan di kuadran lateral atas. Lesi total melumpuhkan otot hamstring dan semua otot di bawah lutut: fleksi lutut lemah, terjadi foot drop dan hilangnya plantar fleksi, serta sensasi hilang di bawah lutut kecuali sisi medial. Bagian fibularis lebih sering cedera daripada bagian tibialis. Nyeri sepanjang jalannya akibat penekanan radix L4-S1 (misalnya oleh hernia nukleus pulposus) disebut sciatica (iskialgia)."
+      }
+    },
+    "quiz": {
+      "roots": ["L4-S3", "L4, L5, S1, S2, S3"],
+      "from": ["Plexus sacralis", "Pl. sacralis"]
+    }
+  },
+  {
+    "key": "tibial-nerve",
+    "kind": "nerve",
+    "la": "Nervus tibialis",
+    "alt": ["N. tibialis"],
+    "en": "Tibial nerve",
+    "desc": {
+      "en": "Larger terminal branch of n. ischiadicus. It descends through the middle of the fossa poplitea and the posterior compartment of the leg, supplies the calf muscles and passes behind the malleolus medialis to divide into the medial and lateral plantar nerves.",
+      "id": "Cabang terminal n. ischiadicus yang lebih besar. Saraf ini turun melalui bagian tengah fossa poplitea dan kompartemen posterior tungkai bawah, mempersarafi otot betis, lalu lewat di belakang malleolus medialis dan bercabang menjadi n. plantaris medialis dan lateralis."
+    },
+    "facts": {
+      "roots": "L4-S3",
+      "from": "Nervus ischiadicus",
+      "course": {
+        "en": "Descends vertically through the fossa poplitea as the most superficial of its three central structures (nerve, vein, artery), crossing the popliteal vessels from lateral to medial. It leaves the fossa deep to the arcus tendineus musculi solei and descends in the posterior compartment with a. tibialis posterior on m. tibialis posterior, first medial to the artery and then lateral to it. It passes behind the malleolus medialis, between the tendons of m. flexor digitorum longus and m. flexor hallucis longus, under the retinaculum musculorum flexorum (tarsal tunnel), where it divides into n. plantaris medialis and n. plantaris lateralis.",
+        "id": "Turun tegak lurus melalui fossa poplitea sebagai struktur paling superfisial dari tiga struktur di tengahnya (saraf, vena, arteri), menyilang vasa poplitea dari lateral ke medial. Saraf meninggalkan fossa di bawah arcus tendineus musculi solei, lalu turun di kompartemen posterior bersama a. tibialis posterior di atas m. tibialis posterior, mula-mula di medial arteri lalu di lateralnya. Saraf lewat di belakang malleolus medialis, di antara tendo m. flexor digitorum longus dan m. flexor hallucis longus, di bawah retinaculum musculorum flexorum (tarsal tunnel), tempat saraf bercabang menjadi n. plantaris medialis dan n. plantaris lateralis."
+      },
+      "branches": ["Rami musculares nervi tibialis", "Nervus cutaneus surae medialis", "Nervus interosseus cruris", "Rami calcanei mediales", "Nervus plantaris medialis", "Nervus plantaris lateralis"],
+      "motor": ["Musculus gastrocnemius", "Musculus soleus", "Musculus plantaris", "Musculus popliteus", "Musculus tibialis posterior", "Musculus flexor digitorum longus", "Musculus flexor hallucis longus"],
+      "sensory": {
+        "en": "Skin of the heel (rami calcanei mediales), the sole through the plantar nerves, and through n. suralis the posterolateral leg and lateral border of the foot.",
+        "id": "Kulit tumit (rami calcanei mediales), telapak kaki melalui nn. plantares, dan melalui n. suralis kulit tungkai bawah posterolateral serta tepi lateral kaki."
+      },
+      "lesion": {
+        "en": "Injury in the fossa poplitea (knee dislocation, deep wounds) causes loss of plantar flexion and toe flexion, weak inversion, a shuffling gait and numbness of the sole; the ankle reflex (S1) is lost. Compression under the retinaculum musculorum flexorum behind the malleolus medialis (tarsal tunnel syndrome) causes burning pain and numbness of the sole.",
+        "id": "Cedera di fossa poplitea (dislokasi lutut, luka dalam) menyebabkan hilangnya plantar fleksi dan fleksi jari kaki, inversi lemah, cara berjalan menyeret dan mati rasa telapak kaki; refleks Achilles (S1) hilang. Penekanan di bawah retinaculum musculorum flexorum di belakang malleolus medialis (tarsal tunnel syndrome) menimbulkan nyeri terbakar dan mati rasa telapak kaki."
+      }
+    },
+    "quiz": {
+      "roots": ["L4-S3", "L4, L5, S1, S2, S3"],
+      "from": ["Nervus ischiadicus", "N. ischiadicus"]
+    }
+  },
+  {
+    "key": "medial-sural-cutaneous-nerve",
+    "kind": "nerve",
+    "la": "Nervus cutaneus surae medialis",
+    "alt": ["N. cutaneus surae medialis", "Nervus cutaneus medialis surae"],
+    "en": "Medial sural cutaneous nerve",
+    "desc": {
+      "en": "Cutaneous branch of n. tibialis in the fossa poplitea. It descends between the two heads of m. gastrocnemius and joins the ramus communicans fibularis to form n. suralis.",
+      "id": "Cabang kutaneus n. tibialis di fossa poplitea. Saraf ini turun di antara kedua caput m. gastrocnemius dan bergabung dengan ramus communicans fibularis membentuk n. suralis."
+    },
+    "facts": {
+      "roots": "S1-S2",
+      "from": "Nervus tibialis",
+      "course": {
+        "en": "Arises in the fossa poplitea, runs down in the groove between the heads of m. gastrocnemius, pierces the deep fascia about the middle of the calf and unites with the ramus communicans fibularis.",
+        "id": "Berasal di fossa poplitea, turun di alur antara kedua caput m. gastrocnemius, menembus fascia profunda sekitar pertengahan betis lalu bersatu dengan ramus communicans fibularis."
+      },
+      "sensory": {
+        "en": "Skin of the back of the calf, then the posterolateral leg and lateral foot through n. suralis.",
+        "id": "Kulit bagian belakang betis, lalu melalui n. suralis kulit tungkai bawah posterolateral dan sisi lateral kaki."
+      }
+    },
+    "quiz": {
+      "roots": ["S1-S2", "S1, S2"],
+      "from": ["Nervus tibialis", "N. tibialis"]
+    }
+  },
+  {
+    "key": "sural-nerve",
+    "kind": "nerve",
+    "la": "Nervus suralis",
+    "alt": ["N. suralis"],
+    "en": "Sural nerve",
+    "desc": {
+      "en": "Cutaneous nerve of the back of the leg and the lateral border of the foot, usually formed by n. cutaneus surae medialis (from n. tibialis) and the ramus communicans fibularis (from n. fibularis communis). It runs with v. saphena parva behind the malleolus lateralis.",
+      "id": "Saraf kutaneus bagian belakang tungkai bawah dan tepi lateral kaki, biasanya dibentuk oleh n. cutaneus surae medialis (dari n. tibialis) dan ramus communicans fibularis (dari n. fibularis communis). Saraf ini berjalan bersama v. saphena parva di belakang malleolus lateralis."
+    },
+    "facts": {
+      "roots": "S1-S2",
+      "from": "Nervus cutaneus surae medialis et ramus communicans fibularis",
+      "course": {
+        "en": "Descends along the lateral side of the tendo calcaneus with v. saphena parva, passes behind the malleolus lateralis, gives rami calcanei laterales and continues along the lateral border of the foot as n. cutaneus dorsalis lateralis to the little toe.",
+        "id": "Turun di sisi lateral tendo calcaneus bersama v. saphena parva, lewat di belakang malleolus lateralis, memberikan rami calcanei laterales, lalu berlanjut di tepi lateral kaki sebagai n. cutaneus dorsalis lateralis sampai jari kelingking kaki."
+      },
+      "branches": ["Rami calcanei laterales", "Nervus cutaneus dorsalis lateralis"],
+      "sensory": {
+        "en": "Skin of the posterolateral lower leg, the lateral heel and the lateral border of the foot and little toe.",
+        "id": "Kulit tungkai bawah bagian posterolateral, tumit sisi lateral serta tepi lateral kaki dan jari kelingking kaki."
+      },
+      "lesion": {
+        "en": "Purely sensory and easy to find behind the malleolus lateralis, so it is used for nerve grafts and for nerve biopsy in peripheral neuropathy; this leaves a small numb area on the lateral foot.",
+        "id": "Murni sensorik dan mudah ditemukan di belakang malleolus lateralis, sehingga dipakai sebagai graft saraf dan untuk biopsi saraf pada neuropati perifer; akibatnya timbul daerah mati rasa kecil di sisi lateral kaki."
+      }
+    },
+    "quiz": {
+      "roots": ["S1-S2", "S1, S2"],
+      "from": ["Nervus cutaneus surae medialis et ramus communicans fibularis", "N. cutaneus surae medialis", "Nervus tibialis"]
+    }
+  },
+  {
+    "key": "medial-plantar-nerve",
+    "kind": "nerve",
+    "verify": true,
+    "la": "Nervus plantaris medialis",
+    "alt": ["N. plantaris medialis"],
+    "en": "Medial plantar nerve",
+    "desc": {
+      "en": "Larger terminal branch of n. tibialis. It runs between m. abductor hallucis and m. flexor digitorum brevis and supplies the medial sole; its pattern in the foot resembles that of n. medianus in the hand.",
+      "id": "Cabang terminal n. tibialis yang lebih besar. Saraf ini berjalan di antara m. abductor hallucis dan m. flexor digitorum brevis serta mempersarafi telapak kaki bagian medial; pola persarafannya di kaki mirip n. medianus di tangan."
+    },
+    "facts": {
+      "roots": "L4-L5",
+      "from": "Nervus tibialis",
+      "course": {
+        "en": "Arises under the retinaculum musculorum flexorum, passes deep to m. abductor hallucis and runs forward between m. abductor hallucis and m. flexor digitorum brevis with a. plantaris medialis. It gives a proper plantar digital nerve to the medial side of the great toe and three common plantar digital nerves.",
+        "id": "Berasal di bawah retinaculum musculorum flexorum, lewat di bawah m. abductor hallucis lalu berjalan ke depan di antara m. abductor hallucis dan m. flexor digitorum brevis bersama a. plantaris medialis. Saraf memberikan satu n. digitalis plantaris proprius ke sisi medial ibu jari kaki dan tiga nn. digitales plantares communes."
+      },
+      "branches": ["Nervi digitales plantares communes nervi plantaris medialis", "Nervi digitales plantares proprii nervi plantaris medialis"],
+      "motor": ["Musculus abductor hallucis", "Musculus flexor digitorum brevis", "Musculus flexor hallucis brevis", "Musculus lumbricalis I"],
+      "sensory": {
+        "en": "Skin of the medial part of the sole and the plantar surface of the medial three and a half toes, including their nail beds.",
+        "id": "Kulit bagian medial telapak kaki dan permukaan plantar tiga setengah jari kaki medial, termasuk dasar kukunya."
+      },
+      "lesion": {
+        "en": "Can be compressed where it passes deep to m. abductor hallucis (common in runners), causing pain and numbness of the medial sole; it is also affected in tarsal tunnel syndrome.",
+        "id": "Dapat tertekan di tempat saraf lewat di bawah m. abductor hallucis (sering pada pelari), menimbulkan nyeri dan mati rasa di telapak kaki bagian medial; saraf ini juga terkena pada tarsal tunnel syndrome."
+      }
+    },
+    "quiz": {
+      "roots": ["L4-L5", "L4, L5"],
+      "from": ["Nervus tibialis", "N. tibialis"]
+    }
+  },
+  {
+    "key": "common-plantar-digital-branches-of-medial-plantar-nerve",
+    "kind": "nerve",
+    "la": "Nervi digitales plantares communes nervi plantaris medialis",
+    "alt": ["Nn. digitales plantares communes n. plantaris medialis", "Rami digitales plantares communes nervi plantaris medialis"],
+    "en": "Common plantar digital branches of medial plantar nerve",
+    "desc": {
+      "en": "Three nerves from n. plantaris medialis that run forward in the sole and divide into proper plantar digital nerves for the adjacent sides of the first to fourth toes; the first also supplies m. lumbricalis I.",
+      "id": "Tiga saraf dari n. plantaris medialis yang berjalan ke depan di telapak kaki dan bercabang menjadi nn. digitales plantares proprii untuk sisi yang berhadapan dari jari kaki pertama sampai keempat; cabang pertama juga mempersarafi m. lumbricalis I."
+    },
+    "facts": {
+      "from": "Nervus plantaris medialis",
+      "motor": ["Musculus lumbricalis I"],
+      "lesion": {
+        "en": "A thickened common plantar digital nerve, usually in the space between the third and fourth metatarsal heads where the medial and lateral plantar nerves communicate, causes forefoot pain (Morton neuroma).",
+        "id": "Penebalan n. digitalis plantaris communis, biasanya di sela antara caput metatarsal III dan IV tempat n. plantaris medialis dan lateralis berhubungan, menimbulkan nyeri kaki depan (neuroma Morton)."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus plantaris medialis", "N. plantaris medialis"]
+    }
+  },
+  {
+    "key": "proper-plantar-digital-branches-of-medial-plantar-nerve",
+    "kind": "nerve",
+    "la": "Nervi digitales plantares proprii nervi plantaris medialis",
+    "alt": ["Nn. digitales plantares proprii n. plantaris medialis", "Rami digitales plantares proprii nervi plantaris medialis"],
+    "en": "Proper plantar digital branches of medial plantar nerve",
+    "desc": {
+      "en": "Supply the plantar skin of the medial three and a half toes and the dorsal skin over their distal phalanges (nail beds).",
+      "id": "Mempersarafi kulit plantar tiga setengah jari kaki medial dan kulit dorsal di atas phalanx distalisnya (dasar kuku)."
+    },
+    "facts": {
+      "from": "Nervus plantaris medialis",
+      "sensory": {
+        "en": "Plantar skin of the medial three and a half toes and their nail beds.",
+        "id": "Kulit plantar tiga setengah jari kaki medial dan dasar kukunya."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus plantaris medialis", "N. plantaris medialis"]
+    }
+  },
+  {
+    "key": "lateral-plantar-nerve",
+    "kind": "nerve",
+    "verify": true,
+    "la": "Nervus plantaris lateralis",
+    "alt": ["N. plantaris lateralis"],
+    "en": "Lateral plantar nerve",
+    "desc": {
+      "en": "Smaller terminal branch of n. tibialis. It supplies most of the small muscles of the sole and the skin of the lateral sole; its pattern resembles that of n. ulnaris in the hand.",
+      "id": "Cabang terminal n. tibialis yang lebih kecil. Saraf ini mempersarafi sebagian besar otot kecil telapak kaki dan kulit telapak kaki bagian lateral; polanya mirip n. ulnaris di tangan."
+    },
+    "facts": {
+      "roots": "S1-S2",
+      "from": "Nervus tibialis",
+      "course": {
+        "en": "Passes deep to m. abductor hallucis and runs anterolaterally between m. flexor digitorum brevis and m. quadratus plantae, with a. plantaris lateralis, toward the base of the fifth metatarsal, where it divides into a ramus superficialis and a ramus profundus. The deep branch curves medially with the arcus plantaris profundus.",
+        "id": "Lewat di bawah m. abductor hallucis lalu berjalan ke anterolateral di antara m. flexor digitorum brevis dan m. quadratus plantae bersama a. plantaris lateralis, menuju basis metatarsal V, tempat saraf bercabang menjadi ramus superficialis dan ramus profundus. Ramus profundus melengkung ke medial bersama arcus plantaris profundus."
+      },
+      "branches": ["Ramus superficialis nervi plantaris lateralis", "Ramus profundus nervi plantaris lateralis", "Nervi digitales plantares communes nervi plantaris lateralis"],
+      "motor": ["Musculus quadratus plantae", "Musculus abductor digiti minimi", "Musculus flexor digiti minimi brevis", "Musculi lumbricales II-IV", "Musculi interossei dorsales", "Musculi interossei plantares", "Musculus adductor hallucis"],
+      "sensory": {
+        "en": "Skin of the lateral part of the sole and the plantar surface of the lateral one and a half toes.",
+        "id": "Kulit bagian lateral telapak kaki dan permukaan plantar satu setengah jari kaki lateral."
+      },
+      "lesion": {
+        "en": "Injury weakens the intrinsic muscles of the foot and causes numbness of the lateral sole.",
+        "id": "Cedera melemahkan otot intrinsik kaki dan menimbulkan mati rasa di telapak kaki bagian lateral."
+      }
+    },
+    "quiz": {
+      "roots": ["S1-S2", "S1, S2"],
+      "from": ["Nervus tibialis", "N. tibialis"]
+    }
+  },
+  {
+    "key": "common-plantar-digital-branches-of-lateral-plantar-nerve",
+    "kind": "nerve",
+    "la": "Nervi digitales plantares communes nervi plantaris lateralis",
+    "alt": ["Nn. digitales plantares communes n. plantaris lateralis", "Rami digitales plantares communes nervi plantaris lateralis"],
+    "en": "Common plantar digital branches of lateral plantar nerve",
+    "desc": {
+      "en": "Arise from the ramus superficialis of n. plantaris lateralis and divide into proper plantar digital nerves for the adjacent sides of the fourth and fifth toes; a branch communicates with the medial plantar nerve.",
+      "id": "Berasal dari ramus superficialis n. plantaris lateralis dan bercabang menjadi nn. digitales plantares proprii untuk sisi yang berhadapan dari jari kaki keempat dan kelima; salah satu cabangnya berhubungan dengan n. plantaris medialis."
+    },
+    "facts": {
+      "from": "Nervus plantaris lateralis"
+    },
+    "quiz": {
+      "from": ["Nervus plantaris lateralis", "N. plantaris lateralis"]
+    }
+  },
+  {
+    "key": "proper-plantar-digital-branches-of-lateral-plantar-nerve",
+    "kind": "nerve",
+    "la": "Nervi digitales plantares proprii nervi plantaris lateralis",
+    "alt": ["Nn. digitales plantares proprii n. plantaris lateralis", "Rami digitales plantares proprii nervi plantaris lateralis"],
+    "en": "Proper plantar digital branches of lateral plantar nerve",
+    "desc": {
+      "en": "Supply the plantar skin of the little toe and the lateral half of the fourth toe.",
+      "id": "Mempersarafi kulit plantar jari kelingking kaki dan separuh lateral jari kaki keempat."
+    },
+    "facts": {
+      "from": "Nervus plantaris lateralis",
+      "sensory": {
+        "en": "Plantar skin of the lateral one and a half toes.",
+        "id": "Kulit plantar satu setengah jari kaki lateral."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus plantaris lateralis", "N. plantaris lateralis"]
+    }
+  },
+  {
+    "key": "common-fibular-nerve",
+    "kind": "nerve",
+    "la": "Nervus fibularis communis",
+    "alt": ["N. fibularis communis", "Nervus peroneus communis", "N. peroneus communis"],
+    "en": "Common fibular nerve",
+    "desc": {
+      "en": "Smaller terminal branch of n. ischiadicus. It winds around the collum fibulae just under the skin, where it is the most frequently injured nerve of the lower limb; its injury causes foot drop.",
+      "id": "Cabang terminal n. ischiadicus yang lebih kecil. Saraf ini melingkari collum fibulae tepat di bawah kulit, tempat saraf ini paling sering cedera di ekstremitas inferior; cederanya menimbulkan foot drop."
+    },
+    "facts": {
+      "roots": "L4-S2",
+      "from": "Nervus ischiadicus",
+      "course": {
+        "en": "Follows the medial border of m. biceps femoris and its tendon along the upper lateral border of the fossa poplitea, passes over the lateral head of m. gastrocnemius and behind the caput fibulae, and winds around the lateral side of the collum fibulae deep to m. fibularis longus, where it divides into n. fibularis superficialis and n. fibularis profundus. In the thigh, as the fibular part of n. ischiadicus, it supplies the short head of m. biceps femoris.",
+        "id": "Mengikuti tepi medial m. biceps femoris dan tendonya di sepanjang tepi atas lateral fossa poplitea, lewat di atas caput laterale m. gastrocnemius dan di belakang caput fibulae, lalu melingkari sisi lateral collum fibulae di bawah m. fibularis longus, tempat saraf bercabang menjadi n. fibularis superficialis dan n. fibularis profundus. Di paha, sebagai bagian fibularis n. ischiadicus, saraf ini mempersarafi caput breve m. biceps femoris."
+      },
+      "branches": ["Nervus cutaneus surae lateralis", "Ramus communicans fibularis", "Rami articulares (articulatio genus)", "Nervus fibularis superficialis", "Nervus fibularis profundus"],
+      "motor": ["Musculus biceps femoris (caput breve)", "Musculus tibialis anterior", "Musculus extensor hallucis longus", "Musculus extensor digitorum longus", "Musculus fibularis tertius", "Musculus fibularis longus", "Musculus fibularis brevis", "Musculus extensor digitorum brevis", "Musculus extensor hallucis brevis"],
+      "sensory": {
+        "en": "Skin of the upper lateral leg (n. cutaneus surae lateralis), and through its terminal branches the lower anterolateral leg and the dorsum of the foot.",
+        "id": "Kulit tungkai bawah bagian atas lateral (n. cutaneus surae lateralis), dan melalui cabang terminalnya kulit tungkai bawah anterolateral bagian bawah serta punggung kaki."
+      },
+      "lesion": {
+        "en": "Injured by fracture of the collum fibulae, a tight plaster cast or bandage, habitual leg crossing, or prolonged squatting or lying on the side. The foot cannot be dorsiflexed or everted and hangs plantar flexed and inverted (foot drop). The patient lifts the knee high so the toes clear the ground (steppage gait) and the foot slaps down. Sensation is lost on the lateral leg and dorsum of the foot.",
+        "id": "Cedera terjadi pada fraktur collum fibulae, gips atau balutan yang terlalu ketat, kebiasaan menyilangkan kaki, atau jongkok maupun berbaring miring dalam waktu lama. Kaki tidak dapat didorsofleksikan atau dieversikan dan tergantung dalam posisi plantar fleksi dan inversi (foot drop). Pasien mengangkat lutut tinggi agar jari kaki tidak menyentuh lantai (steppage gait) dan telapak kaki menghentak saat menapak. Sensasi hilang di sisi lateral tungkai bawah dan punggung kaki."
+      }
+    },
+    "quiz": {
+      "roots": ["L4-S2", "L4, L5, S1, S2"],
+      "from": ["Nervus ischiadicus", "N. ischiadicus"]
+    }
+  },
+  {
+    "key": "lateral-sural-cutaneous-nerve",
+    "kind": "nerve",
+    "model": false,
+    "la": "Nervus cutaneus surae lateralis",
+    "alt": ["N. cutaneus surae lateralis", "Nervus cutaneus lateralis surae"],
+    "en": "Lateral sural cutaneous nerve",
+    "desc": {
+      "en": "Cutaneous branch of n. fibularis communis in the fossa poplitea that supplies the skin of the upper lateral leg; it often gives the ramus communicans fibularis.",
+      "id": "Cabang kutaneus n. fibularis communis di fossa poplitea yang mempersarafi kulit tungkai bawah bagian atas lateral; sering memberikan ramus communicans fibularis."
+    },
+    "facts": {
+      "from": "Nervus fibularis communis",
+      "sensory": {
+        "en": "Skin of the upper lateral part of the leg.",
+        "id": "Kulit tungkai bawah bagian atas lateral."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus fibularis communis", "N. fibularis communis", "N. peroneus communis"]
+    }
+  },
+  {
+    "key": "sural-communicating-branch-of-common-fibular-nerve",
+    "kind": "nerve",
+    "la": "Ramus communicans fibularis",
+    "alt": ["R. communicans fibularis", "Ramus communicans peroneus", "Ramus communicans suralis nervi fibularis communis"],
+    "en": "Sural communicating branch of common fibular nerve",
+    "desc": {
+      "en": "Branch that arises from n. fibularis communis (or from n. cutaneus surae lateralis) in the fossa poplitea, descends over the lateral head of m. gastrocnemius and joins n. cutaneus surae medialis to form n. suralis.",
+      "id": "Cabang yang berasal dari n. fibularis communis (atau dari n. cutaneus surae lateralis) di fossa poplitea, turun di atas caput laterale m. gastrocnemius lalu bergabung dengan n. cutaneus surae medialis membentuk n. suralis."
+    },
+    "facts": {
+      "from": "Nervus fibularis communis"
+    },
+    "quiz": {
+      "from": ["Nervus fibularis communis", "N. fibularis communis", "N. peroneus communis"]
+    }
+  },
+  {
+    "key": "superficial-fibular-nerve",
+    "kind": "nerve",
+    "la": "Nervus fibularis superficialis",
+    "alt": ["N. fibularis superficialis", "Nervus peroneus superficialis", "N. peroneus superficialis"],
+    "en": "Superficial fibular nerve",
+    "desc": {
+      "en": "Terminal branch of n. fibularis communis that supplies the lateral compartment of the leg (the evertors) and most of the skin of the dorsum of the foot.",
+      "id": "Cabang terminal n. fibularis communis yang mempersarafi kompartemen lateral tungkai bawah (otot evertor) dan sebagian besar kulit punggung kaki."
+    },
+    "facts": {
+      "roots": "L4-S1",
+      "from": "Nervus fibularis communis",
+      "course": {
+        "en": "Arises at the collum fibulae within m. fibularis longus and descends in the lateral compartment between the fibular muscles and m. extensor digitorum longus, supplying m. fibularis longus and m. fibularis brevis. In the distal third of the leg it pierces the deep fascia and divides into n. cutaneus dorsalis medialis and n. cutaneus dorsalis intermedius.",
+        "id": "Berasal di collum fibulae di dalam m. fibularis longus, lalu turun di kompartemen lateral di antara otot-otot fibularis dan m. extensor digitorum longus sambil mempersarafi m. fibularis longus dan m. fibularis brevis. Di sepertiga distal tungkai bawah saraf menembus fascia profunda dan bercabang menjadi n. cutaneus dorsalis medialis dan n. cutaneus dorsalis intermedius."
+      },
+      "branches": ["Rami musculares nervi fibularis superficialis", "Nervus cutaneus dorsalis medialis", "Nervus cutaneus dorsalis intermedius"],
+      "motor": ["Musculus fibularis longus", "Musculus fibularis brevis"],
+      "sensory": {
+        "en": "Skin of the lower anterolateral leg and most of the dorsum of the foot and toes, except the first web space (n. fibularis profundus) and the lateral border of the foot (n. suralis).",
+        "id": "Kulit tungkai bawah anterolateral bagian bawah serta sebagian besar punggung kaki dan jari kaki, kecuali sela jari I (n. fibularis profundus) dan tepi lateral kaki (n. suralis)."
+      },
+      "lesion": {
+        "en": "Isolated injury (fibula fracture, ankle sprain, entrapment where it pierces the fascia) causes weak eversion and numbness over the dorsum of the foot, without foot drop.",
+        "id": "Cedera tersendiri (fraktur fibula, keseleo pergelangan kaki, jepitan di tempat saraf menembus fascia) menyebabkan eversi lemah dan mati rasa di punggung kaki, tanpa foot drop."
+      }
+    },
+    "quiz": {
+      "roots": ["L4-S1", "L5-S1", "L4, L5, S1"],
+      "from": ["Nervus fibularis communis", "N. fibularis communis", "N. peroneus communis"]
+    }
+  },
+  {
+    "key": "medial-dorsal-cutaneous-nerve-of-foot",
+    "kind": "nerve",
+    "la": "Nervus cutaneus dorsalis medialis",
+    "alt": ["N. cutaneus dorsalis medialis", "Nervus cutaneus medialis dorsalis pedis", "Nervus cutaneus dorsalis medialis pedis"],
+    "en": "Medial dorsal cutaneous nerve of foot",
+    "desc": {
+      "en": "Medial terminal branch of n. fibularis superficialis. It crosses in front of the ankle and supplies the skin of the medial dorsum of the foot, the medial side of the great toe and the adjacent sides of the second and third toes.",
+      "id": "Cabang terminal medial n. fibularis superficialis. Saraf ini menyilang di depan pergelangan kaki dan mempersarafi kulit punggung kaki bagian medial, sisi medial ibu jari kaki serta sisi yang berhadapan dari jari kaki kedua dan ketiga."
+    },
+    "facts": {
+      "from": "Nervus fibularis superficialis",
+      "sensory": {
+        "en": "Skin of the medial dorsum of the foot and the toes named above.",
+        "id": "Kulit punggung kaki bagian medial dan jari-jari kaki yang disebut di atas."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus fibularis superficialis", "N. fibularis superficialis", "N. peroneus superficialis"]
+    }
+  },
+  {
+    "key": "intermediate-dorsal-cutaneous-nerve-of-foot",
+    "kind": "nerve",
+    "la": "Nervus cutaneus dorsalis intermedius",
+    "alt": ["N. cutaneus dorsalis intermedius", "Nervus cutaneus intermedius dorsalis pedis", "Nervus cutaneus dorsalis intermedius pedis"],
+    "en": "Intermediate dorsal cutaneous nerve of foot",
+    "desc": {
+      "en": "Lateral terminal branch of n. fibularis superficialis. It supplies the skin of the lateral part of the dorsum and the adjacent sides of the third and fourth, and fourth and fifth toes.",
+      "id": "Cabang terminal lateral n. fibularis superficialis. Saraf ini mempersarafi kulit bagian lateral punggung kaki serta sisi yang berhadapan dari jari kaki ketiga dan keempat, dan keempat dan kelima."
+    },
+    "facts": {
+      "from": "Nervus fibularis superficialis",
+      "sensory": {
+        "en": "Skin of the lateral dorsum of the foot and the toes named above.",
+        "id": "Kulit punggung kaki bagian lateral dan jari-jari kaki yang disebut di atas."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus fibularis superficialis", "N. fibularis superficialis", "N. peroneus superficialis"]
+    }
+  },
+  {
+    "key": "dorsal-digital-branches-of-superficial-fibular-nerve",
+    "kind": "nerve",
+    "la": "Nervi digitales dorsales pedis",
+    "alt": ["Nn. digitales dorsales pedis", "Rami digitales dorsales nervi fibularis superficialis"],
+    "en": "Dorsal digital branches of superficial fibular nerve",
+    "desc": {
+      "en": "Digital branches of the medial and intermediate dorsal cutaneous nerves that supply the dorsal skin of the toes, except the first web space and the lateral side of the little toe.",
+      "id": "Cabang digital n. cutaneus dorsalis medialis dan intermedius yang mempersarafi kulit dorsal jari-jari kaki, kecuali sela jari I dan sisi lateral jari kelingking kaki."
+    },
+    "facts": {
+      "from": "Nervus fibularis superficialis",
+      "sensory": {
+        "en": "Dorsal skin of the toes, except the first web space (n. fibularis profundus) and the lateral side of the little toe (n. suralis).",
+        "id": "Kulit dorsal jari-jari kaki, kecuali sela jari I (n. fibularis profundus) dan sisi lateral jari kelingking kaki (n. suralis)."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus fibularis superficialis", "N. fibularis superficialis", "N. peroneus superficialis"]
+    }
+  },
+  {
+    "key": "deep-fibular-nerve",
+    "kind": "nerve",
+    "la": "Nervus fibularis profundus",
+    "alt": ["N. fibularis profundus", "Nervus peroneus profundus", "N. peroneus profundus"],
+    "en": "Deep fibular nerve",
+    "desc": {
+      "en": "Terminal branch of n. fibularis communis that supplies the anterior compartment of the leg (the dorsiflexors) and the short extensors on the dorsum of the foot. Its skin territory is only the first web space.",
+      "id": "Cabang terminal n. fibularis communis yang mempersarafi kompartemen anterior tungkai bawah (otot dorsofleksor) dan otot ekstensor pendek di punggung kaki. Daerah kulitnya hanya sela jari I."
+    },
+    "facts": {
+      "roots": "L4-S1",
+      "from": "Nervus fibularis communis",
+      "course": {
+        "en": "Arises at the collum fibulae, pierces the anterior intermuscular septum and m. extensor digitorum longus to enter the anterior compartment, and descends on the membrana interossea cruris with a. tibialis anterior, first between m. tibialis anterior and m. extensor digitorum longus and lower between m. tibialis anterior and m. extensor hallucis longus. It crosses the ankle under the retinacula musculorum extensorum, lateral to a. dorsalis pedis, and divides on the dorsum into a lateral branch (to m. extensor digitorum brevis and m. extensor hallucis brevis) and a medial branch to the first web space.",
+        "id": "Berasal di collum fibulae, menembus septum intermusculare anterius dan m. extensor digitorum longus untuk masuk ke kompartemen anterior, lalu turun di atas membrana interossea cruris bersama a. tibialis anterior, mula-mula di antara m. tibialis anterior dan m. extensor digitorum longus, kemudian di antara m. tibialis anterior dan m. extensor hallucis longus. Saraf menyeberangi pergelangan kaki di bawah retinacula musculorum extensorum, di lateral a. dorsalis pedis, dan di punggung kaki bercabang menjadi cabang lateral (ke m. extensor digitorum brevis dan m. extensor hallucis brevis) dan cabang medial ke sela jari I."
+      },
+      "branches": ["Rami musculares nervi fibularis profundi", "Nervi digitales dorsales hallucis lateralis et digiti secundi medialis"],
+      "motor": ["Musculus tibialis anterior", "Musculus extensor hallucis longus", "Musculus extensor digitorum longus", "Musculus fibularis tertius", "Musculus extensor digitorum brevis", "Musculus extensor hallucis brevis"],
+      "sensory": {
+        "en": "Skin of the first web space (adjacent sides of the great and second toes).",
+        "id": "Kulit sela jari I (sisi yang berhadapan dari ibu jari kaki dan jari kaki kedua)."
+      },
+      "lesion": {
+        "en": "Injury or anterior compartment syndrome paralyses the dorsiflexors: foot drop with steppage gait and loss of toe extension, with numbness limited to the first web space. Tight footwear can compress it under the extensor retinaculum (anterior tarsal tunnel syndrome).",
+        "id": "Cedera atau sindrom kompartemen anterior melumpuhkan otot dorsofleksor: foot drop dengan steppage gait dan hilangnya ekstensi jari kaki, dengan mati rasa yang terbatas di sela jari I. Sepatu yang terlalu ketat dapat menekannya di bawah retinaculum extensorum (anterior tarsal tunnel syndrome)."
+      }
+    },
+    "quiz": {
+      "roots": ["L4-S1", "L4-L5", "L4, L5, S1"],
+      "from": ["Nervus fibularis communis", "N. fibularis communis", "N. peroneus communis"]
+    }
+  },
+  {
+    "key": "muscular-branches-of-deep-fibular-nerve",
+    "kind": "nerve",
+    "la": "Rami musculares nervi fibularis profundi",
+    "alt": ["Rr. musculares n. fibularis profundi", "Rami musculares nervi peronei profundi"],
+    "en": "Muscular branches of deep fibular nerve",
+    "desc": {
+      "en": "Motor branches to m. tibialis anterior, m. extensor digitorum longus, m. extensor hallucis longus and m. fibularis tertius in the leg, and to m. extensor digitorum brevis and m. extensor hallucis brevis on the dorsum of the foot.",
+      "id": "Cabang motorik untuk m. tibialis anterior, m. extensor digitorum longus, m. extensor hallucis longus dan m. fibularis tertius di tungkai bawah, serta m. extensor digitorum brevis dan m. extensor hallucis brevis di punggung kaki."
+    },
+    "facts": {
+      "from": "Nervus fibularis profundus",
+      "motor": ["Musculus tibialis anterior", "Musculus extensor digitorum longus", "Musculus extensor hallucis longus", "Musculus fibularis tertius", "Musculus extensor digitorum brevis", "Musculus extensor hallucis brevis"]
+    },
+    "quiz": {
+      "from": ["Nervus fibularis profundus", "N. fibularis profundus", "N. peroneus profundus"]
+    }
+  },
+  {
+    "key": "dorsal-digital-branches-of-deep-fibular-nerve",
+    "kind": "nerve",
+    "la": "Nervi digitales dorsales hallucis lateralis et digiti secundi medialis",
+    "alt": ["Rami digitales dorsales nervi fibularis profundi", "Nn. digitales dorsales n. fibularis profundi"],
+    "en": "Dorsal digital branches of deep fibular nerve",
+    "desc": {
+      "en": "Two dorsal digital nerves from the medial branch of n. fibularis profundus that supply the skin of the adjacent sides of the great toe and second toe (first web space).",
+      "id": "Dua n. digitalis dorsalis dari cabang medial n. fibularis profundus yang mempersarafi kulit sisi yang berhadapan dari ibu jari kaki dan jari kaki kedua (sela jari I)."
+    },
+    "facts": {
+      "from": "Nervus fibularis profundus",
+      "sensory": {
+        "en": "Skin of the first web space on the dorsum of the foot.",
+        "id": "Kulit sela jari I di punggung kaki."
+      },
+      "lesion": {
+        "en": "Numbness of the first web space is a reliable sign of deep fibular nerve injury.",
+        "id": "Mati rasa di sela jari I merupakan tanda yang dapat diandalkan untuk cedera n. fibularis profundus."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus fibularis profundus", "N. fibularis profundus", "N. peroneus profundus"]
+    }
+  }
+]

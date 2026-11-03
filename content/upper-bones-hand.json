@@ -1,0 +1,440 @@
+[
+  {
+    "key": "first-metacarpal-bone",
+    "kind": "bone",
+    "la": "Os metacarpi I",
+    "alt": ["Os metacarpi primum", "Os primum metacarpi", "Os metacarpale I", "Os metacarpale primum", "Os metacarpi pollicis"],
+    "en": "First metacarpal (thumb)",
+    "desc": {
+      "en": "The shortest and thickest metacarpal, belonging to the thumb. It lies anterior to the plane of the other metacarpals and is turned about 90 degrees, so its saddle joint with the trapezium allows opposition.",
+      "id": "Os metacarpi yang paling pendek dan paling tebal, milik ibu jari. Letaknya lebih ke anterior daripada metacarpal lain dan terputar sekitar 90 derajat, sehingga sendi pelananya dengan os trapezium memungkinkan gerakan oposisi."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os trapezium", "Phalanx proximalis pollicis"],
+      "region": {"en": "Hand (metacarpus)", "id": "Tangan (metacarpus)"},
+      "note": {
+        "en": "Base: abductor pollicis longus. Shaft: opponens pollicis on the lateral border and one head of the first dorsal interosseous on the medial side.",
+        "id": "Basis: m. abductor pollicis longus. Corpus: m. opponens pollicis pada tepi lateral dan salah satu caput m. interosseus dorsalis I pada sisi medial."
+      },
+      "clinical": {
+        "en": "Bennett fracture is an oblique fracture of the base that enters the carpometacarpal joint; abductor pollicis longus pulls the main fragment proximally.",
+        "id": "Fraktur Bennett adalah fraktur oblik pada basis yang masuk ke sendi carpometacarpalis; m. abductor pollicis longus menarik fragmen utama ke proksimal."
+      }
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "second-metacarpal-bone",
+    "kind": "bone",
+    "la": "Os metacarpi II",
+    "alt": ["Os metacarpi secundum", "Os secundum metacarpi", "Os metacarpale II", "Os metacarpale secundum"],
+    "en": "Second metacarpal",
+    "desc": {
+      "en": "The longest metacarpal, belonging to the index finger. Its base is notched to receive the trapezoid and also touches the trapezium, the capitate and the third metacarpal.",
+      "id": "Os metacarpi terpanjang, milik jari telunjuk. Basisnya berlekuk untuk menerima os trapezoideum dan juga bersentuhan dengan os trapezium, os capitatum dan os metacarpi III."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os trapezoideum", "Os trapezium", "Os capitatum", "Os metacarpi III", "Phalanx proximalis digiti II"],
+      "region": {"en": "Hand (metacarpus)", "id": "Tangan (metacarpus)"},
+      "note": {
+        "en": "Base: extensor carpi radialis longus dorsally, flexor carpi radialis on the palmar side, and part of the oblique head of adductor pollicis. Shaft: first and second dorsal interossei and the first palmar interosseous.",
+        "id": "Basis: m. extensor carpi radialis longus di dorsal, m. flexor carpi radialis di palmar, serta sebagian caput obliquum m. adductor pollicis. Corpus: m. interosseus dorsalis I dan II serta m. interosseus palmaris I."
+      }
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "third-metacarpal-bone",
+    "kind": "bone",
+    "la": "Os metacarpi III",
+    "alt": ["Os metacarpi tertium", "Os tertium metacarpi", "Os metacarpale III", "Os metacarpale tertium"],
+    "en": "Third metacarpal",
+    "desc": {
+      "en": "Metacarpal of the middle finger, articulating mainly with the capitate. A styloid process projects from the radial side of its dorsal base, and the transverse head of adductor pollicis arises from the palmar surface of its shaft.",
+      "id": "Os metacarpi jari tengah yang terutama bersendi dengan os capitatum. Processus styloideus menonjol dari sisi radial basis bagian dorsal, dan caput transversum m. adductor pollicis berorigo pada permukaan palmar corpusnya."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os capitatum", "Os metacarpi II", "Os metacarpi IV", "Phalanx proximalis digiti III"],
+      "features": ["metacarpal-base", "body-of-metacarpal-bone", "head-of-metacarpal-bone", "styloid-process-of-third-metacarpal-bone"],
+      "region": {"en": "Hand (metacarpus)", "id": "Tangan (metacarpus)"},
+      "note": {
+        "en": "Base: extensor carpi radialis brevis dorsally, a slip of flexor carpi radialis, and the oblique head of adductor pollicis. Shaft: transverse head of adductor pollicis, second and third dorsal interossei.",
+        "id": "Basis: m. extensor carpi radialis brevis di dorsal, sebagian serabut m. flexor carpi radialis, dan caput obliquum m. adductor pollicis. Corpus: caput transversum m. adductor pollicis, m. interosseus dorsalis II dan III."
+      }
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "fourth-metacarpal-bone",
+    "kind": "bone",
+    "la": "Os metacarpi IV",
+    "alt": ["Os metacarpi quartum", "Os quartum metacarpi", "Os metacarpale IV", "Os metacarpale quartum"],
+    "en": "Fourth metacarpal",
+    "desc": {
+      "en": "Metacarpal of the ring finger, thinner and shorter than the third. Its base articulates with the capitate and hamate, and its carpometacarpal joint moves more than those of the second and third metacarpals.",
+      "id": "Os metacarpi jari manis, lebih tipis dan lebih pendek daripada metacarpal III. Basisnya bersendi dengan os capitatum dan os hamatum, dan sendi carpometacarpalisnya lebih mudah bergerak dibanding metacarpal II dan III."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os hamatum", "Os capitatum", "Os metacarpi III", "Os metacarpi V", "Phalanx proximalis digiti IV"],
+      "region": {"en": "Hand (metacarpus)", "id": "Tangan (metacarpus)"},
+      "note": {
+        "en": "Shaft: third and fourth dorsal interossei and the second palmar interosseous.",
+        "id": "Corpus: m. interosseus dorsalis III dan IV serta m. interosseus palmaris II."
+      }
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "fifth-metacarpal-bone",
+    "kind": "bone",
+    "la": "Os metacarpi V",
+    "alt": ["Os metacarpi quintum", "Os quintum metacarpi", "Os metacarpale V", "Os metacarpale quintum"],
+    "en": "Fifth metacarpal",
+    "desc": {
+      "en": "Metacarpal of the little finger. Its base articulates with the hamate and has a tubercle on its medial side for extensor carpi ulnaris; its fairly mobile carpometacarpal joint helps cup the palm.",
+      "id": "Os metacarpi jari kelingking. Basisnya bersendi dengan os hamatum dan memiliki tuberculum di sisi medial untuk m. extensor carpi ulnaris; sendi carpometacarpalisnya cukup mudah bergerak sehingga membantu telapak tangan menangkup."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os hamatum", "Os metacarpi IV", "Phalanx proximalis digiti V"],
+      "region": {"en": "Hand (metacarpus)", "id": "Tangan (metacarpus)"},
+      "note": {
+        "en": "Base: extensor carpi ulnaris, and flexor carpi ulnaris through the pisometacarpal ligament. Shaft: opponens digiti minimi on the medial border, fourth dorsal interosseous and third palmar interosseous.",
+        "id": "Basis: m. extensor carpi ulnaris, dan m. flexor carpi ulnaris melalui lig. pisometacarpale. Corpus: m. opponens digiti minimi pada tepi medial, m. interosseus dorsalis IV dan m. interosseus palmaris III."
+      },
+      "clinical": {
+        "en": "A fracture of its neck after punching a hard object is called a boxer's fracture; the head tilts toward the palm.",
+        "id": "Fraktur pada collum-nya akibat meninju benda keras disebut boxer's fracture; caput-nya miring ke arah palmar."
+      }
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "proximal-phalanx-of-first-finger-of-hand",
+    "kind": "bone",
+    "la": "Phalanx proximalis pollicis",
+    "alt": ["Phalanx proximalis digiti I manus", "Phalanx proximalis digiti primi manus", "Phalanx proximalis", "Phalanx proximalis manus"],
+    "en": "Proximal phalanx of thumb",
+    "desc": {
+      "en": "Short, broad proximal bone of the thumb. Its base forms the metacarpophalangeal joint with the first metacarpal, and its head forms the only interphalangeal joint of the thumb.",
+      "id": "Tulang proksimal ibu jari yang pendek dan lebar. Basisnya membentuk sendi metacarpophalangea dengan os metacarpi I, dan caput-nya membentuk satu-satunya sendi interphalangea ibu jari."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os metacarpi I", "Phalanx distalis pollicis"],
+      "region": {"en": "Hand (digits), thumb", "id": "Tangan (digiti), ibu jari"},
+      "note": {
+        "en": "Base: abductor pollicis brevis and flexor pollicis brevis on the lateral side, adductor pollicis on the medial side (both through sesamoid bones), extensor pollicis brevis dorsally.",
+        "id": "Basis: m. abductor pollicis brevis dan m. flexor pollicis brevis di sisi lateral, m. adductor pollicis di sisi medial (keduanya melalui os sesamoideum), m. extensor pollicis brevis di dorsal."
+      }
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "distal-phalanx-of-first-finger-of-hand",
+    "kind": "bone",
+    "la": "Phalanx distalis pollicis",
+    "alt": ["Phalanx distalis digiti I manus", "Phalanx distalis digiti primi manus", "Phalanx distalis", "Phalanx distalis manus"],
+    "en": "Distal phalanx of thumb",
+    "desc": {
+      "en": "Terminal bone of the thumb, ending in a rough tuberosity under the pulp and nail. Flexor pollicis longus inserts on the palmar side of its base and extensor pollicis longus on the dorsal side.",
+      "id": "Tulang ujung ibu jari yang berakhir sebagai tuberositas kasar di bawah bantalan jari dan kuku. M. flexor pollicis longus berinsersio pada sisi palmar basisnya, m. extensor pollicis longus pada sisi dorsal."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Phalanx proximalis pollicis"],
+      "region": {"en": "Hand (digits), thumb", "id": "Tangan (digiti), ibu jari"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "proximal-phalanx-of-second-finger-of-hand",
+    "kind": "bone",
+    "la": "Phalanx proximalis digiti II manus",
+    "alt": ["Phalanx proximalis indicis", "Phalanx proximalis digiti secundi manus", "Phalanx proximalis", "Phalanx proximalis manus"],
+    "en": "Proximal phalanx of index finger",
+    "desc": {
+      "en": "Longest phalanx of the index finger, between the second metacarpal and the middle phalanx. The first dorsal interosseous attaches to the radial side of its base, and the first palmar interosseous reaches its ulnar side through the extensor expansion.",
+      "id": "Phalanx terpanjang jari telunjuk, terletak di antara os metacarpi II dan phalanx media. M. interosseus dorsalis I melekat pada sisi radial basisnya, sedangkan m. interosseus palmaris I mencapai sisi ulnarnya melalui aponeurosis dorsalis (ekspansi ekstensor)."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os metacarpi II", "Phalanx media digiti II manus"],
+      "region": {"en": "Hand (digits), index finger", "id": "Tangan (digiti), jari telunjuk"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "proximal-phalanx-of-third-finger-of-hand",
+    "kind": "bone",
+    "la": "Phalanx proximalis digiti III manus",
+    "alt": ["Phalanx proximalis digiti medii", "Phalanx proximalis digiti tertii manus", "Phalanx proximalis", "Phalanx proximalis manus"],
+    "en": "Proximal phalanx of middle finger",
+    "desc": {
+      "en": "Proximal phalanx of the middle finger, the longest phalanx of the hand. The second dorsal interosseous attaches to the radial side of its base and the third dorsal interosseous to the ulnar side.",
+      "id": "Phalanx proximalis jari tengah, phalanx terpanjang di tangan. M. interosseus dorsalis II melekat pada sisi radial basisnya dan m. interosseus dorsalis III pada sisi ulnar."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os metacarpi III", "Phalanx media digiti III manus"],
+      "features": ["base-of-phalanx-of-hand", "body-of-phalanx-of-hand", "head-of-phalanx-of-hand", "trochlea-of-phalanx-of-hand"],
+      "region": {"en": "Hand (digits), middle finger", "id": "Tangan (digiti), jari tengah"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "proximal-phalanx-of-fourth-finger-of-hand",
+    "kind": "bone",
+    "la": "Phalanx proximalis digiti IV manus",
+    "alt": ["Phalanx proximalis digiti anularis", "Phalanx proximalis digiti quarti manus", "Phalanx proximalis", "Phalanx proximalis manus"],
+    "en": "Proximal phalanx of ring finger",
+    "desc": {
+      "en": "Proximal phalanx of the ring finger. The fourth dorsal interosseous attaches to the ulnar side of its base, and the second palmar interosseous reaches the radial side through the extensor expansion.",
+      "id": "Phalanx proximalis jari manis. M. interosseus dorsalis IV melekat pada sisi ulnar basisnya, sedangkan m. interosseus palmaris II mencapai sisi radial melalui aponeurosis dorsalis."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os metacarpi IV", "Phalanx media digiti IV manus"],
+      "region": {"en": "Hand (digits), ring finger", "id": "Tangan (digiti), jari manis"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "proximal-phalanx-of-fifth-finger-of-hand",
+    "kind": "bone",
+    "la": "Phalanx proximalis digiti V manus",
+    "alt": ["Phalanx proximalis digiti minimi", "Phalanx proximalis digiti quinti manus", "Phalanx proximalis", "Phalanx proximalis manus"],
+    "en": "Proximal phalanx of little finger",
+    "desc": {
+      "en": "Proximal phalanx of the little finger. Abductor digiti minimi and flexor digiti minimi brevis insert on the ulnar side of its base; the third palmar interosseous reaches the radial side through the extensor expansion.",
+      "id": "Phalanx proximalis jari kelingking. M. abductor digiti minimi dan m. flexor digiti minimi brevis berinsersio pada sisi ulnar basisnya; m. interosseus palmaris III mencapai sisi radial melalui aponeurosis dorsalis."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os metacarpi V", "Phalanx media digiti V manus"],
+      "region": {"en": "Hand (digits), little finger", "id": "Tangan (digiti), jari kelingking"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "middle-phalanx-of-second-finger-of-hand",
+    "kind": "bone",
+    "la": "Phalanx media digiti II manus",
+    "alt": ["Phalanx media indicis", "Phalanx media digiti secundi manus", "Phalanx media", "Phalanx media manus"],
+    "en": "Middle phalanx of index finger",
+    "desc": {
+      "en": "Middle phalanx of the index finger, between the proximal and distal interphalangeal joints. Flexor digitorum superficialis inserts on the sides of its body, and the central slip of the extensor expansion on the dorsum of its base.",
+      "id": "Phalanx media jari telunjuk, terletak di antara sendi interphalangea proksimal dan distal. M. flexor digitorum superficialis berinsersio pada kedua sisi corpusnya, dan bagian tengah aponeurosis dorsalis pada dorsum basisnya."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Phalanx proximalis digiti II manus", "Phalanx distalis digiti II manus"],
+      "region": {"en": "Hand (digits), index finger", "id": "Tangan (digiti), jari telunjuk"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "middle-phalanx-of-third-finger-of-hand",
+    "kind": "bone",
+    "la": "Phalanx media digiti III manus",
+    "alt": ["Phalanx media digiti medii", "Phalanx media digiti tertii manus", "Phalanx media", "Phalanx media manus"],
+    "en": "Middle phalanx of middle finger",
+    "desc": {
+      "en": "Middle phalanx of the middle finger. The split tendon of flexor digitorum superficialis inserts on the sides of its body; the central slip of the extensor expansion attaches to its dorsal base.",
+      "id": "Phalanx media jari tengah. Tendo m. flexor digitorum superficialis yang terbelah berinsersio pada kedua sisi corpusnya; bagian tengah aponeurosis dorsalis melekat pada basis bagian dorsal."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Phalanx proximalis digiti III manus", "Phalanx distalis digiti III manus"],
+      "region": {"en": "Hand (digits), middle finger", "id": "Tangan (digiti), jari tengah"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "middle-phalanx-of-fourth-finger-of-hand",
+    "kind": "bone",
+    "la": "Phalanx media digiti IV manus",
+    "alt": ["Phalanx media digiti anularis", "Phalanx media digiti quarti manus", "Phalanx media", "Phalanx media manus"],
+    "en": "Middle phalanx of ring finger",
+    "desc": {
+      "en": "Middle phalanx of the ring finger. Like the other middle phalanges, it receives flexor digitorum superficialis on the sides of its body and the central slip of the extensor expansion on its dorsal base.",
+      "id": "Phalanx media jari manis. Seperti phalanx media lainnya, tulang ini menerima insersio m. flexor digitorum superficialis pada sisi corpus dan bagian tengah aponeurosis dorsalis pada basis bagian dorsal."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Phalanx proximalis digiti IV manus", "Phalanx distalis digiti IV manus"],
+      "region": {"en": "Hand (digits), ring finger", "id": "Tangan (digiti), jari manis"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "middle-phalanx-of-fifth-finger-of-hand",
+    "kind": "bone",
+    "la": "Phalanx media digiti V manus",
+    "alt": ["Phalanx media digiti minimi", "Phalanx media digiti quinti manus", "Phalanx media", "Phalanx media manus"],
+    "en": "Middle phalanx of little finger",
+    "desc": {
+      "en": "Middle phalanx of the little finger, the shortest middle phalanx. Flexor digitorum superficialis inserts on the sides of its body and the central slip of the extensor expansion on its dorsal base.",
+      "id": "Phalanx media jari kelingking, phalanx media yang paling pendek. M. flexor digitorum superficialis berinsersio pada sisi corpusnya dan bagian tengah aponeurosis dorsalis pada basis bagian dorsal."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Phalanx proximalis digiti V manus", "Phalanx distalis digiti V manus"],
+      "region": {"en": "Hand (digits), little finger", "id": "Tangan (digiti), jari kelingking"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "distal-phalanx-of-second-finger-of-hand",
+    "kind": "bone",
+    "la": "Phalanx distalis digiti II manus",
+    "alt": ["Phalanx distalis indicis", "Phalanx distalis digiti secundi manus", "Phalanx distalis", "Phalanx distalis manus"],
+    "en": "Distal phalanx of index finger",
+    "desc": {
+      "en": "Terminal phalanx of the index finger, ending in a tuberosity that supports the pulp and nail bed. Flexor digitorum profundus inserts on the palmar side of its base and the terminal part of the extensor expansion on the dorsal side.",
+      "id": "Phalanx ujung jari telunjuk yang berakhir sebagai tuberositas penopang bantalan jari dan dasar kuku. M. flexor digitorum profundus berinsersio pada sisi palmar basisnya, dan ujung aponeurosis dorsalis pada sisi dorsal."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Phalanx media digiti II manus"],
+      "region": {"en": "Hand (digits), index finger", "id": "Tangan (digiti), jari telunjuk"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "distal-phalanx-of-third-finger-of-hand",
+    "kind": "bone",
+    "la": "Phalanx distalis digiti III manus",
+    "alt": ["Phalanx distalis digiti medii", "Phalanx distalis digiti tertii manus", "Phalanx distalis", "Phalanx distalis manus"],
+    "en": "Distal phalanx of middle finger",
+    "desc": {
+      "en": "Terminal phalanx of the middle finger, with a rough tuberosity at its tip. Flexor digitorum profundus inserts on the palmar side of its base, and the extensor expansion ends on the dorsal side.",
+      "id": "Phalanx ujung jari tengah dengan tuberositas kasar di ujungnya. M. flexor digitorum profundus berinsersio pada sisi palmar basisnya, dan aponeurosis dorsalis berakhir pada sisi dorsal."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Phalanx media digiti III manus"],
+      "features": ["tuberosity-of-distal-phalanx-of-hand"],
+      "region": {"en": "Hand (digits), middle finger", "id": "Tangan (digiti), jari tengah"},
+      "clinical": {
+        "en": "Avulsion of the extensor tendon from the dorsal base of a distal phalanx leaves the fingertip drooping in flexion (mallet finger).",
+        "id": "Avulsi tendo ekstensor dari basis dorsal phalanx distalis membuat ujung jari menggantung dalam posisi fleksi (mallet finger)."
+      }
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "distal-phalanx-of-fourth-finger-of-hand",
+    "kind": "bone",
+    "la": "Phalanx distalis digiti IV manus",
+    "alt": ["Phalanx distalis digiti anularis", "Phalanx distalis digiti quarti manus", "Phalanx distalis", "Phalanx distalis manus"],
+    "en": "Distal phalanx of ring finger",
+    "desc": {
+      "en": "Terminal phalanx of the ring finger. It receives flexor digitorum profundus on the palmar side of its base and the end of the extensor expansion dorsally.",
+      "id": "Phalanx ujung jari manis. Menerima insersio m. flexor digitorum profundus pada sisi palmar basisnya dan ujung aponeurosis dorsalis di sisi dorsal."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Phalanx media digiti IV manus"],
+      "region": {"en": "Hand (digits), ring finger", "id": "Tangan (digiti), jari manis"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "distal-phalanx-of-fifth-finger-of-hand",
+    "kind": "bone",
+    "la": "Phalanx distalis digiti V manus",
+    "alt": ["Phalanx distalis digiti minimi", "Phalanx distalis digiti quinti manus", "Phalanx distalis", "Phalanx distalis manus"],
+    "en": "Distal phalanx of little finger",
+    "desc": {
+      "en": "Terminal phalanx of the little finger, the smallest phalanx of the hand. Flexor digitorum profundus inserts on the palmar side of its base and the extensor expansion on the dorsal side.",
+      "id": "Phalanx ujung jari kelingking, phalanx terkecil di tangan. M. flexor digitorum profundus berinsersio pada sisi palmar basisnya dan aponeurosis dorsalis pada sisi dorsal."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Phalanx media digiti V manus"],
+      "region": {"en": "Hand (digits), little finger", "id": "Tangan (digiti), jari kelingking"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  }
+]

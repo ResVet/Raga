@@ -1,0 +1,550 @@
+[
+  {
+    "key": "anatomical-neck-of-humerus",
+    "kind": "landmark",
+    "la": "Collum anatomicum",
+    "alt": ["Collum anatomicum humeri"],
+    "en": "Anatomical neck of humerus",
+    "desc": {
+      "en": "Shallow constriction just beyond the margin of the articular head, separating the head from the greater and lesser tubercles.",
+      "id": "Penyempitan dangkal tepat di luar tepi permukaan sendi caput humeri, memisahkan caput dari tuberculum majus dan tuberculum minus."
+    },
+    "facts": {
+      "bone": "humerus",
+      "attach": {
+        "en": "The capsule of the glenohumeral joint attaches here, except inferomedially where it extends about 1 cm down onto the shaft.",
+        "id": "Capsula articularis sendi glenohumeralis melekat di sini, kecuali di inferomedial yang turun sekitar 1 cm ke corpus humeri."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "anterior-border-of-humerus",
+    "kind": "landmark",
+    "la": "Margo anterior",
+    "alt": ["Margo anterior humeri"],
+    "en": "Anterior border of humerus",
+    "desc": {
+      "en": "Rounded border running from the crest of the greater tubercle down to the coronoid fossa, between the anterolateral and anteromedial surfaces.",
+      "id": "Tepi tumpul yang berjalan dari crista tuberculi majoris ke bawah sampai fossa coronoidea, di antara facies anterolateralis dan facies anteromedialis."
+    },
+    "facts": {
+      "bone": "humerus",
+      "attach": {
+        "en": "Its upper part is the crest of the greater tubercle (M. pectoralis major). Lower down, M. brachialis arises from the surfaces on both sides of it.",
+        "id": "Bagian atasnya adalah crista tuberculi majoris (m. pectoralis major). Di bagian bawah, m. brachialis berorigo dari permukaan di kedua sisinya."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "anterolateral-surface-of-humerus",
+    "kind": "landmark",
+    "la": "Facies anterolateralis",
+    "alt": ["Facies anterolateralis humeri", "Facies anterior lateralis"],
+    "en": "Anterolateral surface of humerus",
+    "desc": {
+      "en": "Surface of the shaft between the anterior and lateral borders. The deltoid tuberosity lies near its middle.",
+      "id": "Permukaan corpus humeri di antara margo anterior dan margo lateralis. Tuberositas deltoidea terletak di sekitar pertengahannya."
+    },
+    "facts": {
+      "bone": "humerus",
+      "attach": {
+        "en": "M. deltoideus (deltoid tuberosity); lower half: lateral part of the origin of M. brachialis.",
+        "id": "M. deltoideus (tuberositas deltoidea); separuh bawah: bagian lateral origo m. brachialis."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "anteromedial-surface-of-humerus",
+    "kind": "landmark",
+    "la": "Facies anteromedialis",
+    "alt": ["Facies anteromedialis humeri", "Facies anterior medialis"],
+    "en": "Anteromedial surface of humerus",
+    "desc": {
+      "en": "Surface of the shaft between the anterior and medial borders. Its upper part forms the floor of the intertubercular sulcus.",
+      "id": "Permukaan corpus humeri di antara margo anterior dan margo medialis. Bagian atasnya membentuk dasar sulcus intertubercularis."
+    },
+    "facts": {
+      "bone": "humerus",
+      "attach": {
+        "en": "Upper part: M. latissimus dorsi (floor of the intertubercular sulcus) and M. teres major (crest of lesser tubercle). Middle: M. coracobrachialis. Lower half: M. brachialis.",
+        "id": "Bagian atas: m. latissimus dorsi (dasar sulcus intertubercularis) dan m. teres major (crista tuberculi minoris). Bagian tengah: m. coracobrachialis. Separuh bawah: m. brachialis."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "body-of-humerus",
+    "kind": "landmark",
+    "la": "Corpus humeri",
+    "alt": [],
+    "en": "Body (shaft) of humerus",
+    "desc": {
+      "en": "The shaft of the humerus, cylindrical above and flattened from front to back below. It has three borders and three surfaces, and the radial groove crosses its posterior surface.",
+      "id": "Batang humerus, silindris di bagian atas dan pipih dari depan ke belakang di bagian bawah. Memiliki tiga tepi dan tiga permukaan, dan sulcus nervi radialis menyilang permukaan posteriornya."
+    },
+    "facts": {
+      "bone": "humerus",
+      "attach": {
+        "en": "M. deltoideus, M. coracobrachialis, M. brachialis and the lateral and medial heads of M. triceps brachii.",
+        "id": "M. deltoideus, m. coracobrachialis, m. brachialis serta caput laterale dan caput mediale m. triceps brachii."
+      },
+      "clinical": {
+        "en": "A midshaft fracture can injure the radial nerve in the radial groove, causing wrist drop.",
+        "id": "Fraktur di pertengahan corpus dapat mencederai n. radialis di sulcus nervi radialis sehingga terjadi wrist drop."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "capitulum-of-humerus",
+    "kind": "landmark",
+    "la": "Capitulum humeri",
+    "alt": [],
+    "en": "Capitulum of humerus",
+    "desc": {
+      "en": "Rounded, knob-like lateral part of the humeral condyle, visible from the front and below. It articulates with the fovea of the head of the radius at the humeroradial joint.",
+      "id": "Bagian lateral condylus humeri yang bulat seperti kenop, tampak dari depan dan bawah. Bersendi dengan fovea articularis capitis radii pada sendi humeroradialis."
+    },
+    "facts": {
+      "bone": "humerus"
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "condyle-of-humerus",
+    "kind": "landmark",
+    "la": "Condylus humeri",
+    "alt": [],
+    "en": "Condyle of humerus",
+    "desc": {
+      "en": "The distal end of the humerus, made up of the articular trochlea and capitulum together with the olecranon, coronoid and radial fossae; the medial and lateral epicondyles project from its sides.",
+      "id": "Ujung distal humerus yang terdiri atas permukaan sendi trochlea dan capitulum beserta fossa olecrani, fossa coronoidea dan fossa radialis; epicondylus medialis dan lateralis menonjol dari kedua sisinya."
+    },
+    "facts": {
+      "bone": "humerus",
+      "attach": {
+        "en": "Its epicondyles carry the common flexor origin (medial) and the common extensor origin (lateral) and the collateral ligaments of the elbow.",
+        "id": "Epicondylus-nya menjadi tempat origo bersama otot fleksor (medial) dan otot ekstensor (lateral) serta ligamentum collaterale sendi siku."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "coronoid-fossa",
+    "kind": "landmark",
+    "la": "Fossa coronoidea",
+    "alt": ["Fossa coronoidea humeri"],
+    "en": "Coronoid fossa",
+    "desc": {
+      "en": "Small depression on the anterior surface just above the trochlea. It receives the coronoid process of the ulna when the elbow is fully flexed.",
+      "id": "Cekungan kecil pada permukaan anterior tepat di atas trochlea. Menerima processus coronoideus ulnae saat siku fleksi penuh."
+    },
+    "facts": {
+      "bone": "humerus",
+      "attach": {
+        "en": "The anterior part of the elbow joint capsule attaches above it.",
+        "id": "Bagian anterior capsula articularis cubiti melekat di atasnya."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "crest-of-greater-tubercle",
+    "kind": "landmark",
+    "la": "Crista tuberculi majoris",
+    "alt": ["Crista tuberculi majoris humeri", "Labium laterale sulci intertubercularis"],
+    "en": "Crest of greater tubercle",
+    "desc": {
+      "en": "Ridge running down from the greater tubercle that forms the lateral lip of the intertubercular sulcus.",
+      "id": "Rigi yang turun dari tuberculum majus dan membentuk bibir lateral sulcus intertubercularis."
+    },
+    "facts": {
+      "bone": "humerus",
+      "attach": {
+        "en": "Insertion of M. pectoralis major.",
+        "id": "Insersio m. pectoralis major."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "crest-of-lesser-tubercle",
+    "kind": "landmark",
+    "la": "Crista tuberculi minoris",
+    "alt": ["Crista tuberculi minoris humeri", "Labium mediale sulci intertubercularis"],
+    "en": "Crest of lesser tubercle",
+    "desc": {
+      "en": "Ridge running down from the lesser tubercle that forms the medial lip of the intertubercular sulcus.",
+      "id": "Rigi yang turun dari tuberculum minus dan membentuk bibir medial sulcus intertubercularis."
+    },
+    "facts": {
+      "bone": "humerus",
+      "attach": {
+        "en": "Insertion of M. teres major.",
+        "id": "Insersio m. teres major."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "deltoid-tuberosity",
+    "kind": "landmark",
+    "la": "Tuberositas deltoidea",
+    "alt": ["Tuberositas deltoidea humeri"],
+    "en": "Deltoid tuberosity",
+    "desc": {
+      "en": "V-shaped roughened area on the lateral side of the shaft, about halfway down.",
+      "id": "Daerah kasar berbentuk huruf V di sisi lateral corpus humeri, kira-kira di pertengahannya."
+    },
+    "facts": {
+      "bone": "humerus",
+      "attach": {
+        "en": "Insertion of M. deltoideus. The radial groove passes behind and below it, and M. brachialis arises from the bone just below it.",
+        "id": "Insersio m. deltoideus. Sulcus nervi radialis lewat di belakang dan bawahnya, dan m. brachialis berorigo dari tulang tepat di bawahnya."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "greater-tubercle",
+    "kind": "landmark",
+    "la": "Tuberculum majus",
+    "alt": ["Tuberculum majus humeri"],
+    "en": "Greater tubercle",
+    "desc": {
+      "en": "Large projection on the lateral side of the upper humerus; it is the most lateral bony point of the shoulder and can be felt below the acromion. Its upper and posterior surface has three facets.",
+      "id": "Tonjolan besar di sisi lateral ujung atas humerus; merupakan titik tulang paling lateral di bahu dan dapat diraba di bawah acromion. Permukaan atas dan belakangnya memiliki tiga faset."
+    },
+    "facts": {
+      "bone": "humerus",
+      "attach": {
+        "en": "Superior facet: M. supraspinatus. Middle facet: M. infraspinatus. Inferior facet: M. teres minor. Lig. coracohumerale also attaches here.",
+        "id": "Faset superior: m. supraspinatus. Faset tengah: m. infraspinatus. Faset inferior: m. teres minor. Lig. coracohumerale juga melekat di sini."
+      },
+      "clinical": {
+        "en": "Rotator cuff tears usually begin near the supraspinatus insertion. The tubercle may be avulsed in an anterior dislocation of the shoulder.",
+        "id": "Robekan rotator cuff biasanya dimulai dekat insersio m. supraspinatus. Tuberculum ini dapat terlepas (avulsi) pada dislokasi bahu ke anterior."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "groove-for-ulnar-nerve",
+    "kind": "landmark",
+    "la": "Sulcus nervi ulnaris",
+    "alt": ["Sulcus nervi ulnaris humeri", "Sulcus n. ulnaris"],
+    "en": "Groove for ulnar nerve",
+    "desc": {
+      "en": "Shallow groove on the posterior surface of the medial epicondyle.",
+      "id": "Alur dangkal pada permukaan posterior epicondylus medialis."
+    },
+    "facts": {
+      "bone": "humerus",
+      "clinical": {
+        "en": "The ulnar nerve lies here directly on bone just under the skin. A knock here gives the tingling of the 'funny bone', and fractures of the medial epicondyle can injure the nerve.",
+        "id": "N. ulnaris terletak di sini langsung di atas tulang, tepat di bawah kulit. Benturan di tempat ini menimbulkan rasa kesemutan khas ('funny bone'), dan fraktur epicondylus medialis dapat mencederai saraf ini."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "head-of-humerus",
+    "kind": "landmark",
+    "la": "Caput humeri",
+    "alt": [],
+    "en": "Head of humerus",
+    "desc": {
+      "en": "Smooth, nearly hemispherical articular head facing medially, upward and backward. It articulates with the much smaller glenoid cavity at the glenohumeral joint.",
+      "id": "Kepala sendi yang licin dan hampir setengah bola, menghadap ke medial, atas dan belakang. Bersendi dengan cavitas glenoidalis yang jauh lebih kecil pada sendi glenohumeralis."
+    },
+    "facts": {
+      "bone": "humerus",
+      "attach": {
+        "en": "Covered by hyaline cartilage; the joint capsule attaches around it at the anatomical neck.",
+        "id": "Dilapisi kartilago hialin; capsula articularis melekat di sekelilingnya pada collum anatomicum."
+      },
+      "clinical": {
+        "en": "In the common anterior dislocation the head comes to lie in front of the glenoid cavity, below the coracoid process.",
+        "id": "Pada dislokasi anterior yang sering terjadi, caput humeri berpindah ke depan cavitas glenoidalis, di bawah processus coracoideus."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "intertubercular-sulcus",
+    "kind": "landmark",
+    "la": "Sulcus intertubercularis",
+    "alt": ["Sulcus intertubercularis humeri", "Sulcus bicipitalis"],
+    "en": "Intertubercular sulcus (bicipital groove)",
+    "desc": {
+      "en": "Groove between the greater and lesser tubercles. It carries the tendon of the long head of biceps brachii in its synovial sheath, held in place by the transverse humeral ligament.",
+      "id": "Alur di antara tuberculum majus dan tuberculum minus. Alur ini dilalui tendo caput longum m. biceps brachii beserta selubung sinovialnya, yang ditahan oleh lig. transversum humeri."
+    },
+    "facts": {
+      "bone": "humerus",
+      "attach": {
+        "en": "Lateral lip: M. pectoralis major. Medial lip: M. teres major. Floor: M. latissimus dorsi.",
+        "id": "Bibir lateral: m. pectoralis major. Bibir medial: m. teres major. Dasar: m. latissimus dorsi."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "lateral-border-of-humerus",
+    "kind": "landmark",
+    "la": "Margo lateralis",
+    "alt": ["Margo lateralis humeri"],
+    "en": "Lateral border of humerus",
+    "desc": {
+      "en": "Border on the lateral side of the shaft, indistinct above and sharp below, where it forms the lateral supracondylar ridge. The radial groove interrupts it.",
+      "id": "Tepi di sisi lateral corpus humeri, samar di bagian atas dan tajam di bagian bawah, tempat ia membentuk crista supracondylaris lateralis. Sulcus nervi radialis memotong tepi ini."
+    },
+    "facts": {
+      "bone": "humerus",
+      "attach": {
+        "en": "Lateral intermuscular septum of the arm; lateral head of M. triceps brachii above the radial groove; M. brachioradialis and M. extensor carpi radialis longus on its supracondylar part.",
+        "id": "Septum intermusculare brachii laterale; caput laterale m. triceps brachii di atas sulcus nervi radialis; m. brachioradialis dan m. extensor carpi radialis longus pada bagian suprakondilernya."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "lateral-epicondyle-of-humerus",
+    "kind": "landmark",
+    "la": "Epicondylus lateralis",
+    "alt": ["Epicondylus lateralis humeri"],
+    "en": "Lateral epicondyle of humerus",
+    "desc": {
+      "en": "The smaller, lateral projection of the distal humerus, easily felt at the outer side of the elbow.",
+      "id": "Tonjolan lateral ujung distal humerus yang lebih kecil, mudah diraba di sisi luar siku."
+    },
+    "facts": {
+      "bone": "humerus",
+      "attach": {
+        "en": "Common extensor origin: M. extensor carpi radialis brevis, M. extensor digitorum, M. extensor digiti minimi and M. extensor carpi ulnaris. Also M. supinator, M. anconeus and Lig. collaterale radiale.",
+        "id": "Origo bersama otot ekstensor: m. extensor carpi radialis brevis, m. extensor digitorum, m. extensor digiti minimi dan m. extensor carpi ulnaris. Juga m. supinator, m. anconeus dan lig. collaterale radiale."
+      },
+      "clinical": {
+        "en": "Lateral epicondylitis (tennis elbow) is degeneration of the common extensor origin, mainly of extensor carpi radialis brevis.",
+        "id": "Epikondilitis lateral (tennis elbow) adalah degenerasi origo bersama otot ekstensor, terutama m. extensor carpi radialis brevis."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "lateral-supracondylar-ridge",
+    "kind": "landmark",
+    "la": "Crista supracondylaris lateralis",
+    "alt": ["Crista supracondylaris lateralis humeri"],
+    "en": "Lateral supracondylar ridge",
+    "desc": {
+      "en": "Sharp lower part of the lateral border of the humerus, just above the lateral epicondyle.",
+      "id": "Bagian bawah margo lateralis humeri yang tajam, tepat di atas epicondylus lateralis."
+    },
+    "facts": {
+      "bone": "humerus",
+      "attach": {
+        "en": "M. brachioradialis (upper two-thirds), M. extensor carpi radialis longus (lower third) and the lateral intermuscular septum.",
+        "id": "M. brachioradialis (dua pertiga atas), m. extensor carpi radialis longus (sepertiga bawah) dan septum intermusculare brachii laterale."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "lesser-tubercle",
+    "kind": "landmark",
+    "la": "Tuberculum minus",
+    "alt": ["Tuberculum minus humeri"],
+    "en": "Lesser tubercle",
+    "desc": {
+      "en": "Smaller projection on the front of the upper humerus, medial to the intertubercular sulcus.",
+      "id": "Tonjolan yang lebih kecil di bagian depan ujung atas humerus, di medial sulcus intertubercularis."
+    },
+    "facts": {
+      "bone": "humerus",
+      "attach": {
+        "en": "Insertion of M. subscapularis; Lig. transversum humeri spans from it to the greater tubercle.",
+        "id": "Insersio m. subscapularis; lig. transversum humeri membentang dari sini ke tuberculum majus."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "medial-border-of-humerus",
+    "kind": "landmark",
+    "la": "Margo medialis",
+    "alt": ["Margo medialis humeri"],
+    "en": "Medial border of humerus",
+    "desc": {
+      "en": "Border on the medial side of the shaft. Its upper part carries the crest of the lesser tubercle, and below it becomes the medial supracondylar ridge.",
+      "id": "Tepi di sisi medial corpus humeri. Bagian atasnya membawa crista tuberculi minoris, dan di bawah menjadi crista supracondylaris medialis."
+    },
+    "facts": {
+      "bone": "humerus",
+      "attach": {
+        "en": "Medial intermuscular septum of the arm; M. coracobrachialis inserts near its middle.",
+        "id": "Septum intermusculare brachii mediale; m. coracobrachialis berinsersio di sekitar pertengahannya."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "medial-epicondyle-of-humerus",
+    "kind": "landmark",
+    "la": "Epicondylus medialis",
+    "alt": ["Epicondylus medialis humeri"],
+    "en": "Medial epicondyle of humerus",
+    "desc": {
+      "en": "Prominent medial projection of the distal humerus, easily felt at the inner side of the elbow. The ulnar nerve runs in a groove behind it.",
+      "id": "Tonjolan medial ujung distal humerus yang menonjol, mudah diraba di sisi dalam siku. N. ulnaris berjalan di alur di belakangnya."
+    },
+    "facts": {
+      "bone": "humerus",
+      "attach": {
+        "en": "Common flexor origin: humeral head of M. pronator teres, M. flexor carpi radialis, M. palmaris longus, humero-ulnar head of M. flexor digitorum superficialis and humeral head of M. flexor carpi ulnaris. Also Lig. collaterale ulnare.",
+        "id": "Origo bersama otot fleksor: caput humerale m. pronator teres, m. flexor carpi radialis, m. palmaris longus, caput humeroulnare m. flexor digitorum superficialis dan caput humerale m. flexor carpi ulnaris. Juga lig. collaterale ulnare."
+      },
+      "clinical": {
+        "en": "Medial epicondylitis (golfer's elbow) affects the common flexor origin. Avulsion of the epicondyle in children can injure the ulnar nerve.",
+        "id": "Epikondilitis medial (golfer's elbow) mengenai origo bersama otot fleksor. Avulsi epicondylus pada anak dapat mencederai n. ulnaris."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "medial-supracondylar-ridge",
+    "kind": "landmark",
+    "la": "Crista supracondylaris medialis",
+    "alt": ["Crista supracondylaris medialis humeri"],
+    "en": "Medial supracondylar ridge",
+    "desc": {
+      "en": "Lower, sharper part of the medial border, just above the medial epicondyle.",
+      "id": "Bagian bawah margo medialis yang lebih tajam, tepat di atas epicondylus medialis."
+    },
+    "facts": {
+      "bone": "humerus",
+      "attach": {
+        "en": "Medial intermuscular septum; the humeral head of M. pronator teres arises from its lowest part.",
+        "id": "Septum intermusculare brachii mediale; caput humerale m. pronator teres berorigo dari bagian paling bawahnya."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "olecranon-fossa",
+    "kind": "landmark",
+    "la": "Fossa olecrani",
+    "alt": ["Fossa olecrani humeri"],
+    "en": "Olecranon fossa",
+    "desc": {
+      "en": "Deep hollow on the posterior surface just above the trochlea. It receives the olecranon of the ulna when the elbow is fully extended.",
+      "id": "Cekungan dalam pada permukaan posterior tepat di atas trochlea. Menerima olecranon ulnae saat siku ekstensi penuh."
+    },
+    "facts": {
+      "bone": "humerus",
+      "attach": {
+        "en": "The posterior part of the elbow capsule attaches around it; a fat pad fills the fossa.",
+        "id": "Bagian posterior capsula articularis cubiti melekat di sekelilingnya; fossa ini diisi bantalan lemak."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "posterior-surface-of-humerus",
+    "kind": "landmark",
+    "la": "Facies posterior",
+    "alt": ["Facies posterior humeri"],
+    "en": "Posterior surface of humerus",
+    "desc": {
+      "en": "Posterior surface of the shaft, crossed obliquely by the radial groove.",
+      "id": "Permukaan posterior corpus humeri yang disilang miring oleh sulcus nervi radialis."
+    },
+    "facts": {
+      "bone": "humerus",
+      "attach": {
+        "en": "Lateral head of M. triceps brachii above the radial groove, medial head below it.",
+        "id": "Caput laterale m. triceps brachii di atas sulcus nervi radialis, caput mediale di bawahnya."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "radial-fossa",
+    "kind": "landmark",
+    "la": "Fossa radialis",
+    "alt": ["Fossa radialis humeri"],
+    "en": "Radial fossa",
+    "desc": {
+      "en": "Shallow depression above the capitulum, lateral to the coronoid fossa. It receives the edge of the head of the radius when the elbow is fully flexed.",
+      "id": "Cekungan dangkal di atas capitulum humeri, lateral dari fossa coronoidea. Menerima tepi caput radii saat siku fleksi penuh."
+    },
+    "facts": {
+      "bone": "humerus"
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "radial-groove",
+    "kind": "landmark",
+    "la": "Sulcus nervi radialis",
+    "alt": ["Sulcus nervi radialis humeri", "Sulcus radialis", "Sulcus spiralis"],
+    "en": "Radial (spiral) groove",
+    "desc": {
+      "en": "Shallow groove running obliquely downward and laterally across the posterior surface of the shaft, behind the deltoid tuberosity. It carries the radial nerve and the deep artery of the arm (A. profunda brachii).",
+      "id": "Alur dangkal yang berjalan miring ke bawah dan ke lateral melintasi permukaan posterior corpus humeri, di belakang tuberositas deltoidea. Dilalui n. radialis dan a. profunda brachii."
+    },
+    "facts": {
+      "bone": "humerus",
+      "attach": {
+        "en": "It separates the origins of the lateral head (above) and the medial head (below) of M. triceps brachii.",
+        "id": "Memisahkan origo caput laterale (di atas) dan caput mediale (di bawah) m. triceps brachii."
+      },
+      "clinical": {
+        "en": "A midshaft fracture can injure the radial nerve here: the wrist and fingers cannot be extended (wrist drop). Triceps is usually only weakened because most of its branches leave higher up.",
+        "id": "Fraktur pertengahan corpus dapat mencederai n. radialis di sini sehingga pergelangan tangan dan jari tidak dapat diekstensikan (wrist drop). M. triceps biasanya hanya melemah karena sebagian besar cabangnya keluar lebih tinggi."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "surgical-neck-of-humerus",
+    "kind": "landmark",
+    "la": "Collum chirurgicum",
+    "alt": ["Collum chirurgicum humeri"],
+    "en": "Surgical neck of humerus",
+    "desc": {
+      "en": "The narrowed part just below the tubercles, where the upper end joins the shaft. It is a common fracture site in older people.",
+      "id": "Bagian yang menyempit tepat di bawah kedua tuberculum, tempat ujung atas bersambung dengan corpus humeri. Lokasi fraktur yang sering pada orang tua."
+    },
+    "facts": {
+      "bone": "humerus",
+      "clinical": {
+        "en": "The axillary nerve and the posterior circumflex humeral vessels wind around it. A fracture can paralyse deltoid and teres minor and leave numbness over the lower part of the deltoid (regimental badge area).",
+        "id": "N. axillaris dan vasa circumflexa humeri posteriora melingkari bagian ini. Fraktur di sini dapat melumpuhkan m. deltoideus dan m. teres minor serta menimbulkan baal di kulit bagian bawah m. deltoideus (regimental badge area)."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  },
+  {
+    "key": "trochlea-of-humerus",
+    "kind": "landmark",
+    "la": "Trochlea humeri",
+    "alt": [],
+    "en": "Trochlea of humerus",
+    "desc": {
+      "en": "Spool-shaped medial part of the humeral condyle. It articulates with the trochlear notch of the ulna at the humero-ulnar joint.",
+      "id": "Bagian medial condylus humeri yang berbentuk katrol. Bersendi dengan incisura trochlearis ulnae pada sendi humeroulnaris."
+    },
+    "facts": {
+      "bone": "humerus",
+      "note": {
+        "en": "Its medial lip projects lower than the lateral lip, which contributes to the carrying angle of the extended elbow.",
+        "id": "Bibir medialnya menonjol lebih rendah daripada bibir lateral, sehingga ikut membentuk carrying angle saat siku ekstensi."
+      }
+    },
+    "quiz": {"bone": ["Humerus", "Os humerus"]}
+  }
+]

@@ -1,0 +1,804 @@
+[
+  {
+    "key": "thyrohyoid-membrane",
+    "kind": "membrane",
+    "model": false,
+    "la": "Membrana thyrohyoidea",
+    "alt": ["Membrana thyreohyoidea", "Membrana hyothyroidea"],
+    "en": "Thyrohyoid membrane",
+    "desc": {
+      "en": "Broad fibroelastic sheet that hangs the larynx from the hyoid bone, running from the upper border of the thyroid cartilage to the hyoid. It is thickened in the midline as the lig. thyrohyoideum medianum and along its posterior free edges as the lig. thyrohyoideum laterale on each side.",
+      "id": "Lembaran fibroelastis lebar yang menggantungkan larynx pada os hyoideum, dari tepi atas cartilago thyroidea ke os hyoideum. Di garis tengah menebal menjadi lig. thyrohyoideum medianum, dan pada tepi bebas posteriornya menebal menjadi lig. thyrohyoideum laterale di kiri dan kanan."
+    },
+    "facts": {
+      "attach": {
+        "en": "Below: upper border of the thyroid laminae and the front of the superior horns. Above: upper margin of the posterior surface of the hyoid body and the greater horns (a bursa separates it from the back of the hyoid body).",
+        "id": "Bawah: tepi atas lamina cartilaginis thyroideae dan sisi depan cornu superius. Atas: tepi atas permukaan posterior corpus ossis hyoidei dan cornu majus (dipisahkan dari permukaan belakang corpus oleh sebuah bursa)."
+      },
+      "function": {
+        "en": "Extrinsic ligament of the larynx. It is pierced on each side by the a. and v. laryngea superior and the internal branch of the superior laryngeal nerve.",
+        "id": "Ligamentum ekstrinsik larynx. Pada kedua sisinya ditembus oleh a. dan v. laryngea superior serta ramus internus n. laryngei superioris."
+      }
+    }
+  },
+  {
+    "key": "median-thyrohyoid-ligament",
+    "kind": "ligament",
+    "la": "Ligamentum thyrohyoideum medianum",
+    "alt": ["Lig. thyrohyoideum medianum", "Ligamentum thyreohyoideum medianum"],
+    "en": "Median thyrohyoid ligament",
+    "desc": {
+      "en": "Thick median part of the thyrohyoid membrane, running from the area of the superior thyroid notch up to the body of the hyoid bone.",
+      "id": "Bagian tengah membrana thyrohyoidea yang menebal, berjalan dari daerah incisura thyroidea superior ke corpus ossis hyoidei."
+    },
+    "facts": {
+      "attach": {
+        "en": "Superior thyroid notch region of the thyroid cartilage to the posterior upper border of the hyoid body.",
+        "id": "Daerah incisura thyroidea superior cartilaginis thyroideae sampai tepi atas posterior corpus ossis hyoidei."
+      },
+      "function": {
+        "en": "Extrinsic ligament; reinforces the thyrohyoid membrane in the midline.",
+        "id": "Ligamentum ekstrinsik; memperkuat membrana thyrohyoidea di garis tengah."
+      }
+    }
+  },
+  {
+    "key": "lateral-thyrohyoid-ligament",
+    "kind": "ligament",
+    "la": "Ligamentum thyrohyoideum laterale",
+    "alt": ["Lig. thyrohyoideum laterale", "Ligamentum thyreohyoideum laterale", "Ligamenta thyrohyoidea lateralia"],
+    "en": "Lateral thyrohyoid ligament",
+    "desc": {
+      "en": "Round cord formed by the thickened posterior free edge of the thyrohyoid membrane on each side. It joins the tip of the cornu majus ossis hyoidei to the tip of the cornu superius cartilaginis thyroideae and often contains a small cartilago triticea.",
+      "id": "Pita bulat yang terbentuk dari tepi bebas posterior membrana thyrohyoidea yang menebal di setiap sisi. Ligamentum ini menghubungkan ujung cornu majus ossis hyoidei dengan ujung cornu superius cartilaginis thyroideae dan sering berisi cartilago triticea kecil."
+    },
+    "facts": {
+      "attach": {
+        "en": "From the tip of the superior horn of the thyroid cartilage to the posterior end (tip) of the greater horn of the hyoid bone.",
+        "id": "Dari ujung cornu superius cartilaginis thyroideae ke ujung posterior cornu majus ossis hyoidei."
+      },
+      "function": {
+        "en": "Extrinsic ligament of the larynx; it is the answer when asked which ligament forms between the tip of the greater hyoid horn and the superior thyroid horn.",
+        "id": "Ligamentum ekstrinsik larynx; inilah ligamentum yang terbentuk di antara ujung cornu majus ossis hyoidei dan cornu superius cartilaginis thyroideae."
+      }
+    },
+    "quiz": {"attach": ["Cornu majus ossis hyoidei dan cornu superius cartilaginis thyroideae", "cornu majus ossis hyoidei - cornu superius cartilaginis thyroideae"]}
+  },
+  {
+    "key": "hyoepiglottic-ligament",
+    "kind": "ligament",
+    "model": false,
+    "la": "Ligamentum hyoepiglotticum",
+    "alt": ["Lig. hyoepiglotticum"],
+    "en": "Hyo-epiglottic ligament",
+    "desc": {
+      "en": "Short elastic band from the anterior surface of the epiglottis to the upper border of the hyoid body. It forms the floor of the valleculae epiglotticae under the mucosa.",
+      "id": "Pita elastis pendek dari permukaan anterior epiglottis ke tepi atas corpus ossis hyoidei. Ligamentum ini membentuk dasar valleculae epiglotticae di bawah mukosa."
+    },
+    "facts": {
+      "attach": {
+        "en": "Anterior surface of the epiglottis to the posterosuperior border of the hyoid body.",
+        "id": "Permukaan anterior epiglottis ke tepi posterosuperior corpus ossis hyoidei."
+      },
+      "function": {
+        "en": "Extrinsic ligament of the larynx; anchors the epiglottis to the hyoid.",
+        "id": "Ligamentum ekstrinsik larynx; menambatkan epiglottis ke os hyoideum."
+      }
+    }
+  },
+  {
+    "key": "thyroepiglottic-ligament",
+    "kind": "ligament",
+    "model": false,
+    "la": "Ligamentum thyroepiglotticum",
+    "alt": ["Lig. thyroepiglotticum", "Ligamentum thyreoepiglotticum"],
+    "en": "Thyro-epiglottic ligament",
+    "desc": {
+      "en": "Ligament that attaches the stalk (petiolus) of the epiglottis to the inner surface of the thyroid angle, just below the superior thyroid notch.",
+      "id": "Ligamentum yang melekatkan petiolus epiglottidis pada permukaan dalam sudut cartilago thyroidea, tepat di bawah incisura thyroidea superior."
+    },
+    "facts": {
+      "attach": {
+        "en": "Petiolus epiglottidis to the back of the thyroid angle.",
+        "id": "Petiolus epiglottidis ke permukaan belakang sudut cartilago thyroidea."
+      },
+      "function": {
+        "en": "Holds the lower end of the epiglottis inside the thyroid cartilage.",
+        "id": "Menahan ujung bawah epiglottis di dalam cartilago thyroidea."
+      }
+    }
+  },
+  {
+    "key": "cricotracheal-ligament",
+    "kind": "ligament",
+    "model": false,
+    "la": "Ligamentum cricotracheale",
+    "alt": ["Lig. cricotracheale"],
+    "en": "Cricotracheal ligament",
+    "desc": {
+      "en": "Fibrous band joining the lower border of the cricoid cartilage to the first tracheal ring.",
+      "id": "Pita fibrosa yang menghubungkan tepi bawah cartilago cricoidea dengan cincin trachea pertama."
+    },
+    "facts": {
+      "attach": {
+        "en": "Lower border of the cricoid cartilage to the upper border of the first tracheal cartilage.",
+        "id": "Tepi bawah cartilago cricoidea ke tepi atas cartilago trachealis pertama."
+      },
+      "function": {
+        "en": "Extrinsic ligament of the larynx; links the larynx to the trachea.",
+        "id": "Ligamentum ekstrinsik larynx; menghubungkan larynx dengan trachea."
+      }
+    }
+  },
+  {
+    "key": "quadrangular-membrane",
+    "kind": "membrane",
+    "la": "Membrana quadrangularis",
+    "alt": [],
+    "en": "Quadrangular membrane",
+    "desc": {
+      "en": "Thin submucosal sheet, the upper part of the membrana fibroelastica laryngis, stretching from the side of the epiglottis to the arytenoid and corniculate cartilages. Its upper free edge lies in the aryepiglottic fold and its lower free edge thickens into the lig. vestibulare.",
+      "id": "Lembaran tipis di bawah mukosa, bagian atas membrana fibroelastica laryngis, yang terbentang dari tepi epiglottis ke cartilago arytenoidea dan corniculata. Tepi bebas atasnya berada di plica aryepiglottica dan tepi bebas bawahnya menebal menjadi lig. vestibulare."
+    },
+    "facts": {
+      "attach": {
+        "en": "Lateral margin of the epiglottis and the thyroid angle in front; anterolateral surface of the arytenoid and the corniculate cartilage behind.",
+        "id": "Tepi lateral epiglottis dan sudut cartilago thyroidea di depan; facies anterolateralis arytenoidea dan cartilago corniculata di belakang."
+      },
+      "function": {
+        "en": "Intrinsic ligament that supports the wall of the laryngeal vestibule.",
+        "id": "Ligamentum intrinsik yang menyokong dinding vestibulum laryngis."
+      }
+    }
+  },
+  {
+    "key": "vestibular-ligament",
+    "kind": "ligament",
+    "model": false,
+    "la": "Ligamentum vestibulare",
+    "alt": ["Lig. vestibulare", "Ligamentum ventriculare"],
+    "en": "Vestibular ligament",
+    "desc": {
+      "en": "Thickened lower free edge of the quadrangular membrane, running from the thyroid angle to the anterolateral surface of the arytenoid just above the vocal process. It forms the core of the vestibular (false) fold.",
+      "id": "Tepi bebas bawah membrana quadrangularis yang menebal, dari sudut cartilago thyroidea ke facies anterolateralis arytenoidea tepat di atas processus vocalis. Ligamentum ini menjadi inti plica vestibularis."
+    },
+    "facts": {
+      "attach": {
+        "en": "Inner surface of the thyroid angle (above the vocal ligament) to the arytenoid cartilage above the vocal process.",
+        "id": "Permukaan dalam sudut cartilago thyroidea (di atas lig. vocale) ke cartilago arytenoidea di atas processus vocalis."
+      },
+      "function": {
+        "en": "Intrinsic ligament; supports the plica vestibularis.",
+        "id": "Ligamentum intrinsik; menopang plica vestibularis."
+      }
+    }
+  },
+  {
+    "key": "conus-elasticus",
+    "kind": "membrane",
+    "model": false,
+    "la": "Conus elasticus",
+    "alt": ["Membrana cricovocalis", "Conus elasticus laryngis", "Ligamentum cricothyroideum"],
+    "en": "Conus elasticus (cricovocal membrane)",
+    "desc": {
+      "en": "Lower part of the membrana fibroelastica laryngis, rising from the upper border of the cricoid arch and narrowing upward like a cone. Its upper free edge is the lig. vocale on each side, and its thick anterior part is the lig. cricothyroideum medianum.",
+      "id": "Bagian bawah membrana fibroelastica laryngis yang berasal dari tepi atas arcus cartilaginis cricoideae dan menyempit ke atas seperti kerucut. Tepi bebas atasnya membentuk lig. vocale di kiri dan kanan, dan bagian depannya yang tebal adalah lig. cricothyroideum medianum."
+    },
+    "facts": {
+      "attach": {
+        "en": "Below: upper border of the cricoid arch. Above: inner surface of the thyroid angle in front and the vocal processes of the arytenoids behind.",
+        "id": "Bawah: tepi atas arcus cartilaginis cricoideae. Atas: permukaan dalam sudut cartilago thyroidea di depan dan processus vocalis arytenoidea di belakang."
+      },
+      "function": {
+        "en": "Intrinsic ligament; forms the wall of the infraglottic cavity and the framework of the vocal folds.",
+        "id": "Ligamentum intrinsik; membentuk dinding cavitas infraglottica dan kerangka plica vocalis."
+      }
+    }
+  },
+  {
+    "key": "median-cricothyroid-ligament",
+    "kind": "ligament",
+    "la": "Ligamentum cricothyroideum medianum",
+    "alt": ["Lig. cricothyroideum medianum", "Ligamentum cricothyreoideum medianum", "Ligamentum conicum"],
+    "en": "Median cricothyroid ligament",
+    "desc": {
+      "en": "Thick anterior part of the conus elasticus, running between the cricoid arch and the lower border of the thyroid cartilage in the midline. It can be felt as a soft gap between the two cartilages and is the site of an emergency cricothyrotomy.",
+      "id": "Bagian depan conus elasticus yang tebal, terbentang di garis tengah antara arcus cartilaginis cricoideae dan tepi bawah cartilago thyroidea. Ligamentum ini teraba sebagai celah lunak di antara kedua kartilago dan menjadi tempat krikotirotomi darurat."
+    },
+    "facts": {
+      "attach": {
+        "en": "Upper border of the cricoid arch to the lower border of the thyroid cartilage (inferior thyroid notch area).",
+        "id": "Tepi atas arcus cartilaginis cricoideae ke tepi bawah cartilago thyroidea (daerah incisura thyroidea inferior)."
+      },
+      "function": {
+        "en": "Intrinsic ligament that closes the anterior gap between the thyroid and cricoid cartilages.",
+        "id": "Ligamentum intrinsik yang menutup celah depan antara cartilago thyroidea dan cricoidea."
+      },
+      "clinical": {
+        "en": "Cricothyrotomy is done through this ligament because it lies just under the skin with few vessels in front of it.",
+        "id": "Krikotirotomi dilakukan melalui ligamentum ini karena letaknya tepat di bawah kulit dengan sedikit pembuluh darah di depannya."
+      }
+    }
+  },
+  {
+    "key": "vocal-ligament",
+    "kind": "ligament",
+    "model": false,
+    "la": "Ligamentum vocale",
+    "alt": ["Lig. vocale", "Ligamenta vocalia"],
+    "en": "Vocal ligament",
+    "desc": {
+      "en": "Thickened upper free edge of the conus elasticus, made of elastic tissue, running from the inner surface of the thyroid angle to the vocal process of the arytenoid. It forms the core of the vocal fold.",
+      "id": "Tepi bebas atas conus elasticus yang menebal, tersusun atas jaringan elastis, dari permukaan dalam sudut cartilago thyroidea ke processus vocalis cartilaginis arytenoideae. Ligamentum ini menjadi inti plica vocalis."
+    },
+    "facts": {
+      "attach": {
+        "en": "Inner surface of the thyroid angle (below the vestibular ligament) to the processus vocalis.",
+        "id": "Permukaan dalam sudut cartilago thyroidea (di bawah lig. vestibulare) ke processus vocalis."
+      },
+      "function": {
+        "en": "Its length and tension, set by the cricothyroid, thyroarytenoid and vocalis muscles, determine the pitch of the voice.",
+        "id": "Panjang dan tegangannya, yang diatur oleh m. cricothyroideus, m. thyroarytenoideus dan m. vocalis, menentukan tinggi nada suara."
+      }
+    }
+  },
+  {
+    "key": "cricopharyngeal-ligament",
+    "kind": "ligament",
+    "la": "Ligamentum cricopharyngeum",
+    "alt": ["Lig. cricopharyngeum"],
+    "en": "Cricopharyngeal ligament",
+    "desc": {
+      "en": "Small band running from the corniculate cartilage down to the posterior surface of the cricoid lamina, blending with the pharyngeal mucosa.",
+      "id": "Pita kecil yang berjalan dari cartilago corniculata ke bawah menuju permukaan posterior lamina cartilaginis cricoideae dan menyatu dengan mukosa pharynx."
+    },
+    "facts": {
+      "joint": "crico-arytenoid-joint",
+      "attach": {
+        "en": "Corniculate cartilage to the back of the cricoid lamina and the adjacent pharyngeal mucosa.",
+        "id": "Cartilago corniculata ke permukaan belakang lamina cartilaginis cricoideae dan mukosa pharynx di sekitarnya."
+      },
+      "function": {
+        "en": "Ties the corniculate and arytenoid cartilages to the cricoid behind the crico-arytenoid joint.",
+        "id": "Mengikat cartilago corniculata dan arytenoidea ke cricoidea di belakang articulatio cricoarytenoidea."
+      }
+    }
+  },
+  {
+    "key": "cricoarytenoid-ligament",
+    "kind": "ligament",
+    "model": false,
+    "la": "Ligamentum cricoarytenoideum",
+    "alt": ["Lig. cricoarytenoideum", "Ligamentum cricoarytenoideum posterius"],
+    "en": "Crico-arytenoid ligament",
+    "desc": {
+      "en": "Capsular ligament on the medial and posterior side of the crico-arytenoid joint, running from the cricoid lamina to the base of the arytenoid. It limits forward gliding of the arytenoid.",
+      "id": "Ligamentum kapsular di sisi medial dan posterior articulatio cricoarytenoidea, dari lamina cartilaginis cricoideae ke basis arytenoidea. Ligamentum ini membatasi luncuran arytenoid ke depan."
+    },
+    "facts": {
+      "joint": "crico-arytenoid-joint",
+      "attach": {
+        "en": "Upper border of the cricoid lamina to the medial and posterior base of the arytenoid.",
+        "id": "Tepi atas lamina cartilaginis cricoideae ke basis arytenoid bagian medial dan posterior."
+      },
+      "function": {
+        "en": "Main check ligament of the crico-arytenoid joint.",
+        "id": "Ligamentum penahan utama articulatio cricoarytenoidea."
+      }
+    }
+  },
+  {
+    "key": "ceratocricoid-ligament",
+    "kind": "ligament",
+    "model": false,
+    "la": "Ligamentum ceratocricoideum",
+    "alt": ["Lig. ceratocricoideum"],
+    "en": "Ceratocricoid ligament",
+    "desc": {
+      "en": "Capsular ligament of the cricothyroid joint, running from the inferior horn of the thyroid cartilage to the cricoid.",
+      "id": "Ligamentum kapsular articulatio cricothyroidea, dari cornu inferius cartilaginis thyroideae ke cartilago cricoidea."
+    },
+    "facts": {
+      "joint": "cricothyroid-joint",
+      "attach": {
+        "en": "Inferior horn of the thyroid cartilage to the side of the cricoid around the thyroid articular facet.",
+        "id": "Cornu inferius cartilaginis thyroideae ke sisi cricoid di sekitar facies articularis thyroidea."
+      },
+      "function": {
+        "en": "Strengthens the capsule of the cricothyroid joint.",
+        "id": "Memperkuat capsula articulatio cricothyroidea."
+      }
+    }
+  },
+  {
+    "key": "stylohyoid-ligament",
+    "kind": "ligament",
+    "la": "Ligamentum stylohyoideum",
+    "alt": ["Lig. stylohyoideum"],
+    "en": "Stylohyoid ligament",
+    "desc": {
+      "en": "Fibrous cord from the tip of the styloid process of the temporal bone to the lesser horn of the hyoid. It is a remnant of the cartilage of the second pharyngeal arch and helps suspend the hyoid.",
+      "id": "Pita fibrosa dari ujung processus styloideus ossis temporalis ke cornu minus ossis hyoidei. Ligamentum ini adalah sisa kartilago arcus pharyngeus kedua dan ikut menggantung os hyoideum."
+    },
+    "facts": {
+      "attach": {
+        "en": "Apex of the processus styloideus to the cornu minus ossis hyoidei.",
+        "id": "Apex processus styloidei ke cornu minus ossis hyoidei."
+      },
+      "function": {
+        "en": "Suspends the hyoid bone from the skull.",
+        "id": "Menggantungkan os hyoideum pada cranium."
+      },
+      "clinical": {
+        "en": "When it calcifies, the elongated styloid complex can cause throat and neck pain on swallowing or turning the head (Eagle syndrome).",
+        "id": "Bila mengalami kalsifikasi, kompleks styloid yang memanjang dapat menimbulkan nyeri tenggorok dan leher saat menelan atau memutar kepala (sindrom Eagle)."
+      }
+    }
+  },
+  {
+    "key": "cricothyroid-joint",
+    "kind": "joint",
+    "model": false,
+    "verify": true,
+    "la": "Articulatio cricothyroidea",
+    "alt": ["Art. cricothyroidea", "Articulatio cricothyreoidea"],
+    "en": "Cricothyroid joint",
+    "desc": {
+      "en": "Paired synovial joint between the inferior horn of the thyroid cartilage and the facies articularis thyroidea on the side of the cricoid. The thyroid and cricoid rock on each other around a transverse axis through both joints, which lengthens or shortens the vocal ligaments.",
+      "id": "Sendi sinovial berpasangan antara cornu inferius cartilaginis thyroideae dan facies articularis thyroidea di sisi cartilago cricoidea. Cartilago thyroidea dan cricoidea saling mengungkit di sekitar sumbu transversal yang melalui kedua sendi, sehingga lig. vocale memanjang atau memendek."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "complexity": "Articulatio simplex",
+      "surfaces": "Cornu inferius cartilaginis thyroideae; facies articularis thyroidea cartilaginis cricoideae",
+      "movements": {
+        "en": "Rotation (tilting) about a transverse axis through both joints, with slight gliding forward and backward. The m. cricothyroideus is the main mover.",
+        "id": "Rotasi (mengungkit) di sekitar sumbu transversal yang melalui kedua sendi, disertai sedikit gerak meluncur ke depan dan belakang. Penggerak utamanya m. cricothyroideus."
+      },
+      "ligaments": ["Ligamentum ceratocricoideum", "Capsula articularis cricothyroidea"],
+      "note": {
+        "en": "All references agree it is synovial, but they classify its shape differently (plane, hinge or ellipsoid), so the subtype is left open here.",
+        "id": "Semua referensi sepakat sendi ini sinovial, tetapi bentuknya digolongkan berbeda-beda (plana, ginglymus atau ellipsoidea), sehingga subtipe tidak dicantumkan di sini."
+      }
+    },
+    "quiz": {"class": ["Articulatio synovialis", "synovialis", "sinovial"]}
+  },
+  {
+    "key": "crico-arytenoid-joint",
+    "kind": "joint",
+    "model": false,
+    "verify": true,
+    "la": "Articulatio cricoarytenoidea",
+    "alt": ["Art. cricoarytenoidea", "Articulatio cricoarytaenoidea"],
+    "en": "Crico-arytenoid joint",
+    "desc": {
+      "en": "Paired synovial joint between the base of the arytenoid and the facies articularis arytenoidea on the upper border of the cricoid lamina. Rotation and gliding of the arytenoids here open and close the rima glottidis.",
+      "id": "Sendi sinovial berpasangan antara basis cartilaginis arytenoideae dan facies articularis arytenoidea pada tepi atas lamina cartilaginis cricoideae. Gerakan rotasi dan meluncur arytenoid di sendi ini membuka dan menutup rima glottidis."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "complexity": "Articulatio simplex",
+      "surfaces": "Facies articularis cartilaginis arytenoideae; facies articularis arytenoidea laminae cartilaginis cricoideae",
+      "movements": {
+        "en": "Rotation of the arytenoid around a near-vertical axis (vocal process swings medially or laterally) and gliding of the arytenoids toward or away from each other, with some tilting. Medial rotation and gliding adduct the vocal folds; lateral rotation and gliding abduct them.",
+        "id": "Rotasi arytenoid di sekitar sumbu yang hampir vertikal (processus vocalis berayun ke medial atau lateral) dan gerak meluncur arytenoid saling mendekat atau menjauh, disertai sedikit gerak mengungkit. Rotasi dan luncuran ke medial menimbulkan adduksi plica vocalis; ke lateral menimbulkan abduksi."
+      },
+      "ligaments": ["Ligamentum cricoarytenoideum", "Ligamentum cricopharyngeum"],
+      "note": {
+        "en": "Textbooks agree it is synovial but describe its shape differently (saddle, ellipsoid or shallow ball-and-socket), so the subtype is left open here.",
+        "id": "Buku teks sepakat sendi ini sinovial tetapi menggambarkan bentuknya berbeda-beda (sellaris, ellipsoidea atau spheroidea dangkal), sehingga subtipe tidak dicantumkan di sini."
+      },
+      "clinical": {
+        "en": "Rheumatoid arthritis can involve this joint and fix the vocal folds, causing hoarseness and stridor.",
+        "id": "Artritis reumatoid dapat mengenai sendi ini dan membuat plica vocalis kaku, sehingga timbul suara serak dan stridor."
+      }
+    },
+    "quiz": {"class": ["Articulatio synovialis", "synovialis", "sinovial"]}
+  },
+  {
+    "key": "cricothyroid-muscle",
+    "kind": "muscle",
+    "model": false,
+    "la": "Musculus cricothyroideus",
+    "alt": ["M. cricothyroideus", "Musculus cricothyreoideus", "M. cricothyreoideus"],
+    "en": "Cricothyroid muscle",
+    "desc": {
+      "en": "The only intrinsic laryngeal muscle on the outside of the larynx, a fan-shaped muscle between the cricoid arch and the thyroid cartilage with a pars recta and a pars obliqua. It tilts the thyroid forward on the cricoid, stretching and tensing the vocal ligaments to raise the pitch, and is the only intrinsic muscle supplied by the external branch of the superior laryngeal nerve.",
+      "id": "Satu-satunya otot intrinsik larynx yang terletak di permukaan luar larynx, berbentuk kipas antara arcus cartilaginis cricoideae dan cartilago thyroidea, dengan pars recta dan pars obliqua. Otot ini mengungkit cartilago thyroidea ke depan terhadap cricoidea sehingga lig. vocale meregang dan menegang (nada suara naik), dan merupakan satu-satunya otot intrinsik yang dipersarafi ramus externus n. laryngei superioris."
+    },
+    "facts": {
+      "group": {"en": "Intrinsic muscles of the larynx (external group)", "id": "Otot intrinsik larynx (letak di luar)"},
+      "origin": {"la": "Facies anterolateralis arcus cartilaginis cricoideae", "en": "Anterolateral surface of the cricoid arch"},
+      "insertion": {"la": "Margo inferior laminae et cornu inferius cartilaginis thyroideae", "en": "Lower border of the thyroid lamina (pars recta) and anterior border of the inferior horn (pars obliqua)"},
+      "action": {
+        "en": "Tilts the thyroid cartilage forward and down on the cricoid (or raises the cricoid arch), increasing the distance between the thyroid angle and the vocal processes; lengthens and tenses the vocal ligaments and raises pitch.",
+        "id": "Mengungkit cartilago thyroidea ke depan bawah terhadap cricoidea (atau mengangkat arcus cricoideus), menambah jarak antara sudut thyroidea dan processus vocalis; memanjangkan dan menegangkan lig. vocale sehingga nada suara naik."
+      },
+      "nerve": {"la": "Ramus externus nervi laryngei superioris", "roots": "CN X"},
+      "blood": ["Ramus cricothyroideus arteriae thyroideae superioris"],
+      "parts": ["straight-part-of-cricothyroid-muscle", "oblique-part-of-cricothyroid-muscle"],
+      "clinical": {
+        "en": "The external laryngeal nerve runs with the superior thyroid artery and can be cut when the artery is ligated in thyroidectomy; the voice becomes weak and monotonous and high notes are lost.",
+        "id": "Ramus externus n. laryngei superioris berjalan bersama a. thyroidea superior dan dapat terpotong saat arteri diikat pada tiroidektomi; suara menjadi lemah dan monoton, nada tinggi hilang."
+      }
+    },
+    "quiz": {
+      "origin": ["Arcus cartilaginis cricoideae", "facies anterolateralis arcus cartilaginis cricoideae", "cartilago cricoidea"],
+      "insertion": ["Margo inferior et cornu inferius cartilaginis thyroideae", "margo inferior cartilaginis thyroideae", "cornu inferius cartilaginis thyroideae", "cartilago thyroidea"],
+      "nerve": ["Ramus externus nervi laryngei superioris", "R. externus n. laryngei superioris", "N. laryngeus externus", "Nervus laryngeus superior"],
+      "action": ["tensio ligamenti vocalis", "menegangkan pita suara", "menegangkan lig. vocale", "menaikkan nada suara"]
+    }
+  },
+  {
+    "key": "straight-part-of-cricothyroid-muscle",
+    "kind": "muscle-part",
+    "la": "Pars recta musculi cricothyroidei",
+    "alt": ["Pars recta m. cricothyroidei", "Pars recta musculi cricothyreoidei", "Pars recta"],
+    "en": "Straight part of cricothyroid muscle",
+    "desc": {
+      "en": "Anterior, more vertical part of the cricothyroid muscle, running from the cricoid arch almost straight up to the lower border of the thyroid lamina.",
+      "id": "Bagian depan m. cricothyroideus yang lebih vertikal, berjalan dari arcus cartilaginis cricoideae hampir lurus ke atas menuju tepi bawah lamina cartilaginis thyroideae."
+    },
+    "facts": {
+      "muscle": "cricothyroid-muscle",
+      "origin": {"la": "Arcus cartilaginis cricoideae", "en": "Anterolateral cricoid arch"},
+      "insertion": {"la": "Margo inferior laminae cartilaginis thyroideae", "en": "Lower border of the thyroid lamina"}
+    }
+  },
+  {
+    "key": "oblique-part-of-cricothyroid-muscle",
+    "kind": "muscle-part",
+    "la": "Pars obliqua musculi cricothyroidei",
+    "alt": ["Pars obliqua m. cricothyroidei", "Pars obliqua musculi cricothyreoidei", "Pars obliqua"],
+    "en": "Oblique part of cricothyroid muscle",
+    "desc": {
+      "en": "Posterior part of the cricothyroid muscle whose fibres run backward and upward from the cricoid arch to the inferior horn of the thyroid cartilage.",
+      "id": "Bagian belakang m. cricothyroideus yang serabutnya berjalan ke belakang atas dari arcus cartilaginis cricoideae ke cornu inferius cartilaginis thyroideae."
+    },
+    "facts": {
+      "muscle": "cricothyroid-muscle",
+      "origin": {"la": "Arcus cartilaginis cricoideae", "en": "Lateral cricoid arch"},
+      "insertion": {"la": "Margo anterior cornus inferioris cartilaginis thyroideae", "en": "Anterior border of the inferior horn of the thyroid cartilage"}
+    }
+  },
+  {
+    "key": "posterior-crico-arytenoid-muscle",
+    "kind": "muscle",
+    "la": "Musculus cricoarytenoideus posterior",
+    "alt": ["M. cricoarytenoideus posterior", "Musculus cricoarytaenoideus posterior", "Musculus posticus", "M. posticus"],
+    "en": "Posterior crico-arytenoid muscle",
+    "desc": {
+      "en": "Paired muscle on the back of the cricoid lamina that inserts on the muscular process of the arytenoid. It is the only abductor of the vocal folds: it rotates the arytenoid laterally and opens the rima glottidis.",
+      "id": "Otot berpasangan di permukaan belakang lamina cartilaginis cricoideae yang berinsersio pada processus muscularis arytenoidea. Otot ini satu-satunya abduktor plica vocalis: memutar arytenoid ke lateral dan membuka rima glottidis."
+    },
+    "facts": {
+      "group": {"en": "Intrinsic muscles of the larynx", "id": "Otot intrinsik larynx"},
+      "origin": {"la": "Facies posterior laminae cartilaginis cricoideae", "en": "Posterior surface of the cricoid lamina"},
+      "insertion": {"la": "Processus muscularis cartilaginis arytenoideae", "en": "Muscular process of the arytenoid cartilage (posterior aspect)"},
+      "action": {
+        "en": "Pulls the muscular process backward, so the arytenoid rotates laterally and the vocal processes swing apart: abducts the vocal folds and widens the rima glottidis for breathing.",
+        "id": "Menarik processus muscularis ke belakang sehingga arytenoid berputar ke lateral dan processus vocalis saling menjauh: abduksi plica vocalis dan pelebaran rima glottidis untuk bernapas."
+      },
+      "nerve": {"la": "Nervus laryngeus recurrens (nervus laryngeus inferior)", "roots": "CN X"},
+      "blood": ["Arteria laryngea inferior", "Arteria laryngea superior"],
+      "clinical": {
+        "en": "If both posterior crico-arytenoids are paralysed (bilateral recurrent nerve injury), the vocal folds stay near the midline and the airway narrows, causing stridor.",
+        "id": "Bila kedua m. cricoarytenoideus posterior lumpuh (cedera n. laryngeus recurrens bilateral), plica vocalis tetap di dekat garis tengah sehingga jalan napas menyempit dan timbul stridor."
+      }
+    },
+    "quiz": {
+      "origin": ["Facies posterior laminae cartilaginis cricoideae", "lamina cartilaginis cricoideae", "lamina cricoidea"],
+      "insertion": ["Processus muscularis cartilaginis arytenoideae", "processus muscularis"],
+      "nerve": ["Nervus laryngeus recurrens", "N. laryngeus recurrens", "N. laryngeus inferior", "Nervus laryngeus inferior"],
+      "action": ["abductio plicae vocalis", "abduksi plica vocalis", "membuka rima glottidis", "abduksi pita suara"]
+    }
+  },
+  {
+    "key": "lateral-crico-arytenoid-muscle",
+    "kind": "muscle",
+    "la": "Musculus cricoarytenoideus lateralis",
+    "alt": ["M. cricoarytenoideus lateralis", "Musculus cricoarytaenoideus lateralis", "Musculus lateralis"],
+    "en": "Lateral crico-arytenoid muscle",
+    "desc": {
+      "en": "Paired muscle from the upper border of the cricoid arch to the front of the muscular process of the arytenoid. It rotates the arytenoid medially and is the main adductor of the vocal folds.",
+      "id": "Otot berpasangan dari tepi atas arcus cartilaginis cricoideae ke sisi depan processus muscularis arytenoidea. Otot ini memutar arytenoid ke medial dan merupakan adduktor utama plica vocalis."
+    },
+    "facts": {
+      "group": {"en": "Intrinsic muscles of the larynx", "id": "Otot intrinsik larynx"},
+      "origin": {"la": "Margo superior arcus cartilaginis cricoideae", "en": "Upper border of the lateral part of the cricoid arch"},
+      "insertion": {"la": "Processus muscularis cartilaginis arytenoideae", "en": "Muscular process of the arytenoid cartilage (anterior aspect)"},
+      "action": {
+        "en": "Pulls the muscular process forward, rotating the arytenoid medially so the vocal processes meet: adducts the vocal folds and closes the intermembranous part of the rima glottidis.",
+        "id": "Menarik processus muscularis ke depan sehingga arytenoid berputar ke medial dan processus vocalis saling mendekat: adduksi plica vocalis dan menutup pars intermembranacea rimae glottidis."
+      },
+      "nerve": {"la": "Nervus laryngeus recurrens (nervus laryngeus inferior)", "roots": "CN X"},
+      "blood": ["Arteria laryngea superior", "Arteria laryngea inferior"]
+    },
+    "quiz": {
+      "origin": ["Margo superior arcus cartilaginis cricoideae", "arcus cartilaginis cricoideae", "arcus cricoideus"],
+      "insertion": ["Processus muscularis cartilaginis arytenoideae", "processus muscularis"],
+      "nerve": ["Nervus laryngeus recurrens", "N. laryngeus recurrens", "N. laryngeus inferior", "Nervus laryngeus inferior"],
+      "action": ["adductio plicae vocalis", "adduksi plica vocalis", "menutup rima glottidis", "adduksi pita suara"]
+    }
+  },
+  {
+    "key": "transverse-arytenoid-muscle",
+    "kind": "muscle",
+    "la": "Musculus arytenoideus transversus",
+    "alt": ["M. arytenoideus transversus", "Musculus arytaenoideus transversus", "Musculus interarytenoideus"],
+    "en": "Transverse arytenoid muscle",
+    "desc": {
+      "en": "Single unpaired muscle stretched across the backs of the two arytenoid cartilages. It pulls the arytenoids together and closes the posterior, intercartilaginous part of the rima glottidis.",
+      "id": "Otot tunggal (tidak berpasangan) yang terbentang melintang di permukaan belakang kedua cartilago arytenoidea. Otot ini menarik kedua arytenoid saling mendekat dan menutup bagian belakang rima glottidis (pars intercartilaginea)."
+    },
+    "facts": {
+      "group": {"en": "Intrinsic muscles of the larynx", "id": "Otot intrinsik larynx"},
+      "origin": {"la": "Facies posterior et margo lateralis cartilaginis arytenoideae", "en": "Posterior surface and lateral border of one arytenoid cartilage"},
+      "insertion": {"la": "Facies posterior et margo lateralis cartilaginis arytenoideae contralateralis", "en": "Same surfaces of the opposite arytenoid cartilage"},
+      "action": {
+        "en": "Draws the arytenoids together (adducts them), closing the intercartilaginous part of the rima glottidis.",
+        "id": "Mendekatkan kedua arytenoid (adduksi), menutup pars intercartilaginea rimae glottidis."
+      },
+      "nerve": {"la": "Nervus laryngeus recurrens (nervus laryngeus inferior)", "roots": "CN X"},
+      "blood": ["Arteria laryngea inferior", "Arteria laryngea superior"]
+    },
+    "quiz": {
+      "origin": ["Facies posterior cartilaginis arytenoideae", "cartilago arytenoidea"],
+      "insertion": ["Facies posterior cartilaginis arytenoideae contralateralis", "cartilago arytenoidea sisi seberang", "cartilago arytenoidea contralateralis"],
+      "nerve": ["Nervus laryngeus recurrens", "N. laryngeus recurrens", "N. laryngeus inferior", "Nervus laryngeus inferior"],
+      "action": ["adductio cartilaginum arytenoidearum", "adduksi arytenoid", "menutup pars intercartilaginea rimae glottidis", "menutup rima glottidis bagian posterior"]
+    }
+  },
+  {
+    "key": "oblique-arytenoid-muscle",
+    "kind": "muscle",
+    "model": false,
+    "la": "Musculus arytenoideus obliquus",
+    "alt": ["M. arytenoideus obliquus", "Musculus arytaenoideus obliquus", "Mm. arytenoidei obliqui"],
+    "en": "Oblique arytenoid muscle",
+    "desc": {
+      "en": "Paired muscle that crosses its partner in an X on the back of the arytenoids, superficial to the transverse arytenoid. Some fibres continue into the aryepiglottic fold as the pars aryepiglottica, so the muscle closes the laryngeal inlet like a sphincter.",
+      "id": "Otot berpasangan yang menyilang pasangannya membentuk huruf X di permukaan belakang arytenoid, superfisial terhadap m. arytenoideus transversus. Sebagian serabutnya berlanjut ke plica aryepiglottica sebagai pars aryepiglottica, sehingga otot ini menutup aditus laryngis seperti sfingter."
+    },
+    "facts": {
+      "group": {"en": "Intrinsic muscles of the larynx (sphincter of the inlet)", "id": "Otot intrinsik larynx (sfingter aditus laryngis)"},
+      "origin": {"la": "Processus muscularis cartilaginis arytenoideae", "en": "Posterior aspect of the muscular process of one arytenoid"},
+      "insertion": {"la": "Apex cartilaginis arytenoideae contralateralis; margo lateralis epiglottidis (pars aryepiglottica)", "en": "Apex of the opposite arytenoid; through the aryepiglottic part to the side of the epiglottis"},
+      "action": {
+        "en": "Draws the arytenoids together and narrows the laryngeal inlet by pulling the aryepiglottic folds together, which protects the airway during swallowing.",
+        "id": "Mendekatkan kedua arytenoid dan mempersempit aditus laryngis dengan menarik kedua plica aryepiglottica saling mendekat, sehingga jalan napas terlindung saat menelan."
+      },
+      "nerve": {"la": "Nervus laryngeus recurrens (nervus laryngeus inferior)", "roots": "CN X"},
+      "blood": ["Arteria laryngea superior", "Arteria laryngea inferior"],
+      "parts": ["ary-epiglottic-part-of-oblique-arytenoid-muscle"]
+    },
+    "quiz": {
+      "origin": ["Processus muscularis cartilaginis arytenoideae", "processus muscularis"],
+      "insertion": ["Apex cartilaginis arytenoideae contralateralis", "apex arytenoid sisi seberang", "apex cartilaginis arytenoideae"],
+      "nerve": ["Nervus laryngeus recurrens", "N. laryngeus recurrens", "N. laryngeus inferior", "Nervus laryngeus inferior"],
+      "action": ["constrictio aditus laryngis", "menutup aditus laryngis", "mempersempit aditus laryngis", "adduksi arytenoid"]
+    }
+  },
+  {
+    "key": "ary-epiglottic-part-of-oblique-arytenoid-muscle",
+    "kind": "muscle-part",
+    "la": "Pars aryepiglottica musculi arytenoidei obliqui",
+    "alt": ["Musculus aryepiglotticus", "M. aryepiglotticus", "Pars aryepiglottica m. arytenoidei obliqui", "Pars aryepiglottica"],
+    "en": "Ary-epiglottic part of oblique arytenoid muscle",
+    "desc": {
+      "en": "Continuation of the oblique arytenoid fibres around the arytenoid apex into the aryepiglottic fold, reaching the lateral margin of the epiglottis. It pulls the aryepiglottic folds together and the epiglottis toward the arytenoids, closing the inlet.",
+      "id": "Lanjutan serabut m. arytenoideus obliquus yang melingkari apex arytenoid masuk ke plica aryepiglottica dan mencapai tepi lateral epiglottis. Bagian ini mendekatkan kedua plica aryepiglottica dan menarik epiglottis ke arah arytenoid sehingga aditus laryngis tertutup."
+    },
+    "facts": {
+      "muscle": "oblique-arytenoid-muscle",
+      "origin": {"la": "Apex cartilaginis arytenoideae", "en": "Apex of the arytenoid (as continuation of the oblique arytenoid)"},
+      "insertion": {"la": "Margo lateralis epiglottidis", "en": "Lateral margin of the epiglottis, within the aryepiglottic fold"}
+    }
+  },
+  {
+    "key": "thyro-arytenoid-muscle",
+    "kind": "muscle",
+    "model": false,
+    "la": "Musculus thyroarytenoideus",
+    "alt": ["M. thyroarytenoideus", "Musculus thyreoarytenoideus", "M. thyreoarytenoideus"],
+    "en": "Thyro-arytenoid muscle",
+    "desc": {
+      "en": "Broad muscle lateral to the vocal fold, from the inner surface of the thyroid angle to the anterolateral surface of the arytenoid. It pulls the arytenoid forward, relaxing the vocal ligament and lowering pitch; its medial fibres form the m. vocalis and some upper fibres reach the epiglottis as the pars thyroepiglottica.",
+      "id": "Otot lebar di lateral plica vocalis, dari permukaan dalam sudut cartilago thyroidea ke facies anterolateralis arytenoidea. Otot ini menarik arytenoid ke depan sehingga lig. vocale mengendur dan nada suara turun; serabut medialnya membentuk m. vocalis dan sebagian serabut atasnya mencapai epiglottis sebagai pars thyroepiglottica."
+    },
+    "facts": {
+      "group": {"en": "Intrinsic muscles of the larynx", "id": "Otot intrinsik larynx"},
+      "origin": {"la": "Facies interna anguli cartilaginis thyroideae; ligamentum cricothyroideum", "en": "Lower half of the inner surface of the thyroid angle and the adjacent cricothyroid ligament"},
+      "insertion": {"la": "Facies anterolateralis cartilaginis arytenoideae", "en": "Anterolateral surface (and vocal process) of the arytenoid cartilage"},
+      "action": {
+        "en": "Draws the arytenoid forward toward the thyroid, shortening and relaxing the vocal ligament (lower pitch); also helps adduct and close the glottis.",
+        "id": "Menarik arytenoid ke depan ke arah cartilago thyroidea sehingga lig. vocale memendek dan mengendur (nada turun); juga membantu adduksi dan penutupan glottis."
+      },
+      "nerve": {"la": "Nervus laryngeus recurrens (nervus laryngeus inferior)", "roots": "CN X"},
+      "blood": ["Arteria laryngea superior", "Arteria laryngea inferior"],
+      "parts": ["external-part-of-thyro-arytenoid-muscle", "thyro-epiglottic-part-of-thyro-arytenoid-muscle", "vocalis-muscle"]
+    },
+    "quiz": {
+      "origin": ["Facies interna anguli cartilaginis thyroideae", "sudut cartilago thyroidea bagian dalam", "cartilago thyroidea"],
+      "insertion": ["Facies anterolateralis cartilaginis arytenoideae", "cartilago arytenoidea", "processus vocalis"],
+      "nerve": ["Nervus laryngeus recurrens", "N. laryngeus recurrens", "N. laryngeus inferior", "Nervus laryngeus inferior"],
+      "action": ["relaxatio ligamenti vocalis", "mengendurkan lig. vocale", "mengendurkan pita suara", "menurunkan nada suara"]
+    }
+  },
+  {
+    "key": "external-part-of-thyro-arytenoid-muscle",
+    "kind": "muscle-part",
+    "la": "Pars externa musculi thyroarytenoidei",
+    "alt": ["Pars externa m. thyroarytenoidei", "Pars externa musculi thyreoarytenoidei", "Pars externa"],
+    "en": "External part of thyro-arytenoid muscle",
+    "desc": {
+      "en": "The outer, lateral bulk of the thyroarytenoid muscle, lying lateral to the vocalis and the vocal ligament. It runs from the thyroid angle to the anterolateral surface of the arytenoid.",
+      "id": "Bagian luar (lateral) m. thyroarytenoideus yang terletak di lateral m. vocalis dan lig. vocale. Bagian ini berjalan dari sudut cartilago thyroidea ke facies anterolateralis arytenoidea."
+    },
+    "facts": {
+      "muscle": "thyro-arytenoid-muscle",
+      "origin": {"la": "Facies interna anguli cartilaginis thyroideae", "en": "Inner surface of the thyroid angle"},
+      "insertion": {"la": "Facies anterolateralis cartilaginis arytenoideae", "en": "Anterolateral surface of the arytenoid"}
+    }
+  },
+  {
+    "key": "thyro-epiglottic-part-of-thyro-arytenoid-muscle",
+    "kind": "muscle-part",
+    "la": "Pars thyroepiglottica musculi thyroarytenoidei",
+    "alt": ["Musculus thyroepiglotticus", "M. thyroepiglotticus", "Pars thyroepiglottica m. thyroarytenoidei", "Pars thyreoepiglottica musculi thyreoarytenoidei", "Pars thyroepiglottica"],
+    "en": "Thyro-epiglottic part of thyro-arytenoid muscle",
+    "desc": {
+      "en": "Upper fibres of the thyroarytenoid that continue into the aryepiglottic fold and reach the side of the epiglottis. They widen the laryngeal inlet.",
+      "id": "Serabut atas m. thyroarytenoideus yang berlanjut ke plica aryepiglottica dan mencapai tepi epiglottis. Serabut ini melebarkan aditus laryngis."
+    },
+    "facts": {
+      "muscle": "thyro-arytenoid-muscle",
+      "origin": {"la": "Facies interna laminae cartilaginis thyroideae", "en": "Inner surface of the thyroid lamina near the angle"},
+      "insertion": {"la": "Plica aryepiglottica et margo lateralis epiglottidis", "en": "Aryepiglottic fold and lateral margin of the epiglottis"}
+    }
+  },
+  {
+    "key": "vocalis-muscle",
+    "kind": "muscle",
+    "model": false,
+    "la": "Musculus vocalis",
+    "alt": ["M. vocalis"],
+    "en": "Vocalis muscle",
+    "desc": {
+      "en": "Thin band of medial thyroarytenoid fibres lying alongside the vocal ligament inside the vocal fold. It adjusts tension along parts of the vocal fold for fine control of pitch.",
+      "id": "Pita tipis serabut medial m. thyroarytenoideus yang terletak di sepanjang lig. vocale di dalam plica vocalis. Otot ini mengatur tegangan sebagian plica vocalis untuk pengaturan halus nada suara."
+    },
+    "facts": {
+      "group": {"en": "Intrinsic muscles of the larynx (medial part of the thyroarytenoid)", "id": "Otot intrinsik larynx (bagian medial m. thyroarytenoideus)"},
+      "origin": {"la": "Facies lateralis processus vocalis cartilaginis arytenoideae", "en": "Lateral surface of the vocal process (fovea oblonga) of the arytenoid"},
+      "insertion": {"la": "Ligamentum vocale ipsilaterale", "en": "Vocal ligament of the same side (towards the thyroid angle)"},
+      "action": {
+        "en": "Relaxes the posterior part of the vocal ligament while keeping or increasing tension in the anterior part; fine adjustment of pitch during phonation.",
+        "id": "Mengendurkan bagian posterior lig. vocale sambil mempertahankan atau menambah tegangan bagian anteriornya; pengaturan halus nada saat bersuara."
+      },
+      "nerve": {"la": "Nervus laryngeus recurrens (nervus laryngeus inferior)", "roots": "CN X"},
+      "blood": ["Arteria laryngea superior", "Arteria laryngea inferior"],
+      "note": {
+        "en": "Many textbooks treat the vocalis as the medial part of the thyroarytenoid; TA98 lists it as a separate muscle. Origin and insertion are given here as in Moore.",
+        "id": "Banyak buku teks menganggap m. vocalis sebagai bagian medial m. thyroarytenoideus; TA98 mencantumkannya sebagai otot tersendiri. Origo dan insersio di sini mengikuti Moore."
+      }
+    },
+    "quiz": {
+      "origin": ["Processus vocalis cartilaginis arytenoideae", "processus vocalis", "fovea oblonga"],
+      "insertion": ["Ligamentum vocale", "lig. vocale"],
+      "nerve": ["Nervus laryngeus recurrens", "N. laryngeus recurrens", "N. laryngeus inferior", "Nervus laryngeus inferior"],
+      "action": ["regulatio tensionis ligamenti vocalis", "mengatur tegangan pita suara", "pengaturan halus nada suara"]
+    }
+  },
+  {
+    "key": "superior-laryngeal-nerve",
+    "kind": "nerve",
+    "model": false,
+    "la": "Nervus laryngeus superior",
+    "alt": ["N. laryngeus superior"],
+    "en": "Superior laryngeal nerve",
+    "desc": {
+      "en": "Branch of the vagus from its inferior ganglion that descends beside the pharynx deep to the internal carotid artery and splits into an internal and an external branch. The internal branch is sensory to the larynx above the vocal folds; the external branch supplies the cricothyroid.",
+      "id": "Cabang n. vagus dari ganglion inferius yang turun di samping pharynx di sebelah dalam a. carotis interna, lalu bercabang menjadi ramus internus dan ramus externus. Ramus internus bersifat sensorik untuk larynx di atas plica vocalis; ramus externus mempersarafi m. cricothyroideus."
+    },
+    "facts": {
+      "roots": "CN X",
+      "from": "Nervus vagus (ganglion inferius)",
+      "course": {
+        "en": "Runs down and forward on the side of the pharynx, behind the internal carotid artery, and divides at about the level of the hyoid.",
+        "id": "Berjalan ke bawah depan di sisi pharynx, di belakang a. carotis interna, dan bercabang kira-kira setinggi os hyoideum."
+      },
+      "motor": ["Musculus cricothyroideus", "Musculus constrictor pharyngis inferior (partim)"],
+      "sensory": {
+        "en": "Mucosa of the larynx above the vocal folds (vestibule, laryngeal surface of the epiglottis) and part of the piriform recess, via the internal branch.",
+        "id": "Mukosa larynx di atas plica vocalis (vestibulum, permukaan laryngeal epiglottis) dan sebagian recessus piriformis, melalui ramus internus."
+      },
+      "lesion": {
+        "en": "Loss of the cough reflex above the glottis (internal branch) and a weak, monotone voice (external branch).",
+        "id": "Hilangnya refleks batuk di atas glottis (ramus internus) serta suara lemah dan monoton (ramus externus)."
+      }
+    }
+  },
+  {
+    "key": "internal-laryngeal-nerve",
+    "kind": "nerve",
+    "model": false,
+    "la": "Ramus internus nervi laryngei superioris",
+    "alt": ["R. internus n. laryngei superioris", "Nervus laryngeus internus"],
+    "en": "Internal branch of superior laryngeal nerve",
+    "desc": {
+      "en": "Sensory and secretomotor branch that pierces the thyrohyoid membrane with the superior laryngeal artery. It supplies the laryngeal mucosa above the vocal folds and carries the afferent limb of the cough reflex.",
+      "id": "Cabang sensorik dan sekretomotorik yang menembus membrana thyrohyoidea bersama a. laryngea superior. Cabang ini mempersarafi mukosa larynx di atas plica vocalis dan membawa jalur aferen refleks batuk."
+    },
+    "facts": {
+      "roots": "CN X",
+      "from": "Nervus laryngeus superior",
+      "course": {
+        "en": "Pierces the thyrohyoid membrane and runs under the mucosa of the piriform recess.",
+        "id": "Menembus membrana thyrohyoidea dan berjalan di bawah mukosa recessus piriformis."
+      },
+      "sensory": {
+        "en": "Larynx above the vocal folds, epiglottis and part of the laryngopharynx.",
+        "id": "Larynx di atas plica vocalis, epiglottis dan sebagian laryngopharynx."
+      },
+      "lesion": {
+        "en": "Anaesthesia of the upper larynx, so food can enter the larynx without triggering a cough.",
+        "id": "Anestesi larynx bagian atas sehingga makanan dapat masuk ke larynx tanpa memicu batuk."
+      }
+    }
+  },
+  {
+    "key": "external-laryngeal-nerve",
+    "kind": "nerve",
+    "model": false,
+    "la": "Ramus externus nervi laryngei superioris",
+    "alt": ["R. externus n. laryngei superioris", "Nervus laryngeus externus"],
+    "en": "External branch of superior laryngeal nerve",
+    "desc": {
+      "en": "Thin motor branch that descends on the inferior pharyngeal constrictor close to the superior thyroid artery and ends in the cricothyroid muscle.",
+      "id": "Cabang motorik tipis yang turun di atas m. constrictor pharyngis inferior berdekatan dengan a. thyroidea superior dan berakhir di m. cricothyroideus."
+    },
+    "facts": {
+      "roots": "CN X",
+      "from": "Nervus laryngeus superior",
+      "course": {
+        "en": "Runs with the superior thyroid artery toward the upper pole of the thyroid gland, then to the cricothyroid.",
+        "id": "Berjalan bersama a. thyroidea superior menuju kutub atas glandula thyroidea, lalu ke m. cricothyroideus."
+      },
+      "motor": ["Musculus cricothyroideus", "Musculus constrictor pharyngis inferior (partim)"],
+      "lesion": {
+        "en": "Cricothyroid paralysis: the vocal fold cannot be tensed, the voice is weak and high notes are lost.",
+        "id": "Kelumpuhan m. cricothyroideus: plica vocalis tidak dapat ditegangkan, suara lemah dan nada tinggi hilang."
+      }
+    }
+  },
+  {
+    "key": "recurrent-laryngeal-nerve",
+    "kind": "nerve",
+    "model": false,
+    "la": "Nervus laryngeus recurrens",
+    "alt": ["N. laryngeus recurrens", "Nervus recurrens"],
+    "en": "Recurrent laryngeal nerve",
+    "desc": {
+      "en": "Branch of the vagus that hooks under the right subclavian artery on the right and under the arch of the aorta, lateral to the ligamentum arteriosum, on the left. It ascends in the groove between the trachea and oesophagus and, as the inferior laryngeal nerve, supplies all intrinsic laryngeal muscles except the cricothyroid and the mucosa below the vocal folds.",
+      "id": "Cabang n. vagus yang di kanan melingkar di bawah a. subclavia dextra dan di kiri melingkar di bawah arcus aortae, lateral terhadap lig. arteriosum. Saraf ini naik di alur antara trachea dan oesophagus, lalu sebagai n. laryngeus inferior mempersarafi semua otot intrinsik larynx kecuali m. cricothyroideus serta mukosa di bawah plica vocalis."
+    },
+    "facts": {
+      "roots": "CN X",
+      "from": "Nervus vagus",
+      "course": {
+        "en": "Right: arises in the root of the neck and loops under the right subclavian artery. Left: arises in the thorax and loops under the aortic arch lateral to the ligamentum arteriosum. Both ascend in the tracheo-oesophageal groove, pass behind the thyroid lobe close to the inferior thyroid artery and enter the larynx deep to the lower border of the inferior constrictor, behind the cricothyroid joint.",
+        "id": "Kanan: keluar di pangkal leher dan melingkar di bawah a. subclavia dextra. Kiri: keluar di dalam thorax dan melingkar di bawah arcus aortae, lateral terhadap lig. arteriosum. Keduanya naik di sulcus tracheooesophageus, lewat di belakang lobus glandulae thyroideae berdekatan dengan a. thyroidea inferior, dan masuk ke larynx di bawah tepi bawah m. constrictor pharyngis inferior, di belakang articulatio cricothyroidea."
+      },
+      "motor": ["Musculus cricoarytenoideus posterior", "Musculus cricoarytenoideus lateralis", "Musculus arytenoideus transversus", "Musculus arytenoideus obliquus", "Musculus thyroarytenoideus", "Musculus vocalis"],
+      "sensory": {
+        "en": "Laryngeal mucosa below the vocal folds; branches also go to the trachea, oesophagus and cardiac plexus.",
+        "id": "Mukosa larynx di bawah plica vocalis; cabangnya juga ke trachea, oesophagus dan plexus cardiacus."
+      },
+      "lesion": {
+        "en": "Unilateral injury (thyroid surgery, aortic arch aneurysm, lung cancer at the left hilum) gives hoarseness. Bilateral injury leaves both folds near the midline, narrowing the airway and causing stridor.",
+        "id": "Cedera satu sisi (operasi tiroid, aneurisma arcus aortae, kanker paru di hilum kiri) menyebabkan suara serak. Cedera bilateral membuat kedua plica vocalis tetap di dekat garis tengah sehingga jalan napas menyempit dan timbul stridor."
+      }
+    }
+  }
+]

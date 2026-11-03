@@ -1,0 +1,691 @@
+[
+  {
+    "key": "anterior-border-of-radius",
+    "kind": "landmark",
+    "la": "Margo anterior",
+    "alt": ["Margo anterior radii"],
+    "en": "Anterior border of radius",
+    "desc": {
+      "en": "Border running from the radial tuberosity down to the styloid process. Its upper part, the anterior oblique line, runs downward and laterally from the tuberosity.",
+      "id": "Tepi yang berjalan dari tuberositas radii ke bawah sampai processus styloideus. Bagian atasnya, linea obliqua anterior, berjalan ke bawah dan lateral dari tuberositas."
+    },
+    "facts": {
+      "bone": "radius",
+      "attach": {
+        "en": "Oblique upper part: radial head of M. flexor digitorum superficialis.",
+        "id": "Bagian atas yang miring: caput radiale m. flexor digitorum superficialis."
+      }
+    },
+    "quiz": {"bone": ["Radius", "Os radius"]}
+  },
+  {
+    "key": "anterior-surface-of-radius",
+    "kind": "landmark",
+    "la": "Facies anterior",
+    "alt": ["Facies anterior radii"],
+    "en": "Anterior surface of radius",
+    "desc": {
+      "en": "Concave anterior surface of the shaft between the anterior and interosseous borders; it widens toward the wrist.",
+      "id": "Permukaan anterior corpus radii yang cekung, di antara margo anterior dan margo interosseus; makin lebar ke arah pergelangan tangan."
+    },
+    "facts": {
+      "bone": "radius",
+      "attach": {
+        "en": "M. flexor pollicis longus (upper and middle parts) and M. pronator quadratus (distal quarter, insertion).",
+        "id": "M. flexor pollicis longus (bagian atas dan tengah) dan m. pronator quadratus (seperempat distal, insersio)."
+      }
+    },
+    "quiz": {"bone": ["Radius", "Os radius"]}
+  },
+  {
+    "key": "articular-circumference-of-head-of-radius",
+    "kind": "landmark",
+    "la": "Circumferentia articularis",
+    "alt": ["Circumferentia articularis capitis radii", "Circumferentia articularis radii"],
+    "en": "Articular circumference of head of radius",
+    "desc": {
+      "en": "Smooth rim around the head of the radius. Its medial part turns in the radial notch of the ulna and the rest is held by the annular ligament (proximal radio-ulnar joint).",
+      "id": "Tepi licin yang melingkari caput radii. Bagian medialnya berputar di dalam incisura radialis ulnae dan sisanya dipegang oleh lig. anulare radii (sendi radioulnaris proximalis)."
+    },
+    "facts": {
+      "bone": "radius"
+    },
+    "quiz": {"bone": ["Radius", "Os radius"]}
+  },
+  {
+    "key": "articular-facet-of-head-of-radius",
+    "kind": "landmark",
+    "la": "Fovea articularis",
+    "alt": ["Fovea articularis capitis radii", "Fovea capitis radii"],
+    "en": "Articular fovea of head of radius",
+    "desc": {
+      "en": "Shallow cup on the upper surface of the head of the radius. It articulates with the capitulum of the humerus at the humeroradial joint.",
+      "id": "Cekungan dangkal pada permukaan atas caput radii. Bersendi dengan capitulum humeri pada sendi humeroradialis."
+    },
+    "facts": {
+      "bone": "radius"
+    },
+    "quiz": {"bone": ["Radius", "Os radius"]}
+  },
+  {
+    "key": "body-of-radius",
+    "kind": "landmark",
+    "la": "Corpus radii",
+    "alt": [],
+    "en": "Body (shaft) of radius",
+    "desc": {
+      "en": "Shaft of the radius, narrow above and wider below, with three borders and three surfaces. Its lateral bowing lets it swing around the ulna in pronation.",
+      "id": "Batang radius, sempit di atas dan melebar di bawah, dengan tiga tepi dan tiga permukaan. Lengkungnya ke lateral memungkinkan radius berayun mengelilingi ulna saat pronasi."
+    },
+    "facts": {
+      "bone": "radius",
+      "attach": {
+        "en": "M. supinator, M. pronator teres, M. flexor pollicis longus, M. abductor pollicis longus, M. extensor pollicis brevis, M. pronator quadratus and the interosseous membrane.",
+        "id": "M. supinator, m. pronator teres, m. flexor pollicis longus, m. abductor pollicis longus, m. extensor pollicis brevis, m. pronator quadratus dan membrana interossea."
+      }
+    },
+    "quiz": {"bone": ["Radius", "Os radius"]}
+  },
+  {
+    "key": "carpal-articular-surface",
+    "kind": "landmark",
+    "la": "Facies articularis carpalis",
+    "alt": ["Facies articularis carpea", "Facies articularis carpalis radii"],
+    "en": "Carpal articular surface of radius",
+    "desc": {
+      "en": "Concave distal surface of the radius, divided by a faint ridge into a lateral area for the scaphoid and a medial area for the lunate (radiocarpal joint).",
+      "id": "Permukaan distal radius yang cekung, dibagi oleh rigi samar menjadi daerah lateral untuk os scaphoideum dan daerah medial untuk os lunatum (sendi radiocarpalis)."
+    },
+    "facts": {
+      "bone": "radius",
+      "attach": {
+        "en": "The capsule and the dorsal and palmar radiocarpal ligaments attach around its margin.",
+        "id": "Capsula articularis serta lig. radiocarpale dorsale dan palmare melekat di sekeliling tepinya."
+      }
+    },
+    "quiz": {"bone": ["Radius", "Os radius"]}
+  },
+  {
+    "key": "dorsal-radial-tubercle",
+    "kind": "landmark",
+    "la": "Tuberculum dorsale",
+    "alt": ["Tuberculum dorsale radii", "Tuberculum Listeri"],
+    "en": "Dorsal tubercle of radius (Lister tubercle)",
+    "desc": {
+      "en": "Palpable bony prominence on the dorsal surface of the distal radius. The tendon of extensor pollicis longus turns around its medial (ulnar) side.",
+      "id": "Tonjolan tulang yang dapat diraba pada permukaan dorsal ujung distal radius. Tendo m. extensor pollicis longus berbelok mengitari sisi medial (ulnar)-nya."
+    },
+    "facts": {
+      "bone": "radius",
+      "clinical": {
+        "en": "The extensor pollicis longus tendon can fray and rupture over the tubercle, especially after a distal radius fracture.",
+        "id": "Tendo m. extensor pollicis longus dapat aus dan putus di atas tuberculum ini, terutama setelah fraktur radius distal."
+      }
+    },
+    "quiz": {"bone": ["Radius", "Os radius"]}
+  },
+  {
+    "key": "grooves-for-extensor-tendons",
+    "kind": "landmark",
+    "la": "Sulci tendinum musculorum extensorum",
+    "alt": ["Sulci tendinum extensorum", "Sulci tendinum musculorum extensorum radii"],
+    "en": "Grooves for extensor tendons",
+    "desc": {
+      "en": "Grooves on the dorsal surface of the distal radius, separated by bony ridges including the dorsal tubercle. The extensor tendons run in them inside their synovial sheaths.",
+      "id": "Alur-alur pada permukaan dorsal ujung distal radius yang dipisahkan oleh rigi tulang, termasuk tuberculum dorsale. Tendo-tendo ekstensor berjalan di dalamnya, terbungkus vagina synovialis."
+    },
+    "facts": {
+      "bone": "radius",
+      "attach": {
+        "en": "The extensor retinaculum attaches to the ridges between the grooves, forming the dorsal compartments of the wrist.",
+        "id": "Retinaculum musculorum extensorum melekat pada rigi-rigi di antara alur, membentuk kompartemen dorsal pergelangan tangan."
+      }
+    },
+    "quiz": {"bone": ["Radius", "Os radius"]}
+  },
+  {
+    "key": "head-of-radius",
+    "kind": "landmark",
+    "la": "Caput radii",
+    "alt": [],
+    "en": "Head of radius",
+    "desc": {
+      "en": "Disc-shaped proximal end of the radius, with a shallow fovea on top and an articular rim around it. It can be felt just below the lateral epicondyle, turning under the finger during pronation and supination.",
+      "id": "Ujung proksimal radius yang berbentuk cakram, dengan fovea dangkal di atasnya dan tepi sendi di sekelilingnya. Dapat diraba tepat di bawah epicondylus lateralis dan terasa berputar saat pronasi dan supinasi."
+    },
+    "facts": {
+      "bone": "radius",
+      "clinical": {
+        "en": "In young children a sudden pull on the arm can slip the head out of the annular ligament (pulled elbow). In adults the head may fracture after a fall on the outstretched hand.",
+        "id": "Pada anak kecil, tarikan mendadak pada lengan dapat membuat caput radii tergelincir keluar dari lig. anulare (pulled elbow). Pada dewasa, caput radii dapat patah akibat jatuh bertumpu pada tangan yang terulur."
+      }
+    },
+    "quiz": {"bone": ["Radius", "Os radius"]}
+  },
+  {
+    "key": "interosseous-border-of-radius",
+    "kind": "landmark",
+    "la": "Margo interosseus",
+    "alt": ["Margo interosseus radii", "Crista interossea radii"],
+    "en": "Interosseous border of radius",
+    "desc": {
+      "en": "Sharp medial border of the shaft, facing the ulna.",
+      "id": "Tepi medial corpus radii yang tajam, menghadap ke ulna."
+    },
+    "facts": {
+      "bone": "radius",
+      "attach": {
+        "en": "Membrana interossea antebrachii.",
+        "id": "Membrana interossea antebrachii."
+      }
+    },
+    "quiz": {"bone": ["Radius", "Os radius"]}
+  },
+  {
+    "key": "lateral-surface-of-radius",
+    "kind": "landmark",
+    "la": "Facies lateralis",
+    "alt": ["Facies lateralis radii"],
+    "en": "Lateral surface of radius",
+    "desc": {
+      "en": "Convex lateral surface of the shaft.",
+      "id": "Permukaan lateral corpus radii yang cembung."
+    },
+    "facts": {
+      "bone": "radius",
+      "attach": {
+        "en": "M. supinator (upper third), M. pronator teres (middle, at the pronator tuberosity) and M. brachioradialis (distal end, above the styloid process).",
+        "id": "M. supinator (sepertiga atas), m. pronator teres (pertengahan, pada tuberositas pronatoria) dan m. brachioradialis (ujung distal, di atas processus styloideus)."
+      }
+    },
+    "quiz": {"bone": ["Radius", "Os radius"]}
+  },
+  {
+    "key": "neck-of-radius",
+    "kind": "landmark",
+    "la": "Collum radii",
+    "alt": [],
+    "en": "Neck of radius",
+    "desc": {
+      "en": "Narrow part of the radius just below the head and above the radial tuberosity.",
+      "id": "Bagian radius yang menyempit tepat di bawah caput dan di atas tuberositas radii."
+    },
+    "facts": {
+      "bone": "radius",
+      "attach": {
+        "en": "The annular ligament surrounds the head and narrows around the upper neck; Lig. quadratum attaches to its medial side.",
+        "id": "Lig. anulare radii melingkari caput dan menyempit di sekitar bagian atas collum; lig. quadratum melekat pada sisi medialnya."
+      },
+      "clinical": {
+        "en": "The deep branch of the radial nerve winds around the lateral side of the neck within supinator and can be injured in fractures here.",
+        "id": "Ramus profundus n. radialis melingkari sisi lateral collum di dalam m. supinator dan dapat cedera pada fraktur di daerah ini."
+      }
+    },
+    "quiz": {"bone": ["Radius", "Os radius"]}
+  },
+  {
+    "key": "posterior-border-of-radius",
+    "kind": "landmark",
+    "la": "Margo posterior",
+    "alt": ["Margo posterior radii"],
+    "en": "Posterior border of radius",
+    "desc": {
+      "en": "Rounded border between the posterior and lateral surfaces, clear mainly in the middle third of the shaft.",
+      "id": "Tepi tumpul di antara facies posterior dan facies lateralis, jelas terutama pada sepertiga tengah corpus."
+    },
+    "facts": {
+      "bone": "radius"
+    },
+    "quiz": {"bone": ["Radius", "Os radius"]}
+  },
+  {
+    "key": "posterior-surface-of-radius",
+    "kind": "landmark",
+    "la": "Facies posterior",
+    "alt": ["Facies posterior radii"],
+    "en": "Posterior surface of radius",
+    "desc": {
+      "en": "Posterior surface of the shaft, between the posterior and interosseous borders.",
+      "id": "Permukaan posterior corpus radii, di antara margo posterior dan margo interosseus."
+    },
+    "facts": {
+      "bone": "radius",
+      "attach": {
+        "en": "M. supinator (upper third), M. abductor pollicis longus (middle part) and M. extensor pollicis brevis (below it).",
+        "id": "M. supinator (sepertiga atas), m. abductor pollicis longus (bagian tengah) dan m. extensor pollicis brevis (di bawahnya)."
+      }
+    },
+    "quiz": {"bone": ["Radius", "Os radius"]}
+  },
+  {
+    "key": "pronator-tuberosity",
+    "kind": "landmark",
+    "la": "Tuberositas pronatoria",
+    "alt": ["Tuberositas pronatoria radii"],
+    "en": "Pronator tuberosity",
+    "desc": {
+      "en": "Roughened area at the middle of the lateral surface of the radius, where the shaft bows out most.",
+      "id": "Daerah kasar di pertengahan facies lateralis radii, pada bagian corpus yang paling melengkung ke lateral."
+    },
+    "facts": {
+      "bone": "radius",
+      "attach": {
+        "en": "Insertion of M. pronator teres.",
+        "id": "Insersio m. pronator teres."
+      }
+    },
+    "quiz": {"bone": ["Radius", "Os radius"]}
+  },
+  {
+    "key": "radial-styloid-process",
+    "kind": "landmark",
+    "la": "Processus styloideus radii",
+    "alt": [],
+    "en": "Radial styloid process",
+    "desc": {
+      "en": "Conical projection from the lateral side of the distal radius. It reaches about 1 cm further distally than the ulnar styloid process and can be felt in the anatomical snuffbox.",
+      "id": "Tonjolan berbentuk kerucut di sisi lateral ujung distal radius. Letaknya kira-kira 1 cm lebih distal daripada processus styloideus ulnae dan dapat diraba di anatomical snuffbox."
+    },
+    "facts": {
+      "bone": "radius",
+      "attach": {
+        "en": "Tip: Lig. collaterale carpi radiale. M. brachioradialis inserts just above its base.",
+        "id": "Ujung: lig. collaterale carpi radiale. M. brachioradialis berinsersio tepat di atas pangkalnya."
+      },
+      "clinical": {
+        "en": "Normally the radial styloid lies more distal than the ulnar styloid; a distal radius fracture that shortens the bone changes this relation.",
+        "id": "Normalnya processus styloideus radii lebih distal daripada processus styloideus ulnae; fraktur radius distal yang memendekkan tulang mengubah hubungan ini."
+      }
+    },
+    "quiz": {"bone": ["Radius", "Os radius"]}
+  },
+  {
+    "key": "radial-tuberosity",
+    "kind": "landmark",
+    "la": "Tuberositas radii",
+    "alt": [],
+    "en": "Radial tuberosity",
+    "desc": {
+      "en": "Oval prominence on the medial side of the radius just below the neck.",
+      "id": "Tonjolan oval di sisi medial radius tepat di bawah collum."
+    },
+    "facts": {
+      "bone": "radius",
+      "attach": {
+        "en": "Insertion of M. biceps brachii on its rough posterior part; Bursa bicipitoradialis lies on its smooth anterior part.",
+        "id": "Insersio m. biceps brachii pada bagian posteriornya yang kasar; bursa bicipitoradialis terletak pada bagian anteriornya yang licin."
+      }
+    },
+    "quiz": {"bone": ["Radius", "Os radius"]}
+  },
+  {
+    "key": "suprastyloid-crest",
+    "kind": "landmark",
+    "la": "Crista suprastyloidea",
+    "alt": ["Crista suprastyloidea radii"],
+    "en": "Suprastyloid crest",
+    "desc": {
+      "en": "Ridge on the lateral side of the distal radius, just above the styloid process.",
+      "id": "Rigi di sisi lateral ujung distal radius, tepat di atas processus styloideus."
+    },
+    "facts": {
+      "bone": "radius",
+      "attach": {
+        "en": "M. brachioradialis inserts at this level, just proximal to the styloid process.",
+        "id": "M. brachioradialis berinsersio setinggi rigi ini, tepat di proksimal processus styloideus."
+      }
+    },
+    "quiz": {"bone": ["Radius", "Os radius"]}
+  },
+  {
+    "key": "ulnar-notch",
+    "kind": "landmark",
+    "la": "Incisura ulnaris",
+    "alt": ["Incisura ulnaris radii"],
+    "en": "Ulnar notch of radius",
+    "desc": {
+      "en": "Concave facet on the medial side of the distal radius. It articulates with the head of the ulna at the distal radio-ulnar joint.",
+      "id": "Faset cekung di sisi medial ujung distal radius. Bersendi dengan caput ulnae pada sendi radioulnaris distalis."
+    },
+    "facts": {
+      "bone": "radius",
+      "attach": {
+        "en": "The base of the articular disc (triangular fibrocartilage) attaches to its distal margin; the dorsal and palmar radio-ulnar ligaments arise from its edges.",
+        "id": "Basis discus articularis (fibrocartilago triangularis) melekat pada tepi distalnya; lig. radioulnare dorsale dan palmare berasal dari kedua tepinya."
+      }
+    },
+    "quiz": {"bone": ["Radius", "Os radius"]}
+  },
+  {
+    "key": "anterior-border-of-ulna",
+    "kind": "landmark",
+    "la": "Margo anterior",
+    "alt": ["Margo anterior ulnae"],
+    "en": "Anterior border of ulna",
+    "desc": {
+      "en": "Rounded border running from the medial side of the ulnar tuberosity down to the styloid process.",
+      "id": "Tepi tumpul yang berjalan dari sisi medial tuberositas ulnae ke bawah sampai processus styloideus."
+    },
+    "facts": {
+      "bone": "ulna",
+      "attach": {
+        "en": "M. flexor digitorum profundus along its upper three-quarters; M. pronator quadratus at its distal quarter.",
+        "id": "M. flexor digitorum profundus di sepanjang tiga perempat atasnya; m. pronator quadratus pada seperempat distal."
+      }
+    },
+    "quiz": {"bone": ["Ulna", "Os ulna"]}
+  },
+  {
+    "key": "anterior-surface-of-ulna",
+    "kind": "landmark",
+    "la": "Facies anterior",
+    "alt": ["Facies anterior ulnae"],
+    "en": "Anterior surface of ulna",
+    "desc": {
+      "en": "Broad anterior surface of the shaft between the anterior and interosseous borders, grooved lengthwise in its upper part.",
+      "id": "Permukaan anterior corpus ulnae yang lebar di antara margo anterior dan margo interosseus, beralur memanjang di bagian atasnya."
+    },
+    "facts": {
+      "bone": "ulna",
+      "attach": {
+        "en": "M. flexor digitorum profundus (upper three-quarters); M. pronator quadratus (origin, distal quarter).",
+        "id": "M. flexor digitorum profundus (tiga perempat atas); m. pronator quadratus (origo, seperempat distal)."
+      },
+      "note": {
+        "en": "Listed in the module; it is not a separate landmark in the 3D model.",
+        "id": "Tercantum dalam modul; tidak tersedia sebagai landmark terpisah pada model 3D."
+      }
+    },
+    "quiz": {"bone": ["Ulna", "Os ulna"]},
+    "model": false
+  },
+  {
+    "key": "articular-circumference-of-head-of-ulna",
+    "kind": "landmark",
+    "la": "Circumferentia articularis",
+    "alt": ["Circumferentia articularis capitis ulnae", "Circumferentia articularis ulnae"],
+    "en": "Articular circumference of head of ulna",
+    "desc": {
+      "en": "Convex articular surface on the lateral side of the head of the ulna. It articulates with the ulnar notch of the radius at the distal radio-ulnar joint.",
+      "id": "Permukaan sendi yang cembung di sisi lateral caput ulnae. Bersendi dengan incisura ulnaris radii pada sendi radioulnaris distalis."
+    },
+    "facts": {
+      "bone": "ulna"
+    },
+    "quiz": {"bone": ["Ulna", "Os ulna"]}
+  },
+  {
+    "key": "body-of-ulna",
+    "kind": "landmark",
+    "la": "Corpus ulnae",
+    "alt": [],
+    "en": "Body (shaft) of ulna",
+    "desc": {
+      "en": "Shaft of the ulna, thick above and tapering toward the wrist, with three borders and three surfaces. Its posterior border lies under the skin along the whole forearm.",
+      "id": "Batang ulna, tebal di atas dan mengecil ke arah pergelangan tangan, dengan tiga tepi dan tiga permukaan. Margo posteriornya terletak di bawah kulit sepanjang lengan bawah."
+    },
+    "facts": {
+      "bone": "ulna",
+      "attach": {
+        "en": "M. flexor digitorum profundus, M. pronator quadratus, M. supinator, M. abductor pollicis longus, M. extensor pollicis longus, M. extensor indicis and the interosseous membrane.",
+        "id": "M. flexor digitorum profundus, m. pronator quadratus, m. supinator, m. abductor pollicis longus, m. extensor pollicis longus, m. extensor indicis dan membrana interossea."
+      },
+      "clinical": {
+        "en": "A blow on the forearm raised in self-defence can break the ulnar shaft alone (nightstick fracture).",
+        "id": "Pukulan pada lengan bawah yang diangkat untuk menangkis dapat mematahkan corpus ulnae saja (nightstick fracture)."
+      }
+    },
+    "quiz": {"bone": ["Ulna", "Os ulna"]}
+  },
+  {
+    "key": "coronoid-process-of-ulna",
+    "kind": "landmark",
+    "la": "Processus coronoideus",
+    "alt": ["Processus coronoideus ulnae"],
+    "en": "Coronoid process of ulna",
+    "desc": {
+      "en": "Bracket-like projection on the front of the upper ulna, below the trochlear notch. It enters the coronoid fossa of the humerus in full flexion.",
+      "id": "Tonjolan seperti penyangga di bagian depan ujung atas ulna, di bawah incisura trochlearis. Masuk ke fossa coronoidea humeri saat fleksi penuh."
+    },
+    "facts": {
+      "bone": "ulna",
+      "attach": {
+        "en": "Anterior surface (tuberosity of ulna): M. brachialis. Medial side: ulnar head of M. pronator teres, humero-ulnar head of M. flexor digitorum superficialis and the anterior band of Lig. collaterale ulnare (at the sublime tubercle). Lateral side: the radial notch.",
+        "id": "Permukaan anterior (tuberositas ulnae): m. brachialis. Sisi medial: caput ulnare m. pronator teres, caput humeroulnare m. flexor digitorum superficialis dan pita anterior lig. collaterale ulnare (pada tuberculum sublime). Sisi lateral: incisura radialis."
+      },
+      "clinical": {
+        "en": "It may fracture in a posterior dislocation of the elbow.",
+        "id": "Dapat patah pada dislokasi siku ke posterior."
+      }
+    },
+    "quiz": {"bone": ["Ulna", "Os ulna"]}
+  },
+  {
+    "key": "head-of-ulna",
+    "kind": "landmark",
+    "la": "Caput ulnae",
+    "alt": [],
+    "en": "Head of ulna",
+    "desc": {
+      "en": "Small rounded distal end of the ulna that forms the visible bump on the back of the wrist on the little finger side when the forearm is pronated. The articular disc separates it from the carpal bones.",
+      "id": "Ujung distal ulna yang kecil dan bulat, tampak sebagai tonjolan di punggung pergelangan tangan sisi kelingking saat lengan bawah pronasi. Discus articularis memisahkannya dari ossa carpi."
+    },
+    "facts": {
+      "bone": "ulna"
+    },
+    "quiz": {"bone": ["Ulna", "Os ulna"]}
+  },
+  {
+    "key": "interosseous-border-of-ulna",
+    "kind": "landmark",
+    "la": "Margo interosseus",
+    "alt": ["Margo interosseus ulnae", "Crista interossea ulnae"],
+    "en": "Interosseous border of ulna",
+    "desc": {
+      "en": "Sharp lateral border of the shaft, facing the radius. Above, it continues into the supinator crest.",
+      "id": "Tepi lateral corpus ulnae yang tajam, menghadap ke radius. Di atas, tepi ini berlanjut menjadi crista musculi supinatoris."
+    },
+    "facts": {
+      "bone": "ulna",
+      "attach": {
+        "en": "Membrana interossea antebrachii.",
+        "id": "Membrana interossea antebrachii."
+      }
+    },
+    "quiz": {"bone": ["Ulna", "Os ulna"]}
+  },
+  {
+    "key": "medial-surface-of-ulna",
+    "kind": "landmark",
+    "la": "Facies medialis",
+    "alt": ["Facies medialis ulnae"],
+    "en": "Medial surface of ulna",
+    "desc": {
+      "en": "Smooth, rounded medial surface of the shaft.",
+      "id": "Permukaan medial corpus ulnae yang licin dan membulat."
+    },
+    "facts": {
+      "bone": "ulna",
+      "attach": {
+        "en": "M. flexor digitorum profundus (upper three-quarters).",
+        "id": "M. flexor digitorum profundus (tiga perempat atas)."
+      }
+    },
+    "quiz": {"bone": ["Ulna", "Os ulna"]}
+  },
+  {
+    "key": "olecranon",
+    "kind": "landmark",
+    "la": "Olecranon",
+    "alt": ["Olecranon ulnae"],
+    "en": "Olecranon",
+    "desc": {
+      "en": "Large curved projection at the upper end of the ulna that forms the point of the elbow. It fits into the olecranon fossa of the humerus when the elbow is extended.",
+      "id": "Tonjolan besar melengkung di ujung atas ulna yang membentuk ujung siku. Masuk ke fossa olecrani humeri saat siku ekstensi."
+    },
+    "facts": {
+      "bone": "ulna",
+      "attach": {
+        "en": "Upper surface (posterior part): M. triceps brachii. Lateral surface: M. anconeus. Medial margin: ulnar head of M. flexor carpi ulnaris. Posterior band of Lig. collaterale ulnare.",
+        "id": "Permukaan atas (bagian posterior): m. triceps brachii. Permukaan lateral: m. anconeus. Tepi medial: caput ulnare m. flexor carpi ulnaris. Pita posterior lig. collaterale ulnare."
+      },
+      "clinical": {
+        "en": "The subcutaneous olecranon bursa over it can become inflamed from repeated leaning on the elbow (student's elbow). A fracture of the olecranon is pulled apart by triceps.",
+        "id": "Bursa subcutanea olecrani di atasnya dapat meradang karena sering bertumpu pada siku (student's elbow). Fragmen fraktur olecranon tertarik menjauh oleh m. triceps brachii."
+      }
+    },
+    "quiz": {"bone": ["Ulna", "Os ulna"]}
+  },
+  {
+    "key": "posterior-border-of-ulna",
+    "kind": "landmark",
+    "la": "Margo posterior",
+    "alt": ["Margo posterior ulnae"],
+    "en": "Posterior border of ulna",
+    "desc": {
+      "en": "Rounded border that can be felt under the skin along the whole forearm, from the olecranon to the styloid process.",
+      "id": "Tepi tumpul yang dapat diraba di bawah kulit sepanjang lengan bawah, dari olecranon sampai processus styloideus."
+    },
+    "facts": {
+      "bone": "ulna",
+      "attach": {
+        "en": "A shared aponeurosis gives origin to M. flexor carpi ulnaris (ulnar head), M. extensor carpi ulnaris (ulnar head) and M. flexor digitorum profundus; the antebrachial fascia attaches along it.",
+        "id": "Aponeurosis bersama menjadi origo m. flexor carpi ulnaris (caput ulnare), m. extensor carpi ulnaris (caput ulnare) dan m. flexor digitorum profundus; fascia antebrachii melekat di sepanjangnya."
+      }
+    },
+    "quiz": {"bone": ["Ulna", "Os ulna"]}
+  },
+  {
+    "key": "posterior-surface-of-ulna",
+    "kind": "landmark",
+    "la": "Facies posterior",
+    "alt": ["Facies posterior ulnae"],
+    "en": "Posterior surface of ulna",
+    "desc": {
+      "en": "Posterior surface of the shaft, between the posterior and interosseous borders.",
+      "id": "Permukaan posterior corpus ulnae, di antara margo posterior dan margo interosseus."
+    },
+    "facts": {
+      "bone": "ulna",
+      "attach": {
+        "en": "Upper part: M. anconeus and M. supinator. Below: M. abductor pollicis longus, M. extensor pollicis longus and M. extensor indicis.",
+        "id": "Bagian atas: m. anconeus dan m. supinator. Di bawahnya: m. abductor pollicis longus, m. extensor pollicis longus dan m. extensor indicis."
+      }
+    },
+    "quiz": {"bone": ["Ulna", "Os ulna"]}
+  },
+  {
+    "key": "radial-notch",
+    "kind": "landmark",
+    "la": "Incisura radialis",
+    "alt": ["Incisura radialis ulnae"],
+    "en": "Radial notch of ulna",
+    "desc": {
+      "en": "Smooth concavity on the lateral side of the coronoid process. The articular circumference of the radial head rotates in it at the proximal radio-ulnar joint.",
+      "id": "Cekungan licin di sisi lateral processus coronoideus. Circumferentia articularis capitis radii berputar di dalamnya pada sendi radioulnaris proximalis."
+    },
+    "facts": {
+      "bone": "ulna",
+      "attach": {
+        "en": "Lig. anulare radii attaches to its anterior and posterior margins; Lig. quadratum to its lower margin.",
+        "id": "Lig. anulare radii melekat pada tepi anterior dan posteriornya; lig. quadratum pada tepi bawahnya."
+      }
+    },
+    "quiz": {"bone": ["Ulna", "Os ulna"]}
+  },
+  {
+    "key": "sublime-tubercle",
+    "kind": "landmark",
+    "la": "Tuberculum sublime",
+    "alt": ["Tuberculum sublime ulnae"],
+    "en": "Sublime tubercle",
+    "desc": {
+      "en": "Small tubercle on the medial edge of the coronoid process of the ulna.",
+      "id": "Tonjolan kecil pada tepi medial processus coronoideus ulnae."
+    },
+    "facts": {
+      "bone": "ulna",
+      "attach": {
+        "en": "Anterior band of Lig. collaterale ulnare, the main restraint against valgus stress at the elbow.",
+        "id": "Pita anterior lig. collaterale ulnare, penahan utama tekanan valgus pada siku."
+      },
+      "clinical": {
+        "en": "Throwing athletes may tear this ligament or avulse the tubercle.",
+        "id": "Atlet lempar dapat mengalami robekan ligamentum ini atau avulsi tuberculum."
+      }
+    },
+    "quiz": {"bone": ["Ulna", "Os ulna"]}
+  },
+  {
+    "key": "supinator-crest",
+    "kind": "landmark",
+    "la": "Crista musculi supinatoris",
+    "alt": ["Crista supinatoria", "Crista musculi supinatoris ulnae", "Crista supinatoris"],
+    "en": "Supinator crest",
+    "desc": {
+      "en": "Ridge running down from the posterior end of the radial notch on the lateral side of the ulna; the supinator fossa lies in front of it.",
+      "id": "Rigi yang turun dari ujung posterior incisura radialis di sisi lateral ulna; fossa supinatoria terletak di depannya."
+    },
+    "facts": {
+      "bone": "ulna",
+      "attach": {
+        "en": "Origin of the ulnar part of M. supinator.",
+        "id": "Origo bagian ulnar m. supinator."
+      }
+    },
+    "quiz": {"bone": ["Ulna", "Os ulna"]}
+  },
+  {
+    "key": "trochlear-notch",
+    "kind": "landmark",
+    "la": "Incisura trochlearis",
+    "alt": ["Incisura trochlearis ulnae", "Incisura semilunaris"],
+    "en": "Trochlear notch",
+    "desc": {
+      "en": "Large concavity formed by the olecranon and the coronoid process. It grips the trochlea of the humerus at the humero-ulnar joint.",
+      "id": "Cekungan besar yang dibentuk olecranon dan processus coronoideus. Menjepit trochlea humeri pada sendi humeroulnaris."
+    },
+    "facts": {
+      "bone": "ulna"
+    },
+    "quiz": {"bone": ["Ulna", "Os ulna"]}
+  },
+  {
+    "key": "tuberosity-of-ulna",
+    "kind": "landmark",
+    "la": "Tuberositas ulnae",
+    "alt": [],
+    "en": "Tuberosity of ulna",
+    "desc": {
+      "en": "Rough area on the anterior surface at the base of the coronoid process.",
+      "id": "Daerah kasar pada permukaan anterior di pangkal processus coronoideus."
+    },
+    "facts": {
+      "bone": "ulna",
+      "attach": {
+        "en": "Insertion of M. brachialis; the oblique cord attaches to its lateral side.",
+        "id": "Insersio m. brachialis; chorda obliqua melekat pada sisi lateralnya."
+      }
+    },
+    "quiz": {"bone": ["Ulna", "Os ulna"]}
+  },
+  {
+    "key": "ulnar-styloid-process",
+    "kind": "landmark",
+    "la": "Processus styloideus ulnae",
+    "alt": [],
+    "en": "Ulnar styloid process",
+    "desc": {
+      "en": "Short conical projection from the posteromedial side of the head of the ulna. It ends about 1 cm proximal to the radial styloid process.",
+      "id": "Tonjolan pendek berbentuk kerucut dari sisi posteromedial caput ulnae. Ujungnya sekitar 1 cm lebih proksimal daripada processus styloideus radii."
+    },
+    "facts": {
+      "bone": "ulna",
+      "attach": {
+        "en": "The apex of the articular disc attaches near its base; Lig. collaterale carpi ulnare arises from its tip. The tendon of extensor carpi ulnaris runs in a groove beside it.",
+        "id": "Apex discus articularis melekat dekat pangkalnya; lig. collaterale carpi ulnare berasal dari ujungnya. Tendo m. extensor carpi ulnaris berjalan di alur di sampingnya."
+      }
+    },
+    "quiz": {"bone": ["Ulna", "Os ulna"]}
+  }
+]

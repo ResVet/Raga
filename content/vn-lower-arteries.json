@@ -1,0 +1,931 @@
+[
+  {
+    "key": "external-iliac-artery",
+    "kind": "artery",
+    "la": "Arteria iliaca externa",
+    "alt": ["A. iliaca externa"],
+    "en": "External iliac artery",
+    "desc": {
+      "en": "Lateral terminal branch of a. iliaca communis, running from the front of the articulatio sacroiliaca along the pelvic brim to the ligamentum inguinale, where it becomes a. femoralis.",
+      "id": "Cabang terminal lateral a. iliaca communis yang berjalan dari depan articulatio sacroiliaca di sepanjang pintu atas panggul sampai ligamentum inguinale, tempat arteri menjadi a. femoralis."
+    },
+    "facts": {
+      "from": "Arteria iliaca communis",
+      "course": {
+        "en": "Descends along the medial border of m. psoas major, with v. iliaca externa medial and then posterior to it. Just above the ligamentum inguinale it gives a. epigastrica inferior and a. circumflexa ilium profunda, then passes under the ligament at the mid-inguinal point, midway between the spina iliaca anterior superior and the symphysis pubica.",
+        "id": "Turun di sepanjang tepi medial m. psoas major, dengan v. iliaca externa di medial lalu di belakangnya. Tepat di atas ligamentum inguinale arteri memberikan a. epigastrica inferior dan a. circumflexa ilium profunda, lalu lewat di bawah ligamentum di titik mid-inguinal, di pertengahan antara spina iliaca anterior superior dan symphysis pubica."
+      },
+      "branches": ["Arteria epigastrica inferior", "Arteria circumflexa ilium profunda"],
+      "supplies": {
+        "en": "The lower limb and, through its branches, the lower anterior abdominal wall and the iliac fossa.",
+        "id": "Ekstremitas inferior dan, melalui cabang-cabangnya, dinding perut anterior bagian bawah serta fossa iliaca."
+      },
+      "continues": "Arteria femoralis"
+    },
+    "quiz": {
+      "from": ["Arteria iliaca communis", "A. iliaca communis"],
+      "continues": ["Arteria femoralis", "A. femoralis"]
+    }
+  },
+  {
+    "key": "femoral-artery",
+    "kind": "artery",
+    "la": "Arteria femoralis",
+    "alt": ["A. femoralis"],
+    "en": "Femoral artery",
+    "desc": {
+      "en": "Main artery of the lower limb, continuing a. iliaca externa below the ligamentum inguinale. It descends through the trigonum femorale and the canalis adductorius and becomes a. poplitea at the hiatus adductorius.",
+      "id": "Arteri utama ekstremitas inferior, lanjutan a. iliaca externa di bawah ligamentum inguinale. Arteri ini turun melalui trigonum femorale dan canalis adductorius, lalu menjadi a. poplitea di hiatus adductorius."
+    },
+    "facts": {
+      "from": "Arteria iliaca externa",
+      "course": {
+        "en": "Enters the thigh behind the ligamentum inguinale at the mid-inguinal point, in the lateral compartment of the femoral sheath, with v. femoralis medial to it and n. femoralis lateral to it outside the sheath. It descends through the trigonum femorale to its apex, runs in the canalis adductorius under m. sartorius together with v. femoralis and n. saphenus, and passes through the hiatus adductorius in m. adductor magnus to become a. poplitea.",
+        "id": "Masuk ke paha di belakang ligamentum inguinale pada titik mid-inguinal, di kompartemen lateral vagina vasorum femoralium, dengan v. femoralis di medialnya dan n. femoralis di lateralnya di luar selubung. Arteri turun melalui trigonum femorale sampai puncaknya, berjalan di canalis adductorius di bawah m. sartorius bersama v. femoralis dan n. saphenus, lalu melewati hiatus adductorius pada m. adductor magnus dan menjadi a. poplitea."
+      },
+      "branches": ["Arteria epigastrica superficialis", "Arteria circumflexa ilium superficialis", "Arteria pudenda externa superficialis", "Arteria pudenda externa profunda", "Arteria profunda femoris", "Arteria descendens genus"],
+      "supplies": {
+        "en": "The thigh, the lower anterior abdominal wall and external genitalia (superficial branches) and, through a. poplitea, the leg and foot.",
+        "id": "Paha, dinding perut anterior bagian bawah dan genitalia eksterna (cabang superfisial) serta, melalui a. poplitea, tungkai bawah dan kaki."
+      },
+      "continues": "Arteria poplitea",
+      "clinical": {
+        "en": "The femoral pulse is felt just below the ligamentum inguinale at the mid-inguinal point. It is the common entry site for arterial catheters in angiography and coronary interventions; v. femoralis lies just medial to the pulse for venous access. Its superficial position in the trigonum femorale makes wounds there dangerous.",
+        "id": "Denyut a. femoralis diraba tepat di bawah ligamentum inguinale pada titik mid-inguinal. Arteri ini tempat masuk kateter yang lazim pada angiografi dan intervensi koroner; v. femoralis terletak tepat di medial denyut untuk akses vena. Letaknya yang superfisial di trigonum femorale membuat luka di daerah ini berbahaya."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria iliaca externa", "A. iliaca externa"],
+      "continues": ["Arteria poplitea", "A. poplitea"]
+    }
+  },
+  {
+    "key": "superficial-epigastric-artery",
+    "kind": "artery",
+    "la": "Arteria epigastrica superficialis",
+    "alt": ["A. epigastrica superficialis"],
+    "en": "Superficial epigastric artery",
+    "desc": {
+      "en": "Branch of a. femoralis just below the ligamentum inguinale. It pierces the fascia cribrosa and ascends in the superficial fascia toward the umbilicus, supplying the skin and subcutaneous tissue of the lower abdominal wall.",
+      "id": "Cabang a. femoralis tepat di bawah ligamentum inguinale. Arteri ini menembus fascia cribrosa dan naik di fascia superfisial menuju umbilicus, memperdarahi kulit dan jaringan subkutan dinding perut bagian bawah."
+    },
+    "facts": {
+      "from": "Arteria femoralis"
+    },
+    "quiz": {
+      "from": ["Arteria femoralis", "A. femoralis"]
+    }
+  },
+  {
+    "key": "superficial-circumflex-iliac-artery",
+    "kind": "artery",
+    "model": false,
+    "la": "Arteria circumflexa ilium superficialis",
+    "alt": ["A. circumflexa ilium superficialis", "Arteria circumflexa iliaca superficialis"],
+    "en": "Superficial circumflex iliac artery",
+    "desc": {
+      "en": "Small branch of a. femoralis that runs laterally, parallel to the ligamentum inguinale, toward the spina iliaca anterior superior and supplies the skin of the groin.",
+      "id": "Cabang kecil a. femoralis yang berjalan ke lateral, sejajar ligamentum inguinale, menuju spina iliaca anterior superior dan memperdarahi kulit daerah inguinal."
+    },
+    "facts": {
+      "from": "Arteria femoralis"
+    },
+    "quiz": {
+      "from": ["Arteria femoralis", "A. femoralis"]
+    }
+  },
+  {
+    "key": "superficial-external-pudendal-artery",
+    "kind": "artery",
+    "la": "Arteria pudenda externa superficialis",
+    "alt": ["A. pudenda externa superficialis", "Arteria pudendalis externa superficialis"],
+    "en": "Superficial external pudendal artery",
+    "desc": {
+      "en": "Branch of a. femoralis that passes medially through the fascia cribrosa, crosses in front of the funiculus spermaticus (or ligamentum teres uteri) and supplies the skin of the lower abdomen, penis and scrotum or labium majus.",
+      "id": "Cabang a. femoralis yang berjalan ke medial menembus fascia cribrosa, menyilang di depan funiculus spermaticus (atau ligamentum teres uteri) dan memperdarahi kulit perut bawah, penis dan scrotum atau labium majus."
+    },
+    "facts": {
+      "from": "Arteria femoralis"
+    },
+    "quiz": {
+      "from": ["Arteria femoralis", "A. femoralis"]
+    }
+  },
+  {
+    "key": "deep-external-pudendal-artery",
+    "kind": "artery",
+    "la": "Arteria pudenda externa profunda",
+    "alt": ["A. pudenda externa profunda", "Arteria pudendalis externa profunda"],
+    "en": "Deep external pudendal artery",
+    "desc": {
+      "en": "Branch of a. femoralis that runs medially deep to the fascia lata across m. pectineus and m. adductor longus, then pierces the fascia to supply the skin of the scrotum or labium majus.",
+      "id": "Cabang a. femoralis yang berjalan ke medial di bawah fascia lata melintasi m. pectineus dan m. adductor longus, lalu menembus fascia untuk memperdarahi kulit scrotum atau labium majus."
+    },
+    "facts": {
+      "from": "Arteria femoralis"
+    },
+    "quiz": {
+      "from": ["Arteria femoralis", "A. femoralis"]
+    }
+  },
+  {
+    "key": "deep-femoral-artery",
+    "kind": "artery",
+    "la": "Arteria profunda femoris",
+    "alt": ["A. profunda femoris"],
+    "en": "Deep femoral artery",
+    "desc": {
+      "en": "Largest branch of a. femoralis and the main artery of the thigh muscles. It arises in the trigonum femorale, descends behind m. adductor longus and gives the circumflex femoral and perforating arteries.",
+      "id": "Cabang terbesar a. femoralis dan arteri utama otot-otot paha. Arteri ini berasal di trigonum femorale, turun di belakang m. adductor longus dan memberikan aa. circumflexae femoris serta aa. perforantes."
+    },
+    "facts": {
+      "from": "Arteria femoralis",
+      "course": {
+        "en": "Arises from the lateral or posterior side of a. femoralis about 3-5 cm below the ligamentum inguinale, descends behind the femoral vessels, passes between m. pectineus and m. adductor longus, then between m. adductor longus and m. adductor brevis, and lower between m. adductor longus and m. adductor magnus. Its terminal part pierces m. adductor magnus as the last perforating artery.",
+        "id": "Berasal dari sisi lateral atau posterior a. femoralis sekitar 3-5 cm di bawah ligamentum inguinale, turun di belakang vasa femoralis, lewat di antara m. pectineus dan m. adductor longus, lalu di antara m. adductor longus dan m. adductor brevis, dan lebih ke bawah di antara m. adductor longus dan m. adductor magnus. Ujungnya menembus m. adductor magnus sebagai a. perforans terakhir."
+      },
+      "branches": ["Arteria circumflexa femoris medialis", "Arteria circumflexa femoris lateralis", "Arteriae perforantes", "Rami musculares"],
+      "supplies": {
+        "en": "The muscles of the thigh (adductors, hamstrings, vasti), the femur and the hip joint.",
+        "id": "Otot-otot paha (adduktor, hamstring, vasti), femur dan sendi panggul."
+      },
+      "clinical": {
+        "en": "Its circumflex branches supply the head and neck of the femur, and its perforating branches form a chain of anastomoses down the back of the thigh that can carry blood around a blockage of a. femoralis.",
+        "id": "Cabang circumflexa-nya memperdarahi caput dan collum femoris, sedangkan aa. perforantes membentuk rantai anastomosis di paha belakang yang dapat mengalirkan darah melewati sumbatan a. femoralis."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria femoralis", "A. femoralis"]
+    }
+  },
+  {
+    "key": "medial-circumflex-femoral-artery",
+    "kind": "artery",
+    "la": "Arteria circumflexa femoris medialis",
+    "alt": ["A. circumflexa femoris medialis", "Arteria circumflexa medialis femoris"],
+    "en": "Medial circumflex femoral artery",
+    "desc": {
+      "en": "Branch of a. profunda femoris (sometimes of a. femoralis) that winds around the medial side of the femur to the back of the hip. It provides most of the blood supply to the head and neck of the femur.",
+      "id": "Cabang a. profunda femoris (kadang a. femoralis) yang melingkari sisi medial femur menuju bagian belakang panggul. Arteri ini memberikan sebagian besar perdarahan caput dan collum femoris."
+    },
+    "facts": {
+      "from": "Arteria profunda femoris",
+      "course": {
+        "en": "Passes backward between m. iliopsoas and m. pectineus, then between m. obturatorius externus and m. adductor brevis; its deep branch runs along the upper border of m. quadratus femoris toward the fossa trochanterica and gives the retinacular arteries that ascend along the collum femoris under the synovial membrane.",
+        "id": "Berjalan ke belakang di antara m. iliopsoas dan m. pectineus, lalu di antara m. obturatorius externus dan m. adductor brevis; ramus profundus-nya berjalan di sepanjang tepi atas m. quadratus femoris menuju fossa trochanterica dan memberikan aa. retinaculares yang naik di sepanjang collum femoris di bawah membrana synovialis."
+      },
+      "branches": ["Ramus superficialis", "Ramus profundus", "Ramus acetabularis"],
+      "supplies": {
+        "en": "The caput and collum femoris, the adductor muscles and the upper hamstrings.",
+        "id": "Caput dan collum femoris, otot adduktor dan bagian atas otot hamstring."
+      },
+      "clinical": {
+        "en": "A displaced intracapsular fracture of the collum femoris tears the retinacular arteries from this vessel and can lead to avascular necrosis of the caput femoris. It also takes part in the cruciate anastomosis.",
+        "id": "Fraktur intrakapsular collum femoris yang bergeser merobek aa. retinaculares dari arteri ini dan dapat menimbulkan nekrosis avaskular caput femoris. Arteri ini juga ikut membentuk anastomosis cruciata."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria profunda femoris", "A. profunda femoris", "Arteria femoralis"]
+    }
+  },
+  {
+    "key": "lateral-circumflex-femoral-artery",
+    "kind": "artery",
+    "la": "Arteria circumflexa femoris lateralis",
+    "alt": ["A. circumflexa femoris lateralis", "Arteria circumflexa lateralis femoris"],
+    "en": "Lateral circumflex femoral artery",
+    "desc": {
+      "en": "Branch of a. profunda femoris (sometimes of a. femoralis) that runs laterally deep to m. sartorius and m. rectus femoris and divides into ascending, transverse and descending branches.",
+      "id": "Cabang a. profunda femoris (kadang a. femoralis) yang berjalan ke lateral di bawah m. sartorius dan m. rectus femoris lalu bercabang menjadi ramus ascendens, transversus dan descendens."
+    },
+    "facts": {
+      "from": "Arteria profunda femoris",
+      "course": {
+        "en": "Passes laterally between the branches of n. femoralis, behind m. sartorius and m. rectus femoris. The ascending branch runs toward the trochanter major and anterior gluteal region, the transverse branch winds around the femur, and the descending branch runs down along m. vastus lateralis to the knee.",
+        "id": "Berjalan ke lateral di antara cabang-cabang n. femoralis, di belakang m. sartorius dan m. rectus femoris. Ramus ascendens menuju trochanter major dan regio glutea anterior, ramus transversus melingkari femur, dan ramus descendens turun di sepanjang m. vastus lateralis sampai lutut."
+      },
+      "branches": ["Ramus ascendens", "Ramus transversus", "Ramus descendens"],
+      "supplies": {
+        "en": "M. quadriceps femoris, the region of the trochanter major, the anterior gluteal region and the knee anastomosis.",
+        "id": "M. quadriceps femoris, daerah trochanter major, regio glutea anterior dan anastomosis lutut."
+      },
+      "clinical": {
+        "en": "Its ascending branch joins the gluteal arteries, its transverse branch joins the cruciate anastomosis, and its descending branch is the pedicle of the anterolateral thigh flap.",
+        "id": "Ramus ascendens bergabung dengan aa. gluteae, ramus transversus ikut dalam anastomosis cruciata, dan ramus descendens menjadi pedikel flap paha anterolateral (ALT flap)."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria profunda femoris", "A. profunda femoris", "Arteria femoralis"]
+    }
+  },
+  {
+    "key": "descending-branch-of-lateral-circumflex-femoral-artery",
+    "kind": "artery",
+    "la": "Ramus descendens arteriae circumflexae femoris lateralis",
+    "alt": ["R. descendens a. circumflexae femoris lateralis", "Ramus descendens arteriae circumflexae lateralis femoris"],
+    "en": "Descending branch of lateral circumflex femoral artery",
+    "desc": {
+      "en": "Runs down behind m. rectus femoris along m. vastus lateralis to the knee, supplying m. vastus lateralis and joining the genicular anastomosis. It is the pedicle of the anterolateral thigh (ALT) flap.",
+      "id": "Turun di belakang m. rectus femoris di sepanjang m. vastus lateralis sampai lutut, memperdarahi m. vastus lateralis dan bergabung dengan anastomosis genus. Cabang ini menjadi pedikel flap paha anterolateral (ALT flap)."
+    },
+    "facts": {
+      "from": "Arteria circumflexa femoris lateralis"
+    },
+    "quiz": {
+      "from": ["Arteria circumflexa femoris lateralis", "A. circumflexa femoris lateralis"]
+    }
+  },
+  {
+    "key": "perforating-femoral-arteries",
+    "kind": "artery",
+    "la": "Arteriae perforantes",
+    "alt": ["Aa. perforantes", "Arteriae perforantes femoris"],
+    "en": "Perforating arteries of thigh",
+    "desc": {
+      "en": "Usually three branches of a. profunda femoris, with its terminal part as a fourth, that pierce m. adductor magnus close to the linea aspera to reach the posterior compartment of the thigh.",
+      "id": "Biasanya tiga cabang a. profunda femoris, ditambah ujungnya sebagai yang keempat, yang menembus m. adductor magnus dekat linea aspera untuk mencapai kompartemen posterior paha."
+    },
+    "facts": {
+      "from": "Arteria profunda femoris",
+      "supplies": {
+        "en": "The hamstrings, m. adductor magnus, m. vastus lateralis and the femur (the nutrient artery usually comes from the second perforating artery).",
+        "id": "Otot hamstring, m. adductor magnus, m. vastus lateralis dan femur (a. nutricia femoris biasanya berasal dari a. perforans kedua)."
+      },
+      "clinical": {
+        "en": "They anastomose with each other, with a. glutea inferior above (the first perforating artery joins the cruciate anastomosis) and with the branches of a. poplitea below.",
+        "id": "Arteri-arteri ini saling beranastomosis, di atas dengan a. glutea inferior (a. perforans pertama ikut anastomosis cruciata) dan di bawah dengan cabang-cabang a. poplitea."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria profunda femoris", "A. profunda femoris"]
+    }
+  },
+  {
+    "key": "descending-genicular-artery",
+    "kind": "artery",
+    "model": false,
+    "la": "Arteria descendens genus",
+    "alt": ["A. descendens genus"],
+    "en": "Descending genicular artery",
+    "desc": {
+      "en": "Last branch of a. femoralis, given off in the canalis adductorius just before the hiatus adductorius. It gives a saphenous branch that accompanies n. saphenus and articular branches to the medial side of the knee anastomosis.",
+      "id": "Cabang terakhir a. femoralis yang keluar di canalis adductorius tepat sebelum hiatus adductorius. Arteri ini memberikan ramus saphenus yang menyertai n. saphenus dan rami articulares ke sisi medial anastomosis lutut."
+    },
+    "facts": {
+      "from": "Arteria femoralis",
+      "branches": ["Ramus saphenus", "Rami articulares"]
+    },
+    "quiz": {
+      "from": ["Arteria femoralis", "A. femoralis"]
+    }
+  },
+  {
+    "key": "obturator-artery",
+    "kind": "artery",
+    "la": "Arteria obturatoria",
+    "alt": ["A. obturatoria"],
+    "en": "Obturator artery",
+    "desc": {
+      "en": "Branch of the anterior division of a. iliaca interna that runs along the lateral pelvic wall with n. obturatorius, passes through the canalis obturatorius and supplies the medial thigh muscles and the hip joint.",
+      "id": "Cabang divisio anterior a. iliaca interna yang berjalan di dinding lateral pelvis bersama n. obturatorius, melewati canalis obturatorius dan memperdarahi otot paha medial serta sendi panggul."
+    },
+    "facts": {
+      "from": "Arteria iliaca interna (divisio anterior)",
+      "course": {
+        "en": "Runs forward on the lateral pelvic wall below n. obturatorius, leaves the pelvis through the canalis obturatorius and divides into anterior and posterior branches around the membrana obturatoria. The posterior branch gives the ramus acetabularis, which passes through the incisura acetabuli and runs in the ligamentum capitis femoris to the femoral head.",
+        "id": "Berjalan ke depan di dinding lateral pelvis di bawah n. obturatorius, keluar dari pelvis melalui canalis obturatorius dan bercabang menjadi ramus anterior dan posterior di sekitar membrana obturatoria. Ramus posterior memberikan ramus acetabularis yang melewati incisura acetabuli dan berjalan dalam ligamentum capitis femoris menuju caput femoris."
+      },
+      "branches": ["Ramus pubicus", "Ramus acetabularis", "Ramus anterior", "Ramus posterior"],
+      "supplies": {
+        "en": "M. obturatorius internus and externus, the adductor muscles, the ilium and pubis, the hip joint and a small part of the caput femoris.",
+        "id": "M. obturatorius internus dan externus, otot adduktor, os ilium dan os pubis, sendi panggul dan sebagian kecil caput femoris."
+      },
+      "clinical": {
+        "en": "In some people an aberrant obturator artery arises from a. epigastrica inferior and descends close to the anulus femoralis (corona mortis), where it can be cut during femoral hernia repair. The artery of the ligamentum capitis femoris supplies only a small part of the adult femoral head.",
+        "id": "Pada sebagian orang a. obturatoria aberans berasal dari a. epigastrica inferior dan turun dekat anulus femoralis (corona mortis), sehingga dapat terpotong saat operasi hernia femoralis. Arteri dalam ligamentum capitis femoris hanya memperdarahi sebagian kecil caput femoris pada orang dewasa."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria iliaca interna", "A. iliaca interna", "Divisio anterior arteriae iliacae internae"]
+    }
+  },
+  {
+    "key": "superior-gluteal-artery",
+    "kind": "artery",
+    "la": "Arteria glutea superior",
+    "alt": ["A. glutea superior", "Arteria glutaea superior", "A. glutaea superior"],
+    "en": "Superior gluteal artery",
+    "desc": {
+      "en": "Largest branch of a. iliaca interna, from its posterior division. It leaves the pelvis through the foramen ischiadicum majus above m. piriformis with n. gluteus superior and supplies the gluteal muscles.",
+      "id": "Cabang terbesar a. iliaca interna, berasal dari divisio posterior. Arteri ini keluar dari pelvis melalui foramen ischiadicum majus di atas m. piriformis bersama n. gluteus superior dan memperdarahi otot-otot gluteal."
+    },
+    "facts": {
+      "from": "Arteria iliaca interna (divisio posterior)",
+      "course": {
+        "en": "Runs backward between the truncus lumbosacralis and the anterior ramus of S1, leaves the pelvis above m. piriformis and divides into a ramus superficialis to m. gluteus maximus and a ramus profundus that runs between m. gluteus medius and m. gluteus minimus with n. gluteus superior.",
+        "id": "Berjalan ke belakang di antara truncus lumbosacralis dan ramus anterior S1, keluar dari pelvis di atas m. piriformis lalu bercabang menjadi ramus superficialis ke m. gluteus maximus dan ramus profundus yang berjalan di antara m. gluteus medius dan m. gluteus minimus bersama n. gluteus superior."
+      },
+      "branches": ["Ramus superficialis", "Ramus profundus"],
+      "supplies": {
+        "en": "M. gluteus maximus, medius and minimus, m. tensor fasciae latae and the hip joint.",
+        "id": "M. gluteus maximus, medius dan minimus, m. tensor fasciae latae dan sendi panggul."
+      },
+      "clinical": {
+        "en": "One of the two main arteries of the gluteal region named in the module. It can be torn in pelvic fractures and deep wounds of the upper buttock, with severe bleeding.",
+        "id": "Salah satu dari dua arteri utama regio glutea yang ditanyakan di modul. Arteri ini dapat robek pada fraktur pelvis dan luka dalam di bokong atas, dengan perdarahan hebat."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria iliaca interna", "A. iliaca interna"]
+    }
+  },
+  {
+    "key": "inferior-gluteal-artery",
+    "kind": "artery",
+    "la": "Arteria glutea inferior",
+    "alt": ["A. glutea inferior", "Arteria glutaea inferior", "A. glutaea inferior"],
+    "en": "Inferior gluteal artery",
+    "desc": {
+      "en": "Branch of the anterior division of a. iliaca interna. It leaves the pelvis through the foramen ischiadicum majus below m. piriformis, with n. gluteus inferior and n. ischiadicus, and supplies m. gluteus maximus and the upper back of the thigh.",
+      "id": "Cabang divisio anterior a. iliaca interna. Arteri ini keluar dari pelvis melalui foramen ischiadicum majus di bawah m. piriformis, bersama n. gluteus inferior dan n. ischiadicus, lalu memperdarahi m. gluteus maximus dan bagian atas paha belakang."
+    },
+    "facts": {
+      "from": "Arteria iliaca interna (divisio anterior)",
+      "course": {
+        "en": "Passes backward between the anterior rami of S1 and S2 (or S2 and S3) and leaves the pelvis below m. piriformis.",
+        "id": "Berjalan ke belakang di antara rami anteriores S1 dan S2 (atau S2 dan S3) lalu keluar dari pelvis di bawah m. piriformis."
+      },
+      "branches": ["Arteria comitans nervi ischiadici", "Rami musculares"],
+      "supplies": {
+        "en": "M. gluteus maximus, m. obturatorius internus, m. quadratus femoris, the upper hamstrings and n. ischiadicus.",
+        "id": "M. gluteus maximus, m. obturatorius internus, m. quadratus femoris, bagian atas otot hamstring dan n. ischiadicus."
+      },
+      "clinical": {
+        "en": "Joins the cruciate anastomosis behind the femur, with the circumflex femoral arteries and the first perforating artery, a collateral route around the hip.",
+        "id": "Ikut membentuk anastomosis cruciata di belakang femur bersama aa. circumflexae femoris dan a. perforans pertama, yaitu jalur kolateral di sekitar panggul."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria iliaca interna", "A. iliaca interna"]
+    }
+  },
+  {
+    "key": "internal-pudendal-artery",
+    "kind": "artery",
+    "la": "Arteria pudenda interna",
+    "alt": ["A. pudenda interna", "Arteria pudendalis interna"],
+    "en": "Internal pudendal artery",
+    "desc": {
+      "en": "Branch of the anterior division of a. iliaca interna and the main artery of the perineum. It leaves the pelvis below m. piriformis, curves around the spina ischiadica and runs in the canalis pudendalis with n. pudendus.",
+      "id": "Cabang divisio anterior a. iliaca interna dan arteri utama perineum. Arteri ini keluar dari pelvis di bawah m. piriformis, melengkung di sekitar spina ischiadica dan berjalan di canalis pudendalis bersama n. pudendus."
+    },
+    "facts": {
+      "from": "Arteria iliaca interna (divisio anterior)",
+      "course": {
+        "en": "Leaves the pelvis through the foramen ischiadicum majus below m. piriformis, crosses the spina ischiadica, enters the perineum through the foramen ischiadicum minus and runs forward in the canalis pudendalis.",
+        "id": "Keluar dari pelvis melalui foramen ischiadicum majus di bawah m. piriformis, menyilang spina ischiadica, masuk ke perineum melalui foramen ischiadicum minus lalu berjalan ke depan di canalis pudendalis."
+      },
+      "branches": ["Arteria rectalis inferior", "Arteria perinealis", "Arteria bulbi penis", "Arteria urethralis", "Arteria profunda penis", "Arteria dorsalis penis"],
+      "supplies": {
+        "en": "The perineum, the lower anal canal and the external genitalia, including the erectile tissue.",
+        "id": "Perineum, canalis analis bagian bawah dan genitalia eksterna termasuk jaringan erektil."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria iliaca interna", "A. iliaca interna"]
+    }
+  },
+  {
+    "key": "popliteal-artery",
+    "kind": "artery",
+    "la": "Arteria poplitea",
+    "alt": ["A. poplitea"],
+    "en": "Popliteal artery",
+    "desc": {
+      "en": "Continuation of a. femoralis from the hiatus adductorius to the lower border of m. popliteus, where it divides into a. tibialis anterior and a. tibialis posterior. It is the deepest structure in the fossa poplitea.",
+      "id": "Lanjutan a. femoralis dari hiatus adductorius sampai tepi bawah m. popliteus, tempat arteri bercabang menjadi a. tibialis anterior dan a. tibialis posterior. Arteri ini struktur paling dalam di fossa poplitea."
+    },
+    "facts": {
+      "from": "Arteria femoralis",
+      "course": {
+        "en": "Enters the fossa poplitea through the hiatus adductorius and descends on its floor: the facies poplitea femoris, the capsule of the knee joint and m. popliteus. V. poplitea lies superficial to it and n. tibialis is the most superficial of the three. It ends at the lower border of m. popliteus, deep to the arcus tendineus musculi solei.",
+        "id": "Masuk ke fossa poplitea melalui hiatus adductorius dan turun di dasarnya: facies poplitea femoris, capsula articularis genus dan m. popliteus. V. poplitea terletak di superfisialnya dan n. tibialis paling superfisial di antara ketiganya. Arteri berakhir di tepi bawah m. popliteus, di bawah arcus tendineus musculi solei."
+      },
+      "branches": ["Arteria superior lateralis genus", "Arteria superior medialis genus", "Arteria media genus", "Arteriae surales", "Arteria inferior lateralis genus", "Arteria inferior medialis genus", "Arteria tibialis anterior", "Arteria tibialis posterior"],
+      "supplies": {
+        "en": "The knee joint, the muscles bordering the fossa poplitea, m. gastrocnemius and m. soleus, and through its terminal branches the leg and foot.",
+        "id": "Sendi lutut, otot-otot yang membatasi fossa poplitea, m. gastrocnemius dan m. soleus, serta melalui cabang terminalnya tungkai bawah dan kaki."
+      },
+      "clinical": {
+        "en": "Its pulse is hard to feel: the knee is flexed to relax the deep fascia and the fingers press deeply into the fossa. Popliteal aneurysm is the commonest peripheral aneurysm and can compress n. tibialis. Because it lies close to bone, it can be torn in supracondylar fractures of the femur and in knee dislocations.",
+        "id": "Denyutnya sulit diraba: lutut difleksikan agar fascia profunda kendur, lalu jari menekan dalam ke fossa. Aneurisma a. poplitea adalah aneurisma perifer yang paling sering dan dapat menekan n. tibialis. Karena letaknya dekat tulang, arteri ini dapat robek pada fraktur suprakondiler femur dan dislokasi lutut."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria femoralis", "A. femoralis"]
+    }
+  },
+  {
+    "key": "superior-lateral-genicular-artery",
+    "kind": "artery",
+    "la": "Arteria superior lateralis genus",
+    "alt": ["A. superior lateralis genus", "Arteria genus superior lateralis", "Arteria genicularis superior lateralis"],
+    "en": "Superior lateral genicular artery",
+    "desc": {
+      "en": "Branch of a. poplitea that curves around the femur just above the condylus lateralis, deep to the tendon of m. biceps femoris, and joins the genicular anastomosis in front of the knee.",
+      "id": "Cabang a. poplitea yang melingkari femur tepat di atas condylus lateralis, di bawah tendo m. biceps femoris, lalu bergabung dengan anastomosis genus di depan lutut."
+    },
+    "facts": {
+      "from": "Arteria poplitea"
+    },
+    "quiz": {
+      "from": ["Arteria poplitea", "A. poplitea"]
+    }
+  },
+  {
+    "key": "superior-medial-genicular-artery",
+    "kind": "artery",
+    "la": "Arteria superior medialis genus",
+    "alt": ["A. superior medialis genus", "Arteria genus superior medialis", "Arteria genicularis superior medialis"],
+    "en": "Superior medial genicular artery",
+    "desc": {
+      "en": "Branch of a. poplitea that curves around the femur just above the condylus medialis, deep to the hamstring tendons and in front of the tendon of m. adductor magnus, and joins the genicular anastomosis.",
+      "id": "Cabang a. poplitea yang melingkari femur tepat di atas condylus medialis, di bawah tendo-tendo hamstring dan di depan tendo m. adductor magnus, lalu bergabung dengan anastomosis genus."
+    },
+    "facts": {
+      "from": "Arteria poplitea"
+    },
+    "quiz": {
+      "from": ["Arteria poplitea", "A. poplitea"]
+    }
+  },
+  {
+    "key": "middle-genicular-artery",
+    "kind": "artery",
+    "la": "Arteria media genus",
+    "alt": ["A. media genus", "Arteria genus media", "Arteria genicularis media"],
+    "en": "Middle genicular artery",
+    "desc": {
+      "en": "Small branch of a. poplitea that pierces the posterior capsule of the knee near the ligamentum popliteum obliquum and supplies the ligamenta cruciata and the synovial membrane.",
+      "id": "Cabang kecil a. poplitea yang menembus capsula posterior sendi lutut dekat ligamentum popliteum obliquum dan memperdarahi ligamenta cruciata serta membrana synovialis."
+    },
+    "facts": {
+      "from": "Arteria poplitea"
+    },
+    "quiz": {
+      "from": ["Arteria poplitea", "A. poplitea"]
+    }
+  },
+  {
+    "key": "inferior-lateral-genicular-artery",
+    "kind": "artery",
+    "la": "Arteria inferior lateralis genus",
+    "alt": ["A. inferior lateralis genus", "Arteria genus inferior lateralis", "Arteria genicularis inferior lateralis"],
+    "en": "Inferior lateral genicular artery",
+    "desc": {
+      "en": "Branch of a. poplitea that runs laterally above the caput fibulae, along the lateral meniscus and deep to the ligamentum collaterale fibulare, to the front of the knee.",
+      "id": "Cabang a. poplitea yang berjalan ke lateral di atas caput fibulae, di sepanjang meniscus lateralis dan di bawah ligamentum collaterale fibulare, menuju bagian depan lutut."
+    },
+    "facts": {
+      "from": "Arteria poplitea"
+    },
+    "quiz": {
+      "from": ["Arteria poplitea", "A. poplitea"]
+    }
+  },
+  {
+    "key": "inferior-medial-genicular-artery",
+    "kind": "artery",
+    "la": "Arteria inferior medialis genus",
+    "alt": ["A. inferior medialis genus", "Arteria genus inferior medialis", "Arteria genicularis inferior medialis"],
+    "en": "Inferior medial genicular artery",
+    "desc": {
+      "en": "Branch of a. poplitea that runs medially below the condylus medialis tibiae, deep to the ligamentum collaterale tibiale, and joins the genicular anastomosis.",
+      "id": "Cabang a. poplitea yang berjalan ke medial di bawah condylus medialis tibiae, di bawah ligamentum collaterale tibiale, lalu bergabung dengan anastomosis genus."
+    },
+    "facts": {
+      "from": "Arteria poplitea"
+    },
+    "quiz": {
+      "from": ["Arteria poplitea", "A. poplitea"]
+    }
+  },
+  {
+    "key": "patellar-anastomosis",
+    "kind": "artery",
+    "la": "Rete patellare",
+    "alt": ["Rete patellae"],
+    "en": "Patellar anastomosis",
+    "desc": {
+      "en": "Superficial arterial network over and around the patella, part of the genicular anastomosis. It is fed by the genicular arteries, a. descendens genus, the descending branch of a. circumflexa femoris lateralis and a. recurrens tibialis anterior.",
+      "id": "Jaringan arteri superfisial di atas dan di sekitar patella, bagian dari anastomosis genus. Jaringan ini mendapat darah dari aa. genus, a. descendens genus, ramus descendens a. circumflexae femoris lateralis dan a. recurrens tibialis anterior."
+    },
+    "facts": {
+      "from": "Arteriae genus",
+      "clinical": {
+        "en": "The genicular anastomosis can maintain some flow to the leg when a. poplitea is slowly occluded, but it is usually not enough after a sudden injury.",
+        "id": "Anastomosis genus dapat mempertahankan sebagian aliran ke tungkai bawah bila a. poplitea tersumbat perlahan, tetapi biasanya tidak cukup setelah cedera mendadak."
+      }
+    },
+    "quiz": {
+      "from": ["Arteriae genus", "Arteria poplitea"]
+    }
+  },
+  {
+    "key": "anterior-tibial-artery",
+    "kind": "artery",
+    "la": "Arteria tibialis anterior",
+    "alt": ["A. tibialis anterior"],
+    "en": "Anterior tibial artery",
+    "desc": {
+      "en": "Smaller terminal branch of a. poplitea. It passes forward above the membrana interossea into the anterior compartment of the leg and continues on the dorsum of the foot as a. dorsalis pedis.",
+      "id": "Cabang terminal a. poplitea yang lebih kecil. Arteri ini berjalan ke depan di atas membrana interossea masuk ke kompartemen anterior tungkai bawah dan berlanjut di punggung kaki sebagai a. dorsalis pedis."
+    },
+    "facts": {
+      "from": "Arteria poplitea",
+      "course": {
+        "en": "Arises at the lower border of m. popliteus, passes forward through the gap above the membrana interossea cruris and descends on the membrane with n. fibularis profundus, between m. tibialis anterior and m. extensor digitorum longus and lower between m. tibialis anterior and m. extensor hallucis longus. At the ankle, midway between the malleoli, it becomes a. dorsalis pedis.",
+        "id": "Berasal di tepi bawah m. popliteus, berjalan ke depan melalui celah di atas membrana interossea cruris lalu turun di atas membrana bersama n. fibularis profundus, di antara m. tibialis anterior dan m. extensor digitorum longus, dan lebih ke bawah di antara m. tibialis anterior dan m. extensor hallucis longus. Di pergelangan kaki, di pertengahan antara kedua malleolus, arteri menjadi a. dorsalis pedis."
+      },
+      "branches": ["Arteria recurrens tibialis posterior", "Arteria recurrens tibialis anterior", "Rami musculares", "Arteria malleolaris anterior medialis", "Arteria malleolaris anterior lateralis"],
+      "supplies": {
+        "en": "The anterior compartment of the leg and the knee and ankle anastomoses.",
+        "id": "Kompartemen anterior tungkai bawah serta anastomosis lutut dan pergelangan kaki."
+      },
+      "continues": "Arteria dorsalis pedis",
+      "clinical": {
+        "en": "Swelling inside the tight anterior compartment (after tibial fracture or overuse) compresses it together with n. fibularis profundus (anterior compartment syndrome).",
+        "id": "Pembengkakan di dalam kompartemen anterior yang sempit (setelah fraktur tibia atau penggunaan berlebihan) menekan arteri ini bersama n. fibularis profundus (sindrom kompartemen anterior)."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria poplitea", "A. poplitea"],
+      "continues": ["Arteria dorsalis pedis", "A. dorsalis pedis"]
+    }
+  },
+  {
+    "key": "posterior-tibial-artery",
+    "kind": "artery",
+    "la": "Arteria tibialis posterior",
+    "alt": ["A. tibialis posterior"],
+    "en": "Posterior tibial artery",
+    "desc": {
+      "en": "Larger terminal branch of a. poplitea. It supplies the posterior and lateral compartments of the leg and, through its two terminal branches (a. plantaris medialis and lateralis), the sole of the foot.",
+      "id": "Cabang terminal a. poplitea yang lebih besar. Arteri ini memperdarahi kompartemen posterior dan lateral tungkai bawah dan, melalui dua cabang terminalnya (a. plantaris medialis dan lateralis), telapak kaki."
+    },
+    "facts": {
+      "from": "Arteria poplitea",
+      "course": {
+        "en": "Begins at the lower border of m. popliteus, passes deep to the arcus tendineus musculi solei and descends on m. tibialis posterior and m. flexor digitorum longus, deep to m. soleus, with n. tibialis. It passes behind the malleolus medialis, between the tendons of m. flexor digitorum longus and m. flexor hallucis longus, under the retinaculum musculorum flexorum, and divides into a. plantaris medialis and a. plantaris lateralis.",
+        "id": "Dimulai di tepi bawah m. popliteus, lewat di bawah arcus tendineus musculi solei lalu turun di atas m. tibialis posterior dan m. flexor digitorum longus, di bawah m. soleus, bersama n. tibialis. Arteri lewat di belakang malleolus medialis, di antara tendo m. flexor digitorum longus dan m. flexor hallucis longus, di bawah retinaculum musculorum flexorum, lalu bercabang menjadi a. plantaris medialis dan a. plantaris lateralis."
+      },
+      "branches": ["Ramus circumflexus fibularis", "Arteria fibularis", "Arteria nutricia tibiae", "Rami malleolares mediales", "Rami calcanei", "Arteria plantaris medialis", "Arteria plantaris lateralis"],
+      "supplies": {
+        "en": "The posterior compartment of the leg, the tibia, the heel and the sole.",
+        "id": "Kompartemen posterior tungkai bawah, tibia, tumit dan telapak kaki."
+      },
+      "clinical": {
+        "en": "Its pulse is felt behind the malleolus medialis, between it and the tendo calcaneus. Behind the malleolus the order from front to back is: tendon of m. tibialis posterior, tendon of m. flexor digitorum longus, a. tibialis posterior with its veins, n. tibialis, tendon of m. flexor hallucis longus. The pulse is checked when assessing peripheral arterial disease.",
+        "id": "Denyutnya diraba di belakang malleolus medialis, di antara malleolus dan tendo calcaneus. Di belakang malleolus urutan dari depan ke belakang adalah: tendo m. tibialis posterior, tendo m. flexor digitorum longus, a. tibialis posterior dengan venanya, n. tibialis, tendo m. flexor hallucis longus. Denyut ini diperiksa pada penilaian penyakit arteri perifer."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria poplitea", "A. poplitea"]
+    }
+  },
+  {
+    "key": "fibular-artery",
+    "kind": "artery",
+    "la": "Arteria fibularis",
+    "alt": ["A. fibularis", "Arteria peronea", "A. peronea"],
+    "en": "Fibular artery",
+    "desc": {
+      "en": "Largest branch of a. tibialis posterior. It descends behind the fibula, within or behind m. flexor hallucis longus, and ends in calcaneal branches behind the malleolus lateralis.",
+      "id": "Cabang terbesar a. tibialis posterior. Arteri ini turun di belakang fibula, di dalam atau di belakang m. flexor hallucis longus, dan berakhir sebagai rami calcanei di belakang malleolus lateralis."
+    },
+    "facts": {
+      "from": "Arteria tibialis posterior",
+      "course": {
+        "en": "Arises a few centimetres below the lower border of m. popliteus and descends toward the fibula along its posterior surface.",
+        "id": "Berasal beberapa sentimeter di bawah tepi bawah m. popliteus dan turun menuju fibula di sepanjang permukaan posteriornya."
+      },
+      "branches": ["Ramus perforans", "Ramus communicans", "Rami malleolares laterales", "Rami calcanei", "Arteria nutricia fibulae", "Rami musculares"],
+      "supplies": {
+        "en": "The deep posterior and the lateral compartment muscles, the fibula, the lateral ankle and the heel.",
+        "id": "Otot kompartemen posterior lapisan dalam dan kompartemen lateral, fibula, pergelangan kaki sisi lateral dan tumit."
+      },
+      "clinical": {
+        "en": "Its perforating branch can replace a small a. dorsalis pedis. The fibula with this artery is used as a free bone flap, for example in jaw reconstruction.",
+        "id": "Ramus perforans-nya dapat menggantikan a. dorsalis pedis yang kecil. Fibula beserta arteri ini dipakai sebagai flap tulang bebas, misalnya pada rekonstruksi rahang."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria tibialis posterior", "A. tibialis posterior"]
+    }
+  },
+  {
+    "key": "calcaneal-branches-of-posterior-tibial-artery",
+    "kind": "artery",
+    "la": "Rami calcanei arteriae tibialis posterioris",
+    "alt": ["Rr. calcanei a. tibialis posterioris"],
+    "en": "Calcaneal branches of posterior tibial artery",
+    "desc": {
+      "en": "Branches that arise just above the end of a. tibialis posterior, pierce the retinaculum musculorum flexorum and supply the skin and fat of the medial and plantar heel; they join the rete calcaneum.",
+      "id": "Cabang-cabang yang keluar tepat di atas ujung a. tibialis posterior, menembus retinaculum musculorum flexorum dan memperdarahi kulit serta jaringan lemak tumit sisi medial dan plantar; cabang ini ikut membentuk rete calcaneum."
+    },
+    "facts": {
+      "from": "Arteria tibialis posterior"
+    },
+    "quiz": {
+      "from": ["Arteria tibialis posterior", "A. tibialis posterior"]
+    }
+  },
+  {
+    "key": "calcaneal-branches-of-fibular-artery",
+    "kind": "artery",
+    "la": "Rami calcanei arteriae fibularis",
+    "alt": ["Rr. calcanei a. fibularis"],
+    "en": "Calcaneal branches of fibular artery",
+    "desc": {
+      "en": "Terminal branches of a. fibularis behind the malleolus lateralis that supply the lateral side of the heel and join the rete calcaneum.",
+      "id": "Cabang terminal a. fibularis di belakang malleolus lateralis yang memperdarahi sisi lateral tumit dan ikut membentuk rete calcaneum."
+    },
+    "facts": {
+      "from": "Arteria fibularis"
+    },
+    "quiz": {
+      "from": ["Arteria fibularis", "A. fibularis", "A. peronea"]
+    }
+  },
+  {
+    "key": "dorsalis-pedis-artery",
+    "kind": "artery",
+    "la": "Arteria dorsalis pedis",
+    "alt": ["A. dorsalis pedis"],
+    "en": "Dorsalis pedis artery",
+    "desc": {
+      "en": "Continuation of a. tibialis anterior on the dorsum of the foot, beginning midway between the malleoli. Its pulse is felt between the tendons of m. extensor hallucis longus and m. extensor digitorum longus.",
+      "id": "Lanjutan a. tibialis anterior di punggung kaki, dimulai di pertengahan antara kedua malleolus. Denyutnya diraba di antara tendo m. extensor hallucis longus dan m. extensor digitorum longus."
+    },
+    "facts": {
+      "from": "Arteria tibialis anterior",
+      "course": {
+        "en": "Runs forward over the talus, os naviculare and os cuneiforme intermedium, deep to the retinaculum musculorum extensorum inferius, between the tendon of m. extensor hallucis longus (medial) and the tendon of m. extensor digitorum longus to the second toe (lateral); it is crossed by m. extensor hallucis brevis. At the proximal end of the first intermetatarsal space it divides into a. metatarsalis dorsalis I and a. plantaris profunda.",
+        "id": "Berjalan ke depan di atas talus, os naviculare dan os cuneiforme intermedium, di bawah retinaculum musculorum extensorum inferius, di antara tendo m. extensor hallucis longus (medial) dan tendo m. extensor digitorum longus untuk jari kedua (lateral); arteri ini disilang m. extensor hallucis brevis. Di ujung proksimal spatium intermetatarsale I arteri bercabang menjadi a. metatarsalis dorsalis I dan a. plantaris profunda."
+      },
+      "branches": ["Arteria tarsalis lateralis", "Arteriae tarsales mediales", "Arteria arcuata", "Arteria metatarsalis dorsalis I", "Arteria plantaris profunda"],
+      "supplies": {
+        "en": "The dorsum of the foot and toes, and through a. plantaris profunda the plantar arch.",
+        "id": "Punggung kaki dan jari-jari kaki, serta melalui a. plantaris profunda, arcus plantaris."
+      },
+      "clinical": {
+        "en": "The dorsalis pedis pulse is felt on the dorsum of the foot just lateral to the tendon of m. extensor hallucis longus; a weak or absent pulse suggests peripheral arterial disease, although the artery is small or absent in some healthy people (then replaced by the perforating branch of a. fibularis). This answers the module question on the two tendons beside the artery.",
+        "id": "Denyut a. dorsalis pedis diraba di punggung kaki tepat di lateral tendo m. extensor hallucis longus; denyut yang lemah atau tidak teraba mengarah ke penyakit arteri perifer, walaupun pada sebagian orang sehat arteri ini kecil atau tidak ada (diganti oleh ramus perforans a. fibularis). Ini menjawab soal modul tentang dua tendo di samping arteri tersebut."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria tibialis anterior", "A. tibialis anterior"]
+    }
+  },
+  {
+    "key": "lateral-tarsal-artery",
+    "kind": "artery",
+    "la": "Arteria tarsalis lateralis",
+    "alt": ["A. tarsalis lateralis", "Arteria tarsea lateralis"],
+    "en": "Lateral tarsal artery",
+    "desc": {
+      "en": "Branch of a. dorsalis pedis that runs laterally deep to m. extensor digitorum brevis, supplies this muscle and the tarsal bones and joints, and anastomoses with a. arcuata.",
+      "id": "Cabang a. dorsalis pedis yang berjalan ke lateral di bawah m. extensor digitorum brevis, memperdarahi otot tersebut serta ossa tarsi dan sendi-sendinya, lalu beranastomosis dengan a. arcuata."
+    },
+    "facts": {
+      "from": "Arteria dorsalis pedis"
+    },
+    "quiz": {
+      "from": ["Arteria dorsalis pedis", "A. dorsalis pedis"]
+    }
+  },
+  {
+    "key": "arcuate-artery",
+    "kind": "artery",
+    "la": "Arteria arcuata",
+    "alt": ["A. arcuata"],
+    "en": "Arcuate artery",
+    "desc": {
+      "en": "Branch of a. dorsalis pedis that runs laterally across the bases of the lateral four metatarsals, deep to the extensor tendons, and gives the second to fourth dorsal metatarsal arteries.",
+      "id": "Cabang a. dorsalis pedis yang berjalan ke lateral melintasi basis empat os metatarsi lateral, di bawah tendo-tendo ekstensor, dan memberikan aa. metatarsales dorsales II-IV."
+    },
+    "facts": {
+      "from": "Arteria dorsalis pedis",
+      "branches": ["Arteriae metatarsales dorsales II-IV"],
+      "supplies": {
+        "en": "The dorsum of the lateral part of the foot and toes; it anastomoses with a. tarsalis lateralis.",
+        "id": "Punggung kaki bagian lateral dan jari-jari kaki; arteri ini beranastomosis dengan a. tarsalis lateralis."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria dorsalis pedis", "A. dorsalis pedis"]
+    }
+  },
+  {
+    "key": "deep-plantar-artery",
+    "kind": "artery",
+    "la": "Arteria plantaris profunda",
+    "alt": ["A. plantaris profunda", "Ramus plantaris profundus"],
+    "en": "Deep plantar artery",
+    "desc": {
+      "en": "Terminal branch of a. dorsalis pedis that passes between the two heads of the first m. interosseus dorsalis into the sole and joins a. plantaris lateralis to complete the arcus plantaris profundus.",
+      "id": "Cabang terminal a. dorsalis pedis yang lewat di antara dua caput m. interosseus dorsalis I masuk ke telapak kaki dan bergabung dengan a. plantaris lateralis untuk melengkapi arcus plantaris profundus."
+    },
+    "facts": {
+      "from": "Arteria dorsalis pedis"
+    },
+    "quiz": {
+      "from": ["Arteria dorsalis pedis", "A. dorsalis pedis"]
+    }
+  },
+  {
+    "key": "dorsal-metatarsal-arteries",
+    "kind": "artery",
+    "la": "Arteriae metatarsales dorsales",
+    "alt": ["Aa. metatarsales dorsales", "Arteriae metatarseae dorsales"],
+    "en": "Dorsal metatarsal arteries",
+    "desc": {
+      "en": "Four arteries: the first from a. dorsalis pedis, the second to fourth from a. arcuata. They run on the dorsal interossei, receive perforating branches from the plantar side and divide into dorsal digital arteries for adjacent toes.",
+      "id": "Empat arteri: yang pertama dari a. dorsalis pedis, yang kedua sampai keempat dari a. arcuata. Arteri ini berjalan di atas mm. interossei dorsales, menerima cabang perforans dari sisi plantar dan bercabang menjadi aa. digitales dorsales untuk jari-jari kaki yang berdampingan."
+    },
+    "facts": {
+      "from": "Arteria arcuata (I: arteria dorsalis pedis)",
+      "branches": ["Arteriae digitales dorsales pedis"]
+    },
+    "quiz": {
+      "from": ["Arteria arcuata", "A. arcuata", "Arteria dorsalis pedis"]
+    }
+  },
+  {
+    "key": "dorsal-digital-arteries-of-foot",
+    "kind": "artery",
+    "la": "Arteriae digitales dorsales pedis",
+    "alt": ["Aa. digitales dorsales pedis"],
+    "en": "Dorsal digital arteries of foot",
+    "desc": {
+      "en": "Branches of the dorsal metatarsal arteries that run along the dorsal sides of the toes and supply their dorsal skin.",
+      "id": "Cabang aa. metatarsales dorsales yang berjalan di sisi dorsal jari-jari kaki dan memperdarahi kulit dorsalnya."
+    },
+    "facts": {
+      "from": "Arteriae metatarsales dorsales"
+    },
+    "quiz": {
+      "from": ["Arteriae metatarsales dorsales", "Aa. metatarsales dorsales"]
+    }
+  },
+  {
+    "key": "medial-plantar-artery",
+    "kind": "artery",
+    "la": "Arteria plantaris medialis",
+    "alt": ["A. plantaris medialis"],
+    "en": "Medial plantar artery",
+    "desc": {
+      "en": "Smaller terminal branch of a. tibialis posterior. It runs forward with n. plantaris medialis between m. abductor hallucis and m. flexor digitorum brevis and supplies mainly the medial sole and the great toe.",
+      "id": "Cabang terminal a. tibialis posterior yang lebih kecil. Arteri ini berjalan ke depan bersama n. plantaris medialis di antara m. abductor hallucis dan m. flexor digitorum brevis dan terutama memperdarahi telapak kaki bagian medial serta ibu jari kaki."
+    },
+    "facts": {
+      "from": "Arteria tibialis posterior",
+      "branches": ["Ramus profundus arteriae plantaris medialis", "Ramus superficialis arteriae plantaris medialis"]
+    },
+    "quiz": {
+      "from": ["Arteria tibialis posterior", "A. tibialis posterior"]
+    }
+  },
+  {
+    "key": "superficial-branch-of-medial-plantar-artery",
+    "kind": "artery",
+    "la": "Ramus superficialis arteriae plantaris medialis",
+    "alt": ["R. superficialis a. plantaris medialis"],
+    "en": "Superficial branch of medial plantar artery",
+    "desc": {
+      "en": "Runs along the medial border of the sole and supplies the skin of the medial sole and the medial side of the great toe; its digital twigs accompany branches of n. plantaris medialis.",
+      "id": "Berjalan di sepanjang tepi medial telapak kaki dan memperdarahi kulit telapak kaki bagian medial serta sisi medial ibu jari kaki; cabang digitalnya menyertai cabang-cabang n. plantaris medialis."
+    },
+    "facts": {
+      "from": "Arteria plantaris medialis"
+    },
+    "quiz": {
+      "from": ["Arteria plantaris medialis", "A. plantaris medialis"]
+    }
+  },
+  {
+    "key": "lateral-plantar-artery",
+    "kind": "artery",
+    "la": "Arteria plantaris lateralis",
+    "alt": ["A. plantaris lateralis"],
+    "en": "Lateral plantar artery",
+    "desc": {
+      "en": "Larger terminal branch of a. tibialis posterior. It runs forward and laterally with n. plantaris lateralis between m. flexor digitorum brevis and m. quadratus plantae to the base of the fifth metatarsal, then turns medially across the sole as the arcus plantaris profundus.",
+      "id": "Cabang terminal a. tibialis posterior yang lebih besar. Arteri ini berjalan ke depan dan lateral bersama n. plantaris lateralis di antara m. flexor digitorum brevis dan m. quadratus plantae sampai basis os metatarsi V, lalu berbelok ke medial menyeberangi telapak kaki sebagai arcus plantaris profundus."
+    },
+    "facts": {
+      "from": "Arteria tibialis posterior",
+      "continues": "Arcus plantaris profundus"
+    },
+    "quiz": {
+      "from": ["Arteria tibialis posterior", "A. tibialis posterior"],
+      "continues": ["Arcus plantaris profundus", "Arcus plantaris"]
+    }
+  },
+  {
+    "key": "plantar-arch",
+    "kind": "artery",
+    "la": "Arcus plantaris profundus",
+    "alt": ["Arcus plantaris", "Arcus plantaris profunda"],
+    "en": "Deep plantar arch",
+    "desc": {
+      "en": "Deep arterial arch of the sole, the continuation of a. plantaris lateralis, completed medially by a. plantaris profunda from a. dorsalis pedis. It crosses the bases of the second to fourth metatarsals between the third and fourth muscle layers of the sole.",
+      "id": "Lengkung arteri dalam di telapak kaki, lanjutan a. plantaris lateralis, yang dilengkapi di medial oleh a. plantaris profunda dari a. dorsalis pedis. Lengkung ini melintasi basis os metatarsi II-IV di antara lapisan otot ketiga dan keempat telapak kaki."
+    },
+    "facts": {
+      "from": "Arteria plantaris lateralis et arteria plantaris profunda",
+      "branches": ["Arteriae metatarsales plantares", "Rami perforantes", "Rami articulares"],
+      "supplies": {
+        "en": "The deep muscles of the sole and, through the plantar metatarsal arteries, the toes.",
+        "id": "Otot-otot dalam telapak kaki dan, melalui aa. metatarsales plantares, jari-jari kaki."
+      },
+      "clinical": {
+        "en": "It links the territories of a. tibialis anterior and a. tibialis posterior, so deep wounds of the sole can bleed from both ends.",
+        "id": "Lengkung ini menghubungkan daerah a. tibialis anterior dan a. tibialis posterior, sehingga luka dalam di telapak kaki dapat berdarah dari kedua ujung."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria plantaris lateralis", "A. plantaris lateralis"]
+    }
+  },
+  {
+    "key": "plantar-metatarsal-arteries",
+    "kind": "artery",
+    "la": "Arteriae metatarsales plantares",
+    "alt": ["Aa. metatarsales plantares", "Arteriae metatarseae plantares"],
+    "en": "Plantar metatarsal arteries",
+    "desc": {
+      "en": "Four arteries from the arcus plantaris profundus that run forward between the metatarsals; each gives a perforating branch to the dorsal side and continues as a common plantar digital artery.",
+      "id": "Empat arteri dari arcus plantaris profundus yang berjalan ke depan di antara ossa metatarsi; masing-masing memberikan ramus perforans ke sisi dorsal dan berlanjut sebagai a. digitalis plantaris communis."
+    },
+    "facts": {
+      "from": "Arcus plantaris profundus",
+      "branches": ["Rami perforantes", "Arteriae digitales plantares communes"]
+    },
+    "quiz": {
+      "from": ["Arcus plantaris profundus", "Arcus plantaris"]
+    }
+  },
+  {
+    "key": "perforating-branches-of-plantar-metatarsal-arteries",
+    "kind": "artery",
+    "la": "Rami perforantes arteriarum metatarsalium plantarium",
+    "alt": ["Rami perforantes arteriarum metatarsearum plantarium", "Rami perforantes"],
+    "en": "Perforating branches of plantar metatarsal arteries",
+    "desc": {
+      "en": "Branches that pass upward between the metatarsals to join the dorsal metatarsal arteries, linking the plantar and dorsal arteries of the foot.",
+      "id": "Cabang-cabang yang naik di antara ossa metatarsi untuk bergabung dengan aa. metatarsales dorsales, menghubungkan arteri plantar dan dorsal kaki."
+    },
+    "facts": {
+      "from": "Arteriae metatarsales plantares"
+    },
+    "quiz": {
+      "from": ["Arteriae metatarsales plantares", "Aa. metatarsales plantares"]
+    }
+  },
+  {
+    "key": "common-plantar-digital-arteries",
+    "kind": "artery",
+    "la": "Arteriae digitales plantares communes",
+    "alt": ["Aa. digitales plantares communes"],
+    "en": "Common plantar digital arteries",
+    "desc": {
+      "en": "Continuations of the plantar metatarsal arteries that divide near the webs into proper plantar digital arteries for adjacent toes.",
+      "id": "Lanjutan aa. metatarsales plantares yang dekat sela jari bercabang menjadi aa. digitales plantares propriae untuk jari-jari kaki yang berdampingan."
+    },
+    "facts": {
+      "from": "Arteriae metatarsales plantares",
+      "branches": ["Arteriae digitales plantares propriae"]
+    },
+    "quiz": {
+      "from": ["Arteriae metatarsales plantares", "Aa. metatarsales plantares"]
+    }
+  },
+  {
+    "key": "proper-plantar-digital-arteries",
+    "kind": "artery",
+    "la": "Arteriae digitales plantares propriae",
+    "alt": ["Aa. digitales plantares propriae"],
+    "en": "Proper plantar digital arteries",
+    "desc": {
+      "en": "Run along the plantar sides of the toes and supply them, including the dorsal tips around the nails.",
+      "id": "Berjalan di sisi plantar jari-jari kaki dan memperdarahinya, termasuk ujung dorsal di sekitar kuku."
+    },
+    "facts": {
+      "from": "Arteriae digitales plantares communes"
+    },
+    "quiz": {
+      "from": ["Arteriae digitales plantares communes", "Aa. digitales plantares communes"]
+    }
+  }
+]

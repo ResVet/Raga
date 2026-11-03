@@ -1,0 +1,3129 @@
+[
+ {
+  "key": "ethmoidal-notch",
+  "kind": "landmark",
+  "la": "Incisura ethmoidalis",
+  "alt": [
+   "Incisura ethmoidea",
+   "Incisura ethmoidalis ossis frontalis"
+  ],
+  "en": "Ethmoidal notch",
+  "desc": {
+   "en": "The gap between the two orbital parts of the frontal bone that receives the cribriform plate of the ethmoid.",
+   "id": "Celah di antara kedua pars orbitalis os frontale yang ditempati lamina cribrosa os ethmoidale."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "external-surface-of-squamous-part-of-frontal-bone",
+  "kind": "landmark",
+  "la": "Facies externa squamae frontalis",
+  "alt": [
+   "Facies externa ossis frontalis"
+  ],
+  "en": "External surface of frontal squama",
+  "desc": {
+   "en": "The smooth convex outer surface of the frontal squama that shapes the forehead.",
+   "id": "Permukaan luar squama frontalis yang cembung dan halus, membentuk dahi."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "foramen-caecum-of-frontal-bone",
+  "kind": "landmark",
+  "la": "Foramen caecum ossis frontalis",
+  "alt": [
+   "Foramen caecum",
+   "Foramen cecum"
+  ],
+  "en": "Foramen caecum of frontal bone",
+  "desc": {
+   "en": "A small blind pit at the lower end of the frontal crest, just in front of the crista galli; in children it may carry an emissary vein from the nasal cavity to the superior sagittal sinus.",
+   "id": "Lubang kecil yang buntu di ujung bawah crista frontalis, tepat di depan crista galli; pada anak dapat dilalui vena emissaria dari cavitas nasi ke sinus sagittalis superior."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "fossa-for-lacrimal-gland",
+  "kind": "landmark",
+  "la": "Fossa glandulae lacrimalis",
+  "alt": [],
+  "en": "Fossa for lacrimal gland",
+  "desc": {
+   "en": "A shallow hollow in the anterolateral part of the orbital roof, behind the zygomatic process, that holds the orbital part of the lacrimal gland.",
+   "id": "Cekungan dangkal di bagian anterolateral atap orbita, di belakang processus zygomaticus, tempat pars orbitalis glandula lacrimalis."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "frontal-crest",
+  "kind": "landmark",
+  "la": "Crista frontalis",
+  "alt": [],
+  "en": "Frontal crest",
+  "desc": {
+   "en": "A midline ridge on the inner surface of the frontal bone, above the foramen caecum; the falx cerebri attaches to it.",
+   "id": "Rigi di garis tengah permukaan dalam os frontale, di atas foramen caecum; tempat melekat falx cerebri."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "frontal-eminence",
+  "kind": "landmark",
+  "la": "Tuber frontale",
+  "alt": [
+   "Eminentia frontalis",
+   "Tuber frontalis"
+  ],
+  "en": "Frontal eminence",
+  "desc": {
+   "en": "A rounded prominence on each side of the forehead above the supraorbital margin, marking the ossification centre of each half of the frontal bone.",
+   "id": "Tonjolan bulat di kiri dan kanan dahi di atas margo supraorbitalis, bekas pusat penulangan tiap belahan os frontale."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "frontal-part-of-orbital-margin",
+  "kind": "landmark",
+  "la": "Margo supraorbitalis",
+  "alt": [
+   "Pars frontalis marginis orbitalis",
+   "Margo supraorbitalis ossis frontalis"
+  ],
+  "en": "Supra-orbital margin",
+  "desc": {
+   "en": "The curved upper rim of the orbit, formed by the frontal bone, with the supraorbital notch or foramen at the junction of its medial and middle thirds.",
+   "id": "Tepi atas orbita yang dibentuk os frontale; incisura atau foramen supraorbitale terletak di perbatasan sepertiga medial dan tengahnya."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "glabella",
+  "kind": "landmark",
+  "la": "Glabella",
+  "alt": [],
+  "en": "Glabella",
+  "desc": {
+   "en": "The smooth, slightly raised area between the superciliary arches, above the root of the nose.",
+   "id": "Daerah halus yang sedikit menonjol di antara kedua arcus superciliaris, di atas pangkal hidung."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "internal-surface-of-squamous-part-of-frontal-bone",
+  "kind": "landmark",
+  "la": "Facies interna squamae frontalis",
+  "alt": [
+   "Facies interna ossis frontalis"
+  ],
+  "en": "Internal surface of frontal squama",
+  "desc": {
+   "en": "The concave inner surface of the frontal squama facing the frontal lobes, marked by the frontal crest and the groove for the superior sagittal sinus.",
+   "id": "Permukaan dalam squama frontalis yang cekung menghadap lobus frontalis, dengan crista frontalis dan sulcus sinus sagittalis superioris."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "nasal-margin-of-frontal-bone",
+  "kind": "landmark",
+  "la": "Margo nasalis ossis frontalis",
+  "alt": [
+   "Margo nasalis"
+  ],
+  "en": "Nasal margin of frontal bone",
+  "desc": {
+   "en": "The serrated lower margin between the orbits that articulates with the nasal bones and the frontal processes of the maxillae.",
+   "id": "Tepi bawah yang bergerigi di antara kedua orbita, bersendi dengan ossa nasalia dan processus frontalis maxillae."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "nasal-part-of-frontal-bone",
+  "kind": "landmark",
+  "la": "Pars nasalis ossis frontalis",
+  "alt": [],
+  "en": "Nasal part of frontal bone",
+  "desc": {
+   "en": "The small median part of the frontal bone between the orbital parts, carrying the nasal margin and the nasal spine.",
+   "id": "Bagian kecil di tengah os frontale di antara kedua pars orbitalis, tempat margo nasalis dan spina nasalis."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "nasal-spine-of-frontal-bone",
+  "kind": "landmark",
+  "la": "Spina nasalis ossis frontalis",
+  "alt": [
+   "Spina nasalis"
+  ],
+  "en": "Nasal spine of frontal bone",
+  "desc": {
+   "en": "A sharp downward projection behind the nasal bones that forms a small part of the bony nasal septum.",
+   "id": "Tonjolan runcing ke bawah di belakang ossa nasalia yang ikut membentuk sebagian kecil septum nasi osseum."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "opening-of-frontal-sinus",
+  "kind": "landmark",
+  "la": "Apertura sinus frontalis",
+  "alt": [],
+  "en": "Opening of frontal sinus",
+  "desc": {
+   "en": "The opening in the floor of each frontal sinus that leads through the frontonasal duct to the middle nasal meatus.",
+   "id": "Muara di dasar tiap sinus frontalis yang menuju meatus nasi medius melalui ductus frontonasalis."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "orbital-part-of-frontal-bone",
+  "kind": "landmark",
+  "la": "Pars orbitalis ossis frontalis",
+  "alt": [],
+  "en": "Orbital part of frontal bone",
+  "desc": {
+   "en": "The thin, nearly horizontal plates that form most of the roof of each orbit and the floor of the anterior cranial fossa.",
+   "id": "Lempeng tipis yang hampir horizontal, membentuk sebagian besar atap orbita sekaligus dasar fossa cranii anterior."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "orbital-plate-of-frontal-bone",
+  "kind": "landmark",
+  "la": "Lamina orbitalis ossis frontalis",
+  "alt": [],
+  "en": "Orbital plate of frontal bone",
+  "desc": {
+   "en": "Each thin triangular plate of the orbital part; the two plates are separated by the ethmoidal notch.",
+   "id": "Masing-masing lempeng tipis segitiga pada pars orbitalis; kedua lempeng dipisahkan incisura ethmoidalis."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "orbital-surface-of-frontal-bone",
+  "kind": "landmark",
+  "la": "Facies orbitalis ossis frontalis",
+  "alt": [],
+  "en": "Orbital surface of frontal bone",
+  "desc": {
+   "en": "The smooth lower surface of each orbital plate facing the orbit, with the lacrimal fossa laterally and the trochlear fovea medially.",
+   "id": "Permukaan bawah lamina orbitalis yang menghadap orbita, dengan fossa glandulae lacrimalis di lateral dan fovea trochlearis di medial."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "parietal-margin-of-frontal-bone",
+  "kind": "landmark",
+  "la": "Margo parietalis ossis frontalis",
+  "alt": [],
+  "en": "Parietal margin of frontal bone",
+  "desc": {
+   "en": "The thick serrated posterior border of the squama that meets the parietal bones at the coronal suture.",
+   "id": "Tepi belakang squama yang tebal dan bergerigi, bertemu ossa parietalia pada sutura coronalis."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "sphenoidal-margin-of-frontal-bone",
+  "kind": "landmark",
+  "la": "Margo sphenoidalis ossis frontalis",
+  "alt": [
+   "Margo sphenoideus ossis frontalis"
+  ],
+  "en": "Sphenoidal margin of frontal bone",
+  "desc": {
+   "en": "The posterior border of the orbital parts that articulates with the lesser wings and, laterally, the greater wings of the sphenoid.",
+   "id": "Tepi belakang pars orbitalis yang bersendi dengan ala minor dan, di lateral, ala major os sphenoidale."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "squamous-part-of-frontal-bone",
+  "kind": "landmark",
+  "la": "Squama frontalis",
+  "alt": [
+   "Squama ossis frontalis",
+   "Pars squamosa ossis frontalis"
+  ],
+  "en": "Frontal squama",
+  "desc": {
+   "en": "The large vertical part of the frontal bone that forms the forehead and the front of the cranial vault.",
+   "id": "Bagian vertikal yang lebar dari os frontale, membentuk dahi dan bagian depan atap tengkorak."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "superciliary-arch",
+  "kind": "landmark",
+  "la": "Arcus superciliaris",
+  "alt": [],
+  "en": "Superciliary arch",
+  "desc": {
+   "en": "A curved ridge above each supraorbital margin, under the eyebrow, usually more prominent in men.",
+   "id": "Rigi melengkung di atas tiap margo supraorbitalis, di bawah alis, umumnya lebih menonjol pada laki-laki."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "supra-orbital-notch",
+  "kind": "landmark",
+  "la": "Incisura supraorbitalis",
+  "alt": [
+   "Foramen supraorbitale"
+  ],
+  "en": "Supra-orbital notch (foramen)",
+  "desc": {
+   "en": "A notch in the supraorbital margin, sometimes closed into a foramen, that carries the supraorbital nerve (from V1) and vessels.",
+   "id": "Takik pada margo supraorbitalis, kadang tertutup menjadi foramen, yang dilalui n. supraorbitalis (cabang V1) dan pembuluh supraorbitalis."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "temporal-line",
+  "kind": "landmark",
+  "la": "Linea temporalis ossis frontalis",
+  "alt": [
+   "Linea temporalis"
+  ],
+  "en": "Temporal line of frontal bone",
+  "desc": {
+   "en": "A curved ridge running up and back from the zygomatic process; it continues on the parietal bone as the superior and inferior temporal lines and bounds the temporal fossa.",
+   "id": "Rigi melengkung yang berjalan ke atas belakang dari processus zygomaticus, berlanjut pada os parietale sebagai linea temporalis superior dan inferior, dan membatasi fossa temporalis."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "temporal-surface-of-frontal-bone",
+  "kind": "landmark",
+  "la": "Facies temporalis ossis frontalis",
+  "alt": [],
+  "en": "Temporal surface of frontal bone",
+  "desc": {
+   "en": "The small area behind the temporal line that forms the front of the temporal fossa; part of temporalis arises here.",
+   "id": "Daerah kecil di belakang linea temporalis yang membentuk bagian depan fossa temporalis; sebagian m. temporalis berorigo di sini."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "trochlear-fovea",
+  "kind": "landmark",
+  "la": "Fovea trochlearis",
+  "alt": [],
+  "en": "Trochlear fovea",
+  "desc": {
+   "en": "A small pit near the medial part of the orbital roof where the cartilaginous trochlea of the superior oblique muscle attaches.",
+   "id": "Lekuk kecil di dekat bagian medial atap orbita, tempat melekat trochlea (tulang rawan) m. obliquus superior."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "trochlear-spine",
+  "kind": "landmark",
+  "la": "Spina trochlearis",
+  "alt": [],
+  "en": "Trochlear spine",
+  "desc": {
+   "en": "A small, inconstant spine at the edge of the trochlear fovea that also anchors the trochlea.",
+   "id": "Tonjolan tulang kecil yang tidak selalu ada di tepi fovea trochlearis, juga tempat melekat trochlea."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "zygomatic-process-of-frontal-bone",
+  "kind": "landmark",
+  "la": "Processus zygomaticus ossis frontalis",
+  "alt": [],
+  "en": "Zygomatic process of frontal bone",
+  "desc": {
+   "en": "The strong lateral end of the supraorbital margin that joins the zygomatic bone at the frontozygomatic suture.",
+   "id": "Ujung lateral margo supraorbitalis yang kuat, bersendi dengan os zygomaticum pada sutura frontozygomatica."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "base-of-mandible",
+  "kind": "landmark",
+  "la": "Basis mandibulae",
+  "alt": [],
+  "en": "Base of mandible",
+  "desc": {
+   "en": "The thick, rounded lower border of the body of the mandible.",
+   "id": "Tepi bawah corpus mandibulae yang tebal dan membulat."
+  },
+  "facts": {
+   "bone": "mandible"
+  },
+  "quiz": {
+   "bone": [
+    "Mandibula"
+   ]
+  }
+ },
+ {
+  "key": "body-of-mandible",
+  "kind": "landmark",
+  "la": "Corpus mandibulae",
+  "alt": [],
+  "en": "Body of mandible",
+  "desc": {
+   "en": "The horizontal U-shaped part of the mandible that carries the lower teeth in its alveolar part and joins the rami at the angles.",
+   "id": "Bagian horizontal mandibula berbentuk U yang memuat gigi bawah pada pars alveolaris dan bersambung dengan ramus di angulus mandibulae."
+  },
+  "facts": {
+   "bone": "mandible"
+  },
+  "quiz": {
+   "bone": [
+    "Mandibula"
+   ]
+  }
+ },
+ {
+  "key": "digastric-fossa",
+  "kind": "landmark",
+  "la": "Fossa digastrica",
+  "alt": [],
+  "en": "Digastric fossa",
+  "desc": {
+   "en": "A shallow hollow on the inner side of the base near the midline, where the anterior belly of the digastric attaches.",
+   "id": "Cekungan dangkal di sisi dalam basis mandibulae dekat garis tengah, tempat melekat venter anterior m. digastricus."
+  },
+  "facts": {
+   "bone": "mandible"
+  },
+  "quiz": {
+   "bone": [
+    "Mandibula"
+   ]
+  }
+ },
+ {
+  "key": "genion",
+  "kind": "landmark",
+  "la": "Genion",
+  "alt": [],
+  "en": "Genion",
+  "desc": {
+   "en": "A craniometric point at the tip of the mental spines on the inner surface of the mandible, in the midline.",
+   "id": "Titik kraniometri pada ujung spina mentalis di permukaan dalam mandibula, tepat di garis tengah."
+  },
+  "facts": {
+   "bone": "mandible"
+  },
+  "quiz": {
+   "bone": [
+    "Mandibula"
+   ]
+  }
+ },
+ {
+  "key": "gnathion",
+  "kind": "landmark",
+  "la": "Gnathion",
+  "alt": [],
+  "en": "Gnathion",
+  "desc": {
+   "en": "A craniometric point on the lower front of the bony chin in the midline, between its most anterior and its lowest points.",
+   "id": "Titik kraniometri di bagian depan bawah dagu tulang pada garis tengah, di antara titik paling depan dan titik terendahnya."
+  },
+  "facts": {
+   "bone": "mandible"
+  },
+  "quiz": {
+   "bone": [
+    "Mandibula"
+   ]
+  }
+ },
+ {
+  "key": "inferior-mental-spine",
+  "kind": "landmark",
+  "la": "Spina mentalis inferior",
+  "alt": [
+   "Spina geni inferior",
+   "Spina mentalis"
+  ],
+  "en": "Inferior mental spine",
+  "desc": {
+   "en": "The lower pair of small spines on the inner surface of the mandible in the midline; the geniohyoid arises here.",
+   "id": "Sepasang tonjolan kecil bagian bawah di permukaan dalam mandibula pada garis tengah; origo m. geniohyoideus."
+  },
+  "facts": {
+   "bone": "mandible"
+  },
+  "quiz": {
+   "bone": [
+    "Mandibula"
+   ]
+  }
+ },
+ {
+  "key": "mandibular-dental-arch",
+  "kind": "landmark",
+  "la": "Arcus dentalis inferior",
+  "alt": [
+   "Arcus dentalis mandibularis"
+  ],
+  "en": "Mandibular dental arch",
+  "desc": {
+   "en": "The curved row of the 16 permanent lower teeth set in the alveolar part of the mandible.",
+   "id": "Lengkung deretan 16 gigi permanen bawah yang tertanam pada pars alveolaris mandibulae."
+  },
+  "facts": {
+   "bone": "mandible"
+  },
+  "quiz": {
+   "bone": [
+    "Mandibula"
+   ]
+  }
+ },
+ {
+  "key": "mandibular-symphysis",
+  "kind": "landmark",
+  "la": "Symphysis mandibulae",
+  "alt": [
+   "Symphysis mentalis"
+  ],
+  "en": "Mandibular symphysis",
+  "desc": {
+   "en": "The median line where the two halves of the mandible meet; at birth they are joined by fibrous tissue, which ossifies in early childhood.",
+   "id": "Garis tengah tempat bertemunya kedua belahan mandibula; saat lahir keduanya disatukan jaringan fibrosa yang menulang pada awal masa kanak-kanak."
+  },
+  "facts": {
+   "bone": "mandible"
+  },
+  "quiz": {
+   "bone": [
+    "Mandibula"
+   ]
+  }
+ },
+ {
+  "key": "mental-foramen",
+  "kind": "landmark",
+  "la": "Foramen mentale",
+  "alt": [],
+  "en": "Mental foramen",
+  "desc": {
+   "en": "An opening on the outer surface of the body, below the second premolar or between the two premolars, where the mental nerve and vessels leave the mandibular canal.",
+   "id": "Lubang pada permukaan luar corpus mandibulae, di bawah premolar kedua atau di antara kedua premolar, tempat n. mentalis dan pembuluh mentalis keluar dari canalis mandibulae."
+  },
+  "facts": {
+   "bone": "mandible"
+  },
+  "quiz": {
+   "bone": [
+    "Mandibula"
+   ]
+  }
+ },
+ {
+  "key": "mental-protuberance",
+  "kind": "landmark",
+  "la": "Protuberantia mentalis",
+  "alt": [],
+  "en": "Mental protuberance",
+  "desc": {
+   "en": "The triangular midline prominence of the chin on the outer surface of the mandible.",
+   "id": "Tonjolan segitiga di garis tengah permukaan luar mandibula yang membentuk dagu."
+  },
+  "facts": {
+   "bone": "mandible"
+  },
+  "quiz": {
+   "bone": [
+    "Mandibula"
+   ]
+  }
+ },
+ {
+  "key": "mental-tubercle",
+  "kind": "landmark",
+  "la": "Tuberculum mentale",
+  "alt": [],
+  "en": "Mental tubercle",
+  "desc": {
+   "en": "The raised corner on each side of the base of the mental protuberance.",
+   "id": "Tonjolan kecil di sudut kiri dan kanan basis protuberantia mentalis."
+  },
+  "facts": {
+   "bone": "mandible"
+  },
+  "quiz": {
+   "bone": [
+    "Mandibula"
+   ]
+  }
+ },
+ {
+  "key": "oblique-line-of-mandible",
+  "kind": "landmark",
+  "la": "Linea obliqua mandibulae",
+  "alt": [
+   "Linea obliqua"
+  ],
+  "en": "Oblique line of mandible",
+  "desc": {
+   "en": "A ridge running from the mental tubercle up and back to the anterior border of the ramus; depressor anguli oris and depressor labii inferioris attach along it.",
+   "id": "Rigi dari tuberculum mentale ke atas belakang sampai tepi depan ramus; tempat melekat m. depressor anguli oris dan m. depressor labii inferioris."
+  },
+  "facts": {
+   "bone": "mandible"
+  },
+  "quiz": {
+   "bone": [
+    "Mandibula"
+   ]
+  }
+ },
+ {
+  "key": "sublingual-fossa",
+  "kind": "landmark",
+  "la": "Fovea sublingualis",
+  "alt": [
+   "Fossa sublingualis"
+  ],
+  "en": "Sublingual fossa",
+  "desc": {
+   "en": "A shallow hollow on the inner surface of the body, above the front part of the mylohyoid line, for the sublingual gland.",
+   "id": "Cekungan dangkal di permukaan dalam corpus mandibulae, di atas bagian depan linea mylohyoidea, tempat glandula sublingualis."
+  },
+  "facts": {
+   "bone": "mandible"
+  },
+  "quiz": {
+   "bone": [
+    "Mandibula"
+   ]
+  }
+ },
+ {
+  "key": "superior-mental-spine",
+  "kind": "landmark",
+  "la": "Spina mentalis superior",
+  "alt": [
+   "Spina geni superior",
+   "Spina mentalis"
+  ],
+  "en": "Superior mental spine",
+  "desc": {
+   "en": "The upper pair of small spines on the inner surface of the mandible in the midline; the genioglossus arises here.",
+   "id": "Sepasang tonjolan kecil bagian atas di permukaan dalam mandibula pada garis tengah; origo m. genioglossus."
+  },
+  "facts": {
+   "bone": "mandible"
+  },
+  "quiz": {
+   "bone": [
+    "Mandibula"
+   ]
+  }
+ },
+ {
+  "key": "maxillary-dental-arch",
+  "kind": "landmark",
+  "la": "Arcus dentalis superior",
+  "alt": [
+   "Arcus dentalis maxillaris"
+  ],
+  "en": "Maxillary dental arch",
+  "desc": {
+   "en": "The curved row of the 16 permanent upper teeth set in the alveolar processes of the two maxillae.",
+   "id": "Lengkung deretan 16 gigi permanen atas yang tertanam pada processus alveolaris kedua maxilla."
+  },
+  "facts": {
+   "bone": "maxilla"
+  },
+  "quiz": {
+   "bone": [
+    "Maxilla"
+   ]
+  }
+ },
+ {
+  "key": "cheek",
+  "kind": "landmark",
+  "la": "Bucca",
+  "alt": [
+   "Regio buccalis"
+  ],
+  "en": "Cheek",
+  "desc": {
+   "en": "The fleshy side of the face between the nose, mouth and ear; the buccinator forms its muscular layer.",
+   "id": "Bagian samping wajah yang berdaging di antara hidung, mulut, dan telinga; lapisan ototnya dibentuk m. buccinator."
+  },
+  "facts": {},
+  "quiz": {}
+ },
+ {
+  "key": "chin",
+  "kind": "landmark",
+  "la": "Mentum",
+  "alt": [
+   "Regio mentalis"
+  ],
+  "en": "Chin",
+  "desc": {
+   "en": "The prominence of the lower face over the mental protuberance of the mandible.",
+   "id": "Tonjolan wajah bagian bawah yang terletak di atas protuberantia mentalis mandibulae."
+  },
+  "facts": {},
+  "quiz": {}
+ },
+ {
+  "key": "ala-of-nose",
+  "kind": "landmark",
+  "la": "Ala nasi",
+  "alt": [],
+  "en": "Ala of nose",
+  "desc": {
+   "en": "The flared lateral wall of each nostril, shaped by the lateral crus of the major alar cartilage and fibrofatty tissue.",
+   "id": "Dinding lateral lubang hidung yang melebar, dibentuk crus laterale cartilago alaris major dan jaringan fibrolemak."
+  },
+  "facts": {},
+  "quiz": {}
+ },
+ {
+  "key": "apex-of-nose",
+  "kind": "landmark",
+  "la": "Apex nasi",
+  "alt": [],
+  "en": "Tip of nose",
+  "desc": {
+   "en": "The free tip of the external nose, supported by the two major alar cartilages.",
+   "id": "Ujung bebas hidung luar yang ditopang kedua cartilago alaris major."
+  },
+  "facts": {},
+  "quiz": {}
+ },
+ {
+  "key": "external-nose",
+  "kind": "landmark",
+  "la": "Nasus externus",
+  "alt": [],
+  "en": "External nose",
+  "desc": {
+   "en": "The pyramid-shaped projection of the face with a bony upper part (nasal bones, maxillae) and a cartilaginous lower part (septal and alar cartilages).",
+   "id": "Tonjolan wajah berbentuk piramida dengan kerangka tulang di bagian atas (ossa nasalia, maxillae) dan kerangka tulang rawan di bagian bawah (cartilago septi nasi dan cartilagines alares)."
+  },
+  "facts": {},
+  "quiz": {}
+ },
+ {
+  "key": "root-of-nose",
+  "kind": "landmark",
+  "la": "Radix nasi",
+  "alt": [],
+  "en": "Root of nose",
+  "desc": {
+   "en": "The upper end of the nose where it meets the forehead, at the level of the nasion.",
+   "id": "Pangkal hidung di bagian atas tempat hidung bertemu dahi, setinggi nasion."
+  },
+  "facts": {},
+  "quiz": {}
+ },
+ {
+  "key": "upper-lip",
+  "kind": "landmark",
+  "la": "Labium superius",
+  "alt": [
+   "Labium superius oris"
+  ],
+  "en": "Upper lip",
+  "desc": {
+   "en": "The upper musculofibrous fold around the mouth, with the orbicularis oris inside and the philtrum on its outer surface.",
+   "id": "Lipatan muskulofibrosa atas di sekitar mulut, berisi m. orbicularis oris, dengan philtrum pada permukaan luarnya."
+  },
+  "facts": {},
+  "quiz": {}
+ },
+ {
+  "key": "eyelids",
+  "kind": "landmark",
+  "la": "Palpebrae",
+  "alt": [],
+  "en": "Eyelids",
+  "desc": {
+   "en": "The two movable folds that cover and protect the front of the eyeball; each contains a tarsal plate and fibres of the orbicularis oculi.",
+   "id": "Dua lipatan yang dapat bergerak untuk menutup dan melindungi bagian depan bola mata; masing-masing berisi tarsus dan serabut m. orbicularis oculi."
+  },
+  "facts": {},
+  "quiz": {}
+ },
+ {
+  "key": "lower-eyelid",
+  "kind": "landmark",
+  "la": "Palpebra inferior",
+  "alt": [],
+  "en": "Lower eyelid",
+  "desc": {
+   "en": "The smaller, less mobile lid below the eye, containing the inferior tarsus.",
+   "id": "Kelopak di bawah mata yang lebih kecil dan kurang bergerak, berisi tarsus inferior."
+  },
+  "facts": {},
+  "quiz": {}
+ },
+ {
+  "key": "upper-eyelid",
+  "kind": "landmark",
+  "la": "Palpebra superior",
+  "alt": [],
+  "en": "Upper eyelid",
+  "desc": {
+   "en": "The larger, more mobile lid; it is raised by the levator palpebrae superioris (oculomotor nerve) and the superior tarsal muscle (sympathetic).",
+   "id": "Kelopak atas yang lebih besar dan lebih bergerak; diangkat oleh m. levator palpebrae superioris (n. oculomotorius) dan m. tarsalis superior (simpatis)."
+  },
+  "facts": {},
+  "quiz": {}
+ },
+ {
+  "key": "basilar-part-of-occipital-bone",
+  "kind": "landmark",
+  "la": "Pars basilaris ossis occipitalis",
+  "alt": [],
+  "en": "Basilar part of occipital bone",
+  "desc": {
+   "en": "The thick bar in front of the foramen magnum that slopes up to the sphenoid and forms the clivus with it; the pharyngeal tubercle lies on its lower surface.",
+   "id": "Batang tulang tebal di depan foramen magnum yang naik ke arah os sphenoidale dan bersamanya membentuk clivus; tuberculum pharyngeum terletak di permukaan bawahnya."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "cerebellar-fossa",
+  "kind": "landmark",
+  "la": "Fossa cerebellaris",
+  "alt": [],
+  "en": "Cerebellar fossa",
+  "desc": {
+   "en": "Each of the two lower hollows on the inner surface of the squama, below the grooves for the transverse sinuses, for the cerebellar hemispheres.",
+   "id": "Masing-masing dari dua cekungan bawah di permukaan dalam squama, di bawah sulcus sinus transversi, tempat hemispherium cerebelli."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "cerebral-fossa",
+  "kind": "landmark",
+  "la": "Fossa cerebralis",
+  "alt": [],
+  "en": "Cerebral fossa",
+  "desc": {
+   "en": "Each of the two upper hollows on the inner surface of the squama, above the transverse sinus grooves, for the occipital lobes.",
+   "id": "Masing-masing dari dua cekungan atas di permukaan dalam squama, di atas sulcus sinus transversi, tempat lobus occipitalis."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "condylar-canal",
+  "kind": "landmark",
+  "la": "Canalis condylaris",
+  "alt": [],
+  "en": "Condylar canal",
+  "desc": {
+   "en": "An inconstant canal opening in the condylar fossa behind the condyle; it carries an emissary vein from the sigmoid sinus.",
+   "id": "Saluran yang tidak selalu ada, bermuara di fossa condylaris di belakang condylus; dilalui vena emissaria dari sinus sigmoideus."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "condylar-fossa",
+  "kind": "landmark",
+  "la": "Fossa condylaris",
+  "alt": [],
+  "en": "Condylar fossa",
+  "desc": {
+   "en": "The hollow behind each occipital condyle that receives the back edge of the superior articular facet of the atlas when the head is extended.",
+   "id": "Cekungan di belakang tiap condylus occipitalis yang menerima tepi belakang facies articularis superior atlas saat kepala ekstensi."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "cruciform-eminence",
+  "kind": "landmark",
+  "la": "Eminentia cruciformis",
+  "alt": [],
+  "en": "Cruciform eminence",
+  "desc": {
+   "en": "The cross-shaped arrangement of ridges and grooves on the inner surface of the squama, centred on the internal occipital protuberance.",
+   "id": "Susunan rigi dan alur berbentuk salib di permukaan dalam squama, berpusat di protuberantia occipitalis interna."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "external-occipital-crest",
+  "kind": "landmark",
+  "la": "Crista occipitalis externa",
+  "alt": [],
+  "en": "External occipital crest",
+  "desc": {
+   "en": "A midline ridge from the external occipital protuberance down to the foramen magnum; the nuchal ligament attaches to it.",
+   "id": "Rigi di garis tengah dari protuberantia occipitalis externa ke foramen magnum; tempat melekat ligamentum nuchae."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "external-occipital-protuberance",
+  "kind": "landmark",
+  "la": "Protuberantia occipitalis externa",
+  "alt": [
+   "Inion"
+  ],
+  "en": "External occipital protuberance",
+  "desc": {
+   "en": "The midline bump at the back of the skull, whose highest point is the inion; the nuchal ligament and trapezius attach here.",
+   "id": "Tonjolan di garis tengah bagian belakang tengkorak, titik tertingginya disebut inion; tempat melekat ligamentum nuchae dan m. trapezius."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "foramen-magnum",
+  "kind": "landmark",
+  "la": "Foramen magnum",
+  "alt": [],
+  "en": "Foramen magnum",
+  "desc": {
+   "en": "The large opening where the medulla oblongata continues as the spinal cord; it also carries the vertebral arteries, the spinal roots of the accessory nerves and the meninges.",
+   "id": "Lubang besar tempat medulla oblongata berlanjut menjadi medulla spinalis; juga dilalui aa. vertebrales, radix spinalis n. accessorius, dan meninges."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "groove-for-marginal-sinus",
+  "kind": "landmark",
+  "la": "Sulcus sinus marginalis",
+  "alt": [],
+  "en": "Groove for marginal sinus",
+  "desc": {
+   "en": "A faint groove along the margin of the foramen magnum for the marginal sinus.",
+   "id": "Alur samar di sepanjang tepi foramen magnum untuk sinus marginalis."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "groove-for-occipital-sinus",
+  "kind": "landmark",
+  "la": "Sulcus sinus occipitalis",
+  "alt": [],
+  "en": "Groove for occipital sinus",
+  "desc": {
+   "en": "A groove along the internal occipital crest for the occipital sinus.",
+   "id": "Alur di sepanjang crista occipitalis interna untuk sinus occipitalis."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "groove-for-transverse-sinus",
+  "kind": "landmark",
+  "la": "Sulcus sinus transversi",
+  "alt": [],
+  "en": "Groove for transverse sinus",
+  "desc": {
+   "en": "A broad horizontal groove on each side of the internal occipital protuberance for the transverse sinus; the tentorium cerebelli attaches to its lips.",
+   "id": "Alur horizontal lebar di kiri dan kanan protuberantia occipitalis interna untuk sinus transversus; tepinya menjadi tempat melekat tentorium cerebelli."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "hypoglossal-canal",
+  "kind": "landmark",
+  "la": "Canalis nervi hypoglossi",
+  "alt": [
+   "Canalis hypoglossi",
+   "Canalis hypoglossus"
+  ],
+  "en": "Hypoglossal canal",
+  "desc": {
+   "en": "A canal above each occipital condyle that carries the hypoglossal nerve (CN XII).",
+   "id": "Saluran di atas tiap condylus occipitalis yang dilalui n. hypoglossus (N. XII)."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "inferior-nuchal-line",
+  "kind": "landmark",
+  "la": "Linea nuchalis inferior",
+  "alt": [],
+  "en": "Inferior nuchal line",
+  "desc": {
+   "en": "A curved ridge midway between the superior nuchal line and the foramen magnum; the rectus capitis posterior major and minor insert along and below it.",
+   "id": "Rigi melengkung di pertengahan antara linea nuchalis superior dan foramen magnum; m. rectus capitis posterior major dan minor berinsersio di sepanjang dan di bawahnya."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "internal-occipital-crest",
+  "kind": "landmark",
+  "la": "Crista occipitalis interna",
+  "alt": [],
+  "en": "Internal occipital crest",
+  "desc": {
+   "en": "A midline ridge from the internal occipital protuberance down to the foramen magnum; the falx cerebelli attaches to it.",
+   "id": "Rigi di garis tengah dari protuberantia occipitalis interna ke foramen magnum; tempat melekat falx cerebelli."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "internal-occipital-protuberance",
+  "kind": "landmark",
+  "la": "Protuberantia occipitalis interna",
+  "alt": [],
+  "en": "Internal occipital protuberance",
+  "desc": {
+   "en": "The centre of the cruciform eminence, near the confluence of the dural venous sinuses.",
+   "id": "Titik pusat eminentia cruciformis, dekat pertemuan sinus-sinus vena dura (confluens sinuum)."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "intrajugular-process-of-occipital-bone",
+  "kind": "landmark",
+  "la": "Processus intrajugularis ossis occipitalis",
+  "alt": [],
+  "en": "Intrajugular process of occipital bone",
+  "desc": {
+   "en": "A small spur on the jugular notch that, with a matching process of the temporal bone, partly divides the jugular foramen.",
+   "id": "Taju kecil pada incisura jugularis yang, bersama taju serupa dari os temporale, membagi sebagian foramen jugulare."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "jugular-notch-of-occipital-bone",
+  "kind": "landmark",
+  "la": "Incisura jugularis ossis occipitalis",
+  "alt": [],
+  "en": "Jugular notch of occipital bone",
+  "desc": {
+   "en": "The notch in the lateral part that forms the posterior boundary of the jugular foramen.",
+   "id": "Takik pada pars lateralis yang membentuk batas belakang foramen jugulare."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "jugular-process",
+  "kind": "landmark",
+  "la": "Processus jugularis",
+  "alt": [],
+  "en": "Jugular process",
+  "desc": {
+   "en": "A four-sided plate lateral to each condyle, behind the jugular notch; the rectus capitis lateralis attaches to its lower surface.",
+   "id": "Lempeng segi empat di lateral tiap condylus, di belakang incisura jugularis; tempat melekat m. rectus capitis lateralis pada permukaan bawahnya."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "lateral-part-of-occipital-bone",
+  "kind": "landmark",
+  "la": "Pars lateralis ossis occipitalis",
+  "alt": [],
+  "en": "Lateral part of occipital bone",
+  "desc": {
+   "en": "Each of the two parts beside the foramen magnum that carry the occipital condyle, hypoglossal canal and jugular process.",
+   "id": "Masing-masing dari dua bagian di samping foramen magnum yang memuat condylus occipitalis, canalis nervi hypoglossi, dan processus jugularis."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "mastoid-border-of-occipital-bone",
+  "kind": "landmark",
+  "la": "Margo mastoideus ossis occipitalis",
+  "alt": [],
+  "en": "Mastoid border of occipital bone",
+  "desc": {
+   "en": "The lower lateral border of the squama that meets the mastoid part of the temporal bone at the occipitomastoid suture.",
+   "id": "Tepi lateral bawah squama yang bertemu bagian mastoid os temporale pada sutura occipitomastoidea."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "occipital-condyle",
+  "kind": "landmark",
+  "la": "Condylus occipitalis",
+  "alt": [],
+  "en": "Occipital condyle",
+  "desc": {
+   "en": "An oval convex articular process on each side of the foramen magnum that articulates with the superior articular facet of the atlas (atlanto-occipital joint).",
+   "id": "Tonjolan sendi lonjong dan cembung di kiri dan kanan foramen magnum yang bersendi dengan facies articularis superior atlas (articulatio atlantooccipitalis)."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "occipital-plane",
+  "kind": "landmark",
+  "la": "Planum occipitale",
+  "alt": [],
+  "en": "Occipital plane",
+  "desc": {
+   "en": "The part of the outer surface of the squama above the nuchal lines, covered by the occipital belly of occipitofrontalis.",
+   "id": "Bagian permukaan luar squama di atas linea nuchalis, ditutupi venter occipitalis m. occipitofrontalis."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "squamous-part-of-occipital-bone",
+  "kind": "landmark",
+  "la": "Squama occipitalis",
+  "alt": [],
+  "en": "Occipital squama",
+  "desc": {
+   "en": "The large curved plate behind the foramen magnum that forms the back of the skull.",
+   "id": "Lempeng lebar dan melengkung di belakang foramen magnum yang membentuk bagian belakang tengkorak."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "superior-nuchal-line",
+  "kind": "landmark",
+  "la": "Linea nuchalis superior",
+  "alt": [],
+  "en": "Superior nuchal line",
+  "desc": {
+   "en": "A curved ridge running laterally from the external occipital protuberance; trapezius attaches to its medial third, sternocleidomastoid and splenius capitis to its lateral part.",
+   "id": "Rigi melengkung ke lateral dari protuberantia occipitalis externa; m. trapezius melekat pada sepertiga medialnya, m. sternocleidomastoideus dan m. splenius capitis pada bagian lateralnya."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "supreme-nuchal-line",
+  "kind": "landmark",
+  "la": "Linea nuchalis suprema",
+  "alt": [],
+  "en": "Highest nuchal line",
+  "desc": {
+   "en": "A faint ridge above the superior nuchal line, where the epicranial aponeurosis and occipital belly of occipitofrontalis attach.",
+   "id": "Rigi samar di atas linea nuchalis superior, tempat melekat galea aponeurotica dan venter occipitalis m. occipitofrontalis."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  }
+ },
+ {
+  "key": "vermian-fossa",
+  "kind": "landmark",
+  "la": "Fossa vermiana",
+  "alt": [],
+  "en": "Vermian fossa",
+  "desc": {
+   "en": "A shallow, inconstant hollow at the lower end of the internal occipital crest, near the foramen magnum, related to the inferior vermis of the cerebellum.",
+   "id": "Cekungan dangkal yang tidak selalu ada di ujung bawah crista occipitalis interna, dekat foramen magnum, berhubungan dengan vermis inferior cerebelli."
+  },
+  "facts": {
+   "bone": "occipital-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os occipitale"
+   ]
+  },
+  "verify": true
+ },
+ {
+  "key": "external-surface-of-parietal-bone",
+  "kind": "landmark",
+  "la": "Facies externa ossis parietalis",
+  "alt": [],
+  "en": "External surface of parietal bone",
+  "desc": {
+   "en": "The convex outer surface, crossed by the temporal lines and raised at the parietal eminence.",
+   "id": "Permukaan luar yang cembung, dilintasi linea temporalis dan menonjol pada tuber parietale."
+  },
+  "facts": {
+   "bone": "parietal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os parietale"
+   ]
+  }
+ },
+ {
+  "key": "frontal-angle-of-parietal-bone",
+  "kind": "landmark",
+  "la": "Angulus frontalis ossis parietalis",
+  "alt": [],
+  "en": "Frontal angle of parietal bone",
+  "desc": {
+   "en": "The anterosuperior corner at the bregma, where the coronal and sagittal sutures meet; the anterior fontanelle lies here in infants.",
+   "id": "Sudut anterosuperior di bregma, pertemuan sutura coronalis dan sagittalis; pada bayi di sini terdapat fonticulus anterior."
+  },
+  "facts": {
+   "bone": "parietal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os parietale"
+   ]
+  }
+ },
+ {
+  "key": "frontal-border-of-parietal-bone",
+  "kind": "landmark",
+  "la": "Margo frontalis ossis parietalis",
+  "alt": [],
+  "en": "Frontal border of parietal bone",
+  "desc": {
+   "en": "The anterior border that meets the frontal bone at the coronal suture.",
+   "id": "Tepi depan yang bertemu os frontale pada sutura coronalis."
+  },
+  "facts": {
+   "bone": "parietal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os parietale"
+   ]
+  }
+ },
+ {
+  "key": "groove-for-middle-meningeal-artery",
+  "kind": "landmark",
+  "la": "Sulcus arteriae meningeae mediae",
+  "alt": [
+   "Sulci arteriosi"
+  ],
+  "en": "Groove for middle meningeal artery",
+  "desc": {
+   "en": "Branching grooves on the inner surface made by the middle meningeal artery; its frontal branch runs deep to the pterion.",
+   "id": "Alur bercabang pada permukaan dalam yang dibentuk a. meningea media; ramus frontalis-nya berjalan di bawah pterion."
+  },
+  "facts": {
+   "bone": "parietal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os parietale"
+   ]
+  }
+ },
+ {
+  "key": "inferior-temporal-line",
+  "kind": "landmark",
+  "la": "Linea temporalis inferior",
+  "alt": [],
+  "en": "Inferior temporal line",
+  "desc": {
+   "en": "The lower temporal line, marking the upper limit of the origin of temporalis.",
+   "id": "Linea temporalis yang bawah, menandai batas atas origo m. temporalis."
+  },
+  "facts": {
+   "bone": "parietal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os parietale"
+   ]
+  }
+ },
+ {
+  "key": "internal-surface-of-parietal-bone",
+  "kind": "landmark",
+  "la": "Facies interna ossis parietalis",
+  "alt": [],
+  "en": "Internal surface of parietal bone",
+  "desc": {
+   "en": "The concave inner surface, marked by arterial grooves and, along the sagittal border, by the groove for the superior sagittal sinus.",
+   "id": "Permukaan dalam yang cekung, dengan alur arteri dan, di sepanjang margo sagittalis, sulcus sinus sagittalis superioris."
+  },
+  "facts": {
+   "bone": "parietal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os parietale"
+   ]
+  }
+ },
+ {
+  "key": "mastoid-angle-of-parietal-bone",
+  "kind": "landmark",
+  "la": "Angulus mastoideus ossis parietalis",
+  "alt": [],
+  "en": "Mastoid angle of parietal bone",
+  "desc": {
+   "en": "The posteroinferior corner that meets the occipital bone and the mastoid part of the temporal bone at the asterion; the transverse sinus grooves its inner surface.",
+   "id": "Sudut posteroinferior yang bertemu os occipitale dan bagian mastoid os temporale di asterion; permukaan dalamnya dialuri sinus transversus."
+  },
+  "facts": {
+   "bone": "parietal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os parietale"
+   ]
+  }
+ },
+ {
+  "key": "occipital-angle-of-parietal-bone",
+  "kind": "landmark",
+  "la": "Angulus occipitalis ossis parietalis",
+  "alt": [],
+  "en": "Occipital angle of parietal bone",
+  "desc": {
+   "en": "The posterosuperior corner at the lambda, where the sagittal and lambdoid sutures meet; the posterior fontanelle lies here in infants.",
+   "id": "Sudut posterosuperior di lambda, pertemuan sutura sagittalis dan lambdoidea; pada bayi di sini terdapat fonticulus posterior."
+  },
+  "facts": {
+   "bone": "parietal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os parietale"
+   ]
+  }
+ },
+ {
+  "key": "occipital-border-of-parietal-bone",
+  "kind": "landmark",
+  "la": "Margo occipitalis ossis parietalis",
+  "alt": [],
+  "en": "Occipital border of parietal bone",
+  "desc": {
+   "en": "The posterior border that meets the occipital bone at the lambdoid suture.",
+   "id": "Tepi belakang yang bertemu os occipitale pada sutura lambdoidea."
+  },
+  "facts": {
+   "bone": "parietal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os parietale"
+   ]
+  }
+ },
+ {
+  "key": "parietal-eminence",
+  "kind": "landmark",
+  "la": "Tuber parietale",
+  "alt": [
+   "Eminentia parietalis",
+   "Tuber parietalis"
+  ],
+  "en": "Parietal eminence",
+  "desc": {
+   "en": "The most convex point of the outer surface, marking the ossification centre; the biparietal diameter is measured between the two eminences.",
+   "id": "Titik paling cembung pada permukaan luar, bekas pusat penulangan; diameter biparietal diukur di antara kedua tuber parietale."
+  },
+  "facts": {
+   "bone": "parietal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os parietale"
+   ]
+  }
+ },
+ {
+  "key": "parietal-foramen",
+  "kind": "landmark",
+  "la": "Foramen parietale",
+  "alt": [],
+  "en": "Parietal foramen",
+  "desc": {
+   "en": "A small inconstant opening near the back of the sagittal border that carries an emissary vein to the superior sagittal sinus.",
+   "id": "Lubang kecil yang tidak selalu ada dekat bagian belakang margo sagittalis, dilalui vena emissaria menuju sinus sagittalis superior."
+  },
+  "facts": {
+   "bone": "parietal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os parietale"
+   ]
+  }
+ },
+ {
+  "key": "sagittal-border-of-parietal-bone",
+  "kind": "landmark",
+  "la": "Margo sagittalis ossis parietalis",
+  "alt": [],
+  "en": "Sagittal border of parietal bone",
+  "desc": {
+   "en": "The upper border that joins the opposite parietal bone at the sagittal suture.",
+   "id": "Tepi atas yang bersendi dengan os parietale sisi lain pada sutura sagittalis."
+  },
+  "facts": {
+   "bone": "parietal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os parietale"
+   ]
+  }
+ },
+ {
+  "key": "sphenoidal-angle-of-parietal-bone",
+  "kind": "landmark",
+  "la": "Angulus sphenoidalis ossis parietalis",
+  "alt": [
+   "Angulus sphenoideus ossis parietalis"
+  ],
+  "en": "Sphenoidal angle of parietal bone",
+  "desc": {
+   "en": "The anteroinferior corner that meets the greater wing of the sphenoid at the pterion; the frontal branch of the middle meningeal artery lies deep to it.",
+   "id": "Sudut anteroinferior yang bertemu ala major os sphenoidale di pterion; ramus frontalis a. meningea media terletak di bawahnya."
+  },
+  "facts": {
+   "bone": "parietal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os parietale"
+   ]
+  }
+ },
+ {
+  "key": "squamosal-border-of-parietal-bone",
+  "kind": "landmark",
+  "la": "Margo squamosus ossis parietalis",
+  "alt": [],
+  "en": "Squamosal border of parietal bone",
+  "desc": {
+   "en": "The lower border, overlapped by the squamous part of the temporal bone at the squamous suture.",
+   "id": "Tepi bawah yang ditumpangi pars squamosa os temporale pada sutura squamosa."
+  },
+  "facts": {
+   "bone": "parietal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os parietale"
+   ]
+  }
+ },
+ {
+  "key": "superior-temporal-line",
+  "kind": "landmark",
+  "la": "Linea temporalis superior",
+  "alt": [],
+  "en": "Superior temporal line",
+  "desc": {
+   "en": "The upper temporal line, where the temporal fascia attaches.",
+   "id": "Linea temporalis yang atas, tempat melekat fascia temporalis."
+  },
+  "facts": {
+   "bone": "parietal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os parietale"
+   ]
+  }
+ },
+ {
+  "key": "septum-of-frontal-sinuses",
+  "kind": "landmark",
+  "la": "Septum sinuum frontalium",
+  "alt": [],
+  "en": "Septum of frontal sinuses",
+  "desc": {
+   "en": "The thin bony wall, often off the midline, that separates the right and left frontal sinuses.",
+   "id": "Dinding tulang tipis, sering tidak tepat di garis tengah, yang memisahkan sinus frontalis kanan dan kiri."
+  },
+  "facts": {
+   "bone": "frontal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os frontale"
+   ]
+  }
+ },
+ {
+  "key": "septum-of-sphenoidal-sinuses",
+  "kind": "landmark",
+  "la": "Septum sinuum sphenoidalium",
+  "alt": [
+   "Septum sinuum sphenoideorum"
+  ],
+  "en": "Septum of sphenoidal sinuses",
+  "desc": {
+   "en": "The bony wall, usually asymmetric, that separates the two sphenoidal sinuses inside the body of the sphenoid.",
+   "id": "Dinding tulang, umumnya tidak simetris, yang memisahkan kedua sinus sphenoidalis di dalam corpus ossis sphenoidalis."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "anterior-clinoid-process",
+  "kind": "landmark",
+  "la": "Processus clinoideus anterior",
+  "alt": [],
+  "en": "Anterior clinoid process",
+  "desc": {
+   "en": "The backward projection of each lesser wing beside the sella turcica; the free border of the tentorium cerebelli attaches to it.",
+   "id": "Tonjolan ke belakang dari tiap ala minor di samping sella turcica; tempat melekat tepi bebas tentorium cerebelli."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "body-of-sphenoid-bone",
+  "kind": "landmark",
+  "la": "Corpus ossis sphenoidalis",
+  "alt": [
+   "Corpus ossis sphenoidei"
+  ],
+  "en": "Body of sphenoid bone",
+  "desc": {
+   "en": "The central cube-shaped part that contains the sphenoidal sinuses and carries the sella turcica on its upper surface.",
+   "id": "Bagian tengah berbentuk kubus yang berisi sinus sphenoidalis dan memuat sella turcica di permukaan atasnya."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "carotid-sulcus",
+  "kind": "landmark",
+  "la": "Sulcus caroticus",
+  "alt": [
+   "Sulcus carotidis"
+  ],
+  "en": "Carotid sulcus",
+  "desc": {
+   "en": "A groove on the side of the body for the internal carotid artery as it runs through the cavernous sinus.",
+   "id": "Alur di sisi corpus untuk a. carotis interna saat berjalan di dalam sinus cavernosus."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "cerebral-surface-of-greater-wing",
+  "kind": "landmark",
+  "la": "Facies cerebralis alae majoris",
+  "alt": [],
+  "en": "Cerebral surface of greater wing",
+  "desc": {
+   "en": "The concave upper surface of the greater wing, part of the middle cranial fossa, which holds the temporal lobe.",
+   "id": "Permukaan atas ala major yang cekung, bagian dari fossa cranii media, tempat lobus temporalis."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "chiasmatic-sulcus",
+  "kind": "landmark",
+  "la": "Sulcus prechiasmaticus",
+  "alt": [
+   "Sulcus chiasmaticus",
+   "Sulcus chiasmatis"
+  ],
+  "en": "Prechiasmatic sulcus",
+  "desc": {
+   "en": "A transverse groove in front of the tuberculum sellae that leads on each side to the optic canal; the optic chiasma usually lies above and behind it.",
+   "id": "Alur melintang di depan tuberculum sellae yang menuju canalis opticus di kiri dan kanan; chiasma opticum umumnya terletak di atas belakangnya."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "dorsum-sellae",
+  "kind": "landmark",
+  "la": "Dorsum sellae",
+  "alt": [],
+  "en": "Dorsum sellae",
+  "desc": {
+   "en": "The square plate forming the back wall of the sella turcica, with the posterior clinoid processes at its upper corners.",
+   "id": "Lempeng persegi yang membentuk dinding belakang sella turcica, dengan processus clinoideus posterior di sudut atasnya."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "foramen-ovale",
+  "kind": "landmark",
+  "la": "Foramen ovale",
+  "alt": [
+   "Foramen ovale ossis sphenoidalis"
+  ],
+  "en": "Foramen ovale",
+  "desc": {
+   "en": "An oval opening in the greater wing that carries the mandibular nerve (V3), the accessory meningeal artery and sometimes the lesser petrosal nerve.",
+   "id": "Lubang lonjong pada ala major yang dilalui n. mandibularis (V3), a. meningea accessoria, dan kadang n. petrosus minor."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "foramen-rotundum",
+  "kind": "landmark",
+  "la": "Foramen rotundum",
+  "alt": [],
+  "en": "Foramen rotundum",
+  "desc": {
+   "en": "A round canal at the root of the greater wing that carries the maxillary nerve (V2) from the middle cranial fossa to the pterygopalatine fossa.",
+   "id": "Saluran bulat di pangkal ala major yang dilalui n. maxillaris (V2) dari fossa cranii media ke fossa pterygopalatina."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "foramen-spinosum",
+  "kind": "landmark",
+  "la": "Foramen spinosum",
+  "alt": [],
+  "en": "Foramen spinosum",
+  "desc": {
+   "en": "A small opening behind the foramen ovale for the middle meningeal artery and vein and the meningeal branch of the mandibular nerve.",
+   "id": "Lubang kecil di belakang foramen ovale untuk a. dan v. meningea media serta ramus meningeus n. mandibularis."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "frontal-margin-of-greater-wing",
+  "kind": "landmark",
+  "la": "Margo frontalis alae majoris",
+  "alt": [],
+  "en": "Frontal margin of greater wing",
+  "desc": {
+   "en": "The serrated upper margin of the greater wing that articulates with the frontal bone.",
+   "id": "Tepi atas ala major yang bergerigi, bersendi dengan os frontale."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "greater-wing",
+  "kind": "landmark",
+  "la": "Ala major ossis sphenoidalis",
+  "alt": [
+   "Ala major"
+  ],
+  "en": "Greater wing of sphenoid",
+  "desc": {
+   "en": "The large lateral wing on each side of the body; it forms part of the middle cranial fossa, the lateral orbital wall and the temporal and infratemporal fossae.",
+   "id": "Sayap besar di kiri dan kanan corpus; ikut membentuk fossa cranii media, dinding lateral orbita, serta fossa temporalis dan infratemporalis."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "groove-of-pterygoid-hamulus",
+  "kind": "landmark",
+  "la": "Sulcus hamuli pterygoidei",
+  "alt": [],
+  "en": "Groove of pterygoid hamulus",
+  "desc": {
+   "en": "A groove on the hamulus around which the tendon of tensor veli palatini turns.",
+   "id": "Alur pada hamulus pterygoideus tempat tendo m. tensor veli palatini berbelok."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "hypophysial-fossa",
+  "kind": "landmark",
+  "la": "Fossa hypophysialis",
+  "alt": [],
+  "en": "Hypophysial fossa",
+  "desc": {
+   "en": "The deepest part of the sella turcica, which holds the pituitary gland.",
+   "id": "Bagian terdalam sella turcica, tempat hypophysis."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "infratemporal-surface-of-greater-wing",
+  "kind": "landmark",
+  "la": "Facies infratemporalis alae majoris",
+  "alt": [],
+  "en": "Infratemporal surface of greater wing",
+  "desc": {
+   "en": "The part of the greater wing below the infratemporal crest, roofing the infratemporal fossa; the upper head of the lateral pterygoid arises here.",
+   "id": "Bagian ala major di bawah crista infratemporalis yang menjadi atap fossa infratemporalis; origo caput superius m. pterygoideus lateralis."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "lateral-pterygoid-plate",
+  "kind": "landmark",
+  "la": "Lamina lateralis processus pterygoidei",
+  "alt": [],
+  "en": "Lateral pterygoid plate",
+  "desc": {
+   "en": "The broad thin lateral plate of the pterygoid process; its lateral surface gives origin to the lower head of the lateral pterygoid and its medial surface to the deep head of the medial pterygoid.",
+   "id": "Lempeng lateral processus pterygoideus yang lebar dan tipis; permukaan lateralnya origo caput inferius m. pterygoideus lateralis, permukaan medialnya origo caput profundum m. pterygoideus medialis."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "lesser-wing",
+  "kind": "landmark",
+  "la": "Ala minor ossis sphenoidalis",
+  "alt": [
+   "Ala minor"
+  ],
+  "en": "Lesser wing of sphenoid",
+  "desc": {
+   "en": "The thin triangular plate on each side of the front of the body; its root surrounds the optic canal and its back edge separates the anterior and middle cranial fossae.",
+   "id": "Lempeng tipis segitiga di kiri dan kanan bagian depan corpus; pangkalnya mengelilingi canalis opticus dan tepi belakangnya memisahkan fossa cranii anterior dan media."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "limbus-of-sphenoid",
+  "kind": "landmark",
+  "la": "Limbus sphenoidalis",
+  "alt": [
+   "Limbus sphenoideus"
+  ],
+  "en": "Limbus of sphenoid",
+  "desc": {
+   "en": "The ridge forming the front border of the prechiasmatic sulcus.",
+   "id": "Rigi yang membentuk tepi depan sulcus prechiasmaticus."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "maxillary-surface-of-greater-wing",
+  "kind": "landmark",
+  "la": "Facies maxillaris alae majoris",
+  "alt": [],
+  "en": "Maxillary surface of greater wing",
+  "desc": {
+   "en": "The small front surface of the greater wing facing the pterygopalatine fossa, where the foramen rotundum opens.",
+   "id": "Permukaan depan ala major yang kecil, menghadap fossa pterygopalatina, tempat bermuaranya foramen rotundum."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "medial-pterygoid-plate",
+  "kind": "landmark",
+  "la": "Lamina medialis processus pterygoidei",
+  "alt": [],
+  "en": "Medial pterygoid plate",
+  "desc": {
+   "en": "The narrow medial plate of the pterygoid process; it ends below as the pterygoid hamulus, forms the side of the choana, and the superior pharyngeal constrictor attaches to its lower back edge.",
+   "id": "Lempeng medial processus pterygoideus yang sempit; berakhir di bawah sebagai hamulus pterygoideus, membentuk sisi choana, dan m. constrictor pharyngis superior melekat pada tepi belakang bagian bawahnya."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "middle-clinoid-process",
+  "kind": "landmark",
+  "la": "Processus clinoideus medius",
+  "alt": [],
+  "en": "Middle clinoid process",
+  "desc": {
+   "en": "A small inconstant tubercle beside the tuberculum sellae; it may fuse with the anterior clinoid process around the internal carotid artery.",
+   "id": "Tonjolan kecil yang tidak selalu ada di samping tuberculum sellae; dapat menyatu dengan processus clinoideus anterior mengelilingi a. carotis interna."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "optic-canal",
+  "kind": "landmark",
+  "la": "Canalis opticus",
+  "alt": [],
+  "en": "Optic canal",
+  "desc": {
+   "en": "The canal at the root of the lesser wing that carries the optic nerve (CN II) and the ophthalmic artery into the orbit.",
+   "id": "Saluran di pangkal ala minor yang dilalui n. opticus (N. II) dan a. ophthalmica menuju orbita."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "orbital-surface-of-greater-wing",
+  "kind": "landmark",
+  "la": "Facies orbitalis alae majoris",
+  "alt": [],
+  "en": "Orbital surface of greater wing",
+  "desc": {
+   "en": "The smooth surface of the greater wing that forms the back part of the lateral wall of the orbit.",
+   "id": "Permukaan halus ala major yang membentuk bagian belakang dinding lateral orbita."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "parietal-margin-of-greater-wing",
+  "kind": "landmark",
+  "la": "Margo parietalis alae majoris",
+  "alt": [],
+  "en": "Parietal margin of greater wing",
+  "desc": {
+   "en": "The upper tip of the greater wing that meets the parietal bone at the pterion.",
+   "id": "Ujung atas ala major yang bertemu os parietale di pterion."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "posterior-clinoid-process",
+  "kind": "landmark",
+  "la": "Processus clinoideus posterior",
+  "alt": [],
+  "en": "Posterior clinoid process",
+  "desc": {
+   "en": "The tubercle at each upper corner of the dorsum sellae; the tentorium cerebelli attaches to it.",
+   "id": "Tonjolan di tiap sudut atas dorsum sellae; tempat melekat tentorium cerebelli."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "pterygoid-canal",
+  "kind": "landmark",
+  "la": "Canalis pterygoideus",
+  "alt": [],
+  "en": "Pterygoid canal",
+  "desc": {
+   "en": "A canal through the root of the pterygoid process for the nerve of the pterygoid canal (Vidian nerve) and its vessels, on their way to the pterygopalatine fossa.",
+   "id": "Saluran yang menembus pangkal processus pterygoideus, dilalui n. canalis pterygoidei (n. Vidianus) dan pembuluhnya menuju fossa pterygopalatina."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "pterygoid-fossa",
+  "kind": "landmark",
+  "la": "Fossa pterygoidea",
+  "alt": [],
+  "en": "Pterygoid fossa",
+  "desc": {
+   "en": "The V-shaped hollow between the medial and lateral pterygoid plates; the deep head of the medial pterygoid arises here.",
+   "id": "Cekungan berbentuk V di antara lamina medialis dan lateralis; origo caput profundum m. pterygoideus medialis."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "pterygoid-hamulus",
+  "kind": "landmark",
+  "la": "Hamulus pterygoideus",
+  "alt": [],
+  "en": "Pterygoid hamulus",
+  "desc": {
+   "en": "The hook at the lower end of the medial pterygoid plate; the tendon of tensor veli palatini turns around it and the pterygomandibular raphe attaches to it.",
+   "id": "Kait di ujung bawah lamina medialis; tendo m. tensor veli palatini berbelok mengelilinginya dan raphe pterygomandibularis melekat di sini."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "pterygoid-notch",
+  "kind": "landmark",
+  "la": "Incisura pterygoidea",
+  "alt": [],
+  "en": "Pterygoid notch",
+  "desc": {
+   "en": "The gap between the lower ends of the two pterygoid plates, filled by the pyramidal process of the palatine bone.",
+   "id": "Celah di antara ujung bawah kedua lamina processus pterygoidei, diisi processus pyramidalis os palatinum."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "pterygoid-process",
+  "kind": "landmark",
+  "la": "Processus pterygoideus",
+  "alt": [],
+  "en": "Pterygoid process",
+  "desc": {
+   "en": "The downward projection from the junction of body and greater wing, made of a medial and a lateral plate; the pterygoid muscles arise from it.",
+   "id": "Tonjolan ke bawah dari pertemuan corpus dan ala major, terdiri atas lamina medialis dan lateralis; tempat origo mm. pterygoidei."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "pterygospinous-process",
+  "kind": "landmark",
+  "la": "Processus pterygospinosus",
+  "alt": [],
+  "en": "Pterygospinous process",
+  "desc": {
+   "en": "A small projection on the back edge of the lateral pterygoid plate, where the pterygospinous ligament attaches.",
+   "id": "Tonjolan kecil pada tepi belakang lamina lateralis, tempat melekat ligamentum pterygospinale."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "scaphoid-fossa",
+  "kind": "landmark",
+  "la": "Fossa scaphoidea",
+  "alt": [],
+  "en": "Scaphoid fossa",
+  "desc": {
+   "en": "A shallow oval hollow at the upper end of the medial pterygoid plate, where part of tensor veli palatini arises.",
+   "id": "Cekungan lonjong dangkal di ujung atas lamina medialis, tempat origo sebagian m. tensor veli palatini."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "sella-turcica",
+  "kind": "landmark",
+  "la": "Sella turcica",
+  "alt": [],
+  "en": "Sella turcica",
+  "desc": {
+   "en": "The saddle-shaped depression on the upper surface of the body, made of the tuberculum sellae, hypophysial fossa and dorsum sellae.",
+   "id": "Cekungan berbentuk pelana di permukaan atas corpus, terdiri atas tuberculum sellae, fossa hypophysialis, dan dorsum sellae."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "sphenoidal-crest",
+  "kind": "landmark",
+  "la": "Crista sphenoidalis",
+  "alt": [
+   "Crista sphenoidea"
+  ],
+  "en": "Sphenoidal crest",
+  "desc": {
+   "en": "A vertical midline ridge on the front of the body that joins the perpendicular plate of the ethmoid in the nasal septum.",
+   "id": "Rigi vertikal di garis tengah permukaan depan corpus yang bersendi dengan lamina perpendicularis os ethmoidale pada septum nasi."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "sphenoidal-lingula",
+  "kind": "landmark",
+  "la": "Lingula sphenoidalis",
+  "alt": [
+   "Lingula sphenoidea"
+  ],
+  "en": "Sphenoidal lingula",
+  "desc": {
+   "en": "A small tongue of bone on the lateral side of the carotid sulcus, at the back of the body.",
+   "id": "Tonjolan tulang kecil seperti lidah di sisi lateral sulcus caroticus, di bagian belakang corpus."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "sphenoidal-yoke",
+  "kind": "landmark",
+  "la": "Jugum sphenoidale",
+  "alt": [
+   "Jugum sphenoideum",
+   "Planum sphenoidale"
+  ],
+  "en": "Sphenoidal yoke",
+  "desc": {
+   "en": "The smooth plate on the upper surface of the body that joins the two lesser wings in front of the prechiasmatic sulcus.",
+   "id": "Lempeng halus di permukaan atas corpus yang menghubungkan kedua ala minor, di depan sulcus prechiasmaticus."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "spine-of-sphenoid-bone",
+  "kind": "landmark",
+  "la": "Spina ossis sphenoidalis",
+  "alt": [
+   "Spina ossis sphenoidei"
+  ],
+  "en": "Spine of sphenoid",
+  "desc": {
+   "en": "A downward spur at the posterior angle of the greater wing; the sphenomandibular ligament attaches to it.",
+   "id": "Taju ke bawah di sudut belakang ala major; tempat melekat ligamentum sphenomandibulare."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "squamosal-margin-of-greater-wing",
+  "kind": "landmark",
+  "la": "Margo squamosus alae majoris",
+  "alt": [],
+  "en": "Squamosal margin of greater wing",
+  "desc": {
+   "en": "The posterolateral margin of the greater wing that articulates with the squamous part of the temporal bone.",
+   "id": "Tepi posterolateral ala major yang bersendi dengan pars squamosa os temporale."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "sulcus-of-auditory-tube",
+  "kind": "landmark",
+  "la": "Sulcus tubae auditivae",
+  "alt": [
+   "Sulcus tubae auditoriae"
+  ],
+  "en": "Sulcus of auditory tube",
+  "desc": {
+   "en": "A groove on the skull base between the greater wing and the petrous temporal bone that holds the cartilaginous part of the pharyngotympanic tube.",
+   "id": "Alur pada basis cranii di antara ala major dan pars petrosa os temporale, tempat pars cartilaginea tuba auditiva."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "temporal-surface-of-greater-wing",
+  "kind": "landmark",
+  "la": "Facies temporalis alae majoris",
+  "alt": [],
+  "en": "Temporal surface of greater wing",
+  "desc": {
+   "en": "The outer surface of the greater wing above the infratemporal crest, part of the temporal fossa, where temporalis arises.",
+   "id": "Permukaan luar ala major di atas crista infratemporalis, bagian dari fossa temporalis, tempat origo m. temporalis."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "tuberculum-sellae",
+  "kind": "landmark",
+  "la": "Tuberculum sellae",
+  "alt": [],
+  "en": "Tuberculum sellae",
+  "desc": {
+   "en": "The transverse ridge that forms the front boundary of the hypophysial fossa.",
+   "id": "Rigi melintang yang membentuk batas depan fossa hypophysialis."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "vaginal-process-of-sphenoid-bone",
+  "kind": "landmark",
+  "la": "Processus vaginalis ossis sphenoidalis",
+  "alt": [
+   "Processus vaginalis"
+  ],
+  "en": "Vaginal process of sphenoid",
+  "desc": {
+   "en": "A thin plate projecting medially from the root of the medial pterygoid plate under the body; it articulates with the vomer and the palatine bone.",
+   "id": "Lempeng tipis yang menonjol ke medial dari pangkal lamina medialis di bawah corpus; bersendi dengan vomer dan os palatinum."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "zygomatic-margin-of-greater-wing",
+  "kind": "landmark",
+  "la": "Margo zygomaticus alae majoris",
+  "alt": [],
+  "en": "Zygomatic margin of greater wing",
+  "desc": {
+   "en": "The serrated front margin of the greater wing that articulates with the zygomatic bone.",
+   "id": "Tepi depan ala major yang bergerigi, bersendi dengan os zygomaticum."
+  },
+  "facts": {
+   "bone": "sphenoid-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os sphenoidale",
+    "Os sphenoideum"
+   ]
+  }
+ },
+ {
+  "key": "anterior-surface-of-petrous-part",
+  "kind": "landmark",
+  "la": "Facies anterior partis petrosae",
+  "alt": [],
+  "en": "Anterior surface of petrous part",
+  "desc": {
+   "en": "The surface facing the middle cranial fossa, with the arcuate eminence, the tegmen tympani and the grooves for the petrosal nerves.",
+   "id": "Permukaan yang menghadap fossa cranii media, dengan eminentia arcuata, tegmen tympani, dan alur untuk nn. petrosi."
+  },
+  "facts": {
+   "bone": "temporal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os temporale"
+   ]
+  }
+ },
+ {
+  "key": "apex-of-petrous-part",
+  "kind": "landmark",
+  "la": "Apex partis petrosae",
+  "alt": [],
+  "en": "Apex of petrous part",
+  "desc": {
+   "en": "The medial tip of the petrous part, wedged between the sphenoid and occipital bones at the foramen lacerum; the carotid canal opens near it.",
+   "id": "Ujung medial pars petrosa yang terjepit di antara os sphenoidale dan os occipitale di foramen lacerum; canalis caroticus bermuara di dekatnya."
+  },
+  "facts": {
+   "bone": "temporal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os temporale"
+   ]
+  }
+ },
+ {
+  "key": "arcuate-eminence",
+  "kind": "landmark",
+  "la": "Eminentia arcuata",
+  "alt": [],
+  "en": "Arcuate eminence",
+  "desc": {
+   "en": "A rounded bulge on the anterior surface of the petrous part, raised by the anterior semicircular canal below it.",
+   "id": "Tonjolan bulat pada facies anterior pars petrosa akibat canalis semicircularis anterior di bawahnya."
+  },
+  "facts": {
+   "bone": "temporal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os temporale"
+   ]
+  }
+ },
+ {
+  "key": "mastoid-notch",
+  "kind": "landmark",
+  "la": "Incisura mastoidea",
+  "alt": [],
+  "en": "Mastoid notch",
+  "desc": {
+   "en": "A deep groove on the medial side of the mastoid process, where the posterior belly of the digastric arises.",
+   "id": "Alur dalam di sisi medial processus mastoideus, tempat origo venter posterior m. digastricus."
+  },
+  "facts": {
+   "bone": "temporal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os temporale"
+   ]
+  }
+ },
+ {
+  "key": "mastoid-process",
+  "kind": "landmark",
+  "la": "Processus mastoideus",
+  "alt": [],
+  "en": "Mastoid process",
+  "desc": {
+   "en": "The nipple-shaped projection behind the external acoustic meatus, filled with mastoid air cells; sternocleidomastoid, splenius capitis and longissimus capitis insert on it.",
+   "id": "Tonjolan seperti puting di belakang meatus acusticus externus, berisi cellulae mastoideae; tempat insersio m. sternocleidomastoideus, m. splenius capitis, dan m. longissimus capitis."
+  },
+  "facts": {
+   "bone": "temporal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os temporale"
+   ]
+  }
+ },
+ {
+  "key": "occipital-margin-of-temporal-bone",
+  "kind": "landmark",
+  "la": "Margo occipitalis ossis temporalis",
+  "alt": [],
+  "en": "Occipital margin of temporal bone",
+  "desc": {
+   "en": "The posterior margin of the mastoid part that articulates with the occipital bone at the occipitomastoid suture.",
+   "id": "Tepi belakang bagian mastoid yang bersendi dengan os occipitale pada sutura occipitomastoidea."
+  },
+  "facts": {
+   "bone": "temporal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os temporale"
+   ]
+  }
+ },
+ {
+  "key": "petrous-part-of-temporal-bone",
+  "kind": "landmark",
+  "la": "Pars petrosa ossis temporalis",
+  "alt": [],
+  "en": "Petrous part of temporal bone",
+  "desc": {
+   "en": "The dense pyramid-shaped part of the cranial base that houses the cochlea, vestibule, semicircular canals and tympanic cavity; it separates the middle and posterior cranial fossae.",
+   "id": "Bagian berbentuk piramida yang sangat padat di basis cranii, berisi cochlea, vestibulum, canales semicirculares, dan cavitas tympani; memisahkan fossa cranii media dan posterior."
+  },
+  "facts": {
+   "bone": "temporal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os temporale"
+   ]
+  }
+ },
+ {
+  "key": "posterior-surface-of-petrous-part",
+  "kind": "landmark",
+  "la": "Facies posterior partis petrosae",
+  "alt": [],
+  "en": "Posterior surface of petrous part",
+  "desc": {
+   "en": "The surface facing the posterior cranial fossa; the internal acoustic meatus for the facial (CN VII) and vestibulocochlear (CN VIII) nerves opens on it.",
+   "id": "Permukaan yang menghadap fossa cranii posterior; di sini bermuara meatus acusticus internus untuk n. facialis (N. VII) dan n. vestibulocochlearis (N. VIII)."
+  },
+  "facts": {
+   "bone": "temporal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os temporale"
+   ]
+  }
+ },
+ {
+  "key": "squamous-part-of-temporal-bone",
+  "kind": "landmark",
+  "la": "Pars squamosa ossis temporalis",
+  "alt": [
+   "Squama temporalis"
+  ],
+  "en": "Squamous part of temporal bone",
+  "desc": {
+   "en": "The thin vertical plate forming the side of the skull; it carries the zygomatic process and the mandibular fossa of the temporomandibular joint.",
+   "id": "Lempeng vertikal tipis yang membentuk sisi tengkorak; memuat processus zygomaticus dan fossa mandibularis untuk articulatio temporomandibularis."
+  },
+  "facts": {
+   "bone": "temporal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os temporale"
+   ]
+  }
+ },
+ {
+  "key": "styloid-process-of-temporal-bone",
+  "kind": "landmark",
+  "la": "Processus styloideus ossis temporalis",
+  "alt": [
+   "Processus styloideus"
+  ],
+  "en": "Styloid process",
+  "desc": {
+   "en": "A slender pointed process below the ear for stylohyoid, styloglossus and stylopharyngeus and for the stylohyoid and stylomandibular ligaments.",
+   "id": "Tonjolan runcing dan ramping di bawah telinga, tempat melekat m. stylohyoideus, m. styloglossus, m. stylopharyngeus, serta ligamentum stylohyoideum dan stylomandibulare."
+  },
+  "facts": {
+   "bone": "temporal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os temporale"
+   ]
+  }
+ },
+ {
+  "key": "tegmen-tympani",
+  "kind": "landmark",
+  "la": "Tegmen tympani",
+  "alt": [],
+  "en": "Tegmen tympani",
+  "desc": {
+   "en": "The thin plate of the petrous part that roofs the tympanic cavity and separates it from the middle cranial fossa.",
+   "id": "Lempeng tipis pars petrosa yang menjadi atap cavitas tympani dan memisahkannya dari fossa cranii media."
+  },
+  "facts": {
+   "bone": "temporal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os temporale"
+   ]
+  }
+ },
+ {
+  "key": "tympanic-part-of-temporal-bone",
+  "kind": "landmark",
+  "la": "Pars tympanica ossis temporalis",
+  "alt": [],
+  "en": "Tympanic part of temporal bone",
+  "desc": {
+   "en": "The curved plate below the squamous part that forms most of the wall of the bony external acoustic meatus.",
+   "id": "Lempeng melengkung di bawah pars squamosa yang membentuk sebagian besar dinding meatus acusticus externus bagian tulang."
+  },
+  "facts": {
+   "bone": "temporal-bone"
+  },
+  "quiz": {
+   "bone": [
+    "Os temporale"
+   ]
+  }
+ },
+ {
+  "key": "crown-of-tooth",
+  "kind": "landmark",
+  "la": "Corona dentis",
+  "alt": [],
+  "en": "Crown of tooth",
+  "desc": {
+   "en": "The part of the tooth covered with enamel, which projects above the gum.",
+   "id": "Bagian gigi berlapis email yang menonjol di atas gusi."
+  },
+  "facts": {
+   "bone": "lower-first-molar-tooth"
+  },
+  "quiz": {
+   "bone": [
+    "Dens molaris",
+    "Dens"
+   ]
+  }
+ },
+ {
+  "key": "cusp-of-tooth",
+  "kind": "landmark",
+  "la": "Cuspis dentis",
+  "alt": [],
+  "en": "Cusp of tooth",
+  "desc": {
+   "en": "A raised point on the chewing surface of a canine, premolar or molar; the lower first molar usually has five.",
+   "id": "Tonjolan pada permukaan kunyah gigi caninus, premolar, atau molar; molar pertama bawah umumnya memiliki lima cuspis."
+  },
+  "facts": {
+   "bone": "lower-first-molar-tooth"
+  },
+  "quiz": {
+   "bone": [
+    "Dens molaris",
+    "Dens"
+   ]
+  }
+ },
+ {
+  "key": "distal-surface-of-tooth",
+  "kind": "landmark",
+  "la": "Facies distalis dentis",
+  "alt": [
+   "Facies distalis"
+  ],
+  "en": "Distal surface of tooth",
+  "desc": {
+   "en": "The contact surface that faces away from the midline of the dental arch.",
+   "id": "Permukaan kontak yang menghadap menjauhi garis tengah arcus dentalis."
+  },
+  "facts": {
+   "bone": "lower-first-molar-tooth"
+  },
+  "quiz": {
+   "bone": [
+    "Dens molaris",
+    "Dens"
+   ]
+  }
+ },
+ {
+  "key": "lingual-surface-of-tooth",
+  "kind": "landmark",
+  "la": "Facies lingualis dentis",
+  "alt": [
+   "Facies lingualis"
+  ],
+  "en": "Lingual surface of tooth",
+  "desc": {
+   "en": "The surface facing the tongue; on upper teeth it is also called the palatal surface.",
+   "id": "Permukaan yang menghadap lidah; pada gigi atas disebut juga facies palatinalis."
+  },
+  "facts": {
+   "bone": "lower-first-molar-tooth"
+  },
+  "quiz": {
+   "bone": [
+    "Dens molaris",
+    "Dens"
+   ]
+  }
+ },
+ {
+  "key": "mesial-surface-of-tooth",
+  "kind": "landmark",
+  "la": "Facies mesialis dentis",
+  "alt": [
+   "Facies mesialis"
+  ],
+  "en": "Mesial surface of tooth",
+  "desc": {
+   "en": "The contact surface that faces toward the midline of the dental arch.",
+   "id": "Permukaan kontak yang menghadap ke garis tengah arcus dentalis."
+  },
+  "facts": {
+   "bone": "lower-first-molar-tooth"
+  },
+  "quiz": {
+   "bone": [
+    "Dens molaris",
+    "Dens"
+   ]
+  }
+ },
+ {
+  "key": "neck-of-tooth",
+  "kind": "landmark",
+  "la": "Cervix dentis",
+  "alt": [
+   "Collum dentis"
+  ],
+  "en": "Neck of tooth",
+  "desc": {
+   "en": "The narrow junction between crown and root, at the cemento-enamel junction.",
+   "id": "Bagian sempit di antara corona dan radix, setinggi batas email dan sementum."
+  },
+  "facts": {
+   "bone": "lower-first-molar-tooth"
+  },
+  "quiz": {
+   "bone": [
+    "Dens molaris",
+    "Dens"
+   ]
+  }
+ },
+ {
+  "key": "occlusal-surface-of-tooth",
+  "kind": "landmark",
+  "la": "Facies occlusalis dentis",
+  "alt": [
+   "Facies occlusalis",
+   "Facies masticatoria"
+  ],
+  "en": "Occlusal surface of tooth",
+  "desc": {
+   "en": "The chewing surface of premolars and molars that meets the teeth of the opposite arch.",
+   "id": "Permukaan kunyah gigi premolar dan molar yang bertemu gigi lawannya."
+  },
+  "facts": {
+   "bone": "lower-first-molar-tooth"
+  },
+  "quiz": {
+   "bone": [
+    "Dens molaris",
+    "Dens"
+   ]
+  }
+ },
+ {
+  "key": "root-apex",
+  "kind": "landmark",
+  "la": "Apex radicis dentis",
+  "alt": [],
+  "en": "Root apex",
+  "desc": {
+   "en": "The tip of each root, where the apical foramen lets the dental nerve and vessels into the pulp.",
+   "id": "Ujung tiap radix, tempat foramen apicis dentis dilalui saraf dan pembuluh menuju pulpa."
+  },
+  "facts": {
+   "bone": "lower-first-molar-tooth"
+  },
+  "quiz": {
+   "bone": [
+    "Dens molaris",
+    "Dens"
+   ]
+  }
+ },
+ {
+  "key": "root-of-tooth",
+  "kind": "landmark",
+  "la": "Radix dentis",
+  "alt": [],
+  "en": "Root of tooth",
+  "desc": {
+   "en": "The part of the tooth covered with cementum and held in the alveolus by the periodontal ligament; the lower first molar has a mesial and a distal root.",
+   "id": "Bagian gigi berlapis sementum yang tertanam di alveolus dan diikat periodontium; molar pertama bawah memiliki radix mesialis dan distalis."
+  },
+  "facts": {
+   "bone": "lower-first-molar-tooth"
+  },
+  "quiz": {
+   "bone": [
+    "Dens molaris",
+    "Dens"
+   ]
+  }
+ },
+ {
+  "key": "vestibular-surface-of-tooth",
+  "kind": "landmark",
+  "la": "Facies vestibularis dentis",
+  "alt": [
+   "Facies vestibularis",
+   "Facies buccalis",
+   "Facies labialis"
+  ],
+  "en": "Vestibular surface of tooth",
+  "desc": {
+   "en": "The surface facing the oral vestibule, called buccal on back teeth and labial on front teeth.",
+   "id": "Permukaan yang menghadap vestibulum oris, disebut facies buccalis pada gigi belakang dan facies labialis pada gigi depan."
+  },
+  "facts": {
+   "bone": "lower-first-molar-tooth"
+  },
+  "quiz": {
+   "bone": [
+    "Dens molaris",
+    "Dens"
+   ]
+  }
+ }
+]

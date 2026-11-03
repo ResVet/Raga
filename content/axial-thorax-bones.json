@@ -1,0 +1,1394 @@
+[
+ {
+  "key": "sternum",
+  "kind": "bone",
+  "la": "Sternum",
+  "alt": [
+   "Os sternum",
+   "Os sterni"
+  ],
+  "en": "Sternum",
+  "desc": {
+   "en": "The flat, elongated bone in the front midline of the thorax, made of three parts: the manubrium, the body and the xiphoid process. It articulates with the clavicles and with the costal cartilages of ribs 1-7, and its red marrow persists in adults.",
+   "id": "Tulang pipih dan memanjang di garis tengah depan thorax, terdiri atas tiga bagian: manubrium, corpus, dan processus xiphoideus. Sternum bersendi dengan clavicula dan cartilago costalis I-VII, dan sumsum merahnya tetap ada pada orang dewasa."
+  },
+  "facts": {
+   "type": "Os planum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Clavicula",
+    "Cartilagines costales I-VII"
+   ],
+   "features": [
+    "manubrium-of-sternum",
+    "body-of-sternum",
+    "xiphoid-process",
+    "jugular-notch-of-sternum",
+    "clavicular-notch",
+    "costal-notches",
+    "sternal-angle"
+   ],
+   "region": {
+    "en": "Thoracic wall",
+    "id": "Dinding thorax"
+   },
+   "clinical": {
+    "en": "Bone marrow can be aspirated from the sternum, and the heart is approached by splitting it in the midline (median sternotomy).",
+    "id": "Sumsum tulang dapat diaspirasi dari sternum, dan jantung dicapai dengan membelahnya di garis tengah (sternotomi mediana)."
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os planum",
+    "planum",
+    "tulang pipih"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "parts": [
+    "Manubrium sterni",
+    "Corpus sterni",
+    "Processus xiphoideus"
+   ]
+  }
+ },
+ {
+  "key": "manubrium-of-sternum",
+  "kind": "bone",
+  "la": "Manubrium sterni",
+  "alt": [
+   "Manubrium"
+  ],
+  "en": "Manubrium of sternum",
+  "desc": {
+   "en": "The upper, widest and thickest part of the sternum, at the level of T3-T4. Its upper border has the jugular notch between the two clavicular notches; at the sides it takes the first costal cartilage and the upper half of the second. It joins the body at the sternal angle.",
+   "id": "Bagian sternum paling atas, paling lebar, dan paling tebal, setinggi T3-T4. Tepi atasnya memiliki incisura jugularis di antara kedua incisura clavicularis; di sisinya bersendi cartilago costalis I dan separuh atas cartilago costalis II. Manubrium bersambung dengan corpus pada angulus sterni."
+  },
+  "facts": {
+   "type": "Os planum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Clavicula",
+    "Cartilago costalis I",
+    "Cartilago costalis II",
+    "Corpus sterni"
+   ],
+   "features": [
+    "jugular-notch-of-sternum",
+    "clavicular-notch",
+    "costal-notches",
+    "sternal-angle"
+   ],
+   "region": {
+    "en": "Thoracic wall",
+    "id": "Dinding thorax"
+   },
+   "attach": {
+    "en": "Sternal head of sternocleidomastoid and pectoralis major on its front; sternohyoid and sternothyroid on its back.",
+    "id": "Caput sternale m. sternocleidomastoideus dan m. pectoralis major di depan; m. sternohyoideus dan m. sternothyroideus di belakang."
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os planum",
+    "planum",
+    "tulang pipih"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "bone": [
+    "Sternum"
+   ]
+  }
+ },
+ {
+  "key": "body-of-sternum",
+  "kind": "bone",
+  "la": "Corpus sterni",
+  "alt": [],
+  "en": "Body of sternum",
+  "desc": {
+   "en": "The longest part of the sternum, at the level of T5-T9, formed by the fusion of four segments (sternebrae) whose junctions show as faint transverse ridges. Its lateral borders take the lower half of the second costal cartilage, the third to sixth cartilages and part of the seventh.",
+   "id": "Bagian sternum yang paling panjang, setinggi T5-T9, terbentuk dari penyatuan empat segmen (sternebrae) yang batasnya tampak sebagai rigi melintang samar. Tepi lateralnya bersendi dengan separuh bawah cartilago costalis II, cartilago III-VI, dan sebagian cartilago VII."
+  },
+  "facts": {
+   "type": "Os planum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Manubrium sterni",
+    "Processus xiphoideus",
+    "Cartilagines costales II-VII"
+   ],
+   "features": [
+    "costal-notches",
+    "sternal-angle"
+   ],
+   "region": {
+    "en": "Thoracic wall",
+    "id": "Dinding thorax"
+   },
+   "attach": {
+    "en": "Pectoralis major on its front; transversus thoracis on the lower part of its back.",
+    "id": "M. pectoralis major di depan; m. transversus thoracis di bagian bawah permukaan belakang."
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os planum",
+    "planum",
+    "tulang pipih"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "bone": [
+    "Sternum"
+   ]
+  }
+ },
+ {
+  "key": "xiphoid-process",
+  "kind": "bone",
+  "la": "Processus xiphoideus",
+  "alt": [
+   "Processus xyphoideus",
+   "Xiphoideus"
+  ],
+  "en": "Xiphoid process",
+  "desc": {
+   "en": "The smallest and most variable part of the sternum, at the level of T10; it may be pointed, bifid or perforated. It is cartilaginous in young people and ossifies in adults. The xiphisternal joint at about T9 marks the lower limit of the thoracic cavity in front and the level of the central tendon of the diaphragm.",
+   "id": "Bagian sternum terkecil dan paling bervariasi, setinggi T10; bentuknya dapat runcing, bercabang dua, atau berlubang. Pada usia muda masih berupa tulang rawan dan menulang pada usia dewasa. Articulatio xiphosternalis kira-kira setinggi T9 menandai batas bawah rongga dada di depan dan ketinggian centrum tendineum diaphragmatis."
+  },
+  "facts": {
+   "type": "Os planum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Corpus sterni"
+   ],
+   "region": {
+    "en": "Thoracic wall",
+    "id": "Dinding thorax"
+   },
+   "attach": {
+    "en": "Sternal part of the diaphragm and transversus thoracis on its back; linea alba and part of rectus abdominis at its front and tip.",
+    "id": "Pars sternalis diaphragmatis dan m. transversus thoracis di belakang; linea alba dan sebagian m. rectus abdominis di depan dan ujungnya."
+   },
+   "note": {
+    "en": "The module spells it 'Processus xyphoideus'; the TA spelling is 'xiphoideus'.",
+    "id": "Modul menuliskannya 'Processus xyphoideus'; ejaan TA adalah 'xiphoideus'."
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os planum",
+    "planum",
+    "tulang pipih"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "bone": [
+    "Sternum"
+   ]
+  }
+ },
+ {
+  "key": "rib",
+  "kind": "bone",
+  "la": "Costa",
+  "alt": [
+   "Costae",
+   "Os costale",
+   "Ossa costae",
+   "Os costa"
+  ],
+  "en": "Rib",
+  "desc": {
+   "en": "One of 12 pairs of curved flat bones of the thoracic wall. Ribs 1-7 are true ribs (costae verae) that reach the sternum by their own costal cartilages; ribs 8-12 are false ribs (costae spuriae): 8-10 join the cartilage above, and 11-12 are floating ribs (costae fluctuantes) that end free in the abdominal wall. Ribs 3-9 are typical (head with two facets, neck, tubercle, angle, body with costal groove); ribs 1, 2, 10, 11 and 12 are atypical.",
+   "id": "Salah satu dari 12 pasang tulang pipih melengkung pada dinding thorax. Costa I-VII adalah costae verae yang mencapai sternum melalui cartilago costalis-nya sendiri; costa VIII-XII adalah costae spuriae: VIII-X bergabung dengan cartilago di atasnya, sedangkan XI-XII adalah costae fluctuantes yang berakhir bebas di dinding perut. Costa III-IX tipikal (caput dengan dua facies, collum, tuberculum, angulus, corpus dengan sulcus costae); costa I, II, X, XI, dan XII atipikal."
+  },
+  "facts": {
+   "type": "Os planum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebrae thoracicae",
+    "Cartilagines costales",
+    "Sternum"
+   ],
+   "features": [
+    "head-of-rib",
+    "articular-facets-of-head-of-rib",
+    "crest-of-head-of-rib",
+    "neck-of-rib",
+    "crest-of-neck-of-rib",
+    "tubercle-of-rib",
+    "articular-facet-of-tubercle-of-rib",
+    "angle-of-rib",
+    "body-of-rib",
+    "costal-groove"
+   ],
+   "region": {
+    "en": "Thoracic wall",
+    "id": "Dinding thorax"
+   },
+   "groups": [
+    "Costae verae: I-VII",
+    "Costae spuriae: VIII-XII",
+    "Costae fluctuantes: XI-XII",
+    "Costae typicae: III-IX",
+    "Costae atypicae: I, II, X, XI, XII"
+   ]
+  },
+  "quiz": {
+   "type": [
+    "Os planum",
+    "planum",
+    "tulang pipih"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "true_ribs": [
+    "I-VII",
+    "1-7",
+    "costa I-VII"
+   ],
+   "false_ribs": [
+    "VIII-XII",
+    "8-12",
+    "costa VIII-XII"
+   ],
+   "floating_ribs": [
+    "XI-XII",
+    "11-12",
+    "costa XI-XII"
+   ],
+   "typical": [
+    "III-IX",
+    "3-9",
+    "costa III-IX"
+   ],
+   "atypical": [
+    "I, II, X, XI, XII",
+    "1, 2, 10, 11, 12"
+   ]
+  }
+ },
+ {
+  "key": "first-rib",
+  "kind": "bone",
+  "la": "Costa I",
+  "alt": [
+   "Costa prima",
+   "Prima costa",
+   "Costa 1"
+  ],
+  "en": "First rib",
+  "desc": {
+   "en": "The shortest, broadest and most curved rib, lying flat with upper and lower surfaces. Its head has a single facet for T1. The upper surface carries the scalene tubercle with a groove for the subclavian vein in front of it and a groove for the subclavian artery and lower trunk of the brachial plexus behind it. Its cartilage joins the manubrium by a synchondrosis.",
+   "id": "Costa terpendek, terlebar, dan paling melengkung, terletak mendatar dengan permukaan atas dan bawah. Caput-nya hanya memiliki satu facies untuk T1. Permukaan atasnya memuat tuberculum musculi scaleni anterioris dengan sulcus venae subclaviae di depannya serta sulcus arteriae subclaviae dan truncus inferior plexus brachialis di belakangnya. Cartilago-nya bersatu dengan manubrium melalui synchondrosis."
+  },
+  "facts": {
+   "type": "Os planum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra thoracica I",
+    "Manubrium sterni (per cartilaginem)"
+   ],
+   "features": [
+    "head-of-rib",
+    "neck-of-rib",
+    "tubercle-of-rib",
+    "scalene-tubercle-of-first-rib",
+    "groove-for-subclavian-vein",
+    "groove-for-subclavian-artery",
+    "body-of-rib"
+   ],
+   "region": {
+    "en": "Thoracic wall",
+    "id": "Dinding thorax"
+   },
+   "class": "Costa vera",
+   "typical": false,
+   "clinical": {
+    "en": "A fracture of the first rib signals severe trauma and can injure the subclavian vessels and brachial plexus; an extra cervical rib above it can compress the same structures (thoracic outlet syndrome).",
+    "id": "Fraktur costa I menandakan trauma berat dan dapat mencederai pembuluh subclavia serta plexus brachialis; costa cervicalis tambahan di atasnya dapat menekan struktur yang sama (sindrom thoracic outlet)."
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os planum",
+    "planum",
+    "tulang pipih"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "class": [
+    "Costa vera",
+    "vera",
+    "iga sejati",
+    "costae verae"
+   ],
+   "typical": [
+    "Atipikal",
+    "atypica",
+    "costa atypica",
+    "atipikal"
+   ]
+  }
+ },
+ {
+  "key": "second-rib",
+  "kind": "bone",
+  "la": "Costa II",
+  "alt": [
+   "Costa secunda",
+   "Secunda costa",
+   "Costa 2"
+  ],
+  "en": "Second rib",
+  "desc": {
+   "en": "A thinner, less curved rib about twice as long as the first. Its head has two facets (for T1 and T2), and its outer surface has a rough tuberosity for serratus anterior. Its cartilage meets the sternum at the sternal angle, so it is the first rib to count from in the living.",
+   "id": "Costa yang lebih tipis, kurang melengkung, dan kira-kira dua kali panjang costa I. Caput-nya memiliki dua facies (untuk T1 dan T2), dan permukaan luarnya memiliki tuberositas musculi serrati anterioris yang kasar. Cartilago-nya bertemu sternum pada angulus sterni, sehingga costa ini menjadi patokan awal menghitung costa pada orang hidup."
+  },
+  "facts": {
+   "type": "Os planum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra thoracica I",
+    "Vertebra thoracica II",
+    "Sternum (per cartilaginem)"
+   ],
+   "features": [
+    "head-of-rib",
+    "articular-facets-of-head-of-rib",
+    "crest-of-head-of-rib",
+    "neck-of-rib",
+    "crest-of-neck-of-rib",
+    "tubercle-of-rib",
+    "articular-facet-of-tubercle-of-rib",
+    "angle-of-rib",
+    "body-of-rib",
+    "costal-groove",
+    "tuberosity-for-serratus-anterior"
+   ],
+   "region": {
+    "en": "Thoracic wall",
+    "id": "Dinding thorax"
+   },
+   "class": "Costa vera",
+   "typical": false
+  },
+  "quiz": {
+   "type": [
+    "Os planum",
+    "planum",
+    "tulang pipih"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "class": [
+    "Costa vera",
+    "vera",
+    "iga sejati",
+    "costae verae"
+   ],
+   "typical": [
+    "Atipikal",
+    "atypica",
+    "costa atypica",
+    "atipikal"
+   ]
+  }
+ },
+ {
+  "key": "third-rib",
+  "kind": "bone",
+  "la": "Costa III",
+  "alt": [
+   "Costa tertia",
+   "Tertia costa",
+   "Costa 3"
+  ],
+  "en": "Third rib",
+  "desc": {
+   "en": "A typical true rib: a head with two facets for T2 and T3, a neck, a tubercle that articulates with the transverse process of T3, an angle and a body with a costal groove. Its cartilage joins the body of the sternum by a synovial sternocostal joint; pectoralis minor arises from ribs 3-5.",
+   "id": "Costa vera tipikal: caput dengan dua facies untuk T2 dan T3, collum, tuberculum yang bersendi dengan processus transversus T3, angulus, dan corpus dengan sulcus costae. Cartilago-nya bersendi dengan corpus sterni melalui articulatio sternocostalis sinovial; m. pectoralis minor berorigo pada costa III-V."
+  },
+  "facts": {
+   "type": "Os planum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra thoracica II",
+    "Vertebra thoracica III",
+    "Corpus sterni (per cartilaginem)"
+   ],
+   "features": [
+    "head-of-rib",
+    "articular-facets-of-head-of-rib",
+    "crest-of-head-of-rib",
+    "neck-of-rib",
+    "crest-of-neck-of-rib",
+    "tubercle-of-rib",
+    "articular-facet-of-tubercle-of-rib",
+    "angle-of-rib",
+    "body-of-rib",
+    "costal-groove"
+   ],
+   "region": {
+    "en": "Thoracic wall",
+    "id": "Dinding thorax"
+   },
+   "class": "Costa vera",
+   "typical": true
+  },
+  "quiz": {
+   "type": [
+    "Os planum",
+    "planum",
+    "tulang pipih"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "class": [
+    "Costa vera",
+    "vera",
+    "iga sejati",
+    "costae verae"
+   ],
+   "typical": [
+    "Tipikal",
+    "typica",
+    "costa typica",
+    "tipikal"
+   ]
+  }
+ },
+ {
+  "key": "fourth-rib",
+  "kind": "bone",
+  "la": "Costa IV",
+  "alt": [
+   "Costa quarta",
+   "Quarta costa",
+   "Costa 4"
+  ],
+  "en": "Fourth rib",
+  "desc": {
+   "en": "A typical true rib articulating with T3 and T4. In men the nipple usually lies over the fourth intercostal space, just below this rib, in the midclavicular line.",
+   "id": "Costa vera tipikal yang bersendi dengan T3 dan T4. Pada laki-laki papilla mammae biasanya terletak di atas spatium intercostale IV, tepat di bawah costa ini, pada linea medioclavicularis."
+  },
+  "facts": {
+   "type": "Os planum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra thoracica III",
+    "Vertebra thoracica IV",
+    "Corpus sterni (per cartilaginem)"
+   ],
+   "features": [
+    "head-of-rib",
+    "articular-facets-of-head-of-rib",
+    "crest-of-head-of-rib",
+    "neck-of-rib",
+    "crest-of-neck-of-rib",
+    "tubercle-of-rib",
+    "articular-facet-of-tubercle-of-rib",
+    "angle-of-rib",
+    "body-of-rib",
+    "costal-groove"
+   ],
+   "region": {
+    "en": "Thoracic wall",
+    "id": "Dinding thorax"
+   },
+   "class": "Costa vera",
+   "typical": true
+  },
+  "quiz": {
+   "type": [
+    "Os planum",
+    "planum",
+    "tulang pipih"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "class": [
+    "Costa vera",
+    "vera",
+    "iga sejati",
+    "costae verae"
+   ],
+   "typical": [
+    "Tipikal",
+    "typica",
+    "costa typica",
+    "tipikal"
+   ]
+  }
+ },
+ {
+  "key": "fifth-rib",
+  "kind": "bone",
+  "la": "Costa V",
+  "alt": [
+   "Costa quinta",
+   "Quinta costa",
+   "Costa 5"
+  ],
+  "en": "Fifth rib",
+  "desc": {
+   "en": "A typical true rib articulating with T4 and T5. The apex of the heart usually lies in the fifth intercostal space, below this rib, in the left midclavicular line.",
+   "id": "Costa vera tipikal yang bersendi dengan T4 dan T5. Apex cordis biasanya terletak di spatium intercostale V, di bawah costa ini, pada linea medioclavicularis kiri."
+  },
+  "facts": {
+   "type": "Os planum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra thoracica IV",
+    "Vertebra thoracica V",
+    "Corpus sterni (per cartilaginem)"
+   ],
+   "features": [
+    "head-of-rib",
+    "articular-facets-of-head-of-rib",
+    "crest-of-head-of-rib",
+    "neck-of-rib",
+    "crest-of-neck-of-rib",
+    "tubercle-of-rib",
+    "articular-facet-of-tubercle-of-rib",
+    "angle-of-rib",
+    "body-of-rib",
+    "costal-groove"
+   ],
+   "region": {
+    "en": "Thoracic wall",
+    "id": "Dinding thorax"
+   },
+   "class": "Costa vera",
+   "typical": true
+  },
+  "quiz": {
+   "type": [
+    "Os planum",
+    "planum",
+    "tulang pipih"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "class": [
+    "Costa vera",
+    "vera",
+    "iga sejati",
+    "costae verae"
+   ],
+   "typical": [
+    "Tipikal",
+    "typica",
+    "costa typica",
+    "tipikal"
+   ]
+  }
+ },
+ {
+  "key": "sixth-rib",
+  "kind": "bone",
+  "la": "Costa VI",
+  "alt": [
+   "Costa sexta",
+   "Sexta costa",
+   "Costa 6"
+  ],
+  "en": "Sixth rib",
+  "desc": {
+   "en": "A typical true rib articulating with T5 and T6. Its cartilage is the last to receive transversus thoracis (cartilages 2-6).",
+   "id": "Costa vera tipikal yang bersendi dengan T5 dan T6. Cartilago-nya menjadi yang terakhir menerima insersio m. transversus thoracis (cartilago II-VI)."
+  },
+  "facts": {
+   "type": "Os planum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra thoracica V",
+    "Vertebra thoracica VI",
+    "Corpus sterni (per cartilaginem)"
+   ],
+   "features": [
+    "head-of-rib",
+    "articular-facets-of-head-of-rib",
+    "crest-of-head-of-rib",
+    "neck-of-rib",
+    "crest-of-neck-of-rib",
+    "tubercle-of-rib",
+    "articular-facet-of-tubercle-of-rib",
+    "angle-of-rib",
+    "body-of-rib",
+    "costal-groove"
+   ],
+   "region": {
+    "en": "Thoracic wall",
+    "id": "Dinding thorax"
+   },
+   "class": "Costa vera",
+   "typical": true
+  },
+  "quiz": {
+   "type": [
+    "Os planum",
+    "planum",
+    "tulang pipih"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "class": [
+    "Costa vera",
+    "vera",
+    "iga sejati",
+    "costae verae"
+   ],
+   "typical": [
+    "Tipikal",
+    "typica",
+    "costa typica",
+    "tipikal"
+   ]
+  }
+ },
+ {
+  "key": "seventh-rib",
+  "kind": "bone",
+  "la": "Costa VII",
+  "alt": [
+   "Costa septima",
+   "Septima costa",
+   "Costa 7"
+  ],
+  "en": "Seventh rib",
+  "desc": {
+   "en": "The last true rib, typical in form, articulating with T6 and T7. Its long cartilage reaches the sternum near the xiphisternal junction and forms the top of the costal margin; the costal part of the diaphragm arises from ribs 7-12.",
+   "id": "Costa vera terakhir dengan bentuk tipikal, bersendi dengan T6 dan T7. Cartilago-nya yang panjang mencapai sternum dekat pertemuan corpus dan processus xiphoideus serta membentuk puncak arcus costalis; pars costalis diaphragmatis berorigo pada costa VII-XII."
+  },
+  "facts": {
+   "type": "Os planum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra thoracica VI",
+    "Vertebra thoracica VII",
+    "Corpus sterni (per cartilaginem)"
+   ],
+   "features": [
+    "head-of-rib",
+    "articular-facets-of-head-of-rib",
+    "crest-of-head-of-rib",
+    "neck-of-rib",
+    "crest-of-neck-of-rib",
+    "tubercle-of-rib",
+    "articular-facet-of-tubercle-of-rib",
+    "angle-of-rib",
+    "body-of-rib",
+    "costal-groove"
+   ],
+   "region": {
+    "en": "Thoracic wall",
+    "id": "Dinding thorax"
+   },
+   "class": "Costa vera",
+   "typical": true
+  },
+  "quiz": {
+   "type": [
+    "Os planum",
+    "planum",
+    "tulang pipih"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "class": [
+    "Costa vera",
+    "vera",
+    "iga sejati",
+    "costae verae"
+   ],
+   "typical": [
+    "Tipikal",
+    "typica",
+    "costa typica",
+    "tipikal"
+   ]
+  }
+ },
+ {
+  "key": "eighth-rib",
+  "kind": "bone",
+  "la": "Costa VIII",
+  "alt": [
+   "Costa octava",
+   "Octava costa",
+   "Costa 8"
+  ],
+  "en": "Eighth rib",
+  "desc": {
+   "en": "A typical false (vertebrochondral) rib articulating with T7 and T8. Its cartilage does not reach the sternum; it joins the seventh cartilage and forms part of the costal margin.",
+   "id": "Costa spuria tipikal (vertebrochondral) yang bersendi dengan T7 dan T8. Cartilago-nya tidak mencapai sternum; bergabung dengan cartilago VII dan membentuk sebagian arcus costalis."
+  },
+  "facts": {
+   "type": "Os planum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra thoracica VII",
+    "Vertebra thoracica VIII",
+    "Cartilago costalis VII"
+   ],
+   "features": [
+    "head-of-rib",
+    "articular-facets-of-head-of-rib",
+    "crest-of-head-of-rib",
+    "neck-of-rib",
+    "crest-of-neck-of-rib",
+    "tubercle-of-rib",
+    "articular-facet-of-tubercle-of-rib",
+    "angle-of-rib",
+    "body-of-rib",
+    "costal-groove"
+   ],
+   "region": {
+    "en": "Thoracic wall",
+    "id": "Dinding thorax"
+   },
+   "class": "Costa spuria",
+   "typical": true
+  },
+  "quiz": {
+   "type": [
+    "Os planum",
+    "planum",
+    "tulang pipih"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "class": [
+    "Costa spuria",
+    "spuria",
+    "iga palsu",
+    "costae spuriae"
+   ],
+   "typical": [
+    "Tipikal",
+    "typica",
+    "costa typica",
+    "tipikal"
+   ]
+  }
+ },
+ {
+  "key": "ninth-rib",
+  "kind": "bone",
+  "la": "Costa IX",
+  "alt": [
+   "Costa nona",
+   "Nona costa",
+   "Costa 9"
+  ],
+  "en": "Ninth rib",
+  "desc": {
+   "en": "The last typical rib, a false rib articulating with T8 and T9. Its cartilage joins the eighth cartilage in the costal margin.",
+   "id": "Costa tipikal terakhir, termasuk costa spuria, bersendi dengan T8 dan T9. Cartilago-nya bergabung dengan cartilago VIII pada arcus costalis."
+  },
+  "facts": {
+   "type": "Os planum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra thoracica VIII",
+    "Vertebra thoracica IX",
+    "Cartilago costalis VIII"
+   ],
+   "features": [
+    "head-of-rib",
+    "articular-facets-of-head-of-rib",
+    "crest-of-head-of-rib",
+    "neck-of-rib",
+    "crest-of-neck-of-rib",
+    "tubercle-of-rib",
+    "articular-facet-of-tubercle-of-rib",
+    "angle-of-rib",
+    "body-of-rib",
+    "costal-groove"
+   ],
+   "region": {
+    "en": "Thoracic wall",
+    "id": "Dinding thorax"
+   },
+   "class": "Costa spuria",
+   "typical": true
+  },
+  "quiz": {
+   "type": [
+    "Os planum",
+    "planum",
+    "tulang pipih"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "class": [
+    "Costa spuria",
+    "spuria",
+    "iga palsu",
+    "costae spuriae"
+   ],
+   "typical": [
+    "Tipikal",
+    "typica",
+    "costa typica",
+    "tipikal"
+   ]
+  }
+ },
+ {
+  "key": "tenth-rib",
+  "kind": "bone",
+  "la": "Costa X",
+  "alt": [
+   "Costa decima",
+   "Decima costa",
+   "Costa 10"
+  ],
+  "en": "Tenth rib",
+  "desc": {
+   "en": "An atypical false rib: its head has a single facet for T10 only. Its cartilage joins the ninth cartilage and forms the lowest part of the costal margin; the subcostal plane passes through the lower border of this cartilage at the level of L3.",
+   "id": "Costa spuria atipikal: caput-nya hanya memiliki satu facies untuk T10. Cartilago-nya bergabung dengan cartilago IX dan membentuk bagian terendah arcus costalis; planum subcostale melewati tepi bawah cartilago ini setinggi L3."
+  },
+  "facts": {
+   "type": "Os planum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra thoracica X",
+    "Cartilago costalis IX"
+   ],
+   "features": [
+    "head-of-rib",
+    "articular-facets-of-head-of-rib",
+    "crest-of-head-of-rib",
+    "neck-of-rib",
+    "crest-of-neck-of-rib",
+    "tubercle-of-rib",
+    "articular-facet-of-tubercle-of-rib",
+    "angle-of-rib",
+    "body-of-rib",
+    "costal-groove"
+   ],
+   "region": {
+    "en": "Thoracic wall",
+    "id": "Dinding thorax"
+   },
+   "class": "Costa spuria",
+   "typical": false
+  },
+  "quiz": {
+   "type": [
+    "Os planum",
+    "planum",
+    "tulang pipih"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "class": [
+    "Costa spuria",
+    "spuria",
+    "iga palsu",
+    "costae spuriae"
+   ],
+   "typical": [
+    "Atipikal",
+    "atypica",
+    "costa atypica",
+    "atipikal"
+   ]
+  }
+ },
+ {
+  "key": "eleventh-rib",
+  "kind": "bone",
+  "la": "Costa XI",
+  "alt": [
+   "Costa undecima",
+   "Undecima costa",
+   "Costa 11"
+  ],
+  "en": "Eleventh rib",
+  "desc": {
+   "en": "An atypical floating rib: a single facet on the head for T11, no neck or tubercle and no costotransverse joint. It is short, and its cartilaginous tip ends free among the muscles of the abdominal wall.",
+   "id": "Costa fluctuans atipikal: satu facies pada caput untuk T11, tanpa collum atau tuberculum dan tanpa articulatio costotransversaria. Costa ini pendek, dan ujung tulang rawannya berakhir bebas di antara otot dinding perut."
+  },
+  "facts": {
+   "type": "Os planum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra thoracica XI"
+   ],
+   "features": [
+    "head-of-rib",
+    "articular-facets-of-head-of-rib",
+    "body-of-rib",
+    "angle-of-rib"
+   ],
+   "region": {
+    "en": "Thoracic wall",
+    "id": "Dinding thorax"
+   },
+   "class": "Costa fluctuans",
+   "typical": false
+  },
+  "quiz": {
+   "type": [
+    "Os planum",
+    "planum",
+    "tulang pipih"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "class": [
+    "Costa fluctuans",
+    "fluctuans",
+    "iga melayang",
+    "costae fluctuantes",
+    "Costa spuria",
+    "spuria",
+    "iga palsu"
+   ],
+   "typical": [
+    "Atipikal",
+    "atypica",
+    "costa atypica",
+    "atipikal"
+   ]
+  }
+ },
+ {
+  "key": "twelfth-rib",
+  "kind": "bone",
+  "la": "Costa XII",
+  "alt": [
+   "Costa duodecima",
+   "Duodecima costa",
+   "Costa 12"
+  ],
+  "en": "Twelfth rib",
+  "desc": {
+   "en": "The last floating rib, short and variable in length, with a single facet on the head for T12, no neck, no tubercle and only a faint angle. The pleura extends below its medial part, and the kidney lies against it behind.",
+   "id": "Costa fluctuans terakhir, pendek dan panjangnya bervariasi, dengan satu facies pada caput untuk T12, tanpa collum, tanpa tuberculum, dan angulus yang samar. Pleura meluas ke bawah bagian medialnya, dan ren bersandar padanya di belakang."
+  },
+  "facts": {
+   "type": "Os planum",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra thoracica XII"
+   ],
+   "features": [
+    "head-of-rib",
+    "articular-facets-of-head-of-rib",
+    "body-of-rib"
+   ],
+   "region": {
+    "en": "Thoracic wall",
+    "id": "Dinding thorax"
+   },
+   "class": "Costa fluctuans",
+   "typical": false,
+   "clinical": {
+    "en": "In surgery from behind on the kidney, the pleura can be opened by mistake below the medial part of this rib.",
+    "id": "Pada operasi ginjal dari belakang, pleura dapat terbuka tanpa sengaja di bawah bagian medial costa ini."
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os planum",
+    "planum",
+    "tulang pipih"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "class": [
+    "Costa fluctuans",
+    "fluctuans",
+    "iga melayang",
+    "costae fluctuantes",
+    "Costa spuria",
+    "spuria",
+    "iga palsu"
+   ],
+   "typical": [
+    "Atipikal",
+    "atypica",
+    "costa atypica",
+    "atipikal"
+   ]
+  }
+ },
+ {
+  "key": "costal-cartilage-of-first-rib",
+  "kind": "cartilage",
+  "la": "Cartilago costalis I",
+  "alt": [
+   "Cartilago costalis",
+   "Cartilago costae primae",
+   "Cartilago costalis costae I",
+   "Cartilago costalis 1"
+  ],
+  "en": "Costal cartilage of first rib",
+  "desc": {
+   "en": "The short first costal cartilage, joined directly to the manubrium by a synchondrosis (no joint cavity). Subclavius and the costoclavicular ligament attach near its junction with the rib.",
+   "id": "Cartilago costalis I yang pendek, bersatu langsung dengan manubrium melalui synchondrosis (tanpa cavitas articularis). M. subclavius dan ligamentum costoclaviculare melekat dekat pertemuannya dengan costa."
+  },
+  "facts": {
+   "location": {
+    "en": "Between the anterior end of rib I and the sternum.",
+    "id": "Di antara ujung depan costa I dan sternum."
+   },
+   "features": {
+    "en": "Hyaline cartilage that keeps the thoracic wall elastic; it may calcify with age.",
+    "id": "Cartilago hyalina yang membuat dinding thorax lentur; dapat mengalami kalsifikasi seiring usia."
+   },
+   "joins": "Manubrium sterni"
+  },
+  "quiz": {
+   "joins": [
+    "Manubrium sterni"
+   ]
+  }
+ },
+ {
+  "key": "costal-cartilage-of-second-rib",
+  "kind": "cartilage",
+  "la": "Cartilago costalis II",
+  "alt": [
+   "Cartilago costalis",
+   "Cartilago costae secundae",
+   "Cartilago costalis costae II",
+   "Cartilago costalis 2"
+  ],
+  "en": "Costal cartilage of second rib",
+  "desc": {
+   "en": "The second costal cartilage meets the sternum at the sternal angle, with facets on both the manubrium and the body and an intra-articular ligament between them; it is the landmark for counting ribs.",
+   "id": "Cartilago costalis II bertemu sternum pada angulus sterni, dengan facies pada manubrium dan corpus serta ligamentum intraarticulare di antaranya; menjadi patokan menghitung costa."
+  },
+  "facts": {
+   "location": {
+    "en": "Between the anterior end of rib II and the sternum.",
+    "id": "Di antara ujung depan costa II dan sternum."
+   },
+   "features": {
+    "en": "Hyaline cartilage that keeps the thoracic wall elastic; it may calcify with age.",
+    "id": "Cartilago hyalina yang membuat dinding thorax lentur; dapat mengalami kalsifikasi seiring usia."
+   },
+   "joins": "Manubrium et corpus sterni"
+  },
+  "quiz": {
+   "joins": [
+    "Manubrium et corpus sterni"
+   ]
+  }
+ },
+ {
+  "key": "costal-cartilage-of-third-rib",
+  "kind": "cartilage",
+  "la": "Cartilago costalis III",
+  "alt": [
+   "Cartilago costalis",
+   "Cartilago costae tertiae",
+   "Cartilago costalis costae III",
+   "Cartilago costalis 3"
+  ],
+  "en": "Costal cartilage of third rib",
+  "desc": {
+   "en": "Joins the body of the sternum by a synovial plane sternocostal joint. The internal thoracic artery runs behind the upper cartilages, about 1 cm from the edge of the sternum.",
+   "id": "Bersendi dengan corpus sterni melalui articulatio sternocostalis sinovial tipe plana. A. thoracica interna berjalan di belakang cartilago bagian atas, sekitar 1 cm dari tepi sternum."
+  },
+  "facts": {
+   "location": {
+    "en": "Between the anterior end of rib III and the sternum.",
+    "id": "Di antara ujung depan costa III dan sternum."
+   },
+   "features": {
+    "en": "Hyaline cartilage that keeps the thoracic wall elastic; it may calcify with age.",
+    "id": "Cartilago hyalina yang membuat dinding thorax lentur; dapat mengalami kalsifikasi seiring usia."
+   },
+   "joins": "Corpus sterni"
+  },
+  "quiz": {
+   "joins": [
+    "Corpus sterni"
+   ]
+  }
+ },
+ {
+  "key": "costal-cartilage-of-fourth-rib",
+  "kind": "cartilage",
+  "la": "Cartilago costalis IV",
+  "alt": [
+   "Cartilago costalis",
+   "Cartilago costae quartae",
+   "Cartilago costalis costae IV",
+   "Cartilago costalis 4"
+  ],
+  "en": "Costal cartilage of fourth rib",
+  "desc": {
+   "en": "Joins the body of the sternum by a synovial plane sternocostal joint; pectoralis major arises from the front of the upper six cartilages and transversus thoracis inserts on the back of cartilages 2-6.",
+   "id": "Bersendi dengan corpus sterni melalui articulatio sternocostalis sinovial tipe plana; m. pectoralis major berorigo pada permukaan depan enam cartilago teratas dan m. transversus thoracis berinsersio pada permukaan belakang cartilago II-VI."
+  },
+  "facts": {
+   "location": {
+    "en": "Between the anterior end of rib IV and the sternum.",
+    "id": "Di antara ujung depan costa IV dan sternum."
+   },
+   "features": {
+    "en": "Hyaline cartilage that keeps the thoracic wall elastic; it may calcify with age.",
+    "id": "Cartilago hyalina yang membuat dinding thorax lentur; dapat mengalami kalsifikasi seiring usia."
+   },
+   "joins": "Corpus sterni"
+  },
+  "quiz": {
+   "joins": [
+    "Corpus sterni"
+   ]
+  }
+ },
+ {
+  "key": "costal-cartilage-of-fifth-rib",
+  "kind": "cartilage",
+  "la": "Cartilago costalis V",
+  "alt": [
+   "Cartilago costalis",
+   "Cartilago costae quintae",
+   "Cartilago costalis costae V",
+   "Cartilago costalis 5"
+  ],
+  "en": "Costal cartilage of fifth rib",
+  "desc": {
+   "en": "Joins the body of the sternum by a synovial sternocostal joint; rectus abdominis inserts on cartilages 5-7.",
+   "id": "Bersendi dengan corpus sterni melalui articulatio sternocostalis sinovial; m. rectus abdominis berinsersio pada cartilago V-VII."
+  },
+  "facts": {
+   "location": {
+    "en": "Between the anterior end of rib V and the sternum.",
+    "id": "Di antara ujung depan costa V dan sternum."
+   },
+   "features": {
+    "en": "Hyaline cartilage that keeps the thoracic wall elastic; it may calcify with age.",
+    "id": "Cartilago hyalina yang membuat dinding thorax lentur; dapat mengalami kalsifikasi seiring usia."
+   },
+   "joins": "Corpus sterni"
+  },
+  "quiz": {
+   "joins": [
+    "Corpus sterni"
+   ]
+  }
+ },
+ {
+  "key": "costal-cartilage-of-sixth-rib",
+  "kind": "cartilage",
+  "la": "Cartilago costalis VI",
+  "alt": [
+   "Cartilago costalis",
+   "Cartilago costae sextae",
+   "Cartilago costalis costae VI",
+   "Cartilago costalis 6"
+  ],
+  "en": "Costal cartilage of sixth rib",
+  "desc": {
+   "en": "Joins the lower body of the sternum by a synovial sternocostal joint and the seventh cartilage by an interchondral joint.",
+   "id": "Bersendi dengan bagian bawah corpus sterni melalui articulatio sternocostalis sinovial dan dengan cartilago VII melalui articulatio interchondralis."
+  },
+  "facts": {
+   "location": {
+    "en": "Between the anterior end of rib VI and the sternum.",
+    "id": "Di antara ujung depan costa VI dan sternum."
+   },
+   "features": {
+    "en": "Hyaline cartilage that keeps the thoracic wall elastic; it may calcify with age.",
+    "id": "Cartilago hyalina yang membuat dinding thorax lentur; dapat mengalami kalsifikasi seiring usia."
+   },
+   "joins": "Corpus sterni"
+  },
+  "quiz": {
+   "joins": [
+    "Corpus sterni"
+   ]
+  }
+ },
+ {
+  "key": "costal-cartilage-of-seventh-rib",
+  "kind": "cartilage",
+  "la": "Cartilago costalis VII",
+  "alt": [
+   "Cartilago costalis",
+   "Cartilago costae septimae",
+   "Cartilago costalis costae VII",
+   "Cartilago costalis 7"
+  ],
+  "en": "Costal cartilage of seventh rib",
+  "desc": {
+   "en": "The longest cartilage reaching the sternum; it joins the sternum at the xiphisternal junction (with costoxiphoid ligaments) and the eighth cartilage below, and begins the costal margin.",
+   "id": "Cartilago terpanjang yang mencapai sternum; bersendi dengan sternum pada pertemuan corpus dan processus xiphoideus (dengan ligamenta costoxiphoidea) dan dengan cartilago VIII di bawahnya, serta menjadi awal arcus costalis."
+  },
+  "facts": {
+   "location": {
+    "en": "Between the anterior end of rib VII and the sternum.",
+    "id": "Di antara ujung depan costa VII dan sternum."
+   },
+   "features": {
+    "en": "Hyaline cartilage that keeps the thoracic wall elastic; it may calcify with age.",
+    "id": "Cartilago hyalina yang membuat dinding thorax lentur; dapat mengalami kalsifikasi seiring usia."
+   },
+   "joins": "Corpus sterni et processus xiphoideus"
+  },
+  "quiz": {
+   "joins": [
+    "Corpus sterni et processus xiphoideus"
+   ]
+  }
+ },
+ {
+  "key": "costal-cartilage-of-eighth-rib",
+  "kind": "cartilage",
+  "la": "Cartilago costalis VIII",
+  "alt": [
+   "Cartilago costalis",
+   "Cartilago costae octavae",
+   "Cartilago costalis costae VIII",
+   "Cartilago costalis 8"
+  ],
+  "en": "Costal cartilage of eighth rib",
+  "desc": {
+   "en": "Does not reach the sternum; it joins the seventh cartilage by a synovial interchondral joint and forms part of the costal margin.",
+   "id": "Tidak mencapai sternum; bersendi dengan cartilago VII melalui articulatio interchondralis sinovial dan membentuk sebagian arcus costalis."
+  },
+  "facts": {
+   "location": {
+    "en": "Between the anterior end of rib VIII and the cartilage above.",
+    "id": "Di antara ujung depan costa VIII dan cartilago di atasnya."
+   },
+   "features": {
+    "en": "Hyaline cartilage that keeps the thoracic wall elastic; it may calcify with age.",
+    "id": "Cartilago hyalina yang membuat dinding thorax lentur; dapat mengalami kalsifikasi seiring usia."
+   },
+   "joins": "Cartilago costalis VII"
+  },
+  "quiz": {
+   "joins": [
+    "Cartilago costalis VII"
+   ]
+  }
+ },
+ {
+  "key": "costal-cartilage-of-ninth-rib",
+  "kind": "cartilage",
+  "la": "Cartilago costalis IX",
+  "alt": [
+   "Cartilago costalis",
+   "Cartilago costae nonae",
+   "Cartilago costalis costae IX",
+   "Cartilago costalis 9"
+  ],
+  "en": "Costal cartilage of ninth rib",
+  "desc": {
+   "en": "Does not reach the sternum; it joins the eighth cartilage by a synovial interchondral joint in the costal margin.",
+   "id": "Tidak mencapai sternum; bersendi dengan cartilago VIII melalui articulatio interchondralis sinovial pada arcus costalis."
+  },
+  "facts": {
+   "location": {
+    "en": "Between the anterior end of rib IX and the cartilage above.",
+    "id": "Di antara ujung depan costa IX dan cartilago di atasnya."
+   },
+   "features": {
+    "en": "Hyaline cartilage that keeps the thoracic wall elastic; it may calcify with age.",
+    "id": "Cartilago hyalina yang membuat dinding thorax lentur; dapat mengalami kalsifikasi seiring usia."
+   },
+   "joins": "Cartilago costalis VIII"
+  },
+  "quiz": {
+   "joins": [
+    "Cartilago costalis VIII"
+   ]
+  }
+ },
+ {
+  "key": "costal-cartilage-of-tenth-rib",
+  "kind": "cartilage",
+  "la": "Cartilago costalis X",
+  "alt": [
+   "Cartilago costalis",
+   "Cartilago costae decimae",
+   "Cartilago costalis costae X",
+   "Cartilago costalis 10"
+  ],
+  "en": "Costal cartilage of tenth rib",
+  "desc": {
+   "en": "The lowest cartilage of the costal margin; it joins the ninth cartilage by a fibrous union, and its lower border marks the subcostal plane (L3).",
+   "id": "Cartilago terendah pada arcus costalis; bersatu dengan cartilago IX melalui hubungan fibrosa, dan tepi bawahnya menandai planum subcostale (L3)."
+  },
+  "facts": {
+   "location": {
+    "en": "Between the anterior end of rib X and the cartilage above.",
+    "id": "Di antara ujung depan costa X dan cartilago di atasnya."
+   },
+   "features": {
+    "en": "Hyaline cartilage that keeps the thoracic wall elastic; it may calcify with age.",
+    "id": "Cartilago hyalina yang membuat dinding thorax lentur; dapat mengalami kalsifikasi seiring usia."
+   },
+   "joins": "Cartilago costalis IX"
+  },
+  "quiz": {
+   "joins": [
+    "Cartilago costalis IX"
+   ]
+  }
+ }
+]

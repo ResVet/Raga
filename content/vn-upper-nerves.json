@@ -1,0 +1,711 @@
+[
+  {
+    "key": "musculocutaneous-nerve",
+    "kind": "nerve",
+    "la": "Nervus musculocutaneus",
+    "alt": ["N. musculocutaneus"],
+    "en": "Musculocutaneous nerve",
+    "desc": {
+      "en": "Terminal branch of the lateral cord and the nerve of the anterior (flexor) compartment of the arm. It pierces m. coracobrachialis, runs between m. biceps brachii and m. brachialis, and continues as n. cutaneus antebrachii lateralis.",
+      "id": "Cabang terminal fasciculus lateralis dan saraf kompartemen anterior (fleksor) lengan atas. Saraf ini menembus m. coracobrachialis, berjalan di antara m. biceps brachii dan m. brachialis, lalu berlanjut sebagai n. cutaneus antebrachii lateralis."
+    },
+    "facts": {
+      "roots": "C5-C7",
+      "from": "Fasciculus lateralis plexus brachialis",
+      "course": {
+        "en": "Arises opposite the lower border of m. pectoralis minor, pierces m. coracobrachialis and descends between m. biceps brachii and m. brachialis, supplying all three anterior arm muscles. Just above the elbow it emerges lateral to the tendon of m. biceps brachii, pierces the deep fascia and continues as n. cutaneus antebrachii lateralis.",
+        "id": "Berasal setinggi tepi bawah m. pectoralis minor, menembus m. coracobrachialis lalu turun di antara m. biceps brachii dan m. brachialis sambil mempersarafi ketiga otot kompartemen anterior lengan atas. Sedikit di atas siku saraf muncul di lateral tendo m. biceps brachii, menembus fascia profunda dan berlanjut sebagai n. cutaneus antebrachii lateralis."
+      },
+      "branches": ["Rami musculares nervi musculocutanei", "Nervus cutaneus antebrachii lateralis"],
+      "motor": ["Musculus coracobrachialis", "Musculus biceps brachii", "Musculus brachialis"],
+      "sensory": {
+        "en": "Skin of the lateral forearm through n. cutaneus antebrachii lateralis.",
+        "id": "Kulit sisi lateral lengan bawah melalui n. cutaneus antebrachii lateralis."
+      },
+      "lesion": {
+        "en": "Isolated injury is uncommon because the nerve lies deep in the arm (penetrating wounds, traction, overuse of the arm in weightlifting). Elbow flexion and supination become weak but are not lost, because m. brachioradialis (n. radialis) and the forearm flexors still act. The biceps reflex (C5-C6) is reduced and sensation is lost on the lateral forearm.",
+        "id": "Cedera tersendiri jarang karena saraf terletak dalam di lengan atas (luka tusuk, tarikan, angkat beban berlebihan). Fleksi siku dan supinasi menjadi lemah tetapi masih ada, karena m. brachioradialis (n. radialis) dan otot fleksor lengan bawah masih bekerja. Refleks biceps (C5-C6) menurun dan sensasi hilang di sisi lateral lengan bawah."
+      }
+    },
+    "quiz": {
+      "roots": ["C5-C7", "C5, C6, C7"],
+      "from": ["Fasciculus lateralis plexus brachialis", "Fasciculus lateralis", "Fasc. lateralis"]
+    }
+  },
+  {
+    "key": "lateral-antebrachial-cutaneous-nerve",
+    "kind": "nerve",
+    "verify": true,
+    "la": "Nervus cutaneus antebrachii lateralis",
+    "alt": ["N. cutaneus antebrachii lateralis", "Nervus cutaneus lateralis antebrachii"],
+    "en": "Lateral antebrachial cutaneous nerve",
+    "desc": {
+      "en": "Cutaneous continuation of n. musculocutaneus. It becomes superficial lateral to the biceps tendon at the elbow and supplies the skin of the lateral forearm.",
+      "id": "Lanjutan kutaneus n. musculocutaneus. Saraf ini menjadi superfisial di lateral tendo m. biceps brachii pada siku dan mempersarafi kulit sisi lateral lengan bawah."
+    },
+    "facts": {
+      "roots": "C6-C7",
+      "from": "Nervus musculocutaneus",
+      "course": {
+        "en": "Pierces the deep fascia just above the elbow, lateral to the tendon of m. biceps brachii, passes deep to v. cephalica in the fossa cubiti and divides into anterior and posterior branches that run to the wrist.",
+        "id": "Menembus fascia profunda sedikit di atas siku, di lateral tendo m. biceps brachii, lewat di bawah v. cephalica di fossa cubiti, lalu bercabang menjadi cabang anterior dan posterior yang berjalan sampai pergelangan tangan."
+      },
+      "sensory": {
+        "en": "Skin of the lateral (radial) side of the forearm, front and back, down to the wrist and the base of the thenar eminence.",
+        "id": "Kulit sisi lateral (radial) lengan bawah, bagian depan dan belakang, sampai pergelangan tangan dan pangkal eminentia thenar."
+      },
+      "lesion": {
+        "en": "Can be injured during venipuncture of v. cephalica or v. mediana cubiti at the elbow, causing numbness or painful tingling along the lateral forearm.",
+        "id": "Dapat cedera saat pungsi v. cephalica atau v. mediana cubiti di siku, menimbulkan mati rasa atau kesemutan nyeri di sepanjang sisi lateral lengan bawah."
+      }
+    },
+    "quiz": {
+      "roots": ["C6-C7", "C5-C6", "C5-C7", "C6, C7"],
+      "from": ["Nervus musculocutaneus", "N. musculocutaneus"]
+    }
+  },
+  {
+    "key": "radial-nerve",
+    "kind": "nerve",
+    "la": "Nervus radialis",
+    "alt": ["N. radialis"],
+    "en": "Radial nerve",
+    "desc": {
+      "en": "Largest branch of the posterior cord and the nerve of the extensor compartments of the arm and forearm. It winds around the back of the humerus in the sulcus nervi radialis, where a fracture of the shaft can injure it and cause wrist drop.",
+      "id": "Cabang terbesar fasciculus posterior dan saraf kompartemen ekstensor lengan atas dan lengan bawah. Saraf ini melingkari sisi belakang humerus di sulcus nervi radialis, tempat fraktur corpus humeri dapat mencederainya dan menimbulkan wrist drop."
+    },
+    "facts": {
+      "roots": "C5-T1",
+      "from": "Fasciculus posterior plexus brachialis",
+      "course": {
+        "en": "Leaves the axilla behind a. axillaris and a. brachialis, in front of the long head of m. triceps brachii, and passes through the triangular interval below m. teres major with a. profunda brachii. It runs obliquely in the sulcus nervi radialis between the lateral and medial heads of m. triceps brachii, pierces the septum intermusculare brachii laterale and descends in front of the lateral epicondyle between m. brachialis and m. brachioradialis. At the level of the epicondylus lateralis it divides into the ramus superficialis (sensory) and the ramus profundus (motor).",
+        "id": "Meninggalkan axilla di belakang a. axillaris dan a. brachialis, di depan caput longum m. triceps brachii, lalu melewati celah segitiga di bawah m. teres major bersama a. profunda brachii. Saraf berjalan miring di sulcus nervi radialis di antara caput laterale dan caput mediale m. triceps brachii, menembus septum intermusculare brachii laterale, lalu turun di depan epicondylus lateralis di antara m. brachialis dan m. brachioradialis. Setinggi epicondylus lateralis saraf bercabang menjadi ramus superficialis (sensorik) dan ramus profundus (motorik)."
+      },
+      "branches": ["Nervus cutaneus brachii posterior", "Nervus cutaneus brachii lateralis inferior", "Nervus cutaneus antebrachii posterior", "Rami musculares nervi radialis", "Ramus superficialis nervi radialis", "Ramus profundus nervi radialis"],
+      "motor": ["Musculus triceps brachii", "Musculus anconeus", "Musculus brachioradialis", "Musculus extensor carpi radialis longus", "Musculus brachialis (pars lateralis)", "Musculus extensor carpi radialis brevis", "Musculus supinator", "Musculus extensor digitorum", "Musculus extensor digiti minimi", "Musculus extensor carpi ulnaris", "Musculus abductor pollicis longus", "Musculus extensor pollicis brevis", "Musculus extensor pollicis longus", "Musculus extensor indicis"],
+      "sensory": {
+        "en": "Skin of the back of the arm, the lower lateral arm and the back of the forearm through its cutaneous nerves, and through the ramus superficialis the lateral part of the dorsum of the hand and the dorsal skin of the lateral three and a half digits, except over the distal phalanges.",
+        "id": "Kulit bagian belakang lengan atas, sisi lateral bawah lengan atas dan bagian belakang lengan bawah melalui cabang-cabang kutaneusnya; melalui ramus superficialis mempersarafi bagian lateral punggung tangan dan kulit dorsal tiga setengah jari lateral, kecuali di atas phalanx distalis."
+      },
+      "lesion": {
+        "en": "In the axilla (crutch palsy, proximal humerus injury) all its muscles are paralysed, including m. triceps brachii, so the elbow cannot be extended either. In the sulcus nervi radialis (fracture of the shaft of the humerus, 'Saturday night palsy' from pressure on the back of the arm) m. triceps brachii is usually spared because its branches arise higher. The patient has wrist drop: the wrist and the metacarpophalangeal joints cannot be extended and the grip is weak, with numbness of a small area on the dorsum of the hand over the first dorsal interosseous space. A lesion of the ramus profundus or n. interosseus antebrachii posterior gives finger drop without wrist drop and without sensory loss.",
+        "id": "Lesi di axilla (crutch palsy, cedera humerus proksimal) melumpuhkan semua otot yang dipersarafinya termasuk m. triceps brachii, sehingga siku juga tidak dapat diekstensikan. Lesi di sulcus nervi radialis (fraktur corpus humeri, 'Saturday night palsy' akibat lengan tertekan lama) biasanya tidak mengenai m. triceps brachii karena cabangnya keluar lebih tinggi. Pasien mengalami wrist drop: pergelangan tangan dan sendi metacarpophalangeal tidak dapat diekstensikan dan genggaman lemah, disertai mati rasa di daerah kecil punggung tangan di atas spatium interosseum I. Lesi ramus profundus atau n. interosseus antebrachii posterior menimbulkan finger drop tanpa wrist drop dan tanpa gangguan sensorik."
+      }
+    },
+    "quiz": {
+      "roots": ["C5-T1", "C5, C6, C7, C8, T1", "C5-C8, T1"],
+      "from": ["Fasciculus posterior plexus brachialis", "Fasciculus posterior", "Fasc. posterior"]
+    }
+  },
+  {
+    "key": "muscular-branches-of-radial-nerve",
+    "kind": "nerve",
+    "la": "Rami musculares nervi radialis",
+    "alt": ["Rr. musculares n. radialis"],
+    "en": "Muscular branches of radial nerve",
+    "desc": {
+      "en": "Motor branches that leave n. radialis in the axilla and arm. They supply the three heads of m. triceps brachii and m. anconeus, and above the elbow m. brachioradialis, m. extensor carpi radialis longus and the lateral part of m. brachialis.",
+      "id": "Cabang motorik yang keluar dari n. radialis di axilla dan lengan atas. Cabang ini mempersarafi ketiga caput m. triceps brachii dan m. anconeus, serta di atas siku m. brachioradialis, m. extensor carpi radialis longus dan bagian lateral m. brachialis."
+    },
+    "facts": {
+      "from": "Nervus radialis",
+      "motor": ["Musculus triceps brachii", "Musculus anconeus", "Musculus brachioradialis", "Musculus extensor carpi radialis longus", "Musculus brachialis (pars lateralis)"],
+      "lesion": {
+        "en": "The branches to m. triceps brachii arise before the nerve enters the sulcus nervi radialis, so elbow extension is usually preserved in midshaft fractures of the humerus.",
+        "id": "Cabang ke m. triceps brachii keluar sebelum saraf masuk sulcus nervi radialis, sehingga ekstensi siku biasanya masih ada pada fraktur corpus humeri bagian tengah."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus radialis", "N. radialis"]
+    }
+  },
+  {
+    "key": "posterior-brachial-cutaneous-nerve",
+    "kind": "nerve",
+    "model": false,
+    "la": "Nervus cutaneus brachii posterior",
+    "alt": ["N. cutaneus brachii posterior", "Nervus cutaneus posterior brachii"],
+    "en": "Posterior brachial cutaneous nerve",
+    "desc": {
+      "en": "Small cutaneous branch of n. radialis that arises in the axilla and supplies the skin on the back of the arm.",
+      "id": "Cabang kutaneus kecil n. radialis yang keluar di axilla dan mempersarafi kulit bagian belakang lengan atas."
+    },
+    "facts": {
+      "from": "Nervus radialis",
+      "sensory": {
+        "en": "Skin of the posterior arm above the olecranon.",
+        "id": "Kulit bagian posterior lengan atas di atas olecranon."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus radialis", "N. radialis"]
+    }
+  },
+  {
+    "key": "inferior-lateral-brachial-cutaneous-nerve",
+    "kind": "nerve",
+    "la": "Nervus cutaneus brachii lateralis inferior",
+    "alt": ["N. cutaneus brachii lateralis inferior", "Nervus cutaneus lateralis inferior brachii"],
+    "en": "Inferior lateral brachial cutaneous nerve",
+    "desc": {
+      "en": "Cutaneous branch of n. radialis given off in the sulcus nervi radialis; it supplies the skin of the lateral arm below the insertion of m. deltoideus.",
+      "id": "Cabang kutaneus n. radialis yang keluar di sulcus nervi radialis; mempersarafi kulit sisi lateral lengan atas di bawah insersio m. deltoideus."
+    },
+    "facts": {
+      "roots": "C5-C6",
+      "from": "Nervus radialis",
+      "course": {
+        "en": "Arises as n. radialis lies in the sulcus nervi radialis and pierces the lateral head of m. triceps brachii and the deep fascia below the deltoid insertion.",
+        "id": "Keluar saat n. radialis berada di sulcus nervi radialis, lalu menembus caput laterale m. triceps brachii dan fascia profunda di bawah insersio m. deltoideus."
+      },
+      "sensory": {
+        "en": "Skin of the lower lateral arm.",
+        "id": "Kulit sisi lateral bagian bawah lengan atas."
+      }
+    },
+    "quiz": {
+      "roots": ["C5-C6", "C5, C6"],
+      "from": ["Nervus radialis", "N. radialis"]
+    }
+  },
+  {
+    "key": "posterior-antebrachial-cutaneous-nerve",
+    "kind": "nerve",
+    "la": "Nervus cutaneus antebrachii posterior",
+    "alt": ["N. cutaneus antebrachii posterior", "Nervus cutaneus posterior antebrachii"],
+    "en": "Posterior antebrachial cutaneous nerve",
+    "desc": {
+      "en": "Cutaneous branch of n. radialis that arises in the sulcus nervi radialis and supplies the skin on the back of the forearm.",
+      "id": "Cabang kutaneus n. radialis yang keluar di sulcus nervi radialis dan mempersarafi kulit bagian belakang lengan bawah."
+    },
+    "facts": {
+      "from": "Nervus radialis",
+      "course": {
+        "en": "Pierces the lateral head of m. triceps brachii, descends along the lateral side of the arm, passes behind the lateral epicondyle and runs down the back of the forearm to the wrist.",
+        "id": "Menembus caput laterale m. triceps brachii, turun di sisi lateral lengan atas, lewat di belakang epicondylus lateralis lalu berjalan di bagian belakang lengan bawah sampai pergelangan tangan."
+      },
+      "sensory": {
+        "en": "Skin of the posterior forearm and a strip of the lower posterior arm.",
+        "id": "Kulit bagian posterior lengan bawah dan sebagian kecil kulit posterior lengan atas bagian bawah."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus radialis", "N. radialis"]
+    }
+  },
+  {
+    "key": "superficial-branch-of-radial-nerve",
+    "kind": "nerve",
+    "la": "Ramus superficialis nervi radialis",
+    "alt": ["R. superficialis n. radialis"],
+    "en": "Superficial branch of radial nerve",
+    "desc": {
+      "en": "Purely sensory terminal branch of n. radialis. It runs under m. brachioradialis in the forearm, becomes subcutaneous above the wrist and crosses the tabatiere anatomique to supply the lateral dorsum of the hand.",
+      "id": "Cabang terminal n. radialis yang murni sensorik. Di lengan bawah berjalan di bawah m. brachioradialis, menjadi subkutan di atas pergelangan tangan dan melintasi tabatiere anatomique untuk mempersarafi bagian lateral punggung tangan."
+    },
+    "facts": {
+      "from": "Nervus radialis",
+      "course": {
+        "en": "Descends in front of the forearm under cover of m. brachioradialis, lateral to a. radialis. In the distal third of the forearm it passes backward under the tendon of m. brachioradialis, pierces the deep fascia, crosses superficial to the tabatiere anatomique and divides into nn. digitales dorsales.",
+        "id": "Turun di bagian depan lengan bawah di bawah m. brachioradialis, di lateral a. radialis. Di sepertiga distal lengan bawah saraf berbelok ke belakang di bawah tendo m. brachioradialis, menembus fascia profunda, melintas di atas tabatiere anatomique dan bercabang menjadi nn. digitales dorsales."
+      },
+      "branches": ["Nervi digitales dorsales nervi radialis"],
+      "sensory": {
+        "en": "Skin of the lateral part of the dorsum of the hand and the dorsal skin of the thumb, index finger, middle finger and lateral half of the ring finger, except over the distal phalanges (supplied by n. medianus).",
+        "id": "Kulit bagian lateral punggung tangan dan kulit dorsal ibu jari, jari telunjuk, jari tengah dan separuh lateral jari manis, kecuali di atas phalanx distalis (dipersarafi n. medianus)."
+      },
+      "lesion": {
+        "en": "Can be compressed at the wrist by a tight watch strap, handcuffs or a cast (cheiralgia paraesthetica), causing numbness and tingling on the dorsum of the thumb and first web space without any weakness.",
+        "id": "Dapat tertekan di pergelangan tangan oleh tali jam yang ketat, borgol atau gips (cheiralgia paraesthetica), menimbulkan mati rasa dan kesemutan di punggung ibu jari dan sela jari I tanpa kelemahan otot."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus radialis", "N. radialis"]
+    }
+  },
+  {
+    "key": "dorsal-digital-branches-of-radial-nerve",
+    "kind": "nerve",
+    "la": "Nervi digitales dorsales nervi radialis",
+    "alt": ["Nn. digitales dorsales n. radialis", "Rami digitales dorsales nervi radialis", "Nervi digitales dorsales"],
+    "en": "Dorsal digital branches of radial nerve",
+    "desc": {
+      "en": "Four or five small nerves from the ramus superficialis of n. radialis that supply the dorsal skin of the thumb, index finger, middle finger and lateral half of the ring finger, except over the distal phalanges.",
+      "id": "Empat atau lima saraf kecil dari ramus superficialis n. radialis yang mempersarafi kulit dorsal ibu jari, jari telunjuk, jari tengah dan separuh lateral jari manis, kecuali di atas phalanx distalis."
+    },
+    "facts": {
+      "from": "Ramus superficialis nervi radialis",
+      "sensory": {
+        "en": "Dorsal skin of the lateral three and a half digits up to about the distal interphalangeal joints.",
+        "id": "Kulit dorsal tiga setengah jari lateral sampai kira-kira setinggi sendi interphalangeal distal."
+      }
+    },
+    "quiz": {
+      "from": ["Ramus superficialis nervi radialis", "R. superficialis n. radialis", "Nervus radialis"]
+    }
+  },
+  {
+    "key": "deep-branch-of-radial-nerve",
+    "kind": "nerve",
+    "la": "Ramus profundus nervi radialis",
+    "alt": ["R. profundus n. radialis"],
+    "en": "Deep branch of radial nerve",
+    "desc": {
+      "en": "Motor terminal branch of n. radialis. It supplies m. extensor carpi radialis brevis and m. supinator, passes through m. supinator around the neck of the radius, and continues as n. interosseus antebrachii posterior.",
+      "id": "Cabang terminal motorik n. radialis. Cabang ini mempersarafi m. extensor carpi radialis brevis dan m. supinator, menembus m. supinator melingkari collum radii, lalu berlanjut sebagai n. interosseus antebrachii posterior."
+    },
+    "facts": {
+      "from": "Nervus radialis",
+      "course": {
+        "en": "Arises in front of the epicondylus lateralis, enters m. supinator under the fibrous upper edge of its superficial layer (arcade of Frohse), winds around the lateral side of the neck of the radius between the two layers of the muscle and emerges in the posterior compartment as n. interosseus antebrachii posterior.",
+        "id": "Berasal di depan epicondylus lateralis, masuk ke m. supinator di bawah tepi atas lapisan superfisialnya yang fibrosa (arcade of Frohse), melingkari sisi lateral collum radii di antara dua lapisan otot tersebut, lalu muncul di kompartemen posterior sebagai n. interosseus antebrachii posterior."
+      },
+      "branches": ["Nervus interosseus antebrachii posterior"],
+      "motor": ["Musculus extensor carpi radialis brevis", "Musculus supinator"],
+      "lesion": {
+        "en": "Entrapment under the arcade of Frohse (supinator syndrome) or injury in fractures and dislocations of the head of the radius causes weakness of finger and thumb extension (finger drop) without wrist drop and without sensory loss. On wrist extension the hand deviates radially, because m. extensor carpi radialis longus is spared while m. extensor carpi ulnaris is weak.",
+        "id": "Jepitan di bawah arcade of Frohse (sindrom supinator) atau cedera pada fraktur dan dislokasi caput radii menyebabkan ekstensi jari dan ibu jari lemah (finger drop) tanpa wrist drop dan tanpa gangguan sensorik. Saat ekstensi pergelangan, tangan menyimpang ke radial karena m. extensor carpi radialis longus masih baik sedangkan m. extensor carpi ulnaris lemah."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus radialis", "N. radialis"]
+    }
+  },
+  {
+    "key": "posterior-interosseous-nerve-of-forearm",
+    "kind": "nerve",
+    "la": "Nervus interosseus antebrachii posterior",
+    "alt": ["N. interosseus antebrachii posterior", "Nervus interosseus posterior", "N. interosseus posterior", "Nervus interosseus posterior antebrachii"],
+    "en": "Posterior interosseous nerve of forearm",
+    "desc": {
+      "en": "Continuation of the ramus profundus n. radialis after it leaves m. supinator. It supplies the remaining extensor muscles of the forearm and has no skin territory.",
+      "id": "Lanjutan ramus profundus n. radialis setelah keluar dari m. supinator. Saraf ini mempersarafi otot ekstensor lengan bawah yang lain dan tidak mempunyai daerah kulit."
+    },
+    "facts": {
+      "from": "Ramus profundus nervi radialis",
+      "course": {
+        "en": "Descends between the superficial and deep extensor muscles with a. interossea posterior, then on the posterior surface of membrana interossea antebrachii to the back of the wrist, where it ends in articular branches.",
+        "id": "Turun di antara lapisan superfisial dan profunda otot ekstensor bersama a. interossea posterior, lalu di permukaan posterior membrana interossea antebrachii sampai bagian belakang pergelangan tangan, tempat saraf berakhir sebagai cabang artikular."
+      },
+      "motor": ["Musculus extensor digitorum", "Musculus extensor digiti minimi", "Musculus extensor carpi ulnaris", "Musculus abductor pollicis longus", "Musculus extensor pollicis brevis", "Musculus extensor pollicis longus", "Musculus extensor indicis"],
+      "sensory": {
+        "en": "No skin area; sensory twigs to the wrist and intercarpal joints.",
+        "id": "Tidak ada daerah kulit; cabang sensorik ke sendi pergelangan tangan dan sendi intercarpal."
+      },
+      "lesion": {
+        "en": "Posterior interosseous nerve syndrome: the fingers and thumb cannot be extended at the metacarpophalangeal joints (finger drop), wrist extension is kept but deviates radially, and there is no sensory loss.",
+        "id": "Sindrom n. interosseus posterior: jari dan ibu jari tidak dapat diekstensikan pada sendi metacarpophalangeal (finger drop), ekstensi pergelangan masih ada tetapi menyimpang ke radial, dan tidak ada gangguan sensorik."
+      }
+    },
+    "quiz": {
+      "from": ["Ramus profundus nervi radialis", "R. profundus n. radialis", "Nervus radialis"]
+    }
+  },
+  {
+    "key": "median-nerve",
+    "kind": "nerve",
+    "la": "Nervus medianus",
+    "alt": ["N. medianus"],
+    "en": "Median nerve",
+    "desc": {
+      "en": "Main nerve of the anterior forearm and of the thenar muscles, formed in the axilla by a lateral root (lateral cord) and a medial root (medial cord). It enters the palm through the canalis carpi, where compression causes carpal tunnel syndrome.",
+      "id": "Saraf utama kompartemen anterior lengan bawah dan otot thenar, dibentuk di axilla oleh radix lateralis (dari fasciculus lateralis) dan radix medialis (dari fasciculus medialis). Saraf ini masuk ke telapak tangan melalui canalis carpi, tempat penekanan menimbulkan carpal tunnel syndrome."
+    },
+    "facts": {
+      "roots": "C5-T1",
+      "from": "Fasciculus lateralis et fasciculus medialis plexus brachialis",
+      "course": {
+        "en": "The two roots unite in front of the third part of a. axillaris. In the arm the nerve runs lateral to a. brachialis, crosses in front of it near the middle of the arm and lies medial to it in the fossa cubiti, under the aponeurosis bicipitalis; it gives no branches in the arm. It enters the forearm between the humeral and ulnar heads of m. pronator teres, passes under the tendinous arch of m. flexor digitorum superficialis and descends between m. flexor digitorum superficialis and m. flexor digitorum profundus. Near the wrist it becomes superficial between the tendons of m. flexor carpi radialis and m. flexor digitorum superficialis, deep to the tendon of m. palmaris longus, and enters the palm through the canalis carpi under the retinaculum musculorum flexorum.",
+        "id": "Kedua radix bersatu di depan a. axillaris pars ketiga. Di lengan atas saraf berjalan di lateral a. brachialis, menyilang di depannya sekitar pertengahan lengan atas, dan di fossa cubiti terletak di medial arteri di bawah aponeurosis bicipitalis; di lengan atas saraf ini tidak bercabang. Saraf masuk lengan bawah di antara caput humerale dan caput ulnare m. pronator teres, lewat di bawah arcus tendineus m. flexor digitorum superficialis, lalu turun di antara m. flexor digitorum superficialis dan m. flexor digitorum profundus. Dekat pergelangan tangan saraf menjadi superfisial di antara tendo m. flexor carpi radialis dan m. flexor digitorum superficialis, di bawah tendo m. palmaris longus, lalu masuk telapak tangan melalui canalis carpi di bawah retinaculum musculorum flexorum."
+      },
+      "branches": ["Rami musculares nervi mediani", "Nervus interosseus antebrachii anterior", "Ramus palmaris nervi mediani", "Ramus recurrens nervi mediani", "Nervi digitales palmares communes nervi mediani", "Ramus communicans cum nervo ulnari"],
+      "motor": ["Musculus pronator teres", "Musculus flexor carpi radialis", "Musculus palmaris longus", "Musculus flexor digitorum superficialis", "Musculus flexor digitorum profundus (pars lateralis)", "Musculus flexor pollicis longus", "Musculus pronator quadratus", "Musculus abductor pollicis brevis", "Musculus opponens pollicis", "Musculus flexor pollicis brevis (caput superficiale)", "Musculi lumbricales I-II"],
+      "sensory": {
+        "en": "Skin of the lateral palm (ramus palmaris) and the palmar skin of the thumb, index finger, middle finger and lateral half of the ring finger, together with the dorsal skin over their distal phalanges (nail beds).",
+        "id": "Kulit bagian lateral telapak tangan (ramus palmaris) dan kulit palmar ibu jari, jari telunjuk, jari tengah dan separuh lateral jari manis, ditambah kulit dorsal di atas phalanx distalis jari-jari tersebut (dasar kuku)."
+      },
+      "lesion": {
+        "en": "At or above the elbow (supracondylar fracture of the humerus): pronation is weak, wrist flexion is weak and deviates to the ulnar side, and the thumb, index and middle fingers cannot be flexed, so when the patient tries to make a fist the index and middle fingers stay extended (hand of benediction). At the wrist (cuts, carpal tunnel syndrome): the thenar muscles waste and the thumb lies adducted beside the index finger and cannot be opposed (ape hand); sensation is lost in the lateral three and a half digits, while the skin of the central palm is spared because the ramus palmaris passes superficial to the retinaculum musculorum flexorum.",
+        "id": "Lesi setinggi siku atau di atasnya (fraktur suprakondiler humerus): pronasi lemah, fleksi pergelangan lemah dan menyimpang ke ulnar, serta ibu jari, jari telunjuk dan jari tengah tidak dapat difleksikan; saat pasien mencoba mengepal, jari telunjuk dan jari tengah tetap lurus (hand of benediction). Lesi di pergelangan tangan (luka sayat, carpal tunnel syndrome): otot thenar atrofi, ibu jari terletak adduksi di samping jari telunjuk dan tidak dapat beroposisi (ape hand); sensasi hilang di tiga setengah jari lateral, tetapi kulit telapak tangan bagian tengah tetap normal karena ramus palmaris berjalan di atas retinaculum musculorum flexorum."
+      }
+    },
+    "quiz": {
+      "roots": ["C5-T1", "C6-T1", "C5, C6, C7, C8, T1"],
+      "from": ["Fasciculus lateralis et fasciculus medialis", "Fasciculus lateralis dan medialis", "Fasc. lateralis et medialis"]
+    }
+  },
+  {
+    "key": "muscular-branches-of-median-nerve",
+    "kind": "nerve",
+    "la": "Rami musculares nervi mediani",
+    "alt": ["Rr. musculares n. mediani"],
+    "en": "Muscular branches of median nerve",
+    "desc": {
+      "en": "Branches given off near the elbow and in the proximal forearm to the superficial and intermediate flexors: m. pronator teres, m. flexor carpi radialis, m. palmaris longus and m. flexor digitorum superficialis.",
+      "id": "Cabang yang keluar dekat siku dan di lengan bawah proksimal untuk otot fleksor lapisan superfisial dan tengah: m. pronator teres, m. flexor carpi radialis, m. palmaris longus dan m. flexor digitorum superficialis."
+    },
+    "facts": {
+      "from": "Nervus medianus",
+      "motor": ["Musculus pronator teres", "Musculus flexor carpi radialis", "Musculus palmaris longus", "Musculus flexor digitorum superficialis"]
+    },
+    "quiz": {
+      "from": ["Nervus medianus", "N. medianus"]
+    }
+  },
+  {
+    "key": "anterior-interosseous-nerve-of-forearm",
+    "kind": "nerve",
+    "la": "Nervus interosseus antebrachii anterior",
+    "alt": ["N. interosseus antebrachii anterior", "Nervus interosseus anterior", "N. interosseus anterior", "Nervus interosseus anterior antebrachii"],
+    "en": "Anterior interosseous nerve of forearm",
+    "desc": {
+      "en": "Motor branch of n. medianus that runs on the membrana interossea and supplies the deep flexors: the lateral part of m. flexor digitorum profundus, m. flexor pollicis longus and m. pronator quadratus.",
+      "id": "Cabang motorik n. medianus yang berjalan di atas membrana interossea dan mempersarafi otot fleksor lapisan dalam: bagian lateral m. flexor digitorum profundus, m. flexor pollicis longus dan m. pronator quadratus."
+    },
+    "facts": {
+      "from": "Nervus medianus",
+      "course": {
+        "en": "Arises from n. medianus as it passes between the two heads of m. pronator teres, descends on the anterior surface of membrana interossea antebrachii with a. interossea anterior, between m. flexor digitorum profundus and m. flexor pollicis longus, and ends deep to m. pronator quadratus with twigs to the wrist.",
+        "id": "Keluar dari n. medianus saat melewati kedua caput m. pronator teres, turun di permukaan anterior membrana interossea antebrachii bersama a. interossea anterior, di antara m. flexor digitorum profundus dan m. flexor pollicis longus, lalu berakhir di bawah m. pronator quadratus dengan cabang kecil ke sendi pergelangan tangan."
+      },
+      "motor": ["Musculus flexor digitorum profundus (pars lateralis)", "Musculus flexor pollicis longus", "Musculus pronator quadratus"],
+      "sensory": {
+        "en": "No skin area; articular twigs to the wrist.",
+        "id": "Tidak ada daerah kulit; cabang artikular ke sendi pergelangan tangan."
+      },
+      "lesion": {
+        "en": "Anterior interosseous syndrome: the patient cannot flex the distal phalanges of the thumb and index finger, so the tip-to-tip 'OK' sign becomes a flat pinch. There is no sensory loss.",
+        "id": "Sindrom n. interosseus anterior: pasien tidak dapat memfleksikan phalanx distalis ibu jari dan jari telunjuk, sehingga tanda 'OK' ujung ke ujung berubah menjadi cubitan datar. Tidak ada gangguan sensorik."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus medianus", "N. medianus"]
+    }
+  },
+  {
+    "key": "palmar-branch-of-median-nerve",
+    "kind": "nerve",
+    "la": "Ramus palmaris nervi mediani",
+    "alt": ["R. palmaris n. mediani"],
+    "en": "Palmar branch of median nerve",
+    "desc": {
+      "en": "Cutaneous branch that leaves n. medianus in the distal forearm and passes superficial to the retinaculum musculorum flexorum to supply the skin of the central palm and thenar eminence.",
+      "id": "Cabang kutaneus yang keluar dari n. medianus di lengan bawah distal dan berjalan di atas retinaculum musculorum flexorum untuk mempersarafi kulit telapak tangan bagian tengah dan eminentia thenar."
+    },
+    "facts": {
+      "from": "Nervus medianus",
+      "course": {
+        "en": "Arises just proximal to the retinaculum musculorum flexorum and runs into the palm superficial to it, outside the canalis carpi.",
+        "id": "Keluar sedikit di proksimal retinaculum musculorum flexorum dan masuk ke telapak tangan di atasnya, di luar canalis carpi."
+      },
+      "sensory": {
+        "en": "Skin of the central palm and the thenar eminence.",
+        "id": "Kulit telapak tangan bagian tengah dan eminentia thenar."
+      },
+      "lesion": {
+        "en": "Because it does not pass through the canalis carpi, sensation of the central palm is preserved in carpal tunnel syndrome, which helps distinguish it from a more proximal median nerve lesion.",
+        "id": "Karena tidak melewati canalis carpi, sensasi telapak tangan bagian tengah tetap normal pada carpal tunnel syndrome; ini membantu membedakannya dari lesi n. medianus yang lebih proksimal."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus medianus", "N. medianus"]
+    }
+  },
+  {
+    "key": "recurrent-branch-of-median-nerve",
+    "kind": "nerve",
+    "model": false,
+    "la": "Ramus recurrens nervi mediani",
+    "alt": ["R. recurrens n. mediani"],
+    "en": "Recurrent (thenar) branch of median nerve",
+    "desc": {
+      "en": "Short motor branch that leaves n. medianus just distal to the retinaculum musculorum flexorum and curves back into the thenar muscles. It lies just under the skin, so a small cut at the base of the thenar eminence can paralyse opposition of the thumb.",
+      "id": "Cabang motorik pendek yang keluar dari n. medianus tepat di distal retinaculum musculorum flexorum dan membelok kembali ke otot thenar. Letaknya tepat di bawah kulit sehingga luka kecil di pangkal eminentia thenar dapat melumpuhkan oposisi ibu jari."
+    },
+    "facts": {
+      "from": "Nervus medianus",
+      "motor": ["Musculus abductor pollicis brevis", "Musculus opponens pollicis", "Musculus flexor pollicis brevis (caput superficiale)"],
+      "lesion": {
+        "en": "Injury leaves the thumb unable to abduct and oppose, with thenar wasting, but without sensory loss.",
+        "id": "Cedera membuat ibu jari tidak dapat abduksi dan oposisi, disertai atrofi thenar, tetapi tanpa gangguan sensorik."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus medianus", "N. medianus"]
+    }
+  },
+  {
+    "key": "common-palmar-digital-branches-of-median-nerve",
+    "kind": "nerve",
+    "la": "Nervi digitales palmares communes nervi mediani",
+    "alt": ["Nn. digitales palmares communes n. mediani", "Rami digitales palmares communes nervi mediani", "Nervi digitales palmares communes"],
+    "en": "Common palmar digital branches of median nerve",
+    "desc": {
+      "en": "Usually three nerves that arise from n. medianus in the palm, run distally deep to the arcus palmaris superficialis and divide into proper palmar digital nerves for the thumb, index, middle and lateral half of the ring finger. They also supply the first and second lumbricals.",
+      "id": "Biasanya tiga saraf yang keluar dari n. medianus di telapak tangan, berjalan ke distal di bawah arcus palmaris superficialis dan bercabang menjadi nervi digitales palmares proprii untuk ibu jari, jari telunjuk, jari tengah dan separuh lateral jari manis. Saraf ini juga mempersarafi m. lumbricalis I dan II."
+    },
+    "facts": {
+      "from": "Nervus medianus",
+      "motor": ["Musculi lumbricales I-II"],
+      "sensory": {
+        "en": "Through the proper digital nerves, the palmar skin of the lateral three and a half digits.",
+        "id": "Melalui nervi digitales palmares proprii, kulit palmar tiga setengah jari lateral."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus medianus", "N. medianus"]
+    }
+  },
+  {
+    "key": "proper-palmar-digital-branches-of-median-nerve",
+    "kind": "nerve",
+    "la": "Nervi digitales palmares proprii nervi mediani",
+    "alt": ["Nn. digitales palmares proprii n. mediani", "Rami digitales palmares proprii nervi mediani", "Nervi digitales palmares proprii"],
+    "en": "Proper palmar digital branches of median nerve",
+    "desc": {
+      "en": "Terminal nerves that run along the sides of the thumb, index finger, middle finger and lateral side of the ring finger. They supply the palmar skin and curve onto the dorsum to supply the skin over the distal phalanges and nail beds.",
+      "id": "Saraf terminal yang berjalan di sisi ibu jari, jari telunjuk, jari tengah dan sisi lateral jari manis. Saraf ini mempersarafi kulit palmar dan melengkung ke dorsal untuk mempersarafi kulit di atas phalanx distalis dan dasar kuku."
+    },
+    "facts": {
+      "from": "Nervi digitales palmares communes nervi mediani",
+      "sensory": {
+        "en": "Palmar skin of the lateral three and a half digits and the dorsal skin of their distal phalanges.",
+        "id": "Kulit palmar tiga setengah jari lateral dan kulit dorsal phalanx distalis jari-jari tersebut."
+      },
+      "lesion": {
+        "en": "A digital nerve block at the base of a finger anaesthetises these nerves (and their ulnar counterparts) for minor finger surgery.",
+        "id": "Blok saraf digital di pangkal jari menganestesi saraf-saraf ini (dan pasangan ulnarisnya) untuk tindakan bedah kecil pada jari."
+      }
+    },
+    "quiz": {
+      "from": ["Nervi digitales palmares communes nervi mediani", "Nervus medianus", "N. medianus"]
+    }
+  },
+  {
+    "key": "communicating-branch-of-median-nerve-with-ulnar-nerve",
+    "kind": "nerve",
+    "la": "Ramus communicans cum nervo ulnari",
+    "alt": ["R. communicans cum n. ulnari", "Ramus communicans ulnaris nervi mediani"],
+    "en": "Communicating branch of median nerve with ulnar nerve",
+    "desc": {
+      "en": "Inconstant small connection in the palm between the common palmar digital nerve of n. medianus for the third web space and the common palmar digital nerve of the ramus superficialis n. ulnaris. It explains why the sensory areas of the two nerves on the ring finger overlap.",
+      "id": "Hubungan kecil yang tidak selalu ada di telapak tangan, antara n. digitalis palmaris communis n. medianus untuk sela jari ketiga dan n. digitalis palmaris communis dari ramus superficialis n. ulnaris. Hubungan ini menjelaskan tumpang tindih daerah sensorik kedua saraf pada jari manis."
+    },
+    "facts": {
+      "from": "Nervus medianus"
+    },
+    "quiz": {
+      "from": ["Nervus medianus", "N. medianus"]
+    }
+  },
+  {
+    "key": "ulnar-nerve",
+    "kind": "nerve",
+    "la": "Nervus ulnaris",
+    "alt": ["N. ulnaris"],
+    "en": "Ulnar nerve",
+    "desc": {
+      "en": "Main branch of the medial cord and the nerve of most intrinsic hand muscles. It passes behind the epicondylus medialis in the sulcus nervi ulnaris (the 'funny bone'), where it is easily injured; a lesion causes claw hand.",
+      "id": "Cabang utama fasciculus medialis dan saraf bagi sebagian besar otot intrinsik tangan. Saraf ini lewat di belakang epicondylus medialis di sulcus nervi ulnaris ('funny bone'), tempat saraf mudah cedera; lesinya menimbulkan claw hand."
+    },
+    "facts": {
+      "roots": "C8-T1",
+      "from": "Fasciculus medialis plexus brachialis",
+      "course": {
+        "en": "Descends medial to a. brachialis in the anterior compartment of the arm, pierces the septum intermusculare brachii mediale near the middle of the arm with a. collateralis ulnaris superior and descends on the medial head of m. triceps brachii. It passes behind the epicondylus medialis in the sulcus nervi ulnaris (cubital tunnel), enters the forearm between the humeral and ulnar heads of m. flexor carpi ulnaris and runs between m. flexor carpi ulnaris and m. flexor digitorum profundus, with a. ulnaris on its lateral side in the distal forearm. At the wrist it passes superficial to the retinaculum musculorum flexorum, lateral to the os pisiforme, in the canalis ulnaris (Guyon canal), and divides into a ramus superficialis and a ramus profundus.",
+        "id": "Turun di medial a. brachialis di kompartemen anterior lengan atas, menembus septum intermusculare brachii mediale sekitar pertengahan lengan atas bersama a. collateralis ulnaris superior, lalu turun di atas caput mediale m. triceps brachii. Saraf lewat di belakang epicondylus medialis di sulcus nervi ulnaris (cubital tunnel), masuk lengan bawah di antara caput humerale dan caput ulnare m. flexor carpi ulnaris, lalu berjalan di antara m. flexor carpi ulnaris dan m. flexor digitorum profundus, dengan a. ulnaris di sisi lateralnya pada lengan bawah distal. Di pergelangan tangan saraf lewat di atas retinaculum musculorum flexorum, di lateral os pisiforme, di dalam canalis ulnaris (kanal Guyon), lalu bercabang menjadi ramus superficialis dan ramus profundus."
+      },
+      "branches": ["Rami articulares (articulatio cubiti)", "Rami musculares nervi ulnaris", "Ramus palmaris nervi ulnaris", "Ramus dorsalis nervi ulnaris", "Ramus superficialis nervi ulnaris", "Ramus profundus nervi ulnaris"],
+      "motor": ["Musculus flexor carpi ulnaris", "Musculus flexor digitorum profundus (pars medialis)", "Musculus palmaris brevis", "Musculus abductor digiti minimi", "Musculus flexor digiti minimi brevis", "Musculus opponens digiti minimi", "Musculi lumbricales III-IV", "Musculi interossei palmares", "Musculi interossei dorsales", "Musculus adductor pollicis", "Musculus flexor pollicis brevis (caput profundum)"],
+      "sensory": {
+        "en": "Skin of the medial part of the hand, palmar and dorsal, and of the little finger and the medial half of the ring finger.",
+        "id": "Kulit bagian medial tangan, sisi palmar dan dorsal, serta kulit jari kelingking dan separuh medial jari manis."
+      },
+      "lesion": {
+        "en": "Injured at the elbow (fracture of the epicondylus medialis, cubital tunnel syndrome) or at the wrist (cuts, compression in the canalis ulnaris). The ring and little fingers are clawed (claw hand, main en griffe): the metacarpophalangeal joints are extended and the interphalangeal joints flexed because the medial lumbricals and the interossei are paralysed. The fingers cannot be spread or brought together (a card cannot be held between them), the hypothenar eminence and the first dorsal interosseous space waste, and thumb adduction is weak (Froment sign: the thumb flexes at the interphalangeal joint when gripping a sheet of paper). Clawing is more marked in a lesion at the wrist than at the elbow, because a higher lesion also paralyses the medial part of m. flexor digitorum profundus (ulnar paradox). Sensation is lost over the medial one and a half digits.",
+        "id": "Cedera terjadi di siku (fraktur epicondylus medialis, cubital tunnel syndrome) atau di pergelangan tangan (luka sayat, penekanan di canalis ulnaris). Jari manis dan kelingking membentuk cakar (claw hand, main en griffe): sendi metacarpophalangeal ekstensi dan sendi interphalangeal fleksi karena mm. lumbricales medial dan mm. interossei lumpuh. Jari-jari tidak dapat direnggangkan atau dirapatkan (kartu tidak dapat dijepit di antara jari), eminentia hypothenar dan spatium interosseum dorsale I atrofi, serta adduksi ibu jari lemah (tanda Froment: ibu jari fleksi pada sendi interphalangeal saat menjepit kertas). Cakar lebih jelas pada lesi di pergelangan tangan daripada di siku, karena lesi yang lebih tinggi juga melumpuhkan bagian medial m. flexor digitorum profundus (ulnar paradox). Sensasi hilang di satu setengah jari medial."
+      },
+      "note": {
+        "en": "The module states that the ulnar nerve becomes superficial at the wrist and supplies the skin of the medial side of the 'lengan'. Its skin territory is the medial part of the hand and the medial one and a half digits; the skin of the medial arm and forearm is supplied by n. cutaneus brachii medialis and n. cutaneus antebrachii medialis.",
+        "id": "Modul menyebut n. ulnaris menjadi superfisial di pergelangan tangan dan mempersarafi kulit sisi medial 'lengan'. Daerah kulitnya sebenarnya bagian medial tangan dan satu setengah jari medial; kulit sisi medial lengan atas dan lengan bawah dipersarafi n. cutaneus brachii medialis dan n. cutaneus antebrachii medialis."
+      }
+    },
+    "quiz": {
+      "roots": ["C8-T1", "C7-T1", "C8, T1"],
+      "from": ["Fasciculus medialis plexus brachialis", "Fasciculus medialis", "Fasc. medialis"]
+    }
+  },
+  {
+    "key": "muscular-branches-of-ulnar-nerve",
+    "kind": "nerve",
+    "la": "Rami musculares nervi ulnaris",
+    "alt": ["Rr. musculares n. ulnaris"],
+    "en": "Muscular branches of ulnar nerve",
+    "desc": {
+      "en": "Branches given off in the proximal forearm to m. flexor carpi ulnaris and to the medial part of m. flexor digitorum profundus (the part for the ring and little fingers).",
+      "id": "Cabang yang keluar di lengan bawah proksimal untuk m. flexor carpi ulnaris dan bagian medial m. flexor digitorum profundus (bagian untuk jari manis dan kelingking)."
+    },
+    "facts": {
+      "from": "Nervus ulnaris",
+      "motor": ["Musculus flexor carpi ulnaris", "Musculus flexor digitorum profundus (pars medialis)"]
+    },
+    "quiz": {
+      "from": ["Nervus ulnaris", "N. ulnaris"]
+    }
+  },
+  {
+    "key": "palmar-branch-of-ulnar-nerve",
+    "kind": "nerve",
+    "la": "Ramus palmaris nervi ulnaris",
+    "alt": ["R. palmaris n. ulnaris"],
+    "en": "Palmar branch of ulnar nerve",
+    "desc": {
+      "en": "Cutaneous branch that arises near the middle of the forearm, runs on a. ulnaris and pierces the deep fascia above the wrist to supply the skin over the hypothenar eminence.",
+      "id": "Cabang kutaneus yang keluar sekitar pertengahan lengan bawah, berjalan di atas a. ulnaris dan menembus fascia profunda di atas pergelangan tangan untuk mempersarafi kulit di atas eminentia hypothenar."
+    },
+    "facts": {
+      "from": "Nervus ulnaris",
+      "sensory": {
+        "en": "Skin of the medial palm (hypothenar region).",
+        "id": "Kulit bagian medial telapak tangan (daerah hypothenar)."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus ulnaris", "N. ulnaris"]
+    }
+  },
+  {
+    "key": "dorsal-branch-of-ulnar-nerve",
+    "kind": "nerve",
+    "la": "Ramus dorsalis nervi ulnaris",
+    "alt": ["R. dorsalis n. ulnaris"],
+    "en": "Dorsal branch of ulnar nerve",
+    "desc": {
+      "en": "Cutaneous branch that arises in the distal half of the forearm, about 5 cm above the wrist, passes backward deep to the tendon of m. flexor carpi ulnaris and supplies the skin of the medial dorsum of the hand.",
+      "id": "Cabang kutaneus yang keluar di separuh distal lengan bawah, sekitar 5 cm di atas pergelangan tangan, berjalan ke belakang di bawah tendo m. flexor carpi ulnaris dan mempersarafi kulit bagian medial punggung tangan."
+    },
+    "facts": {
+      "from": "Nervus ulnaris",
+      "branches": ["Nervi digitales dorsales nervi ulnaris"],
+      "sensory": {
+        "en": "Skin of the medial part of the dorsum of the hand and the dorsal skin of the little finger and medial half of the ring finger.",
+        "id": "Kulit bagian medial punggung tangan dan kulit dorsal jari kelingking serta separuh medial jari manis."
+      },
+      "lesion": {
+        "en": "Because it leaves the nerve above the wrist, a lesion in the canalis ulnaris spares sensation on the dorsum of the hand, while a lesion at the elbow does not.",
+        "id": "Karena keluar di atas pergelangan tangan, lesi di canalis ulnaris tidak mengganggu sensasi punggung tangan, sedangkan lesi di siku mengganggunya."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus ulnaris", "N. ulnaris"]
+    }
+  },
+  {
+    "key": "dorsal-digital-branches-of-ulnar-nerve",
+    "kind": "nerve",
+    "la": "Nervi digitales dorsales nervi ulnaris",
+    "alt": ["Nn. digitales dorsales n. ulnaris", "Rami digitales dorsales nervi ulnaris", "Nervi digitales dorsales"],
+    "en": "Dorsal digital branches of ulnar nerve",
+    "desc": {
+      "en": "Usually two or three nerves from the ramus dorsalis n. ulnaris that supply the dorsal skin of the little finger and the medial half of the ring finger.",
+      "id": "Biasanya dua atau tiga saraf dari ramus dorsalis n. ulnaris yang mempersarafi kulit dorsal jari kelingking dan separuh medial jari manis."
+    },
+    "facts": {
+      "from": "Ramus dorsalis nervi ulnaris",
+      "sensory": {
+        "en": "Dorsal skin of the medial one and a half digits, except over the distal phalanges.",
+        "id": "Kulit dorsal satu setengah jari medial, kecuali di atas phalanx distalis."
+      }
+    },
+    "quiz": {
+      "from": ["Ramus dorsalis nervi ulnaris", "R. dorsalis n. ulnaris", "Nervus ulnaris"]
+    }
+  },
+  {
+    "key": "superficial-branch-of-ulnar-nerve",
+    "kind": "nerve",
+    "la": "Ramus superficialis nervi ulnaris",
+    "alt": ["R. superficialis n. ulnaris"],
+    "en": "Superficial branch of ulnar nerve",
+    "desc": {
+      "en": "Terminal branch given off in the canalis ulnaris. It supplies m. palmaris brevis and gives the palmar digital nerves for the little finger and the medial half of the ring finger.",
+      "id": "Cabang terminal yang keluar di canalis ulnaris. Cabang ini mempersarafi m. palmaris brevis dan memberikan nervi digitales palmares untuk jari kelingking dan separuh medial jari manis."
+    },
+    "facts": {
+      "from": "Nervus ulnaris",
+      "branches": ["Nervi digitales palmares communes nervi ulnaris", "Nervi digitales palmares proprii nervi ulnaris"],
+      "motor": ["Musculus palmaris brevis"],
+      "sensory": {
+        "en": "Palmar skin of the little finger and the medial half of the ring finger.",
+        "id": "Kulit palmar jari kelingking dan separuh medial jari manis."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus ulnaris", "N. ulnaris"]
+    }
+  },
+  {
+    "key": "common-palmar-digital-branches-of-ulnar-nerve",
+    "kind": "nerve",
+    "la": "Nervi digitales palmares communes nervi ulnaris",
+    "alt": ["Nn. digitales palmares communes n. ulnaris", "Rami digitales palmares communes nervi ulnaris"],
+    "en": "Common palmar digital branches of ulnar nerve",
+    "desc": {
+      "en": "Branch of the ramus superficialis n. ulnaris (usually one) that divides into proper palmar digital nerves for the adjacent sides of the ring and little fingers; it often communicates with the median nerve.",
+      "id": "Cabang ramus superficialis n. ulnaris (biasanya satu) yang bercabang menjadi nervi digitales palmares proprii untuk sisi yang berhadapan dari jari manis dan jari kelingking; sering berhubungan dengan n. medianus."
+    },
+    "facts": {
+      "from": "Ramus superficialis nervi ulnaris"
+    },
+    "quiz": {
+      "from": ["Ramus superficialis nervi ulnaris", "R. superficialis n. ulnaris", "Nervus ulnaris"]
+    }
+  },
+  {
+    "key": "proper-palmar-digital-branches-of-ulnar-nerve",
+    "kind": "nerve",
+    "la": "Nervi digitales palmares proprii nervi ulnaris",
+    "alt": ["Nn. digitales palmares proprii n. ulnaris", "Rami digitales palmares proprii nervi ulnaris"],
+    "en": "Proper palmar digital branches of ulnar nerve",
+    "desc": {
+      "en": "Supply the palmar skin of the little finger and the medial half of the ring finger, and the dorsal skin over their distal phalanges.",
+      "id": "Mempersarafi kulit palmar jari kelingking dan separuh medial jari manis, serta kulit dorsal di atas phalanx distalis jari-jari tersebut."
+    },
+    "facts": {
+      "from": "Ramus superficialis nervi ulnaris",
+      "sensory": {
+        "en": "Palmar skin of the medial one and a half digits and the dorsal skin of their distal phalanges.",
+        "id": "Kulit palmar satu setengah jari medial dan kulit dorsal phalanx distalisnya."
+      }
+    },
+    "quiz": {
+      "from": ["Ramus superficialis nervi ulnaris", "Nervus ulnaris", "N. ulnaris"]
+    }
+  },
+  {
+    "key": "deep-branch-of-ulnar-nerve",
+    "kind": "nerve",
+    "la": "Ramus profundus nervi ulnaris",
+    "alt": ["R. profundus n. ulnaris"],
+    "en": "Deep branch of ulnar nerve",
+    "desc": {
+      "en": "Motor terminal branch of n. ulnaris. It curves around the hamulus ossis hamati and crosses the palm with the arcus palmaris profundus, supplying the hypothenar muscles, the medial two lumbricals, all interossei and m. adductor pollicis.",
+      "id": "Cabang terminal motorik n. ulnaris. Cabang ini melingkari hamulus ossis hamati dan menyeberangi telapak tangan bersama arcus palmaris profundus, mempersarafi otot hypothenar, dua lumbricalis medial, semua mm. interossei dan m. adductor pollicis."
+    },
+    "facts": {
+      "from": "Nervus ulnaris",
+      "course": {
+        "en": "Arises in the canalis ulnaris, passes between m. abductor digiti minimi and m. flexor digiti minimi brevis, pierces m. opponens digiti minimi, curves around the hamulus ossis hamati and runs laterally across the palm in the concavity of the arcus palmaris profundus, deep to the long flexor tendons, to end in m. adductor pollicis.",
+        "id": "Keluar di canalis ulnaris, lewat di antara m. abductor digiti minimi dan m. flexor digiti minimi brevis, menembus m. opponens digiti minimi, melingkari hamulus ossis hamati, lalu berjalan ke lateral menyeberangi telapak tangan di dalam lengkung arcus palmaris profundus, di bawah tendo-tendo fleksor panjang, dan berakhir di m. adductor pollicis."
+      },
+      "motor": ["Musculus abductor digiti minimi", "Musculus flexor digiti minimi brevis", "Musculus opponens digiti minimi", "Musculi lumbricales III-IV", "Musculi interossei palmares", "Musculi interossei dorsales", "Musculus adductor pollicis", "Musculus flexor pollicis brevis (caput profundum)"],
+      "lesion": {
+        "en": "Can be compressed in the canalis ulnaris or near the hamulus ossis hamati (long-distance cycling, fracture of the hamate). This gives weakness and wasting of the intrinsic hand muscles with clawing, but no sensory loss when the lesion lies distal to the origin of the superficial branch.",
+        "id": "Dapat tertekan di canalis ulnaris atau dekat hamulus ossis hamati (bersepeda jarak jauh, fraktur os hamatum). Akibatnya otot intrinsik tangan lemah dan atrofi disertai cakar, tetapi tanpa gangguan sensorik bila lesi terletak distal dari pangkal ramus superficialis."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus ulnaris", "N. ulnaris"]
+    }
+  }
+]

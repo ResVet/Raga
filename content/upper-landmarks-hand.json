@@ -1,0 +1,234 @@
+[
+  {
+    "key": "hook-of-hamate-bone",
+    "kind": "landmark",
+    "la": "Hamulus ossis hamati",
+    "alt": ["Hamulus hamati", "Hamulus hamatum"],
+    "en": "Hook of hamate",
+    "desc": {
+      "en": "Hook-like process projecting from the palmar surface of the hamate. It can be felt deep in the hypothenar eminence, about 2 cm distal and lateral to the pisiform.",
+      "id": "Tonjolan berbentuk kait dari permukaan palmar os hamatum. Dapat diraba di bagian dalam eminentia hypothenaris, kira-kira 2 cm di distal dan lateral os pisiforme."
+    },
+    "facts": {
+      "bone": "hamate-bone",
+      "attach": {
+        "en": "Medial attachment of the flexor retinaculum; Lig. pisohamatum; origin of M. flexor digiti minimi brevis and M. opponens digiti minimi.",
+        "id": "Perlekatan medial retinaculum musculorum flexorum; lig. pisohamatum; origo m. flexor digiti minimi brevis dan m. opponens digiti minimi."
+      },
+      "clinical": {
+        "en": "It bounds the ulnar canal (Guyon canal) laterally. The deep branch of the ulnar nerve curves around it, so a fracture may injure the nerve.",
+        "id": "Hamulus membatasi canalis ulnaris (kanal Guyon) di sisi lateral. Ramus profundus n. ulnaris melengkung di sekitarnya sehingga fraktur hamulus dapat mencederai saraf ini."
+      }
+    },
+    "quiz": {"bone": ["Os hamatum", "Hamatum"]}
+  },
+  {
+    "key": "tubercle-of-scaphoid-bone",
+    "kind": "landmark",
+    "la": "Tuberculum ossis scaphoidei",
+    "alt": ["Tuberculum scaphoidei", "Tuberculum ossis scaphoidei manus"],
+    "en": "Tubercle of scaphoid",
+    "desc": {
+      "en": "Palmar projection on the distal lateral part of the scaphoid, felt at the base of the thenar eminence near the distal wrist crease.",
+      "id": "Tonjolan palmar pada bagian distal lateral os scaphoideum, dapat diraba di pangkal eminentia thenaris dekat lipatan pergelangan tangan bagian distal."
+    },
+    "facts": {
+      "bone": "scaphoid-bone",
+      "attach": {
+        "en": "Lateral attachment of the flexor retinaculum (proximal part); part of the origin of M. abductor pollicis brevis; Lig. collaterale carpi radiale.",
+        "id": "Perlekatan lateral retinaculum musculorum flexorum (bagian proksimal); sebagian origo m. abductor pollicis brevis; lig. collaterale carpi radiale."
+      }
+    },
+    "quiz": {"bone": ["Os scaphoideum", "Scaphoideum"]}
+  },
+  {
+    "key": "tubercle-of-trapezium-bone",
+    "kind": "landmark",
+    "la": "Tuberculum ossis trapezii",
+    "alt": ["Tuberculum trapezii"],
+    "en": "Tubercle of trapezium",
+    "desc": {
+      "en": "Palmar ridge on the trapezium, distal to the scaphoid tubercle. Medial to it is a groove for the tendon of flexor carpi radialis.",
+      "id": "Rigi palmar pada os trapezium, di distal tuberculum ossis scaphoidei. Di medialnya terdapat alur untuk tendo m. flexor carpi radialis."
+    },
+    "facts": {
+      "bone": "trapezium-bone",
+      "attach": {
+        "en": "Lateral attachment of the flexor retinaculum (distal part); origin of M. abductor pollicis brevis, M. flexor pollicis brevis (superficial head) and M. opponens pollicis.",
+        "id": "Perlekatan lateral retinaculum musculorum flexorum (bagian distal); origo m. abductor pollicis brevis, m. flexor pollicis brevis (caput superficiale) dan m. opponens pollicis."
+      }
+    },
+    "quiz": {"bone": ["Os trapezium", "Trapezium"]}
+  },
+  {
+    "key": "metacarpal-base",
+    "kind": "landmark",
+    "la": "Basis ossis metacarpi",
+    "alt": ["Basis ossis metacarpalis", "Basis metacarpi"],
+    "en": "Base of metacarpal",
+    "desc": {
+      "en": "Proximal end of a metacarpal bone. It articulates with the distal carpal row at the carpometacarpal joints and, in metacarpals II to V, with the neighbouring bases.",
+      "id": "Ujung proksimal os metacarpi. Bersendi dengan baris distal ossa carpi pada sendi carpometacarpalis dan, pada metacarpal II sampai V, dengan basis metacarpal di sebelahnya."
+    },
+    "facts": {
+      "bone": "third-metacarpal-bone",
+      "attach": {
+        "en": "M. abductor pollicis longus (I), M. extensor carpi radialis longus (II), M. flexor carpi radialis (II and III), M. extensor carpi radialis brevis (III), M. extensor carpi ulnaris (V), and M. flexor carpi ulnaris through the pisometacarpal ligament (V).",
+        "id": "M. abductor pollicis longus (I), m. extensor carpi radialis longus (II), m. flexor carpi radialis (II dan III), m. extensor carpi radialis brevis (III), m. extensor carpi ulnaris (V), dan m. flexor carpi ulnaris melalui lig. pisometacarpale (V)."
+      }
+    },
+    "quiz": {"bone": ["Os metacarpi", "Ossa metacarpi", "Os metacarpale", "metakarpal"]}
+  },
+  {
+    "key": "body-of-metacarpal-bone",
+    "kind": "landmark",
+    "la": "Corpus ossis metacarpi",
+    "alt": ["Corpus ossis metacarpalis", "Corpus metacarpi"],
+    "en": "Body (shaft) of metacarpal",
+    "desc": {
+      "en": "Shaft of a metacarpal, slightly concave on its palmar side. The interosseous muscles arise from its sides.",
+      "id": "Batang os metacarpi yang sedikit cekung di sisi palmar. Mm. interossei berorigo dari sisi-sisinya."
+    },
+    "facts": {
+      "bone": "third-metacarpal-bone",
+      "attach": {
+        "en": "Mm. interossei dorsales and palmares; transverse head of M. adductor pollicis (III); M. opponens pollicis (I); M. opponens digiti minimi (V).",
+        "id": "Mm. interossei dorsales dan palmares; caput transversum m. adductor pollicis (III); m. opponens pollicis (I); m. opponens digiti minimi (V)."
+      }
+    },
+    "quiz": {"bone": ["Os metacarpi", "Ossa metacarpi", "Os metacarpale", "metakarpal"]}
+  },
+  {
+    "key": "head-of-metacarpal-bone",
+    "kind": "landmark",
+    "la": "Caput ossis metacarpi",
+    "alt": ["Caput ossis metacarpalis", "Caput metacarpi"],
+    "en": "Head of metacarpal",
+    "desc": {
+      "en": "Rounded distal end of a metacarpal. The heads form the knuckles of the clenched fist and articulate with the bases of the proximal phalanges.",
+      "id": "Ujung distal os metacarpi yang membulat. Caput-caput ini membentuk buku jari saat tangan mengepal dan bersendi dengan basis phalanx proximalis."
+    },
+    "facts": {
+      "bone": "third-metacarpal-bone",
+      "attach": {
+        "en": "The collateral ligaments of the metacarpophalangeal joints attach to the tubercles and pits on its sides; the deep transverse metacarpal ligament links the palmar plates over heads II to V.",
+        "id": "Ligg. collateralia sendi metacarpophalangea melekat pada tuberculum dan cekungan di kedua sisinya; lig. metacarpale transversum profundum menghubungkan lempeng palmar di atas caput II sampai V."
+      },
+      "clinical": {
+        "en": "The neck just behind the head of the fifth metacarpal is the site of the boxer's fracture.",
+        "id": "Collum tepat di belakang caput os metacarpi V adalah lokasi boxer's fracture."
+      }
+    },
+    "quiz": {"bone": ["Os metacarpi", "Ossa metacarpi", "Os metacarpale", "metakarpal"]}
+  },
+  {
+    "key": "styloid-process-of-third-metacarpal-bone",
+    "kind": "landmark",
+    "la": "Processus styloideus ossis metacarpi tertii",
+    "alt": ["Processus styloideus ossis metacarpi III", "Processus styloideus metacarpi tertii"],
+    "en": "Styloid process of third metacarpal",
+    "desc": {
+      "en": "Small projection from the radial side of the dorsal base of the third metacarpal, pointing toward the capitate.",
+      "id": "Tonjolan kecil dari sisi radial basis dorsal os metacarpi III, mengarah ke os capitatum."
+    },
+    "facts": {
+      "bone": "third-metacarpal-bone",
+      "attach": {
+        "en": "M. extensor carpi radialis brevis inserts on the dorsal base close to it.",
+        "id": "M. extensor carpi radialis brevis berinsersio pada basis dorsal di dekatnya."
+      }
+    },
+    "quiz": {"bone": ["Os metacarpi III", "Os metacarpi tertium", "metakarpal III"]}
+  },
+  {
+    "key": "base-of-phalanx-of-hand",
+    "kind": "landmark",
+    "la": "Basis phalangis",
+    "alt": ["Basis phalangis manus"],
+    "en": "Base of phalanx",
+    "desc": {
+      "en": "Proximal end of a phalanx, with a concave articular surface for the metacarpal head or for the head of the phalanx above it.",
+      "id": "Ujung proksimal phalanx dengan permukaan sendi cekung untuk caput ossis metacarpi atau caput phalanx di proksimalnya."
+    },
+    "facts": {
+      "bone": "proximal-phalanx-of-third-finger-of-hand",
+      "attach": {
+        "en": "Proximal phalanges: thenar and hypothenar muscles and the interossei. Middle phalanges: central slip of the extensor expansion. Distal phalanges: M. flexor digitorum profundus or M. flexor pollicis longus on the palmar side, the terminal extensor tendon or M. extensor pollicis longus on the dorsal side.",
+        "id": "Phalanx proximalis: otot thenar, otot hypothenar dan mm. interossei. Phalanx media: bagian tengah aponeurosis dorsalis. Phalanx distalis: m. flexor digitorum profundus atau m. flexor pollicis longus di sisi palmar, ujung tendo ekstensor atau m. extensor pollicis longus di sisi dorsal."
+      }
+    },
+    "quiz": {"bone": ["Phalanx", "Phalanges", "Phalanx proximalis"]}
+  },
+  {
+    "key": "body-of-phalanx-of-hand",
+    "kind": "landmark",
+    "la": "Corpus phalangis",
+    "alt": ["Corpus phalangis manus"],
+    "en": "Body (shaft) of phalanx",
+    "desc": {
+      "en": "Shaft of a phalanx, flat on the palmar side and rounded dorsally.",
+      "id": "Batang phalanx yang datar di sisi palmar dan membulat di sisi dorsal."
+    },
+    "facts": {
+      "bone": "proximal-phalanx-of-third-finger-of-hand",
+      "attach": {
+        "en": "The fibrous digital sheaths attach to its palmar margins; M. flexor digitorum superficialis inserts on the sides of the middle phalanges.",
+        "id": "Vagina fibrosa digitorum melekat pada tepi palmarnya; m. flexor digitorum superficialis berinsersio pada sisi phalanx media."
+      }
+    },
+    "quiz": {"bone": ["Phalanx", "Phalanges", "Phalanx proximalis"]}
+  },
+  {
+    "key": "head-of-phalanx-of-hand",
+    "kind": "landmark",
+    "la": "Caput phalangis",
+    "alt": ["Caput phalangis manus"],
+    "en": "Head of phalanx",
+    "desc": {
+      "en": "Distal end of a proximal or middle phalanx, shaped as a pulley (trochlea) for the interphalangeal joint. Distal phalanges end in a tuberosity instead.",
+      "id": "Ujung distal phalanx proximalis atau media yang berbentuk katrol (trochlea) untuk sendi interphalangea. Phalanx distalis berakhir sebagai tuberositas."
+    },
+    "facts": {
+      "bone": "proximal-phalanx-of-third-finger-of-hand",
+      "attach": {
+        "en": "The collateral ligaments of the interphalangeal joint attach to small pits on its sides.",
+        "id": "Ligg. collateralia sendi interphalangea melekat pada cekungan kecil di kedua sisinya."
+      }
+    },
+    "quiz": {"bone": ["Phalanx", "Phalanges", "Phalanx proximalis"]}
+  },
+  {
+    "key": "trochlea-of-phalanx-of-hand",
+    "kind": "landmark",
+    "la": "Trochlea phalangis",
+    "alt": ["Trochlea phalangis manus"],
+    "en": "Trochlea of phalanx",
+    "desc": {
+      "en": "Pulley-shaped articular surface on the head of a proximal or middle phalanx, with two small condyles and a central groove. Its shape allows only flexion and extension at the interphalangeal joints.",
+      "id": "Permukaan sendi berbentuk katrol pada caput phalanx proximalis atau media, dengan dua condylus kecil dan alur di tengahnya. Bentuk ini hanya memungkinkan fleksi dan ekstensi pada sendi interphalangea."
+    },
+    "facts": {
+      "bone": "proximal-phalanx-of-third-finger-of-hand"
+    },
+    "quiz": {"bone": ["Phalanx", "Phalanges", "Phalanx proximalis"]}
+  },
+  {
+    "key": "tuberosity-of-distal-phalanx-of-hand",
+    "kind": "landmark",
+    "la": "Tuberositas phalangis distalis",
+    "alt": ["Tuberositas phalangis distalis manus", "Tuberositas unguicularis"],
+    "en": "Tuberosity of distal phalanx",
+    "desc": {
+      "en": "Rough, horseshoe-shaped expansion at the tip of each distal phalanx. It supports the fingertip pulp on the palmar side and the nail bed dorsally.",
+      "id": "Pelebaran kasar berbentuk tapal kuda di ujung setiap phalanx distalis. Menopang bantalan ujung jari di sisi palmar dan dasar kuku di sisi dorsal."
+    },
+    "facts": {
+      "bone": "distal-phalanx-of-third-finger-of-hand",
+      "clinical": {
+        "en": "Crush injuries of the fingertip often fracture the tuberosity (tuft fracture).",
+        "id": "Cedera remuk ujung jari sering mematahkan tuberositas ini (tuft fracture)."
+      }
+    },
+    "quiz": {"bone": ["Phalanx distalis", "Phalanx", "Phalanges"]}
+  }
+]

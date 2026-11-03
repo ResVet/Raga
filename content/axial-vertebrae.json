@@ -1,0 +1,1859 @@
+[
+ {
+  "key": "vertebra",
+  "kind": "bone",
+  "la": "Vertebra",
+  "alt": [
+   "Vertebrae"
+  ],
+  "en": "Vertebra",
+  "desc": {
+   "en": "The basic bone of the vertebral column. A typical vertebra has a weight-bearing body in front and a vertebral arch (two pedicles and two laminae) behind; together they enclose the vertebral foramen. The arch carries seven processes: one spinous, two transverse and four articular (two superior, two inferior).",
+   "id": "Tulang dasar penyusun columna vertebralis. Vertebra tipikal memiliki corpus vertebrae di depan sebagai penahan beban dan arcus vertebrae (dua pediculus dan dua lamina) di belakang; keduanya mengelilingi foramen vertebrale. Arcus vertebrae memiliki tujuh processus: satu spinosus, dua transversus, dan empat articularis (dua superior, dua inferior)."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "features": [
+    "vertebral-body",
+    "vertebral-arch",
+    "pedicle-of-vertebral-arch",
+    "lamina-of-vertebral-arch",
+    "vertebral-foramen",
+    "spinous-process",
+    "transverse-process",
+    "superior-articular-process-of-vertebra",
+    "inferior-articular-process-of-vertebra",
+    "superior-articular-facet-of-vertebra",
+    "inferior-articular-facet-of-vertebra",
+    "superior-vertebral-notch",
+    "inferior-vertebral-notch",
+    "intervertebral-foramen",
+    "intervertebral-surface",
+    "annular-epiphysis",
+    "pars-interarticularis-of-vertebral-arch"
+   ],
+   "region": {
+    "en": "Vertebral column",
+    "id": "Columna vertebralis"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "processes": [
+    "Processus spinosus",
+    "Processus transversus",
+    "Processus articularis superior",
+    "Processus articularis inferior"
+   ]
+  }
+ },
+ {
+  "key": "cervical-vertebra",
+  "kind": "bone",
+  "la": "Vertebra cervicalis",
+  "alt": [
+   "Vertebrae cervicales"
+  ],
+  "en": "Cervical vertebra",
+  "desc": {
+   "en": "The seven vertebrae of the neck. Every cervical vertebra has a foramen transversarium in each transverse process. Typical ones (C3-C6) have a small, wide body with uncinate processes on its upper surface, a large triangular vertebral foramen, anterior and posterior tubercles on the transverse processes and a short bifid spinous process. C1 (atlas), C2 (axis) and C7 (vertebra prominens) are atypical.",
+   "id": "Tujuh vertebra di leher. Setiap vertebra cervicalis memiliki foramen transversarium pada tiap processus transversus. Yang tipikal (C3-C6) memiliki corpus kecil dan lebar dengan processus uncinatus di permukaan atasnya, foramen vertebrale besar berbentuk segitiga, tuberculum anterius dan posterius pada processus transversus, serta processus spinosus pendek yang bercabang dua (bifidus). C1 (atlas), C2 (axis), dan C7 (vertebra prominens) termasuk atipikal."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "features": [
+    "foramen-transversarium",
+    "uncinate-process-of-vertebra",
+    "anterior-tubercle-of-transverse-process",
+    "posterior-tubercle-of-transverse-process",
+    "groove-for-spinal-nerve"
+   ],
+   "region": {
+    "en": "Neck: cervical part of the vertebral column",
+    "id": "Leher: pars cervicalis columnae vertebralis"
+   },
+   "note": {
+    "en": "Typical cervical vertebrae: C3-C6. Atypical: C1, C2, C7.",
+    "id": "Vertebra cervicalis tipikal: C3-C6. Atipikal: C1, C2, C7."
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "identify": [
+    "Foramen transversarium",
+    "Processus spinosus bifidus",
+    "Processus uncinatus",
+    "Uncus corporis"
+   ],
+   "atypical": [
+    "Atlas",
+    "Axis",
+    "Vertebra prominens",
+    "C1",
+    "C2",
+    "C7"
+   ]
+  }
+ },
+ {
+  "key": "thoracic-vertebra",
+  "kind": "bone",
+  "la": "Vertebra thoracica",
+  "alt": [
+   "Vertebrae thoracicae",
+   "Vertebra thoracis",
+   "Vertebra thoracalis",
+   "Vertebrae thoracales"
+  ],
+  "en": "Thoracic vertebra",
+  "desc": {
+   "en": "The twelve vertebrae that carry the ribs. They are recognised by their costal facets: facets or demifacets on the sides of the body for the rib heads and facets on the transverse processes (T1-T10) for the rib tubercles. The body is heart-shaped, the vertebral foramen small and round, and the long spinous processes slope steeply down. The articular facets lie almost in the coronal plane, which allows rotation and lateral flexion. T2-T8 are typical; T1 and T9-T12 are atypical.",
+   "id": "Dua belas vertebra yang menjadi tempat bersendi costae. Cirinya adalah fovea costalis: fovea atau demifacet di sisi corpus untuk caput costae dan fovea pada processus transversus (T1-T10) untuk tuberculum costae. Corpus-nya berbentuk jantung, foramen vertebrale kecil dan bulat, dan processus spinosus yang panjang mengarah curam ke bawah. Facies articularis hampir terletak pada bidang koronal sehingga memungkinkan rotasi dan fleksi lateral. T2-T8 tipikal; T1 dan T9-T12 atipikal."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "features": [
+    "superior-costal-facet",
+    "inferior-costal-facet",
+    "transverse-costal-facet",
+    "spinous-process",
+    "vertebral-body"
+   ],
+   "region": {
+    "en": "Back of the thorax: thoracic part of the vertebral column",
+    "id": "Dinding belakang thorax: pars thoracica columnae vertebralis"
+   },
+   "note": {
+    "en": "Typical thoracic vertebrae carry two demifacets on each side of the body (T2-T8). T1 has a full facet for rib 1; T9 usually has only superior demifacets; T10-T12 have one full facet each; T11 and T12 lack transverse costal facets. Moore notes that T5-T8 show all the typical features most clearly.",
+    "id": "Vertebra thoracica tipikal memiliki dua demifacet pada tiap sisi corpus (T2-T8). T1 memiliki fovea utuh untuk costa I; T9 biasanya hanya memiliki demifacet superior; T10-T12 masing-masing memiliki satu fovea utuh; T11 dan T12 tidak memiliki fovea costalis processus transversi. Moore menyebut ciri tipikal paling jelas pada T5-T8."
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "identify": [
+    "Fovea costalis superior",
+    "Fovea costalis inferior",
+    "Fovea costalis processus transversi",
+    "Fovea costalis"
+   ],
+   "typical": [
+    "T2-T8",
+    "T2 sampai T8"
+   ],
+   "atypical": [
+    "T1",
+    "T9",
+    "T10",
+    "T11",
+    "T12"
+   ]
+  }
+ },
+ {
+  "key": "lumbar-vertebra",
+  "kind": "bone",
+  "la": "Vertebra lumbalis",
+  "alt": [
+   "Vertebrae lumbales",
+   "Vertebra lumborum"
+  ],
+  "en": "Lumbar vertebra",
+  "desc": {
+   "en": "The five large vertebrae of the lower back. They have big kidney-shaped bodies, no costal facets and no foramina transversaria, long slender transverse processes (costal processes), short thick hatchet-shaped spinous processes and a triangular vertebral foramen. Mammillary processes sit on the superior articular processes and accessory processes at the roots of the transverse processes. The articular facets face roughly medially and laterally (sagittal plane), allowing flexion and extension and little rotation.",
+   "id": "Lima vertebra besar di pinggang. Cirinya: corpus besar berbentuk ginjal, tanpa fovea costalis dan tanpa foramen transversarium, processus transversus panjang dan ramping (processus costiformis), processus spinosus pendek tebal berbentuk kapak, dan foramen vertebrale segitiga. Processus mammillaris terletak pada processus articularis superior dan processus accessorius pada pangkal processus transversus. Facies articularis menghadap ke medial dan lateral (bidang sagital) sehingga memungkinkan fleksi-ekstensi dan sedikit rotasi."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "features": [
+    "costal-part-of-transverse-process",
+    "lateral-part-of-transverse-process",
+    "pars-interarticularis-of-vertebral-arch",
+    "spinous-process",
+    "vertebral-body"
+   ],
+   "region": {
+    "en": "Lower back: lumbar part of the vertebral column",
+    "id": "Pinggang: pars lumbalis columnae vertebralis"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "identify": [
+    "Processus spinosus berbentuk kapak",
+    "Corpus besar",
+    "Processus mammillaris",
+    "Processus accessorius",
+    "Processus costiformis"
+   ]
+  },
+  "model": false
+ },
+ {
+  "key": "atlas-c1",
+  "kind": "bone",
+  "la": "Atlas",
+  "alt": [
+   "Vertebra cervicalis I",
+   "Vertebra C1",
+   "C1",
+   "Vertebra cervicalis 1"
+  ],
+  "en": "Atlas (C1)",
+  "desc": {
+   "en": "The first cervical vertebra, a ring of bone with no body and no spinous process. It has anterior and posterior arches joined by two lateral masses. The concave superior articular facets cradle the occipital condyles (atlanto-occipital joints, nodding), the inferior facets rest on the axis, and the facet on the back of the anterior arch articulates with the dens. Its wide transverse processes can be felt between the mastoid process and the angle of the mandible.",
+   "id": "Vertebra cervicalis pertama, berupa cincin tulang tanpa corpus dan tanpa processus spinosus. Atlas terdiri atas arcus anterior dan posterior yang dihubungkan dua massa lateralis. Facies articularis superior yang cekung menampung condylus occipitalis (articulatio atlantooccipitalis, gerak mengangguk), facies articularis inferior bertumpu pada axis, dan fovea dentis di belakang arcus anterior bersendi dengan dens axis. Processus transversus-nya yang lebar dapat diraba di antara processus mastoideus dan angulus mandibulae."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Os occipitale",
+    "Axis"
+   ],
+   "features": [
+    "anterior-arch-of-atlas",
+    "anterior-tubercle-of-atlas",
+    "posterior-arch-of-atlas",
+    "posterior-tubercle-of-atlas",
+    "lateral-mass",
+    "superior-articular-surface-of-atlas",
+    "inferior-articular-surface-of-atlas",
+    "facet-for-dens",
+    "groove-for-vertebral-artery",
+    "canal-for-vertebral-artery",
+    "transverse-ligament-tubercle",
+    "foramen-transversarium"
+   ],
+   "region": {
+    "en": "Neck: cervical part of the vertebral column",
+    "id": "Leher: pars cervicalis columnae vertebralis"
+   },
+   "clinical": {
+    "en": "A vertical blow to the top of the head can burst the ring of the atlas at its arches (Jefferson fracture).",
+    "id": "Benturan vertikal pada puncak kepala dapat memecahkan cincin atlas pada arcus-nya (fraktur Jefferson)."
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "region": [
+    "Vertebra cervicalis",
+    "cervicalis",
+    "servikal",
+    "Vertebrae cervicales"
+   ]
+  }
+ },
+ {
+  "key": "axis-c2",
+  "kind": "bone",
+  "la": "Axis",
+  "alt": [
+   "Vertebra cervicalis II",
+   "Vertebra C2",
+   "C2",
+   "Vertebra cervicalis 2",
+   "Epistropheus"
+  ],
+  "en": "Axis (C2)",
+  "desc": {
+   "en": "The second cervical vertebra and the strongest one in the neck. The dens projects up from its body into the ring of the atlas and is held against the anterior arch by the transverse ligament; the atlas and head rotate around it. It has a large bifid spinous process, the first spinous process felt below the external occipital protuberance.",
+   "id": "Vertebra cervicalis kedua dan yang paling kuat di leher. Dens axis menonjol ke atas dari corpus-nya masuk ke cincin atlas dan ditahan pada arcus anterior oleh ligamentum transversum atlantis; atlas beserta kepala berputar di sekelilingnya. Processus spinosus-nya besar dan bercabang dua, menjadi processus spinosus pertama yang teraba di bawah protuberantia occipitalis externa."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Atlas",
+    "Vertebra cervicalis III"
+   ],
+   "features": [
+    "dens-axis",
+    "apex-of-dens-axis",
+    "anterior-articular-facet-of-dens-axis",
+    "posterior-articular-facet-of-dens-axis",
+    "foramen-transversarium",
+    "spinous-process"
+   ],
+   "region": {
+    "en": "Neck: cervical part of the vertebral column",
+    "id": "Leher: pars cervicalis columnae vertebralis"
+   },
+   "clinical": {
+    "en": "Fractures of the dens (often at its base) and fractures through both pars interarticulares of C2 (hangman's fracture) can injure the spinal cord.",
+    "id": "Fraktur dens (sering di pangkalnya) dan fraktur pada kedua pars interarticularis C2 (hangman's fracture) dapat mencederai medulla spinalis."
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "region": [
+    "Vertebra cervicalis",
+    "cervicalis",
+    "servikal",
+    "Vertebrae cervicales"
+   ]
+  }
+ },
+ {
+  "key": "vertebra-c3",
+  "kind": "bone",
+  "la": "Vertebra cervicalis III",
+  "alt": [
+   "Vertebra C3",
+   "C3",
+   "Vertebra cervicalis 3",
+   "Vertebra cervicalis III"
+  ],
+  "en": "Third cervical vertebra (C3)",
+  "desc": {
+   "en": "A typical cervical vertebra: small wide body with uncinate processes, a foramen transversarium in each transverse process, a large triangular vertebral foramen and a short bifid spinous process. It lies at about the level of the hyoid bone; the C3 spinal nerve leaves above it and the C4 nerve below it.",
+   "id": "Vertebra cervicalis tipikal: corpus kecil dan lebar dengan processus uncinatus, foramen transversarium pada tiap processus transversus, foramen vertebrale besar berbentuk segitiga, dan processus spinosus pendek bercabang dua. Letaknya kira-kira setinggi os hyoideum; n. spinalis C3 keluar di atasnya dan n. spinalis C4 di bawahnya."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Axis",
+    "Vertebra cervicalis IV"
+   ],
+   "features": [
+    "vertebral-body",
+    "uncinate-process-of-vertebra",
+    "foramen-transversarium",
+    "anterior-tubercle-of-transverse-process",
+    "posterior-tubercle-of-transverse-process",
+    "groove-for-spinal-nerve",
+    "spinous-process",
+    "vertebral-foramen",
+    "superior-articular-process-of-vertebra",
+    "inferior-articular-process-of-vertebra"
+   ],
+   "region": {
+    "en": "Neck: cervical part of the vertebral column",
+    "id": "Leher: pars cervicalis columnae vertebralis"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "region": [
+    "Vertebra cervicalis",
+    "cervicalis",
+    "servikal",
+    "Vertebrae cervicales"
+   ]
+  }
+ },
+ {
+  "key": "vertebra-c4",
+  "kind": "bone",
+  "la": "Vertebra cervicalis IV",
+  "alt": [
+   "Vertebra C4",
+   "C4",
+   "Vertebra cervicalis 4",
+   "Vertebra cervicalis IV"
+  ],
+  "en": "Fourth cervical vertebra (C4)",
+  "desc": {
+   "en": "A typical cervical vertebra, used in the model to show the cervical landmarks. The common carotid artery usually divides at about its level, at the upper border of the thyroid cartilage.",
+   "id": "Vertebra cervicalis tipikal yang dipakai model untuk menunjukkan landmark cervical. Arteria carotis communis biasanya bercabang kira-kira setinggi vertebra ini, pada tepi atas cartilago thyroidea."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra cervicalis III",
+    "Vertebra cervicalis V"
+   ],
+   "features": [
+    "vertebral-body",
+    "uncinate-process-of-vertebra",
+    "foramen-transversarium",
+    "anterior-tubercle-of-transverse-process",
+    "posterior-tubercle-of-transverse-process",
+    "groove-for-spinal-nerve",
+    "spinous-process",
+    "vertebral-foramen",
+    "superior-articular-process-of-vertebra",
+    "inferior-articular-process-of-vertebra"
+   ],
+   "region": {
+    "en": "Neck: cervical part of the vertebral column",
+    "id": "Leher: pars cervicalis columnae vertebralis"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "region": [
+    "Vertebra cervicalis",
+    "cervicalis",
+    "servikal",
+    "Vertebrae cervicales"
+   ]
+  }
+ },
+ {
+  "key": "vertebra-c5",
+  "kind": "bone",
+  "la": "Vertebra cervicalis V",
+  "alt": [
+   "Vertebra C5",
+   "C5",
+   "Vertebra cervicalis 5",
+   "Vertebra cervicalis V"
+  ],
+  "en": "Fifth cervical vertebra (C5)",
+  "desc": {
+   "en": "A typical cervical vertebra lying behind the thyroid cartilage. The C6 spinal nerve leaves through the intervertebral foramen below it, so a C5-C6 disc lesion affects the C6 root.",
+   "id": "Vertebra cervicalis tipikal yang terletak di belakang cartilago thyroidea. N. spinalis C6 keluar melalui foramen intervertebrale di bawahnya, sehingga lesi discus C5-C6 mengenai radix C6."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra cervicalis IV",
+    "Vertebra cervicalis VI"
+   ],
+   "features": [
+    "vertebral-body",
+    "uncinate-process-of-vertebra",
+    "foramen-transversarium",
+    "anterior-tubercle-of-transverse-process",
+    "posterior-tubercle-of-transverse-process",
+    "groove-for-spinal-nerve",
+    "spinous-process",
+    "vertebral-foramen",
+    "superior-articular-process-of-vertebra",
+    "inferior-articular-process-of-vertebra"
+   ],
+   "region": {
+    "en": "Neck: cervical part of the vertebral column",
+    "id": "Leher: pars cervicalis columnae vertebralis"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "region": [
+    "Vertebra cervicalis",
+    "cervicalis",
+    "servikal",
+    "Vertebrae cervicales"
+   ]
+  }
+ },
+ {
+  "key": "vertebra-c6",
+  "kind": "bone",
+  "la": "Vertebra cervicalis VI",
+  "alt": [
+   "Vertebra C6",
+   "C6",
+   "Vertebra cervicalis 6",
+   "Vertebra cervicalis VI"
+  ],
+  "en": "Sixth cervical vertebra (C6)",
+  "desc": {
+   "en": "A typical cervical vertebra whose large anterior tubercle (carotid tubercle) lies behind the common carotid artery, which can be pressed against it. It is at the level of the cricoid cartilage, where the larynx becomes the trachea and the pharynx becomes the oesophagus; the vertebral artery usually enters the foramen transversarium of C6.",
+   "id": "Vertebra cervicalis tipikal dengan tuberculum anterius yang besar (tuberculum caroticum) di belakang a. carotis communis, sehingga arteri ini dapat ditekan ke tonjolan tersebut. Letaknya setinggi cartilago cricoidea, tempat larynx berlanjut menjadi trachea dan pharynx menjadi oesophagus; a. vertebralis biasanya masuk ke foramen transversarium C6."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra cervicalis V",
+    "Vertebra cervicalis VII"
+   ],
+   "features": [
+    "vertebral-body",
+    "uncinate-process-of-vertebra",
+    "foramen-transversarium",
+    "anterior-tubercle-of-transverse-process",
+    "posterior-tubercle-of-transverse-process",
+    "groove-for-spinal-nerve",
+    "spinous-process",
+    "vertebral-foramen",
+    "superior-articular-process-of-vertebra",
+    "inferior-articular-process-of-vertebra"
+   ],
+   "region": {
+    "en": "Neck: cervical part of the vertebral column",
+    "id": "Leher: pars cervicalis columnae vertebralis"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "region": [
+    "Vertebra cervicalis",
+    "cervicalis",
+    "servikal",
+    "Vertebrae cervicales"
+   ]
+  }
+ },
+ {
+  "key": "vertebra-c7",
+  "kind": "bone",
+  "la": "Vertebra prominens",
+  "alt": [
+   "Vertebra cervicalis VII",
+   "Vertebra C7",
+   "C7",
+   "Vertebra cervicalis 7"
+  ],
+  "en": "Vertebra prominens (C7)",
+  "desc": {
+   "en": "The vertebra prominens: its long, non-bifid spinous process is usually the first clearly visible bump at the base of the neck and a starting point for counting spinous processes. Its transverse processes are large, and its small foramen transversarium usually carries only accessory vertebral veins. The C8 spinal nerve leaves below it.",
+   "id": "Vertebra prominens: processus spinosus-nya panjang dan tidak bercabang, biasanya menjadi tonjolan pertama yang jelas terlihat di pangkal leher dan titik awal menghitung processus spinosus. Processus transversus-nya besar, dan foramen transversarium-nya yang kecil biasanya hanya dilalui vena vertebralis accessoria. N. spinalis C8 keluar di bawahnya."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra cervicalis VI",
+    "Vertebra thoracica I"
+   ],
+   "features": [
+    "vertebral-body",
+    "spinous-process",
+    "foramen-transversarium",
+    "transverse-process",
+    "uncinate-process-of-vertebra"
+   ],
+   "region": {
+    "en": "Neck: cervical part of the vertebral column",
+    "id": "Leher: pars cervicalis columnae vertebralis"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "region": [
+    "Vertebra cervicalis",
+    "cervicalis",
+    "servikal",
+    "Vertebrae cervicales"
+   ]
+  }
+ },
+ {
+  "key": "vertebra-t1",
+  "kind": "bone",
+  "la": "Vertebra thoracica I",
+  "alt": [
+   "Vertebra T1",
+   "T1",
+   "Vertebra thoracica 1",
+   "Vertebra thoracis I",
+   "Vertebra thoracalis I",
+   "Vertebra Th1"
+  ],
+  "en": "First thoracic vertebra (T1)",
+  "desc": {
+   "en": "An atypical thoracic vertebra with some cervical features. Each side of its body has a full costal facet above for the head of rib 1 and a demifacet below for rib 2; small uncinate processes may lip its upper surface. Its long, almost horizontal spinous process can be nearly as prominent as that of C7.",
+   "id": "Vertebra thoracica atipikal dengan beberapa ciri cervical. Tiap sisi corpus-nya memiliki fovea costalis utuh di atas untuk caput costae I dan demifacet di bawah untuk costa II; processus uncinatus kecil dapat ditemukan di tepi permukaan atasnya. Processus spinosus-nya panjang dan hampir horizontal, dapat hampir sama menonjol dengan milik C7."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra prominens",
+    "Vertebra thoracica II",
+    "Costa I",
+    "Costa II"
+   ],
+   "features": [
+    "vertebral-body",
+    "superior-costal-facet",
+    "inferior-costal-facet",
+    "transverse-costal-facet",
+    "pedicle-of-vertebral-arch",
+    "lamina-of-vertebral-arch",
+    "transverse-process",
+    "spinous-process",
+    "vertebral-foramen",
+    "uncinate-process-of-first-thoracic-vertebra"
+   ],
+   "region": {
+    "en": "Back of the thorax: thoracic part of the vertebral column",
+    "id": "Dinding belakang thorax: pars thoracica columnae vertebralis"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "region": [
+    "Vertebra thoracica",
+    "thoracica",
+    "torakal",
+    "Vertebra thoracalis",
+    "Vertebrae thoracicae"
+   ]
+  }
+ },
+ {
+  "key": "vertebra-t2",
+  "kind": "bone",
+  "la": "Vertebra thoracica II",
+  "alt": [
+   "Vertebra T2",
+   "T2",
+   "Vertebra thoracica 2",
+   "Vertebra thoracis II",
+   "Vertebra thoracalis II",
+   "Vertebra Th2"
+  ],
+  "en": "Second thoracic vertebra (T2)",
+  "desc": {
+   "en": "A typical thoracic vertebra with two demifacets on each side of the body and a transverse costal facet. The jugular notch of the sternum lies at about the level of its lower border (T2-T3).",
+   "id": "Vertebra thoracica tipikal dengan dua demifacet pada tiap sisi corpus dan fovea costalis processus transversi. Incisura jugularis sterni terletak kira-kira setinggi tepi bawahnya (T2-T3)."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra thoracica I",
+    "Vertebra thoracica III",
+    "Costa II",
+    "Costa III"
+   ],
+   "features": [
+    "vertebral-body",
+    "superior-costal-facet",
+    "inferior-costal-facet",
+    "transverse-costal-facet",
+    "pedicle-of-vertebral-arch",
+    "lamina-of-vertebral-arch",
+    "transverse-process",
+    "spinous-process",
+    "vertebral-foramen"
+   ],
+   "region": {
+    "en": "Back of the thorax: thoracic part of the vertebral column",
+    "id": "Dinding belakang thorax: pars thoracica columnae vertebralis"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "region": [
+    "Vertebra thoracica",
+    "thoracica",
+    "torakal",
+    "Vertebra thoracalis",
+    "Vertebrae thoracicae"
+   ]
+  }
+ },
+ {
+  "key": "vertebra-t3",
+  "kind": "bone",
+  "la": "Vertebra thoracica III",
+  "alt": [
+   "Vertebra T3",
+   "T3",
+   "Vertebra thoracica 3",
+   "Vertebra thoracis III",
+   "Vertebra thoracalis III",
+   "Vertebra Th3"
+  ],
+  "en": "Third thoracic vertebra (T3)",
+  "desc": {
+   "en": "A typical thoracic vertebra. With the arm at the side, the medial end of the spine of the scapula lies at the level of its spinous process.",
+   "id": "Vertebra thoracica tipikal. Dengan lengan di samping badan, ujung medial spina scapulae terletak setinggi processus spinosus-nya."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra thoracica II",
+    "Vertebra thoracica IV",
+    "Costa III",
+    "Costa IV"
+   ],
+   "features": [
+    "vertebral-body",
+    "superior-costal-facet",
+    "inferior-costal-facet",
+    "transverse-costal-facet",
+    "pedicle-of-vertebral-arch",
+    "lamina-of-vertebral-arch",
+    "transverse-process",
+    "spinous-process",
+    "vertebral-foramen"
+   ],
+   "region": {
+    "en": "Back of the thorax: thoracic part of the vertebral column",
+    "id": "Dinding belakang thorax: pars thoracica columnae vertebralis"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "region": [
+    "Vertebra thoracica",
+    "thoracica",
+    "torakal",
+    "Vertebra thoracalis",
+    "Vertebrae thoracicae"
+   ]
+  }
+ },
+ {
+  "key": "vertebra-t4",
+  "kind": "bone",
+  "la": "Vertebra thoracica IV",
+  "alt": [
+   "Vertebra T4",
+   "T4",
+   "Vertebra thoracica 4",
+   "Vertebra thoracis IV",
+   "Vertebra thoracalis IV",
+   "Vertebra Th4"
+  ],
+  "en": "Fourth thoracic vertebra (T4)",
+  "desc": {
+   "en": "A typical thoracic vertebra. The disc below it (T4-T5) lies at the level of the sternal angle, the transverse thoracic plane where the trachea divides and the arch of the aorta begins and ends.",
+   "id": "Vertebra thoracica tipikal. Discus di bawahnya (T4-T5) setinggi angulus sterni, yaitu bidang transversal thorax tempat trachea bercabang dan arcus aortae dimulai dan berakhir."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra thoracica III",
+    "Vertebra thoracica V",
+    "Costa IV",
+    "Costa V"
+   ],
+   "features": [
+    "vertebral-body",
+    "superior-costal-facet",
+    "inferior-costal-facet",
+    "transverse-costal-facet",
+    "pedicle-of-vertebral-arch",
+    "lamina-of-vertebral-arch",
+    "transverse-process",
+    "spinous-process",
+    "vertebral-foramen"
+   ],
+   "region": {
+    "en": "Back of the thorax: thoracic part of the vertebral column",
+    "id": "Dinding belakang thorax: pars thoracica columnae vertebralis"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "region": [
+    "Vertebra thoracica",
+    "thoracica",
+    "torakal",
+    "Vertebra thoracalis",
+    "Vertebrae thoracicae"
+   ]
+  }
+ },
+ {
+  "key": "vertebra-t5",
+  "kind": "bone",
+  "la": "Vertebra thoracica V",
+  "alt": [
+   "Vertebra T5",
+   "T5",
+   "Vertebra thoracica 5",
+   "Vertebra thoracis V",
+   "Vertebra thoracalis V",
+   "Vertebra Th5"
+  ],
+  "en": "Fifth thoracic vertebra (T5)",
+  "desc": {
+   "en": "A typical thoracic vertebra. The descending thoracic aorta runs down along the left side of the bodies of the middle thoracic vertebrae.",
+   "id": "Vertebra thoracica tipikal. Aorta thoracica descendens berjalan turun di sisi kiri corpus vertebrae thoracicae tengah."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra thoracica IV",
+    "Vertebra thoracica VI",
+    "Costa V",
+    "Costa VI"
+   ],
+   "features": [
+    "vertebral-body",
+    "superior-costal-facet",
+    "inferior-costal-facet",
+    "transverse-costal-facet",
+    "pedicle-of-vertebral-arch",
+    "lamina-of-vertebral-arch",
+    "transverse-process",
+    "spinous-process",
+    "vertebral-foramen"
+   ],
+   "region": {
+    "en": "Back of the thorax: thoracic part of the vertebral column",
+    "id": "Dinding belakang thorax: pars thoracica columnae vertebralis"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "region": [
+    "Vertebra thoracica",
+    "thoracica",
+    "torakal",
+    "Vertebra thoracalis",
+    "Vertebrae thoracicae"
+   ]
+  }
+ },
+ {
+  "key": "vertebra-t6",
+  "kind": "bone",
+  "la": "Vertebra thoracica VI",
+  "alt": [
+   "Vertebra T6",
+   "T6",
+   "Vertebra thoracica 6",
+   "Vertebra thoracis VI",
+   "Vertebra thoracalis VI",
+   "Vertebra Th6"
+  ],
+  "en": "Sixth thoracic vertebra (T6)",
+  "desc": {
+   "en": "A typical thoracic vertebra. Like its neighbours it has a long spinous process that slopes down to overlap the vertebra below, so the tip of a mid-thoracic spine lies at the level of the body of the next vertebra.",
+   "id": "Vertebra thoracica tipikal. Seperti tetangganya, processus spinosus-nya panjang dan miring ke bawah menutupi vertebra di bawahnya, sehingga ujung processus spinosus thoracica tengah setinggi corpus vertebra berikutnya."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra thoracica V",
+    "Vertebra thoracica VII",
+    "Costa VI",
+    "Costa VII"
+   ],
+   "features": [
+    "vertebral-body",
+    "superior-costal-facet",
+    "inferior-costal-facet",
+    "transverse-costal-facet",
+    "pedicle-of-vertebral-arch",
+    "lamina-of-vertebral-arch",
+    "transverse-process",
+    "spinous-process",
+    "vertebral-foramen"
+   ],
+   "region": {
+    "en": "Back of the thorax: thoracic part of the vertebral column",
+    "id": "Dinding belakang thorax: pars thoracica columnae vertebralis"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "region": [
+    "Vertebra thoracica",
+    "thoracica",
+    "torakal",
+    "Vertebra thoracalis",
+    "Vertebrae thoracicae"
+   ]
+  }
+ },
+ {
+  "key": "vertebra-t7",
+  "kind": "bone",
+  "la": "Vertebra thoracica VII",
+  "alt": [
+   "Vertebra T7",
+   "T7",
+   "Vertebra thoracica 7",
+   "Vertebra thoracis VII",
+   "Vertebra thoracalis VII",
+   "Vertebra Th7"
+  ],
+  "en": "Seventh thoracic vertebra (T7)",
+  "desc": {
+   "en": "A typical thoracic vertebra. With the arm at the side, the inferior angle of the scapula lies at the level of its spinous process.",
+   "id": "Vertebra thoracica tipikal. Dengan lengan di samping badan, angulus inferior scapulae terletak setinggi processus spinosus-nya."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra thoracica VI",
+    "Vertebra thoracica VIII",
+    "Costa VII",
+    "Costa VIII"
+   ],
+   "features": [
+    "vertebral-body",
+    "superior-costal-facet",
+    "inferior-costal-facet",
+    "transverse-costal-facet",
+    "pedicle-of-vertebral-arch",
+    "lamina-of-vertebral-arch",
+    "transverse-process",
+    "spinous-process",
+    "vertebral-foramen"
+   ],
+   "region": {
+    "en": "Back of the thorax: thoracic part of the vertebral column",
+    "id": "Dinding belakang thorax: pars thoracica columnae vertebralis"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "region": [
+    "Vertebra thoracica",
+    "thoracica",
+    "torakal",
+    "Vertebra thoracalis",
+    "Vertebrae thoracicae"
+   ]
+  }
+ },
+ {
+  "key": "vertebra-t8",
+  "kind": "bone",
+  "la": "Vertebra thoracica VIII",
+  "alt": [
+   "Vertebra T8",
+   "T8",
+   "Vertebra thoracica 8",
+   "Vertebra thoracis VIII",
+   "Vertebra thoracalis VIII",
+   "Vertebra Th8"
+  ],
+  "en": "Eighth thoracic vertebra (T8)",
+  "desc": {
+   "en": "A typical thoracic vertebra, used in the model to show the costal facets. The caval opening of the diaphragm lies at the T8 level (T8-T9 disc).",
+   "id": "Vertebra thoracica tipikal yang dipakai model untuk menunjukkan fovea costalis. Foramen venae cavae diaphragmatis terletak setinggi T8 (discus T8-T9)."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra thoracica VII",
+    "Vertebra thoracica IX",
+    "Costa VIII",
+    "Costa IX"
+   ],
+   "features": [
+    "vertebral-body",
+    "superior-costal-facet",
+    "inferior-costal-facet",
+    "transverse-costal-facet",
+    "pedicle-of-vertebral-arch",
+    "lamina-of-vertebral-arch",
+    "transverse-process",
+    "spinous-process",
+    "vertebral-foramen"
+   ],
+   "region": {
+    "en": "Back of the thorax: thoracic part of the vertebral column",
+    "id": "Dinding belakang thorax: pars thoracica columnae vertebralis"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "region": [
+    "Vertebra thoracica",
+    "thoracica",
+    "torakal",
+    "Vertebra thoracalis",
+    "Vertebrae thoracicae"
+   ]
+  }
+ },
+ {
+  "key": "vertebra-t9",
+  "kind": "bone",
+  "la": "Vertebra thoracica IX",
+  "alt": [
+   "Vertebra T9",
+   "T9",
+   "Vertebra thoracica 9",
+   "Vertebra thoracis IX",
+   "Vertebra thoracalis IX",
+   "Vertebra Th9"
+  ],
+  "en": "Ninth thoracic vertebra (T9)",
+  "desc": {
+   "en": "An atypical thoracic vertebra: it usually has only superior demifacets, because the head of rib 10 normally articulates with T10 alone; the transverse costal facet is present. The xiphisternal joint lies at about its level.",
+   "id": "Vertebra thoracica atipikal: biasanya hanya memiliki demifacet superior, karena caput costae X umumnya hanya bersendi dengan T10; fovea costalis processus transversi tetap ada. Articulatio xiphosternalis terletak kira-kira setinggi vertebra ini."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra thoracica VIII",
+    "Vertebra thoracica X",
+    "Costa IX"
+   ],
+   "features": [
+    "vertebral-body",
+    "superior-costal-facet",
+    "transverse-costal-facet",
+    "pedicle-of-vertebral-arch",
+    "lamina-of-vertebral-arch",
+    "transverse-process",
+    "spinous-process",
+    "vertebral-foramen"
+   ],
+   "region": {
+    "en": "Back of the thorax: thoracic part of the vertebral column",
+    "id": "Dinding belakang thorax: pars thoracica columnae vertebralis"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "region": [
+    "Vertebra thoracica",
+    "thoracica",
+    "torakal",
+    "Vertebra thoracalis",
+    "Vertebrae thoracicae"
+   ]
+  }
+ },
+ {
+  "key": "vertebra-t10",
+  "kind": "bone",
+  "la": "Vertebra thoracica X",
+  "alt": [
+   "Vertebra T10",
+   "T10",
+   "Vertebra thoracica 10",
+   "Vertebra thoracis X",
+   "Vertebra thoracalis X",
+   "Vertebra Th10"
+  ],
+  "en": "Tenth thoracic vertebra (T10)",
+  "desc": {
+   "en": "An atypical thoracic vertebra with one complete costal facet on each side, partly on the pedicle, for rib 10; the transverse costal facet is usually present but may be small or absent. The oesophageal hiatus of the diaphragm lies at the T10 level.",
+   "id": "Vertebra thoracica atipikal dengan satu fovea costalis utuh pada tiap sisi, sebagian terletak pada pediculus, untuk costa X; fovea costalis processus transversi biasanya ada tetapi dapat kecil atau tidak ada. Hiatus oesophageus diaphragmatis terletak setinggi T10."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra thoracica IX",
+    "Vertebra thoracica XI",
+    "Costa X"
+   ],
+   "features": [
+    "vertebral-body",
+    "superior-costal-facet",
+    "transverse-costal-facet",
+    "pedicle-of-vertebral-arch",
+    "lamina-of-vertebral-arch",
+    "transverse-process",
+    "spinous-process",
+    "vertebral-foramen"
+   ],
+   "region": {
+    "en": "Back of the thorax: thoracic part of the vertebral column",
+    "id": "Dinding belakang thorax: pars thoracica columnae vertebralis"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "region": [
+    "Vertebra thoracica",
+    "thoracica",
+    "torakal",
+    "Vertebra thoracalis",
+    "Vertebrae thoracicae"
+   ]
+  }
+ },
+ {
+  "key": "vertebra-t11",
+  "kind": "bone",
+  "la": "Vertebra thoracica XI",
+  "alt": [
+   "Vertebra T11",
+   "T11",
+   "Vertebra thoracica 11",
+   "Vertebra thoracis XI",
+   "Vertebra thoracalis XI",
+   "Vertebra Th11"
+  ],
+  "en": "Eleventh thoracic vertebra (T11)",
+  "desc": {
+   "en": "An atypical thoracic vertebra with one large costal facet on each side, mainly on the pedicle, for rib 11. It has no transverse costal facets, short transverse processes and a short, nearly horizontal spinous process.",
+   "id": "Vertebra thoracica atipikal dengan satu fovea costalis besar pada tiap sisi, terutama pada pediculus, untuk costa XI. Tidak memiliki fovea costalis processus transversi, processus transversus-nya pendek, dan processus spinosus-nya pendek serta hampir horizontal."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra thoracica X",
+    "Vertebra thoracica XII",
+    "Costa XI"
+   ],
+   "features": [
+    "vertebral-body",
+    "superior-costal-facet",
+    "pedicle-of-vertebral-arch",
+    "lamina-of-vertebral-arch",
+    "transverse-process",
+    "spinous-process",
+    "vertebral-foramen"
+   ],
+   "region": {
+    "en": "Back of the thorax: thoracic part of the vertebral column",
+    "id": "Dinding belakang thorax: pars thoracica columnae vertebralis"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "region": [
+    "Vertebra thoracica",
+    "thoracica",
+    "torakal",
+    "Vertebra thoracalis",
+    "Vertebrae thoracicae"
+   ]
+  }
+ },
+ {
+  "key": "vertebra-t12",
+  "kind": "bone",
+  "la": "Vertebra thoracica XII",
+  "alt": [
+   "Vertebra T12",
+   "T12",
+   "Vertebra thoracica 12",
+   "Vertebra thoracis XII",
+   "Vertebra thoracalis XII",
+   "Vertebra Th12"
+  ],
+  "en": "Twelfth thoracic vertebra (T12)",
+  "desc": {
+   "en": "An atypical, transitional vertebra: one costal facet on each side for rib 12, no transverse costal facets, and inferior articular processes shaped like lumbar ones (convex, facing laterally). The aortic hiatus of the diaphragm lies at its level, and the thoracolumbar junction here is a common fracture site.",
+   "id": "Vertebra peralihan yang atipikal: satu fovea costalis pada tiap sisi untuk costa XII, tanpa fovea costalis processus transversi, dan processus articularis inferior berbentuk seperti vertebra lumbalis (cembung, menghadap ke lateral). Hiatus aorticus diaphragmatis terletak setinggi vertebra ini, dan peralihan thoracolumbal di sini sering mengalami fraktur."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra thoracica XI",
+    "Vertebra lumbalis I",
+    "Costa XII"
+   ],
+   "features": [
+    "vertebral-body",
+    "superior-costal-facet",
+    "pedicle-of-vertebral-arch",
+    "lamina-of-vertebral-arch",
+    "transverse-process",
+    "spinous-process",
+    "vertebral-foramen"
+   ],
+   "region": {
+    "en": "Back of the thorax: thoracic part of the vertebral column",
+    "id": "Dinding belakang thorax: pars thoracica columnae vertebralis"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "region": [
+    "Vertebra thoracica",
+    "thoracica",
+    "torakal",
+    "Vertebra thoracalis",
+    "Vertebrae thoracicae"
+   ]
+  }
+ },
+ {
+  "key": "vertebra-l1",
+  "kind": "bone",
+  "la": "Vertebra lumbalis I",
+  "alt": [
+   "Vertebra L1",
+   "L1",
+   "Vertebra lumbalis 1",
+   "Vertebra lumborum I"
+  ],
+  "en": "First lumbar vertebra (L1)",
+  "desc": {
+   "en": "The first lumbar vertebra, with the smallest body of the lumbar series and no costal facets. The transpyloric plane passes at its level, and in adults the spinal cord (conus medullaris) usually ends at the L1-L2 level.",
+   "id": "Vertebra lumbalis pertama, dengan corpus terkecil di antara vertebrae lumbales dan tanpa fovea costalis. Planum transpyloricum melintas setinggi vertebra ini, dan pada dewasa medulla spinalis (conus medullaris) biasanya berakhir setinggi L1-L2."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra thoracica XII",
+    "Vertebra lumbalis II"
+   ],
+   "features": [
+    "vertebral-body",
+    "annular-epiphysis",
+    "intervertebral-surface",
+    "pedicle-of-vertebral-arch",
+    "lamina-of-vertebral-arch",
+    "pars-interarticularis-of-vertebral-arch",
+    "transverse-process",
+    "costal-part-of-transverse-process",
+    "lateral-part-of-transverse-process",
+    "spinous-process",
+    "superior-articular-process-of-vertebra",
+    "superior-articular-facet-of-vertebra",
+    "inferior-articular-process-of-vertebra",
+    "inferior-articular-facet-of-vertebra",
+    "superior-vertebral-notch",
+    "inferior-vertebral-notch",
+    "intervertebral-foramen",
+    "vertebral-foramen",
+    "vertebral-arch"
+   ],
+   "region": {
+    "en": "Lower back: lumbar part of the vertebral column",
+    "id": "Pinggang: pars lumbalis columnae vertebralis"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "region": [
+    "Vertebra lumbalis",
+    "lumbalis",
+    "lumbal",
+    "Vertebrae lumbales"
+   ]
+  }
+ },
+ {
+  "key": "vertebra-l2",
+  "kind": "bone",
+  "la": "Vertebra lumbalis II",
+  "alt": [
+   "Vertebra L2",
+   "L2",
+   "Vertebra lumbalis 2",
+   "Vertebra lumborum II"
+  ],
+  "en": "Second lumbar vertebra (L2)",
+  "desc": {
+   "en": "A typical lumbar vertebra. Both crura of the diaphragm reach its body: the right crus arises from L1-L3 and the left from L1-L2.",
+   "id": "Vertebra lumbalis tipikal. Kedua crus diaphragmatis mencapai corpus-nya: crus dextrum berorigo pada L1-L3 dan crus sinistrum pada L1-L2."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra lumbalis I",
+    "Vertebra lumbalis III"
+   ],
+   "features": [
+    "vertebral-body",
+    "annular-epiphysis",
+    "intervertebral-surface",
+    "pedicle-of-vertebral-arch",
+    "lamina-of-vertebral-arch",
+    "pars-interarticularis-of-vertebral-arch",
+    "transverse-process",
+    "costal-part-of-transverse-process",
+    "lateral-part-of-transverse-process",
+    "spinous-process",
+    "superior-articular-process-of-vertebra",
+    "superior-articular-facet-of-vertebra",
+    "inferior-articular-process-of-vertebra",
+    "inferior-articular-facet-of-vertebra",
+    "superior-vertebral-notch",
+    "inferior-vertebral-notch",
+    "intervertebral-foramen",
+    "vertebral-foramen",
+    "vertebral-arch"
+   ],
+   "region": {
+    "en": "Lower back: lumbar part of the vertebral column",
+    "id": "Pinggang: pars lumbalis columnae vertebralis"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "region": [
+    "Vertebra lumbalis",
+    "lumbalis",
+    "lumbal",
+    "Vertebrae lumbales"
+   ]
+  }
+ },
+ {
+  "key": "vertebra-l3",
+  "kind": "bone",
+  "la": "Vertebra lumbalis III",
+  "alt": [
+   "Vertebra L3",
+   "L3",
+   "Vertebra lumbalis 3",
+   "Vertebra lumborum III"
+  ],
+  "en": "Third lumbar vertebra (L3)",
+  "desc": {
+   "en": "A typical lumbar vertebra, used in the model to show the parts of a vertebra. Its transverse processes are usually the longest in the lumbar region, and the subcostal plane crosses at the level of its body.",
+   "id": "Vertebra lumbalis tipikal yang dipakai model untuk menunjukkan bagian-bagian vertebra. Processus transversus-nya biasanya paling panjang di daerah lumbal, dan planum subcostale melintas setinggi corpus-nya."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra lumbalis II",
+    "Vertebra lumbalis IV"
+   ],
+   "features": [
+    "vertebral-body",
+    "annular-epiphysis",
+    "intervertebral-surface",
+    "pedicle-of-vertebral-arch",
+    "lamina-of-vertebral-arch",
+    "pars-interarticularis-of-vertebral-arch",
+    "transverse-process",
+    "costal-part-of-transverse-process",
+    "lateral-part-of-transverse-process",
+    "spinous-process",
+    "superior-articular-process-of-vertebra",
+    "superior-articular-facet-of-vertebra",
+    "inferior-articular-process-of-vertebra",
+    "inferior-articular-facet-of-vertebra",
+    "superior-vertebral-notch",
+    "inferior-vertebral-notch",
+    "intervertebral-foramen",
+    "vertebral-foramen",
+    "vertebral-arch"
+   ],
+   "region": {
+    "en": "Lower back: lumbar part of the vertebral column",
+    "id": "Pinggang: pars lumbalis columnae vertebralis"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "region": [
+    "Vertebra lumbalis",
+    "lumbalis",
+    "lumbal",
+    "Vertebrae lumbales"
+   ]
+  }
+ },
+ {
+  "key": "vertebra-l4",
+  "kind": "bone",
+  "la": "Vertebra lumbalis IV",
+  "alt": [
+   "Vertebra L4",
+   "L4",
+   "Vertebra lumbalis 4",
+   "Vertebra lumborum IV"
+  ],
+  "en": "Fourth lumbar vertebra (L4)",
+  "desc": {
+   "en": "A typical lumbar vertebra. A line joining the highest points of the iliac crests (supracristal plane) crosses its spinous process or the L4-L5 interspace, the landmark for lumbar puncture; the abdominal aorta divides in front of its body.",
+   "id": "Vertebra lumbalis tipikal. Garis yang menghubungkan titik tertinggi kedua crista iliaca (planum supracristale) melintasi processus spinosus-nya atau sela L4-L5, patokan untuk pungsi lumbal; aorta abdominalis bercabang di depan corpus-nya."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra lumbalis III",
+    "Vertebra lumbalis V"
+   ],
+   "features": [
+    "vertebral-body",
+    "annular-epiphysis",
+    "intervertebral-surface",
+    "pedicle-of-vertebral-arch",
+    "lamina-of-vertebral-arch",
+    "pars-interarticularis-of-vertebral-arch",
+    "transverse-process",
+    "costal-part-of-transverse-process",
+    "lateral-part-of-transverse-process",
+    "spinous-process",
+    "superior-articular-process-of-vertebra",
+    "superior-articular-facet-of-vertebra",
+    "inferior-articular-process-of-vertebra",
+    "inferior-articular-facet-of-vertebra",
+    "superior-vertebral-notch",
+    "inferior-vertebral-notch",
+    "intervertebral-foramen",
+    "vertebral-foramen",
+    "vertebral-arch"
+   ],
+   "region": {
+    "en": "Lower back: lumbar part of the vertebral column",
+    "id": "Pinggang: pars lumbalis columnae vertebralis"
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "region": [
+    "Vertebra lumbalis",
+    "lumbalis",
+    "lumbal",
+    "Vertebrae lumbales"
+   ]
+  }
+ },
+ {
+  "key": "vertebra-l5",
+  "kind": "bone",
+  "la": "Vertebra lumbalis V",
+  "alt": [
+   "Vertebra L5",
+   "L5",
+   "Vertebra lumbalis 5",
+   "Vertebra lumborum V"
+  ],
+  "en": "Fifth lumbar vertebra (L5)",
+  "desc": {
+   "en": "The largest vertebra. Its massive body is taller in front than behind, which helps form the lumbosacral angle, and its thick transverse processes are tied to the iliac crests by the iliolumbar ligaments. It carries the weight of the upper body to the sacrum.",
+   "id": "Vertebra terbesar. Corpus-nya yang masif lebih tinggi di depan daripada di belakang sehingga ikut membentuk angulus lumbosacralis, dan processus transversus-nya yang tebal diikat ke crista iliaca oleh ligamentum iliolumbale. Vertebra ini meneruskan berat badan bagian atas ke os sacrum."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra lumbalis IV",
+    "Os sacrum"
+   ],
+   "features": [
+    "vertebral-body",
+    "annular-epiphysis",
+    "intervertebral-surface",
+    "pedicle-of-vertebral-arch",
+    "lamina-of-vertebral-arch",
+    "pars-interarticularis-of-vertebral-arch",
+    "transverse-process",
+    "costal-part-of-transverse-process",
+    "lateral-part-of-transverse-process",
+    "spinous-process",
+    "superior-articular-process-of-vertebra",
+    "superior-articular-facet-of-vertebra",
+    "inferior-articular-process-of-vertebra",
+    "inferior-articular-facet-of-vertebra",
+    "superior-vertebral-notch",
+    "inferior-vertebral-notch",
+    "intervertebral-foramen",
+    "vertebral-foramen",
+    "vertebral-arch"
+   ],
+   "region": {
+    "en": "Lower back: lumbar part of the vertebral column",
+    "id": "Pinggang: pars lumbalis columnae vertebralis"
+   },
+   "clinical": {
+    "en": "Spondylolysis (a defect of the pars interarticularis) is most common at L5 and can let L5 slip forward on the sacrum (spondylolisthesis).",
+    "id": "Spondilolisis (defek pada pars interarticularis) paling sering terjadi pada L5 dan dapat membuat L5 tergelincir ke depan di atas os sacrum (spondilolistesis)."
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "region": [
+    "Vertebra lumbalis",
+    "lumbalis",
+    "lumbal",
+    "Vertebrae lumbales"
+   ]
+  }
+ },
+ {
+  "key": "sacrum",
+  "kind": "bone",
+  "la": "Os sacrum",
+  "alt": [
+   "Sacrum",
+   "Vertebrae sacrales",
+   "Os sacrale"
+  ],
+  "en": "Sacrum",
+  "desc": {
+   "en": "A large triangular bone formed by the fusion of the five sacral vertebrae. Its base articulates with L5 and its apex with the coccyx; its auricular surfaces form the sacroiliac joints, so it carries body weight from the vertebral column to the pelvic girdle. Four pairs of anterior and posterior sacral foramina carry the anterior and posterior rami of S1-S4, and the sacral canal holds the lower roots of the cauda equina.",
+   "id": "Tulang besar berbentuk segitiga hasil penyatuan lima vertebrae sacrales. Basis ossis sacri bersendi dengan L5 dan apex-nya dengan os coccygis; facies auricularis membentuk articulatio sacroiliaca, sehingga os sacrum meneruskan berat badan dari columna vertebralis ke cingulum pelvicum. Empat pasang foramina sacralia anteriora dan posteriora dilalui rami anteriores dan posteriores S1-S4, dan canalis sacralis berisi radix bagian bawah cauda equina."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Vertebra lumbalis V",
+    "Os coxae",
+    "Os coccygis"
+   ],
+   "features": [
+    "base-of-sacrum",
+    "promontory",
+    "ala-of-sacrum",
+    "superior-articular-process-of-sacrum",
+    "pelvic-surface-of-sacrum",
+    "transverse-ridges",
+    "anterior-sacral-foramina",
+    "dorsal-surface-of-sacrum",
+    "median-sacral-crest",
+    "intermediate-sacral-crest",
+    "lateral-sacral-crest",
+    "posterior-sacral-foramina",
+    "lateral-part-of-sacrum",
+    "auricular-surface-of-sacrum",
+    "sacral-tuberosity",
+    "sacral-canal",
+    "intervertebral-foramina",
+    "sacral-hiatus",
+    "sacral-horn",
+    "apex-of-sacrum"
+   ],
+   "region": {
+    "en": "Back of the pelvis, between the two hip bones",
+    "id": "Dinding belakang pelvis, di antara kedua os coxae"
+   },
+   "clinical": {
+    "en": "A caudal epidural block is given through the sacral hiatus, which is found by feeling the sacral cornua.",
+    "id": "Anestesi epidural kaudal diberikan melalui hiatus sacralis, yang dicari dengan meraba cornua sacralia."
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ],
+   "count": [
+    "5",
+    "lima"
+   ]
+  }
+ },
+ {
+  "key": "coccyx",
+  "kind": "bone",
+  "la": "Os coccygis",
+  "alt": [
+   "Coccyx",
+   "Vertebrae coccygeae"
+  ],
+  "en": "Coccyx",
+  "desc": {
+   "en": "The small triangular tail bone, usually four (three to five) rudimentary vertebrae fused together. Only the first segment keeps small transverse processes and the coccygeal cornua, which meet the sacral cornua. It has no vertebral canal; it gives attachment to gluteus maximus, coccygeus, levator ani and the anococcygeal ligament.",
+   "id": "Tulang ekor kecil berbentuk segitiga, biasanya terdiri atas empat (tiga sampai lima) vertebra rudimenter yang menyatu. Hanya segmen pertama yang masih memiliki processus transversus kecil dan cornu coccygeum yang bertemu cornu sacrale. Tulang ini tidak memiliki canalis vertebralis; menjadi tempat perlekatan m. gluteus maximus, m. coccygeus, m. levator ani, dan ligamentum anococcygeum."
+  },
+  "facts": {
+   "type": "Os irregulare",
+   "skeleton": "Skeleton axiale",
+   "articulates": [
+    "Os sacrum"
+   ],
+   "features": [
+    "base-of-coccyx",
+    "coccygeal-horn",
+    "apex-of-coccyx"
+   ],
+   "region": {
+    "en": "Lower end of the vertebral column, behind the anal canal",
+    "id": "Ujung bawah columna vertebralis, di belakang canalis analis"
+   },
+   "clinical": {
+    "en": "A fall on the buttocks can fracture or dislocate the coccyx and cause persistent pain (coccydynia).",
+    "id": "Jatuh terduduk dapat mematahkan atau menggeser os coccygis dan menimbulkan nyeri menetap (koksidinia)."
+   }
+  },
+  "quiz": {
+   "type": [
+    "Os irregulare",
+    "irregulare",
+    "Os irregularis",
+    "tulang tidak beraturan"
+   ],
+   "skeleton": [
+    "Skeleton axiale",
+    "axiale",
+    "rangka aksial"
+   ]
+  }
+ }
+]

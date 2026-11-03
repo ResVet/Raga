@@ -1,0 +1,1022 @@
+[
+  {
+    "key": "right-subclavian-artery",
+    "kind": "artery",
+    "la": "Arteria subclavia dextra",
+    "alt": ["A. subclavia dextra", "Arteria subclavia", "A. subclavia"],
+    "en": "Right subclavian artery",
+    "desc": {
+      "en": "Arises from the truncus brachiocephalicus behind the right sternoclavicular joint and arches over the cupula pleurae and the first rib. M. scalenus anterior divides it into three parts, and it becomes a. axillaris at the lateral border of the first rib.",
+      "id": "Berasal dari truncus brachiocephalicus di belakang articulatio sternoclavicularis kanan, lalu melengkung di atas cupula pleurae dan costa I. M. scalenus anterior membaginya menjadi tiga bagian, dan arteri ini menjadi a. axillaris di tepi lateral costa I."
+    },
+    "facts": {
+      "from": "Truncus brachiocephalicus",
+      "course": {
+        "en": "Arches laterally across the root of the neck over the cupula pleurae and lies in the sulcus arteriae subclaviae of the first rib behind m. scalenus anterior. The first part lies medial to the muscle, the second part behind it and the third part lateral to it in the posterior triangle of the neck, where the trunks of the plexus brachialis lie above and behind the artery. V. subclavia passes in front of m. scalenus anterior.",
+        "id": "Melengkung ke lateral melintasi pangkal leher di atas cupula pleurae dan terletak di sulcus arteriae subclaviae costa I di belakang m. scalenus anterior. Pars pertama terletak di medial otot ini, pars kedua di belakangnya dan pars ketiga di lateralnya di trigonum colli posterior, tempat trunci plexus brachialis berada di atas dan di belakang arteri. V. subclavia lewat di depan m. scalenus anterior."
+      },
+      "branches": ["Arteria vertebralis", "Arteria thoracica interna", "Truncus thyrocervicalis", "Truncus costocervicalis", "Arteria dorsalis scapulae"],
+      "supplies": {
+        "en": "The upper limb, part of the neck, the brain through a. vertebralis, the anterior thoracic wall through a. thoracica interna, and the shoulder region.",
+        "id": "Ekstremitas superior, sebagian leher, otak melalui a. vertebralis, dinding dada anterior melalui a. thoracica interna, dan daerah bahu."
+      },
+      "continues": "Arteria axillaris",
+      "clinical": {
+        "en": "Branches by part: first part, a. vertebralis, a. thoracica interna and truncus thyrocervicalis; second part, truncus costocervicalis; third part, a. dorsalis scapulae when present. Its pulse can be felt, and the artery compressed against the first rib, in the fossa supraclavicularis major behind the middle of the clavicle to control bleeding in the limb. A cervical rib or a narrow interscalene gap can compress the artery and the inferior trunk (thoracic outlet syndrome).",
+        "id": "Cabang menurut bagian: pars pertama, a. vertebralis, a. thoracica interna dan truncus thyrocervicalis; pars kedua, truncus costocervicalis; pars ketiga, a. dorsalis scapulae bila ada. Denyutnya dapat diraba, dan arteri dapat ditekan ke costa I, di fossa supraclavicularis major di belakang pertengahan clavicula untuk menghentikan perdarahan di lengan. Costa cervicalis atau celah antar-scalenus yang sempit dapat menekan arteri dan truncus inferior (thoracic outlet syndrome)."
+      }
+    },
+    "quiz": {
+      "from": ["Truncus brachiocephalicus", "Tr. brachiocephalicus"],
+      "continues": ["Arteria axillaris", "A. axillaris"]
+    }
+  },
+  {
+    "key": "left-subclavian-artery",
+    "kind": "artery",
+    "la": "Arteria subclavia sinistra",
+    "alt": ["A. subclavia sinistra", "Arteria subclavia", "A. subclavia"],
+    "en": "Left subclavian artery",
+    "desc": {
+      "en": "Third branch of the arcus aortae. It ascends in the superior mediastinum to the root of the neck, arches over the cupula pleurae and the first rib, and becomes a. axillaris at the lateral border of the first rib.",
+      "id": "Cabang ketiga arcus aortae. Arteri ini naik di mediastinum superius ke pangkal leher, melengkung di atas cupula pleurae dan costa I, lalu menjadi a. axillaris di tepi lateral costa I."
+    },
+    "facts": {
+      "from": "Arcus aortae",
+      "course": {
+        "en": "Ascends from the arcus aortae on the left side of the trachea and esophagus, grooves the mediastinal surface of the left lung, then arches laterally behind m. scalenus anterior like the right artery. On the left the truncus costocervicalis usually arises from the first part.",
+        "id": "Naik dari arcus aortae di sisi kiri trachea dan esophagus, membuat alur pada facies mediastinalis paru kiri, lalu melengkung ke lateral di belakang m. scalenus anterior seperti arteri sisi kanan. Di sisi kiri truncus costocervicalis biasanya berasal dari pars pertama."
+      },
+      "branches": ["Arteria vertebralis", "Arteria thoracica interna", "Truncus thyrocervicalis", "Truncus costocervicalis", "Arteria dorsalis scapulae"],
+      "supplies": {
+        "en": "The left upper limb, part of the neck, the brain through a. vertebralis and the anterior thoracic wall.",
+        "id": "Ekstremitas superior kiri, sebagian leher, otak melalui a. vertebralis dan dinding dada anterior."
+      },
+      "continues": "Arteria axillaris",
+      "clinical": {
+        "en": "Narrowing of its first part, proximal to a. vertebralis, can reverse flow in the vertebral artery when the arm is exercised (subclavian steal), causing dizziness.",
+        "id": "Penyempitan pars pertama, proksimal dari a. vertebralis, dapat membalik aliran a. vertebralis saat lengan bekerja (subclavian steal) dan menimbulkan pusing."
+      }
+    },
+    "quiz": {
+      "from": ["Arcus aortae", "Arcus aorticus"],
+      "continues": ["Arteria axillaris", "A. axillaris"]
+    }
+  },
+  {
+    "key": "thyrocervical-trunk",
+    "kind": "artery",
+    "la": "Truncus thyrocervicalis",
+    "alt": ["Tr. thyrocervicalis", "Truncus thyreocervicalis"],
+    "en": "Thyrocervical trunk",
+    "desc": {
+      "en": "Short trunk from the first part of a. subclavia at the medial border of m. scalenus anterior. It gives a. thyroidea inferior, a. cervicalis ascendens, a. suprascapularis and usually a. transversa cervicis.",
+      "id": "Batang pendek dari a. subclavia pars pertama di tepi medial m. scalenus anterior. Truncus ini memberikan a. thyroidea inferior, a. cervicalis ascendens, a. suprascapularis dan biasanya a. transversa cervicis."
+    },
+    "facts": {
+      "from": "Arteria subclavia",
+      "branches": ["Arteria thyroidea inferior", "Arteria cervicalis ascendens", "Arteria suprascapularis", "Arteria transversa cervicis"],
+      "supplies": {
+        "en": "The thyroid gland, larynx, pharynx, deep neck muscles, and the shoulder through the scapular anastomosis.",
+        "id": "Glandula thyroidea, larynx, pharynx, otot leher dalam, dan bahu melalui anastomosis scapula."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria subclavia", "A. subclavia"]
+    }
+  },
+  {
+    "key": "suprascapular-artery",
+    "kind": "artery",
+    "la": "Arteria suprascapularis",
+    "alt": ["A. suprascapularis"],
+    "en": "Suprascapular artery",
+    "desc": {
+      "en": "Branch of the truncus thyrocervicalis that passes over the ligamentum transversum scapulae superius into the fossa supraspinata and then the fossa infraspinata. It is one of the three main arteries of the posterior scapular region.",
+      "id": "Cabang truncus thyrocervicalis yang lewat di atas ligamentum transversum scapulae superius masuk ke fossa supraspinata lalu ke fossa infraspinata. Arteri ini salah satu dari tiga arteri utama regio scapularis posterior."
+    },
+    "facts": {
+      "from": "Truncus thyrocervicalis",
+      "course": {
+        "en": "Runs laterally across m. scalenus anterior and n. phrenicus, behind the clavicle, crosses the third part of a. subclavia and the plexus brachialis, and passes above the ligamentum transversum scapulae superius (n. suprascapularis passes below it). After supplying m. supraspinatus it passes through the incisura spinoglenoidalis to the fossa infraspinata.",
+        "id": "Berjalan ke lateral menyilang m. scalenus anterior dan n. phrenicus, di belakang clavicula, menyilang a. subclavia pars ketiga dan plexus brachialis, lalu lewat di atas ligamentum transversum scapulae superius (n. suprascapularis lewat di bawahnya). Setelah memperdarahi m. supraspinatus, arteri melewati incisura spinoglenoidalis menuju fossa infraspinata."
+      },
+      "branches": ["Ramus acromialis", "Rami musculares"],
+      "supplies": {
+        "en": "M. supraspinatus, m. infraspinatus, the acromion region and the shoulder joint.",
+        "id": "M. supraspinatus, m. infraspinatus, daerah acromion dan sendi bahu."
+      },
+      "clinical": {
+        "en": "With a. circumflexa scapulae and a. dorsalis scapulae it forms the scapular anastomosis, which can keep the limb supplied when a. axillaris is tied between the first rib and the origin of a. subscapularis.",
+        "id": "Bersama a. circumflexa scapulae dan a. dorsalis scapulae membentuk anastomosis scapula, yang dapat mempertahankan perdarahan lengan bila a. axillaris diikat di antara costa I dan pangkal a. subscapularis."
+      }
+    },
+    "quiz": {
+      "from": ["Truncus thyrocervicalis", "Tr. thyrocervicalis"]
+    }
+  },
+  {
+    "key": "transverse-cervical-artery",
+    "kind": "artery",
+    "la": "Arteria transversa cervicis",
+    "alt": ["A. transversa cervicis", "Arteria transversa colli", "A. transversa colli"],
+    "en": "Transverse cervical artery",
+    "desc": {
+      "en": "Branch of the truncus thyrocervicalis (sometimes of a. subclavia) that crosses the posterior triangle of the neck and divides into a superficial branch to m. trapezius and a deep branch along the medial border of the scapula.",
+      "id": "Cabang truncus thyrocervicalis (kadang a. subclavia) yang menyilang trigonum colli posterior dan bercabang menjadi ramus superficialis ke m. trapezius dan ramus profundus di sepanjang margo medialis scapulae."
+    },
+    "facts": {
+      "from": "Truncus thyrocervicalis",
+      "course": {
+        "en": "Runs laterally above the clavicle, superficial to m. scalenus anterior and the plexus brachialis, to the anterior border of m. trapezius, where it divides.",
+        "id": "Berjalan ke lateral di atas clavicula, di superfisial m. scalenus anterior dan plexus brachialis, sampai tepi anterior m. trapezius tempat arteri bercabang."
+      },
+      "branches": ["Ramus superficialis arteriae transversae cervicis", "Ramus profundus arteriae transversae cervicis"],
+      "supplies": {
+        "en": "M. trapezius, m. levator scapulae, the rhomboid muscles and the scapular anastomosis.",
+        "id": "M. trapezius, m. levator scapulae, mm. rhomboidei dan anastomosis scapula."
+      },
+      "clinical": {
+        "en": "When a. dorsalis scapulae arises separately from a. subclavia, the transverse cervical artery has only its superficial branch.",
+        "id": "Bila a. dorsalis scapulae berasal tersendiri dari a. subclavia, a. transversa cervicis hanya memiliki ramus superficialis."
+      }
+    },
+    "quiz": {
+      "from": ["Truncus thyrocervicalis", "Tr. thyrocervicalis"]
+    }
+  },
+  {
+    "key": "superficial-branch-of-transverse-cervical-artery",
+    "kind": "artery",
+    "la": "Ramus superficialis arteriae transversae cervicis",
+    "alt": ["Arteria cervicalis superficialis", "Ramus superficialis arteriae transversae colli"],
+    "en": "Superficial branch of transverse cervical artery",
+    "desc": {
+      "en": "Runs on the deep surface of m. trapezius together with n. accessorius and supplies the muscle.",
+      "id": "Berjalan di permukaan dalam m. trapezius bersama n. accessorius dan memperdarahi otot tersebut."
+    },
+    "facts": {
+      "from": "Arteria transversa cervicis"
+    },
+    "quiz": {
+      "from": ["Arteria transversa cervicis", "A. transversa cervicis", "A. transversa colli"]
+    }
+  },
+  {
+    "key": "deep-branch-of-transverse-cervical-artery",
+    "kind": "artery",
+    "la": "Ramus profundus arteriae transversae cervicis",
+    "alt": ["Arteria dorsalis scapulae", "A. dorsalis scapulae", "Ramus profundus arteriae transversae colli"],
+    "en": "Deep branch of transverse cervical artery (dorsal scapular artery)",
+    "desc": {
+      "en": "Runs deep to m. levator scapulae and the rhomboids along the medial border of the scapula, with n. dorsalis scapulae. In many people the same vessel arises directly from a. subclavia and is then called a. dorsalis scapulae; it is one of the three main arteries of the posterior scapular region.",
+      "id": "Berjalan di bawah m. levator scapulae dan mm. rhomboidei di sepanjang margo medialis scapulae, bersama n. dorsalis scapulae. Pada banyak orang pembuluh yang sama berasal langsung dari a. subclavia dan disebut a. dorsalis scapulae; arteri ini salah satu dari tiga arteri utama regio scapularis posterior."
+    },
+    "facts": {
+      "from": "Arteria transversa cervicis",
+      "supplies": {
+        "en": "M. levator scapulae, the rhomboids, m. serratus anterior and the scapular anastomosis.",
+        "id": "M. levator scapulae, mm. rhomboidei, m. serratus anterior dan anastomosis scapula."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria transversa cervicis", "A. transversa cervicis", "Arteria subclavia"]
+    }
+  },
+  {
+    "key": "costocervical-trunk",
+    "kind": "artery",
+    "la": "Truncus costocervicalis",
+    "alt": ["Tr. costocervicalis"],
+    "en": "Costocervical trunk",
+    "desc": {
+      "en": "Arises from the back of the second part of a. subclavia on the right (usually the first part on the left), arches backward over the cupula pleurae to the neck of the first rib and divides into a. cervicalis profunda and a. intercostalis suprema.",
+      "id": "Berasal dari sisi belakang a. subclavia pars kedua di sisi kanan (di kiri biasanya pars pertama), melengkung ke belakang di atas cupula pleurae menuju collum costae I lalu bercabang menjadi a. cervicalis profunda dan a. intercostalis suprema."
+    },
+    "facts": {
+      "from": "Arteria subclavia",
+      "branches": ["Arteria cervicalis profunda", "Arteria intercostalis suprema"],
+      "supplies": {
+        "en": "Deep muscles of the back of the neck and the first two intercostal spaces.",
+        "id": "Otot dalam tengkuk dan dua spatium intercostale pertama."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria subclavia", "A. subclavia"]
+    }
+  },
+  {
+    "key": "axillary-artery",
+    "kind": "artery",
+    "la": "Arteria axillaris",
+    "alt": ["A. axillaris"],
+    "en": "Axillary artery",
+    "desc": {
+      "en": "Continuation of a. subclavia from the lateral border of the first rib to the lower border of m. teres major, where it becomes a. brachialis. M. pectoralis minor crosses in front of it and divides it into three parts with one, two and three branches.",
+      "id": "Lanjutan a. subclavia dari tepi lateral costa I sampai tepi bawah m. teres major, tempat arteri menjadi a. brachialis. M. pectoralis minor menyilang di depannya dan membaginya menjadi tiga bagian yang masing-masing memiliki satu, dua dan tiga cabang."
+    },
+    "facts": {
+      "from": "Arteria subclavia",
+      "course": {
+        "en": "Runs through the axilla with the plexus brachialis, with v. axillaris on its medial side. The first part (from the first rib to the upper border of m. pectoralis minor) gives a. thoracica superior. The second part (behind m. pectoralis minor) gives a. thoracoacromialis and a. thoracica lateralis; the cords of the plexus lie around this part and are named by their position to it. The third part (from the lower border of m. pectoralis minor to the lower border of m. teres major) gives a. subscapularis, a. circumflexa humeri anterior and a. circumflexa humeri posterior, and is surrounded by the terminal nerves of the plexus.",
+        "id": "Berjalan melalui axilla bersama plexus brachialis, dengan v. axillaris di sisi medialnya. Pars pertama (dari costa I sampai tepi atas m. pectoralis minor) memberikan a. thoracica superior. Pars kedua (di belakang m. pectoralis minor) memberikan a. thoracoacromialis dan a. thoracica lateralis; fasciculi plexus terletak di sekeliling bagian ini dan dinamai menurut letaknya terhadap arteri. Pars ketiga (dari tepi bawah m. pectoralis minor sampai tepi bawah m. teres major) memberikan a. subscapularis, a. circumflexa humeri anterior dan a. circumflexa humeri posterior, dan dikelilingi oleh saraf-saraf terminal plexus."
+      },
+      "branches": ["Arteria thoracica superior", "Arteria thoracoacromialis", "Arteria thoracica lateralis", "Arteria subscapularis", "Arteria circumflexa humeri anterior", "Arteria circumflexa humeri posterior"],
+      "supplies": {
+        "en": "The walls of the axilla, the shoulder region, the pectoral muscles and the lateral thoracic wall including the lateral breast.",
+        "id": "Dinding axilla, daerah bahu, otot pectoralis dan dinding dada lateral termasuk bagian lateral payudara."
+      },
+      "continues": "Arteria brachialis",
+      "clinical": {
+        "en": "Its pulse is felt high in the axilla, pressing the artery against the humerus. A common memory aid for the branches in order is 'Screw The Lawyer, Save A Patient'. Ligation between the first rib and a. subscapularis is tolerated because of the scapular anastomosis; ligation distal to a. subscapularis leaves too little collateral flow.",
+        "id": "Denyutnya diraba tinggi di axilla dengan menekan arteri ke humerus. Jembatan keledai yang umum untuk urutan cabangnya adalah 'Screw The Lawyer, Save A Patient'. Ligasi di antara costa I dan a. subscapularis masih dapat ditoleransi karena adanya anastomosis scapula; ligasi distal dari a. subscapularis menyisakan aliran kolateral yang terlalu sedikit."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria subclavia", "A. subclavia"],
+      "continues": ["Arteria brachialis", "A. brachialis"]
+    }
+  },
+  {
+    "key": "superior-thoracic-artery",
+    "kind": "artery",
+    "model": false,
+    "la": "Arteria thoracica superior",
+    "alt": ["A. thoracica superior", "Arteria thoracica suprema"],
+    "en": "Superior thoracic artery",
+    "desc": {
+      "en": "Small, only branch of the first part of a. axillaris. It supplies the first and second intercostal spaces, the upper part of m. serratus anterior and the pectoral muscles.",
+      "id": "Cabang kecil dan satu-satunya dari a. axillaris pars pertama. Arteri ini memperdarahi spatium intercostale I dan II, bagian atas m. serratus anterior dan otot pectoralis."
+    },
+    "facts": {
+      "from": "Arteria axillaris (pars prima)"
+    },
+    "quiz": {
+      "from": ["Arteria axillaris", "A. axillaris"]
+    }
+  },
+  {
+    "key": "thoraco-acromial-artery",
+    "kind": "artery",
+    "la": "Arteria thoracoacromialis",
+    "alt": ["A. thoracoacromialis"],
+    "en": "Thoraco-acromial artery",
+    "desc": {
+      "en": "Short, wide trunk from the second part of a. axillaris. It pierces the fascia clavipectoralis and divides into acromial, clavicular, deltoid and pectoral branches.",
+      "id": "Batang pendek dan lebar dari a. axillaris pars kedua. Arteri ini menembus fascia clavipectoralis dan bercabang menjadi ramus acromialis, clavicularis, deltoideus dan rami pectorales."
+    },
+    "facts": {
+      "from": "Arteria axillaris (pars secunda)",
+      "course": {
+        "en": "Arises behind the upper border of m. pectoralis minor, curves around it and pierces the membrana costocoracoidea with n. pectoralis lateralis before dividing.",
+        "id": "Berasal di belakang tepi atas m. pectoralis minor, melengkung di sekitarnya dan menembus membrana costocoracoidea bersama n. pectoralis lateralis sebelum bercabang."
+      },
+      "branches": ["Ramus acromialis", "Ramus clavicularis", "Ramus deltoideus", "Rami pectorales"],
+      "supplies": {
+        "en": "Pectoral muscles, m. deltoideus, the acromion and acromioclavicular joint, the clavicle and m. subclavius.",
+        "id": "Otot pectoralis, m. deltoideus, acromion dan articulatio acromioclavicularis, clavicula dan m. subclavius."
+      },
+      "clinical": {
+        "en": "Its pectoral branches are the pedicle of the pectoralis major flap used in head and neck reconstruction.",
+        "id": "Rami pectorales-nya menjadi pedikel flap pectoralis major yang dipakai pada rekonstruksi kepala dan leher."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria axillaris", "A. axillaris"]
+    }
+  },
+  {
+    "key": "pectoral-branches-of-thoraco-acromial-artery",
+    "kind": "artery",
+    "la": "Rami pectorales arteriae thoracoacromialis",
+    "alt": ["Rr. pectorales a. thoracoacromialis"],
+    "en": "Pectoral branches of thoraco-acromial artery",
+    "desc": {
+      "en": "Descend between m. pectoralis major and m. pectoralis minor and supply both muscles.",
+      "id": "Turun di antara m. pectoralis major dan m. pectoralis minor dan memperdarahi kedua otot tersebut."
+    },
+    "facts": {
+      "from": "Arteria thoracoacromialis"
+    },
+    "quiz": {
+      "from": ["Arteria thoracoacromialis", "A. thoracoacromialis"]
+    }
+  },
+  {
+    "key": "lateral-thoracic-artery",
+    "kind": "artery",
+    "la": "Arteria thoracica lateralis",
+    "alt": ["A. thoracica lateralis"],
+    "en": "Lateral thoracic artery",
+    "desc": {
+      "en": "Branch of the second part of a. axillaris that descends along the lateral border of m. pectoralis minor onto the thoracic wall. It supplies m. serratus anterior, the axillary lymph nodes and the lateral part of the breast.",
+      "id": "Cabang a. axillaris pars kedua yang turun di sepanjang tepi lateral m. pectoralis minor ke dinding dada. Arteri ini memperdarahi m. serratus anterior, kelenjar getah bening axilla dan bagian lateral payudara."
+    },
+    "facts": {
+      "from": "Arteria axillaris (pars secunda)",
+      "branches": ["Rami mammarii laterales"],
+      "supplies": {
+        "en": "M. serratus anterior, the pectoral muscles, the axillary lymph nodes and the lateral part of the breast.",
+        "id": "M. serratus anterior, otot pectoralis, kelenjar getah bening axilla dan bagian lateral payudara."
+      },
+      "clinical": {
+        "en": "Encountered in axillary dissection and breast surgery because it supplies the lateral breast and the axillary nodes.",
+        "id": "Dijumpai pada diseksi axilla dan operasi payudara karena memperdarahi payudara bagian lateral dan kelenjar getah bening axilla."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria axillaris", "A. axillaris"]
+    }
+  },
+  {
+    "key": "subscapular-artery",
+    "kind": "artery",
+    "la": "Arteria subscapularis",
+    "alt": ["A. subscapularis"],
+    "en": "Subscapular artery",
+    "desc": {
+      "en": "Largest branch of a. axillaris, from its third part. It descends along the lower border of m. subscapularis and soon divides into a. circumflexa scapulae and a. thoracodorsalis.",
+      "id": "Cabang terbesar a. axillaris, berasal dari pars ketiga. Arteri ini turun di sepanjang tepi bawah m. subscapularis dan segera bercabang menjadi a. circumflexa scapulae dan a. thoracodorsalis."
+    },
+    "facts": {
+      "from": "Arteria axillaris (pars tertia)",
+      "branches": ["Arteria circumflexa scapulae", "Arteria thoracodorsalis"],
+      "supplies": {
+        "en": "M. subscapularis, m. latissimus dorsi, m. teres major, the muscles on the back of the scapula and the scapular anastomosis.",
+        "id": "M. subscapularis, m. latissimus dorsi, m. teres major, otot-otot di belakang scapula dan anastomosis scapula."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria axillaris", "A. axillaris"]
+    }
+  },
+  {
+    "key": "circumflex-scapular-artery",
+    "kind": "artery",
+    "la": "Arteria circumflexa scapulae",
+    "alt": ["A. circumflexa scapulae"],
+    "en": "Circumflex scapular artery",
+    "desc": {
+      "en": "Branch of a. subscapularis that passes backward through the triangular space and winds around the lateral border of the scapula into the fossa infraspinata. It is one of the three main arteries of the posterior scapular region.",
+      "id": "Cabang a. subscapularis yang berjalan ke belakang melalui spatium triangulare dan melingkari margo lateralis scapulae masuk ke fossa infraspinata. Arteri ini salah satu dari tiga arteri utama regio scapularis posterior."
+    },
+    "facts": {
+      "from": "Arteria subscapularis",
+      "course": {
+        "en": "Passes through the triangular space, bounded by m. teres minor above, m. teres major below and the long head of m. triceps brachii laterally, then curves around the lateral border of the scapula deep to m. teres minor.",
+        "id": "Melewati spatium triangulare, yang dibatasi m. teres minor di atas, m. teres major di bawah dan caput longum m. triceps brachii di lateral, lalu melingkari margo lateralis scapulae di bawah m. teres minor."
+      },
+      "supplies": {
+        "en": "M. infraspinatus, m. teres major and minor, and the scapular anastomosis.",
+        "id": "M. infraspinatus, m. teres major dan minor, serta anastomosis scapula."
+      },
+      "clinical": {
+        "en": "Pedicle of the scapular and parascapular skin flaps.",
+        "id": "Pedikel flap kulit scapular dan parascapular."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria subscapularis", "A. subscapularis"]
+    }
+  },
+  {
+    "key": "thoracodorsal-artery",
+    "kind": "artery",
+    "la": "Arteria thoracodorsalis",
+    "alt": ["A. thoracodorsalis"],
+    "en": "Thoracodorsal artery",
+    "desc": {
+      "en": "Continuation of a. subscapularis that descends with n. thoracodorsalis along the lateral border of the scapula and enters m. latissimus dorsi.",
+      "id": "Lanjutan a. subscapularis yang turun bersama n. thoracodorsalis di sepanjang margo lateralis scapulae lalu masuk ke m. latissimus dorsi."
+    },
+    "facts": {
+      "from": "Arteria subscapularis",
+      "supplies": {
+        "en": "M. latissimus dorsi, m. teres major and part of m. serratus anterior.",
+        "id": "M. latissimus dorsi, m. teres major dan sebagian m. serratus anterior."
+      },
+      "clinical": {
+        "en": "Pedicle of the latissimus dorsi flap used in breast reconstruction.",
+        "id": "Pedikel flap latissimus dorsi yang dipakai pada rekonstruksi payudara."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria subscapularis", "A. subscapularis"]
+    }
+  },
+  {
+    "key": "anterior-circumflex-humeral-artery",
+    "kind": "artery",
+    "la": "Arteria circumflexa humeri anterior",
+    "alt": ["A. circumflexa humeri anterior", "Arteria circumflexa anterior humeri"],
+    "en": "Anterior circumflex humeral artery",
+    "desc": {
+      "en": "Smaller circumflex branch of the third part of a. axillaris. It passes in front of the collum chirurgicum humeri and anastomoses with a. circumflexa humeri posterior; an ascending branch runs up the sulcus intertubercularis to the caput humeri.",
+      "id": "Cabang circumflexa yang lebih kecil dari a. axillaris pars ketiga. Arteri ini lewat di depan collum chirurgicum humeri dan beranastomosis dengan a. circumflexa humeri posterior; satu cabang ascendens naik di sulcus intertubercularis menuju caput humeri."
+    },
+    "facts": {
+      "from": "Arteria axillaris (pars tertia)",
+      "course": {
+        "en": "Runs laterally deep to m. coracobrachialis and the short head of m. biceps brachii, around the front of the collum chirurgicum humeri.",
+        "id": "Berjalan ke lateral di bawah m. coracobrachialis dan caput breve m. biceps brachii, melingkari bagian depan collum chirurgicum humeri."
+      },
+      "supplies": {
+        "en": "The shoulder joint, the caput humeri, the tendon of the long head of m. biceps brachii and m. deltoideus.",
+        "id": "Sendi bahu, caput humeri, tendo caput longum m. biceps brachii dan m. deltoideus."
+      },
+      "clinical": {
+        "en": "Damage to its ascending branch in fractures of the proximal humerus can contribute to avascular necrosis of the humeral head.",
+        "id": "Kerusakan cabang ascendens-nya pada fraktur humerus proksimal dapat berperan pada nekrosis avaskular caput humeri."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria axillaris", "A. axillaris"]
+    }
+  },
+  {
+    "key": "posterior-circumflex-humeral-artery",
+    "kind": "artery",
+    "la": "Arteria circumflexa humeri posterior",
+    "alt": ["A. circumflexa humeri posterior", "Arteria circumflexa posterior humeri"],
+    "en": "Posterior circumflex humeral artery",
+    "desc": {
+      "en": "Larger circumflex branch of the third part of a. axillaris. It passes backward through the quadrangular space with n. axillaris and winds around the collum chirurgicum humeri deep to m. deltoideus.",
+      "id": "Cabang circumflexa yang lebih besar dari a. axillaris pars ketiga. Arteri ini berjalan ke belakang melalui spatium quadrangulare bersama n. axillaris dan melingkari collum chirurgicum humeri di bawah m. deltoideus."
+    },
+    "facts": {
+      "from": "Arteria axillaris (pars tertia)",
+      "supplies": {
+        "en": "M. deltoideus, m. teres major and minor, the long head of m. triceps brachii and the shoulder joint.",
+        "id": "M. deltoideus, m. teres major dan minor, caput longum m. triceps brachii dan sendi bahu."
+      },
+      "clinical": {
+        "en": "Injured with n. axillaris in fractures of the collum chirurgicum humeri and compressed in the quadrangular space syndrome. It anastomoses with the anterior circumflex artery and with a. profunda brachii.",
+        "id": "Dapat cedera bersama n. axillaris pada fraktur collum chirurgicum humeri dan tertekan pada sindrom spatium quadrangulare. Arteri ini beranastomosis dengan a. circumflexa humeri anterior dan a. profunda brachii."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria axillaris", "A. axillaris"]
+    }
+  },
+  {
+    "key": "brachial-artery",
+    "kind": "artery",
+    "la": "Arteria brachialis",
+    "alt": ["A. brachialis"],
+    "en": "Brachial artery",
+    "desc": {
+      "en": "Main artery of the arm, from the lower border of m. teres major to the fossa cubiti, where it divides into a. radialis and a. ulnaris opposite the collum radii. It lies superficially along the medial side of the arm.",
+      "id": "Arteri utama lengan atas, dari tepi bawah m. teres major sampai fossa cubiti, tempat arteri bercabang menjadi a. radialis dan a. ulnaris setinggi collum radii. Letaknya superfisial di sepanjang sisi medial lengan atas."
+    },
+    "facts": {
+      "from": "Arteria axillaris",
+      "course": {
+        "en": "Descends in the sulcus bicipitalis medialis, first on m. triceps brachii and then on m. brachialis, covered only by skin and fascia. N. medianus lies lateral to it in the upper arm, crosses in front of it near the middle of the arm and lies medial to it at the elbow. In the fossa cubiti it lies medial to the tendon of m. biceps brachii and under the aponeurosis bicipitalis, which separates it from v. mediana cubiti.",
+        "id": "Turun di sulcus bicipitalis medialis, mula-mula di atas m. triceps brachii lalu di atas m. brachialis, hanya ditutupi kulit dan fascia. N. medianus terletak di lateralnya di lengan atas bagian atas, menyilang di depannya sekitar pertengahan lengan, dan di siku terletak di medialnya. Di fossa cubiti arteri terletak di medial tendo m. biceps brachii dan di bawah aponeurosis bicipitalis, yang memisahkannya dari v. mediana cubiti."
+      },
+      "branches": ["Arteria profunda brachii", "Arteriae nutriciae humeri", "Arteria collateralis ulnaris superior", "Arteria collateralis ulnaris inferior", "Rami musculares", "Arteria radialis", "Arteria ulnaris"],
+      "supplies": {
+        "en": "The anterior compartment of the arm, the posterior compartment through a. profunda brachii, the humerus and the elbow anastomosis.",
+        "id": "Kompartemen anterior lengan atas, kompartemen posterior melalui a. profunda brachii, humerus dan anastomosis siku."
+      },
+      "clinical": {
+        "en": "Blood pressure is measured by compressing it with a cuff and listening over it in the fossa cubiti, medial to the biceps tendon, where its pulse is also felt. It can be compressed against the humerus in the middle of the arm to control bleeding. In supracondylar fractures of the humerus it can be torn or compressed; prolonged ischaemia of the forearm flexors leads to Volkmann ischaemic contracture.",
+        "id": "Tekanan darah diukur dengan menekan arteri ini memakai manset dan mendengarkan bunyinya di fossa cubiti, di medial tendo biceps, tempat denyutnya juga dapat diraba. Arteri dapat ditekan ke humerus di pertengahan lengan untuk menghentikan perdarahan. Pada fraktur suprakondiler humerus arteri dapat robek atau tertekan; iskemia lama pada otot fleksor lengan bawah menimbulkan kontraktur iskemik Volkmann."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria axillaris", "A. axillaris"]
+    }
+  },
+  {
+    "key": "deep-brachial-artery",
+    "kind": "artery",
+    "la": "Arteria profunda brachii",
+    "alt": ["A. profunda brachii"],
+    "en": "Deep brachial artery",
+    "desc": {
+      "en": "Largest branch of a. brachialis. It runs with n. radialis in the sulcus nervi radialis and supplies the posterior compartment of the arm.",
+      "id": "Cabang terbesar a. brachialis. Arteri ini berjalan bersama n. radialis di sulcus nervi radialis dan memperdarahi kompartemen posterior lengan atas."
+    },
+    "facts": {
+      "from": "Arteria brachialis",
+      "course": {
+        "en": "Arises from the posteromedial side of a. brachialis just below m. teres major, passes with n. radialis through the triangular interval (below m. teres major, between the long head of m. triceps brachii and the humerus) and runs in the sulcus nervi radialis. It ends by dividing into a. collateralis media and a. collateralis radialis.",
+        "id": "Berasal dari sisi posteromedial a. brachialis sedikit di bawah m. teres major, berjalan bersama n. radialis melalui celah segitiga (di bawah m. teres major, di antara caput longum m. triceps brachii dan humerus) lalu di sulcus nervi radialis. Arteri berakhir dengan bercabang menjadi a. collateralis media dan a. collateralis radialis."
+      },
+      "branches": ["Ramus deltoideus", "Arteria nutricia humeri", "Arteria collateralis media", "Arteria collateralis radialis"],
+      "supplies": {
+        "en": "M. triceps brachii, the humerus and the elbow anastomosis.",
+        "id": "M. triceps brachii, humerus dan anastomosis siku."
+      },
+      "clinical": {
+        "en": "Runs with n. radialis in the sulcus nervi radialis, so both can be injured in fractures of the shaft of the humerus.",
+        "id": "Berjalan bersama n. radialis di sulcus nervi radialis sehingga keduanya dapat cedera pada fraktur corpus humeri."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria brachialis", "A. brachialis"]
+    }
+  },
+  {
+    "key": "middle-collateral-artery",
+    "kind": "artery",
+    "la": "Arteria collateralis media",
+    "alt": ["A. collateralis media"],
+    "en": "Middle collateral artery",
+    "desc": {
+      "en": "Posterior terminal branch of a. profunda brachii. It descends in the medial head of m. triceps brachii to the back of the lateral epicondyle, where it anastomoses with a. interossea recurrens.",
+      "id": "Cabang terminal posterior a. profunda brachii. Arteri ini turun di dalam caput mediale m. triceps brachii sampai belakang epicondylus lateralis, tempat arteri beranastomosis dengan a. interossea recurrens."
+    },
+    "facts": {
+      "from": "Arteria profunda brachii",
+      "supplies": {
+        "en": "M. triceps brachii and the posterior part of the elbow anastomosis.",
+        "id": "M. triceps brachii dan bagian posterior anastomosis siku."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria profunda brachii", "A. profunda brachii"]
+    }
+  },
+  {
+    "key": "radial-collateral-artery",
+    "kind": "artery",
+    "la": "Arteria collateralis radialis",
+    "alt": ["A. collateralis radialis"],
+    "en": "Radial collateral artery",
+    "desc": {
+      "en": "Anterior terminal branch of a. profunda brachii. It accompanies n. radialis through the septum intermusculare brachii laterale and descends in front of the lateral epicondyle to anastomose with a. recurrens radialis.",
+      "id": "Cabang terminal anterior a. profunda brachii. Arteri ini menyertai n. radialis menembus septum intermusculare brachii laterale lalu turun di depan epicondylus lateralis untuk beranastomosis dengan a. recurrens radialis."
+    },
+    "facts": {
+      "from": "Arteria profunda brachii",
+      "supplies": {
+        "en": "M. brachioradialis, m. brachialis and the lateral part of the elbow anastomosis.",
+        "id": "M. brachioradialis, m. brachialis dan bagian lateral anastomosis siku."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria profunda brachii", "A. profunda brachii"]
+    }
+  },
+  {
+    "key": "superior-ulnar-collateral-artery",
+    "kind": "artery",
+    "la": "Arteria collateralis ulnaris superior",
+    "alt": ["A. collateralis ulnaris superior"],
+    "en": "Superior ulnar collateral artery",
+    "desc": {
+      "en": "Branch of a. brachialis near the middle of the arm. It accompanies n. ulnaris through the septum intermusculare brachii mediale and passes behind the epicondylus medialis to anastomose with the posterior branch of a. recurrens ulnaris.",
+      "id": "Cabang a. brachialis sekitar pertengahan lengan atas. Arteri ini menyertai n. ulnaris menembus septum intermusculare brachii mediale dan lewat di belakang epicondylus medialis untuk beranastomosis dengan cabang posterior a. recurrens ulnaris."
+    },
+    "facts": {
+      "from": "Arteria brachialis",
+      "supplies": {
+        "en": "M. triceps brachii, n. ulnaris and the medial part of the elbow anastomosis.",
+        "id": "M. triceps brachii, n. ulnaris dan bagian medial anastomosis siku."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria brachialis", "A. brachialis"]
+    }
+  },
+  {
+    "key": "inferior-ulnar-collateral-artery",
+    "kind": "artery",
+    "la": "Arteria collateralis ulnaris inferior",
+    "alt": ["A. collateralis ulnaris inferior"],
+    "en": "Inferior ulnar collateral artery",
+    "desc": {
+      "en": "Branch of a. brachialis a few centimetres above the elbow. It runs medially and descends in front of the epicondylus medialis to anastomose with the anterior branch of a. recurrens ulnaris.",
+      "id": "Cabang a. brachialis beberapa sentimeter di atas siku. Arteri ini berjalan ke medial dan turun di depan epicondylus medialis untuk beranastomosis dengan cabang anterior a. recurrens ulnaris."
+    },
+    "facts": {
+      "from": "Arteria brachialis",
+      "supplies": {
+        "en": "The medial part of the elbow anastomosis.",
+        "id": "Bagian medial anastomosis siku."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria brachialis", "A. brachialis"]
+    }
+  },
+  {
+    "key": "radial-artery",
+    "kind": "artery",
+    "la": "Arteria radialis",
+    "alt": ["A. radialis"],
+    "en": "Radial artery",
+    "desc": {
+      "en": "Smaller terminal branch of a. brachialis. It runs along the lateral side of the forearm, where its pulse is felt at the wrist, and ends in the palm by forming most of the arcus palmaris profundus.",
+      "id": "Cabang terminal a. brachialis yang lebih kecil. Arteri ini berjalan di sisi lateral lengan bawah, denyutnya diraba di pergelangan tangan, dan berakhir di telapak tangan dengan membentuk sebagian besar arcus palmaris profundus."
+    },
+    "facts": {
+      "from": "Arteria brachialis",
+      "course": {
+        "en": "Begins in the fossa cubiti opposite the collum radii and descends under cover of m. brachioradialis. In the distal forearm it lies on the radius, covered only by skin and fascia, lateral to the tendon of m. flexor carpi radialis. It curves around the lateral side of the wrist deep to the tendons of m. abductor pollicis longus and m. extensor pollicis brevis, crosses the floor of the tabatiere anatomique (os scaphoideum and os trapezium), passes between the two heads of the first m. interosseus dorsalis into the palm, and then between the heads of m. adductor pollicis to form the arcus palmaris profundus with the deep palmar branch of a. ulnaris.",
+        "id": "Dimulai di fossa cubiti setinggi collum radii dan turun di bawah m. brachioradialis. Di lengan bawah distal arteri terletak di atas radius, hanya ditutupi kulit dan fascia, di lateral tendo m. flexor carpi radialis. Arteri melengkung di sisi lateral pergelangan tangan di bawah tendo m. abductor pollicis longus dan m. extensor pollicis brevis, menyilang dasar tabatiere anatomique (os scaphoideum dan os trapezium), masuk ke telapak tangan di antara dua caput m. interosseus dorsalis I, lalu di antara caput m. adductor pollicis membentuk arcus palmaris profundus bersama ramus palmaris profundus a. ulnaris."
+      },
+      "branches": ["Arteria recurrens radialis", "Rami musculares", "Ramus carpalis palmaris", "Ramus palmaris superficialis", "Ramus carpalis dorsalis", "Arteria metacarpalis dorsalis I", "Arteria princeps pollicis", "Arteria radialis indicis", "Arcus palmaris profundus"],
+      "supplies": {
+        "en": "The lateral forearm muscles, the radius, the wrist, the thumb and index finger, and the deep palm.",
+        "id": "Otot lengan bawah sisi lateral, radius, pergelangan tangan, ibu jari dan jari telunjuk, serta telapak tangan bagian dalam."
+      },
+      "continues": "Arcus palmaris profundus",
+      "clinical": {
+        "en": "The radial pulse is felt at the wrist lateral to the tendon of m. flexor carpi radialis and also in the tabatiere anatomique. It is the usual site for arterial blood gas sampling and for catheter access in coronary angiography; the Allen test first checks that a. ulnaris alone can supply the hand. It is also harvested as a conduit for coronary bypass.",
+        "id": "Denyut a. radialis diraba di pergelangan tangan di lateral tendo m. flexor carpi radialis dan juga di tabatiere anatomique. Arteri ini tempat yang lazim untuk pengambilan analisis gas darah dan akses kateter pada angiografi koroner; sebelumnya tes Allen memastikan a. ulnaris saja cukup memperdarahi tangan. Arteri ini juga diambil sebagai saluran untuk bypass koroner."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria brachialis", "A. brachialis"],
+      "continues": ["Arcus palmaris profundus", "Arcus volaris profundus"]
+    }
+  },
+  {
+    "key": "radial-recurrent-artery",
+    "kind": "artery",
+    "model": false,
+    "la": "Arteria recurrens radialis",
+    "alt": ["A. recurrens radialis"],
+    "en": "Radial recurrent artery",
+    "desc": {
+      "en": "First branch of a. radialis in the fossa cubiti. It ascends between m. brachioradialis and m. brachialis in front of the lateral epicondyle to anastomose with a. collateralis radialis.",
+      "id": "Cabang pertama a. radialis di fossa cubiti. Arteri ini naik di antara m. brachioradialis dan m. brachialis di depan epicondylus lateralis untuk beranastomosis dengan a. collateralis radialis."
+    },
+    "facts": {
+      "from": "Arteria radialis"
+    },
+    "quiz": {
+      "from": ["Arteria radialis", "A. radialis"]
+    }
+  },
+  {
+    "key": "palmar-carpal-branch-of-radial-artery",
+    "kind": "artery",
+    "la": "Ramus carpalis palmaris arteriae radialis",
+    "alt": ["R. carpalis palmaris a. radialis", "Ramus carpeus palmaris arteriae radialis"],
+    "en": "Palmar carpal branch of radial artery",
+    "desc": {
+      "en": "Small branch that arises at the lower border of m. pronator quadratus and joins the palmar carpal branch of a. ulnaris to form a network on the front of the carpal bones.",
+      "id": "Cabang kecil yang berasal di tepi bawah m. pronator quadratus dan bergabung dengan ramus carpalis palmaris a. ulnaris membentuk jaringan di depan ossa carpi."
+    },
+    "facts": {
+      "from": "Arteria radialis"
+    },
+    "quiz": {
+      "from": ["Arteria radialis", "A. radialis"]
+    }
+  },
+  {
+    "key": "ulnar-artery",
+    "kind": "artery",
+    "la": "Arteria ulnaris",
+    "alt": ["A. ulnaris"],
+    "en": "Ulnar artery",
+    "desc": {
+      "en": "Larger terminal branch of a. brachialis. It descends on the medial side of the forearm with n. ulnaris and continues in the palm as the main source of the arcus palmaris superficialis.",
+      "id": "Cabang terminal a. brachialis yang lebih besar. Arteri ini turun di sisi medial lengan bawah bersama n. ulnaris dan berlanjut di telapak tangan sebagai sumber utama arcus palmaris superficialis."
+    },
+    "facts": {
+      "from": "Arteria brachialis",
+      "course": {
+        "en": "From the fossa cubiti it passes downward and medially deep to m. pronator teres (deep head), m. flexor carpi radialis, m. palmaris longus and m. flexor digitorum superficialis, then descends on m. flexor digitorum profundus under cover of m. flexor carpi ulnaris, with n. ulnaris on its medial side. At the wrist it lies lateral to the tendon of m. flexor carpi ulnaris, passes superficial to the retinaculum musculorum flexorum lateral to the os pisiforme (canalis ulnaris), and divides into the ramus palmaris profundus and the arcus palmaris superficialis.",
+        "id": "Dari fossa cubiti arteri berjalan ke bawah dan medial di bawah m. pronator teres (caput profundum), m. flexor carpi radialis, m. palmaris longus dan m. flexor digitorum superficialis, lalu turun di atas m. flexor digitorum profundus di bawah m. flexor carpi ulnaris, dengan n. ulnaris di sisi medialnya. Di pergelangan tangan arteri terletak di lateral tendo m. flexor carpi ulnaris, lewat di atas retinaculum musculorum flexorum di lateral os pisiforme (canalis ulnaris), lalu bercabang menjadi ramus palmaris profundus dan arcus palmaris superficialis."
+      },
+      "branches": ["Arteria recurrens ulnaris", "Arteria interossea communis", "Rami musculares", "Ramus carpalis palmaris", "Ramus carpalis dorsalis", "Ramus palmaris profundus", "Arcus palmaris superficialis"],
+      "supplies": {
+        "en": "The medial and deep forearm muscles, the ulna, most of the palm and the digits.",
+        "id": "Otot lengan bawah sisi medial dan lapisan dalam, ulna, sebagian besar telapak tangan dan jari-jari."
+      },
+      "continues": "Arcus palmaris superficialis",
+      "clinical": {
+        "en": "The ulnar pulse is felt lateral to the tendon of m. flexor carpi ulnaris at the wrist. In the Allen test both wrist arteries are compressed, then a. ulnaris is released to see whether the hand refills. Repeated use of the hand as a hammer can damage it near the hamulus ossis hamati (hypothenar hammer syndrome).",
+        "id": "Denyut a. ulnaris diraba di lateral tendo m. flexor carpi ulnaris di pergelangan tangan. Pada tes Allen kedua arteri pergelangan ditekan, lalu a. ulnaris dilepas untuk melihat apakah tangan kembali merah. Penggunaan tangan berulang sebagai palu dapat merusak arteri ini dekat hamulus ossis hamati (hypothenar hammer syndrome)."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria brachialis", "A. brachialis"],
+      "continues": ["Arcus palmaris superficialis", "Arcus volaris superficialis"]
+    }
+  },
+  {
+    "key": "ulnar-recurrent-artery",
+    "kind": "artery",
+    "la": "Arteria recurrens ulnaris",
+    "alt": ["A. recurrens ulnaris", "Arteria recurrens ulnaris anterior", "Arteria recurrens ulnaris posterior"],
+    "en": "Ulnar recurrent artery",
+    "desc": {
+      "en": "Arises from a. ulnaris just below the elbow and has an anterior branch, which ascends in front of the epicondylus medialis to join a. collateralis ulnaris inferior, and a posterior branch, which passes behind the epicondylus medialis with n. ulnaris to join a. collateralis ulnaris superior.",
+      "id": "Berasal dari a. ulnaris sedikit di bawah siku dan memiliki cabang anterior yang naik di depan epicondylus medialis untuk bergabung dengan a. collateralis ulnaris inferior, serta cabang posterior yang lewat di belakang epicondylus medialis bersama n. ulnaris untuk bergabung dengan a. collateralis ulnaris superior."
+    },
+    "facts": {
+      "from": "Arteria ulnaris",
+      "branches": ["Ramus anterior", "Ramus posterior"],
+      "supplies": {
+        "en": "The medial part of the elbow anastomosis and the muscles arising from the epicondylus medialis.",
+        "id": "Bagian medial anastomosis siku dan otot-otot yang berorigo di epicondylus medialis."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria ulnaris", "A. ulnaris"]
+    }
+  },
+  {
+    "key": "common-interosseous-artery",
+    "kind": "artery",
+    "la": "Arteria interossea communis",
+    "alt": ["A. interossea communis"],
+    "en": "Common interosseous artery",
+    "desc": {
+      "en": "Short trunk from a. ulnaris in the distal part of the fossa cubiti. It reaches the upper border of the membrana interossea and divides into a. interossea anterior and a. interossea posterior.",
+      "id": "Batang pendek dari a. ulnaris di bagian distal fossa cubiti. Arteri ini mencapai tepi atas membrana interossea lalu bercabang menjadi a. interossea anterior dan a. interossea posterior."
+    },
+    "facts": {
+      "from": "Arteria ulnaris",
+      "branches": ["Arteria interossea anterior", "Arteria interossea posterior"],
+      "supplies": {
+        "en": "The deep muscles of both forearm compartments, the radius and the ulna.",
+        "id": "Otot lapisan dalam kedua kompartemen lengan bawah, radius dan ulna."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria ulnaris", "A. ulnaris"]
+    }
+  },
+  {
+    "key": "anterior-interosseous-artery",
+    "kind": "artery",
+    "model": false,
+    "la": "Arteria interossea anterior",
+    "alt": ["A. interossea anterior"],
+    "en": "Anterior interosseous artery",
+    "desc": {
+      "en": "Branch of a. interossea communis that descends on the front of the membrana interossea with n. interosseus antebrachii anterior and pierces the membrane above m. pronator quadratus to join the rete carpale dorsale.",
+      "id": "Cabang a. interossea communis yang turun di depan membrana interossea bersama n. interosseus antebrachii anterior, lalu menembus membrana di atas m. pronator quadratus untuk bergabung dengan rete carpale dorsale."
+    },
+    "facts": {
+      "from": "Arteria interossea communis",
+      "course": {
+        "en": "Runs between m. flexor digitorum profundus and m. flexor pollicis longus on the anterior surface of membrana interossea antebrachii.",
+        "id": "Berjalan di antara m. flexor digitorum profundus dan m. flexor pollicis longus di permukaan anterior membrana interossea antebrachii."
+      },
+      "branches": ["Arteria comitans nervi mediani", "Rami musculares", "Arteriae nutriciae radii et ulnae"],
+      "supplies": {
+        "en": "The deep flexor muscles, the radius and ulna, and through its perforating branches some deep extensors.",
+        "id": "Otot fleksor lapisan dalam, radius dan ulna, dan melalui cabang perforansnya sebagian otot ekstensor lapisan dalam."
+      },
+      "clinical": {
+        "en": "Its branch a. comitans nervi mediani may persist as a large median artery that runs with n. medianus through the canalis carpi.",
+        "id": "Cabangnya, a. comitans nervi mediani, dapat menetap sebagai a. mediana yang besar dan berjalan bersama n. medianus melalui canalis carpi."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria interossea communis", "A. interossea communis"]
+    }
+  },
+  {
+    "key": "posterior-interosseous-artery",
+    "kind": "artery",
+    "la": "Arteria interossea posterior",
+    "alt": ["A. interossea posterior"],
+    "en": "Posterior interosseous artery",
+    "desc": {
+      "en": "Branch of a. interossea communis that passes backward above the upper border of the membrana interossea into the posterior compartment and descends between the superficial and deep extensors with n. interosseus antebrachii posterior.",
+      "id": "Cabang a. interossea communis yang berjalan ke belakang di atas tepi atas membrana interossea masuk ke kompartemen posterior, lalu turun di antara otot ekstensor superfisial dan profunda bersama n. interosseus antebrachii posterior."
+    },
+    "facts": {
+      "from": "Arteria interossea communis",
+      "branches": ["Arteria interossea recurrens", "Rami musculares"],
+      "supplies": {
+        "en": "The extensor muscles of the forearm; it ends at the wrist by joining the anterior interosseous artery and the rete carpale dorsale.",
+        "id": "Otot ekstensor lengan bawah; berakhir di pergelangan tangan dengan bergabung dengan a. interossea anterior dan rete carpale dorsale."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria interossea communis", "A. interossea communis"]
+    }
+  },
+  {
+    "key": "recurrent-interosseous-artery",
+    "kind": "artery",
+    "la": "Arteria interossea recurrens",
+    "alt": ["A. interossea recurrens"],
+    "en": "Recurrent interosseous artery",
+    "desc": {
+      "en": "Branch of a. interossea posterior that ascends between m. supinator and m. anconeus to the interval between the epicondylus lateralis and the olecranon, where it anastomoses with a. collateralis media.",
+      "id": "Cabang a. interossea posterior yang naik di antara m. supinator dan m. anconeus menuju celah antara epicondylus lateralis dan olecranon, tempat arteri beranastomosis dengan a. collateralis media."
+    },
+    "facts": {
+      "from": "Arteria interossea posterior",
+      "supplies": {
+        "en": "The posterior part of the elbow anastomosis.",
+        "id": "Bagian posterior anastomosis siku."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria interossea posterior", "A. interossea posterior"]
+    }
+  },
+  {
+    "key": "dorsal-carpal-branch-of-ulnar-artery",
+    "kind": "artery",
+    "la": "Ramus carpalis dorsalis arteriae ulnaris",
+    "alt": ["R. carpalis dorsalis a. ulnaris", "Ramus carpeus dorsalis arteriae ulnaris"],
+    "en": "Dorsal carpal branch of ulnar artery",
+    "desc": {
+      "en": "Arises just above the os pisiforme, winds backward deep to the tendon of m. flexor carpi ulnaris and joins the rete carpale dorsale.",
+      "id": "Berasal sedikit di atas os pisiforme, melengkung ke belakang di bawah tendo m. flexor carpi ulnaris lalu bergabung dengan rete carpale dorsale."
+    },
+    "facts": {
+      "from": "Arteria ulnaris"
+    },
+    "quiz": {
+      "from": ["Arteria ulnaris", "A. ulnaris"]
+    }
+  },
+  {
+    "key": "dorsal-carpal-anastomosis",
+    "kind": "artery",
+    "la": "Rete carpale dorsale",
+    "alt": ["Rete carpi dorsale", "Rete dorsale carpi", "Arcus carpalis dorsalis"],
+    "en": "Dorsal carpal anastomosis",
+    "desc": {
+      "en": "Arterial network on the dorsal surface of the carpal bones, formed by the dorsal carpal branches of a. radialis and a. ulnaris and joined by the ends of the interosseous arteries. It gives the second to fourth aa. metacarpales dorsales.",
+      "id": "Jaringan arteri di permukaan dorsal ossa carpi, dibentuk oleh ramus carpalis dorsalis a. radialis dan a. ulnaris dan diperkuat ujung-ujung aa. interosseae. Rete ini memberikan aa. metacarpales dorsales II-IV."
+    },
+    "facts": {
+      "from": "Ramus carpalis dorsalis arteriae radialis et ramus carpalis dorsalis arteriae ulnaris",
+      "branches": ["Arteriae metacarpales dorsales"],
+      "supplies": {
+        "en": "The carpal bones and joints and the dorsum of the hand and fingers.",
+        "id": "Ossa carpi dan sendi-sendinya serta punggung tangan dan jari."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria radialis et arteria ulnaris", "Ramus carpalis dorsalis a. radialis et a. ulnaris"]
+    }
+  },
+  {
+    "key": "dorsal-metacarpal-arteries",
+    "kind": "artery",
+    "la": "Arteriae metacarpales dorsales",
+    "alt": ["Aa. metacarpales dorsales", "Arteriae metacarpeae dorsales"],
+    "en": "Dorsal metacarpal arteries",
+    "desc": {
+      "en": "Run distally on the dorsal interossei; the first comes directly from a. radialis and the second to fourth from the rete carpale dorsale. Each divides at the web into two aa. digitales dorsales and receives perforating branches from the palmar arteries.",
+      "id": "Berjalan ke distal di atas mm. interossei dorsales; yang pertama berasal langsung dari a. radialis dan yang kedua sampai keempat dari rete carpale dorsale. Masing-masing bercabang di sela jari menjadi dua aa. digitales dorsales dan menerima cabang perforans dari arteri-arteri palmar."
+    },
+    "facts": {
+      "from": "Rete carpale dorsale (I: arteria radialis)",
+      "branches": ["Arteriae digitales dorsales manus"]
+    },
+    "quiz": {
+      "from": ["Rete carpale dorsale", "Rete carpi dorsale", "Arteria radialis"]
+    }
+  },
+  {
+    "key": "dorsal-digital-arteries-of-hand",
+    "kind": "artery",
+    "la": "Arteriae digitales dorsales manus",
+    "alt": ["Aa. digitales dorsales manus", "Arteriae digitales dorsales"],
+    "en": "Dorsal digital arteries of hand",
+    "desc": {
+      "en": "Branches of the dorsal metacarpal arteries that run along the dorsal sides of the fingers and supply the dorsal skin of the proximal parts of the digits; the distal dorsal skin is supplied by the palmar digital arteries.",
+      "id": "Cabang aa. metacarpales dorsales yang berjalan di sisi dorsal jari-jari dan memperdarahi kulit dorsal bagian proksimal jari; kulit dorsal bagian distal diperdarahi aa. digitales palmares."
+    },
+    "facts": {
+      "from": "Arteriae metacarpales dorsales"
+    },
+    "quiz": {
+      "from": ["Arteriae metacarpales dorsales", "Aa. metacarpales dorsales"]
+    }
+  },
+  {
+    "key": "superficial-palmar-arch",
+    "kind": "artery",
+    "la": "Arcus palmaris superficialis",
+    "alt": ["Arcus volaris superficialis"],
+    "en": "Superficial palmar arch",
+    "desc": {
+      "en": "Arterial arch in the palm formed mainly by the end of a. ulnaris and usually completed laterally by the ramus palmaris superficialis of a. radialis. It lies just under the aponeurosis palmaris, superficial to the long flexor tendons and the digital branches of n. medianus.",
+      "id": "Lengkung arteri di telapak tangan yang dibentuk terutama oleh ujung a. ulnaris dan biasanya dilengkapi di lateral oleh ramus palmaris superficialis a. radialis. Letaknya tepat di bawah aponeurosis palmaris, di superfisial tendo-tendo fleksor panjang dan cabang digital n. medianus."
+    },
+    "facts": {
+      "from": "Arteria ulnaris (et ramus palmaris superficialis arteriae radialis)",
+      "course": {
+        "en": "Curves across the palm with its convexity distal, at about the level of the distal border of the fully extended thumb, distal to the arcus palmaris profundus.",
+        "id": "Melengkung melintasi telapak tangan dengan cembungnya ke distal, kira-kira setinggi tepi distal ibu jari yang diekstensikan penuh, di distal arcus palmaris profundus."
+      },
+      "branches": ["Arteriae digitales palmares communes", "Arteria digitalis palmaris propria (latus ulnare digiti minimi)"],
+      "supplies": {
+        "en": "Most of the palm and, through the digital arteries, the medial three and a half digits and part of the index finger.",
+        "id": "Sebagian besar telapak tangan dan, melalui arteri digital, tiga setengah jari medial serta sebagian jari telunjuk."
+      },
+      "clinical": {
+        "en": "Answers the module question on the formation of the arcus volaris superficialis: a. ulnaris plus the ramus palmaris superficialis of a. radialis. Cuts in the palm that open the arch bleed from both ends.",
+        "id": "Jawaban soal modul tentang pembentuk arcus volaris superficialis: a. ulnaris ditambah ramus palmaris superficialis a. radialis. Luka di telapak tangan yang mengenai lengkung ini berdarah dari kedua ujungnya."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria ulnaris", "A. ulnaris"]
+    }
+  },
+  {
+    "key": "common-palmar-digital-arteries",
+    "kind": "artery",
+    "la": "Arteriae digitales palmares communes",
+    "alt": ["Aa. digitales palmares communes"],
+    "en": "Common palmar digital arteries",
+    "desc": {
+      "en": "Three arteries from the arcus palmaris superficialis that run distally on the lumbricals, receive the palmar metacarpal arteries and divide near the webs into two aa. digitales palmares propriae.",
+      "id": "Tiga arteri dari arcus palmaris superficialis yang berjalan ke distal di atas mm. lumbricales, menerima aa. metacarpales palmares, lalu dekat sela jari bercabang menjadi dua aa. digitales palmares propriae."
+    },
+    "facts": {
+      "from": "Arcus palmaris superficialis",
+      "branches": ["Arteriae digitales palmares propriae"]
+    },
+    "quiz": {
+      "from": ["Arcus palmaris superficialis", "Arcus volaris superficialis"]
+    }
+  },
+  {
+    "key": "proper-palmar-digital-arteries",
+    "kind": "artery",
+    "la": "Arteriae digitales palmares propriae",
+    "alt": ["Aa. digitales palmares propriae"],
+    "en": "Proper palmar digital arteries",
+    "desc": {
+      "en": "Run along the sides of the fingers with the proper palmar digital nerves and supply the fingers, including the dorsal skin and nail beds of the distal phalanges.",
+      "id": "Berjalan di sisi jari-jari bersama nn. digitales palmares proprii dan memperdarahi jari, termasuk kulit dorsal dan dasar kuku phalanx distalis."
+    },
+    "facts": {
+      "from": "Arteriae digitales palmares communes"
+    },
+    "quiz": {
+      "from": ["Arteriae digitales palmares communes", "Aa. digitales palmares communes"]
+    }
+  },
+  {
+    "key": "deep-palmar-arch",
+    "kind": "artery",
+    "la": "Arcus palmaris profundus",
+    "alt": ["Arcus volaris profundus", "Arcus volaris profunda"],
+    "en": "Deep palmar arch",
+    "desc": {
+      "en": "Arterial arch formed mainly by the end of a. radialis and completed medially by the ramus palmaris profundus of a. ulnaris. It lies on the bases of the metacarpals and the interossei, deep to the long flexor tendons and proximal to the superficial arch, with the ramus profundus of n. ulnaris in its concavity.",
+      "id": "Lengkung arteri yang dibentuk terutama oleh ujung a. radialis dan dilengkapi di medial oleh ramus palmaris profundus a. ulnaris. Letaknya di atas basis ossa metacarpi dan mm. interossei, di bawah tendo-tendo fleksor panjang dan di proksimal arcus superficialis, dengan ramus profundus n. ulnaris di dalam lengkungnya."
+    },
+    "facts": {
+      "from": "Arteria radialis (et ramus palmaris profundus arteriae ulnaris)",
+      "branches": ["Arteriae metacarpales palmares", "Rami perforantes", "Rami recurrentes (ad rete carpale palmare)"],
+      "supplies": {
+        "en": "The interossei, the metacarpals and, through the palmar metacarpal arteries, the digits.",
+        "id": "Mm. interossei, ossa metacarpi dan, melalui aa. metacarpales palmares, jari-jari."
+      },
+      "clinical": {
+        "en": "Answers the module question on the formation of the arcus volaris profundus: a. radialis plus the ramus palmaris profundus of a. ulnaris.",
+        "id": "Jawaban soal modul tentang pembentuk arcus volaris profundus: a. radialis ditambah ramus palmaris profundus a. ulnaris."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria radialis", "A. radialis"]
+    }
+  },
+  {
+    "key": "palmar-metacarpal-arteries",
+    "kind": "artery",
+    "la": "Arteriae metacarpales palmares",
+    "alt": ["Aa. metacarpales palmares", "Arteriae metacarpeae palmares"],
+    "en": "Palmar metacarpal arteries",
+    "desc": {
+      "en": "Three arteries from the arcus palmaris profundus that run distally on the interossei and join the common palmar digital arteries near the webs; they give perforating branches to the dorsal metacarpal arteries.",
+      "id": "Tiga arteri dari arcus palmaris profundus yang berjalan ke distal di atas mm. interossei dan bergabung dengan aa. digitales palmares communes dekat sela jari; arteri ini memberikan cabang perforans ke aa. metacarpales dorsales."
+    },
+    "facts": {
+      "from": "Arcus palmaris profundus"
+    },
+    "quiz": {
+      "from": ["Arcus palmaris profundus", "Arcus volaris profundus"]
+    }
+  },
+  {
+    "key": "princeps-pollicis-artery",
+    "kind": "artery",
+    "model": false,
+    "la": "Arteria princeps pollicis",
+    "alt": ["A. princeps pollicis"],
+    "en": "Princeps pollicis artery",
+    "desc": {
+      "en": "Arises from a. radialis as it enters the palm, descends along the first metacarpal and divides at the base of the proximal phalanx into two branches along the sides of the thumb.",
+      "id": "Berasal dari a. radialis saat memasuki telapak tangan, turun di sepanjang os metacarpi I dan bercabang di basis phalanx proximalis menjadi dua cabang di kedua sisi ibu jari."
+    },
+    "facts": {
+      "from": "Arteria radialis"
+    },
+    "quiz": {
+      "from": ["Arteria radialis", "A. radialis"]
+    }
+  }
+]

@@ -1,0 +1,892 @@
+[
+  {
+    "key": "brachial-plexus",
+    "kind": "plexus-part",
+    "model": false,
+    "la": "Plexus brachialis",
+    "alt": ["Pl. brachialis"],
+    "en": "Brachial plexus",
+    "desc": {
+      "en": "Network of nerves formed by the anterior rami of C5-T1 that supplies the upper limb. It is arranged in roots, trunks, divisions and cords; the roots and trunks lie in the posterior triangle of the neck and the cords lie in the axilla around a. axillaris.",
+      "id": "Anyaman saraf yang dibentuk oleh rami anteriores n. spinalis C5-T1 dan mempersarafi ekstremitas superior. Susunannya terdiri atas radices, trunci, divisiones dan fasciculi. Radices dan trunci terletak di trigonum colli posterior, sedangkan fasciculi berada di axilla mengelilingi a. axillaris."
+    },
+    "facts": {
+      "roots": "C5-T1",
+      "from": "Rami anteriores nervorum spinalium C5-T1",
+      "course": {
+        "en": "The roots emerge between m. scalenus anterior and m. scalenus medius together with a. subclavia. Above the clavicle they unite into three trunks: superior (C5-C6), middle (C7) and inferior (C8-T1). Behind the clavicle each trunk splits into an anterior and a posterior division. In the axilla the divisions form three cords, named by their position around the second part of a. axillaris: the anterior divisions of the superior and middle trunks form the lateral cord, the anterior division of the inferior trunk forms the medial cord, and all three posterior divisions form the posterior cord. Anterior divisions carry fibres for the flexor (anterior) compartments, posterior divisions for the extensor (posterior) compartments.",
+        "id": "Radices keluar di antara m. scalenus anterior dan m. scalenus medius bersama a. subclavia. Di atas clavicula radices bergabung menjadi tiga truncus: superior (C5-C6), medius (C7) dan inferior (C8-T1). Di belakang clavicula setiap truncus bercabang menjadi divisio anterior dan divisio posterior. Di axilla divisiones membentuk tiga fasciculus yang dinamai menurut letaknya terhadap a. axillaris pars kedua: divisio anterior truncus superior dan medius membentuk fasciculus lateralis, divisio anterior truncus inferior membentuk fasciculus medialis, dan ketiga divisio posterior membentuk fasciculus posterior. Divisio anterior membawa serabut untuk kompartemen fleksor (anterior), divisio posterior untuk kompartemen ekstensor (posterior)."
+      },
+      "branches": ["Nervus dorsalis scapulae", "Nervus thoracicus longus", "Nervus subclavius", "Nervus suprascapularis", "Nervus pectoralis lateralis", "Nervus musculocutaneus", "Nervus pectoralis medialis", "Nervus cutaneus brachii medialis", "Nervus cutaneus antebrachii medialis", "Nervus ulnaris", "Nervus medianus", "Nervus subscapularis superior", "Nervus thoracodorsalis", "Nervus subscapularis inferior", "Nervus axillaris", "Nervus radialis"],
+      "sensory": {
+        "en": "Nearly all the skin of the upper limb. The skin over the top of the shoulder comes from the nn. supraclaviculares (C3-C4) and part of the upper medial arm from n. intercostobrachialis (T2).",
+        "id": "Hampir seluruh kulit ekstremitas superior. Kulit di atas puncak bahu dipersarafi nn. supraclaviculares (C3-C4) dan sebagian kulit medial lengan atas bagian proksimal oleh n. intercostobrachialis (T2)."
+      },
+      "lesion": {
+        "en": "Upper plexus injury (C5-C6, Erb-Duchenne palsy) follows forceful widening of the angle between head and shoulder, as in a difficult delivery or a fall on the shoulder: the limb hangs adducted and medially rotated with the elbow extended and the forearm pronated (waiter's tip position). Lower plexus injury (C8-T1, Klumpke palsy) follows a forceful upward pull of the arm and paralyses the small muscles of the hand (claw hand), sometimes with Horner syndrome when the T1 root is torn.",
+        "id": "Cedera plexus bagian atas (C5-C6, Erb-Duchenne palsy) terjadi bila sudut antara kepala dan bahu terbuka secara paksa, misalnya pada persalinan sulit atau jatuh dengan bahu membentur: lengan tergantung dalam posisi adduksi dan rotasi medial, siku ekstensi dan lengan bawah pronasi (waiter's tip position). Cedera plexus bagian bawah (C8-T1, Klumpke palsy) terjadi akibat tarikan lengan ke atas secara paksa dan melumpuhkan otot-otot kecil tangan (claw hand), kadang disertai sindrom Horner bila radix T1 robek."
+      }
+    },
+    "quiz": {
+      "roots": ["C5-T1", "C5, C6, C7, C8, T1", "C5-C8, T1"],
+      "from": ["Rami anteriores nervorum spinalium C5-T1", "rami anteriores C5-T1", "ramus anterior C5-T1"]
+    }
+  },
+  {
+    "key": "roots-of-brachial-plexus",
+    "kind": "plexus-part",
+    "la": "Radices plexus brachialis",
+    "alt": ["Radix plexus brachialis", "Radices", "Rami anteriores C5-T1"],
+    "en": "Roots of brachial plexus",
+    "desc": {
+      "en": "The five roots of the brachial plexus are the anterior rami of spinal nerves C5, C6, C7, C8 and T1. They pass between m. scalenus anterior and m. scalenus medius and give off n. dorsalis scapulae and n. thoracicus longus.",
+      "id": "Lima radix plexus brachialis adalah rami anteriores n. spinalis C5, C6, C7, C8 dan T1. Radices berjalan di antara m. scalenus anterior dan m. scalenus medius, lalu memberikan cabang n. dorsalis scapulae dan n. thoracicus longus."
+    },
+    "facts": {
+      "roots": "C5-T1",
+      "from": "Rami anteriores nervorum spinalium C5-T1",
+      "course": {
+        "en": "Each root leaves its intervertebral foramen and enters the gap between m. scalenus anterior and m. scalenus medius together with a. subclavia. C5 and C6 unite to form the superior trunk, C7 continues as the middle trunk, and C8 and T1 unite to form the inferior trunk, which lies on the first rib behind a. subclavia. The roots also give small twigs to the scalene muscles and m. longus colli, and C5 sends fibres to n. phrenicus.",
+        "id": "Setiap radix keluar dari foramen intervertebrale dan masuk ke celah antara m. scalenus anterior dan m. scalenus medius bersama a. subclavia. C5 dan C6 bergabung membentuk truncus superior, C7 berlanjut sebagai truncus medius, sedangkan C8 dan T1 bergabung membentuk truncus inferior yang terletak di atas costa I di belakang a. subclavia. Radices juga memberi cabang kecil untuk mm. scaleni dan m. longus colli, dan C5 mengirim serabut ke n. phrenicus."
+      },
+      "branches": ["Nervus dorsalis scapulae", "Nervus thoracicus longus"],
+      "lesion": {
+        "en": "In severe traction injuries the roots can be torn out of the spinal cord (root avulsion). Avulsion of T1 interrupts the sympathetic outflow to the head and gives Horner syndrome (ptosis, miosis, anhidrosis). Paralysis of m. serratus anterior and the rhomboids points to a lesion at root level, because their nerves arise from the roots.",
+        "id": "Pada cedera tarikan berat, radices dapat tercabut dari medulla spinalis (avulsi radix). Avulsi T1 memutus jalur simpatis ke kepala sehingga timbul sindrom Horner (ptosis, miosis, anhidrosis). Kelumpuhan m. serratus anterior dan mm. rhomboidei menunjukkan lesi setinggi radix, karena saraf kedua otot ini berasal langsung dari radices."
+      }
+    },
+    "quiz": {
+      "roots": ["C5-T1", "C5, C6, C7, C8, T1", "C5-C8, T1"],
+      "from": ["Rami anteriores nervorum spinalium C5-T1", "rami anteriores C5-T1", "ramus anterior C5-T1"]
+    }
+  },
+  {
+    "key": "superior-trunk-of-brachial-plexus",
+    "kind": "plexus-part",
+    "la": "Truncus superior plexus brachialis",
+    "alt": ["Truncus superior", "Tr. superior plexus brachialis", "Tr. superior"],
+    "en": "Superior trunk of brachial plexus",
+    "desc": {
+      "en": "Formed by the union of the C5 and C6 roots at the lateral edge of the scalene muscles. It gives n. suprascapularis and n. subclavius, then splits into an anterior and a posterior division.",
+      "id": "Dibentuk oleh gabungan radix C5 dan C6 di tepi lateral mm. scaleni. Truncus ini memberikan n. suprascapularis dan n. subclavius, lalu bercabang menjadi divisio anterior dan divisio posterior."
+    },
+    "facts": {
+      "roots": "C5-C6",
+      "from": "Radices C5 et C6",
+      "course": {
+        "en": "Lies in the posterior triangle of the neck, above the middle and inferior trunks and above the third part of a. subclavia. The point where C5 and C6 meet (Erb's point) lies about 2-3 cm above the clavicle, at the posterior border of m. sternocleidomastoideus.",
+        "id": "Terletak di trigonum colli posterior, di atas truncus medius dan inferior serta di atas a. subclavia pars ketiga. Titik pertemuan C5 dan C6 (titik Erb) berada sekitar 2-3 cm di atas clavicula, di tepi posterior m. sternocleidomastoideus."
+      },
+      "branches": ["Nervus suprascapularis", "Nervus subclavius", "Divisio anterior trunci superioris", "Divisio posterior trunci superioris"],
+      "lesion": {
+        "en": "Erb-Duchenne palsy (C5-C6): stretching of the superior trunk in shoulder dystocia at birth or a fall on the shoulder. M. deltoideus, m. supraspinatus, m. infraspinatus, m. biceps brachii, m. brachialis and m. brachioradialis are weak, so the limb hangs adducted and medially rotated, with the elbow extended and the forearm pronated (waiter's tip position). Sensation is reduced on the lateral arm and forearm.",
+        "id": "Erb-Duchenne palsy (C5-C6): truncus superior teregang pada distosia bahu saat persalinan atau jatuh dengan bahu membentur. M. deltoideus, m. supraspinatus, m. infraspinatus, m. biceps brachii, m. brachialis dan m. brachioradialis lemah sehingga lengan tergantung dalam posisi adduksi dan rotasi medial, siku ekstensi dan lengan bawah pronasi (waiter's tip position). Sensasi berkurang di sisi lateral lengan atas dan lengan bawah."
+      }
+    },
+    "quiz": {
+      "roots": ["C5-C6", "C5, C6"],
+      "from": ["Radices C5 et C6", "radix C5 dan C6", "C5 dan C6"]
+    }
+  },
+  {
+    "key": "middle-trunk-of-brachial-plexus",
+    "kind": "plexus-part",
+    "la": "Truncus medius plexus brachialis",
+    "alt": ["Truncus medius", "Tr. medius plexus brachialis", "Tr. medius"],
+    "en": "Middle trunk of brachial plexus",
+    "desc": {
+      "en": "Continuation of the C7 root alone. It has no named branches of its own and divides behind the clavicle into an anterior division (to the lateral cord) and a posterior division (to the posterior cord).",
+      "id": "Lanjutan radix C7 saja. Truncus ini tidak memiliki cabang bernama sendiri dan di belakang clavicula terbagi menjadi divisio anterior (ke fasciculus lateralis) dan divisio posterior (ke fasciculus posterior)."
+    },
+    "facts": {
+      "roots": "C7",
+      "from": "Radix C7",
+      "course": {
+        "en": "Lies between the superior and inferior trunks in the posterior triangle of the neck, behind and above a. subclavia.",
+        "id": "Terletak di antara truncus superior dan truncus inferior di trigonum colli posterior, di belakang dan di atas a. subclavia."
+      },
+      "branches": ["Divisio anterior trunci medii", "Divisio posterior trunci medii"],
+      "lesion": {
+        "en": "Isolated injury is uncommon. Loss of C7 weakens m. triceps brachii and the wrist and finger extensors, and the triceps reflex is reduced.",
+        "id": "Cedera tersendiri jarang terjadi. Hilangnya C7 melemahkan m. triceps brachii serta ekstensor pergelangan tangan dan jari, dan refleks triceps menurun."
+      }
+    },
+    "quiz": {
+      "roots": ["C7"],
+      "from": ["Radix C7", "C7"]
+    }
+  },
+  {
+    "key": "inferior-trunk-of-brachial-plexus",
+    "kind": "plexus-part",
+    "la": "Truncus inferior plexus brachialis",
+    "alt": ["Truncus inferior", "Tr. inferior plexus brachialis", "Tr. inferior"],
+    "en": "Inferior trunk of brachial plexus",
+    "desc": {
+      "en": "Formed by the union of the C8 and T1 roots. It lies on the first rib behind a. subclavia, where a cervical rib or an apical lung tumour can compress it.",
+      "id": "Dibentuk oleh gabungan radix C8 dan T1. Truncus ini terletak di atas costa I di belakang a. subclavia, tempat costa cervicalis atau tumor apex paru dapat menekannya."
+    },
+    "facts": {
+      "roots": "C8-T1",
+      "from": "Radices C8 et T1",
+      "course": {
+        "en": "The T1 root ascends over the neck of the first rib to join C8. The trunk runs laterally on the upper surface of the first rib, behind a. subclavia, and divides behind the clavicle into an anterior division (which becomes the medial cord) and a posterior division (to the posterior cord).",
+        "id": "Radix T1 naik melewati collum costae I untuk bergabung dengan C8. Truncus berjalan ke lateral di permukaan atas costa I, di belakang a. subclavia, lalu di belakang clavicula terbagi menjadi divisio anterior (yang menjadi fasciculus medialis) dan divisio posterior (ke fasciculus posterior)."
+      },
+      "branches": ["Divisio anterior trunci inferioris", "Divisio posterior trunci inferioris"],
+      "lesion": {
+        "en": "Klumpke palsy (C8-T1): forceful upward pull of the arm (grasping something while falling, breech delivery with the arm above the head), or compression by a cervical rib or a Pancoast tumour (thoracic outlet syndrome). The intrinsic hand muscles are paralysed, giving a claw hand, with sensory loss along the medial forearm and hand. Horner syndrome appears when the T1 sympathetic fibres are damaged.",
+        "id": "Klumpke palsy (C8-T1): tarikan lengan ke atas secara paksa (berpegangan saat jatuh, persalinan sungsang dengan lengan di atas kepala), atau penekanan oleh costa cervicalis atau tumor Pancoast (thoracic outlet syndrome). Otot intrinsik tangan lumpuh sehingga terbentuk claw hand, disertai gangguan sensorik di sisi medial lengan bawah dan tangan. Sindrom Horner muncul bila serabut simpatis T1 ikut rusak."
+      }
+    },
+    "quiz": {
+      "roots": ["C8-T1", "C8, T1"],
+      "from": ["Radices C8 et T1", "radix C8 dan T1", "C8 dan T1"]
+    }
+  },
+  {
+    "key": "anterior-division-of-superior-trunk-of-brachial-plexus",
+    "kind": "plexus-part",
+    "la": "Divisio anterior trunci superioris plexus brachialis",
+    "alt": ["Divisio anterior trunci superioris", "Div. anterior trunci superioris"],
+    "en": "Anterior division of superior trunk of brachial plexus",
+    "desc": {
+      "en": "Anterior branch of the superior trunk, formed behind the clavicle. It joins the anterior division of the middle trunk to form the lateral cord and carries C5-C6 fibres for the flexor compartments.",
+      "id": "Cabang anterior truncus superior yang terbentuk di belakang clavicula. Divisio ini bergabung dengan divisio anterior truncus medius membentuk fasciculus lateralis dan membawa serabut C5-C6 untuk kompartemen fleksor."
+    },
+    "facts": {
+      "roots": "C5-C6",
+      "from": "Truncus superior plexus brachialis",
+      "course": {
+        "en": "Passes behind the middle third of the clavicle into the axilla and unites with the anterior division of the middle trunk lateral to a. axillaris.",
+        "id": "Berjalan di belakang sepertiga tengah clavicula masuk ke axilla dan bersatu dengan divisio anterior truncus medius di sebelah lateral a. axillaris."
+      },
+      "branches": ["Fasciculus lateralis plexus brachialis"]
+    },
+    "quiz": {
+      "roots": ["C5-C6", "C5, C6"],
+      "from": ["Truncus superior plexus brachialis", "Truncus superior", "Tr. superior"]
+    }
+  },
+  {
+    "key": "anterior-division-of-middle-trunk-of-brachial-plexus",
+    "kind": "plexus-part",
+    "la": "Divisio anterior trunci medii plexus brachialis",
+    "alt": ["Divisio anterior trunci medii", "Div. anterior trunci medii"],
+    "en": "Anterior division of middle trunk of brachial plexus",
+    "desc": {
+      "en": "Anterior branch of the middle trunk (C7). It joins the anterior division of the superior trunk to form the lateral cord.",
+      "id": "Cabang anterior truncus medius (C7). Divisio ini bergabung dengan divisio anterior truncus superior membentuk fasciculus lateralis."
+    },
+    "facts": {
+      "roots": "C7",
+      "from": "Truncus medius plexus brachialis",
+      "course": {
+        "en": "Passes behind the clavicle into the axilla and unites with the anterior division of the superior trunk lateral to a. axillaris.",
+        "id": "Berjalan di belakang clavicula masuk ke axilla dan bersatu dengan divisio anterior truncus superior di sebelah lateral a. axillaris."
+      },
+      "branches": ["Fasciculus lateralis plexus brachialis"]
+    },
+    "quiz": {
+      "roots": ["C7"],
+      "from": ["Truncus medius plexus brachialis", "Truncus medius", "Tr. medius"]
+    }
+  },
+  {
+    "key": "anterior-division-of-inferior-trunk-of-brachial-plexus",
+    "kind": "plexus-part",
+    "la": "Divisio anterior trunci inferioris plexus brachialis",
+    "alt": ["Divisio anterior trunci inferioris", "Div. anterior trunci inferioris"],
+    "en": "Anterior division of inferior trunk of brachial plexus",
+    "desc": {
+      "en": "Anterior branch of the inferior trunk (C8-T1). It continues on its own as the medial cord.",
+      "id": "Cabang anterior truncus inferior (C8-T1). Divisio ini berlanjut sendiri sebagai fasciculus medialis."
+    },
+    "facts": {
+      "roots": "C8-T1",
+      "from": "Truncus inferior plexus brachialis",
+      "course": {
+        "en": "Passes behind the clavicle into the axilla and becomes the medial cord, which lies first behind and then medial to a. axillaris.",
+        "id": "Berjalan di belakang clavicula masuk ke axilla dan menjadi fasciculus medialis yang mula-mula terletak di belakang lalu di medial a. axillaris."
+      },
+      "branches": ["Fasciculus medialis plexus brachialis"]
+    },
+    "quiz": {
+      "roots": ["C8-T1", "C8, T1"],
+      "from": ["Truncus inferior plexus brachialis", "Truncus inferior", "Tr. inferior"]
+    }
+  },
+  {
+    "key": "posterior-division-of-superior-trunk-of-brachial-plexus",
+    "kind": "plexus-part",
+    "la": "Divisio posterior trunci superioris plexus brachialis",
+    "alt": ["Divisio posterior trunci superioris", "Div. posterior trunci superioris"],
+    "en": "Posterior division of superior trunk of brachial plexus",
+    "desc": {
+      "en": "Posterior branch of the superior trunk (C5-C6). It joins the posterior divisions of the middle and inferior trunks to form the posterior cord, carrying fibres for the extensor compartments.",
+      "id": "Cabang posterior truncus superior (C5-C6). Divisio ini bergabung dengan divisio posterior truncus medius dan inferior membentuk fasciculus posterior, membawa serabut untuk kompartemen ekstensor."
+    },
+    "facts": {
+      "roots": "C5-C6",
+      "from": "Truncus superior plexus brachialis",
+      "course": {
+        "en": "Passes behind the clavicle into the axilla, deep to the anterior divisions, and joins the other posterior divisions behind a. axillaris.",
+        "id": "Berjalan di belakang clavicula masuk ke axilla, di sebelah dalam divisio anterior, dan bergabung dengan divisio posterior lainnya di belakang a. axillaris."
+      },
+      "branches": ["Fasciculus posterior plexus brachialis"]
+    },
+    "quiz": {
+      "roots": ["C5-C6", "C5, C6"],
+      "from": ["Truncus superior plexus brachialis", "Truncus superior", "Tr. superior"]
+    }
+  },
+  {
+    "key": "posterior-division-of-middle-trunk-of-brachial-plexus",
+    "kind": "plexus-part",
+    "la": "Divisio posterior trunci medii plexus brachialis",
+    "alt": ["Divisio posterior trunci medii", "Div. posterior trunci medii"],
+    "en": "Posterior division of middle trunk of brachial plexus",
+    "desc": {
+      "en": "Posterior branch of the middle trunk (C7). It joins the other two posterior divisions to form the posterior cord.",
+      "id": "Cabang posterior truncus medius (C7). Divisio ini bergabung dengan dua divisio posterior lainnya membentuk fasciculus posterior."
+    },
+    "facts": {
+      "roots": "C7",
+      "from": "Truncus medius plexus brachialis",
+      "course": {
+        "en": "Passes behind the clavicle into the axilla and joins the posterior divisions of the superior and inferior trunks behind a. axillaris.",
+        "id": "Berjalan di belakang clavicula masuk ke axilla dan bergabung dengan divisio posterior truncus superior dan inferior di belakang a. axillaris."
+      },
+      "branches": ["Fasciculus posterior plexus brachialis"]
+    },
+    "quiz": {
+      "roots": ["C7"],
+      "from": ["Truncus medius plexus brachialis", "Truncus medius", "Tr. medius"]
+    }
+  },
+  {
+    "key": "posterior-division-of-inferior-trunk-of-brachial-plexus",
+    "kind": "plexus-part",
+    "la": "Divisio posterior trunci inferioris plexus brachialis",
+    "alt": ["Divisio posterior trunci inferioris", "Div. posterior trunci inferioris"],
+    "en": "Posterior division of inferior trunk of brachial plexus",
+    "desc": {
+      "en": "Posterior branch of the inferior trunk (C8-T1), usually the smallest division. It joins the other posterior divisions to form the posterior cord.",
+      "id": "Cabang posterior truncus inferior (C8-T1), biasanya divisio yang paling kecil. Divisio ini bergabung dengan divisio posterior lainnya membentuk fasciculus posterior."
+    },
+    "facts": {
+      "roots": "C8-T1",
+      "from": "Truncus inferior plexus brachialis",
+      "course": {
+        "en": "Passes behind the clavicle into the axilla and joins the posterior divisions of the superior and middle trunks behind a. axillaris.",
+        "id": "Berjalan di belakang clavicula masuk ke axilla dan bergabung dengan divisio posterior truncus superior dan medius di belakang a. axillaris."
+      },
+      "branches": ["Fasciculus posterior plexus brachialis"]
+    },
+    "quiz": {
+      "roots": ["C8-T1", "C8, T1"],
+      "from": ["Truncus inferior plexus brachialis", "Truncus inferior", "Tr. inferior"]
+    }
+  },
+  {
+    "key": "lateral-cord-of-brachial-plexus",
+    "kind": "plexus-part",
+    "model": false,
+    "la": "Fasciculus lateralis plexus brachialis",
+    "alt": ["Fasciculus lateralis", "Fasc. lateralis"],
+    "en": "Lateral cord of brachial plexus",
+    "desc": {
+      "en": "Cord formed by the anterior divisions of the superior and middle trunks (C5-C7). It lies lateral to the second part of a. axillaris and gives n. pectoralis lateralis, n. musculocutaneus and the lateral root of n. medianus.",
+      "id": "Fasciculus yang dibentuk oleh divisio anterior truncus superior dan medius (C5-C7). Letaknya di lateral a. axillaris pars kedua dan memberikan n. pectoralis lateralis, n. musculocutaneus serta radix lateralis n. mediani."
+    },
+    "facts": {
+      "roots": "C5-C7",
+      "from": "Divisiones anteriores trunci superioris et trunci medii",
+      "course": {
+        "en": "Lies behind m. pectoralis minor, lateral to the second part of a. axillaris. At the lower border of m. pectoralis minor it ends by dividing into n. musculocutaneus and the lateral root of n. medianus.",
+        "id": "Terletak di belakang m. pectoralis minor, di lateral a. axillaris pars kedua. Di tepi bawah m. pectoralis minor fasciculus ini berakhir dengan bercabang menjadi n. musculocutaneus dan radix lateralis n. mediani."
+      },
+      "branches": ["Nervus pectoralis lateralis", "Nervus musculocutaneus", "Radix lateralis nervi mediani"],
+      "lesion": {
+        "en": "A lesion weakens elbow flexion and supination (n. musculocutaneus) and the forearm muscles reached through the lateral root of n. medianus, with sensory loss on the lateral forearm.",
+        "id": "Lesi melemahkan fleksi siku dan supinasi (n. musculocutaneus) serta otot lengan bawah yang dicapai melalui radix lateralis n. mediani, disertai gangguan sensorik di sisi lateral lengan bawah."
+      }
+    },
+    "quiz": {
+      "roots": ["C5-C7", "C5, C6, C7"],
+      "from": ["Divisiones anteriores trunci superioris et trunci medii", "divisio anterior truncus superior dan medius"]
+    }
+  },
+  {
+    "key": "medial-cord-of-brachial-plexus",
+    "kind": "plexus-part",
+    "model": false,
+    "la": "Fasciculus medialis plexus brachialis",
+    "alt": ["Fasciculus medialis", "Fasc. medialis"],
+    "en": "Medial cord of brachial plexus",
+    "desc": {
+      "en": "Continuation of the anterior division of the inferior trunk (C8-T1). It lies medial to the second part of a. axillaris and gives n. pectoralis medialis, the medial cutaneous nerves of arm and forearm, n. ulnaris and the medial root of n. medianus.",
+      "id": "Lanjutan divisio anterior truncus inferior (C8-T1). Letaknya di medial a. axillaris pars kedua dan memberikan n. pectoralis medialis, n. cutaneus brachii medialis, n. cutaneus antebrachii medialis, n. ulnaris serta radix medialis n. mediani."
+    },
+    "facts": {
+      "roots": "C8-T1",
+      "from": "Divisio anterior trunci inferioris",
+      "course": {
+        "en": "Lies first behind and then medial to a. axillaris, between the artery and v. axillaris. Its medial root crosses in front of the third part of the artery to join the lateral root of n. medianus.",
+        "id": "Mula-mula terletak di belakang lalu di medial a. axillaris, di antara arteri dan v. axillaris. Radix medialis-nya menyilang di depan a. axillaris pars ketiga untuk bergabung dengan radix lateralis n. mediani."
+      },
+      "branches": ["Nervus pectoralis medialis", "Nervus cutaneus brachii medialis", "Nervus cutaneus antebrachii medialis", "Nervus ulnaris", "Radix medialis nervi mediani"],
+      "lesion": {
+        "en": "A lesion paralyses most intrinsic hand muscles (n. ulnaris and the C8-T1 fibres of n. medianus), resembling Klumpke palsy, with numbness on the medial side of the arm, forearm and hand.",
+        "id": "Lesi melumpuhkan sebagian besar otot intrinsik tangan (n. ulnaris dan serabut C8-T1 n. medianus) sehingga mirip Klumpke palsy, disertai mati rasa di sisi medial lengan atas, lengan bawah dan tangan."
+      }
+    },
+    "quiz": {
+      "roots": ["C8-T1", "C8, T1"],
+      "from": ["Divisio anterior trunci inferioris", "divisio anterior truncus inferior"]
+    }
+  },
+  {
+    "key": "posterior-cord-of-brachial-plexus",
+    "kind": "plexus-part",
+    "la": "Fasciculus posterior plexus brachialis",
+    "alt": ["Fasciculus posterior", "Fasc. posterior"],
+    "en": "Posterior cord of brachial plexus",
+    "desc": {
+      "en": "Cord formed by the posterior divisions of all three trunks (C5-T1). It lies behind the second part of a. axillaris and supplies the extensor side of the limb through n. axillaris and n. radialis.",
+      "id": "Fasciculus yang dibentuk oleh divisio posterior ketiga truncus (C5-T1). Letaknya di belakang a. axillaris pars kedua dan mempersarafi sisi ekstensor ekstremitas superior melalui n. axillaris dan n. radialis."
+    },
+    "facts": {
+      "roots": "C5-T1",
+      "from": "Divisiones posteriores truncorum superioris, medii et inferioris",
+      "course": {
+        "en": "Lies behind a. axillaris, on m. subscapularis. It gives n. subscapularis superior, n. thoracodorsalis and n. subscapularis inferior, and ends behind the third part of the artery by dividing into n. axillaris and n. radialis.",
+        "id": "Terletak di belakang a. axillaris, di atas m. subscapularis. Fasciculus ini memberikan n. subscapularis superior, n. thoracodorsalis dan n. subscapularis inferior, lalu berakhir di belakang a. axillaris pars ketiga dengan bercabang menjadi n. axillaris dan n. radialis."
+      },
+      "branches": ["Nervus subscapularis superior", "Nervus thoracodorsalis", "Nervus subscapularis inferior", "Nervus axillaris", "Nervus radialis"],
+      "motor": ["Musculus subscapularis", "Musculus teres major", "Musculus latissimus dorsi", "Musculus deltoideus", "Musculus teres minor", "Musculus triceps brachii", "Musculus anconeus", "Musculus brachioradialis", "Musculus extensor carpi radialis longus", "Musculus extensor carpi radialis brevis", "Musculus supinator", "Musculus extensor digitorum", "Musculus extensor digiti minimi", "Musculus extensor carpi ulnaris", "Musculus abductor pollicis longus", "Musculus extensor pollicis brevis", "Musculus extensor pollicis longus", "Musculus extensor indicis"],
+      "lesion": {
+        "en": "Pressure high in the axilla (for example a badly used crutch) mainly damages n. radialis and can involve the whole cord: weak shoulder abduction (deltoid), weak extension of the elbow, wrist and fingers (wrist drop), and weak medial rotation and adduction of the arm.",
+        "id": "Penekanan tinggi di axilla (misalnya pemakaian kruk yang salah) terutama merusak n. radialis dan dapat mengenai seluruh fasciculus: abduksi bahu lemah (m. deltoideus), ekstensi siku, pergelangan tangan dan jari lemah (wrist drop), serta rotasi medial dan adduksi lengan atas lemah."
+      }
+    },
+    "quiz": {
+      "roots": ["C5-T1", "C5, C6, C7, C8, T1", "C5-C8, T1"],
+      "from": ["Divisiones posteriores truncorum superioris, medii et inferioris", "divisio posterior ketiga truncus", "divisiones posteriores"]
+    }
+  },
+  {
+    "key": "dorsal-scapular-nerve",
+    "kind": "nerve",
+    "la": "Nervus dorsalis scapulae",
+    "alt": ["N. dorsalis scapulae", "Nervus scapularis dorsalis"],
+    "en": "Dorsal scapular nerve",
+    "desc": {
+      "en": "Branch of the C5 root that runs to the medial border of the scapula and supplies the rhomboid muscles and m. levator scapulae.",
+      "id": "Cabang radix C5 yang berjalan ke margo medialis scapulae dan mempersarafi mm. rhomboidei serta m. levator scapulae."
+    },
+    "facts": {
+      "roots": "C5",
+      "from": "Radix C5 plexus brachialis",
+      "course": {
+        "en": "Arises from the back of the C5 root (often with a C4 contribution), pierces m. scalenus medius, descends deep to m. levator scapulae and runs along the medial border of the scapula deep to the rhomboids, together with a. dorsalis scapulae (ramus profundus a. transversae cervicis).",
+        "id": "Berasal dari sisi belakang radix C5 (sering mendapat serabut C4), menembus m. scalenus medius, turun di sebelah dalam m. levator scapulae dan berjalan sepanjang margo medialis scapulae di bawah mm. rhomboidei, bersama a. dorsalis scapulae (ramus profundus a. transversae cervicis)."
+      },
+      "motor": ["Musculus rhomboideus major", "Musculus rhomboideus minor", "Musculus levator scapulae"],
+      "sensory": {
+        "en": "No skin area (motor nerve).",
+        "id": "Tidak mempersarafi kulit (saraf motorik)."
+      },
+      "lesion": {
+        "en": "Injury is rare (sometimes entrapment in m. scalenus medius). The rhomboids are weak, retraction of the scapula is weak and the scapula on the affected side sits farther from the midline. M. levator scapulae is also supplied by C3-C4 from the cervical plexus, so elevation is kept.",
+        "id": "Cedera jarang (kadang terjepit di m. scalenus medius). Mm. rhomboidei lemah, retraksi scapula lemah dan scapula sisi yang sakit terletak lebih jauh dari garis tengah. M. levator scapulae juga dipersarafi C3-C4 dari plexus cervicalis sehingga elevasi scapula tetap ada."
+      }
+    },
+    "quiz": {
+      "roots": ["C5", "C4-C5", "C4, C5"],
+      "from": ["Radix C5", "radix C5 plexus brachialis", "Radices plexus brachialis"]
+    }
+  },
+  {
+    "key": "long-thoracic-nerve",
+    "kind": "nerve",
+    "la": "Nervus thoracicus longus",
+    "alt": ["N. thoracicus longus", "N. thoracalis longus", "Nervus thoracalis longus"],
+    "en": "Long thoracic nerve",
+    "desc": {
+      "en": "Nerve from the roots C5-C7 that descends on the outer surface of m. serratus anterior and supplies it. Injury causes winged scapula.",
+      "id": "Saraf dari radix C5-C7 yang turun di permukaan luar m. serratus anterior dan mempersarafi otot tersebut. Cedera saraf ini menyebabkan winged scapula (scapula alata)."
+    },
+    "facts": {
+      "roots": "C5-C7",
+      "from": "Radices C5-C7 plexus brachialis",
+      "course": {
+        "en": "The C5 and C6 roots of the nerve pierce m. scalenus medius and the C7 root passes in front of it. The nerve descends behind the plexus and the first part of a. axillaris, then runs downward on the superficial surface of m. serratus anterior on the medial wall of the axilla, where it lies just under the skin and fascia.",
+        "id": "Akar C5 dan C6 saraf ini menembus m. scalenus medius, sedangkan akar C7 lewat di depannya. Saraf turun di belakang plexus dan a. axillaris pars pertama, lalu berjalan ke bawah di permukaan luar m. serratus anterior pada dinding medial axilla, tepat di bawah kulit dan fascia."
+      },
+      "motor": ["Musculus serratus anterior"],
+      "sensory": {
+        "en": "No skin area (motor nerve).",
+        "id": "Tidak mempersarafi kulit (saraf motorik)."
+      },
+      "lesion": {
+        "en": "Damaged in axillary lymph node dissection (mastectomy), stab wounds of the chest wall or by heavy loads on the shoulder. M. serratus anterior is paralysed: the medial border and inferior angle of the scapula lift away from the chest wall, most obvious when the patient pushes against a wall (winged scapula, scapula alata). The arm cannot be raised above the horizontal because the scapula cannot be rotated upward.",
+        "id": "Dapat rusak pada diseksi kelenjar getah bening axilla (mastektomi), luka tusuk dinding dada atau beban berat di bahu. M. serratus anterior lumpuh: margo medialis dan angulus inferior scapula terangkat menjauhi dinding dada, paling jelas saat pasien mendorong dinding (winged scapula, scapula alata). Lengan tidak dapat diangkat melewati bidang horizontal karena scapula tidak dapat berotasi ke atas."
+      }
+    },
+    "quiz": {
+      "roots": ["C5-C7", "C5, C6, C7"],
+      "from": ["Radices C5-C7", "Radices plexus brachialis", "radix C5, C6, C7"]
+    }
+  },
+  {
+    "key": "suprascapular-nerve",
+    "kind": "nerve",
+    "la": "Nervus suprascapularis",
+    "alt": ["N. suprascapularis"],
+    "en": "Suprascapular nerve",
+    "desc": {
+      "en": "Branch of the superior trunk that passes through the incisura scapulae, below the ligamentum transversum scapulae superius, to supply m. supraspinatus and m. infraspinatus.",
+      "id": "Cabang truncus superior yang melewati incisura scapulae di bawah ligamentum transversum scapulae superius untuk mempersarafi m. supraspinatus dan m. infraspinatus."
+    },
+    "facts": {
+      "roots": "C5-C6",
+      "from": "Truncus superior plexus brachialis",
+      "course": {
+        "en": "Runs laterally across the posterior triangle of the neck above the plexus, deep to m. omohyoideus and m. trapezius, to the upper border of the scapula. It passes through the incisura scapulae beneath the ligamentum transversum scapulae superius, while a. suprascapularis passes above the ligament. It supplies m. supraspinatus, then curves around the lateral border of the spina scapulae through the incisura spinoglenoidalis into the fossa infraspinata.",
+        "id": "Berjalan ke lateral melintasi trigonum colli posterior di atas plexus, di bawah m. omohyoideus dan m. trapezius, menuju margo superior scapulae. Saraf melewati incisura scapulae di bawah ligamentum transversum scapulae superius, sedangkan a. suprascapularis lewat di atas ligamentum tersebut. Setelah mempersarafi m. supraspinatus, saraf melingkari tepi lateral spina scapulae melalui incisura spinoglenoidalis masuk ke fossa infraspinata."
+      },
+      "motor": ["Musculus supraspinatus", "Musculus infraspinatus"],
+      "sensory": {
+        "en": "No skin area; articular branches to the glenohumeral and acromioclavicular joints.",
+        "id": "Tidak ada daerah kulit; cabang artikular ke articulatio glenohumeralis dan acromioclavicularis."
+      },
+      "lesion": {
+        "en": "Injury or entrapment at the incisura scapulae (scapular fracture, repeated overhead movements) weakens the start of abduction and lateral rotation of the arm, with deep shoulder pain and wasting above and below the spina scapulae. Compression at the incisura spinoglenoidalis affects m. infraspinatus only.",
+        "id": "Cedera atau jepitan di incisura scapulae (fraktur scapula, gerakan berulang di atas kepala) melemahkan awal abduksi dan rotasi lateral lengan, disertai nyeri dalam di bahu dan atrofi di atas serta di bawah spina scapulae. Penekanan di incisura spinoglenoidalis hanya mengenai m. infraspinatus."
+      }
+    },
+    "quiz": {
+      "roots": ["C5-C6", "C5, C6", "C4-C6"],
+      "from": ["Truncus superior plexus brachialis", "Truncus superior", "Tr. superior"]
+    }
+  },
+  {
+    "key": "subclavian-nerve",
+    "kind": "nerve",
+    "la": "Nervus subclavius",
+    "alt": ["N. subclavius", "Nervus ad musculum subclavium"],
+    "en": "Nerve to subclavius",
+    "desc": {
+      "en": "Small branch of the superior trunk (C5-C6) that descends behind the clavicle to m. subclavius. It often gives an accessory phrenic nerve.",
+      "id": "Cabang kecil truncus superior (C5-C6) yang turun di belakang clavicula menuju m. subclavius. Saraf ini sering memberikan n. phrenicus accessorius."
+    },
+    "facts": {
+      "roots": "C5-C6",
+      "from": "Truncus superior plexus brachialis",
+      "course": {
+        "en": "Descends in front of the plexus and the third part of a. subclavia, behind the clavicle, to enter m. subclavius. A branch (n. phrenicus accessorius) often joins n. phrenicus in the root of the neck or in the thorax.",
+        "id": "Turun di depan plexus dan a. subclavia pars ketiga, di belakang clavicula, lalu masuk ke m. subclavius. Satu cabangnya (n. phrenicus accessorius) sering bergabung dengan n. phrenicus di pangkal leher atau di dalam thorax."
+      },
+      "motor": ["Musculus subclavius"],
+      "lesion": {
+        "en": "Isolated injury has little clinical effect. When an accessory phrenic nerve is present, cutting n. phrenicus in the neck may not paralyse the diaphragm completely.",
+        "id": "Cedera tersendiri hampir tidak berdampak klinis. Bila ada n. phrenicus accessorius, pemotongan n. phrenicus di leher mungkin tidak melumpuhkan diaphragma secara total."
+      },
+      "note": {
+        "en": "In the module this is the blank under the branches of the truncus superior (C5 and C6).",
+        "id": "Pada modul, saraf ini adalah jawaban isian cabang truncus superior (C5 dan C6)."
+      }
+    },
+    "quiz": {
+      "roots": ["C5-C6", "C5, C6"],
+      "from": ["Truncus superior plexus brachialis", "Truncus superior", "Tr. superior"]
+    }
+  },
+  {
+    "key": "lateral-pectoral-nerve",
+    "kind": "nerve",
+    "la": "Nervus pectoralis lateralis",
+    "alt": ["N. pectoralis lateralis"],
+    "en": "Lateral pectoral nerve",
+    "desc": {
+      "en": "Branch of the lateral cord that pierces the fascia clavipectoralis and supplies m. pectoralis major, mainly its clavicular part. Despite its name it lies medial to the medial pectoral nerve on the chest wall; the names refer to the cords.",
+      "id": "Cabang fasciculus lateralis yang menembus fascia clavipectoralis dan mempersarafi m. pectoralis major, terutama pars clavicularis. Walaupun namanya lateralis, letaknya di dinding dada justru lebih medial daripada n. pectoralis medialis; nama ini mengikuti fasciculus asalnya."
+    },
+    "facts": {
+      "roots": "C5-C7",
+      "from": "Fasciculus lateralis plexus brachialis",
+      "course": {
+        "en": "Crosses in front of the first part of a. axillaris and v. axillaris, pierces the membrana costocoracoidea (part of the fascia clavipectoralis) with a. thoracoacromialis and enters the deep surface of m. pectoralis major. A communicating loop in front of a. axillaris (ansa pectoralis) joins the medial pectoral nerve and carries some fibres to m. pectoralis minor.",
+        "id": "Menyilang di depan a. axillaris pars pertama dan v. axillaris, menembus membrana costocoracoidea (bagian fascia clavipectoralis) bersama a. thoracoacromialis, lalu masuk ke permukaan dalam m. pectoralis major. Sebuah lengkung penghubung di depan a. axillaris (ansa pectoralis) bergabung dengan n. pectoralis medialis dan membawa sebagian serabut ke m. pectoralis minor."
+      },
+      "motor": ["Musculus pectoralis major", "Musculus pectoralis minor"],
+      "lesion": {
+        "en": "Isolated injury is uncommon; it weakens mainly the clavicular part of m. pectoralis major (flexion and adduction of the arm).",
+        "id": "Cedera tersendiri jarang; terutama melemahkan pars clavicularis m. pectoralis major (fleksi dan adduksi lengan atas)."
+      }
+    },
+    "quiz": {
+      "roots": ["C5-C7", "C5, C6, C7"],
+      "from": ["Fasciculus lateralis plexus brachialis", "Fasciculus lateralis", "Fasc. lateralis"]
+    }
+  },
+  {
+    "key": "medial-pectoral-nerve",
+    "kind": "nerve",
+    "la": "Nervus pectoralis medialis",
+    "alt": ["N. pectoralis medialis"],
+    "en": "Medial pectoral nerve",
+    "desc": {
+      "en": "Branch of the medial cord that pierces and supplies m. pectoralis minor and continues to the sternocostal part of m. pectoralis major.",
+      "id": "Cabang fasciculus medialis yang menembus dan mempersarafi m. pectoralis minor, lalu berlanjut ke pars sternocostalis m. pectoralis major."
+    },
+    "facts": {
+      "roots": "C8-T1",
+      "from": "Fasciculus medialis plexus brachialis",
+      "course": {
+        "en": "Arises behind a. axillaris, passes forward between a. axillaris and v. axillaris, receives the ansa pectoralis from the lateral pectoral nerve, enters m. pectoralis minor, and sends branches through or around its lower border into m. pectoralis major.",
+        "id": "Berasal di belakang a. axillaris, berjalan ke depan di antara a. axillaris dan v. axillaris, menerima ansa pectoralis dari n. pectoralis lateralis, masuk ke m. pectoralis minor, dan mengirim cabang yang menembus atau melingkari tepi bawah otot ini menuju m. pectoralis major."
+      },
+      "motor": ["Musculus pectoralis minor", "Musculus pectoralis major (pars sternocostalis)"],
+      "lesion": {
+        "en": "Isolated injury is rare; it can occur in breast or axillary surgery and weakens m. pectoralis minor and the lower part of m. pectoralis major.",
+        "id": "Cedera tersendiri jarang; dapat terjadi pada operasi payudara atau axilla dan melemahkan m. pectoralis minor serta bagian bawah m. pectoralis major."
+      }
+    },
+    "quiz": {
+      "roots": ["C8-T1", "C8, T1"],
+      "from": ["Fasciculus medialis plexus brachialis", "Fasciculus medialis", "Fasc. medialis"]
+    }
+  },
+  {
+    "key": "superior-subscapular-nerve",
+    "kind": "nerve",
+    "la": "Nervus subscapularis superior",
+    "alt": ["N. subscapularis superior", "Nervi subscapulares", "Nn. subscapulares"],
+    "en": "Superior subscapular nerve",
+    "desc": {
+      "en": "Short branch of the posterior cord that enters the upper part of m. subscapularis.",
+      "id": "Cabang pendek fasciculus posterior yang masuk ke bagian atas m. subscapularis."
+    },
+    "facts": {
+      "roots": "C5-C6",
+      "from": "Fasciculus posterior plexus brachialis",
+      "course": {
+        "en": "Arises from the posterior cord high in the axilla and passes backward directly into m. subscapularis.",
+        "id": "Berasal dari fasciculus posterior di bagian atas axilla dan langsung berjalan ke belakang masuk ke m. subscapularis."
+      },
+      "motor": ["Musculus subscapularis (pars superior)"],
+      "lesion": {
+        "en": "Isolated injury is rare; weak medial rotation is partly compensated by the other medial rotators.",
+        "id": "Cedera tersendiri jarang; kelemahan rotasi medial sebagian dikompensasi oleh otot rotator medial lainnya."
+      }
+    },
+    "quiz": {
+      "roots": ["C5-C6", "C5", "C5, C6"],
+      "from": ["Fasciculus posterior plexus brachialis", "Fasciculus posterior", "Fasc. posterior"]
+    }
+  },
+  {
+    "key": "inferior-subscapular-nerve",
+    "kind": "nerve",
+    "la": "Nervus subscapularis inferior",
+    "alt": ["N. subscapularis inferior", "Nervi subscapulares", "Nn. subscapulares"],
+    "en": "Inferior subscapular nerve",
+    "desc": {
+      "en": "Branch of the posterior cord that supplies the lower part of m. subscapularis and m. teres major.",
+      "id": "Cabang fasciculus posterior yang mempersarafi bagian bawah m. subscapularis dan m. teres major."
+    },
+    "facts": {
+      "roots": "C5-C6",
+      "from": "Fasciculus posterior plexus brachialis",
+      "course": {
+        "en": "Arises from the posterior cord below the origin of n. thoracodorsalis, descends along the lateral part of m. subscapularis, gives branches to it and ends in m. teres major.",
+        "id": "Berasal dari fasciculus posterior di bawah pangkal n. thoracodorsalis, turun di sepanjang bagian lateral m. subscapularis, memberi cabang ke otot ini dan berakhir di m. teres major."
+      },
+      "motor": ["Musculus subscapularis (pars inferior)", "Musculus teres major"],
+      "lesion": {
+        "en": "Isolated injury is rare and causes mild weakness of medial rotation and adduction of the arm.",
+        "id": "Cedera tersendiri jarang dan menimbulkan kelemahan ringan rotasi medial serta adduksi lengan atas."
+      }
+    },
+    "quiz": {
+      "roots": ["C5-C6", "C6", "C5, C6"],
+      "from": ["Fasciculus posterior plexus brachialis", "Fasciculus posterior", "Fasc. posterior"]
+    }
+  },
+  {
+    "key": "thoracodorsal-nerve",
+    "kind": "nerve",
+    "la": "Nervus thoracodorsalis",
+    "alt": ["N. thoracodorsalis"],
+    "en": "Thoracodorsal nerve",
+    "desc": {
+      "en": "Branch of the posterior cord that runs down the posterior wall of the axilla with a. thoracodorsalis and supplies m. latissimus dorsi.",
+      "id": "Cabang fasciculus posterior yang turun di dinding posterior axilla bersama a. thoracodorsalis dan mempersarafi m. latissimus dorsi."
+    },
+    "facts": {
+      "roots": "C6-C8",
+      "from": "Fasciculus posterior plexus brachialis",
+      "course": {
+        "en": "Arises between the superior and inferior subscapular nerves, descends on m. subscapularis and m. teres major along the posterior axillary wall, together with a. thoracodorsalis, and enters the deep surface of m. latissimus dorsi.",
+        "id": "Berasal di antara n. subscapularis superior dan inferior, turun di atas m. subscapularis dan m. teres major sepanjang dinding posterior axilla bersama a. thoracodorsalis, lalu masuk ke permukaan dalam m. latissimus dorsi."
+      },
+      "motor": ["Musculus latissimus dorsi"],
+      "lesion": {
+        "en": "At risk in axillary lymph node dissection. Paralysis of m. latissimus dorsi weakens extension, adduction and medial rotation of the arm, and the patient has difficulty pulling the body up with the arms, as in climbing. The nerve and vessel form the pedicle of the latissimus dorsi flap.",
+        "id": "Berisiko cedera pada diseksi kelenjar getah bening axilla. Kelumpuhan m. latissimus dorsi melemahkan ekstensi, adduksi dan rotasi medial lengan atas, sehingga pasien sulit menarik tubuh ke atas dengan lengan, misalnya saat memanjat. Saraf dan pembuluh ini menjadi pedikel flap latissimus dorsi."
+      }
+    },
+    "quiz": {
+      "roots": ["C6-C8", "C6, C7, C8"],
+      "from": ["Fasciculus posterior plexus brachialis", "Fasciculus posterior", "Fasc. posterior"]
+    }
+  },
+  {
+    "key": "axillary-nerve",
+    "kind": "nerve",
+    "la": "Nervus axillaris",
+    "alt": ["N. axillaris", "Nervus circumflexus"],
+    "en": "Axillary nerve",
+    "desc": {
+      "en": "Terminal branch of the posterior cord that passes through the quadrangular space and winds around the collum chirurgicum humeri to supply m. deltoideus and m. teres minor. It is injured in fractures of the surgical neck and in shoulder dislocation.",
+      "id": "Cabang terminal fasciculus posterior yang melewati spatium quadrangulare dan melingkari collum chirurgicum humeri untuk mempersarafi m. deltoideus dan m. teres minor. Saraf ini dapat cedera pada fraktur collum chirurgicum dan dislokasi bahu."
+    },
+    "facts": {
+      "roots": "C5-C6",
+      "from": "Fasciculus posterior plexus brachialis",
+      "course": {
+        "en": "Arises behind a. axillaris, in front of m. subscapularis. It passes backward through the quadrangular space (bounded by m. teres minor above, m. teres major below, the long head of m. triceps brachii medially and the collum chirurgicum humeri laterally) together with a. circumflexa humeri posterior. It winds around the back of the collum chirurgicum deep to m. deltoideus and divides into an anterior branch (to m. deltoideus) and a posterior branch (to m. teres minor and the back of m. deltoideus, ending as n. cutaneus brachii lateralis superior).",
+        "id": "Berasal di belakang a. axillaris, di depan m. subscapularis. Saraf berjalan ke belakang melalui spatium quadrangulare (dibatasi m. teres minor di atas, m. teres major di bawah, caput longum m. triceps brachii di medial dan collum chirurgicum humeri di lateral) bersama a. circumflexa humeri posterior. Saraf melingkari sisi belakang collum chirurgicum di bawah m. deltoideus dan bercabang menjadi ramus anterior (ke m. deltoideus) dan ramus posterior (ke m. teres minor dan bagian belakang m. deltoideus, lalu berakhir sebagai n. cutaneus brachii lateralis superior)."
+      },
+      "branches": ["Rami musculares nervi axillaris", "Nervus cutaneus brachii lateralis superior", "Rami articulares (articulatio humeri)"],
+      "motor": ["Musculus deltoideus", "Musculus teres minor"],
+      "sensory": {
+        "en": "Skin over the lower half of m. deltoideus (the regimental badge area) through n. cutaneus brachii lateralis superior; articular twigs to the glenohumeral joint.",
+        "id": "Kulit di atas separuh bawah m. deltoideus (daerah regimental badge) melalui n. cutaneus brachii lateralis superior; cabang artikular ke articulatio glenohumeralis."
+      },
+      "lesion": {
+        "en": "Injured in fractures of the collum chirurgicum humeri, anterior (inferior) dislocation of the shoulder, or pressure from a crutch. M. deltoideus is paralysed and wastes, the rounded contour of the shoulder is lost, abduction beyond the first 15 degrees (started by m. supraspinatus) is very weak and lateral rotation is slightly weak. Sensation is lost over the regimental badge area, which is the simple bedside test after a shoulder injury.",
+        "id": "Cedera terjadi pada fraktur collum chirurgicum humeri, dislokasi bahu ke anterior (inferior), atau tekanan kruk. M. deltoideus lumpuh dan atrofi, kontur bahu yang bulat hilang (bahu tampak datar), abduksi di atas 15 derajat pertama (yang dimulai m. supraspinatus) sangat lemah dan rotasi lateral sedikit lemah. Sensasi hilang di daerah regimental badge; pemeriksaan ini mudah dilakukan setelah cedera bahu."
+      }
+    },
+    "quiz": {
+      "roots": ["C5-C6", "C5, C6"],
+      "from": ["Fasciculus posterior plexus brachialis", "Fasciculus posterior", "Fasc. posterior"]
+    }
+  },
+  {
+    "key": "muscular-branches-of-axillary-nerve",
+    "kind": "nerve",
+    "la": "Rami musculares nervi axillaris",
+    "alt": ["Rr. musculares n. axillaris"],
+    "en": "Muscular branches of axillary nerve",
+    "desc": {
+      "en": "Motor branches of n. axillaris: the anterior branch supplies the anterior and middle parts of m. deltoideus, and the posterior branch supplies m. teres minor and the posterior part of m. deltoideus.",
+      "id": "Cabang motorik n. axillaris: ramus anterior mempersarafi bagian anterior dan tengah m. deltoideus, sedangkan ramus posterior mempersarafi m. teres minor dan bagian posterior m. deltoideus."
+    },
+    "facts": {
+      "roots": "C5-C6",
+      "from": "Nervus axillaris",
+      "motor": ["Musculus deltoideus", "Musculus teres minor"]
+    },
+    "quiz": {
+      "from": ["Nervus axillaris", "N. axillaris"]
+    }
+  },
+  {
+    "key": "superior-lateral-brachial-cutaneous-nerve",
+    "kind": "nerve",
+    "la": "Nervus cutaneus brachii lateralis superior",
+    "alt": ["N. cutaneus brachii lateralis superior", "Nervus cutaneus lateralis superior brachii"],
+    "en": "Superior lateral brachial cutaneous nerve",
+    "desc": {
+      "en": "Cutaneous end of the posterior branch of n. axillaris. It curves around the posterior border of m. deltoideus and supplies the skin over the lower half of the muscle (regimental badge area).",
+      "id": "Ujung kutaneus ramus posterior n. axillaris. Saraf ini melingkari tepi posterior m. deltoideus dan mempersarafi kulit di atas separuh bawah otot tersebut (daerah regimental badge)."
+    },
+    "facts": {
+      "roots": "C5-C6",
+      "from": "Nervus axillaris",
+      "course": {
+        "en": "Leaves the posterior branch of n. axillaris, turns around the posterior border of m. deltoideus and pierces the deep fascia.",
+        "id": "Keluar dari ramus posterior n. axillaris, membelok di tepi posterior m. deltoideus dan menembus fascia profunda."
+      },
+      "sensory": {
+        "en": "Skin over the lower half of m. deltoideus.",
+        "id": "Kulit di atas separuh bawah m. deltoideus."
+      },
+      "lesion": {
+        "en": "Numbness in this patch after a shoulder dislocation or a fracture of the surgical neck indicates damage to n. axillaris.",
+        "id": "Mati rasa di daerah ini setelah dislokasi bahu atau fraktur collum chirurgicum menunjukkan kerusakan n. axillaris."
+      }
+    },
+    "quiz": {
+      "roots": ["C5-C6", "C5, C6"],
+      "from": ["Nervus axillaris", "N. axillaris"]
+    }
+  },
+  {
+    "key": "medial-brachial-cutaneous-nerve",
+    "kind": "nerve",
+    "la": "Nervus cutaneus brachii medialis",
+    "alt": ["N. cutaneus brachii medialis", "Nervus cutaneus medialis brachii"],
+    "en": "Medial brachial cutaneous nerve",
+    "desc": {
+      "en": "Smallest branch of the brachial plexus, from the medial cord. It supplies the skin on the medial side of the arm.",
+      "id": "Cabang terkecil plexus brachialis, berasal dari fasciculus medialis. Saraf ini mempersarafi kulit sisi medial lengan atas."
+    },
+    "facts": {
+      "roots": "C8-T1",
+      "from": "Fasciculus medialis plexus brachialis",
+      "course": {
+        "en": "Runs along the medial side of v. axillaris and the brachial veins, communicates with n. intercostobrachialis, and pierces the deep fascia in the middle of the arm.",
+        "id": "Berjalan di sisi medial v. axillaris dan vv. brachiales, berhubungan dengan n. intercostobrachialis, lalu menembus fascia profunda di pertengahan lengan atas."
+      },
+      "sensory": {
+        "en": "Skin of the medial side of the arm down to the epicondylus medialis.",
+        "id": "Kulit sisi medial lengan atas sampai epicondylus medialis."
+      },
+      "lesion": {
+        "en": "Isolated injury only leaves a small area of numbness on the medial arm; it may be injured with n. intercostobrachialis in axillary surgery.",
+        "id": "Cedera tersendiri hanya menimbulkan daerah mati rasa kecil di sisi medial lengan atas; saraf ini dapat cedera bersama n. intercostobrachialis pada operasi axilla."
+      }
+    },
+    "quiz": {
+      "roots": ["C8-T1", "C8, T1", "T1"],
+      "from": ["Fasciculus medialis plexus brachialis", "Fasciculus medialis", "Fasc. medialis"]
+    }
+  },
+  {
+    "key": "medial-antebrachial-cutaneous-nerve",
+    "kind": "nerve",
+    "la": "Nervus cutaneus antebrachii medialis",
+    "alt": ["N. cutaneus antebrachii medialis", "Nervus cutaneus medialis antebrachii"],
+    "en": "Medial antebrachial cutaneous nerve",
+    "desc": {
+      "en": "Cutaneous branch of the medial cord that becomes superficial with v. basilica in the middle of the arm and supplies the skin of the medial forearm.",
+      "id": "Cabang kutaneus fasciculus medialis yang menjadi superfisial bersama v. basilica di pertengahan lengan atas dan mempersarafi kulit sisi medial lengan bawah."
+    },
+    "facts": {
+      "roots": "C8-T1",
+      "from": "Fasciculus medialis plexus brachialis",
+      "course": {
+        "en": "Descends medial to a. axillaris and a. brachialis, pierces the deep fascia together with v. basilica in the middle of the arm and divides into an anterior branch and a posterior (ulnar) branch that run down to the wrist.",
+        "id": "Turun di medial a. axillaris dan a. brachialis, menembus fascia profunda bersama v. basilica di pertengahan lengan atas, lalu bercabang menjadi ramus anterior dan ramus posterior (ulnaris) yang berjalan sampai pergelangan tangan."
+      },
+      "branches": ["Ramus anterior nervi cutanei antebrachii medialis", "Ramus ulnaris nervi cutanei antebrachii medialis"],
+      "sensory": {
+        "en": "Skin of the medial side of the forearm, front and back, down to the wrist, and a small area of skin over the front of the lower arm.",
+        "id": "Kulit sisi medial lengan bawah, bagian depan dan belakang, sampai pergelangan tangan, serta sedikit kulit di bagian depan lengan atas bawah."
+      },
+      "lesion": {
+        "en": "Its branches lie close to v. basilica and v. mediana cubiti, so venipuncture or elbow surgery can injure them, causing numbness or painful tingling of the medial forearm.",
+        "id": "Cabang-cabangnya terletak dekat v. basilica dan v. mediana cubiti sehingga pungsi vena atau operasi siku dapat mencederainya dan menimbulkan mati rasa atau kesemutan nyeri di sisi medial lengan bawah."
+      }
+    },
+    "quiz": {
+      "roots": ["C8-T1", "C8, T1"],
+      "from": ["Fasciculus medialis plexus brachialis", "Fasciculus medialis", "Fasc. medialis"]
+    }
+  },
+  {
+    "key": "anterior-branch-of-medial-antebrachial-cutaneous-nerve",
+    "kind": "nerve",
+    "la": "Ramus anterior nervi cutanei antebrachii medialis",
+    "alt": ["R. anterior n. cutanei antebrachii medialis", "Ramus anterior nervi cutanei medialis antebrachii"],
+    "en": "Anterior branch of medial antebrachial cutaneous nerve",
+    "desc": {
+      "en": "The larger branch of n. cutaneus antebrachii medialis. It usually passes in front of v. mediana cubiti and supplies the skin of the anteromedial forearm down to the wrist.",
+      "id": "Cabang yang lebih besar dari n. cutaneus antebrachii medialis. Biasanya lewat di depan v. mediana cubiti dan mempersarafi kulit sisi anteromedial lengan bawah sampai pergelangan tangan."
+    },
+    "facts": {
+      "roots": "C8-T1",
+      "from": "Nervus cutaneus antebrachii medialis",
+      "sensory": {
+        "en": "Skin of the anterior and medial forearm.",
+        "id": "Kulit bagian anterior dan medial lengan bawah."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus cutaneus antebrachii medialis", "N. cutaneus antebrachii medialis"]
+    }
+  },
+  {
+    "key": "posterior-branch-of-medial-antebrachial-cutaneous-nerve",
+    "kind": "nerve",
+    "la": "Ramus ulnaris nervi cutanei antebrachii medialis",
+    "alt": ["Ramus posterior nervi cutanei antebrachii medialis", "R. posterior n. cutanei antebrachii medialis", "R. ulnaris n. cutanei antebrachii medialis", "Ramus posterior nervi cutanei medialis antebrachii"],
+    "en": "Posterior (ulnar) branch of medial antebrachial cutaneous nerve",
+    "desc": {
+      "en": "Branch of n. cutaneus antebrachii medialis that passes on the medial side of v. basilica, in front of the epicondylus medialis, to the back of the forearm and supplies the posteromedial skin down to the wrist.",
+      "id": "Cabang n. cutaneus antebrachii medialis yang berjalan di sisi medial v. basilica, di depan epicondylus medialis, menuju sisi belakang lengan bawah dan mempersarafi kulit posteromedial sampai pergelangan tangan."
+    },
+    "facts": {
+      "roots": "C8-T1",
+      "from": "Nervus cutaneus antebrachii medialis",
+      "sensory": {
+        "en": "Skin of the posteromedial forearm.",
+        "id": "Kulit sisi posteromedial lengan bawah."
+      },
+      "note": {
+        "en": "TA98 names it ramus ulnaris; TA2 and many textbooks call it ramus posterior.",
+        "id": "TA98 menamainya ramus ulnaris; TA2 dan banyak buku ajar menyebutnya ramus posterior."
+      }
+    },
+    "quiz": {
+      "from": ["Nervus cutaneus antebrachii medialis", "N. cutaneus antebrachii medialis"]
+    }
+  },
+  {
+    "key": "lateral-root-of-median-nerve",
+    "kind": "nerve",
+    "model": false,
+    "la": "Radix lateralis nervi mediani",
+    "alt": ["Radix lateralis n. mediani", "N. lateralis nervi medianus", "Radix lateralis"],
+    "en": "Lateral root of median nerve",
+    "desc": {
+      "en": "Terminal branch of the lateral cord that joins the medial root in front of the third part of a. axillaris to form n. medianus.",
+      "id": "Cabang terminal fasciculus lateralis yang bergabung dengan radix medialis di depan a. axillaris pars ketiga untuk membentuk n. medianus."
+    },
+    "facts": {
+      "roots": "C5-C7",
+      "from": "Fasciculus lateralis plexus brachialis",
+      "course": {
+        "en": "Runs downward lateral to a. axillaris and meets the medial root in front of the artery; together with n. musculocutaneus and n. ulnaris they form an M-shaped pattern that helps identify the nerves in the axilla.",
+        "id": "Berjalan ke bawah di lateral a. axillaris dan bertemu radix medialis di depan arteri; bersama n. musculocutaneus dan n. ulnaris, susunan ini membentuk huruf M yang membantu mengenali saraf-saraf di axilla."
+      },
+      "note": {
+        "en": "The module lists it as 'N. lateralis nervi medianus' among the branches of the lateral cord.",
+        "id": "Modul menuliskannya sebagai 'N. lateralis nervi medianus' di antara cabang fasciculus lateralis."
+      }
+    },
+    "quiz": {
+      "roots": ["C5-C7", "C6-C7", "C5, C6, C7"],
+      "from": ["Fasciculus lateralis plexus brachialis", "Fasciculus lateralis", "Fasc. lateralis"]
+    }
+  },
+  {
+    "key": "medial-root-of-median-nerve",
+    "kind": "nerve",
+    "model": false,
+    "la": "Radix medialis nervi mediani",
+    "alt": ["Radix medialis n. mediani", "Radiks medialis n. medianus", "Radix medialis"],
+    "en": "Medial root of median nerve",
+    "desc": {
+      "en": "Terminal branch of the medial cord that crosses in front of a. axillaris to join the lateral root and form n. medianus. It carries C8-T1 fibres, which reach the thenar muscles and the first two lumbricals.",
+      "id": "Cabang terminal fasciculus medialis yang menyilang di depan a. axillaris untuk bergabung dengan radix lateralis membentuk n. medianus. Radix ini membawa serabut C8-T1 yang mencapai otot thenar dan mm. lumbricales I-II."
+    },
+    "facts": {
+      "roots": "C8-T1",
+      "from": "Fasciculus medialis plexus brachialis",
+      "course": {
+        "en": "Leaves the medial cord, crosses anterior to the third part of a. axillaris and unites with the lateral root to form n. medianus.",
+        "id": "Keluar dari fasciculus medialis, menyilang di depan a. axillaris pars ketiga dan bersatu dengan radix lateralis membentuk n. medianus."
+      }
+    },
+    "quiz": {
+      "roots": ["C8-T1", "C8, T1"],
+      "from": ["Fasciculus medialis plexus brachialis", "Fasciculus medialis", "Fasc. medialis"]
+    }
+  }
+]

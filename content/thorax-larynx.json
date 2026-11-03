@@ -1,0 +1,881 @@
+[
+  {
+    "key": "larynx",
+    "kind": "organ",
+    "model": false,
+    "la": "Larynx",
+    "alt": [],
+    "en": "Larynx",
+    "desc": {
+      "en": "The larynx is the cartilaginous voice box between the laryngopharynx and the trachea, lying at the level of C3-C6 in adults. Its skeleton has nine cartilages: the unpaired thyroid, cricoid and epiglottic cartilages and the paired arytenoid, corniculate and cuneiform cartilages.",
+      "id": "Larynx adalah organ penghasil suara berkerangka kartilago yang menghubungkan laryngopharynx dengan trachea, setinggi vertebra C3-C6 pada orang dewasa. Kerangkanya terdiri atas sembilan kartilago: cartilago thyroidea, cricoidea dan epiglottica yang tunggal, serta cartilago arytenoidea, corniculata dan cuneiformis yang berpasangan."
+    },
+    "facts": {
+      "location": {
+        "en": "Anterior neck, C3-C6 in adult men, slightly higher in women and children; it rises during swallowing.",
+        "id": "Leher bagian depan, setinggi C3-C6 pada pria dewasa, sedikit lebih tinggi pada wanita dan anak; larynx terangkat saat menelan."
+      },
+      "relations": {
+        "en": "Above: aditus laryngis opening into the laryngopharynx, with the hyoid bone and root of the tongue. Below: continuous with the trachea at the lower border of the cricoid (C6). In front: infrahyoid muscles, fascia and skin. Behind: laryngopharynx and the bodies of C3-C6. On each side: the lobes of the thyroid gland and the carotid sheath.",
+        "id": "Atas: aditus laryngis yang membuka ke laryngopharynx, dengan os hyoideum dan radix linguae. Bawah: bersambung dengan trachea pada tepi bawah cartilago cricoidea (C6). Depan: otot-otot infrahyoid, fascia dan kulit. Belakang: laryngopharynx dan corpus vertebra C3-C6. Samping: lobus glandulae thyroideae dan vagina carotica."
+      },
+      "features": {
+        "en": "Extrinsic ligaments: membrana thyrohyoidea, lig. hyoepiglotticum, lig. cricotracheale. Intrinsic: the membrana fibroelastica laryngis, made of the membrana quadrangularis (lower free edge is the lig. vestibulare) and the conus elasticus (upper free edge is the lig. vocale). Cavity: vestibulum laryngis, ventriculus laryngis and cavitas infraglottica.",
+        "id": "Ligamentum ekstrinsik: membrana thyrohyoidea, lig. hyoepiglotticum, lig. cricotracheale. Ligamentum intrinsik: membrana fibroelastica laryngis yang terdiri atas membrana quadrangularis (tepi bawahnya lig. vestibulare) dan conus elasticus (tepi atasnya lig. vocale). Rongga: vestibulum laryngis, ventriculus laryngis dan cavitas infraglottica."
+      },
+      "blood": ["Arteria laryngea superior", "Arteria laryngea inferior"],
+      "nerve": ["Nervus laryngeus superior", "Nervus laryngeus recurrens"],
+      "clinical": {
+        "en": "The recurrent laryngeal nerve can be injured during thyroid surgery; one-sided injury causes hoarseness. In an emergency airway, the median cricothyroid ligament is opened (cricothyrotomy).",
+        "id": "N. laryngeus recurrens dapat cedera pada operasi tiroid; cedera satu sisi menyebabkan suara serak. Pada keadaan darurat jalan napas, lig. cricothyroideum medianum dibuka (krikotirotomi)."
+      }
+    }
+  },
+  {
+    "key": "laryngeal-inlet",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Aditus laryngis",
+    "alt": ["Aditus larynges", "Introitus laryngis"],
+    "en": "Laryngeal inlet",
+    "desc": {
+      "en": "The inlet is the upper opening of the larynx, facing backward and upward into the laryngopharynx. It is bounded in front by the upper edge of the epiglottis, on each side by the plica aryepiglottica and behind by the incisura interarytenoidea.",
+      "id": "Aditus laryngis adalah pintu masuk larynx yang menghadap ke belakang atas ke arah laryngopharynx. Batas depannya tepi atas epiglottis, batas sampingnya plica aryepiglottica, dan batas belakangnya incisura interarytenoidea."
+    },
+    "facts": {
+      "location": {
+        "en": "In the anterior wall of the laryngopharynx, with a recessus piriformis on each side.",
+        "id": "Di dinding anterior laryngopharynx, dengan recessus piriformis di kiri dan kanannya."
+      },
+      "features": {
+        "en": "It is narrowed during swallowing by the aryepiglottic and oblique arytenoid muscles while the larynx rises under the epiglottis.",
+        "id": "Saat menelan aditus laryngis dipersempit oleh m. arytenoideus obliquus beserta pars aryepiglottica, sementara larynx terangkat ke bawah epiglottis."
+      }
+    }
+  },
+  {
+    "key": "aryepiglottic-fold",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Plica aryepiglottica",
+    "alt": ["Plicae aryepiglotticae"],
+    "en": "Aryepiglottic fold",
+    "desc": {
+      "en": "Mucosal fold from the side of the epiglottis to the arytenoid cartilage, forming the lateral edge of the laryngeal inlet. It contains the upper edge of the quadrangular membrane, the aryepiglottic muscle fibres and, at its back end, the cuneiform and corniculate tubercles.",
+      "id": "Lipatan mukosa dari tepi epiglottis ke cartilago arytenoidea yang membentuk batas lateral aditus laryngis. Di dalamnya terdapat tepi atas membrana quadrangularis, serabut pars aryepiglottica, dan di ujung belakangnya tuberculum cuneiforme serta tuberculum corniculatum."
+    },
+    "facts": {
+      "relations": {
+        "en": "The recessus piriformis lies lateral to it.",
+        "id": "Recessus piriformis terletak di lateralnya."
+      }
+    }
+  },
+  {
+    "key": "interarytenoid-notch",
+    "kind": "landmark",
+    "model": false,
+    "la": "Incisura interarytenoidea",
+    "alt": [],
+    "en": "Interarytenoid notch",
+    "desc": {
+      "en": "Notch in the mucosa between the two arytenoid cartilages that forms the posterior boundary of the laryngeal inlet.",
+      "id": "Lekukan mukosa di antara kedua cartilago arytenoidea yang menjadi batas posterior aditus laryngis."
+    },
+    "facts": {
+      "bone": "arytenoid-cartilage"
+    }
+  },
+  {
+    "key": "laryngeal-vestibule",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Vestibulum laryngis",
+    "alt": [],
+    "en": "Laryngeal vestibule",
+    "desc": {
+      "en": "Upper compartment of the laryngeal cavity, from the aditus laryngis down to the vestibular folds. Its sensory supply comes from the internal branch of the superior laryngeal nerve.",
+      "id": "Ruang teratas cavitas laryngis, dari aditus laryngis sampai plica vestibularis. Persarafan sensoriknya berasal dari ramus internus n. laryngei superioris."
+    },
+    "facts": {
+      "nerve": ["Ramus internus nervi laryngei superioris"]
+    }
+  },
+  {
+    "key": "vestibular-fold",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Plica vestibularis",
+    "alt": ["Plica ventricularis", "Plicae vestibulares", "Plica vestibularis laryngis"],
+    "en": "Vestibular fold (false vocal fold)",
+    "desc": {
+      "en": "Upper pair of mucosal folds in the larynx, above the vocal folds, with the lig. vestibulare as its core. The gap between the two folds is the rima vestibuli; the folds are protective and take little part in voice production.",
+      "id": "Pasangan lipatan mukosa bagian atas di dalam larynx, di atas plica vocalis, dengan lig. vestibulare sebagai intinya. Celah di antara kedua lipatan disebut rima vestibuli; lipatan ini bersifat protektif dan hampir tidak berperan dalam pembentukan suara."
+    },
+    "facts": {
+      "relations": {
+        "en": "Separated from the vocal fold below by the ventriculus laryngis.",
+        "id": "Dipisahkan dari plica vocalis di bawahnya oleh ventriculus laryngis."
+      }
+    }
+  },
+  {
+    "key": "laryngeal-ventricle",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Ventriculus laryngis",
+    "alt": ["Ventriculus laryngis Morgagni", "Ventriculus laryngis morgagni", "Sinus laryngis", "Sinus Morgagni"],
+    "en": "Laryngeal ventricle",
+    "desc": {
+      "en": "Lateral recess of the laryngeal cavity between the vestibular fold above and the vocal fold below. Its front end extends upward as the sacculus laryngis, whose glands lubricate the vocal folds.",
+      "id": "Kantong lateral cavitas laryngis di antara plica vestibularis di atas dan plica vocalis di bawah. Ujung depannya meluas ke atas sebagai sacculus laryngis yang kelenjarnya membasahi plica vocalis."
+    },
+    "facts": {
+      "location": {
+        "en": "Middle compartment of the laryngeal cavity (cavitas laryngis intermedia), on each side.",
+        "id": "Bagian tengah cavitas laryngis (cavitas laryngis intermedia), di kiri dan kanan."
+      }
+    }
+  },
+  {
+    "key": "vocal-fold",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Plica vocalis",
+    "alt": ["Plicae vocales", "Chorda vocalis", "Plica vocalis laryngis"],
+    "en": "Vocal fold (true vocal cord)",
+    "desc": {
+      "en": "Lower pair of mucosal folds in the larynx, running from the angle of the thyroid cartilage to the processus vocalis of the arytenoid. Each contains the lig. vocale and the m. vocalis, and their vibration produces the voice.",
+      "id": "Pasangan lipatan mukosa bagian bawah di dalam larynx, dari sudut cartilago thyroidea ke processus vocalis cartilaginis arytenoideae. Masing-masing berisi lig. vocale dan m. vocalis, dan getarannya menghasilkan suara."
+    },
+    "facts": {
+      "features": {
+        "en": "Covered by stratified squamous epithelium without a submucosal layer, so it looks pearly white on laryngoscopy.",
+        "id": "Dilapisi epitel skuamosa berlapis tanpa lapisan submukosa sehingga tampak putih mengilat pada laringoskopi."
+      },
+      "nerve": ["Ramus internus nervi laryngei superioris (above)", "Nervus laryngeus recurrens (below)"],
+      "clinical": {
+        "en": "The vocal folds mark the sensory border: mucosa above them is supplied by the internal laryngeal nerve, mucosa below by the recurrent laryngeal nerve.",
+        "id": "Plica vocalis menjadi batas persarafan sensorik: mukosa di atasnya dipersarafi ramus internus n. laryngei superioris, mukosa di bawahnya oleh n. laryngeus recurrens."
+      }
+    }
+  },
+  {
+    "key": "rima-glottidis",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Rima glottidis",
+    "alt": ["Rima glottis", "Glottis"],
+    "en": "Rima glottidis (glottis)",
+    "desc": {
+      "en": "The gap between the two vocal folds and the arytenoid cartilages; with the folds themselves it forms the glottis. It is the narrowest part of the adult larynx, with an intermembranous part in front (about three fifths) and an intercartilaginous part behind.",
+      "id": "Celah di antara kedua plica vocalis dan cartilago arytenoidea; bersama plica vocalis membentuk glottis. Rima glottidis adalah bagian tersempit larynx dewasa, terdiri atas pars intermembranacea di depan (kira-kira tiga perlima) dan pars intercartilaginea di belakang."
+    },
+    "facts": {
+      "features": {
+        "en": "Opened only by the m. cricoarytenoideus posterior; closed by the m. cricoarytenoideus lateralis, the arytenoid muscles and the thyroarytenoid.",
+        "id": "Hanya dibuka oleh m. cricoarytenoideus posterior; ditutup oleh m. cricoarytenoideus lateralis, m. arytenoideus transversus et obliquus, dan m. thyroarytenoideus."
+      }
+    }
+  },
+  {
+    "key": "infraglottic-cavity",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Cavitas infraglottica",
+    "alt": ["Cavum infraglotticum"],
+    "en": "Infraglottic cavity",
+    "desc": {
+      "en": "Lower compartment of the laryngeal cavity, from the vocal folds to the lower border of the cricoid cartilage, where it continues into the trachea. Its wall is formed by the conus elasticus and the cricoid ring.",
+      "id": "Ruang terbawah cavitas laryngis, dari plica vocalis sampai tepi bawah cartilago cricoidea tempat bersambung dengan trachea. Dindingnya dibentuk oleh conus elasticus dan cincin cartilago cricoidea."
+    },
+    "facts": {
+      "nerve": ["Nervus laryngeus recurrens"],
+      "clinical": {
+        "en": "In infants the subglottic region inside the cricoid ring is the narrowest part of the airway, so mucosal swelling here (croup) obstructs breathing quickly.",
+        "id": "Pada bayi daerah subglotis di dalam cincin cricoid adalah bagian tersempit jalan napas sehingga pembengkakan mukosa di sini (croup) cepat menyumbat pernapasan."
+      }
+    }
+  },
+  {
+    "key": "thyroid-cartilage",
+    "kind": "cartilage",
+    "la": "Cartilago thyroidea",
+    "alt": ["Cartilago thyreoidea"],
+    "en": "Thyroid cartilage",
+    "desc": {
+      "en": "The largest laryngeal cartilage, made of two laminae that fuse in front to form the prominentia laryngea (Adam's apple). It is hyaline cartilage, lies at C4-C5 and may ossify with age.",
+      "id": "Kartilago larynx terbesar, terdiri atas dua lamina yang bersatu di depan membentuk prominentia laryngea (jakun). Kartilago ini termasuk kartilago hialin, terletak setinggi C4-C5 dan dapat mengalami osifikasi pada usia lanjut."
+    },
+    "facts": {
+      "location": {
+        "en": "Below the hyoid bone, above the cricoid cartilage; the laminae meet at about 90 degrees in men and about 120 degrees in women.",
+        "id": "Di bawah os hyoideum dan di atas cartilago cricoidea; kedua lamina bertemu dengan sudut kira-kira 90 derajat pada pria dan 120 derajat pada wanita."
+      },
+      "features": {
+        "en": "Laminae, prominentia laryngea, incisura thyroidea superior and inferior, linea obliqua with tuberculum thyroideum superius and inferius, cornu superius and cornu inferius.",
+        "id": "Lamina dextra et sinistra, prominentia laryngea, incisura thyroidea superior dan inferior, linea obliqua dengan tuberculum thyroideum superius dan inferius, cornu superius dan cornu inferius."
+      },
+      "relations": {
+        "en": "Joined to the hyoid by the membrana thyrohyoidea, to the cricoid by the cricothyroid joints and the conus elasticus. The vocal and vestibular ligaments, the thyroarytenoid muscle and the stalk of the epiglottis attach to the inner surface of its angle.",
+        "id": "Dihubungkan ke os hyoideum oleh membrana thyrohyoidea, ke cartilago cricoidea oleh articulatio cricothyroidea dan conus elasticus. Lig. vocale, lig. vestibulare, m. thyroarytenoideus dan petiolus epiglottidis melekat pada permukaan dalam sudutnya."
+      }
+    },
+    "quiz": {"tissue": ["Cartilago hyalina", "hialin", "hyalin"]}
+  },
+  {
+    "key": "lamina-of-thyroid-cartilage",
+    "kind": "landmark",
+    "la": "Lamina cartilaginis thyroideae",
+    "alt": ["Lamina dextra cartilaginis thyroideae", "Lamina sinistra cartilaginis thyroideae", "Lamina cartilaginis thyreoideae", "Lamina dextra", "Lamina sinistra"],
+    "en": "Lamina of thyroid cartilage",
+    "desc": {
+      "en": "Each of the two quadrilateral plates of the thyroid cartilage. They fuse in front at the angle and are free behind, where they end in the superior and inferior horns.",
+      "id": "Masing-masing dari dua lempeng segi empat cartilago thyroidea. Keduanya bersatu di depan membentuk sudut dan bebas di belakang, berakhir sebagai cornu superius dan cornu inferius."
+    },
+    "facts": {
+      "bone": "thyroid-cartilage",
+      "attach": {
+        "en": "Outer surface: m. sternothyroideus, m. thyrohyoideus and m. constrictor pharyngis inferior along the linea obliqua. Inner surface near the angle: lig. vocale, lig. vestibulare, m. thyroarytenoideus.",
+        "id": "Permukaan luar: m. sternothyroideus, m. thyrohyoideus dan m. constrictor pharyngis inferior sepanjang linea obliqua. Permukaan dalam dekat sudut: lig. vocale, lig. vestibulare, m. thyroarytenoideus."
+      }
+    },
+    "quiz": {"bone": ["Cartilago thyroidea"]}
+  },
+  {
+    "key": "laryngeal-prominence",
+    "kind": "landmark",
+    "la": "Prominentia laryngea",
+    "alt": ["Prominentia laryngea cartilaginis thyroideae", "Pomum Adami"],
+    "en": "Laryngeal prominence (Adam's apple)",
+    "desc": {
+      "en": "Midline projection formed where the two thyroid laminae meet, most obvious in adult men. It is the main palpable landmark of the larynx.",
+      "id": "Tonjolan di garis tengah pada tempat bertemunya kedua lamina cartilago thyroidea, paling jelas pada pria dewasa. Tonjolan ini adalah patokan utama larynx yang dapat diraba."
+    },
+    "facts": {
+      "bone": "thyroid-cartilage"
+    },
+    "quiz": {"bone": ["Cartilago thyroidea"]}
+  },
+  {
+    "key": "superior-thyroid-notch",
+    "kind": "landmark",
+    "la": "Incisura thyroidea superior",
+    "alt": ["Incisura thyreoidea superior", "Incisura thyroidea superior cartilaginis thyroideae"],
+    "en": "Superior thyroid notch",
+    "desc": {
+      "en": "V-shaped notch in the upper border of the thyroid cartilage, just above the laryngeal prominence. It is easily felt in the midline of the neck.",
+      "id": "Takik berbentuk V pada tepi atas cartilago thyroidea, tepat di atas prominentia laryngea. Takik ini mudah diraba di garis tengah leher."
+    },
+    "facts": {
+      "bone": "thyroid-cartilage",
+      "attach": {
+        "en": "The membrana thyrohyoidea (median thyrohyoid ligament) attaches along the upper border here.",
+        "id": "Membrana thyrohyoidea (lig. thyrohyoideum medianum) melekat pada tepi atas di daerah ini."
+      }
+    },
+    "quiz": {"bone": ["Cartilago thyroidea"]}
+  },
+  {
+    "key": "inferior-thyroid-notch",
+    "kind": "landmark",
+    "la": "Incisura thyroidea inferior",
+    "alt": ["Incisura thyreoidea inferior", "Incisura thyroidea inferior cartilaginis thyroideae"],
+    "en": "Inferior thyroid notch",
+    "desc": {
+      "en": "Shallow notch in the middle of the lower border of the thyroid cartilage, above the median cricothyroid ligament.",
+      "id": "Takik dangkal di tengah tepi bawah cartilago thyroidea, di atas lig. cricothyroideum medianum."
+    },
+    "facts": {
+      "bone": "thyroid-cartilage"
+    },
+    "quiz": {"bone": ["Cartilago thyroidea"]}
+  },
+  {
+    "key": "oblique-line-of-thyroid-cartilage",
+    "kind": "landmark",
+    "la": "Linea obliqua",
+    "alt": ["Linea obliqua cartilaginis thyroideae", "Linea obliqua cartilaginis thyreoideae"],
+    "en": "Oblique line of thyroid cartilage",
+    "desc": {
+      "en": "Ridge on the outer surface of each thyroid lamina, running down and forward from the superior to the inferior thyroid tubercle.",
+      "id": "Rigi pada permukaan luar setiap lamina cartilago thyroidea yang berjalan ke bawah depan dari tuberculum thyroideum superius ke tuberculum thyroideum inferius."
+    },
+    "facts": {
+      "bone": "thyroid-cartilage",
+      "attach": {
+        "en": "M. sternothyroideus (insertion), m. thyrohyoideus (origin) and the thyropharyngeal part of m. constrictor pharyngis inferior.",
+        "id": "M. sternothyroideus (insersio), m. thyrohyoideus (origo) dan pars thyropharyngea m. constrictor pharyngis inferior."
+      }
+    },
+    "quiz": {"bone": ["Cartilago thyroidea"]}
+  },
+  {
+    "key": "superior-thyroid-tubercle",
+    "kind": "landmark",
+    "la": "Tuberculum thyroideum superius",
+    "alt": ["Tuberculum thyreoideum superius", "Tuberculum thyroideum superius cartilaginis thyroideae"],
+    "en": "Superior thyroid tubercle",
+    "desc": {
+      "en": "Small elevation at the upper end of the oblique line, near the root of the superior horn.",
+      "id": "Tonjolan kecil di ujung atas linea obliqua, dekat pangkal cornu superius."
+    },
+    "facts": {
+      "bone": "thyroid-cartilage"
+    },
+    "quiz": {"bone": ["Cartilago thyroidea"]}
+  },
+  {
+    "key": "inferior-thyroid-tubercle",
+    "kind": "landmark",
+    "la": "Tuberculum thyroideum inferius",
+    "alt": ["Tuberculum thyreoideum inferius", "Tuberculum thyroideum inferius cartilaginis thyroideae"],
+    "en": "Inferior thyroid tubercle",
+    "desc": {
+      "en": "Small elevation at the lower end of the oblique line, on the lower border of the lamina.",
+      "id": "Tonjolan kecil di ujung bawah linea obliqua, pada tepi bawah lamina."
+    },
+    "facts": {
+      "bone": "thyroid-cartilage"
+    },
+    "quiz": {"bone": ["Cartilago thyroidea"]}
+  },
+  {
+    "key": "superior-horn-of-thyroid-cartilage",
+    "kind": "landmark",
+    "la": "Cornu superius",
+    "alt": ["Cornu superius cartilaginis thyroideae", "Cornu superius cartilaginis thyreoideae"],
+    "en": "Superior horn of thyroid cartilage",
+    "desc": {
+      "en": "Long, slender upward projection from the posterior border of each thyroid lamina. Its tip is tied to the tip of the greater horn of the hyoid by the lig. thyrohyoideum laterale.",
+      "id": "Tonjolan panjang ramping ke atas dari tepi posterior setiap lamina cartilago thyroidea. Ujungnya dihubungkan dengan ujung cornu majus ossis hyoidei oleh lig. thyrohyoideum laterale."
+    },
+    "facts": {
+      "bone": "thyroid-cartilage",
+      "attach": {
+        "en": "Lig. thyrohyoideum laterale; posterior edge of the membrana thyrohyoidea.",
+        "id": "Lig. thyrohyoideum laterale; tepi posterior membrana thyrohyoidea."
+      }
+    },
+    "quiz": {"bone": ["Cartilago thyroidea"]}
+  },
+  {
+    "key": "inferior-horn-of-thyroid-cartilage",
+    "kind": "landmark",
+    "la": "Cornu inferius",
+    "alt": ["Cornu inferius cartilaginis thyroideae", "Cornu inferius cartilaginis thyreoideae"],
+    "en": "Inferior horn of thyroid cartilage",
+    "desc": {
+      "en": "Short, thick downward projection from the posterior border of each lamina. Its medial facet articulates with the side of the cricoid cartilage at the articulatio cricothyroidea.",
+      "id": "Tonjolan pendek dan tebal ke bawah dari tepi posterior setiap lamina. Faset di sisi medialnya bersendi dengan sisi cartilago cricoidea membentuk articulatio cricothyroidea."
+    },
+    "facts": {
+      "bone": "thyroid-cartilage",
+      "attach": {
+        "en": "Pars obliqua of m. cricothyroideus on its anterior border.",
+        "id": "Pars obliqua m. cricothyroidei pada tepi anteriornya."
+      }
+    },
+    "quiz": {"bone": ["Cartilago thyroidea"]}
+  },
+  {
+    "key": "cricoid-cartilage",
+    "kind": "cartilage",
+    "la": "Cartilago cricoidea",
+    "alt": [],
+    "en": "Cricoid cartilage",
+    "desc": {
+      "en": "The only complete cartilaginous ring of the airway, shaped like a signet ring with a narrow arch in front and a tall lamina behind. It lies at C6 and marks the lower end of both the larynx and the pharynx.",
+      "id": "Satu-satunya cincin kartilago yang utuh pada saluran napas, berbentuk seperti cincin stempel dengan arcus sempit di depan dan lamina tinggi di belakang. Kartilago ini terletak setinggi C6 dan menandai ujung bawah larynx sekaligus pharynx."
+    },
+    "facts": {
+      "location": {
+        "en": "Below the thyroid cartilage, above the first tracheal ring; the arch is palpable below the cricothyroid ligament.",
+        "id": "Di bawah cartilago thyroidea dan di atas cincin trachea pertama; arcus-nya dapat diraba di bawah lig. cricothyroideum."
+      },
+      "features": {
+        "en": "Arcus and lamina; facies articularis thyroidea on each side and facies articularis arytenoidea on the upper border of the lamina.",
+        "id": "Arcus dan lamina; facies articularis thyroidea di kedua sisi dan facies articularis arytenoidea pada tepi atas lamina."
+      },
+      "relations": {
+        "en": "Joined to the first tracheal ring by the lig. cricotracheale and to the thyroid cartilage by the lig. cricothyroideum medianum and the cricothyroid joints.",
+        "id": "Dihubungkan dengan cincin trachea pertama oleh lig. cricotracheale dan dengan cartilago thyroidea oleh lig. cricothyroideum medianum serta articulatio cricothyroidea."
+      },
+      "clinical": {
+        "en": "Pressure on the cricoid (cricoid pressure) squeezes the oesophagus against C6 to limit regurgitation during intubation.",
+        "id": "Penekanan pada cartilago cricoidea menjepit oesophagus ke C6 untuk mengurangi regurgitasi saat intubasi."
+      }
+    },
+    "quiz": {"tissue": ["Cartilago hyalina", "hialin", "hyalin"]}
+  },
+  {
+    "key": "arch-of-cricoid-cartilage",
+    "kind": "landmark",
+    "la": "Arcus cartilaginis cricoideae",
+    "alt": ["Arcus cricoideus"],
+    "en": "Arch of cricoid cartilage",
+    "desc": {
+      "en": "Narrow anterior part of the cricoid ring, felt just below the median cricothyroid ligament.",
+      "id": "Bagian depan cincin cricoid yang sempit, dapat diraba tepat di bawah lig. cricothyroideum medianum."
+    },
+    "facts": {
+      "bone": "cricoid-cartilage",
+      "attach": {
+        "en": "M. cricothyroideus (origin, outer surface); m. cricoarytenoideus lateralis (origin, upper border); conus elasticus and lig. cricothyroideum medianum (upper border).",
+        "id": "M. cricothyroideus (origo, permukaan luar); m. cricoarytenoideus lateralis (origo, tepi atas); conus elasticus dan lig. cricothyroideum medianum (tepi atas)."
+      }
+    },
+    "quiz": {"bone": ["Cartilago cricoidea"]}
+  },
+  {
+    "key": "lamina-of-cricoid-cartilage",
+    "kind": "landmark",
+    "la": "Lamina cartilaginis cricoideae",
+    "alt": ["Lamina cricoidea"],
+    "en": "Lamina of cricoid cartilage",
+    "desc": {
+      "en": "Tall, flat posterior part of the cricoid. Its posterior surface has a median ridge with a depression on each side for the m. cricoarytenoideus posterior.",
+      "id": "Bagian belakang cricoid yang tinggi dan pipih. Permukaan posteriornya memiliki rigi di tengah dengan cekungan di kiri dan kanannya untuk m. cricoarytenoideus posterior."
+    },
+    "facts": {
+      "bone": "cricoid-cartilage",
+      "attach": {
+        "en": "M. cricoarytenoideus posterior (origin); the longitudinal muscle of the oesophagus on the median ridge.",
+        "id": "M. cricoarytenoideus posterior (origo); lapisan otot longitudinal oesophagus pada rigi tengah."
+      }
+    },
+    "quiz": {"bone": ["Cartilago cricoidea"]}
+  },
+  {
+    "key": "arytenoid-articular-surface",
+    "kind": "landmark",
+    "la": "Facies articularis arytenoidea",
+    "alt": ["Facies articularis arytenoidea cartilaginis cricoideae"],
+    "en": "Arytenoid articular surface (of cricoid)",
+    "desc": {
+      "en": "Oval, convex facet on each side of the upper border of the cricoid lamina. It articulates with the base of the arytenoid cartilage at the articulatio cricoarytenoidea.",
+      "id": "Faset lonjong dan cembung di kiri dan kanan tepi atas lamina cartilaginis cricoideae. Faset ini bersendi dengan basis cartilaginis arytenoideae membentuk articulatio cricoarytenoidea."
+    },
+    "facts": {
+      "bone": "cricoid-cartilage"
+    },
+    "quiz": {"bone": ["Cartilago cricoidea"]}
+  },
+  {
+    "key": "thyroid-articular-surface",
+    "kind": "landmark",
+    "la": "Facies articularis thyroidea",
+    "alt": ["Facies articularis thyreoidea", "Facies articularis thyroidea cartilaginis cricoideae"],
+    "en": "Thyroid articular surface (of cricoid)",
+    "desc": {
+      "en": "Small round facet on each side of the cricoid where the arch meets the lamina. The inferior horn of the thyroid cartilage articulates here (articulatio cricothyroidea).",
+      "id": "Faset bulat kecil di sisi cricoid, pada pertemuan arcus dan lamina. Cornu inferius cartilaginis thyroideae bersendi di sini (articulatio cricothyroidea)."
+    },
+    "facts": {
+      "bone": "cricoid-cartilage"
+    },
+    "quiz": {"bone": ["Cartilago cricoidea"]}
+  },
+  {
+    "key": "arytenoid-cartilage",
+    "kind": "cartilage",
+    "la": "Cartilago arytenoidea",
+    "alt": ["Cartilago arytaenoidea"],
+    "en": "Arytenoid cartilage",
+    "desc": {
+      "en": "Paired, three-sided pyramidal cartilage sitting on the upper border of the cricoid lamina. Its processus vocalis carries the vocal ligament and its processus muscularis receives the crico-arytenoid muscles, so movements of this cartilage open and close the glottis.",
+      "id": "Kartilago berpasangan berbentuk piramid bersisi tiga yang duduk di tepi atas lamina cartilaginis cricoideae. Processus vocalis menjadi tempat lekat lig. vocale dan processus muscularis tempat lekat mm. cricoarytenoidei, sehingga gerakan kartilago ini membuka dan menutup glottis."
+    },
+    "facts": {
+      "location": {
+        "en": "Posterior part of the larynx, on the cricoid lamina; the corniculate cartilage sits on its apex.",
+        "id": "Bagian posterior larynx, di atas lamina cartilaginis cricoideae; cartilago corniculata duduk di atas apex-nya."
+      },
+      "features": {
+        "en": "Apex, basis with facies articularis, processus vocalis, processus muscularis, facies anterolateralis (colliculus, crista arcuata, fovea triangularis, fovea oblonga), facies medialis and facies posterior. Mostly hyaline cartilage; the apex and the tip of the vocal process are elastic.",
+        "id": "Apex, basis dengan facies articularis, processus vocalis, processus muscularis, facies anterolateralis (colliculus, crista arcuata, fovea triangularis, fovea oblonga), facies medialis dan facies posterior. Sebagian besar kartilago hialin; apex dan ujung processus vocalis berupa kartilago elastis."
+      }
+    },
+    "quiz": {"tissue": ["Cartilago hyalina", "hialin", "hyalin"]}
+  },
+  {
+    "key": "apex-of-arytenoid-cartilage",
+    "kind": "landmark",
+    "la": "Apex cartilaginis arytenoideae",
+    "alt": ["Apex arytenoidea"],
+    "en": "Apex of arytenoid cartilage",
+    "desc": {
+      "en": "Pointed upper end of the arytenoid, curving backward and medially. It carries the corniculate cartilage and receives the oblique arytenoid muscle of the opposite side.",
+      "id": "Ujung atas arytenoid yang runcing, melengkung ke belakang dan medial. Apex menopang cartilago corniculata dan menjadi tempat insersio m. arytenoideus obliquus sisi seberang."
+    },
+    "facts": {
+      "bone": "arytenoid-cartilage",
+      "attach": {
+        "en": "Cartilago corniculata; m. arytenoideus obliquus of the other side; lig. cricopharyngeum via the corniculate cartilage.",
+        "id": "Cartilago corniculata; m. arytenoideus obliquus sisi seberang; lig. cricopharyngeum melalui cartilago corniculata."
+      }
+    },
+    "quiz": {"bone": ["Cartilago arytenoidea"]}
+  },
+  {
+    "key": "base-of-arytenoid-cartilage",
+    "kind": "landmark",
+    "la": "Basis cartilaginis arytenoideae",
+    "alt": ["Basis arytenoidea"],
+    "en": "Base of arytenoid cartilage",
+    "desc": {
+      "en": "Broad lower part of the arytenoid with a concave articular facet for the cricoid. It projects forward as the processus vocalis and laterally as the processus muscularis.",
+      "id": "Bagian bawah arytenoid yang lebar dengan faset sendi cekung untuk cricoid. Basis menonjol ke depan sebagai processus vocalis dan ke lateral sebagai processus muscularis."
+    },
+    "facts": {
+      "bone": "arytenoid-cartilage"
+    },
+    "quiz": {"bone": ["Cartilago arytenoidea"]}
+  },
+  {
+    "key": "articular-surface-of-arytenoid-cartilage",
+    "kind": "landmark",
+    "la": "Facies articularis cartilaginis arytenoideae",
+    "alt": ["Facies articularis arytenoideae"],
+    "en": "Articular surface of arytenoid cartilage",
+    "desc": {
+      "en": "Concave facet on the underside of the base of the arytenoid. It glides and rotates on the facies articularis arytenoidea of the cricoid lamina.",
+      "id": "Faset cekung di permukaan bawah basis arytenoid. Faset ini meluncur dan berputar di atas facies articularis arytenoidea lamina cricoidea."
+    },
+    "facts": {
+      "bone": "arytenoid-cartilage"
+    },
+    "quiz": {"bone": ["Cartilago arytenoidea"]}
+  },
+  {
+    "key": "vocal-process",
+    "kind": "landmark",
+    "la": "Processus vocalis",
+    "alt": ["Processus vocalis cartilaginis arytenoideae"],
+    "en": "Vocal process",
+    "desc": {
+      "en": "Anterior projection of the arytenoid base that points toward the thyroid angle. The vocal ligament is attached to it, so medial or lateral swing of this process closes or opens the rima glottidis.",
+      "id": "Tonjolan anterior basis arytenoid yang mengarah ke sudut cartilago thyroidea. Lig. vocale melekat di sini, sehingga ayunan processus ini ke medial atau lateral menutup atau membuka rima glottidis."
+    },
+    "facts": {
+      "bone": "arytenoid-cartilage",
+      "attach": {
+        "en": "Lig. vocale; m. vocalis; posterior end of the conus elasticus.",
+        "id": "Lig. vocale; m. vocalis; ujung posterior conus elasticus."
+      }
+    },
+    "quiz": {"bone": ["Cartilago arytenoidea"]}
+  },
+  {
+    "key": "muscular-process",
+    "kind": "landmark",
+    "la": "Processus muscularis",
+    "alt": ["Processus muscularis cartilaginis arytenoideae"],
+    "en": "Muscular process",
+    "desc": {
+      "en": "Short, blunt lateral projection of the arytenoid base. The posterior crico-arytenoid pulls it backward (abduction) and the lateral crico-arytenoid pulls it forward (adduction).",
+      "id": "Tonjolan lateral basis arytenoid yang pendek dan tumpul. M. cricoarytenoideus posterior menariknya ke belakang (abduksi plica vocalis) dan m. cricoarytenoideus lateralis menariknya ke depan (adduksi)."
+    },
+    "facts": {
+      "bone": "arytenoid-cartilage",
+      "attach": {
+        "en": "M. cricoarytenoideus posterior (back), m. cricoarytenoideus lateralis (front), origin of m. arytenoideus obliquus.",
+        "id": "M. cricoarytenoideus posterior (belakang), m. cricoarytenoideus lateralis (depan), origo m. arytenoideus obliquus."
+      }
+    },
+    "quiz": {"bone": ["Cartilago arytenoidea"]}
+  },
+  {
+    "key": "anterolateral-surface-of-arytenoid-cartilage",
+    "kind": "landmark",
+    "la": "Facies anterolateralis",
+    "alt": ["Facies anterolateralis cartilaginis arytenoideae"],
+    "en": "Anterolateral surface of arytenoid cartilage",
+    "desc": {
+      "en": "Rough, slightly convex outer surface of the arytenoid. It carries the colliculus and the crista arcuata, which separates the fovea triangularis above from the fovea oblonga below.",
+      "id": "Permukaan luar arytenoid yang kasar dan agak cembung. Di sini terdapat colliculus dan crista arcuata yang memisahkan fovea triangularis di atas dari fovea oblonga di bawah."
+    },
+    "facts": {
+      "bone": "arytenoid-cartilage",
+      "attach": {
+        "en": "M. thyroarytenoideus and m. vocalis (fovea oblonga); lig. vestibulare just above the vocal process.",
+        "id": "M. thyroarytenoideus dan m. vocalis (fovea oblonga); lig. vestibulare tepat di atas processus vocalis."
+      }
+    },
+    "quiz": {"bone": ["Cartilago arytenoidea"]}
+  },
+  {
+    "key": "medial-surface-of-arytenoid-cartilage",
+    "kind": "landmark",
+    "la": "Facies medialis",
+    "alt": ["Facies medialis cartilaginis arytenoideae"],
+    "en": "Medial surface of arytenoid cartilage",
+    "desc": {
+      "en": "Narrow, smooth surface facing the opposite arytenoid, covered by mucosa. It forms the side wall of the intercartilaginous part of the rima glottidis.",
+      "id": "Permukaan sempit dan licin yang menghadap arytenoid sisi seberang, dilapisi mukosa. Permukaan ini membentuk dinding samping pars intercartilaginea rimae glottidis."
+    },
+    "facts": {
+      "bone": "arytenoid-cartilage"
+    },
+    "quiz": {"bone": ["Cartilago arytenoidea"]}
+  },
+  {
+    "key": "posterior-surface-of-arytenoid-cartilage",
+    "kind": "landmark",
+    "la": "Facies posterior",
+    "alt": ["Facies posterior cartilaginis arytenoideae"],
+    "en": "Posterior surface of arytenoid cartilage",
+    "desc": {
+      "en": "Smooth, concave triangular surface on the back of the arytenoid, covered by the arytenoid muscles.",
+      "id": "Permukaan segitiga yang licin dan cekung di belakang arytenoid, ditutupi oleh mm. arytenoidei."
+    },
+    "facts": {
+      "bone": "arytenoid-cartilage",
+      "attach": {
+        "en": "M. arytenoideus transversus and m. arytenoideus obliquus.",
+        "id": "M. arytenoideus transversus dan m. arytenoideus obliquus."
+      }
+    },
+    "quiz": {"bone": ["Cartilago arytenoidea"]}
+  },
+  {
+    "key": "colliculus-of-arytenoid-cartilage",
+    "kind": "landmark",
+    "la": "Colliculus",
+    "alt": ["Colliculus cartilaginis arytenoideae"],
+    "en": "Colliculus of arytenoid cartilage",
+    "desc": {
+      "en": "Small rounded elevation near the apex on the anterolateral surface, from which the crista arcuata starts.",
+      "id": "Tonjolan kecil membulat dekat apex pada facies anterolateralis, tempat crista arcuata bermula."
+    },
+    "facts": {
+      "bone": "arytenoid-cartilage"
+    },
+    "quiz": {"bone": ["Cartilago arytenoidea"]}
+  },
+  {
+    "key": "arcuate-crest",
+    "kind": "landmark",
+    "la": "Crista arcuata",
+    "alt": ["Crista arcuata cartilaginis arytenoideae"],
+    "en": "Arcuate crest",
+    "desc": {
+      "en": "Curved ridge on the anterolateral surface that runs from the colliculus backward, then down and forward to the vocal process. Its lower part separates the two foveae.",
+      "id": "Rigi melengkung pada facies anterolateralis yang berjalan dari colliculus ke belakang, lalu ke bawah dan depan menuju processus vocalis. Bagian bawahnya memisahkan kedua fovea."
+    },
+    "facts": {
+      "bone": "arytenoid-cartilage"
+    },
+    "quiz": {"bone": ["Cartilago arytenoidea"]}
+  },
+  {
+    "key": "triangular-fovea",
+    "kind": "landmark",
+    "la": "Fovea triangularis",
+    "alt": ["Fovea triangularis cartilaginis arytenoideae"],
+    "en": "Triangular fovea",
+    "desc": {
+      "en": "Upper, triangular depression on the anterolateral surface of the arytenoid, above the crista arcuata. The vestibular ligament attaches to the arytenoid nearby, just above the vocal process.",
+      "id": "Cekungan atas berbentuk segitiga pada facies anterolateralis arytenoid, di atas crista arcuata. Lig. vestibulare melekat pada arytenoid di dekatnya, tepat di atas processus vocalis."
+    },
+    "facts": {
+      "bone": "arytenoid-cartilage"
+    },
+    "quiz": {"bone": ["Cartilago arytenoidea"]}
+  },
+  {
+    "key": "oblong-fovea",
+    "kind": "landmark",
+    "la": "Fovea oblonga",
+    "alt": ["Fovea oblonga cartilaginis arytenoideae"],
+    "en": "Oblong fovea",
+    "desc": {
+      "en": "Lower, elongated depression on the anterolateral surface of the arytenoid, below the crista arcuata. The vocalis part of the thyroarytenoid muscle attaches here.",
+      "id": "Cekungan bawah yang memanjang pada facies anterolateralis arytenoid, di bawah crista arcuata. M. vocalis (bagian m. thyroarytenoideus) melekat di sini."
+    },
+    "facts": {
+      "bone": "arytenoid-cartilage",
+      "attach": {
+        "en": "M. vocalis and m. thyroarytenoideus.",
+        "id": "M. vocalis dan m. thyroarytenoideus."
+      }
+    },
+    "quiz": {"bone": ["Cartilago arytenoidea"]}
+  },
+  {
+    "key": "corniculate-cartilage",
+    "kind": "cartilage",
+    "la": "Cartilago corniculata",
+    "alt": ["Cartilago Santorini"],
+    "en": "Corniculate cartilage",
+    "desc": {
+      "en": "Small paired nodule of elastic cartilage on the apex of each arytenoid, lying in the back of the aryepiglottic fold. It raises the tuberculum corniculatum seen on laryngoscopy.",
+      "id": "Nodul kecil kartilago elastis yang berpasangan di atas apex setiap arytenoid, terletak di bagian belakang plica aryepiglottica. Kartilago ini membentuk tuberculum corniculatum yang terlihat pada laringoskopi."
+    },
+    "facts": {
+      "location": {
+        "en": "On the apex of the arytenoid cartilage, at the posterior end of the plica aryepiglottica.",
+        "id": "Di atas apex cartilaginis arytenoideae, di ujung posterior plica aryepiglottica."
+      },
+      "relations": {
+        "en": "The lig. cricopharyngeum runs from it to the back of the cricoid lamina.",
+        "id": "Lig. cricopharyngeum berjalan darinya ke permukaan belakang lamina cricoidea."
+      }
+    },
+    "quiz": {"tissue": ["Cartilago elastica", "elastis", "elastik"]}
+  },
+  {
+    "key": "cuneiform-cartilage",
+    "kind": "cartilage",
+    "model": false,
+    "la": "Cartilago cuneiformis",
+    "alt": ["Cartilago Wrisbergi"],
+    "en": "Cuneiform cartilage",
+    "desc": {
+      "en": "Small rod of elastic cartilage in each aryepiglottic fold, in front of the corniculate cartilage. It stiffens the fold and raises the tuberculum cuneiforme.",
+      "id": "Batang kecil kartilago elastis di dalam setiap plica aryepiglottica, di depan cartilago corniculata. Kartilago ini menguatkan lipatan dan membentuk tuberculum cuneiforme."
+    },
+    "facts": {
+      "location": {
+        "en": "Inside the plica aryepiglottica, anterosuperior to the corniculate cartilage; it does not articulate with other cartilages.",
+        "id": "Di dalam plica aryepiglottica, anterosuperior terhadap cartilago corniculata; tidak bersendi dengan kartilago lain."
+      }
+    },
+    "quiz": {"tissue": ["Cartilago elastica", "elastis", "elastik"]}
+  },
+  {
+    "key": "epiglottis",
+    "kind": "cartilage",
+    "la": "Epiglottis",
+    "alt": ["Cartilago epiglottica"],
+    "en": "Epiglottis",
+    "desc": {
+      "en": "Leaf-shaped plate of elastic cartilage behind the root of the tongue, forming the front wall of the laryngeal inlet. Its stalk (petiolus) is attached to the inner surface of the thyroid angle, and during swallowing it folds back over the inlet as the larynx rises.",
+      "id": "Lempeng kartilago elastis berbentuk daun di belakang radix linguae yang membentuk dinding depan aditus laryngis. Tangkainya (petiolus) melekat pada permukaan dalam sudut cartilago thyroidea, dan saat menelan epiglottis melipat ke belakang menutupi aditus laryngis sementara larynx terangkat."
+    },
+    "facts": {
+      "location": {
+        "en": "Behind the tongue and hyoid bone; its upper free edge reaches about C3 and is visible behind the tongue in some people.",
+        "id": "Di belakang lidah dan os hyoideum; tepi atasnya yang bebas mencapai kira-kira C3."
+      },
+      "features": {
+        "en": "Petiolus epiglottidis, tuberculum epiglotticum on the posterior surface; the plica glossoepiglottica mediana and laterales bound the valleculae epiglotticae in front.",
+        "id": "Petiolus epiglottidis dan tuberculum epiglotticum di permukaan posterior; plica glossoepiglottica mediana dan lateralis membatasi valleculae epiglotticae di depannya."
+      },
+      "relations": {
+        "en": "Lig. thyroepiglotticum to the thyroid angle, lig. hyoepiglotticum to the hyoid body, membrana quadrangularis to the arytenoids.",
+        "id": "Lig. thyroepiglotticum ke sudut cartilago thyroidea, lig. hyoepiglotticum ke corpus ossis hyoidei, membrana quadrangularis ke arytenoid."
+      },
+      "nerve": ["Ramus internus nervi laryngei superioris", "Nervus glossopharyngeus (anterior surface)"],
+      "clinical": {
+        "en": "Acute epiglottitis swells the epiglottis and can block the airway, especially in children.",
+        "id": "Epiglotitis akut membuat epiglottis membengkak dan dapat menyumbat jalan napas, terutama pada anak."
+      }
+    },
+    "quiz": {"tissue": ["Cartilago elastica", "elastis", "elastik"]}
+  },
+  {
+    "key": "triticeous-cartilage",
+    "kind": "cartilage",
+    "model": false,
+    "la": "Cartilago triticea",
+    "alt": [],
+    "en": "Triticeous cartilage",
+    "desc": {
+      "en": "Small, inconstant nodule of cartilage inside the lateral thyrohyoid ligament, between the superior horn of the thyroid cartilage and the greater horn of the hyoid. When calcified it can be mistaken for a foreign body on X-ray.",
+      "id": "Nodul kartilago kecil yang tidak selalu ada, terletak di dalam lig. thyrohyoideum laterale di antara cornu superius cartilaginis thyroideae dan cornu majus ossis hyoidei. Bila mengalami kalsifikasi dapat dikira benda asing pada foto rontgen."
+    },
+    "facts": {
+      "location": {
+        "en": "Within the lig. thyrohyoideum laterale.",
+        "id": "Di dalam lig. thyrohyoideum laterale."
+      }
+    }
+  },
+  {
+    "key": "hyoid-bone",
+    "kind": "bone",
+    "la": "Os hyoideum",
+    "alt": ["Os hyoides"],
+    "en": "Hyoid bone",
+    "desc": {
+      "en": "U-shaped bone at the level of C3, between the mandible and the thyroid cartilage. It articulates with no other bone and is held by muscles and ligaments; the larynx hangs from it by the thyrohyoid membrane.",
+      "id": "Tulang berbentuk huruf U setinggi C3, di antara mandibula dan cartilago thyroidea. Os hyoideum tidak bersendi dengan tulang lain dan hanya ditahan oleh otot dan ligamentum; larynx tergantung padanya melalui membrana thyrohyoidea."
+    },
+    "facts": {
+      "type": "Os irregulare",
+      "skeleton": "Skeleton axiale",
+      "articulates": [],
+      "features": ["body-of-hyoid-bone", "greater-horn-of-hyoid-bone", "lesser-horn-of-hyoid-bone"],
+      "region": {
+        "en": "Anterior neck, at the angle between the floor of the mouth and the front of the neck (C3).",
+        "id": "Leher bagian depan, pada sudut antara dasar mulut dan permukaan depan leher (C3)."
+      },
+      "clinical": {
+        "en": "A fractured hyoid (often the greater horn) at autopsy suggests strangulation.",
+        "id": "Fraktur os hyoideum (sering pada cornu majus) pada autopsi mengarah pada pencekikan."
+      }
+    },
+    "quiz": {
+      "type": ["Os irregulare", "irregulare"],
+      "skeleton": ["Skeleton axiale", "axiale"]
+    }
+  },
+  {
+    "key": "body-of-hyoid-bone",
+    "kind": "landmark",
+    "la": "Corpus ossis hyoidei",
+    "alt": ["Corpus hyoidei"],
+    "en": "Body of hyoid bone",
+    "desc": {
+      "en": "Central, quadrilateral part of the hyoid. Its anterior surface gives attachment to most suprahyoid and infrahyoid muscles; the thyrohyoid membrane attaches to the upper border of its posterior surface.",
+      "id": "Bagian tengah os hyoideum yang berbentuk segi empat. Permukaan depannya menjadi tempat lekat sebagian besar otot suprahyoid dan infrahyoid; membrana thyrohyoidea melekat pada tepi atas permukaan posteriornya."
+    },
+    "facts": {
+      "bone": "hyoid-bone",
+      "attach": {
+        "en": "M. geniohyoideus, m. mylohyoideus, m. hyoglossus, m. sternohyoideus, m. omohyoideus, m. thyrohyoideus; lig. hyoepiglotticum and membrana thyrohyoidea (lig. thyrohyoideum medianum).",
+        "id": "M. geniohyoideus, m. mylohyoideus, m. hyoglossus, m. sternohyoideus, m. omohyoideus, m. thyrohyoideus; lig. hyoepiglotticum dan membrana thyrohyoidea (lig. thyrohyoideum medianum)."
+      }
+    },
+    "quiz": {"bone": ["Os hyoideum"]}
+  },
+  {
+    "key": "greater-horn-of-hyoid-bone",
+    "kind": "landmark",
+    "la": "Cornu majus",
+    "alt": ["Cornu majus ossis hyoidei", "Cornu maius ossis hyoidei"],
+    "en": "Greater horn of hyoid bone",
+    "desc": {
+      "en": "Long, flat process projecting backward from each end of the hyoid body. Its tip is linked to the superior horn of the thyroid cartilage by the lig. thyrohyoideum laterale.",
+      "id": "Tonjolan panjang dan pipih yang mengarah ke belakang dari setiap ujung corpus ossis hyoidei. Ujungnya dihubungkan dengan cornu superius cartilaginis thyroideae oleh lig. thyrohyoideum laterale."
+    },
+    "facts": {
+      "bone": "hyoid-bone",
+      "attach": {
+        "en": "M. constrictor pharyngis medius, m. hyoglossus, m. thyrohyoideus; membrana thyrohyoidea and lig. thyrohyoideum laterale.",
+        "id": "M. constrictor pharyngis medius, m. hyoglossus, m. thyrohyoideus; membrana thyrohyoidea dan lig. thyrohyoideum laterale."
+      }
+    },
+    "quiz": {"bone": ["Os hyoideum"]}
+  },
+  {
+    "key": "lesser-horn-of-hyoid-bone",
+    "kind": "landmark",
+    "la": "Cornu minus",
+    "alt": ["Cornu minus ossis hyoidei"],
+    "en": "Lesser horn of hyoid bone",
+    "desc": {
+      "en": "Small conical projection at the junction of the body and the greater horn. The stylohyoid ligament attaches to its tip.",
+      "id": "Tonjolan kecil berbentuk kerucut pada pertemuan corpus dan cornu majus. Lig. stylohyoideum melekat pada ujungnya."
+    },
+    "facts": {
+      "bone": "hyoid-bone",
+      "attach": {
+        "en": "Lig. stylohyoideum; some fibres of m. constrictor pharyngis medius.",
+        "id": "Lig. stylohyoideum; sebagian serabut m. constrictor pharyngis medius."
+      }
+    },
+    "quiz": {"bone": ["Os hyoideum"]}
+  }
+]
