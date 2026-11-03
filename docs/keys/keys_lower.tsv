@@ -1,0 +1,453 @@
+key	English (model)	TA2 Latin	type	context
+joints-of-lower-limb	Joints of lower limb  [GROUP]	Juncturae membri inferioris	group	
+muscular-system-of-lower-limb	Muscular system of lower limb  [GROUP]	Systema musculare membri inferioris	group	
+tibiofibular-syndesmosis	Tibiofibular syndesmosis  [GROUP]	Syndesmosis tibiofibularis	group	Joints of free lower limb > Fibrous joints of free lower limb
+ankle-joint	Ankle joint  [GROUP]	Articulatio talocruralis	group	Joints of free lower limb > Synovial joints of free lower limb
+hip-joint	Hip joint  [GROUP]	Articulatio coxae	group	Joints of free lower limb > Synovial joints of free lower limb
+joints-of-foot	Joints of foot  [GROUP]	Articulationes pedis	group	Joints of free lower limb > Synovial joints of free lower limb
+knee-joint	Knee joint  [GROUP]	Articulatio genus	group	Joints of free lower limb > Synovial joints of free lower limb
+superior-tibiofibular-joint	Superior tibiofibular joint  [GROUP]	Articulatio tibiofibularis	group	Joints of free lower limb > Synovial joints of free lower limb
+joints-of-free-lower-limb	Joints of free lower limb  [GROUP]	Juncturae partis liberae membri inferioris	group	Joints of lower limb
+joints-of-pelvic-girdle	Joints of pelvic girdle  [GROUP]	Juncturae cinguli pelvici	group	Joints of lower limb
+fibrous-joints-of-free-lower-limb	Fibrous joints of free lower limb  [GROUP]	Juncturae fibrosae partis liberae membri inferioris	group	Joints of lower limb > Joints of free lower limb
+synovial-joints-of-free-lower-limb	Synovial joints of free lower limb  [GROUP]	Articulationes partis liberae membri inferioris	group	Joints of lower limb > Joints of free lower limb
+cartilaginous-joints-of-pelvic-girdle	Cartilaginous joints of pelvic girdle  [GROUP]	Juncturae cartilagineae cinguli pelvici	group	Joints of lower limb > Joints of pelvic girdle
+fibrous-joints-of-pelvic-girdle	Fibrous joints of pelvic girdle  [GROUP]	Juncturae fibrosae cinguli pelvici	group	Joints of lower limb > Joints of pelvic girdle
+synovial-joints-of-pelvic-girdle	Synovial joints of pelvic girdle  [GROUP]	Articulationes cinguli pelvici	group	Joints of lower limb > Joints of pelvic girdle
+sacro-iliac-joint	Sacro-iliac joint  [GROUP]	Articulatio sacroiliaca	group	Joints of pelvic girdle > Synovial joints of pelvic girdle
+adductor-hallucis	Adductor hallucis  [GROUP]	Adductor hallucis	group	Muscles of lower limb > Muscles of foot
+flexor-hallucis-brevis	Flexor hallucis brevis  [GROUP]	Flexor brevis hallucis	group	Muscles of lower limb > Muscles of foot
+deep-part-of-posterior-compartment-of-leg	Deep part of posterior compartment of leg  [GROUP]	Pars profunda compartimenti posterioris cruris	group	Muscles of lower limb > Posterior compartment of leg
+superficial-part-of-posterior-compartment-of-leg	Superficial part of posterior compartment of leg  [GROUP]	Pars superficialis compartimenti posterioris cruris	group	Muscles of lower limb > Posterior compartment of leg
+bursae-of-lower-limb	Bursae of lower limb  [GROUP]	Bursae membri inferiori	group	Muscular system of lower limb
+muscles-of-lower-limb	Muscles of lower limb  [GROUP]	Musculi membri inferioris	group	Muscular system of lower limb
+tendon-sheaths-of-lower-limb	Tendon sheaths of lower limb  [GROUP]	Vaginae tendinum membri inferioris	group	Muscular system of lower limb
+anterior-compartment-of-leg	Anterior compartment of leg  [GROUP]	Compartimentum anterius cruris	group	Muscular system of lower limb > Muscles of lower limb
+anterior-compartment-of-thigh	Anterior compartment of thigh  [GROUP]	Compartimentum anterius femoris	group	Muscular system of lower limb > Muscles of lower limb
+deep-gluteal-muscles	Deep gluteal muscles  [GROUP]	Musculi glutei profundi	group	Muscular system of lower limb > Muscles of lower limb
+iliopsoas-muscle	Iliopsoas muscle  [GROUP]	Iliopsoas	group	Muscular system of lower limb > Muscles of lower limb
+lateral-compartment-of-leg	Lateral compartment of leg  [GROUP]	Compartimentum laterale cruris	group	Muscular system of lower limb > Muscles of lower limb
+medial-compartment-of-thigh	Medial compartment of thigh  [GROUP]	Compartimentum mediale muscle	group	Muscular system of lower limb > Muscles of lower limb
+muscles-of-foot	Muscles of foot  [GROUP]	Musculi pedis	group	Muscular system of lower limb > Muscles of lower limb
+posterior-compartment-of-leg	Posterior compartment of leg  [GROUP]	Compartimentum posterius cruris	group	Muscular system of lower limb > Muscles of lower limb
+posterior-compartment-of-thigh	Posterior compartment of thigh  [GROUP]	Compartimentum posterius femoris	group	Muscular system of lower limb > Muscles of lower limb
+superficial-gluteal-muscles	Superficial gluteal muscles  [GROUP]	Musculi glutei superficiales	group	Muscular system of lower limb > Muscles of lower limb
+anterior-tarsal-tendon-sheaths	Anterior tarsal tendon sheaths  [GROUP]	Vaginae tarseae anteriores tendinum	group	Muscular system of lower limb > Tendon sheaths of lower limb
+fibular-tarsal-tendon-sheaths	Fibular tarsal tendon sheaths  [GROUP]	Vaginae tarseae fibulares tendinum	group	Muscular system of lower limb > Tendon sheaths of lower limb
+tendon-sheaths-of-toes	Tendon sheaths of toes  [GROUP]	Vaginae tendinum digitorum pedis	group	Muscular system of lower limb > Tendon sheaths of lower limb
+tibial-tarsal-tendon-sheaths	Tibial tarsal tendon sheaths  [GROUP]	Vaginae tarseae tibiales tendinum	group	Muscular system of lower limb > Tendon sheaths of lower limb
+lateral-collateral-ligament-of-ankle	Lateral collateral ligament of ankle  [GROUP]	Ligamentum collaterale laterale articulationis talocruralis	group	Synovial joints of free lower limb > Ankle joint
+medial-collateral-ligament-of-ankle	Medial collateral ligament of ankle  [GROUP]	Ligamentum collaterale mediale articulationis talocruralis	group	Synovial joints of free lower limb > Ankle joint
+intermetatarsal-joints	Intermetatarsal joints  [GROUP]	Articulationes intermetatarseae	group	Synovial joints of free lower limb > Joints of foot
+interphalangeal-joints-of-foot	Interphalangeal joints of foot  [GROUP]	Articulationes interphalangeae pedis	group	Synovial joints of free lower limb > Joints of foot
+intertarsal-joints	Intertarsal joints  [GROUP]	Articulationes intertarseae	group	Synovial joints of free lower limb > Joints of foot
+metatarsophalangeal-joints	Metatarsophalangeal joints  [GROUP]	Articulationes metatarsophalangeae	group	Synovial joints of free lower limb > Joints of foot
+tarsometatarsal-joints	Tarsometatarsal joints  [GROUP]	Articulationes tarsometatarseae	group	Synovial joints of free lower limb > Joints of foot
+anterior-tibiofibular-ligament	Anterior tibiofibular ligament	Ligamentum tibiofibulare anterius	joints	Joints of free lower limb > Fibrous joints of free lower limb > Tibiofibular syndesmosis
+posterior-tibiofibular-ligament	Posterior tibiofibular ligament	Ligamentum tibiofibulare posterius	joints	Joints of free lower limb > Fibrous joints of free lower limb > Tibiofibular syndesmosis
+transverse-tibiofibular-ligament	Transverse tibiofibular ligament	Ligamentum tibiofibulare transversum	joints	Joints of free lower limb > Fibrous joints of free lower limb > Tibiofibular syndesmosis
+acetabular-labrum	Acetabular labrum	Labrum acetabuli	joints	Joints of free lower limb > Synovial joints of free lower limb > Hip joint
+articular-capsule-of-hip-joint	Articular capsule of hip joint	Capsula articularis coxae	joints	Joints of free lower limb > Synovial joints of free lower limb > Hip joint
+descending-part-of-iliofemoral-ligament	Descending part of iliofemoral ligament	Pars descendens ligamenti iliofemoralis	joints	Joints of free lower limb > Synovial joints of free lower limb > Hip joint
+frenula-capsulae	Frenula capsulae		joints	Joints of free lower limb > Synovial joints of free lower limb > Hip joint
+ischiofemoral-ligament	Ischiofemoral ligament	Ligamentum ischiofemorale	joints	Joints of free lower limb > Synovial joints of free lower limb > Hip joint
+ligament-of-head-of-femur	Ligament of head of femur	Ligamentum capitis femoris	joints	Joints of free lower limb > Synovial joints of free lower limb > Hip joint
+pubofemoral-ligament	Pubofemoral ligament	Ligamentum pubofemorale	joints	Joints of free lower limb > Synovial joints of free lower limb > Hip joint
+transverse-acetabular-ligament	Transverse acetabular ligament	Ligamentum transversum acetabuli	joints	Joints of free lower limb > Synovial joints of free lower limb > Hip joint
+transverse-part-of-iliofemoral-ligament	Transverse part of iliofemoral ligament	Pars transversa ligamenti iliofemoralis	joints	Joints of free lower limb > Synovial joints of free lower limb > Hip joint
+anterior-cruciate-ligament	Anterior cruciate ligament	Ligamentum cruciatum anterius	joints	Joints of free lower limb > Synovial joints of free lower limb > Knee joint
+anterior-meniscotibial-ligament-lateral-meniscus	Anterior meniscotibial ligament (Lateral meniscus)		joints	Joints of free lower limb > Synovial joints of free lower limb > Knee joint
+anterior-meniscotibial-ligament-medial-meniscus	Anterior meniscotibial ligament (Medial meniscus)		joints	Joints of free lower limb > Synovial joints of free lower limb > Knee joint
+arcuate-popliteal-ligament	Arcuate popliteal ligament	Ligamentum popliteum arcuatum	joints	Joints of free lower limb > Synovial joints of free lower limb > Knee joint
+articular-capsule-of-knee-joint	Articular capsule of knee joint	Capsula articularis genus	joints	Joints of free lower limb > Synovial joints of free lower limb > Knee joint
+deep-part-of-tibial-collateral-ligament	Deep part of tibial collateral ligament	Pars profunda ligamenti collateralis tibialis	joints	Joints of free lower limb > Synovial joints of free lower limb > Knee joint
+fibular-collateral-ligament	Fibular collateral ligament	Ligamentum collaterale fibulare	joints	Joints of free lower limb > Synovial joints of free lower limb > Knee joint
+infrapatellar-fat-pad	Infrapatellar fat pad	Corpus adiposum infrapatellare	joints	Joints of free lower limb > Synovial joints of free lower limb > Knee joint
+lateral-meniscus	Lateral meniscus	Meniscus lateralis	joints	Joints of free lower limb > Synovial joints of free lower limb > Knee joint
+medial-meniscus	Medial meniscus	Meniscus medialis	joints	Joints of free lower limb > Synovial joints of free lower limb > Knee joint
+meniscopatellar-ligament	Meniscopatellar ligament	Ligamentum meniscopatellare	joints	Joints of free lower limb > Synovial joints of free lower limb > Knee joint
+oblique-popliteal-ligament	Oblique popliteal ligament	Ligamentum popliteum obliquum	joints	Joints of free lower limb > Synovial joints of free lower limb > Knee joint
+popliteofibular-ligament	Popliteofibular ligament	Ligamentum popliteofibulare	joints	Joints of free lower limb > Synovial joints of free lower limb > Knee joint
+posterior-cruciate-ligament	Posterior cruciate ligament	Ligamentum decussatum posterius	joints	Joints of free lower limb > Synovial joints of free lower limb > Knee joint
+posterior-meniscotibial-ligament-lateral-meniscus	Posterior meniscotibial ligament (Lateral meniscus)		joints	Joints of free lower limb > Synovial joints of free lower limb > Knee joint
+posterior-meniscotibial-ligament-medial-meniscus	Posterior meniscotibial ligament (Medial meniscus)		joints	Joints of free lower limb > Synovial joints of free lower limb > Knee joint
+superficial-part-of-tibial-collateral-ligament	Superficial part of tibial collateral ligament	Pars superficialis ligamenti collateralis tibialis	joints	Joints of free lower limb > Synovial joints of free lower limb > Knee joint
+transverse-ligament-of-knee	Transverse ligament of knee	Ligamentum transversum genus	joints	Joints of free lower limb > Synovial joints of free lower limb > Knee joint
+anterior-ligament-of-fibular-head	Anterior ligament of fibular head	Ligamentum anterius capitis fibulae	joints	Joints of free lower limb > Synovial joints of free lower limb > Superior tibiofibular joint
+articular-capsule-of-superior-tibiofibular-joint	Articular capsule of superior tibiofibular joint	Capsula articularis articularis tibiofibularis superior	joints	Joints of free lower limb > Synovial joints of free lower limb > Superior tibiofibular joint
+posterior-ligament-of-fibular-head	Posterior ligament of fibular head	Ligamentum posterius capitis fibulae	joints	Joints of free lower limb > Synovial joints of free lower limb > Superior tibiofibular joint
+interosseous-membrane-of-leg	Interosseous membrane of leg	Membrana interossea cruris	joints	Joints of lower limb > Joints of free lower limb > Fibrous joints of free lower limb
+inferior-pubic-ligament	Inferior pubic ligament	Ligamentum pubicum inferius	joints	Joints of lower limb > Joints of pelvic girdle > Cartilaginous joints of pelvic girdle
+interpubic-disc	Interpubic disc	Discus interpubicus	joints	Joints of lower limb > Joints of pelvic girdle > Cartilaginous joints of pelvic girdle
+pubic-symphysis	Pubic symphysis	Symphysis pubica	joints	Joints of lower limb > Joints of pelvic girdle > Cartilaginous joints of pelvic girdle
+superior-pubic-ligament	Superior pubic ligament	Ligamentum pubicum superius	joints	Joints of lower limb > Joints of pelvic girdle > Cartilaginous joints of pelvic girdle
+triradiate-cartilage	Triradiate cartilage	Cartilago triradiata	joints	Joints of lower limb > Joints of pelvic girdle > Cartilaginous joints of pelvic girdle
+iliolumbar-ligament	Iliolumbar ligament	Ligamentum iliolumbale	joints	Joints of lower limb > Joints of pelvic girdle > Fibrous joints of pelvic girdle
+obturator-membrane	Obturator membrane	Membrana obturatoria	joints	Joints of lower limb > Joints of pelvic girdle > Fibrous joints of pelvic girdle
+sacrospinous-ligament	Sacrospinous ligament	Ligamentum sacrospinale	joints	Joints of lower limb > Joints of pelvic girdle > Fibrous joints of pelvic girdle
+sacrotuberous-ligament	Sacrotuberous ligament	Ligamentum sacrotuberale	joints	Joints of lower limb > Joints of pelvic girdle > Fibrous joints of pelvic girdle
+anterior-sacro-iliac-ligament	Anterior sacro-iliac ligament	Ligamentum sacroiliacum anterius	joints	Joints of pelvic girdle > Synovial joints of pelvic girdle > Sacro-iliac joint
+interosseous-sacro-iliac-ligament	Interosseous sacro-iliac ligament	Ligamentum sacroiliacum interosseum	joints	Joints of pelvic girdle > Synovial joints of pelvic girdle > Sacro-iliac joint
+posterior-sacro-iliac-ligament	Posterior sacro-iliac ligament	Ligamentum sacroiliacum posterius	joints	Joints of pelvic girdle > Synovial joints of pelvic girdle > Sacro-iliac joint
+anterior-talofibular-ligament	Anterior talofibular ligament	Ligamentum talofibulare anterius	joints	Synovial joints of free lower limb > Ankle joint > Lateral collateral ligament of ankle
+calcaneofibular-ligament	Calcaneofibular ligament	Ligamentum calcaneofibulare	joints	Synovial joints of free lower limb > Ankle joint > Lateral collateral ligament of ankle
+posterior-talofibular-ligament	Posterior talofibular ligament	Ligamentum talofibulare posterius	joints	Synovial joints of free lower limb > Ankle joint > Lateral collateral ligament of ankle
+posterior-tibiotalar-ligament	Posterior tibiotalar ligament	Ligamentum talotibiale posterius	joints	Synovial joints of free lower limb > Ankle joint > Medial collateral ligament of ankle
+tibiocalcaneal-ligament	Tibiocalcaneal ligament	Ligamentum calcaneotibiale	joints	Synovial joints of free lower limb > Ankle joint > Medial collateral ligament of ankle
+tibionavicular-ligament	Tibionavicular ligament	Ligamentum tibionaviculare	joints	Synovial joints of free lower limb > Ankle joint > Medial collateral ligament of ankle
+dorsal-metatarsal-ligaments	Dorsal metatarsal ligaments	Ligamenta metatarsea dorsalia	joints	Synovial joints of free lower limb > Joints of foot > Intermetatarsal joints
+intersesamoid-ligament	Intersesamoid ligament	Ligamentum intersesamoideum	joints	Synovial joints of free lower limb > Joints of foot > Intermetatarsal joints
+metatarsal-interosseous-ligaments	Metatarsal interosseous ligaments	Ligamenta metatarsea interossea	joints	Synovial joints of free lower limb > Joints of foot > Intermetatarsal joints
+plantar-metatarsal-ligaments	Plantar metatarsal ligaments	Ligamenta metatarsea plantaria	joints	Synovial joints of free lower limb > Joints of foot > Intermetatarsal joints
+articular-capsule-of-interphalangeal-joint-of-great-toe	Articular capsule of interphalangeal joint of great toe	Capsula articularis articuli interphalangealis hallucis	joints	Synovial joints of free lower limb > Joints of foot > Interphalangeal joints of foot
+articular-capsules-of-distal-interphalangeal-joints-of-foot	Articular capsules of distal interphalangeal joints of foot	Capsulae articulares distali art. interphalangelorum pedis	joints	Synovial joints of free lower limb > Joints of foot > Interphalangeal joints of foot
+articular-capsules-of-proximal-interphalangeal-joints-of-foot	Articular capsules of proximal interphalangeal joints of foot	Capsulae articulares art. interphalangelorum prox. pedis	joints	Synovial joints of free lower limb > Joints of foot > Interphalangeal joints of foot
+collateral-interphalangeal-ligaments-of-foot	Collateral interphalangeal ligaments of foot	Ligamenta interphalangea collateralia pedis	joints	Synovial joints of free lower limb > Joints of foot > Interphalangeal joints of foot
+plantar-interphalangeal-ligaments	Plantar interphalangeal ligaments	Ligamenta interphalangea plantaria	joints	Synovial joints of free lower limb > Joints of foot > Interphalangeal joints of foot
+anterior-talocalcaneal-ligament	Anterior talocalcaneal ligament	Ligamentum talocalcaneum anterius	joints	Synovial joints of free lower limb > Joints of foot > Intertarsal joints
+calcaneocuboid-ligament	Calcaneocuboid ligament	Ligamentum calcaneocuboideum	joints	Synovial joints of free lower limb > Joints of foot > Intertarsal joints
+calcaneonavicular-ligament	Calcaneonavicular ligament	Ligamentum calcaneonaviculare	joints	Synovial joints of free lower limb > Joints of foot > Intertarsal joints
+cuneocuboid-interosseous-ligament	Cuneocuboid interosseous ligament	Ligamentum cuneocuboideum interosseum	joints	Synovial joints of free lower limb > Joints of foot > Intertarsal joints
+dorsal-calcaneocuboid-ligament	Dorsal calcaneocuboid ligament	Ligamentum calcaneocuboideum dorsale	joints	Synovial joints of free lower limb > Joints of foot > Intertarsal joints
+dorsal-cuboideonavicular-ligament	Dorsal cuboideonavicular ligament	Ligamentum cuboideonaviculare dorsale	joints	Synovial joints of free lower limb > Joints of foot > Intertarsal joints
+dorsal-cuneocuboid-ligament	Dorsal cuneocuboid ligament	Ligamentum cuneocuboideum dorsale	joints	Synovial joints of free lower limb > Joints of foot > Intertarsal joints
+dorsal-cuneonavicular-ligaments	Dorsal cuneonavicular ligaments	Ligamenta cuneonavicularia dorsalia	joints	Synovial joints of free lower limb > Joints of foot > Intertarsal joints
+dorsal-intercuneiform-ligaments	Dorsal intercuneiform ligaments	Ligamenta intercuneiformia dorsalia	joints	Synovial joints of free lower limb > Joints of foot > Intertarsal joints
+intercuneiform-interosseous-ligaments	Intercuneiform interosseous ligaments	Ligamenta intercuneiformia interossea	joints	Synovial joints of free lower limb > Joints of foot > Intertarsal joints
+lateral-talocalcaneal-ligament	Lateral talocalcaneal ligament	Ligamentum talocalcaneum laterale	joints	Synovial joints of free lower limb > Joints of foot > Intertarsal joints
+long-plantar-ligament	Long plantar ligament	Ligamentum plantare longum	joints	Synovial joints of free lower limb > Joints of foot > Intertarsal joints
+medial-talocalcaneal-ligament	Medial talocalcaneal ligament	Ligamentum talocalcaneum mediale	joints	Synovial joints of free lower limb > Joints of foot > Intertarsal joints
+plantar-calcaneocuboid-ligament	Plantar calcaneocuboid ligament	Ligamentum calcaneocuboideum plantare	joints	Synovial joints of free lower limb > Joints of foot > Intertarsal joints
+plantar-calcaneonavicular-ligament	Plantar calcaneonavicular ligament	Ligamentum calcaneonaviculare plantare	joints	Synovial joints of free lower limb > Joints of foot > Intertarsal joints
+plantar-cuboideonavicular-ligament	Plantar cuboideonavicular ligament	Ligamentum cuboideonaviculare plantare	joints	Synovial joints of free lower limb > Joints of foot > Intertarsal joints
+plantar-cuneocuboid-ligament	Plantar cuneocuboid ligament	Ligamentum cuneocuboideum plantare	joints	Synovial joints of free lower limb > Joints of foot > Intertarsal joints
+plantar-cuneonavicular-ligaments	Plantar cuneonavicular ligaments	Ligamenta cuneonavicularia plantaria	joints	Synovial joints of free lower limb > Joints of foot > Intertarsal joints
+plantar-intercuneiform-ligaments	Plantar intercuneiform ligaments	Ligamenta intercuneiformia plantaria	joints	Synovial joints of free lower limb > Joints of foot > Intertarsal joints
+posterior-talocalcaneal-ligament	Posterior talocalcaneal ligament	Ligamentum talocalcaneum posterius	joints	Synovial joints of free lower limb > Joints of foot > Intertarsal joints
+talocalcaneal-interosseous-ligament	Talocalcaneal interosseous ligament	Ligamentum talocalcaneum interosseum	joints	Synovial joints of free lower limb > Joints of foot > Intertarsal joints
+talonavicular-ligament	Talonavicular ligament	Ligamentum talonaviculare	joints	Synovial joints of free lower limb > Joints of foot > Intertarsal joints
+articular-capsules-of-metatarsophalangeal-joints	Articular capsules of metatarsophalangeal joints	Capsulae articulareae articulationes glenohumerae	joints	Synovial joints of free lower limb > Joints of foot > Metatarsophalangeal joints
+collateral-metatarsophalangeal-ligaments	Collateral metatarsophalangeal ligaments	Ligamenta metatarsophalangea collateralia	joints	Synovial joints of free lower limb > Joints of foot > Metatarsophalangeal joints
+deep-transverse-metatarsal-ligament	Deep transverse metatarsal ligament	Ligamentum metatarseum transversum profundum	joints	Synovial joints of free lower limb > Joints of foot > Metatarsophalangeal joints
+plantar-metatarsophalangeal-ligaments	Plantar metatarsophalangeal ligaments	Ligamenta metatarsophalangea plantaria	joints	Synovial joints of free lower limb > Joints of foot > Metatarsophalangeal joints
+cuneometatarsal-interosseous-ligaments	Cuneometatarsal interosseous ligaments	Ligamenta cuneometatarsea interossea	joints	Synovial joints of free lower limb > Joints of foot > Tarsometatarsal joints
+dorsal-tarsometatarsal-ligaments	Dorsal tarsometatarsal ligaments	Ligamenta tarsometatarsea dorsalia	joints	Synovial joints of free lower limb > Joints of foot > Tarsometatarsal joints
+plantar-tarsometatarsal-ligaments	Plantar tarsometatarsal ligaments	Ligamenta tarsometatarsea plantaria	joints	Synovial joints of free lower limb > Joints of foot > Tarsometatarsal joints
+anterior-process-of-calcaneus	Anterior process of calcaneus	Processus anterior calcanei	landmark	on Calcaneus
+articular-surface-for-cuboid	Articular surface for cuboid	Facies articularis cuboidea	landmark	on Calcaneus
+calcaneal-sulcus	Calcaneal sulcus	Sulcus calcanei	landmark	on Calcaneus
+calcaneal-tubercle	Calcaneal tubercle	Tuberculum calcanei	landmark	on Calcaneus
+calcaneal-tuberosity	Calcaneal tuberosity	Tuber calcanei	landmark	on Calcaneus
+groove-for-tendon-of-flexor-hallucis-longus-of-calcaneus	Groove for tendon of flexor hallucis longus of calcaneus	Sulcus tendinis flexoris longi hallucis calcanei	landmark	on Calcaneus
+lateral-process-of-calcaneal-tuberosity	Lateral process of calcaneal tuberosity	Processus lateralis tuberis calcanei	landmark	on Calcaneus
+medial-process-of-calcaneal-tuberosity	Medial process of calcaneal tuberosity	Processus medialis tuberis calcanei	landmark	on Calcaneus
+sustentaculum-tali	Sustentaculum tali	Sustentaculum tali	landmark	on Calcaneus
+tarsal-sinus	Tarsal sinus	Sinus tarsi	landmark	on Calcaneus
+groove-for-tendon-of-fibularis-longus-muscle-of-cuboid-bone	Groove for tendon of fibularis longus muscle of cuboid bone	Sulcus tendinis musculi fibularis longi ossis cuboidei	landmark	on Cuboid bone
+tuberosity-of-cuboid-bone	Tuberosity of cuboid bone	Tuberositas ossis cuboidei	landmark	on Cuboid bone
+tuberosity-of-distal-phalanx-of-foot	Tuberosity of distal phalanx of foot	Tuberositas phalangis distalis pedis	landmark	on Distal phalanx of third finger of foot
+adductor-tubercle	Adductor tubercle	Tuberculum adductorium	landmark	on Femur
+body-of-femur	Body of femur	Corpus ossis femoris	landmark	on Femur
+femur	Femur	Os femoris	landmark	on Femur
+fovea-for-ligament-of-head-of-femur	Fovea for ligament of head of femur	Fovea capitis ossis femoris	landmark	on Femur
+gluteal-tuberosity	Gluteal tuberosity	Tuberositas glutea	landmark	on Femur
+greater-trochanter	Greater trochanter	Trochanter major	landmark	on Femur
+groove-for-popliteus-muscle	Groove for popliteus muscle	Sulcus popliteus	landmark	on Femur
+head-of-femur	Head of femur	Caput ossis femoris	landmark	on Femur
+intercondylar-fossa	Intercondylar fossa	Fossa intercondylaris	landmark	on Femur
+intercondylar-line	Intercondylar line	Linea intercondylaris	landmark	on Femur
+intertrochanteric-crest	Intertrochanteric crest	Crista intertrochanterica	landmark	on Femur
+intertrochanteric-line	Intertrochanteric line	Linea intertrochanterica	landmark	on Femur
+lateral-condyle-of-femur	Lateral condyle of femur	Condylus lateralis femoris	landmark	on Femur
+lateral-epicondyle-of-femur	Lateral epicondyle of femur	Epicondylus lateralis ossis femoris	landmark	on Femur
+lateral-lip-of-linea-aspera	Lateral lip of linea aspera	Labium laterale lineae asperae	landmark	on Femur
+lateral-supracondylar-line	Lateral supracondylar line	Linea supracondylaris lateralis	landmark	on Femur
+lesser-trochanter	Lesser trochanter	Trochanter minor	landmark	on Femur
+linea-aspera	Linea aspera	Linea aspera	landmark	on Femur
+medial-condyle-of-femur	Medial condyle of femur	Condylus medialis ossis femoris	landmark	on Femur
+medial-epicondyle-of-femur	Medial epicondyle of femur	Epicondylus medialis ossis femoris	landmark	on Femur
+medial-lip-of-linea-aspera	Medial lip of linea aspera	Labium mediale lineae asperae	landmark	on Femur
+medial-supracondylar-line	Medial supracondylar line	Linea supracondylaris medialis	landmark	on Femur
+neck-of-femur	Neck of femur	Collum ossis femoris	landmark	on Femur
+patellar-surface-of-femur	Patellar surface of femur	Facies patellaris ossis femoris	landmark	on Femur
+pectineal-line-of-femur	Pectineal line of femur	Linea pectinea	landmark	on Femur
+popliteal-surface-of-femur	Popliteal surface of femur	Facies poplitea ossis femoris	landmark	on Femur
+quadrate-tubercle	Quadrate tubercle	Tuberculum quadratum	landmark	on Femur
+third-trochanter	Third trochanter		landmark	on Femur
+trochanteric-fossa	Trochanteric fossa	Fossa trochanterica	landmark	on Femur
+anterior-border-of-fibula	Anterior border of fibula	Margo anterior fibulae	landmark	on Fibula
+anteromedial-surface-of-fibula	Anteromedial surface of fibula	Facies anteromedialis fibulae	landmark	on Fibula
+apex-of-head-of-fibula	Apex of head of fibula	Apex capitis fibulae	landmark	on Fibula
+articular-facet-of-head-of-fibula	Articular facet of head of fibula	Facies articularis capitis fibulae	landmark	on Fibula
+articular-facet-of-lateral-malleolus	Articular facet of lateral malleolus	Facies articularis malleoli lateralis	landmark	on Fibula
+body-of-fibula	Body of fibula	Corpus fibulae	landmark	on Fibula
+fibula	Fibula	Fibula	landmark	on Fibula
+head-of-fibula	Head of fibula	Caput fibulae	landmark	on Fibula
+interosseous-crest-of-fibula	Interosseous crest of fibula	Crista interossea fibulae	landmark	on Fibula
+lateral-malleolus	Lateral malleolus	Malleolus lateralis	landmark	on Fibula
+lateral-surface-of-fibula	Lateral surface of fibula	Facies lateralis fibulae	landmark	on Fibula
+malleolar-fossa	Malleolar fossa	Fossa malleoli lateralis	landmark	on Fibula
+malleolar-groove-of-fibula	Malleolar groove of fibula	Sulcus malleolaris fibulae	landmark	on Fibula
+medial-border-of-fibula	Medial border of fibula	Margo medialis fibulae	landmark	on Fibula
+medial-surface-of-fibula	Medial surface of fibula	Facies medialis fibulae	landmark	on Fibula
+neck-of-fibula	Neck of fibula	Collum fibulae	landmark	on Fibula
+posterior-border-of-fibula	Posterior border of fibula	Margo posterior fibulae	landmark	on Fibula
+posterior-surface-of-fibula	Posterior surface of fibula	Facies posterior fibulae	landmark	on Fibula
+posteromedial-surface-of-fibula	Posteromedial surface of fibula	Facies posteromedialis fibulae	landmark	on Fibula
+fifth-metatarsal-bone	Fifth metatarsal bone	Os quintum metatarsi	landmark	on Fifth metatarsal bone
+first-metatarsal-bone	First metatarsal bone	Os primum metatarsi	landmark	on First metatarsal bone
+acetabular-fossa	Acetabular fossa	Fossa acetabuli	landmark	on Hip bone
+acetabular-margin	Acetabular margin	Margo acetabuli	landmark	on Hip bone
+acetabular-notch	Acetabular notch	Incisura acetabuli	landmark	on Hip bone
+acetabulum	Acetabulum	Acetabulum	landmark	on Hip bone
+ala-of-ilium	Ala of ilium	Ala ossis ilium	landmark	on Hip bone
+anterior-gluteal-line	Anterior gluteal line	Linea glutea anterior	landmark	on Hip bone
+anterior-inferior-iliac-spine	Anterior inferior iliac spine	Spina iliaca anterior inferior	landmark	on Hip bone
+anterior-obturator-tubercle	Anterior obturator tubercle	Tuberculum obturatorium anterius	landmark	on Hip bone
+anterior-superior-iliac-spine	Anterior superior iliac spine	Spina iliaca anterior superior	landmark	on Hip bone
+arcuate-line-of-ilium	Arcuate line of ilium	Linea arcuata ossis ilium	landmark	on Hip bone
+auricular-surface-of-ilium	Auricular surface of ilium	Facies auricularis ossis ilium	landmark	on Hip bone
+body-of-ilium	Body of ilium	Corpus ossis ilium	landmark	on Hip bone
+body-of-ischium	Body of ischium	Corpus ossis ischii	landmark	on Hip bone
+body-of-pubis	Body of pubis	Corpus ossis pubis	landmark	on Hip bone
+gluteal-surface-of-ilium	Gluteal surface of ilium	Facies glutea ossis ilium	landmark	on Hip bone
+greater-sciatic-foramen	Greater sciatic foramen	Foramen ischiadicum majus	landmark	on Hip bone
+greater-sciatic-notch	Greater sciatic notch	Incisura ischiadica major	landmark	on Hip bone
+hip-bone	Hip bone	Os coxae	landmark	on Hip bone
+iliac-crest	Iliac crest	Crista iliaca	landmark	on Hip bone
+iliac-fossa	Iliac fossa	Fossa iliaca	landmark	on Hip bone
+iliac-tubercle	Iliac tubercle	Tuberculum iliacum	landmark	on Hip bone
+iliac-tuberosity	Iliac tuberosity	Tuberositas iliaca	landmark	on Hip bone
+iliopubic-eminence	Iliopubic eminence	Eminentia iliopubica	landmark	on Hip bone
+ilium	Ilium	Os ilium	landmark	on Hip bone
+inferior-gluteal-line	Inferior gluteal line	Linea glutea inferior	landmark	on Hip bone
+inferior-pubic-ramus	Inferior pubic ramus	Ramus inferior ossis pubis	landmark	on Hip bone
+inner-lip-of-iliac-crest	Inner lip of iliac crest	Labium internum cristae iliacae	landmark	on Hip bone
+intermediate-zone	Intermediate zone	Linea intermedia	landmark	on Hip bone
+ischial-spine	Ischial spine	Spina ischiadica	landmark	on Hip bone
+ischial-tuberosity	Ischial tuberosity	Tuber ischiadicum	landmark	on Hip bone
+ischiopubic-ramus	Ischiopubic ramus	Ramus ischiopubicus	landmark	on Hip bone
+ischium	Ischium	Os ischii	landmark	on Hip bone
+lesser-sciatic-foramen	Lesser sciatic foramen	Foramen ischiadicum minus	landmark	on Hip bone
+lesser-sciatic-notch	Lesser sciatic notch	Incisura ischiadica minor	landmark	on Hip bone
+lunate-surface	Lunate surface	Facies lunata	landmark	on Hip bone
+obturator-crest	Obturator crest	Crista obturatoria	landmark	on Hip bone
+obturator-foramen	Obturator foramen	Foramen obturatum	landmark	on Hip bone
+obturator-groove	Obturator groove	Sulcus obturatorius	landmark	on Hip bone
+outer-lip-of-iliac-crest	Outer lip of iliac crest	Labium externum cristae iliacae	landmark	on Hip bone
+pecten-pubis	Pecten pubis	Pecten ossis pubis	landmark	on Hip bone
+posterior-gluteal-line	Posterior gluteal line	Linea glutea posterior	landmark	on Hip bone
+posterior-inferior-iliac-spine	Posterior inferior iliac spine	Spina iliaca posterior inferior	landmark	on Hip bone
+posterior-obturator-tubercle	Posterior obturator tubercle		landmark	on Hip bone
+posterior-superior-iliac-spine	Posterior superior iliac spine	Spina iliaca posterior superior	landmark	on Hip bone
+pubic-crest	Pubic crest	Crista pubica	landmark	on Hip bone
+pubic-tubercle	Pubic tubercle	Tuberculum pubicum	landmark	on Hip bone
+pubis	Pubis	Os pubis	landmark	on Hip bone
+ramus-of-ischium	Ramus of ischium	Ramus ossis ischii	landmark	on Hip bone
+sacropelvic-surface-of-ilium	Sacropelvic surface of ilium	Facies sacropelvica ossis ilium	landmark	on Hip bone
+superior-pubic-ramus	Superior pubic ramus	Ramus superior ossis pubis	landmark	on Hip bone
+supra-acetabular-groove	Supra-acetabular groove	Sulcus supraacetabularis	landmark	on Hip bone
+symphysial-surface-of-pubis	Symphysial surface of pubis	Facies symphysialis ossis pubis	landmark	on Hip bone
+tuberosity-of-navicular-bone	Tuberosity of navicular bone	Tuberositas ossis navicularis	landmark	on Navicular bone
+base-of-phalanx-of-foot	Base of phalanx of foot	Basis phalangis pedis	landmark	on Proximal phalanx of third finger of foot
+body-of-phalanx-of-foot	Body of phalanx of foot	Corpus phalangis pedis	landmark	on Proximal phalanx of third finger of foot
+head-of-phalanx-of-foot	Head of phalanx of foot	Caput phalangis pedis	landmark	on Proximal phalanx of third finger of foot
+trochlea-of-phalanx-of-foot	Trochlea of phalanx of foot	Trochlea phalangis pedis	landmark	on Proximal phalanx of third finger of foot
+body-of-talus	Body of talus	Corpus ossis tali	landmark	on Talus
+facet-for-calcaneonavicular-part-of-bifurcate-ligament	Facet for calcaneonavicular part of bifurcate ligament	Facies art.. partis calcaneonavicularis ligamenti bifurcati	landmark	on Talus
+facet-for-plantar-calcaneonavicular-ligament	Facet for plantar calcaneonavicular ligament	Facies articularis ligamenti calcaneonavicularis plantaris	landmark	on Talus
+groove-for-tendon-of-flexor-hallucis-longus-of-talus	Groove for tendon of flexor hallucis longus of talus	Sulcus tendinis flexoris longi hallucis ossis tali	landmark	on Talus
+head-of-talus	Head of talus	Caput ossis tali	landmark	on Talus
+lateral-malleolar-facet	Lateral malleolar facet	Facies malleolaris lateralis	landmark	on Talus
+lateral-process-of-talus	Lateral process of talus	Processus lateralis ossis tali	landmark	on Talus
+lateral-tubercle	Lateral tubercle	Tuberculum laterale	landmark	on Talus
+medial-malleolar-facet	Medial malleolar facet	Facies malleolaris medialis	landmark	on Talus
+medial-tubercle	Medial tubercle	Tuberculum mediale	landmark	on Talus
+middle-facet-for-calcaneus	Middle facet for calcaneus	Facies articularis calcanea media	landmark	on Talus
+navicular-articular-surface	Navicular articular surface	Facies articularis navicularis	landmark	on Talus
+neck-of-talus	Neck of talus	Collum ossis tali	landmark	on Talus
+posterior-calcaneal-articular-facet	Posterior calcaneal articular facet	Facies articularis calcanea posterior	landmark	on Talus
+posterior-process-of-talus	Posterior process of talus	Processus posterior ossis tali	landmark	on Talus
+superior-facet-of-talus	Superior facet of talus	Facies superior ossis tali	landmark	on Talus
+talar-sulcus	Talar sulcus	Sulcus ossis tali	landmark	on Talus
+trochlea-of-talus	Trochlea of talus	Trochlea ossis tali	landmark	on Talus
+base-of-metatarsal-bone	Base of metatarsal bone	Basis ossis metatarsi	landmark	on Third metatarsal bone
+body-of-metatarsal-bone	Body of metatarsal bone	Corpus ossis metatarsi	landmark	on Third metatarsal bone
+head-of-metatarsal-bone	Head of metatarsal bone	Caput ossis metatarsi	landmark	on Third metatarsal bone
+anterior-border-of-tibia	Anterior border of tibia	Margo anterior tibiae	landmark	on Tibia
+anterior-intercondylar-area	Anterior intercondylar area	Area intercondylaris anterior	landmark	on Tibia
+articular-facet-of-medial-malleolus	Articular facet of medial malleolus	Facies articularis malleoli	landmark	on Tibia
+articular-surface-of-medial-condyle	Articular surface of medial condyle	Facies articularis condyli medialis	landmark	on Tibia
+body-of-tibia	Body of tibia	Corpus tibiae	landmark	on Tibia
+fibular-articular-facet	Fibular articular facet	Facies articularis fibularis	landmark	on Tibia
+fibular-notch	Fibular notch	Incisura fibularis	landmark	on Tibia
+inferior-articular-surface-of-tibia	Inferior articular surface of tibia	Facies articularis inferior tibiae	landmark	on Tibia
+intercondylar-area	Intercondylar area	Area intercondylaris	landmark	on Tibia
+intercondylar-eminence	Intercondylar eminence	Eminentia intercondylaris	landmark	on Tibia
+interosseous-border-of-tibia	Interosseous border of tibia	Margo interosseus tibiae	landmark	on Tibia
+lateral-condyle-of-tibia	Lateral condyle of tibia	Condylus lateralis tibiae	landmark	on Tibia
+lateral-intercondylar-tubercle	Lateral intercondylar tubercle	Tuberculum intercondylare laterale	landmark	on Tibia
+lateral-surface-of-tibia	Lateral surface of tibia	Facies lateralis tibiae	landmark	on Tibia
+malleolar-groove-of-tibia	Malleolar groove of tibia	Sulcus malleolaris tibiae	landmark	on Tibia
+medial-border-of-tibia	Medial border of tibia	Margo medialis tibiae	landmark	on Tibia
+medial-condyle-of-tibia	Medial condyle of tibia	Condylus medialis tibiae	landmark	on Tibia
+medial-intercondylar-tubercle	Medial intercondylar tubercle	Tuberculum intercondylare mediale	landmark	on Tibia
+medial-malleolus	Medial malleolus	Malleolus medialis	landmark	on Tibia
+medial-surface-of-tibia	Medial surface of tibia	Facies medialis tibiae	landmark	on Tibia
+posterior-intercondylar-area	Posterior intercondylar area	Area intercondylaris posterior	landmark	on Tibia
+posterior-malleolus	Posterior malleolus	Malleolus posterior	landmark	on Tibia
+posterior-surface-of-tibia	Posterior surface of tibia	Facies posterior tibiae	landmark	on Tibia
+soleal-line	Soleal line	Linea musculi solei	landmark	on Tibia
+superior-articular-surface-of-lateral-condyle	Superior articular surface of lateral condyle	Facies articularis superior condyli lateralis	landmark	on Tibia
+superior-articular-surfaces-of-tibia	Superior articular surfaces of tibia	Facies articulares superiores tibiae	landmark	on Tibia
+tibia	Tibia	Tibia	landmark	on Tibia
+tibial-plateau	Tibial plateau	Planum tibiae	landmark	on Tibia
+tibial-tuberosity	Tibial tuberosity	Tuberositas tibiae	landmark	on Tibia
+tubercle-of-iliotibial-tract	Tubercle of iliotibial tract	Tuberculum tractus iliotibialis	landmark	on Tibia
+anterior-intermuscular-septum-of-leg	Anterior intermuscular septum of leg	Septum intermusculare anterius cruris	muscles	Fasciae > Fasciae of lower limb
+crural-fascia	Crural fascia	Fascia cruris	muscles	Fasciae > Fasciae of lower limb
+fascia-lata	Fascia lata	Fascia lata	muscles	Fasciae > Fasciae of lower limb
+flexor-retinaculum-of-ankle	Flexor retinaculum of ankle	Retinaculum flexorium tali	muscles	Fasciae > Fasciae of lower limb
+iliopectineal-arch	Iliopectineal arch	Arcus iliopectineus	muscles	Fasciae > Fasciae of lower limb
+inferior-extensor-retinaculum-of-ankle	Inferior extensor retinaculum of ankle	Retinaculum extensorium inferius tali	muscles	Fasciae > Fasciae of lower limb
+inferior-fibular-retinaculum	Inferior fibular retinaculum	Retinaculum fibulare inferius	muscles	Fasciae > Fasciae of lower limb
+lateral-femoral-intermuscular-septum	Lateral femoral intermuscular septum	Septum intermusculare laterale femoris	muscles	Fasciae > Fasciae of lower limb
+medial-femoral-intermuscular-septum	Medial femoral intermuscular septum	Septum intermusculare mediale femoris	muscles	Fasciae > Fasciae of lower limb
+piriformis-fascia	Piriformis fascia	Fascia musculi piriformis	muscles	Fasciae > Fasciae of lower limb
+plantar-aponeurosis	Plantar aponeurosis	Aponeurosis plantaris	muscles	Fasciae > Fasciae of lower limb
+popliteal-fascia	Popliteal fascia	Fascia poplitea	muscles	Fasciae > Fasciae of lower limb
+posterior-intermuscular-septum-of-leg	Posterior intermuscular septum of leg	Septum intermusculare posterius cruris	muscles	Fasciae > Fasciae of lower limb
+superficial-transverse-metatarsal-ligament	Superficial transverse metatarsal ligament	Ligamentum metatarseum transversum superficiale	muscles	Fasciae > Fasciae of lower limb
+superior-extensor-retinaculum-of-ankle	Superior extensor retinaculum of ankle	Retinaculum extensorium superius tali	muscles	Fasciae > Fasciae of lower limb
+superior-fibular-retinaculum	Superior fibular retinaculum	Retinaculum fibulare superius	muscles	Fasciae > Fasciae of lower limb
+transverse-intermuscular-septum-of-leg	Transverse intermuscular septum of leg	Septum intermusculare transversum cruris	muscles	Fasciae > Fasciae of lower limb
+oblique-head-of-adductor-hallucis	Oblique head of adductor hallucis	Caput obliquum adductoris hallucis	muscles	Muscles of lower limb > Muscles of foot > Adductor hallucis
+transverse-head-of-adductor-hallucis	Transverse head of adductor hallucis	Caput transversum adductoris hallucis	muscles	Muscles of lower limb > Muscles of foot > Adductor hallucis
+lateral-head-of-flexor-hallucis-brevis	Lateral head of flexor hallucis brevis	Caput laterale flexoris brevis hallucis	muscles	Muscles of lower limb > Muscles of foot > Flexor hallucis brevis
+medial-head-of-flexor-hallucis-brevis	Medial head of flexor hallucis brevis	Caput mediale flexoris brevis hallucis	muscles	Muscles of lower limb > Muscles of foot > Flexor hallucis brevis
+flexor-digitorum-longus	Flexor digitorum longus	Musculus flexor digitorum longus	muscles	Muscles of lower limb > Posterior compartment of leg > Deep part of posterior compartment of leg
+flexor-hallucis-longus	Flexor hallucis longus	Flexor longus hallucis	muscles	Muscles of lower limb > Posterior compartment of leg > Deep part of posterior compartment of leg
+popliteus-muscle	Popliteus muscle	Musculus popliteus	muscles	Muscles of lower limb > Posterior compartment of leg > Deep part of posterior compartment of leg
+tibialis-posterior-muscle	Tibialis posterior muscle	Musculus tibialis posterior	muscles	Muscles of lower limb > Posterior compartment of leg > Deep part of posterior compartment of leg
+calcaneal-tendon	Calcaneal tendon	Tendo calcaneus	muscles	Muscles of lower limb > Posterior compartment of leg > Superficial part of posterior compartment of leg
+lateral-head-of-gastrocnemius	Lateral head of gastrocnemius	Caput laterale musculi gastrocnemii	muscles	Muscles of lower limb > Posterior compartment of leg > Superficial part of posterior compartment of leg
+medial-head-of-gastrocnemius	Medial head of gastrocnemius	Caput mediale musculi gastrocnemii	muscles	Muscles of lower limb > Posterior compartment of leg > Superficial part of posterior compartment of leg
+plantaris-muscle	Plantaris muscle	Musculus plantaris	muscles	Muscles of lower limb > Posterior compartment of leg > Superficial part of posterior compartment of leg
+soleus-muscle	Soleus muscle	Musculus soleus	muscles	Muscles of lower limb > Posterior compartment of leg > Superficial part of posterior compartment of leg
+anserine-bursa	Anserine bursa	Bursa anserina	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+bursa-of-piriformis-muscle	Bursa of piriformis muscle	Bursa musculi piriformis	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+deep-infrapatellar-bursa	Deep infrapatellar bursa	Bursa infrapatellaris profunda	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+iliopectineal-bursa	Iliopectineal bursa		muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+inferior-subtendinous-bursa-of-biceps-femoris-muscle	Inferior subtendinous bursa of biceps femoris muscle	Bursa subtendinea inferior musculi bicipitis femoris	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+intermuscular-gluteal-bursae	Intermuscular gluteal bursae	Bursae intermusculares gluteae	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+lateral-subtendinous-bursa-of-gastrocnemius-muscle	Lateral subtendinous bursa of gastrocnemius muscle	Bursa subtendinea lateralis musculi gastrocnemii	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+medial-subtendinous-bursa-of-gastrocnemius-muscle	Medial subtendinous bursa of gastrocnemius muscle	Bursa subtendinea medialis musculi gastrocnemii	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+sciatic-bursa-of-gluteus-maximus-muscle	Sciatic bursa of gluteus maximus muscle	Bursa ischiadica musculi glutei maximi	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+sciatic-bursa-of-obturator-internus	Sciatic bursa of obturator internus	Bursa ischiadica obturatoris interni	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+semimembranosus-bursa	Semimembranosus bursa	Bursa musculi semimembranosi	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+subcutaneous-bursa-of-lateral-malleolus	Subcutaneous bursa of lateral malleolus	Bursa subcutanea malleoli lateralis	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+subcutaneous-bursa-of-medial-malleolus	Subcutaneous bursa of medial malleolus	Bursa subcutanea malleoli	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+subcutaneous-bursa-of-tuberosity-of-tibia	Subcutaneous bursa of tuberosity of tibia	Bursa subcutanea tuberositatis tibiae	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+subcutaneous-calcaneal-bursa	Subcutaneous calcaneal bursa	Bursa subcutanea calcanea	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+subcutaneous-infrapatellar-bursa	Subcutaneous infrapatellar bursa	Bursa subcutanea infrapatellaris	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+subcutaneous-prepatellar-bursa	Subcutaneous prepatellar bursa	Bursa subcutanea prepatellaris	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+subcutaneous-trochanteric-bursa	Subcutaneous trochanteric bursa	Bursa subcutanea trochanterica	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+subfacial-prepatellar-bursa	Subfacial prepatellar bursa		muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+subtendinous-bursa-of-iliacus-muscle	Subtendinous bursa of iliacus muscle	Bursa subtendinea iliaca	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+subtendinous-bursa-of-obturator-internus	Subtendinous bursa of obturator internus	Bursa subtendinea obturatoris interni	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+subtendinous-bursa-of-sartorius-muscle	Subtendinous bursa of sartorius muscle	Bursa subtendinea musculi sartorii	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+subtendinous-bursa-of-tibialis-anterior	Subtendinous bursa of tibialis anterior	Bursa subtendinea musculi tibialis anterioris	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+subtendinous-calcaneal-bursa	Subtendinous calcaneal bursa	Bursa subtendinea calcanea	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+subtendinous-prepatellar-bursa	Subtendinous prepatellar bursa	(Bursa subtendinea prepatellaris)	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+superior-bursa-of-biceps-femoris-muscle	Superior bursa of biceps femoris muscle	Bursa superior musculi bicipitis femoris	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+suprapatellar-bursa	Suprapatellar bursa	Bursa suprapatellaris	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+trochanteric-bursa-of-gluteus-maximus-muscle	Trochanteric bursa of gluteus maximus muscle	Bursa trochanterica musculi glutei maximi	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+trochanteric-bursa-of-gluteus-medius-muscle	Trochanteric bursa of gluteus medius muscle		muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+trochanteric-bursa-of-gluteus-minimus-muscle	Trochanteric bursa of gluteus minimus muscle	Bursa trochanterica musculi glutei minimi	muscles	Muscular system > Muscular system of lower limb > Bursae of lower limb
+extensor-digitorum-longus	Extensor digitorum longus	Extensor longus digitorum	muscles	Muscular system of lower limb > Muscles of lower limb > Anterior compartment of leg
+extensor-hallucis-longus	Extensor hallucis longus	Extensor longus hallucis	muscles	Muscular system of lower limb > Muscles of lower limb > Anterior compartment of leg
+fibularis-tertius-muscle	Fibularis tertius muscle	Musculus fibularis tertius	muscles	Muscular system of lower limb > Muscles of lower limb > Anterior compartment of leg
+tendon-of-extensor-digitorum-longus	Tendon of extensor digitorum longus	Tendon extensoris digitorum longi	muscles	Muscular system of lower limb > Muscles of lower limb > Anterior compartment of leg
+tibialis-anterior-muscle	Tibialis anterior muscle	Musculus tibialis anterior	muscles	Muscular system of lower limb > Muscles of lower limb > Anterior compartment of leg
+lateral-patellar-retinaculum	Lateral patellar retinaculum	Retinaculum laterale patellae	muscles	Muscular system of lower limb > Muscles of lower limb > Anterior compartment of thigh
+medial-patellar-retinaculum	Medial patellar retinaculum	Retinaculum mediale patellae	muscles	Muscular system of lower limb > Muscles of lower limb > Anterior compartment of thigh
+rectus-femoris-muscle	Rectus femoris muscle	Musculus rectus femoris	muscles	Muscular system of lower limb > Muscles of lower limb > Anterior compartment of thigh
+sartorius-muscle	Sartorius muscle	Musculus sartorius	muscles	Muscular system of lower limb > Muscles of lower limb > Anterior compartment of thigh
+vastus-intermedius-muscle	Vastus intermedius muscle	Musculus vastus intermedius	muscles	Muscular system of lower limb > Muscles of lower limb > Anterior compartment of thigh
+vastus-lateralis-muscle	Vastus lateralis muscle	Musculus vastus lateralis	muscles	Muscular system of lower limb > Muscles of lower limb > Anterior compartment of thigh
+vastus-medialis-muscle	Vastus medialis muscle	Musculus vastus medialis	muscles	Muscular system of lower limb > Muscles of lower limb > Anterior compartment of thigh
+inferior-gemellus-muscle	Inferior gemellus muscle	Musculus gemellus inferior	muscles	Muscular system of lower limb > Muscles of lower limb > Deep gluteal muscles
+obturator-internus	Obturator internus	Obturator internus	muscles	Muscular system of lower limb > Muscles of lower limb > Deep gluteal muscles
+piriformis-muscle	Piriformis muscle	Musculus piriformis	muscles	Muscular system of lower limb > Muscles of lower limb > Deep gluteal muscles
+quadratus-femoris-muscle	Quadratus femoris muscle	Musculus quadratus femoris	muscles	Muscular system of lower limb > Muscles of lower limb > Deep gluteal muscles
+superior-gemellus-muscle	Superior gemellus muscle	Musculus gemellus superior	muscles	Muscular system of lower limb > Muscles of lower limb > Deep gluteal muscles
+iliacus-muscle	Iliacus muscle	Musculus iliacus	muscles	Muscular system of lower limb > Muscles of lower limb > Iliopsoas muscle
+psoas-major	Psoas major	Psoas major	muscles	Muscular system of lower limb > Muscles of lower limb > Iliopsoas muscle
+fibularis-brevis-muscle	Fibularis brevis muscle	Musculus fibularis brevis	muscles	Muscular system of lower limb > Muscles of lower limb > Lateral compartment of leg
+fibularis-longus-muscle	Fibularis longus muscle	Musculus fibularis longus	muscles	Muscular system of lower limb > Muscles of lower limb > Lateral compartment of leg
+adductor-brevis	Adductor brevis	Adductor brevis	muscles	Muscular system of lower limb > Muscles of lower limb > Medial compartment of thigh
+adductor-longus	Adductor longus	Adductor longus	muscles	Muscular system of lower limb > Muscles of lower limb > Medial compartment of thigh
+adductor-magnus	Adductor magnus	Adductor magnus	muscles	Muscular system of lower limb > Muscles of lower limb > Medial compartment of thigh
+adductor-minimus	Adductor minimus		muscles	Muscular system of lower limb > Muscles of lower limb > Medial compartment of thigh
+gracilis-muscle	Gracilis muscle	Musculus gracilis	muscles	Muscular system of lower limb > Muscles of lower limb > Medial compartment of thigh
+obturator-externus	Obturator externus	Obturator externus	muscles	Muscular system of lower limb > Muscles of lower limb > Medial compartment of thigh
+pectineus-muscle	Pectineus muscle	Musculus pectineus	muscles	Muscular system of lower limb > Muscles of lower limb > Medial compartment of thigh
+abductor-digiti-minimi-of-foot	Abductor digiti minimi of foot	Abductor digiti minimi pedis	muscles	Muscular system of lower limb > Muscles of lower limb > Muscles of foot
+abductor-hallucis	Abductor hallucis	Abductor hallucis	muscles	Muscular system of lower limb > Muscles of lower limb > Muscles of foot
+dorsal-interossei-muscles-of-foot	Dorsal interossei muscles of foot	Musculi interossei dorsales pedis	muscles	Muscular system of lower limb > Muscles of lower limb > Muscles of foot
+extensor-digitorum-brevis	Extensor digitorum brevis	Extensor brevis digitorum	muscles	Muscular system of lower limb > Muscles of lower limb > Muscles of foot
+extensor-hallucis-brevis	Extensor hallucis brevis	Extensor brevis hallucis	muscles	Muscular system of lower limb > Muscles of lower limb > Muscles of foot
+flexor-digiti-minimi-of-foot	Flexor digiti minimi of foot	Flexor digiti minimi pedis pedis	muscles	Muscular system of lower limb > Muscles of lower limb > Muscles of foot
+flexor-digitorum-brevis	Flexor digitorum brevis	Flexor brevis digitorum	muscles	Muscular system of lower limb > Muscles of lower limb > Muscles of foot
+lumbrical-muscles-of-foot	Lumbrical muscles of foot	Musculi lumbricales pedis	muscles	Muscular system of lower limb > Muscles of lower limb > Muscles of foot
+opponens-digiti-minimi-muscle-of-foot	Opponens digiti minimi muscle of foot		muscles	Muscular system of lower limb > Muscles of lower limb > Muscles of foot
+plantar-interossei-muscles	Plantar interossei muscles	Musculi interossei plantares	muscles	Muscular system of lower limb > Muscles of lower limb > Muscles of foot
+quadratus-plantae-muscle	Quadratus plantae muscle	Musculus quadratus plantae	muscles	Muscular system of lower limb > Muscles of lower limb > Muscles of foot
+long-head-of-biceps-femoris	Long head of biceps femoris	Caput longum musculi bicipitis femoris	muscles	Muscular system of lower limb > Muscles of lower limb > Posterior compartment of thigh
+semimembranosus-muscle	Semimembranosus muscle	Musculus semimembranosus	muscles	Muscular system of lower limb > Muscles of lower limb > Posterior compartment of thigh
+semitendinosus-muscle	Semitendinosus muscle	Musculus semitendinosus	muscles	Muscular system of lower limb > Muscles of lower limb > Posterior compartment of thigh
+short-head-of-biceps-femoris	Short head of biceps femoris	Caput breve musculi bicipitis femoris	muscles	Muscular system of lower limb > Muscles of lower limb > Posterior compartment of thigh
+gluteus-maximus-muscle	Gluteus maximus muscle	Musculus gluteus maximus	muscles	Muscular system of lower limb > Muscles of lower limb > Superficial gluteal muscles
+gluteus-medius-muscle	Gluteus medius muscle	Musculus gluteus medius	muscles	Muscular system of lower limb > Muscles of lower limb > Superficial gluteal muscles
+gluteus-minimus-muscle	Gluteus minimus muscle	Musculus gluteus minimus	muscles	Muscular system of lower limb > Muscles of lower limb > Superficial gluteal muscles
+iliotibial-tract	Iliotibial tract	Tractus iliotibialis	muscles	Muscular system of lower limb > Muscles of lower limb > Superficial gluteal muscles
+tensor-fasciae-latae	Tensor fasciae latae	Tensor fasciae latae	muscles	Muscular system of lower limb > Muscles of lower limb > Superficial gluteal muscles
+tendon-sheath-of-extensor-digitorum-longus	Tendon sheath of extensor digitorum longus	Vagina tendinum extensoris longi digitorum	muscles	Muscular system of lower limb > Tendon sheaths of lower limb > Anterior tarsal tendon sheaths
+tendon-sheath-of-tibialis-anterior	Tendon sheath of tibialis anterior	Vagina tendinis musculi tibialis anterioris	muscles	Muscular system of lower limb > Tendon sheaths of lower limb > Anterior tarsal tendon sheaths
+common-tendon-sheath-of-fibularis-muscles	Common tendon sheath of fibularis muscles	Vagina communis tendinum musculorum fibularium	muscles	Muscular system of lower limb > Tendon sheaths of lower limb > Fibular tarsal tendon sheaths
+plantar-tendon-sheath-of-fibularis-longus-muscle	Plantar tendon sheath of fibularis longus muscle	Vagina plantaris tendinis musculi fibularis longi	muscles	Muscular system of lower limb > Tendon sheaths of lower limb > Fibular tarsal tendon sheaths
+tendon-sheath-of-flexor-digitorum-longus	Tendon sheath of flexor digitorum longus	Vagina tendinis flexoris digitorum longus	muscles	Muscular system of lower limb > Tendon sheaths of lower limb > Tibial tarsal tendon sheaths
+tendon-sheath-of-flexor-hallucis-longus	Tendon sheath of flexor hallucis longus	Vagina tendinis flexoris longi hallucis	muscles	Muscular system of lower limb > Tendon sheaths of lower limb > Tibial tarsal tendon sheaths
+tendon-sheath-of-tibialis-posterior-muscle	Tendon sheath of tibialis posterior muscle	Vagina tendinis musculi tibialis posterioris	muscles	Muscular system of lower limb > Tendon sheaths of lower limb > Tibial tarsal tendon sheaths
+fifth-metatarsal-bone	Fifth metatarsal bone	Os quintum metatarsi	skeleton	Bones of free part of lower limb > Bones of foot > Metatarsal bones
+first-metatarsal-bone	First metatarsal bone	Os primum metatarsi	skeleton	Bones of free part of lower limb > Bones of foot > Metatarsal bones
+fourth-metatarsal-bone	Fourth metatarsal bone	Os quatum metatarsi	skeleton	Bones of free part of lower limb > Bones of foot > Metatarsal bones
+second-metatarsal-bone	Second metatarsal bone	Os secundum metatarsi	skeleton	Bones of free part of lower limb > Bones of foot > Metatarsal bones
+third-metatarsal-bone	Third metatarsal bone	Os tertium metatarsi	skeleton	Bones of free part of lower limb > Bones of foot > Metatarsal bones
+distal-phalanx-of-fifth-finger-of-foot	Distal phalanx of fifth finger of foot	Phalanx distalis quintum digitorum pedis	skeleton	Bones of free part of lower limb > Bones of foot > Phalanges of foot
+distal-phalanx-of-first-finger-of-foot	Distal phalanx of first finger of foot	Phalanx distalis primum digitorum pedis	skeleton	Bones of free part of lower limb > Bones of foot > Phalanges of foot
+distal-phalanx-of-fourth-finger-of-foot	Distal phalanx of fourth finger of foot	Phalanx distalis quartum digitorum pedis	skeleton	Bones of free part of lower limb > Bones of foot > Phalanges of foot
+distal-phalanx-of-second-finger-of-foot	Distal phalanx of second finger of foot	Phalanx distalis secundum digitorum pedis	skeleton	Bones of free part of lower limb > Bones of foot > Phalanges of foot
+distal-phalanx-of-third-finger-of-foot	Distal phalanx of third finger of foot	Phalanx distalis tertium digitorum pedis	skeleton	Bones of free part of lower limb > Bones of foot > Phalanges of foot
+middle-phalanx-of-fifth-finger-of-foot	Middle phalanx of fifth finger of foot	Phalanx media quintum digitorum pedis	skeleton	Bones of free part of lower limb > Bones of foot > Phalanges of foot
+middle-phalanx-of-fourth-finger-of-foot	Middle phalanx of fourth finger of foot	Phalanx media quartum digitorum pedis	skeleton	Bones of free part of lower limb > Bones of foot > Phalanges of foot
+middle-phalanx-of-second-finger-of-foot	Middle phalanx of second finger of foot	Phalanx media secundum digitorum pedis	skeleton	Bones of free part of lower limb > Bones of foot > Phalanges of foot
+middle-phalanx-of-third-finger-of-foot	Middle phalanx of third finger of foot	Phalanx media tertium digitorum pedis	skeleton	Bones of free part of lower limb > Bones of foot > Phalanges of foot
+proximal-phalanx-of-fifth-finger-of-foot	Proximal phalanx of fifth finger of foot	Phalanx proximalis quintum digitorum pedis	skeleton	Bones of free part of lower limb > Bones of foot > Phalanges of foot
+proximal-phalanx-of-first-finger-of-foot	Proximal phalanx of first finger of foot	Phalanx proximalis primum digitorum pedis	skeleton	Bones of free part of lower limb > Bones of foot > Phalanges of foot
+proximal-phalanx-of-fourth-finger-of-foot	Proximal phalanx of fourth finger of foot	Phalanx proximalis quartum digitorum pedis	skeleton	Bones of free part of lower limb > Bones of foot > Phalanges of foot
+proximal-phalanx-of-second-finger-of-foot	Proximal phalanx of second finger of foot	Phalanx proximalis secundum digitorum pedis	skeleton	Bones of free part of lower limb > Bones of foot > Phalanges of foot
+proximal-phalanx-of-third-finger-of-foot	Proximal phalanx of third finger of foot	Phalanx proximalis tertium digitorum pedis	skeleton	Bones of free part of lower limb > Bones of foot > Phalanges of foot
+calcaneus	Calcaneus	Calcaneus	skeleton	Bones of free part of lower limb > Bones of foot > Tarsal bones
+cuboid-bone	Cuboid bone	Os cuboideum	skeleton	Bones of free part of lower limb > Bones of foot > Tarsal bones
+intermediate-cuneiform-bone	Intermediate cuneiform bone	Os cuneiforme intermedium	skeleton	Bones of free part of lower limb > Bones of foot > Tarsal bones
+lateral-cuneiform-bone	Lateral cuneiform bone	Os cuneiforme laterale	skeleton	Bones of free part of lower limb > Bones of foot > Tarsal bones
+medial-cuneiform-bone	Medial cuneiform bone	Os cuneiforme mediale	skeleton	Bones of free part of lower limb > Bones of foot > Tarsal bones
+navicular-bone	Navicular bone	Os naviculare	skeleton	Bones of free part of lower limb > Bones of foot > Tarsal bones
+talus	Talus	Os tali	skeleton	Bones of free part of lower limb > Bones of foot > Tarsal bones
+sesamoid-bones-of-foot	Sesamoid bones of foot	Ossa sesamoidea pedis	skeleton	Bones of lower limb > Bones of free part of lower limb > Bones of foot
+femur	Femur	Os femoris	skeleton	Skeletal system > Bones of lower limb > Bones of free part of lower limb
+fibula	Fibula	Fibula	skeleton	Skeletal system > Bones of lower limb > Bones of free part of lower limb
+patella	Patella	Patella	skeleton	Skeletal system > Bones of lower limb > Bones of free part of lower limb
+tibia	Tibia	Tibia	skeleton	Skeletal system > Bones of lower limb > Bones of free part of lower limb
+hip-bone	Hip bone	Os coxae	skeleton	Skeletal system > Bones of lower limb > Bones of pelvic girdle

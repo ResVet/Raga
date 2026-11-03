@@ -1,0 +1,274 @@
+key	English (model)	TA2 Latin	type	context
+median-cricothyroid-ligament	Median cricothyroid ligament	Ligamentum cricothyreoideum medianum	joints	Joints > Laryngeal joints > Fibrous joints of larynx
+stylohyoid-ligament	Stylohyoid ligament	Ligamentum stylohyoideum	joints	Joints of skull > Cranial fibrous joints > Cranial syndesmoses
+quadrangular-membrane	Quadrangular membrane	Membrana quadrangularis	joints	Laryngeal joints > Fibrous joints of larynx > Fibro-elastic membrane of larynx
+lateral-thyrohyoid-ligament	Lateral thyrohyoid ligament	Ligamentum thyreohyoideum laterale	joints	Laryngeal joints > Fibrous joints of larynx > Thyrohyoid membrane
+median-thyrohyoid-ligament	Median thyrohyoid ligament	Ligamentum thyreohyoideum medianum	joints	Laryngeal joints > Fibrous joints of larynx > Thyrohyoid membrane
+cricopharyngeal-ligament	Cricopharyngeal ligament	Ligamentum cricopharyngeum	joints	Laryngeal joints > Synovial joints of larynx > Crico-arytenoid joint
+anterolateral-surface-of-arytenoid-cartilage	Anterolateral surface of arytenoid cartilage	Facies anterolateralis cartilaginis arytenoideae	landmark	on Arytenoid cartilage
+apex-of-arytenoid-cartilage	Apex of arytenoid cartilage	Apex cartilaginis arytenoideae	landmark	on Arytenoid cartilage
+arcuate-crest	Arcuate crest	Crista arcuata	landmark	on Arytenoid cartilage
+articular-surface-of-arytenoid-cartilage	Articular surface of arytenoid cartilage	Facies articularis cartilaginis arytenoideae	landmark	on Arytenoid cartilage
+base-of-arytenoid-cartilage	Base of arytenoid cartilage	Basis cartilaginis arytenoideae	landmark	on Arytenoid cartilage
+colliculus-of-arytenoid-cartilage	Colliculus of arytenoid cartilage	Colliculus cartilaginis arytenoideae	landmark	on Arytenoid cartilage
+medial-surface-of-arytenoid-cartilage	Medial surface of arytenoid cartilage	Facies medialis cartilaginis arytenoideae	landmark	on Arytenoid cartilage
+muscular-process	Muscular process	Processus muscularis	landmark	on Arytenoid cartilage
+oblong-fovea	Oblong fovea	Fovea oblonga	landmark	on Arytenoid cartilage
+posterior-surface-of-arytenoid-cartilage	Posterior surface of arytenoid cartilage	Facies posterior cartilaginis arytenoideae	landmark	on Arytenoid cartilage
+triangular-fovea	Triangular fovea	Fovea triangularis	landmark	on Arytenoid cartilage
+vocal-process	Vocal process	Processus vocalis	landmark	on Arytenoid cartilage
+arch-of-cricoid-cartilage	Arch of cricoid cartilage	Arcus cartilaginis cricoideae	landmark	on Cricoid cartilage
+arytenoid-articular-surface	Arytenoid articular surface	Facies articularis arytenoidea	landmark	on Cricoid cartilage
+lamina-of-cricoid-cartilage	Lamina of cricoid cartilage	Lamina cartilaginis cricoideae	landmark	on Cricoid cartilage
+thyroid-articular-surface	Thyroid articular surface	Facies articularis thyreoidea	landmark	on Cricoid cartilage
+body-of-hyoid-bone	Body of hyoid bone	Corpus ossis hyoidei	landmark	on Hyoid bone
+greater-horn-of-hyoid-bone	Greater horn of hyoid bone	Cornu majus ossis hyoidei	landmark	on Hyoid bone
+lesser-horn-of-hyoid-bone	Lesser horn of hyoid bone	Cornu minus ossis hyoidei	landmark	on Hyoid bone
+anterior-basal-segment-of-left-lung-sviii	Anterior basal segment of left lung (SVIII)		landmark	on Inferior lobe of left lung
+lateral-basal-segment-of-left-lung-six	Lateral basal segment of left lung (SIX)		landmark	on Inferior lobe of left lung
+medial-basal-segment-of-left-lung-svii	Medial basal segment of left lung (SVII)		landmark	on Inferior lobe of left lung
+oblique-fissure-of-left-lung	Oblique fissure of left lung	Fissura obliqua pulmonis sinistri	landmark	on Inferior lobe of left lung
+posterior-basal-segment-of-left-lung-sx	Posterior basal segment of left lung (SX)		landmark	on Inferior lobe of left lung
+superior-segment-of-left-lung-svi	Superior segment of left lung (SVI)		landmark	on Inferior lobe of left lung
+anterior-basal-segment-of-right-lung-sviii	Anterior basal segment of right lung (SVIII)		landmark	on Inferior lobe of right lung
+base-of-lung	Base of lung	Basis pulmonis	landmark	on Inferior lobe of right lung
+diaphragmatic-surface-of-lung	Diaphragmatic surface of lung	Facies diaphragmatica pulmonis	landmark	on Inferior lobe of right lung
+lateral-basal-segment-of-right-lung-six	Lateral basal segment of right lung (SIX)		landmark	on Inferior lobe of right lung
+lobe-of-lung	Lobe of lung	Lobus pulmonis	landmark	on Inferior lobe of right lung
+medial-basal-segment-of-right-lung-svii	Medial basal segment of right lung (SVII)		landmark	on Inferior lobe of right lung
+medial-surface-of-lung	Medial surface of lung	Facies medialis pulmonis	landmark	on Inferior lobe of right lung
+oblique-fissure-of-right-lung	Oblique fissure of right lung	Fissura obliqua pulmonis dextri	landmark	on Inferior lobe of right lung
+posterior-basal-segment-of-right-lung-sx	Posterior basal segment of right lung (SX)		landmark	on Inferior lobe of right lung
+superior-segment-of-right-lung-svi	Superior segment of right lung (SVI)		landmark	on Inferior lobe of right lung
+oesophageal-impression-of-liver	Oesophageal impression of liver	Impressio oesophagea hepatis	landmark	on Liver
+mylohyoid-line	Mylohyoid line	Linea mylohyoidea	landmark	on Mandible
+horizontal-fissure-of-right-lung	Horizontal fissure of right lung	Fissura horizontalis pulmonis dextri	landmark	on Middle lobe of right lung
+inferior-border-of-lung	Inferior border of lung	Margo inferior pulmonis	landmark	on Middle lobe of right lung
+interlobar-surface-of-lung	Interlobar surface of lung	Facies interlobaris pulmonis	landmark	on Middle lobe of right lung
+lateral-segment-of-right-lung-siv	Lateral segment of right lung (SIV)		landmark	on Middle lobe of right lung
+medial-segment-of-right-lung-sv	Medial segment of right lung (SV)		landmark	on Middle lobe of right lung
+pharyngeal-tubercle	Pharyngeal tubercle	Tuberculum pharyngeum	landmark	on Occipital bone
+anterior-segment-of-left-lung-siii	Anterior segment of left lung (SIII)		landmark	on Superior lobe of left lung
+apicoposterior-segment-of-left-lung-si-sii	Apicoposterior segment of left lung (SI+SII)		landmark	on Superior lobe of left lung
+cardiac-notch-of-left-lung	Cardiac notch of left lung	Incisura cardiaca pulmonis sinistri	landmark	on Superior lobe of left lung
+inferior-lingular-segment-of-left-lung-sv	Inferior lingular segment of left lung (SV)		landmark	on Superior lobe of left lung
+lingula-of-left-lung	Lingula of left lung	Lingula pulmonis sinistri	landmark	on Superior lobe of left lung
+superior-lingular-segment-of-left-lung-siv	Superior lingular segment of left lung (SIV)		landmark	on Superior lobe of left lung
+anterior-border-of-lung	Anterior border of lung	Margo anterior pulmonis	landmark	on Superior lobe of right lung
+anterior-segment-of-right-lung-siii	Anterior segment of right lung (SIII)		landmark	on Superior lobe of right lung
+apex-of-lung	Apex of lung	Apex pulmonis	landmark	on Superior lobe of right lung
+apical-segment-of-right-lung-si	Apical segment of right lung (SI)		landmark	on Superior lobe of right lung
+cardiac-impression-of-lung	Cardiac impression of lung	Impressio cardiaca pulmonis	landmark	on Superior lobe of right lung
+costal-surface-of-lung	Costal surface of lung	Facies costalis pulmonis	landmark	on Superior lobe of right lung
+hilum-of-lung	Hilum of lung	Hilum pulmonis	landmark	on Superior lobe of right lung
+mediastinal-surface-of-lung	Mediastinal surface of lung	Facies mediastinalis pulmonis	landmark	on Superior lobe of right lung
+posterior-segment-of-right-lung-sii	Posterior segment of right lung (SII)		landmark	on Superior lobe of right lung
+root-of-lung	Root of lung	Radix pulmonis	landmark	on Superior lobe of right lung
+inferior-horn-of-thyroid-cartilage	Inferior horn of thyroid cartilage	Cornu inferius cartilaginis thyreoideae	landmark	on Thyroid cartilage
+inferior-thyroid-notch	Inferior thyroid notch	Incisura thyreoidea inferior	landmark	on Thyroid cartilage
+inferior-thyroid-tubercle	Inferior thyroid tubercle	Tuberculum thyreoideum inferius	landmark	on Thyroid cartilage
+lamina-of-thyroid-cartilage	Lamina of thyroid cartilage	Lamina cartilaginis thryeoideae	landmark	on Thyroid cartilage
+laryngeal-prominence	Laryngeal prominence	Prominentia laryngea	landmark	on Thyroid cartilage
+oblique-line-of-thyroid-cartilage	Oblique line of thyroid cartilage	Linea obliqua cartilaginis thyreoideae	landmark	on Thyroid cartilage
+superior-horn-of-thyroid-cartilage	Superior horn of thyroid cartilage	Cornu superius cartilaginis thyreoideae	landmark	on Thyroid cartilage
+superior-thyroid-notch	Superior thyroid notch	Incisura thyreoidea superior	landmark	on Thyroid cartilage
+superior-thyroid-tubercle	Superior thyroid tubercle	Tuberculum thyreoideum superius	landmark	on Thyroid cartilage
+isthmus-of-thyroid-gland	Isthmus of thyroid gland	Isthmus glandulae thyreoideae	landmark	on Thyroid gland
+lobe-of-thyroid-gland	Lobe of thyroid gland	Lobus glandulae thyreoideae	landmark	on Thyroid gland
+pyramidal-lobe	Pyramidal lobe		landmark	on Thyroid gland
+ary-epiglottic-part-of-oblique-arytenoid-muscle	Ary-epiglottic part of oblique arytenoid muscle	Pars aryepiglottica musculi arytenoidei obliqui	muscles	Cervical part of muscular system > Muscles of neck > Laryngeal muscles
+external-part-of-thyro-arytenoid-muscle	External part of thyro-arytenoid muscle	Pars externa musculi thyreoarytenoidei	muscles	Cervical part of muscular system > Muscles of neck > Laryngeal muscles
+lateral-crico-arytenoid-muscle	Lateral crico-arytenoid muscle	Musculus cricoarytendoideus lateralis	muscles	Cervical part of muscular system > Muscles of neck > Laryngeal muscles
+oblique-part-of-cricothyroid-muscle	Oblique part of cricothyroid muscle	Pars obliqua musculi cricothyreoidei	muscles	Cervical part of muscular system > Muscles of neck > Laryngeal muscles
+posterior-crico-arytenoid-muscle	Posterior crico-arytenoid muscle	Musculus cricoarytenoideus posterior	muscles	Cervical part of muscular system > Muscles of neck > Laryngeal muscles
+straight-part-of-cricothyroid-muscle	Straight part of cricothyroid muscle	Pars recta musculi cricothyreoidei	muscles	Cervical part of muscular system > Muscles of neck > Laryngeal muscles
+thyro-epiglottic-part-of-thyro-arytenoid-muscle	Thyro-epiglottic part of thyro-arytenoid muscle	Pars thyreoepiglottica musculi thyreoarytenoidei	muscles	Cervical part of muscular system > Muscles of neck > Laryngeal muscles
+transverse-arytenoid-muscle	Transverse arytenoid muscle	Musculus arytenoideus transversus	muscles	Cervical part of muscular system > Muscles of neck > Laryngeal muscles
+hyoid-bone	Hyoid bone	Os hyoideum	skeleton	Skeletal system > Extracranial bones of head
+arytenoid-cartilage	Arytenoid cartilage	Cartilago arytenoidea	skeleton	Skeletal system > Laryngeal cartilages
+corniculate-cartilage	Corniculate cartilage	Cartilago corniculata	skeleton	Skeletal system > Laryngeal cartilages
+cricoid-cartilage	Cricoid cartilage	Cartilago cricoidea	skeleton	Skeletal system > Laryngeal cartilages
+thyroid-cartilage	Thyroid cartilage	Cartilago thyreoidea	skeleton	Skeletal system > Laryngeal cartilages
+ascending-colon	Ascending colon	Colon ascendens	viscera	Digestive canal > Large intestine > Colon
+descending-colon	Descending colon	Colon descendens	viscera	Digestive canal > Large intestine > Colon
+sigmoid-colon	Sigmoid colon	Colon sigmoideum	viscera	Digestive canal > Large intestine > Colon
+transverse-colon	Transverse colon	Colon transversum	viscera	Digestive canal > Large intestine > Colon
+vermiform-appendix	Vermiform appendix	Appendix vermiformis	viscera	Digestive canal > Large intestine > Colon
+duodenum	Duodenum	Duodenum	viscera	Digestive system > Digestive canal > Small intestine
+jejunum	Jejunum	Jejunum	viscera	Digestive system > Digestive canal > Small intestine
+ductus-deferens	Ductus deferens	Ductus deferens	viscera	Genital systems > Male genital system > Male internal genitalia
+ejaculatory-duct	Ejaculatory duct	Ductus ejaculatorius	viscera	Genital systems > Male genital system > Male internal genitalia
+epididymis	Epididymis	Epididymis	viscera	Genital systems > Male genital system > Male internal genitalia
+prostate	Prostate	Prostata	viscera	Genital systems > Male genital system > Male internal genitalia
+seminal-gland	Seminal gland	Glandula seminalis	viscera	Genital systems > Male genital system > Male internal genitalia
+testis	Testis	Testis	viscera	Genital systems > Male genital system > Male internal genitalia
+free-taenia	Free taenia	Taenia libera	viscera	Large intestine > Colon > Taeniae coli
+mesocolic-taenia	Mesocolic taenia	Taenia mesocolica	viscera	Large intestine > Colon > Taeniae coli
+omental-taenia	Omental taenia	Taenia omentalis	viscera	Large intestine > Colon > Taeniae coli
+corpus-cavernosum-of-penis	Corpus cavernosum of penis	Corpus cavernosum penis	viscera	Male genital system > Male external genitalia > Penis
+corpus-spongiosum-of-penis	Corpus spongiosum of penis	Corpus spongiosum penis	viscera	Male genital system > Male external genitalia > Penis
+glans-penis	Glans penis	Glans penis	viscera	Male genital system > Male external genitalia > Penis
+accessory-parotid-gland	Accessory parotid gland		viscera	Mouth > Salivary glands > Major salivary glands
+parotid-duct	Parotid duct	Ductus parotideus	viscera	Mouth > Salivary glands > Major salivary glands
+parotid-gland	Parotid gland	Glandula parotidea	viscera	Mouth > Salivary glands > Major salivary glands
+sublingual-gland	Sublingual gland	Glandula sublingualis	viscera	Mouth > Salivary glands > Major salivary glands
+submandibular-duct	Submandibular duct	Ductus submandibularis	viscera	Mouth > Salivary glands > Major salivary glands
+submandibular-gland	Submandibular gland	Glandula submandibularis	viscera	Mouth > Salivary glands > Major salivary glands
+inferior-lobe-of-left-lung	Inferior lobe of left lung	Lobus inferior pulmonis sinistri	viscera	Respiratory system > Lungs > Left lung
+superior-lobe-of-left-lung	Superior lobe of left lung	Lobus superior pulmonis sinistri	viscera	Respiratory system > Lungs > Left lung
+inferior-lobe-of-right-lung	Inferior lobe of right lung	Lobus inferior pulmonis dextri	viscera	Respiratory system > Lungs > Right lung
+middle-lobe-of-right-lung	Middle lobe of right lung	Lobus medius pulmonis dextri	viscera	Respiratory system > Lungs > Right lung
+superior-lobe-of-right-lung	Superior lobe of right lung	Lobus superior pulmonis dextri	viscera	Respiratory system > Lungs > Right lung
+anterior-basal-segmental-bronchus-of-left-lung-bviii	Anterior basal segmental bronchus of left lung (BVIII)		viscera	Respiratory system > Tracheobronchial tree > Bronchi
+anterior-basal-segmental-bronchus-of-right-lung-bviii	Anterior basal segmental bronchus of right lung (BVIII)		viscera	Respiratory system > Tracheobronchial tree > Bronchi
+anterior-segmental-bronchus-of-left-lung-biii	Anterior segmental bronchus of left lung (BIII)		viscera	Respiratory system > Tracheobronchial tree > Bronchi
+anterior-segmental-bronchus-of-right-lung-biii	Anterior segmental bronchus of right lung (BIII)		viscera	Respiratory system > Tracheobronchial tree > Bronchi
+anteromedial-basal-segmental-bronchus-of-left-lung	Anteromedial basal segmental bronchus of left lung		viscera	Respiratory system > Tracheobronchial tree > Bronchi
+apical-segmental-bronchus-of-right-lung-bi	Apical segmental bronchus of right lung (BI)		viscera	Respiratory system > Tracheobronchial tree > Bronchi
+apicoposterior-segmental-bronchus-of-left-lung-bi-bii	Apicoposterior segmental bronchus of left lung (BI+BII)		viscera	Respiratory system > Tracheobronchial tree > Bronchi
+inferior-lingular-segmental-bronchus-of-left-lung-bv	Inferior lingular segmental bronchus of left lung (BV)		viscera	Respiratory system > Tracheobronchial tree > Bronchi
+intermediate-bronchus	Intermediate bronchus	Bronchus intermedius	viscera	Respiratory system > Tracheobronchial tree > Bronchi
+lateral-basal-segmental-bronchus-of-left-lung-bix	Lateral basal segmental bronchus of left lung (BIX)		viscera	Respiratory system > Tracheobronchial tree > Bronchi
+lateral-basal-segmental-bronchus-of-right-lung-bix	Lateral basal segmental bronchus of right lung (BIX)		viscera	Respiratory system > Tracheobronchial tree > Bronchi
+lateral-segmental-bronchus-of-right-lung-biv	Lateral segmental bronchus of right lung (BIV)		viscera	Respiratory system > Tracheobronchial tree > Bronchi
+left-inferior-lobar-bronchus	Left inferior lobar bronchus	Bronchus lobaris inferior sinister	viscera	Respiratory system > Tracheobronchial tree > Bronchi
+left-main-bronchus	Left main bronchus	Bronchus principalis sinister	viscera	Respiratory system > Tracheobronchial tree > Bronchi
+left-superior-lobar-bronchus	Left superior lobar bronchus	Bronchus lobaris superior sinister	viscera	Respiratory system > Tracheobronchial tree > Bronchi
+medial-basal-segmental-bronchus-of-left-lung-bvii	Medial basal segmental bronchus of left lung (BVII)		viscera	Respiratory system > Tracheobronchial tree > Bronchi
+medial-basal-segmental-bronchus-of-right-lung-bvii	Medial basal segmental bronchus of right lung (BVII)		viscera	Respiratory system > Tracheobronchial tree > Bronchi
+medial-segmental-bronchus-of-right-lung-bv	Medial segmental bronchus of right lung (BV)		viscera	Respiratory system > Tracheobronchial tree > Bronchi
+middle-lobar-bronchus	Middle lobar bronchus	Bronchus lobaris medius	viscera	Respiratory system > Tracheobronchial tree > Bronchi
+posterior-basal-segmental-bronchus-of-left-lung-bx	Posterior basal segmental bronchus of left lung (BX)		viscera	Respiratory system > Tracheobronchial tree > Bronchi
+posterior-basal-segmental-bronchus-of-right-lung-bx	Posterior basal segmental bronchus of right lung (BX)		viscera	Respiratory system > Tracheobronchial tree > Bronchi
+posterior-segmental-bronchus-of-right-lung-bii	Posterior segmental bronchus of right lung (BII)		viscera	Respiratory system > Tracheobronchial tree > Bronchi
+right-inferior-lobar-bronchus	Right inferior lobar bronchus	Bronchus lobaris inferior dexter	viscera	Respiratory system > Tracheobronchial tree > Bronchi
+right-main-bronchus	Right main bronchus	Bronchus principalis dexter	viscera	Respiratory system > Tracheobronchial tree > Bronchi
+right-superior-lobar-bronchus	Right superior lobar bronchus	Bronchus lobaris superior dexter	viscera	Respiratory system > Tracheobronchial tree > Bronchi
+superior-lingular-segmental-bronchus-of-left-lung-biv	Superior lingular segmental bronchus of left lung (BIV)		viscera	Respiratory system > Tracheobronchial tree > Bronchi
+superior-segmental-bronchus-of-left-lung-bvi	Superior segmental bronchus of left lung (BVI)		viscera	Respiratory system > Tracheobronchial tree > Bronchi
+superior-segmental-bronchus-of-right-lung-bvi	Superior segmental bronchus of right lung (BVI)		viscera	Respiratory system > Tracheobronchial tree > Bronchi
+greater-omentum	Greater omentum	Omentum maius	viscera	Visceral systems > Abdominopelvic cavity > Peritoneal structures
+lesser-omentum	Lesser omentum	Omentum minus	viscera	Visceral systems > Abdominopelvic cavity > Peritoneal structures
+meso-appendix	Meso-appendix	Mesoappendix	viscera	Visceral systems > Abdominopelvic cavity > Peritoneal structures
+mesocolon	Mesocolon	Mesocolon	viscera	Visceral systems > Abdominopelvic cavity > Peritoneal structures
+accessory-pancreatic-duct	Accessory pancreatic duct	Ductus pancreaticus accessorius	viscera	Visceral systems > Digestive system
+anterior-lateral-segment-of-liver-vi	Anterior lateral segment of liver (VI)		viscera	Visceral systems > Digestive system
+anterior-medial-segment-of-liver-v	Anterior medial segment of liver (V)		viscera	Visceral systems > Digestive system
+gallbladder	Gallbladder	Vesica biliaris	viscera	Visceral systems > Digestive system
+left-anterior-lateral-segment-of-liver-iii	Left anterior lateral segment of liver (III)		viscera	Visceral systems > Digestive system
+left-medial-segment-of-liver-iv	Left medial segment of liver (IV)		viscera	Visceral systems > Digestive system
+left-posterior-lateral-segment-of-liver-ii	Left posterior lateral segment of liver (II)		viscera	Visceral systems > Digestive system
+liver	Liver	Hepar	viscera	Visceral systems > Digestive system
+pancreas	Pancreas	Pancreas	viscera	Visceral systems > Digestive system
+pancreatic-duct	Pancreatic duct	Ductus pancreaticus	viscera	Visceral systems > Digestive system
+posterior-lateral-segment-of-liver-vii	Posterior lateral segment of liver (VII)		viscera	Visceral systems > Digestive system
+posterior-medial-segment-of-liver-viii	Posterior medial segment of liver (VIII)		viscera	Visceral systems > Digestive system
+posterior-segment-of-liver-i	Posterior segment of liver (I)		viscera	Visceral systems > Digestive system
+oesophagus	Oesophagus	Oesophagus	viscera	Visceral systems > Digestive system > Digestive canal
+stomach	Stomach	Gaster	viscera	Visceral systems > Digestive system > Digestive canal
+bile-duct	Bile duct	Ductus biliaris	viscera	Visceral systems > Digestive system > Extrahepatic bile ducts
+gingiva	Gingiva	Gingiva	viscera	Visceral systems > Digestive system > Mouth
+soft-palate	Soft palate	Palatum molle	viscera	Visceral systems > Digestive system > Mouth
+tongue	Tongue	Lingua	viscera	Visceral systems > Digestive system > Mouth
+uvula-of-palate	Uvula of palate	Uvula palatina	viscera	Visceral systems > Digestive system > Mouth
+laryngopharynx	Laryngopharynx	Pars laryngea pharyngis	viscera	Visceral systems > Digestive system > Pharynx
+nasopharynx	Nasopharynx	Pars nasalis pharyngis	viscera	Visceral systems > Digestive system > Pharynx
+oropharynx	Oropharynx	Pars oralis pharyngis	viscera	Visceral systems > Digestive system > Pharynx
+pineal-gland	Pineal gland	Glandula pinealis	viscera	Visceral systems > Endocrine glands
+suprarenal-gland	Suprarenal gland	Glandula suprarenalis	viscera	Visceral systems > Endocrine glands
+thyroid-gland	Thyroid gland	Glandula thyreoidea	viscera	Visceral systems > Endocrine glands
+adenohypophysis	Adenohypophysis	Adenohypophysis	viscera	Visceral systems > Endocrine glands > Hypophysis
+neurohypophysis	Neurohypophysis	Neurohypophysis	viscera	Visceral systems > Endocrine glands > Hypophysis
+inferior-parathyroid-gland	Inferior parathyroid gland	Glandula parathyreoidea inferior	viscera	Visceral systems > Endocrine glands > Parathyroid glands
+superior-parathyroid-gland	Superior parathyroid gland	Glandula parathyreoidea superior	viscera	Visceral systems > Endocrine glands > Parathyroid glands
+epiglottis	Epiglottis	Epiglottis	viscera	Visceral systems > Respiratory system > Larynx
+mucosa-of-nasal-cavity	Mucosa of nasal cavity	Tunica mucosa nasi	viscera	Visceral systems > Respiratory system > Nose
+trachea	Trachea	Trachea	viscera	Visceral systems > Respiratory system > Tracheobronchial tree
+pleura	Pleura	Pleura	viscera	Visceral systems > Thoracic cavity
+ureter	Ureter	Ureter	viscera	Visceral systems > Urinary system
+urethra	Urethra	Urethra	viscera	Visceral systems > Urinary system
+urinary-bladder	Urinary bladder	Vesica urinaria	viscera	Visceral systems > Urinary system
+subclavian-nerve	Subclavian nerve	Nervus subclavius	nerves	Spinal nerves > Brachial plexus > Supraclavicular branches of brachial plexus
+anterior-interventricular-artery	Anterior interventricular artery	Arteria interventricularis ant. arteriae coronariae sinistrae	vessels	Arterial system > Arteries of heart
+circumflex-artery-of-heart	Circumflex artery of heart	Arteria circumflexa cordis	vessels	Arterial system > Arteries of heart
+left-coronary-artery	Left coronary artery	Arteria coronaria sinistra	vessels	Arterial system > Arteries of heart
+right-coronary-artery	Right coronary artery	Arteria coronaria dextra	vessels	Arterial system > Arteries of heart
+right-inferolateral-branch-of-right-coronary-artery	Right inferolateral branch of right coronary artery	(Ramus inferolateralis dexter arteriae coronariae dextrae)	vessels	Arterial system > Arteries of heart
+septal-branches-of-anterior-interventricular-artery	Septal branches of anterior interventricular artery	Rami sept. art. Intervent. ant. sept. arteriae coron. sinis.	vessels	Arterial system > Arteries of heart
+anterior-papillary-muscle-of-right-ventricle	Anterior papillary muscle of right ventricle	Musculus papillaris anterior ventriculi dextri	vessels	Arterial system > Heart
+inferior-papillary-muscle-of-left-ventricle	Inferior papillary muscle of left ventricle	Musculus papillaris inferior ventriculi sinistri	vessels	Arterial system > Heart
+inferior-papillary-muscle-of-right-ventricle	Inferior papillary muscle of right ventricle	Musculus papillaris inferior ventriculi dextri	vessels	Arterial system > Heart
+left-atrium	Left atrium	Atrium sinistrum	vessels	Arterial system > Heart
+left-ventricle	Left ventricle	Ventriculus sinister	vessels	Arterial system > Heart
+right-atrium	Right atrium	Atrium dextrum	vessels	Arterial system > Heart
+right-ventricle	Right ventricle	Ventriculus dexter	vessels	Arterial system > Heart
+septal-papillary-muscle-of-right-ventricle	Septal papillary muscle of right ventricle	Musculus papillaris septalis ventriculi dextri	vessels	Arterial system > Heart
+bifurcation-of-pulmonary-trunk	Bifurcation of pulmonary trunk	Bifurcatio trunci pulmonalis	vessels	Arterial system > Pulmonary arteries
+left-pulmonary-artery	Left pulmonary artery	Arteria pulmonalis sinistra	vessels	Arterial system > Pulmonary arteries
+pulmonary-trunk	Pulmonary trunk	Truncus pulmonalis	vessels	Arterial system > Pulmonary arteries
+right-pulmonary-artery	Right pulmonary artery	Arteria pulmonalis dextra	vessels	Arterial system > Pulmonary arteries
+callosomarginal-artery	Callosomarginal artery	Arteria callosomarginalis	vessels	Arterial system > Systemic arteries
+deep-palmar-arch	Deep palmar arch	Arcus palmaris profundus	vessels	Arterial system > Systemic arteries
+frontal-branches-of-callosomarginal-artery	Frontal branches of callosomarginal artery	Rami frontales arteriae callosomarginal	vessels	Arterial system > Systemic arteries
+internal-thoracic-artery	Internal thoracic artery	Arteria thoracica interna	vessels	Arterial system > Systemic arteries
+left-common-carotid-artery	Left common carotid artery	Carotis communis sinistra	vessels	Arterial system > Systemic arteries
+left-subclavian-artery	Left subclavian artery	Arteria subclavia sinistra	vessels	Arterial system > Systemic arteries
+plantar-arch	Plantar arch	Arcus plantaris	vessels	Arterial system > Systemic arteries
+right-common-carotid-artery	Right common carotid artery	Carotis communis dextra	vessels	Arterial system > Systemic arteries
+right-subclavian-artery	Right subclavian artery	Arteria subclavia dextra	vessels	Arterial system > Systemic arteries
+superficial-palmar-arch	Superficial palmar arch	Arcus palmaris superficialis	vessels	Arterial system > Systemic arteries
+supreme-intercostal-artery	Supreme intercostal artery	Arteria intercostalis suprema	vessels	Arterial system > Systemic arteries
+abdominal-aorta	Abdominal aorta	Aorta abdominalis	vessels	Arterial system > Systemic arteries > Aorta
+aortic-arch	Aortic arch	Arcus aortae	vessels	Arterial system > Systemic arteries > Aorta
+ascending-aorta	Ascending aorta	Aorta ascendens	vessels	Arterial system > Systemic arteries > Aorta
+brachiocephalic-trunk	Brachiocephalic trunk	Truncus brachiocephalicus	vessels	Arterial system > Systemic arteries > Aorta
+marginal-artery	Marginal artery	Arteria marginalis coli	vessels	Arterial system > Systemic arteries > Aorta
+thoracic-aorta	Thoracic aorta	Aorta thoracica	vessels	Arterial system > Systemic arteries > Aorta
+inferior-leaflet-of-right-atrioventricular-valve	Inferior leaflet of right atrioventricular valve	Cuspis inferior valvae atrioventricularis dextrae	vessels	Heart > Valvular complex of heart > Right atrioventricular valve
+posterior-leaflet-of-left-atrioventricular-valve	Posterior leaflet of left atrioventricular valve	Cuspis posterior valvae atrioventricularis sinistrae	vessels	Heart > Valvular complex of heart > Right atrioventricular valve
+septal-leaflet-of-right-atrioventricular-valve	Septal leaflet of right atrioventricular valve	Cuspis septalis valvae atrioventricularis dextrae	vessels	Heart > Valvular complex of heart > Right atrioventricular valve
+left-coronary-leaflet	Left coronary leaflet	Valvula coronaria sinistra aortae	vessels	Valvular complex of heart > Root of aorta > Aortic valve
+non-coronary-leaflet	Non-coronary leaflet	Valvula noncoronaria valvae aortae	vessels	Valvular complex of heart > Root of aorta > Aortic valve
+right-coronary-leaflet	Right coronary leaflet	Valvula coronaria dextra aortae	vessels	Valvular complex of heart > Root of aorta > Aortic valve
+anterior-semilunar-leaflet-of-pulmonary-valve	Anterior semilunar leaflet of pulmonary valve	Valvula semilunaris anterior valvae trunci pulmonalis	vessels	Valvular complex of heart > Root of pulmonary trunk > Pulmonary valve
+left-semilunar-leaflet-of-pulmonary-valve	Left semilunar leaflet of pulmonary valve	Valvula semilunaris sinistra valvae trunci pulmonalis	vessels	Valvular complex of heart > Root of pulmonary trunk > Pulmonary valve
+right-semilunar-leaflet-of-pulmonary-valve	Right semilunar leaflet of pulmonary valve	Valvula semilunaris dextra valvae trunci pulmonalis	vessels	Valvular complex of heart > Root of pulmonary trunk > Pulmonary valve
+coronary-sinus	Coronary sinus	Sinus coronarius	vessels	Venous system > Cardiac veins
+great-cardiac-vein	Great cardiac vein	Vena magna cordis	vessels	Venous system > Cardiac veins
+inferior-vein-of-left-ventricle	Inferior vein of left ventricle	Vena inferior ventriculi sinistri	vessels	Venous system > Cardiac veins
+inferior-vein-of-left-ventricle-posterior	Inferior vein of left ventricle (//Posterior '')		vessels	Venous system > Cardiac veins
+middle-cardiac-vein	Middle cardiac vein	Vena media cordis interventricularis inferior	vessels	Venous system > Cardiac veins
+left-inferior-pulmonary-vein	Left inferior pulmonary vein	Vena pulmonalis sinistra inferior	vessels	Venous system > Pulmonary veins
+left-superior-pulmonary-vein	Left superior pulmonary vein	Vena pulmonalis sinistra superior	vessels	Venous system > Pulmonary veins
+right-inferior-pulmonary-vein	Right inferior pulmonary vein	Vena pulmonalis dextra inferior	vessels	Venous system > Pulmonary veins
+right-superior-pulmonary-vein	Right superior pulmonary vein	Vena pulmonalis dextra superior	vessels	Venous system > Pulmonary veins
+accessory-hemi-azygos-vein	Accessory hemi-azygos vein	Vena hemiazyga accessoria	vessels	Venous system > Systemic veins
+azygos-vein	Azygos vein	Vena azyga	vessels	Venous system > Systemic veins
+deep-venous-palmar-arch	Deep venous palmar arch	Arcus venosus palmaris profundus	vessels	Venous system > Systemic veins
+dorsal-venous-arch-of-foot	Dorsal venous arch of foot	Arcus venosus dorsalis pedis	vessels	Venous system > Systemic veins
+hemi-azygos-vein	Hemi-azygos vein	Vena hemiazyga	vessels	Venous system > Systemic veins
+inferior-vena-cava-abdominal-part	Inferior vena cava (abdominal part)		vessels	Venous system > Systemic veins
+inferior-vena-cava-thoracic-part	Inferior vena cava (thoracic part)		vessels	Venous system > Systemic veins
+internal-thoracic-veins	Internal thoracic veins	Venae thoracicae internae	vessels	Venous system > Systemic veins
+left-brachiocephalic-vein	Left brachiocephalic vein	Vena brachiocephalica sinistra	vessels	Venous system > Systemic veins
+left-subclavian-vein	Left subclavian vein	Vena subclavia sinistra	vessels	Venous system > Systemic veins
+left-superior-intercostal-vein	Left superior intercostal vein	Vena intercostalis superior sinistra	vessels	Venous system > Systemic veins
+plantar-venous-arch	Plantar venous arch	Arcus venosus plantaris	vessels	Venous system > Systemic veins
+right-brachiocephalic-vein	Right brachiocephalic vein	Vena brachiocephalica dextra	vessels	Venous system > Systemic veins
+right-subclavian-vein	Right subclavian vein	Vena subclavia dextra	vessels	Venous system > Systemic veins
+right-superior-intercostal-vein	Right superior intercostal vein	Vena intercostalis superior dextra	vessels	Venous system > Systemic veins
+superficial-venous-palmar-arch	Superficial venous palmar arch	Arcus venosus palmaris superficialis	vessels	Venous system > Systemic veins
+superior-vena-cava	Superior vena cava	Vena cava superior	vessels	Venous system > Systemic veins
+apex-of-heart	Apex of heart	Apex cordis	landmark	on Left ventricle
+inferior-surface-of-heart	Inferior surface of heart	Facies inferior cordis facies diaphragmatica cordis	landmark	on Left ventricle
+notch-of-cardiac-apex	Notch of cardiac apex	Incisuraapicis cordis	landmark	on Left ventricle
+right-surface-of-heart	Right surface of heart	Facies dextra cordis	landmark	on Left ventricle
+base-of-heart	Base of heart	Basis cordis	landmark	on Right atrium
+coronary-sulcus	Coronary sulcus	Sulcus coronarius	landmark	on Right atrium
+interatrial-septum	Interatrial septum	Septum interatriale	landmark	on Right atrium
+left-surface-of-heart	Left surface of heart	Facies sinistra cordis facies pulmonalis sinistra cordis	landmark	on Right atrium
+anterior-interventricular-sulcus	Anterior interventricular sulcus	Sulcus interventricularis anterior	landmark	on Right ventricle
+anterior-surface-of-heart	Anterior surface of heart	Facies anterior cordis facies stemocostalis cordis	landmark	on Right ventricle
+inferior-border-of-heart	Inferior border of heart	Margo inferior cordis	landmark	on Right ventricle
+inferior-interventricular-sulcus	Inferior interventricular sulcus	Sulcus interventricularis inferior	landmark	on Right ventricle
+right-border-of-heart	Right border of heart	Margo dexter cordis	landmark	on Right ventricle
