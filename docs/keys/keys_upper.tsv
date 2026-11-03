@@ -1,0 +1,353 @@
+key	English (model)	TA2 Latin	type	context
+joints-of-upper-limb	Joints of upper limb  [GROUP]	Juncturae membri superiori	group	
+muscular-system-of-upper-limb	Muscular system of upper limb  [GROUP]	Systema musculare membri superioris	group	
+radio-ulnar-syndesmoses	Radio-ulnar syndesmoses  [GROUP]	Syndesmoses radioulnares	group	Joints of free upper limb > Fibrous joints of free upper limb
+distal-radio-ulnar-joint	Distal radio-ulnar joint  [GROUP]	Articulatio radioulnaris distalis	group	Joints of free upper limb > Synovial joints of free upper limb
+elbow-joint	Elbow joint  [GROUP]	Articulatio cubiti	group	Joints of free upper limb > Synovial joints of free upper limb
+glenohumeral-joint	Glenohumeral joint  [GROUP]	Articulatio glenohumeralis	group	Joints of free upper limb > Synovial joints of free upper limb
+joints-of-hand	Joints of hand  [GROUP]	Articulationes manus	group	Joints of free upper limb > Synovial joints of free upper limb
+radiocarpal-joint	Radiocarpal joint  [GROUP]	Articulatio radiocarpea	group	Joints of free upper limb > Synovial joints of free upper limb
+acromioclavicular-joint	Acromioclavicular joint  [GROUP]	Articulatio acromioclavicularis	group	Joints of pectoral girdle > Synovial joints of pectoral girdle
+sternoclavicular-joint	Sternoclavicular joint  [GROUP]	Articulatio sternoclavicularis	group	Joints of pectoral girdle > Synovial joints of pectoral girdle
+joints-of-free-upper-limb	Joints of free upper limb  [GROUP]	Juncturae partis liberae membri superioris	group	Joints of upper limb
+joints-of-pectoral-girdle	Joints of pectoral girdle  [GROUP]	Juncturae cinguli pectoralis	group	Joints of upper limb
+fibrous-joints-of-free-upper-limb	Fibrous joints of free upper limb  [GROUP]	Juncturae fibrosae partis liberae membri superioris	group	Joints of upper limb > Joints of free upper limb
+synovial-joints-of-free-upper-limb	Synovial joints of free upper limb  [GROUP]	Articulationes partis liberae membri superioris	group	Joints of upper limb > Joints of free upper limb
+fibrous-joints-of-pectoral-girdle	Fibrous joints of pectoral girdle  [GROUP]	Juncturae fibrosae cinguli pectoralis	group	Joints of upper limb > Joints of pectoral girdle
+synovial-joints-of-pectoral-girdle	Synovial joints of pectoral girdle  [GROUP]	Articulationes cinguli pecoralis	group	Joints of upper limb > Joints of pectoral girdle
+biceps-brachii-muscle	Biceps brachii muscle  [GROUP]	Musculus biceps brachii	group	Muscles of upper limb > Anterior compartment of arm
+deep-part-of-anterior-compartment-of-forearm	Deep part of anterior compartment of forearm  [GROUP]	Pars profunda compartimenti anterioris antebrachii	group	Muscles of upper limb > Anterior compartment of forearm
+superficial-part-of-anterior-compartment-of-forearm	Superficial part of anterior compartment of forearm  [GROUP]	Pars superficialis compartimenti anterioris antebrachii	group	Muscles of upper limb > Anterior compartment of forearm
+triceps-brachii-muscle	Triceps brachii muscle  [GROUP]	Musculus triceps brachii	group	Muscles of upper limb > Posterior compartment of arm
+deep-part-of-posterior-compartment-of-forearm	Deep part of posterior compartment of forearm  [GROUP]	Pars profunda compartimenti posterioris antebrachii	group	Muscles of upper limb > Posterior compartment of forearm
+superficial-part-of-posterior-compartment-of-forearm	Superficial part of posterior compartment of forearm  [GROUP]	Pars superficialis compartimenti posterioris antebrachii	group	Muscles of upper limb > Posterior compartment of forearm
+deltoid-muscle	Deltoid muscle  [GROUP]	Musculus deltoideus	group	Muscles of upper limb > Scapulohumeral muscles
+rotator-cuff-muscles	Rotator cuff muscles  [GROUP]	Musculi cuffiae musculotendineae	group	Muscles of upper limb > Scapulohumeral muscles
+bursae-of-upper-limb	Bursae of upper limb  [GROUP]	Bursae membri superiori	group	Muscular system of upper limb
+muscles-of-upper-limb	Muscles of upper limb  [GROUP]	Musculi membri superiori	group	Muscular system of upper limb
+tendon-sheaths-of-upper-limb	Tendon sheaths of upper limb  [GROUP]	Vaginae tendinum membri superioris	group	Muscular system of upper limb
+anterior-compartment-of-arm	Anterior compartment of arm  [GROUP]	Compartimentum anterius brachii	group	Muscular system of upper limb > Muscles of upper limb
+anterior-compartment-of-forearm	Anterior compartment of forearm  [GROUP]	Compartimentum anterius antebrachii	group	Muscular system of upper limb > Muscles of upper limb
+muscles-of-hand	Muscles of hand  [GROUP]	Musculi manus	group	Muscular system of upper limb > Muscles of upper limb
+posterior-compartment-of-arm	Posterior compartment of arm  [GROUP]	Compartimentum posterius brachii	group	Muscular system of upper limb > Muscles of upper limb
+posterior-compartment-of-forearm	Posterior compartment of forearm  [GROUP]	Compartimentum posterius antebrachii	group	Muscular system of upper limb > Muscles of upper limb
+scapulohumeral-muscles	Scapulohumeral muscles  [GROUP]	Musculi scapulohumerales	group	Muscular system of upper limb > Muscles of upper limb
+carpal-tendon-sheaths	Carpal tendon sheaths  [GROUP]	Vaginae carpeae tendinum	group	Muscular system of upper limb > Tendon sheaths of upper limb
+tendon-sheaths-of-digits-of-hand	Tendon sheaths of digits of hand  [GROUP]	Vaginae tendinum digitorum	group	Muscular system of upper limb > Tendon sheaths of upper limb
+humero-ulnar-joint	Humero-ulnar joint  [GROUP]	Articulatio humeroulnaris	group	Synovial joints of free upper limb > Elbow joint
+humeroradial-joint	Humeroradial joint  [GROUP]	Articulatio humeroradialis	group	Synovial joints of free upper limb > Elbow joint
+proximal-radio-ulnar-joint	Proximal radio-ulnar joint  [GROUP]	Articulatio radioulnaris proximalis	group	Synovial joints of free upper limb > Elbow joint
+carpometacarpal-joints	Carpometacarpal joints  [GROUP]	Articulationes carpometacarpeae	group	Synovial joints of free upper limb > Joints of hand
+intercarpal-joints	Intercarpal joints  [GROUP]	Articulationes intercarpeae	group	Synovial joints of free upper limb > Joints of hand
+intermetacarpal-joints	Intermetacarpal joints  [GROUP]	Articulationes intermetacarpeae	group	Synovial joints of free upper limb > Joints of hand
+interphalangeal-joints-of-hand	Interphalangeal joints of hand  [GROUP]	Articulationes interphalangeae manus	group	Synovial joints of free upper limb > Joints of hand
+metacarpophalangeal-joints	Metacarpophalangeal joints  [GROUP]	Articulationes metacarpophalangeae	group	Synovial joints of free upper limb > Joints of hand
+dorsal-carpal-tendon-sheaths	Dorsal carpal tendon sheaths  [GROUP]	Vaginae carpeae dorsales tendinum	group	Tendon sheaths of upper limb > Carpal tendon sheaths
+palmar-carpal-tendon-sheaths	Palmar carpal tendon sheaths  [GROUP]	Vaginae carpeae palmares tendinum	group	Tendon sheaths of upper limb > Carpal tendon sheaths
+interosseous-membrane-of-forearm	Interosseous membrane of forearm	Membrana interossea antebrachii	joints	Joints of free upper limb > Fibrous joints of free upper limb > Radio-ulnar syndesmoses
+oblique-cord	Oblique cord	Chorda obliqua	joints	Joints of free upper limb > Fibrous joints of free upper limb > Radio-ulnar syndesmoses
+articular-disc-of-distal-radio-ulnar-joint	Articular disc of distal radio-ulnar joint	Discus articulationis radioulnaris distalis	joints	Joints of free upper limb > Synovial joints of free upper limb > Distal radio-ulnar joint
+dorsal-radio-ulnar-ligament	Dorsal radio-ulnar ligament	Ligamentum radioulnare dorsale	joints	Joints of free upper limb > Synovial joints of free upper limb > Distal radio-ulnar joint
+palmar-radio-ulnar-ligament	Palmar radio-ulnar ligament	Ligamentum radioulnare palmare	joints	Joints of free upper limb > Synovial joints of free upper limb > Distal radio-ulnar joint
+annular-ligament-of-radius	Annular ligament of radius	Ligamentum anulare radii	joints	Joints of free upper limb > Synovial joints of free upper limb > Elbow joint
+articular-capsule-of-elbow-joint	Articular capsule of elbow joint	Capsula articularis articulation cubiti	joints	Joints of free upper limb > Synovial joints of free upper limb > Elbow joint
+quadrate-ligament	Quadrate ligament	Ligamentum quadratum	joints	Joints of free upper limb > Synovial joints of free upper limb > Elbow joint
+radial-collateral-ligament	Radial collateral ligament	Ligamentum collaterale radiale cubiti	joints	Joints of free upper limb > Synovial joints of free upper limb > Elbow joint
+ulnar-collateral-ligament	Ulnar collateral ligament	Ligamentum collaterale ulnare cubiti	joints	Joints of free upper limb > Synovial joints of free upper limb > Elbow joint
+articular-capsule-of-glenohumeral-joint	Articular capsule of glenohumeral joint	Capsula articularis articulatio glenohumeralis	joints	Joints of free upper limb > Synovial joints of free upper limb > Glenohumeral joint
+coracohumeral-ligament	Coracohumeral ligament	Ligamentum coracohumerale	joints	Joints of free upper limb > Synovial joints of free upper limb > Glenohumeral joint
+glenoid-labrum	Glenoid labrum	Labrum glenoideum	joints	Joints of free upper limb > Synovial joints of free upper limb > Glenohumeral joint
+inferior-glenohumeral-ligament	Inferior glenohumeral ligament	Ligamentum glenohumerale inferius	joints	Joints of free upper limb > Synovial joints of free upper limb > Glenohumeral joint
+middle-glenohumeral-ligament	Middle glenohumeral ligament	Ligamentum glenohumerale medium	joints	Joints of free upper limb > Synovial joints of free upper limb > Glenohumeral joint
+superior-glenohumeral-ligament	Superior glenohumeral ligament	Ligamentum glenohumerale superius	joints	Joints of free upper limb > Synovial joints of free upper limb > Glenohumeral joint
+transverse-humeral-ligament	Transverse humeral ligament	Ligamentum transversum humeri	joints	Joints of free upper limb > Synovial joints of free upper limb > Glenohumeral joint
+articular-capsule-of-radiocarpal-joint	Articular capsule of radiocarpal joint	Capsula articularis articulatio radiocarpea	joints	Joints of free upper limb > Synovial joints of free upper limb > Radiocarpal joint
+dorsal-radiocarpal-ligament	Dorsal radiocarpal ligament	Ligamentum radiocarpeum dorsale	joints	Joints of free upper limb > Synovial joints of free upper limb > Radiocarpal joint
+radiocapitate-ligament	Radiocapitate ligament	Ligamentum radiocapitatum	joints	Joints of free upper limb > Synovial joints of free upper limb > Radiocarpal joint
+radioscaphocapitate-ligament	Radioscaphocapitate ligament	Ligamentum radioscaphocapitatum	joints	Joints of free upper limb > Synovial joints of free upper limb > Radiocarpal joint
+ulnocapitate-ligament	Ulnocapitate ligament	Ligamentum ulnocapitatum	joints	Joints of free upper limb > Synovial joints of free upper limb > Radiocarpal joint
+ulnolunate-ligament	Ulnolunate ligament	Ligamentum ulnolunatum	joints	Joints of free upper limb > Synovial joints of free upper limb > Radiocarpal joint
+ulnopisiform-ligament	Ulnopisiform ligament	Ligamentum ulnopisiforme	joints	Joints of free upper limb > Synovial joints of free upper limb > Radiocarpal joint
+ulnotriquetral-ligament	Ulnotriquetral ligament	Ligamentum ulnotriquetrum	joints	Joints of free upper limb > Synovial joints of free upper limb > Radiocarpal joint
+acromioclavicular-ligament	Acromioclavicular ligament	Ligamentum acromioclaviculare	joints	Joints of pectoral girdle > Synovial joints of pectoral girdle > Acromioclavicular joint
+articular-capsule-of-acromioclavicular-joint	Articular capsule of acromioclavicular joint	Capsula articularis articularis acromioclavicularis	joints	Joints of pectoral girdle > Synovial joints of pectoral girdle > Acromioclavicular joint
+articular-disc-of-acromioclavicular-joint	Articular disc of acromioclavicular joint	Discus articulationis acromioclavicularis	joints	Joints of pectoral girdle > Synovial joints of pectoral girdle > Acromioclavicular joint
+conoid-ligament	Conoid ligament	Ligamentum conoideum	joints	Joints of pectoral girdle > Synovial joints of pectoral girdle > Acromioclavicular joint
+trapezoid-ligament	Trapezoid ligament	Ligamentum trapezoideum	joints	Joints of pectoral girdle > Synovial joints of pectoral girdle > Acromioclavicular joint
+anterior-sternoclavicular-ligament	Anterior sternoclavicular ligament	Ligamentum sternoclaviculare anterius	joints	Joints of pectoral girdle > Synovial joints of pectoral girdle > Sternoclavicular joint
+articular-capsule-of-sternoclavicular-joint	Articular capsule of sternoclavicular joint	Capsula articularis articuli sternoclavicularis	joints	Joints of pectoral girdle > Synovial joints of pectoral girdle > Sternoclavicular joint
+articular-disc-of-sternoclavicular-joint	Articular disc of sternoclavicular joint	Discus articulationis sternoclavicularis	joints	Joints of pectoral girdle > Synovial joints of pectoral girdle > Sternoclavicular joint
+costoclavicular-ligament	Costoclavicular ligament	Ligamentum costoclaviculare	joints	Joints of pectoral girdle > Synovial joints of pectoral girdle > Sternoclavicular joint
+interclavicular-ligament	Interclavicular ligament	Ligamentum interclaviculare	joints	Joints of pectoral girdle > Synovial joints of pectoral girdle > Sternoclavicular joint
+posterior-sternoclavicular-ligament	Posterior sternoclavicular ligament	Ligamentum sternoclaviculare posterius	joints	Joints of pectoral girdle > Synovial joints of pectoral girdle > Sternoclavicular joint
+coraco-acromial-ligament	Coraco-acromial ligament	Ligamentum coracoacromiale	joints	Joints of upper limb > Joints of pectoral girdle > Fibrous joints of pectoral girdle
+inferior-transverse-scapular-ligament	Inferior transverse scapular ligament	Ligamentum transversum inferius scapulae	joints	Joints of upper limb > Joints of pectoral girdle > Fibrous joints of pectoral girdle
+superior-transverse-scapular-ligament	Superior transverse scapular ligament	Ligamentum transversum superius scapulae	joints	Joints of upper limb > Joints of pectoral girdle > Fibrous joints of pectoral girdle
+dorsal-carpometacarpal-ligaments	Dorsal carpometacarpal ligaments	Ligamenta carpometacarpea dorsalia	joints	Synovial joints of free upper limb > Joints of hand > Carpometacarpal joints
+palmar-carpometacarpal-ligaments	Palmar carpometacarpal ligaments	Ligamenta carpometacarpea palmaria	joints	Synovial joints of free upper limb > Joints of hand > Carpometacarpal joints
+capitohamate-interosseous-ligament	Capitohamate interosseous ligament	Ligamentum capitohamatum interosseum	joints	Synovial joints of free upper limb > Joints of hand > Intercarpal joints
+dorsal-intercarpal-ligaments	Dorsal intercarpal ligaments	Ligamenta intercarpea dorsalia	joints	Synovial joints of free upper limb > Joints of hand > Intercarpal joints
+dorsal-scaphotriquetral-ligament	Dorsal scaphotriquetral ligament	Ligamentum scaphotriquetrum dorsale	joints	Synovial joints of free upper limb > Joints of hand > Intercarpal joints
+dorsal-ulnocarpal-ligament	Dorsal ulnocarpal ligament	Ligamentum ulnocarpeum dorsale	joints	Synovial joints of free upper limb > Joints of hand > Intercarpal joints
+lunotriquetral-interosseous-ligament	Lunotriquetral interosseous ligament	Ligamentum lunotriquetrum interosseum	joints	Synovial joints of free upper limb > Joints of hand > Intercarpal joints
+palmar-capitohamate-ligament	Palmar capitohamate ligament	Ligamentum capitohamatum palmare	joints	Synovial joints of free upper limb > Joints of hand > Intercarpal joints
+palmar-lunotriquetral-ligament	Palmar lunotriquetral ligament	Ligamentum lunotriquetrum palmare	joints	Synovial joints of free upper limb > Joints of hand > Intercarpal joints
+palmar-scaphotriquetral-ligament	Palmar scaphotriquetral ligament	Ligamentum scaphotriquetrum palmare	joints	Synovial joints of free upper limb > Joints of hand > Intercarpal joints
+palmar-trapezoideocapitate-ligament	Palmar trapezoideocapitate ligament	Ligamentum trapezoideocapitatum palmare	joints	Synovial joints of free upper limb > Joints of hand > Intercarpal joints
+pisohamate-ligament	Pisohamate ligament	Ligamentum pisohamatum	joints	Synovial joints of free upper limb > Joints of hand > Intercarpal joints
+pisometacarpal-ligament	Pisometacarpal ligament	Ligamentum pisometacarpeum	joints	Synovial joints of free upper limb > Joints of hand > Intercarpal joints
+pisotriquetral-ligament	Pisotriquetral ligament	Ligamentum pisotriquetrum	joints	Synovial joints of free upper limb > Joints of hand > Intercarpal joints
+radial-collateral-ligament-of-wrist-joint	Radial collateral ligament of wrist joint	Ligamentum collaterale radiale carpi	joints	Synovial joints of free upper limb > Joints of hand > Intercarpal joints
+radiate-carpal-ligament	Radiate carpal ligament	Ligamentum radiatum carpi	joints	Synovial joints of free upper limb > Joints of hand > Intercarpal joints
+scaphocapitate-ligament	Scaphocapitate ligament	Ligamentum scaphocapitatum	joints	Synovial joints of free upper limb > Joints of hand > Intercarpal joints
+scapholunate-interosseous-ligament	Scapholunate interosseous ligament	Ligamentum scapholunatum interosseum	joints	Synovial joints of free upper limb > Joints of hand > Intercarpal joints
+scaphotrapeziotrapezoidal-ligament	Scaphotrapeziotrapezoidal ligament	Ligamentum scaphotrapeziotrapezoideum	joints	Synovial joints of free upper limb > Joints of hand > Intercarpal joints
+trapeziotrapezoidal-interosseous-ligament	Trapeziotrapezoidal interosseous ligament	Ligamentum trapeziotrapezoideum interosseum	joints	Synovial joints of free upper limb > Joints of hand > Intercarpal joints
+trapezoideocapitate-interosseous-ligament	Trapezoideocapitate interosseous ligament	Ligamentum trapezoideocapitatum interosseum	joints	Synovial joints of free upper limb > Joints of hand > Intercarpal joints
+triquetrocapitate-ligament	Triquetrocapitate ligament	Ligamentum triquetrocapitatum	joints	Synovial joints of free upper limb > Joints of hand > Intercarpal joints
+triquetrohamate-ligament	Triquetrohamate ligament	Ligamentum triquetrohamatum	joints	Synovial joints of free upper limb > Joints of hand > Intercarpal joints
+ulnar-collateral-ligament-of-wrist-joint	Ulnar collateral ligament of wrist joint	Ligamentum collaterale ulnare carpi	joints	Synovial joints of free upper limb > Joints of hand > Intercarpal joints
+dorsal-metacarpal-ligaments	Dorsal metacarpal ligaments	Ligamenta metacarpea dorsalia	joints	Synovial joints of free upper limb > Joints of hand > Intermetacarpal joints
+interosseous-metacarpal-ligaments	Interosseous metacarpal ligaments	Ligamenta metacarpea interossea	joints	Synovial joints of free upper limb > Joints of hand > Intermetacarpal joints
+palmar-metacarpal-ligaments	Palmar metacarpal ligaments	Ligamenta metacarpea palmaria	joints	Synovial joints of free upper limb > Joints of hand > Intermetacarpal joints
+articular-capsules-of-distal-interphalangeal-joints	Articular capsules of distal interphalangeal joints	Capsulae articulareae articulationes interphalangeae distalis	joints	Synovial joints of free upper limb > Joints of hand > Interphalangeal joints of hand
+articular-capsules-of-proximal-interphalangeal-joints	Articular capsules of proximal interphalangeal joints	Capsulae articulareae art. interphalangeae proximalis	joints	Synovial joints of free upper limb > Joints of hand > Interphalangeal joints of hand
+collateral-interphalangeal-ligaments-of-hand	Collateral interphalangeal ligaments of hand	Ligamenta interphalangea collateralia manus	joints	Synovial joints of free upper limb > Joints of hand > Interphalangeal joints of hand
+palmar-interphalangeal-ligaments	Palmar interphalangeal ligaments	Ligamenta interphalangea palmaria	joints	Synovial joints of free upper limb > Joints of hand > Interphalangeal joints of hand
+articular-capsules-of-metacarpophalangeal-joints	Articular capsules of metacarpophalangeal joints	Capsulae articulariae articulationes metacarpophalnageae	joints	Synovial joints of free upper limb > Joints of hand > Metacarpophalangeal joints
+collateral-metacarpophalangeal-ligaments	Collateral metacarpophalangeal ligaments	Ligamenta metacarpophalangea collateralia	joints	Synovial joints of free upper limb > Joints of hand > Metacarpophalangeal joints
+deep-transverse-metacarpal-ligament	Deep transverse metacarpal ligament	Ligamentum metacarpeum transversum profundum	joints	Synovial joints of free upper limb > Joints of hand > Metacarpophalangeal joints
+acromial-end	Acromial end	Extremitas acromialis	landmark	on Clavicle
+acromial-facet	Acromial facet	Facies articularis acromialis	landmark	on Clavicle
+body-of-clavicle	Body of clavicle	Corpus claviculae	landmark	on Clavicle
+conoid-tubercle	Conoid tubercle	Tuberculum conoideum	landmark	on Clavicle
+groove-for-subclavius-muscle	Groove for subclavius muscle	Sulcus musculi subclavii	landmark	on Clavicle
+impression-for-costoclavicular-ligament	Impression for costoclavicular ligament	Impressio ligamenti costoclavicularis	landmark	on Clavicle
+sternal-articular-surface	Sternal articular surface	Facies articularis sternalis	landmark	on Clavicle
+sternal-end	Sternal end	Extremitas sternalis	landmark	on Clavicle
+trapezoid-line	Trapezoid line	Linea trapezoidea	landmark	on Clavicle
+tuberosity-for-coracoclavicular-ligament	Tuberosity for coracoclavicular ligament	Tuberositas ligamenti coracoclavicularis	landmark	on Clavicle
+tuberosity-of-distal-phalanx-of-hand	Tuberosity of distal phalanx of hand	Tuberositas phalangis distalis manus	landmark	on Distal phalanx of third finger of hand
+hook-of-hamate-bone	Hook of hamate bone	Hamulus ossis hamati	landmark	on Hamate bone
+anatomical-neck-of-humerus	Anatomical neck of humerus	Collum anatomicum humeri	landmark	on Humerus
+anterior-border-of-humerus	Anterior border of humerus	Margo anterior humeri	landmark	on Humerus
+anterolateral-surface-of-humerus	Anterolateral surface of humerus	Facies anterolateralis humeri	landmark	on Humerus
+anteromedial-surface-of-humerus	Anteromedial surface of humerus	Facies anteromedialis humeri	landmark	on Humerus
+body-of-humerus	Body of humerus	Corpus humeri	landmark	on Humerus
+capitulum-of-humerus	Capitulum of humerus	Capitulum humeri	landmark	on Humerus
+condyle-of-humerus	Condyle of humerus	Condylus humeri	landmark	on Humerus
+coronoid-fossa	Coronoid fossa	Fossa coronoidea	landmark	on Humerus
+crest-of-greater-tubercle	Crest of greater tubercle	Crista tuberculi majoris	landmark	on Humerus
+crest-of-lesser-tubercle	Crest of lesser tubercle	Crista tuberculi minoris	landmark	on Humerus
+deltoid-tuberosity	Deltoid tuberosity	Tuberositas deltoidea	landmark	on Humerus
+greater-tubercle	Greater tubercle	Tuberculum majus	landmark	on Humerus
+groove-for-ulnar-nerve	Groove for ulnar nerve	Sulcus nervi ulnaris	landmark	on Humerus
+head-of-humerus	Head of humerus	Caput humeri	landmark	on Humerus
+humerus	Humerus	Humerus	landmark	on Humerus
+intertubercular-sulcus	Intertubercular sulcus	Sulcus intertubercularis	landmark	on Humerus
+lateral-border-of-humerus	Lateral border of humerus	Margo lateralis humeri	landmark	on Humerus
+lateral-epicondyle-of-humerus	Lateral epicondyle of humerus	Epicondylus lateralis humeri	landmark	on Humerus
+lateral-supracondylar-ridge	Lateral supracondylar ridge	Crista supracondylaris lateralis crista	landmark	on Humerus
+lesser-tubercle	Lesser tubercle	Tuberculum minus	landmark	on Humerus
+medial-border-of-humerus	Medial border of humerus	Margo medialis humeri	landmark	on Humerus
+medial-epicondyle-of-humerus	Medial epicondyle of humerus	Epicondylus medialis humeri	landmark	on Humerus
+medial-supracondylar-ridge	Medial supracondylar ridge	Crista supracondylaris medialis crista	landmark	on Humerus
+olecranon-fossa	Olecranon fossa	Fossa olecrani	landmark	on Humerus
+posterior-surface-of-humerus	Posterior surface of humerus	Facies posterior humeri	landmark	on Humerus
+radial-fossa	Radial fossa	Fossa radialis	landmark	on Humerus
+radial-groove	Radial groove	Sulcus nervi radialis	landmark	on Humerus
+surgical-neck-of-humerus	Surgical neck of humerus	Collum chirurgicum humeri	landmark	on Humerus
+trochlea-of-humerus	Trochlea of humerus	Trochlea humeri	landmark	on Humerus
+base-of-phalanx-of-hand	Base of phalanx of hand	Basis phalangis manus	landmark	on Proximal phalanx of third finger of hand
+body-of-phalanx-of-hand	Body of phalanx of hand	Corpus phalangis manus	landmark	on Proximal phalanx of third finger of hand
+head-of-phalanx-of-hand	Head of phalanx of hand	Caput phalangis manus	landmark	on Proximal phalanx of third finger of hand
+trochlea-of-phalanx-of-hand	Trochlea of phalanx of hand	Trochlea phalangis manus	landmark	on Proximal phalanx of third finger of hand
+anterior-border-of-radius	Anterior border of radius	Margo anterior radii	landmark	on Radius
+anterior-surface-of-radius	Anterior surface of radius	Facies anterior radii	landmark	on Radius
+articular-circumference-of-head-of-radius	Articular circumference of head of radius	Circumferentia articularis capitis radii	landmark	on Radius
+articular-facet-of-head-of-radius	Articular facet of head of radius	Fovea articularis capitis radii	landmark	on Radius
+body-of-radius	Body of radius	Corpus radii	landmark	on Radius
+carpal-articular-surface	Carpal articular surface	Facies articularis carpea	landmark	on Radius
+dorsal-radial-tubercle	Dorsal radial tubercle	Tuberculum dorsale radii	landmark	on Radius
+grooves-for-extensor-tendons	Grooves for extensor tendons	Sulci tendinum extensorum	landmark	on Radius
+head-of-radius	Head of radius	Caput radii	landmark	on Radius
+interosseous-border-of-radius	Interosseous border of radius	Margo interosseus radii	landmark	on Radius
+lateral-surface-of-radius	Lateral surface of radius	Facies lateralis radii	landmark	on Radius
+neck-of-radius	Neck of radius	Collum radii	landmark	on Radius
+posterior-border-of-radius	Posterior border of radius	Margo posterior radii	landmark	on Radius
+posterior-surface-of-radius	Posterior surface of radius	Facies posterior radii	landmark	on Radius
+pronator-tuberosity	Pronator tuberosity	Tuberositas pronatoria	landmark	on Radius
+radial-styloid-process	Radial styloid process	Processus styloideus radii	landmark	on Radius
+radial-tuberosity	Radial tuberosity	Tuberositas radii	landmark	on Radius
+radius	Radius	Radius	landmark	on Radius
+suprastyloid-crest	Suprastyloid crest	Crista suprastyloidea	landmark	on Radius
+ulnar-notch	Ulnar notch	Incisura ulnaris	landmark	on Radius
+tubercle-of-scaphoid-bone	Tubercle of scaphoid bone	Tuberculum ossis scaphoidei	landmark	on Scaphoid bone
+acromial-angle	Acromial angle	Angulus acromii	landmark	on Scapula
+acromion	Acromion	Acromion	landmark	on Scapula
+clavicular-facet	Clavicular facet	Facies articularis clavicularis	landmark	on Scapula
+coracoid-process	Coracoid process	Processus coracoideus	landmark	on Scapula
+costal-surface-of-scapula	Costal surface of scapula	Facies costalis scapulae	landmark	on Scapula
+deltoid-tubercle	Deltoid tubercle	Tuberculum deltoideum	landmark	on Scapula
+glenoid-fossa	Glenoid fossa	Fossa glenoidea	landmark	on Scapula
+glenoid-process-of-scapula	Glenoid process of scapula	Processus glenoideus scapulae	landmark	on Scapula
+inferior-angle-of-scapula	Inferior angle of scapula	Angulus inferior scapulae	landmark	on Scapula
+infraglenoid-tubercle	Infraglenoid tubercle	Tuberculum infraglenoideum	landmark	on Scapula
+infraspinous-fossa	Infraspinous fossa	Fossa infraspinata	landmark	on Scapula
+lateral-angle-of-scapula	Lateral angle of scapula	Angulus lateralis scapulae	landmark	on Scapula
+lateral-border-of-scapula	Lateral border of scapula	Margo lateralis scapulae	landmark	on Scapula
+medial-border-of-scapula	Medial border of scapula	Margo medialis scapulae	landmark	on Scapula
+neck-of-scapula	Neck of scapula	Collum scapulae	landmark	on Scapula
+posterior-surface-of-scapula	Posterior surface of scapula	Facies posterior scapulae	landmark	on Scapula
+scapula	Scapula	Scapula	landmark	on Scapula
+scapular-notch	Scapular notch	Incisura scapulae	landmark	on Scapula
+spine-of-scapula	Spine of scapula	Spina scapulae	landmark	on Scapula
+spinoglenoid-notch	Spinoglenoid notch	Incisura spinoglenoidea	landmark	on Scapula
+subscapular-fossa	Subscapular fossa	Fossa subscapularis	landmark	on Scapula
+superior-angle-of-scapula	Superior angle of scapula	Angulus superior scapulae	landmark	on Scapula
+superior-border-of-scapula	Superior border of scapula	Margo superior scapulae	landmark	on Scapula
+supraglenoid-tubercle	Supraglenoid tubercle	Tuberculum supraglenoideum	landmark	on Scapula
+supraspinous-fossa	Supraspinous fossa	Fossa supraspinata	landmark	on Scapula
+body-of-metacarpal-bone	Body of metacarpal bone	Corpus ossis metacarpi	landmark	on Third metacarpal bone
+head-of-metacarpal-bone	Head of metacarpal bone	Caput ossis metacarpi	landmark	on Third metacarpal bone
+metacarpal-base	Metacarpal base	Basis ossis metacarpi	landmark	on Third metacarpal bone
+styloid-process-of-third-metacarpal-bone	Styloid process of third metacarpal bone	Processus styloideus ossis tertii metacarpi	landmark	on Third metacarpal bone
+tubercle-of-trapezium-bone	Tubercle of trapezium bone	Tuberculum ossis trapezii	landmark	on Trapezium bone
+anterior-border-of-ulna	Anterior border of ulna	Margo anterior ulnae	landmark	on Ulna
+articular-circumference-of-head-of-ulna	Articular circumference of head of ulna	Circumferentia articularis capitis ulnae	landmark	on Ulna
+body-of-ulna	Body of ulna	Corpus ulnae	landmark	on Ulna
+coronoid-process-of-ulna	Coronoid process of ulna	Processus coronoideus ulnae	landmark	on Ulna
+head-of-ulna	Head of ulna	Caput ulnae	landmark	on Ulna
+interosseous-border-of-ulna	Interosseous border of ulna	Margo interosseus ulnae	landmark	on Ulna
+medial-surface-of-ulna	Medial surface of ulna	Facies medialis ulnae	landmark	on Ulna
+olecranon	Olecranon	Olecranon	landmark	on Ulna
+posterior-border-of-ulna	Posterior border of ulna	Margo posterior ulnae	landmark	on Ulna
+posterior-surface-of-ulna	Posterior surface of ulna	Facies posterior ulnae	landmark	on Ulna
+radial-notch	Radial notch	Incisura radialis	landmark	on Ulna
+sublime-tubercle	Sublime tubercle	Tuberculum sublime	landmark	on Ulna
+supinator-crest	Supinator crest	Crista supinatoria	landmark	on Ulna
+trochlear-notch	Trochlear notch	Incisura trochlearis	landmark	on Ulna
+tuberosity-of-ulna	Tuberosity of ulna	Tuberositas ulnae	landmark	on Ulna
+ulna	Ulna	Ulna	landmark	on Ulna
+ulnar-styloid-process	Ulnar styloid process	Processus styloideus ulnae	landmark	on Ulna
+ascending-part-of-trapezius-muscle	Ascending part of trapezius muscle	Pars ascendens musculi trapezii	muscles	Dorsal part of muscular system > Hypaxial muscles of back > Trapezius muscle
+descending-part-of-trapezius-muscle	Descending part of trapezius muscle	Pars descendens musculi trapezii	muscles	Dorsal part of muscular system > Hypaxial muscles of back > Trapezius muscle
+transverse-part-of-trapezius-muscle	Transverse part of trapezius muscle	Pars transversa musculi trapezii	muscles	Dorsal part of muscular system > Hypaxial muscles of back > Trapezius muscle
+antebrachial-fascia	Antebrachial fascia	Fascia antebrachii	muscles	Fasciae > Fasciae of upper limb
+brachial-fascia	Brachial fascia	Fascia brachii	muscles	Fasciae > Fasciae of upper limb
+deltoid-fascia	Deltoid fascia	Fascia deltoidea	muscles	Fasciae > Fasciae of upper limb
+dorsal-fascia-of-hand	Dorsal fascia of hand	Fascia dorsalis manus	muscles	Fasciae > Fasciae of upper limb
+extensor-retinaculum-of-wrist	Extensor retinaculum of wrist	Retinaculum extensorium carpi	muscles	Fasciae > Fasciae of upper limb
+flexor-retinaculum-of-wrist	Flexor retinaculum of wrist	Retinaculum flexorium carpi	muscles	Fasciae > Fasciae of upper limb
+lateral-intermuscular-septum-of-arm	Lateral intermuscular septum of arm	Septum intermusculare laterale brachii	muscles	Fasciae > Fasciae of upper limb
+medial-intermuscular-septum-of-arm	Medial intermuscular septum of arm	Septum intermusculare mediale brachii	muscles	Fasciae > Fasciae of upper limb
+palmar-aponeurosis	Palmar aponeurosis	Aponeurosis palmaris	muscles	Fasciae > Fasciae of upper limb
+superficial-transverse-metacarpal-ligament	Superficial transverse metacarpal ligament	Ligamentum metacarpeum transversum superficiale	muscles	Fasciae > Fasciae of upper limb
+long-head-of-biceps-brachii	Long head of biceps brachii	Caput longum musculi bicipitis brachii	muscles	Muscles of upper limb > Anterior compartment of arm > Biceps brachii muscle
+short-head-of-biceps-brachii	Short head of biceps brachii	Caput breve musculi bicipitis brachii	muscles	Muscles of upper limb > Anterior compartment of arm > Biceps brachii muscle
+flexor-digitorum-profundus	Flexor digitorum profundus	Flexor profundus digitorum	muscles	Muscles of upper limb > Anterior compartment of forearm > Deep part of anterior compartment of forearm
+flexor-pollicis-longus	Flexor pollicis longus	Flexor longus pollicis	muscles	Muscles of upper limb > Anterior compartment of forearm > Deep part of anterior compartment of forearm
+pronator-quadratus	Pronator quadratus	Pronator quadratus	muscles	Muscles of upper limb > Anterior compartment of forearm > Deep part of anterior compartment of forearm
+deep-head-of-pronator-teres	Deep head of pronator teres	Caput profundum pronatoris teretis	muscles	Muscles of upper limb > Anterior compartment of forearm > Superficial part of anterior compartment of forearm
+flexor-carpi-radialis	Flexor carpi radialis	Flexor radialis carpi	muscles	Muscles of upper limb > Anterior compartment of forearm > Superficial part of anterior compartment of forearm
+humeral-head-of-flexor-carpi-ulnaris	Humeral head of flexor carpi ulnaris	Caput humerale flexoris ulnaris carpi	muscles	Muscles of upper limb > Anterior compartment of forearm > Superficial part of anterior compartment of forearm
+humero-ulnar-head-of-flexor-digitorum-superficialis	Humero-ulnar head of flexor digitorum superficialis	Caput humeroulnare flexoris superficialis digitorum	muscles	Muscles of upper limb > Anterior compartment of forearm > Superficial part of anterior compartment of forearm
+palmaris-longus-muscle	Palmaris longus muscle	Musculus palmaris longus	muscles	Muscles of upper limb > Anterior compartment of forearm > Superficial part of anterior compartment of forearm
+radial-head-of-flexor-digitorum-superficialis	Radial head of flexor digitorum superficialis	Caput radiale flexoris superficialis digitorum	muscles	Muscles of upper limb > Anterior compartment of forearm > Superficial part of anterior compartment of forearm
+superficial-head-of-pronator-teres	Superficial head of pronator teres	Caput superficiale pronatoris teretis	muscles	Muscles of upper limb > Anterior compartment of forearm > Superficial part of anterior compartment of forearm
+ulnar-head-of-flexor-carpi-ulnaris	Ulnar head of flexor carpi ulnaris	Caput ulnare flexoris ulnaris carpi	muscles	Muscles of upper limb > Anterior compartment of forearm > Superficial part of anterior compartment of forearm
+lateral-head-of-triceps-brachii	Lateral head of triceps brachii	Caput laterale musculi tricipitis brachii	muscles	Muscles of upper limb > Posterior compartment of arm > Triceps brachii muscle
+long-head-of-triceps-brachii	Long head of triceps brachii	Caput longum musculi tricipitis brachii	muscles	Muscles of upper limb > Posterior compartment of arm > Triceps brachii muscle
+medial-head-of-triceps-brachii	Medial head of triceps brachii	Caput mediale musculi tricipitis caput brachii	muscles	Muscles of upper limb > Posterior compartment of arm > Triceps brachii muscle
+abductor-pollicis-longus	Abductor pollicis longus	Abductor longus pollicis	muscles	Muscles of upper limb > Posterior compartment of forearm > Deep part of posterior compartment of forearm
+extensor-indicis	Extensor indicis	Extensor indicis	muscles	Muscles of upper limb > Posterior compartment of forearm > Deep part of posterior compartment of forearm
+extensor-pollicis-brevis	Extensor pollicis brevis	Extensor brevis pollicis	muscles	Muscles of upper limb > Posterior compartment of forearm > Deep part of posterior compartment of forearm
+extensor-pollicis-longus	Extensor pollicis longus	Extensor longus pollicis	muscles	Muscles of upper limb > Posterior compartment of forearm > Deep part of posterior compartment of forearm
+supinator	Supinator	Supinator	muscles	Muscles of upper limb > Posterior compartment of forearm > Deep part of posterior compartment of forearm
+anconeus-muscle	Anconeus muscle	Musculus anconeus	muscles	Muscles of upper limb > Posterior compartment of forearm > Superficial part of posterior compartment of forearm
+brachioradialis-muscle	Brachioradialis muscle	Musculus brachioradialis	muscles	Muscles of upper limb > Posterior compartment of forearm > Superficial part of posterior compartment of forearm
+extensor-carpi-radialis-brevis	Extensor carpi radialis brevis	Extensor radialis brevis carpi	muscles	Muscles of upper limb > Posterior compartment of forearm > Superficial part of posterior compartment of forearm
+extensor-carpi-radialis-longus	Extensor carpi radialis longus	Extensor radialis longus carpi	muscles	Muscles of upper limb > Posterior compartment of forearm > Superficial part of posterior compartment of forearm
+extensor-digiti-minimi	Extensor digiti minimi	Extensor digiti minimi	muscles	Muscles of upper limb > Posterior compartment of forearm > Superficial part of posterior compartment of forearm
+extensor-digitorum	Extensor digitorum	Extensor digitorum	muscles	Muscles of upper limb > Posterior compartment of forearm > Superficial part of posterior compartment of forearm
+humeral-head-of-extensor-carpi-ulnaris	Humeral head of extensor carpi ulnaris	Caput humerale extensoris ulnaris carpi	muscles	Muscles of upper limb > Posterior compartment of forearm > Superficial part of posterior compartment of forearm
+ulnar-head-of-extensor-carpi-ulnaris	Ulnar head of extensor carpi ulnaris	Caput ulnare extensoris ulnaris carpi	muscles	Muscles of upper limb > Posterior compartment of forearm > Superficial part of posterior compartment of forearm
+acromial-part-of-deltoid-muscle	Acromial part of deltoid muscle	Pars acromialis musculi deltoidei	muscles	Muscles of upper limb > Scapulohumeral muscles > Deltoid muscle
+clavicular-part-of-deltoid-muscle	Clavicular part of deltoid muscle	Pars clavicularis musculi deltoidei	muscles	Muscles of upper limb > Scapulohumeral muscles > Deltoid muscle
+scapular-spinal-part-of-deltoid-muscle	Scapular spinal part of deltoid muscle	Pars spinalis scapularis musculi deltoidei	muscles	Muscles of upper limb > Scapulohumeral muscles > Deltoid muscle
+infraspinatus-muscle	Infraspinatus muscle	Musculus infraspinatus	muscles	Muscles of upper limb > Scapulohumeral muscles > Rotator cuff muscles
+subscapularis-muscle	Subscapularis muscle	Musculus subscapularis	muscles	Muscles of upper limb > Scapulohumeral muscles > Rotator cuff muscles
+supraspinatus-muscle	Supraspinatus muscle	Musculus supraspinatus	muscles	Muscles of upper limb > Scapulohumeral muscles > Rotator cuff muscles
+teres-minor-muscle	Teres minor muscle	Musculus teres minor	muscles	Muscles of upper limb > Scapulohumeral muscles > Rotator cuff muscles
+latissimus-dorsi-muscle	Latissimus dorsi muscle	Musculus latissimus dorsi	muscles	Muscular system > Dorsal part of muscular system > Hypaxial muscles of back
+levator-scapulae	Levator scapulae	Levator scapulae	muscles	Muscular system > Dorsal part of muscular system > Hypaxial muscles of back
+rhomboid-major-muscle	Rhomboid major muscle	Musculus rhomboideus major	muscles	Muscular system > Dorsal part of muscular system > Hypaxial muscles of back
+rhomboid-minor-muscle	Rhomboid minor muscle	Musculus rhomboideus minor	muscles	Muscular system > Dorsal part of muscular system > Hypaxial muscles of back
+bicipitoradial-bursa	Bicipitoradial bursa	Bursa bicipitoradialis	muscles	Muscular system > Muscular system of upper limb > Bursae of upper limb
+coracobrachial-bursa	Coracobrachial bursa		muscles	Muscular system > Muscular system of upper limb > Bursae of upper limb
+subacromial-bursa	Subacromial bursa	Bursa subacromialis	muscles	Muscular system > Muscular system of upper limb > Bursae of upper limb
+subcutaneous-acromial-bursa	Subcutaneous acromial bursa		muscles	Muscular system > Muscular system of upper limb > Bursae of upper limb
+subdeltoid-bursa	Subdeltoid bursa	Bursa subdeltoidea	muscles	Muscular system > Muscular system of upper limb > Bursae of upper limb
+subtendinous-bursa-of-infraspinatus-muscle	Subtendinous bursa of infraspinatus muscle	Bursa subtendinea musculi infraspinati	muscles	Muscular system > Muscular system of upper limb > Bursae of upper limb
+subtendinous-bursa-of-teres-major-muscle	Subtendinous bursa of teres major muscle	Bursa subtendinea musculi teretis majoris	muscles	Muscular system > Muscular system of upper limb > Bursae of upper limb
+subtendinous-bursa-of-trapezius-muscle	Subtendinous bursa of trapezius muscle	Bursa subtendinea musculi trapezii	muscles	Muscular system > Muscular system of upper limb > Bursae of upper limb
+subtendinous-bursa-of-triceps-brachii-muscle	Subtendinous bursa of triceps brachii muscle	Bursa subtendinea musculi tricipitis	muscles	Muscular system > Muscular system of upper limb > Bursae of upper limb
+pectoralis-minor-muscle	Pectoralis minor muscle	Musculus pectoralis minor	muscles	Muscular system > Thoracic part of muscular system > Muscles of thorax
+serratus-anterior-muscle	Serratus anterior muscle	Musculus serratus anterior	muscles	Muscular system > Thoracic part of muscular system > Muscles of thorax
+subclavius-muscle	Subclavius muscle	Musculus subclavius	muscles	Muscular system > Thoracic part of muscular system > Muscles of thorax
+brachialis-muscle	Brachialis muscle	Musculus brachialis	muscles	Muscular system of upper limb > Muscles of upper limb > Anterior compartment of arm
+coracobrachialis-muscle	Coracobrachialis muscle	Musculus coracobrachialis	muscles	Muscular system of upper limb > Muscles of upper limb > Anterior compartment of arm
+abductor-digiti-minimi-of-hand	Abductor digiti minimi of hand	Abductor digiti minimi manus	muscles	Muscular system of upper limb > Muscles of upper limb > Muscles of hand
+abductor-pollicis-brevis	Abductor pollicis brevis	Abductor brevis pollicis	muscles	Muscular system of upper limb > Muscles of upper limb > Muscles of hand
+deep-head-of-flexor-pollicis-brevis	Deep head of flexor pollicis brevis	Caput profundum flexoris brevis pollicis	muscles	Muscular system of upper limb > Muscles of upper limb > Muscles of hand
+dorsal-interossei-muscles-of-hand	Dorsal interossei muscles of hand	Musculi interossei dorsales manus	muscles	Muscular system of upper limb > Muscles of upper limb > Muscles of hand
+flexor-digiti-minimi-of-hand	Flexor digiti minimi of hand	Flexor digiti minimi manus	muscles	Muscular system of upper limb > Muscles of upper limb > Muscles of hand
+lumbrical-muscles-of-hand	Lumbrical muscles of hand	Musculi lumbricales manus	muscles	Muscular system of upper limb > Muscles of upper limb > Muscles of hand
+oblique-head-of-adductor-pollicis	Oblique head of adductor pollicis	Caput obliquum adductoris pollicis	muscles	Muscular system of upper limb > Muscles of upper limb > Muscles of hand
+opponens-digiti-minimi-muscle-of-hand	Opponens digiti minimi muscle of hand	Musculus opponens digiti minimi manus	muscles	Muscular system of upper limb > Muscles of upper limb > Muscles of hand
+opponens-pollicis-muscle	Opponens pollicis muscle	Musculus opponens pollicis	muscles	Muscular system of upper limb > Muscles of upper limb > Muscles of hand
+palmar-interossei-muscles	Palmar interossei muscles	Musculi interossei palmares	muscles	Muscular system of upper limb > Muscles of upper limb > Muscles of hand
+superficial-head-of-flexor-pollicis-brevis	Superficial head of flexor pollicis brevis	Caput superficiale flexoris brevis pollicis	muscles	Muscular system of upper limb > Muscles of upper limb > Muscles of hand
+transverse-head-of-adductor-pollicis	Transverse head of adductor pollicis	Caput transversum adductoris pollicis	muscles	Muscular system of upper limb > Muscles of upper limb > Muscles of hand
+teres-major-muscle	Teres major muscle	Musculus teres major	muscles	Muscular system of upper limb > Muscles of upper limb > Scapulohumeral muscles
+cruciform-part-of-fibrous-sheath-of-digit-of-hand	Cruciform part of fibrous sheath of digit of hand		muscles	Muscular system of upper limb > Tendon sheaths of upper limb > Tendon sheaths of digits of hand
+synovial-sheaths-of-digits-of-hand	Synovial sheaths of digits of hand	Vaginae synoviales digitorum	muscles	Muscular system of upper limb > Tendon sheaths of upper limb > Tendon sheaths of digits of hand
+tendon-sheath-abd-pollicis-longus-ext-pollicis-brevis	Tendon sheath - abd. pollicis longus - ext. pollicis brevis	Vagina tendinum abd. longi et extensoris brevis pollicis	muscles	Tendon sheaths of upper limb > Carpal tendon sheaths > Dorsal carpal tendon sheaths
+tendon-sheath-of-extensor-digitorum-and-extensor-indicis	Tendon sheath of extensor digitorum and extensor indicis	Vagina tendinum musc. ext. digitorum - extensoris indicis	muscles	Tendon sheaths of upper limb > Carpal tendon sheaths > Dorsal carpal tendon sheaths
+tendon-sheath-of-extensors-carpi-radialis	Tendon sheath of extensors carpi radialis		muscles	Tendon sheaths of upper limb > Carpal tendon sheaths > Dorsal carpal tendon sheaths
+common-flexor-tendon-sheath	Common flexor tendon sheath	Vagina communis tendinum flexorum	muscles	Tendon sheaths of upper limb > Carpal tendon sheaths > Palmar carpal tendon sheaths
+abdominal-part-of-pectoralis-major-muscle	Abdominal part of pectoralis major muscle		muscles	Thoracic part of muscular system > Muscles of thorax > Pectoralis major muscle
+clavicular-head-of-pectoralis-major-muscle	Clavicular head of pectoralis major muscle	Pars clavicularis musculi pectoralis majoris	muscles	Thoracic part of muscular system > Muscles of thorax > Pectoralis major muscle
+sternocostal-head-of-pectoralis-major-muscle	Sternocostal head of pectoralis major muscle	Pars sternocostalis musculi pectoralis majoris	muscles	Thoracic part of muscular system > Muscles of thorax > Pectoralis major muscle
+capitate-bone	Capitate bone	Os capitatum	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+distal-phalanx-of-fifth-finger-of-hand	Distal phalanx of fifth finger of hand	Phalanx distalis quintum digitorum manus	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+distal-phalanx-of-first-finger-of-hand	Distal phalanx of first finger of hand	Phalanx distalis primum digitorum manus	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+distal-phalanx-of-fourth-finger-of-hand	Distal phalanx of fourth finger of hand	Phalanx distalis quartum digitorum manus	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+distal-phalanx-of-second-finger-of-hand	Distal phalanx of second finger of hand	Phalanx distalis secundum digitorum manus	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+distal-phalanx-of-third-finger-of-hand	Distal phalanx of third finger of hand	Phalanx distalis tertium digitorum manus	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+fifth-metacarpal-bone	Fifth metacarpal bone	Os quintum metacarpi	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+first-metacarpal-bone	First metacarpal bone	Os primum metarcapi	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+fourth-metacarpal-bone	Fourth metacarpal bone	Os quartum metacarpi	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+hamate-bone	Hamate bone	Os hamatum	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+humerus	Humerus	Humerus	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+lunate-bone	Lunate bone	Os lunatum	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+middle-phalanx-of-fifth-finger-of-hand	Middle phalanx of fifth finger of hand	Phalanx media quintum digitorum manus	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+middle-phalanx-of-fourth-finger-of-hand	Middle phalanx of fourth finger of hand	Phalanx media quartum digitorum manus	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+middle-phalanx-of-second-finger-of-hand	Middle phalanx of second finger of hand	Phalanx media scundum digitorum manus	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+middle-phalanx-of-third-finger-of-hand	Middle phalanx of third finger of hand	Phalanx media tertium digitorum manus	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+pisiform-bone	Pisiform bone	Os pisiforme	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+proximal-phalanx-of-fifth-finger-of-hand	Proximal phalanx of fifth finger of hand	Phalanx proximalis quintum digitorum manus	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+proximal-phalanx-of-first-finger-of-hand	Proximal phalanx of first finger of hand	Phalanx proximalis primum digitorum manus	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+proximal-phalanx-of-fourth-finger-of-hand	Proximal phalanx of fourth finger of hand	Phalanx proximalis quartum digitorum manus	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+proximal-phalanx-of-second-finger-of-hand	Proximal phalanx of second finger of hand	Phalanx proximalis secundum digitorum manus	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+proximal-phalanx-of-third-finger-of-hand	Proximal phalanx of third finger of hand	Phalanx proximalis tertium digitorum manus	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+radius	Radius	Radius	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+scaphoid-bone	Scaphoid bone	Os scaphoideum	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+second-metacarpal-bone	Second metacarpal bone	Os secundum metacarpi	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+third-metacarpal-bone	Third metacarpal bone	Os tertium metacarpi	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+trapezium-bone	Trapezium bone	Os trapezium	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+trapezoid-bone	Trapezoid bone	Os trapezoideum	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+triquetrum-bone	Triquetrum bone	Os triquetrum	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+ulna	Ulna	Ulna	skeleton	Skeletal system > Bones of upper limb > Bones of free part of upper limb
+clavicle	Clavicle	Clavicula	skeleton	Skeletal system > Bones of upper limb > Bones of pectoral girdle
+scapula	Scapula	Scapula	skeleton	Skeletal system > Bones of upper limb > Bones of pectoral girdle

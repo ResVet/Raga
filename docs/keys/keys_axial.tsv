@@ -1,0 +1,536 @@
+key	English (model)	TA2 Latin	type	context
+joints-of-skull	Joints of skull  [GROUP]	Juncturae cranii	group	
+joints-of-vertebral-column	Joints of vertebral column  [GROUP]	Juncturae columnar vertebralis	group	
+cranial-fibrous-joints	Cranial fibrous joints  [GROUP]	Juncturae fibrosae cranii	group	Joints of skull
+temporomandibular-joint	Temporomandibular joint  [GROUP]	Articulatio temporomandibularis	group	Joints of skull
+cranial-syndesmoses	Cranial syndesmoses  [GROUP]	Syndesmoses cranii	group	Joints of skull > Cranial fibrous joints
+cartilaginous-joints-of-vertebral-column	Cartilaginous joints of vertebral column  [GROUP]	Juncturae cartilagineae columnae vertebralis	group	Joints of vertebral column
+fibrous-joints-of-vertebral-column	Fibrous joints of vertebral column  [GROUP]	Juncturae fibrosae columnae vertebralis	group	Joints of vertebral column
+synovial-joints-of-vertebral-column	Synovial joints of vertebral column  [GROUP]	Articulationes columnae vertebralis	group	Joints of vertebral column
+intervertebral-symphysis	Intervertebral symphysis  [GROUP]	Symphysis intervertebralis	group	Joints of vertebral column > Cartilaginous joints of vertebral column
+lumbosacral-symphysis	Lumbosacral symphysis  [GROUP]	Symphysis lumbosacralis	group	Joints of vertebral column > Cartilaginous joints of vertebral column
+sacrococcygeal-joint	Sacrococcygeal joint  [GROUP]	Junctura sacrococcygea	group	Joints of vertebral column > Cartilaginous joints of vertebral column
+lateral-atlanto-axial-joint	Lateral atlanto-axial joint  [GROUP]	Articulatio atlantoaxialis lateralis	group	Joints of vertebral column > Synovial joints of vertebral column
+median-atlanto-axial-joint	Median atlanto-axial joint  [GROUP]	Articulatio atlantoaxialis mediana	group	Joints of vertebral column > Synovial joints of vertebral column
+uncovertebral-joints	Uncovertebral joints  [GROUP]	Articulationes uncovertebrales	group	Joints of vertebral column > Synovial joints of vertebral column
+zygapophysial-joints	Zygapophysial joints  [GROUP]	Articulationes zygapophysiales	group	Joints of vertebral column > Synovial joints of vertebral column
+articular-capsule-of-temporomandibular-joint	Articular capsule of temporomandibular joint	Capsula articularis articuli temporomandibularis	joints	Joints > Joints of skull > Temporomandibular joint
+articular-disc-of-temporomandibular-joint	Articular disc of temporomandibular joint	Discus articulationis temporomandibularis	joints	Joints > Joints of skull > Temporomandibular joint
+lateral-temporomandibular-ligament	Lateral temporomandibular ligament	Ligamentum temporomandibulare laterale	joints	Joints > Joints of skull > Temporomandibular joint
+anterior-longitudinal-ligament	Anterior longitudinal ligament	Ligamentum longitudinale anterius	joints	Joints > Joints of vertebral column > Fibrous joints of vertebral column
+intercornual-ligament	Intercornual ligament	Ligamentum intercornuale	joints	Joints > Joints of vertebral column > Fibrous joints of vertebral column
+interspinous-ligaments	Interspinous ligaments	Ligamenta interspinalia	joints	Joints > Joints of vertebral column > Fibrous joints of vertebral column
+ligamenta-flava	Ligamenta flava	Ligamenta flava	joints	Joints > Joints of vertebral column > Fibrous joints of vertebral column
+nuchal-ligament	Nuchal ligament	Ligamentum nuchae	joints	Joints > Joints of vertebral column > Fibrous joints of vertebral column
+posterior-longitudinal-ligament	Posterior longitudinal ligament	Ligamentum longitudinale posterius	joints	Joints > Joints of vertebral column > Fibrous joints of vertebral column
+supraspinous-ligament	Supraspinous ligament	Ligamentum supraspinale	joints	Joints > Joints of vertebral column > Fibrous joints of vertebral column
+external-intercostal-membrane	External intercostal membrane	Membrana intercostalis externa	joints	Joints > Thoracic joints > Fibrous joints of thorax
+internal-intercostal-membrane	Internal intercostal membrane	Membrana intercostalis interna	joints	Joints > Thoracic joints > Fibrous joints of thorax
+pterygospinous-ligament	Pterygospinous ligament	Ligamentum pterygospinale	joints	Joints of skull > Cranial fibrous joints > Cranial syndesmoses
+sphenomandibular-ligament	Sphenomandibular ligament	Ligamentum sphenomandibulare	joints	Joints of skull > Cranial fibrous joints > Cranial syndesmoses
+stylomandibular-ligament	Stylomandibular ligament	Ligamentum stylomandibulare	joints	Joints of skull > Cranial fibrous joints > Cranial syndesmoses
+intervertebral-disc-c2-c3	Intervertebral disc C2-C3	Discus intervertebralis C2-C3	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+intervertebral-disc-c3-c4	Intervertebral disc C3-C4	Discus intervertebralis C3-C4	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+intervertebral-disc-c4-c5	Intervertebral disc C4-C5	Discus intervertebralis C4-C5	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+intervertebral-disc-c5-c6	Intervertebral disc C5-C6	Discus intervertebralis C5-C6	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+intervertebral-disc-c6-c7	Intervertebral disc C6-C7	Discus intervertebralis C6-C7	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+intervertebral-disc-c7-t1	Intervertebral disc C7-T1	Discus intervertebralis C7-T1	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+intervertebral-disc-l1-l2	Intervertebral disc L1-L2	Discus intervertebralis L1-L2	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+intervertebral-disc-l2-l3	Intervertebral disc L2-L3	Discus intervertebralis L2-L3	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+intervertebral-disc-l3-l4	Intervertebral disc L3-L4	Discus intervertebralis L3-L4	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+intervertebral-disc-l4-l5	Intervertebral disc L4-L5	Discus intervertebralis L4-L5	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+intervertebral-disc-l5-s1	Intervertebral disc L5-S1	Discus intervertebralis L5-S1	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+intervertebral-disc-t1-t2	Intervertebral disc T1-T2	Discus intervertebralis T1-T2	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+intervertebral-disc-t10-t11	Intervertebral disc T10-T11	Discus intervertebralis T10-T11	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+intervertebral-disc-t11-t12	Intervertebral disc T11-T12	Discus intervertebralis T11-T12	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+intervertebral-disc-t12-l1	Intervertebral disc T12-L1	Discus intervertebralis T12-L1	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+intervertebral-disc-t2-t3	Intervertebral disc T2-T3	Discus intervertebralis T2-T3	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+intervertebral-disc-t3-t4	Intervertebral disc T3-T4	Discus intervertebralis T3-T4	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+intervertebral-disc-t4-t5	Intervertebral disc T4-T5	Discus intervertebralis T4-T5	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+intervertebral-disc-t5-t6	Intervertebral disc T5-T6	Discus intervertebralis T5-T6	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+intervertebral-disc-t6-t7	Intervertebral disc T6-T7	Discus intervertebralis T6-T7	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+intervertebral-disc-t7-t8	Intervertebral disc T7-T8	Discus intervertebralis T7-T8	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+intervertebral-disc-t8-t9	Intervertebral disc T8-T9	Discus intervertebralis T8-T9	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+intervertebral-disc-t9-t10	Intervertebral disc T9-T10	Discus intervertebralis T9-T10	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+nucleus-pulposus-c2-c3	Nucleus pulposus C2-C3	Nucleus pulposus C2-C3	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+nucleus-pulposus-c3-c4	Nucleus pulposus C3-C4	Nucleus pulposus C3-C4	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+nucleus-pulposus-c4-c5	Nucleus pulposus C4-C5	Nucleus pulposus C4-C5	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+nucleus-pulposus-c5-c6	Nucleus pulposus C5-C6	Nucleus pulposus C5-C6	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+nucleus-pulposus-c6-c7	Nucleus pulposus C6-C7	Nucleus pulposus C6-C7	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+nucleus-pulposus-c7-t1	Nucleus pulposus C7-T1	Nucleus pulposus C7-T1	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+nucleus-pulposus-l1-l2	Nucleus pulposus L1-L2	Nucleus pulposus L1-L2	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+nucleus-pulposus-l2-l3	Nucleus pulposus L2-L3	Nucleus pulposus L2-L3	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+nucleus-pulposus-l3-l4	Nucleus pulposus L3-L4	Nucleus pulposus L3-L4	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+nucleus-pulposus-l4-l5	Nucleus pulposus L4-L5	Nucleus pulposus L4-L5	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+nucleus-pulposus-l5-s1	Nucleus pulposus L5-S1	Nucleus pulposus L5-S1	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+nucleus-pulposus-t1-t2	Nucleus pulposus T1-T2	Nucleus pulposus T1-T2	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+nucleus-pulposus-t10-t11	Nucleus pulposus T10-T11	Nucleus pulposus T10-T11	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+nucleus-pulposus-t11-t12	Nucleus pulposus T11-T12	Nucleus pulposus T11-T12	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+nucleus-pulposus-t12-l1	Nucleus pulposus T12-L1	Nucleus pulposus T12-L1	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+nucleus-pulposus-t2-t3	Nucleus pulposus T2-T3	Nucleus pulposus T2-T3	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+nucleus-pulposus-t3-t4	Nucleus pulposus T3-T4	Nucleus pulposus T3-T4	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+nucleus-pulposus-t4-t5	Nucleus pulposus T4-T5	Nucleus pulposus T4-T5	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+nucleus-pulposus-t5-t6	Nucleus pulposus T5-T6	Nucleus pulposus T5-T6	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+nucleus-pulposus-t6-t7	Nucleus pulposus T6-T7	Nucleus pulposus T6-T7	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+nucleus-pulposus-t7-t8	Nucleus pulposus T7-T8	Nucleus pulposus T7-T8	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+nucleus-pulposus-t8-t9	Nucleus pulposus T8-T9	Nucleus pulposus T8-T9	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+nucleus-pulposus-t9-t10	Nucleus pulposus T9-T10	Nucleus pulposus T9-T10	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+sacrococcygeal-symphysis	Sacrococcygeal symphysis	Symphysis Sacrococcygea	joints	Joints of vertebral column > Cartilaginous joints of vertebral column > Intervertebral symphysis
+costotransverse-ligament	Costotransverse ligament	Ligamentum costotransversarium	joints	Synovial joints of thorax > Costovertebral joints > Costotransverse joint
+intra-articular-ligament-of-head-of-rib	Intra-articular ligament of head of rib	Ligamentum intraarticulare capitis costae	joints	Synovial joints of thorax > Costovertebral joints > Joint of head of rib
+radiate-ligament-of-head-of-rib	Radiate ligament of head of rib	Ligamentum radiatum capitis costae	joints	Synovial joints of thorax > Costovertebral joints > Joint of head of rib
+pars-distalis-of-hypophysis	Pars distalis of hypophysis	Pars distalis hypophysis	landmark	on Adenohypophysis
+pars-intermedia-of-hypophysis	Pars intermedia of hypophysis	Pars intermedia hypophysis	landmark	on Adenohypophysis
+pars-tubelaris-of-hypophysis	Pars tubelaris of hypophysis	Pars tuberalis hypophysis	landmark	on Adenohypophysis
+anterior-arch-of-atlas	Anterior arch of atlas	Arcus anterior atlantis	landmark	on Atlas (C1)
+anterior-tubercle-of-atlas	Anterior tubercle of atlas	Tuberculum anterius atlantis	landmark	on Atlas (C1)
+atlas-c1	Atlas (C1)		landmark	on Atlas (C1)
+canal-for-vertebral-artery	Canal for vertebral artery		landmark	on Atlas (C1)
+facet-for-dens	Facet for dens	Fovea dentis	landmark	on Atlas (C1)
+groove-for-vertebral-artery	Groove for vertebral artery	Sulcus arteriae vertebralis	landmark	on Atlas (C1)
+inferior-articular-surface-of-atlas	Inferior articular surface of atlas	Facies articularis inferior atlantis	landmark	on Atlas (C1)
+lateral-mass	Lateral mass	Massa lateralis atlantis	landmark	on Atlas (C1)
+posterior-arch-of-atlas	Posterior arch of atlas	Arcus posterior atlantis	landmark	on Atlas (C1)
+posterior-tubercle-of-atlas	Posterior tubercle of atlas	Tuberculum posterius atlantis	landmark	on Atlas (C1)
+superior-articular-surface-of-atlas	Superior articular surface of atlas	Facies articularis superior atlantis	landmark	on Atlas (C1)
+transverse-ligament-tubercle	Transverse ligament tubercle	Tuberculum ligamenti transversi	landmark	on Atlas (C1)
+anterior-articular-facet-of-dens-axis	Anterior articular facet of dens axis	Facies articularis anterior dentis axis	landmark	on Axis (C2)
+apex-of-dens-axis	Apex of dens axis	Apex dentis axis	landmark	on Axis (C2)
+axis-c2	Axis (C2)		landmark	on Axis (C2)
+dens-axis	Dens axis	Dens axis	landmark	on Axis (C2)
+posterior-articular-facet-of-dens-axis	Posterior articular facet of dens axis	Facies articularis posterior dentis axis	landmark	on Axis (C2)
+costal-notches	Costal notches	Incisurae costales	landmark	on Body of sternum
+sternal-angle	Sternal angle	Angulus sterni	landmark	on Body of sternum
+sternum	Sternum	Sternum	landmark	on Body of sternum
+cheek	Cheek	Bucca	landmark	on Buccal region
+apex-of-coccyx	Apex of coccyx	Apex ossis coccygis	landmark	on Coccyx
+base-of-coccyx	Base of coccyx	Basis ossis coccygis	landmark	on Coccyx
+coccygeal-horn	Coccygeal horn	Cornu coccygeum	landmark	on Coccyx
+coccyx	Coccyx	Os coccygis	landmark	on Coccyx
+ethmoidal-notch	Ethmoidal notch	Incisura ethmoidea	landmark	on Frontal bone
+external-surface-of-squamous-part-of-frontal-bone	External surface of squamous part of frontal bone	Facies externa squamae frontalis	landmark	on Frontal bone
+foramen-caecum-of-frontal-bone	Foramen caecum of frontal bone	Foramen caecum ossis frontalis	landmark	on Frontal bone
+fossa-for-lacrimal-gland	Fossa for lacrimal gland	Fossa glandulae lacrimalis	landmark	on Frontal bone
+frontal-crest	Frontal crest	Crista frontalis	landmark	on Frontal bone
+frontal-eminence	Frontal eminence	Eminentia frontalis	landmark	on Frontal bone
+frontal-part-of-orbital-margin	Frontal part of orbital margin	Pars frontalis marginis orbitalis	landmark	on Frontal bone
+glabella	Glabella	Glabella	landmark	on Frontal bone
+internal-surface-of-squamous-part-of-frontal-bone	Internal surface of squamous part of frontal bone	Facies interna squamae frontalis	landmark	on Frontal bone
+nasal-margin-of-frontal-bone	Nasal margin of frontal bone	Margo nasalis ossis frontalis	landmark	on Frontal bone
+nasal-part-of-frontal-bone	Nasal part of frontal bone	Pars nasalis ossis frontalis	landmark	on Frontal bone
+nasal-spine-of-frontal-bone	Nasal spine of frontal bone	Spina nasalis ossis frontalis	landmark	on Frontal bone
+opening-of-frontal-sinus	Opening of frontal sinus	Apertura sinus frontalis	landmark	on Frontal bone
+orbital-part-of-frontal-bone	Orbital part of frontal bone	Pars orbitalis ossis frontalis	landmark	on Frontal bone
+orbital-plate-of-frontal-bone	Orbital plate of frontal bone	Lamina orbitalis ossis frontalis	landmark	on Frontal bone
+orbital-surface-of-frontal-bone	Orbital surface of frontal bone	Facies orbitalis ossis frontalis	landmark	on Frontal bone
+parietal-margin-of-frontal-bone	Parietal margin of frontal bone	Margo parietalis ossis frontalis	landmark	on Frontal bone
+sphenoidal-margin-of-frontal-bone	Sphenoidal margin of frontal bone	Margo sphenoideus ossis frontalis	landmark	on Frontal bone
+squamous-part-of-frontal-bone	Squamous part of frontal bone	Squama frontalis	landmark	on Frontal bone
+superciliary-arch	Superciliary arch	Arcus superciliaris	landmark	on Frontal bone
+supra-orbital-notch	Supra-orbital notch		landmark	on Frontal bone
+temporal-line	Temporal line	Linea temporalis	landmark	on Frontal bone
+temporal-surface-of-frontal-bone	Temporal surface of frontal bone	Facies temporalis ossis frontalis	landmark	on Frontal bone
+trochlear-fovea	Trochlear fovea	Fovea trochlearis	landmark	on Frontal bone
+trochlear-spine	Trochlear spine		landmark	on Frontal bone
+zygomatic-process-of-frontal-bone	Zygomatic process of frontal bone	Processus zygomaticus ossis frontalis	landmark	on Frontal bone
+body-of-gallbladder	Body of gallbladder	Corpus vesicae biliaris	landmark	on Gallbladder
+fundus-of-gallbladder	Fundus of gallbladder	Fundus vesicae biliaris	landmark	on Gallbladder
+infundibulum-of-gallbladder	Infundibulum of gallbladder	Infundibulum vesicae biliaris	landmark	on Gallbladder
+neck-of-gallbladder	Neck of gallbladder	Collum vesicae biliaris	landmark	on Gallbladder
+anterior-lateral-segment-of-liver-vi	Anterior lateral segment of liver (VI)		landmark	on Liver
+anterior-medial-segment-of-liver-v	Anterior medial segment of liver (V)		landmark	on Liver
+anterior-surface-of-liver	Anterior surface of liver	Facies anterior hepatis	landmark	on Liver
+bare-area-of-liver	Bare area of liver	Area nuda hepatis	landmark	on Liver
+cardiac-impression-of-liver	Cardiac impression of liver	Impressio cardiaca hepatis	landmark	on Liver
+caudate-lobe	Caudate lobe	Lobus caudatus	landmark	on Liver
+caudate-process	Caudate process	Processus caudatus	landmark	on Liver
+colic-impression-of-liver	Colic impression of liver	Impressio colica hepatis	landmark	on Liver
+diaphragmatic-surface-of-liver	Diaphragmatic surface of liver	Facies diaphragmatica hepatis	landmark	on Liver
+duodenal-impression-of-liver	Duodenal impression of liver	Impressio duodenalis hepatis	landmark	on Liver
+fibrous-appendix-of-liver	Fibrous appendix of liver	Appendix fibrosa hepatis	landmark	on Liver
+fissure-for-ligamentum-teres	Fissure for ligamentum teres	Fissura ligamenti teretis	landmark	on Liver
+fissure-for-ligamentum-venosum	Fissure for ligamentum venosum	Fissura ligamenti venosi	landmark	on Liver
+fossa-for-gallbladder	Fossa for gallbladder	Fossa vesicae biliaris	landmark	on Liver
+gastric-impression-of-liver	Gastric impression of liver	Impressio gastrica hepatis	landmark	on Liver
+inferior-border-of-liver	Inferior border of liver	Margo inferior hepatis	landmark	on Liver
+left-anterior-lateral-segment-of-liver-iii	Left anterior lateral segment of liver (III)		landmark	on Liver
+left-lateral-division-of-liver	Left lateral division of liver	Divisio lateralis sinistra hepatis	landmark	on Liver
+left-lobe-of-liver	Left lobe of liver	Lobus sinister hepatis	landmark	on Liver
+left-medial-division-of-liver	Left medial division of liver	Divisio medialis sinistra hepatis	landmark	on Liver
+left-medial-segment-of-liver-iv	Left medial segment of liver (IV)		landmark	on Liver
+left-part-of-liver	Left part of liver	Pars sinistra hepatis	landmark	on Liver
+left-posterior-lateral-segment-of-liver-ii	Left posterior lateral segment of liver (II)		landmark	on Liver
+main-portal-fissure	Main portal fissure	Fissura portalis principalis	landmark	on Liver
+notch-for-ligamentum-teres	Notch for ligamentum teres	Incisura ligamenti teretis	landmark	on Liver
+omental-tuberosity-of-liver	Omental tuberosity of liver	Tuber omentale hepatis	landmark	on Liver
+papillary-process	Papillary process	Processus papillaris	landmark	on Liver
+porta-hepatis	Porta hepatis	Porta hepatis	landmark	on Liver
+posterior-medial-segment-of-liver-viii	Posterior medial segment of liver (VIII)		landmark	on Liver
+posterior-part-of-liver	Posterior part of liver	Pars posterior hepatis	landmark	on Liver
+posterior-segment-of-liver-i	Posterior segment of liver (I)		landmark	on Liver
+posterior-surface-of-liver	Posterior surface of liver	Facies posterior hepatis	landmark	on Liver
+quadrate-lobe	Quadrate lobe	Lobus quadratus	landmark	on Liver
+renal-impression-of-liver	Renal impression of liver	Impressio renalis hepatis	landmark	on Liver
+right-lateral-division-of-liver	Right lateral division of liver	Divisio lateralis dextra hepatis	landmark	on Liver
+right-lobe-of-liver	Right lobe of liver	Lobus dexter hepatis	landmark	on Liver
+right-medial-division-of-liver	Right medial division of liver	Divisio medialis dextra hepatis	landmark	on Liver
+right-part-of-liver	Right part of liver	Pars dextra hepatis	landmark	on Liver
+right-portal-fissure	Right portal fissure	Fissura portalis dextra	landmark	on Liver
+right-surface-of-liver	Right surface of liver	Facies dextra hepatis	landmark	on Liver
+superior-surface-of-liver	Superior surface of liver	Facies superior hepatis	landmark	on Liver
+suprarenal-impression-of-liver	Suprarenal impression of liver	Impressio suprarenalis hepatis	landmark	on Liver
+umbilical-fissure	Umbilical fissure	Fissura umbilicalis	landmark	on Liver
+visceral-surface-of-liver	Visceral surface of liver	Facies visceralis hepatis	landmark	on Liver
+crown-of-tooth	Crown of tooth	Corona dentis	landmark	on Lower first molar tooth
+cusp-of-tooth	Cusp of tooth	Cuspis dentis	landmark	on Lower first molar tooth
+distal-surface-of-tooth	Distal surface of tooth	Facies distalis dentis	landmark	on Lower first molar tooth
+lingual-surface-of-tooth	Lingual surface of tooth	Facies lingualis dentis	landmark	on Lower first molar tooth
+mesial-surface-of-tooth	Mesial surface of tooth	Facies mesialis dentis	landmark	on Lower first molar tooth
+neck-of-tooth	Neck of tooth	Cervix dentis	landmark	on Lower first molar tooth
+occlusal-surface-of-tooth	Occlusal surface of tooth	Facies occlusalis dentis	landmark	on Lower first molar tooth
+root-apex	Root apex	Apex radicis dentis	landmark	on Lower first molar tooth
+root-of-tooth	Root of tooth	Radix dentis	landmark	on Lower first molar tooth
+vestibular-surface-of-tooth	Vestibular surface of tooth	Facies vestibularis dentis	landmark	on Lower first molar tooth
+base-of-mandible	Base of mandible	Basis mandibulae	landmark	on Mandible
+body-of-mandible	Body of mandible	Corpus mandibulae	landmark	on Mandible
+digastric-fossa	Digastric fossa	Fossa digastrica	landmark	on Mandible
+genion	Genion	Genion	landmark	on Mandible
+gnathion	Gnathion	Gnathion	landmark	on Mandible
+inferior-mental-spine	Inferior mental spine	Spina mentalis inferior	landmark	on Mandible
+mandibular-dental-arch	Mandibular dental arch	Arcus dentalis mandibularis	landmark	on Mandible
+mandibular-symphysis	Mandibular symphysis		landmark	on Mandible
+mental-foramen	Mental foramen	Foramen mentale	landmark	on Mandible
+mental-protuberance	Mental protuberance	Protuberantia mentalis	landmark	on Mandible
+mental-tubercle	Mental tubercle	Tuberculum mentale	landmark	on Mandible
+oblique-line-of-mandible	Oblique line of mandible	Linea obliqua mandibulae	landmark	on Mandible
+sublingual-fossa	Sublingual fossa	Fovea sublingualis	landmark	on Mandible
+superior-mental-spine	Superior mental spine	Spina mentalis superior	landmark	on Mandible
+clavicular-notch	Clavicular notch	Incisura clavicularis	landmark	on Manubrium of sternum
+manubrium-of-sternum	Manubrium of sternum	Manubrium sterni	landmark	on Manubrium of sternum
+maxillary-dental-arch	Maxillary dental arch	Arcus dentalis maxillaris	landmark	on Maxilla
+chin	Chin	Mentum	landmark	on Mental region
+ala-of-nose	Ala of nose	Ala nasi	landmark	on Nasal region
+apex-of-nose	Apex of nose	Apex nasi	landmark	on Nasal region
+external-nose	External nose	Nasus externus	landmark	on Nasal region
+root-of-nose	Root of nose	Radix nasi	landmark	on Nasal region
+infundibular-stalk	Infundibular stalk	Truncus infundibularis	landmark	on Neurohypophysis
+pars-nervosa-of-hypophysis	Pars nervosa of hypophysis	Pars nervosa hypophysis	landmark	on Neurohypophysis
+basilar-part-of-occipital-bone	Basilar part of occipital bone	Pars basilaris ossis occipitalis	landmark	on Occipital bone
+cerebellar-fossa	Cerebellar fossa	Fossa cerebellaris	landmark	on Occipital bone
+cerebral-fossa	Cerebral fossa	Fossa cerebralis	landmark	on Occipital bone
+condylar-canal	Condylar canal	Canalis condylaris	landmark	on Occipital bone
+condylar-fossa	Condylar fossa	Fossa condylaris	landmark	on Occipital bone
+cruciform-eminence	Cruciform eminence	Eminentia cruciformis	landmark	on Occipital bone
+external-occipital-crest	External occipital crest		landmark	on Occipital bone
+external-occipital-protuberance	External occipital protuberance	Protuberantia occipitalis externa	landmark	on Occipital bone
+foramen-magnum	Foramen magnum	Foramen magnum	landmark	on Occipital bone
+groove-for-marginal-sinus	Groove for marginal sinus	Sulcus sinus marginalis	landmark	on Occipital bone
+groove-for-occipital-sinus	Groove for occipital sinus	Sulcus sinus occipitalis	landmark	on Occipital bone
+groove-for-transverse-sinus	Groove for transverse sinus	Sulcus sinus transversi	landmark	on Occipital bone
+hypoglossal-canal	Hypoglossal canal	Canalis hypoglossus	landmark	on Occipital bone
+inferior-nuchal-line	Inferior nuchal line	Linea nuchalis inferior	landmark	on Occipital bone
+internal-occipital-crest	Internal occipital crest		landmark	on Occipital bone
+internal-occipital-protuberance	Internal occipital protuberance	Protuberantia occipitalis interna	landmark	on Occipital bone
+intrajugular-process-of-occipital-bone	Intrajugular process of occipital bone	Processus intrajugularis ossis occipitalis	landmark	on Occipital bone
+jugular-notch-of-occipital-bone	Jugular notch of occipital bone	Incisura jugularis ossis occipitalis	landmark	on Occipital bone
+jugular-process	Jugular process	Processus jugularis	landmark	on Occipital bone
+lateral-part-of-occipital-bone	Lateral part of occipital bone	Pars lateralis ossis occipitalis	landmark	on Occipital bone
+mastoid-border-of-occipital-bone	Mastoid border of occipital bone	Margo mastoideus ossis occipitalis	landmark	on Occipital bone
+occipital-condyle	Occipital condyle	Condylus occipitalis	landmark	on Occipital bone
+occipital-plane	Occipital plane	Planum occipitale	landmark	on Occipital bone
+squamous-part-of-occipital-bone	Squamous part of occipital bone	Squama occipitalis	landmark	on Occipital bone
+superior-nuchal-line	Superior nuchal line	Linea nuchalis superior	landmark	on Occipital bone
+supreme-nuchal-line	Supreme nuchal line	Linea nuchalis suprema	landmark	on Occipital bone
+vermian-fossa	Vermian fossa		landmark	on Occipital bone
+upper-lip	Upper lip	Labium superius oris	landmark	on Oral region
+eyelids	Eyelids	Palpebrae	landmark	on Orbital region
+lower-eyelid	Lower eyelid	Palpebra inferior	landmark	on Orbital region
+upper-eyelid	Upper eyelid	Palpebra superior	landmark	on Orbital region
+anterior-border-of-pancreas	Anterior border of pancreas	Margo anterior pancreatis	landmark	on Pancreas
+antero-inferior-surface-of-pancreas	Antero-inferior surface of pancreas	Facies anteroinferior pancreatis	landmark	on Pancreas
+anterosuperior-surface-of-pancreas	Anterosuperior surface of pancreas	Facies anterosuperior pancreatis	landmark	on Pancreas
+body-of-pancreas	Body of pancreas	Corpus pancreatis	landmark	on Pancreas
+head-of-pancreas	Head of pancreas	Caput pancreatis	landmark	on Pancreas
+inferior-border-of-pancreas	Inferior border of pancreas	Margo inferior pancreatis	landmark	on Pancreas
+neck-of-pancreas	Neck of pancreas	Collum pancreatis	landmark	on Pancreas
+omental-eminence-of-pancreas	Omental eminence of pancreas	Tuber omentale pancreatis	landmark	on Pancreas
+pancreas	Pancreas	Pancreas	landmark	on Pancreas
+pancreatic-notch	Pancreatic notch	Incisura pancreatis	landmark	on Pancreas
+posterior-surface-of-pancreas	Posterior surface of pancreas	Facies posterior pancreatis	landmark	on Pancreas
+superior-border-of-pancreas	Superior border of pancreas	Margo superior pancreatis	landmark	on Pancreas
+tail-of-pancreas	Tail of pancreas	Cauda pancreatis	landmark	on Pancreas
+uncinate-process-of-pancreas	Uncinate process of pancreas	Processus uncinatus pancreatis	landmark	on Pancreas
+external-surface-of-parietal-bone	External surface of parietal bone	Facies externa ossis parietalis	landmark	on Parietal bone
+frontal-angle-of-parietal-bone	Frontal angle of parietal bone	Angulus frontalis ossis parietalis	landmark	on Parietal bone
+frontal-border-of-parietal-bone	Frontal border of parietal bone	Margo frontalis ossis parietalis	landmark	on Parietal bone
+groove-for-middle-meningeal-artery	Groove for middle meningeal artery	Sulcus arteriae meningeae mediae	landmark	on Parietal bone
+inferior-temporal-line	Inferior temporal line	Linea temporalis inferior	landmark	on Parietal bone
+internal-surface-of-parietal-bone	Internal surface of parietal bone	Facies interna ossis parietalis	landmark	on Parietal bone
+mastoid-angle-of-parietal-bone	Mastoid angle of parietal bone	Angulus mastoideus ossis parietalis	landmark	on Parietal bone
+occipital-angle-of-parietal-bone	Occipital angle of parietal bone	Angulus occipitalis ossis parietalis	landmark	on Parietal bone
+occipital-border-of-parietal-bone	Occipital border of parietal bone	Margo occipitalis ossis parietalis	landmark	on Parietal bone
+parietal-eminence	Parietal eminence	Eminentia parietalis	landmark	on Parietal bone
+parietal-foramen	Parietal foramen	Foramen parietale	landmark	on Parietal bone
+sagittal-border-of-parietal-bone	Sagittal border of parietal bone	Margo sagittalis ossis parietalis	landmark	on Parietal bone
+sphenoidal-angle-of-parietal-bone	Sphenoidal angle of parietal bone	Angulus sphenoideus ossis parietalis	landmark	on Parietal bone
+squamosal-border-of-parietal-bone	Squamosal border of parietal bone	Margo squamosus ossis parietalis	landmark	on Parietal bone
+superior-temporal-line	Superior temporal line	Linea temporalis superior	landmark	on Parietal bone
+ala-of-sacrum	Ala of sacrum	Ala ossis sacri	landmark	on Sacrum
+anterior-sacral-foramina	Anterior sacral foramina	Foramina sacralia anteriora	landmark	on Sacrum
+apex-of-sacrum	Apex of sacrum	Apex ossis sacri	landmark	on Sacrum
+auricular-surface-of-sacrum	Auricular surface of sacrum	Facies auricularis ossis sacri	landmark	on Sacrum
+base-of-sacrum	Base of sacrum	Basis ossis sacri	landmark	on Sacrum
+dorsal-surface-of-sacrum	Dorsal surface of sacrum	Facies dorsalis ossis sacri	landmark	on Sacrum
+intermediate-sacral-crest	Intermediate sacral crest	Crista sacralis medialis	landmark	on Sacrum
+intervertebral-foramina	Intervertebral foramina	Foramina intervertebralia	landmark	on Sacrum
+lateral-part-of-sacrum	Lateral part of sacrum	Pars lateralis ossis sacri	landmark	on Sacrum
+lateral-sacral-crest	Lateral sacral crest	Crista sacralis lateralis	landmark	on Sacrum
+median-sacral-crest	Median sacral crest	Crista sacralis mediana	landmark	on Sacrum
+pelvic-surface-of-sacrum	Pelvic surface of sacrum	Facies pelvica ossis sacri	landmark	on Sacrum
+posterior-sacral-foramina	Posterior sacral foramina	Foramina sacralia posteriora	landmark	on Sacrum
+promontory	Promontory	Promontorium	landmark	on Sacrum
+sacral-canal	Sacral canal	Canalis sacralis	landmark	on Sacrum
+sacral-hiatus	Sacral hiatus	Hiatus sacralis	landmark	on Sacrum
+sacral-horn	Sacral horn	Cornu sacrale	landmark	on Sacrum
+sacral-tuberosity	Sacral tuberosity	Tuberositas ossis sacri	landmark	on Sacrum
+sacrum	Sacrum	Os sacrum	landmark	on Sacrum
+superior-articular-process-of-sacrum	Superior articular process of sacrum	Processus articularis superior ossis sacri	landmark	on Sacrum
+transverse-ridges	Transverse ridges	Lineae transversae	landmark	on Sacrum
+septum-of-frontal-sinuses	Septum of frontal sinuses	Septum sinuum frontalium	landmark	on Sinus of frontal bone
+septum-of-sphenoidal-sinuses	Septum of sphenoidal sinuses	Septum sinuum sphenoideorum	landmark	on Sinus of sphenoid bone
+angle-of-rib	Angle of rib	Angulus costae	landmark	on Sixth rib
+articular-facet-of-tubercle-of-rib	Articular facet of tubercle of rib	Facies articularis tuberculi costae	landmark	on Sixth rib
+articular-facets-of-head-of-rib	Articular facets of head of rib	Facies articulares capitis costae	landmark	on Sixth rib
+body-of-rib	Body of rib	Corpus costae	landmark	on Sixth rib
+costal-groove	Costal groove	Sulcus costae	landmark	on Sixth rib
+crest-of-head-of-rib	Crest of head of rib	Crista capitis costae	landmark	on Sixth rib
+crest-of-neck-of-rib	Crest of neck of rib	Crista colli costae	landmark	on Sixth rib
+head-of-rib	Head of rib	Caput costae	landmark	on Sixth rib
+neck-of-rib	Neck of rib	Collum costae	landmark	on Sixth rib
+rib	Rib	Costa	landmark	on Sixth rib
+tubercle-of-rib	Tubercle of rib	Tuberculum costae	landmark	on Sixth rib
+anterior-clinoid-process	Anterior clinoid process	Processus clinoideus anterior	landmark	on Sphenoid bone
+body-of-sphenoid-bone	Body of sphenoid bone	Corpus ossis sphenoidei	landmark	on Sphenoid bone
+carotid-sulcus	Carotid sulcus	Sulcus carotidis	landmark	on Sphenoid bone
+cerebral-surface-of-greater-wing	Cerebral surface of greater wing	Facies cerebralis alae majoris	landmark	on Sphenoid bone
+chiasmatic-sulcus	Chiasmatic sulcus	Sulcus chiasmaticus	landmark	on Sphenoid bone
+dorsum-sellae	Dorsum sellae	Dorsum sellae	landmark	on Sphenoid bone
+foramen-ovale	Foramen ovale	Foramen ovale	landmark	on Sphenoid bone
+foramen-rotundum	Foramen rotundum	Foramen rotundum	landmark	on Sphenoid bone
+foramen-spinosum	Foramen spinosum	Foramen spinosum	landmark	on Sphenoid bone
+frontal-margin-of-greater-wing	Frontal margin of greater wing	Margo frontalis alae majoris	landmark	on Sphenoid bone
+greater-wing	Greater wing	Ala major	landmark	on Sphenoid bone
+groove-of-pterygoid-hamulus	Groove of pterygoid hamulus	Sulcus hamuli pterygoidei	landmark	on Sphenoid bone
+hypophysial-fossa	Hypophysial fossa	Fossa hypophysialis	landmark	on Sphenoid bone
+infratemporal-surface-of-greater-wing	Infratemporal surface of greater wing	Facies infratemporalis alae majoris	landmark	on Sphenoid bone
+lateral-pterygoid-plate	Lateral pterygoid plate	Lamina lateralis processus pterygoidei	landmark	on Sphenoid bone
+lesser-wing	Lesser wing	Ala minor	landmark	on Sphenoid bone
+limbus-of-sphenoid	Limbus of sphenoid	Limbus sphenoideus	landmark	on Sphenoid bone
+maxillary-surface-of-greater-wing	Maxillary surface of greater wing	Facies maxillaris alae majoris	landmark	on Sphenoid bone
+medial-pterygoid-plate	Medial pterygoid plate	Lamina medialis processus pterygoidei	landmark	on Sphenoid bone
+middle-clinoid-process	Middle clinoid process		landmark	on Sphenoid bone
+optic-canal	Optic canal	Canalis opticus	landmark	on Sphenoid bone
+orbital-surface-of-greater-wing	Orbital surface of greater wing	Facies orbitalis alae majoris	landmark	on Sphenoid bone
+parietal-margin-of-greater-wing	Parietal margin of greater wing	Margo parietalis alae majoris	landmark	on Sphenoid bone
+posterior-clinoid-process	Posterior clinoid process	Processus clinoideus posterior	landmark	on Sphenoid bone
+pterygoid-canal	Pterygoid canal	Canalis pterygoideus	landmark	on Sphenoid bone
+pterygoid-fossa	Pterygoid fossa	Fossa pterygoidea	landmark	on Sphenoid bone
+pterygoid-hamulus	Pterygoid hamulus	Hamulus pterygoideus	landmark	on Sphenoid bone
+pterygoid-notch	Pterygoid notch	Incisura pterygoidea	landmark	on Sphenoid bone
+pterygoid-process	Pterygoid process	Processus pterygoideus	landmark	on Sphenoid bone
+pterygospinous-process	Pterygospinous process	Processus pterygospinosus	landmark	on Sphenoid bone
+scaphoid-fossa	Scaphoid fossa	Fossa scaphoidea	landmark	on Sphenoid bone
+sella-turcica	Sella turcica	Sella turcica	landmark	on Sphenoid bone
+sphenoidal-crest	Sphenoidal crest	Crista sphenoidea	landmark	on Sphenoid bone
+sphenoidal-lingula	Sphenoidal lingula	Lingula sphenoidea	landmark	on Sphenoid bone
+sphenoidal-yoke	Sphenoidal yoke	Jugum sphenoideum	landmark	on Sphenoid bone
+spine-of-sphenoid-bone	Spine of sphenoid bone	Spina ossis sphenoidei	landmark	on Sphenoid bone
+squamosal-margin-of-greater-wing	Squamosal margin of greater wing	Margo squamosus alae majoris	landmark	on Sphenoid bone
+sulcus-of-auditory-tube	Sulcus of auditory tube	Sulcus tubae auditivae	landmark	on Sphenoid bone
+temporal-surface-of-greater-wing	Temporal surface of greater wing	Facies temporalis alae majoris	landmark	on Sphenoid bone
+tuberculum-sellae	Tuberculum sellae	Tuberculum sellae	landmark	on Sphenoid bone
+vaginal-process-of-sphenoid-bone	Vaginal process of sphenoid bone	Processus vaginalis ossis sphenoidei	landmark	on Sphenoid bone
+zygomatic-margin-of-greater-wing	Zygomatic margin of greater wing	Margo zygomaticus alae majoris	landmark	on Sphenoid bone
+anterior-extremity-of-spleen	Anterior extremity of spleen	Extremitas anterior splenis	landmark	on Spleen
+colic-impression-of-spleen	Colic impression of spleen	Facies colica splenis	landmark	on Spleen
+diaphragmatic-surface-of-spleen	Diaphragmatic surface of spleen	Facies diaphragmatica splenis	landmark	on Spleen
+gastric-impression-of-spleen	Gastric impression of spleen	Facies gastrica splenis	landmark	on Spleen
+hilum-of-spleen	Hilum of spleen	Hilum splenis	landmark	on Spleen
+inferior-border-of-spleen	Inferior border of spleen	Margo inferior splenis	landmark	on Spleen
+pancreatic-impression-of-spleen	Pancreatic impression of spleen		landmark	on Spleen
+posterior-extremity-of-spleen	Posterior extremity of spleen	Extremitas posterior splenis	landmark	on Spleen
+renal-impression-of-spleen	Renal impression of spleen	Facies renalis splenis	landmark	on Spleen
+superior-border-of-spleen	Superior border of spleen	Margo superior splenis	landmark	on Spleen
+visceral-surface-of-spleen	Visceral surface of spleen	Facies visceralis splenis	landmark	on Spleen
+angular-incisure	Angular incisure	Incisura angularis	landmark	on Stomach
+anterior-wall-of-stomach	Anterior wall of stomach	Paries anterior gastris	landmark	on Stomach
+body-of-stomach	Body of stomach	Corpus gastris	landmark	on Stomach
+cardia	Cardia	Cardia	landmark	on Stomach
+cardiac-notch	Cardiac notch	Incisura cardialis	landmark	on Stomach
+fornix-of-stomach	Fornix of stomach	Fornix gastris	landmark	on Stomach
+fundus-of-stomach	Fundus of stomach	Fundus gastris	landmark	on Stomach
+greater-curvature-of-stomach	Greater curvature of stomach	Curvatura major gastris	landmark	on Stomach
+lesser-curvature-of-stomach	Lesser curvature of stomach	Curvatura minor gastris	landmark	on Stomach
+posterior-wall-of-stomach	Posterior wall of stomach	Paries posterior gastris	landmark	on Stomach
+pyloric-antrum	Pyloric antrum	Antrum pyloricum	landmark	on Stomach
+pyloric-canal	Pyloric canal	Canalis pyloricus	landmark	on Stomach
+pyloric-part	Pyloric part	Pars pylorica	landmark	on Stomach
+anterior-surface-of-suprarenal-gland	Anterior surface of suprarenal gland	Facies anterior glandulae suprarenalis	landmark	on Suprarenal gland
+hilum-of-suprarenal-gland	Hilum of suprarenal gland	Hilum glandulae suprarenalis	landmark	on Suprarenal gland
+medial-border-of-suprarenal-gland	Medial border of suprarenal gland	Margo medialis glandulae suprarenalis	landmark	on Suprarenal gland
+posterior-surface-of-suprarenal-gland	Posterior surface of suprarenal gland	Facies posterior glandulae suprarenalis	landmark	on Suprarenal gland
+renal-surface-of-suprarenal-gland	Renal surface of suprarenal gland	Facies renalis glandulae suprarenalis	landmark	on Suprarenal gland
+superior-border-of-suprarenal-gland	Superior border of suprarenal gland	Margo superior glandulae suprarenalis	landmark	on Suprarenal gland
+anterior-surface-of-petrous-part	Anterior surface of petrous part	Facies anterior partis petrosae	landmark	on Temporal bone
+apex-of-petrous-part	Apex of petrous part	Apex partis petrosae	landmark	on Temporal bone
+arcuate-eminence	Arcuate eminence	Eminentia arcuata	landmark	on Temporal bone
+mastoid-notch	Mastoid notch	Incisura mastoidea	landmark	on Temporal bone
+mastoid-process	Mastoid process	Processus mastoideus	landmark	on Temporal bone
+occipital-margin-of-temporal-bone	Occipital margin of temporal bone	Margo occipitalis ossis temporalis	landmark	on Temporal bone
+petrous-part-of-temporal-bone	Petrous part of temporal bone	Pars petrosa ossis temporalis	landmark	on Temporal bone
+posterior-surface-of-petrous-part	Posterior surface of petrous part	Facies posterior partis petrosae	landmark	on Temporal bone
+squamous-part-of-temporal-bone	Squamous part of temporal bone	Pars squamosa ossis temporalis	landmark	on Temporal bone
+styloid-process-of-temporal-bone	Styloid process of temporal bone	Processus styloideus ossis temporalis	landmark	on Temporal bone
+tegmen-tympani	Tegmen tympani	Tegmen tympani	landmark	on Temporal bone
+tympanic-part-of-temporal-bone	Tympanic part of temporal bone	Pars tympanica ossis temporalis	landmark	on Temporal bone
+anterior-border-of-testis	Anterior border of testis	Margo anterior testis	landmark	on Testis
+inferior-pole-of-testis	Inferior pole of testis	Polus inferior testis	landmark	on Testis
+lateral-surface-of-testis	Lateral surface of testis	Facies lateralis testis	landmark	on Testis
+medial-surface-of-testis	Medial surface of testis	Facies medialis testis	landmark	on Testis
+posterior-border-of-testis	Posterior border of testis	Margo posterior testis	landmark	on Testis
+superior-pole-of-testis	Superior pole of testis	Polus superior testis	landmark	on Testis
+apex-of-bladder	Apex of bladder	Apex vesicae	landmark	on Urinary bladder
+body-of-bladder	Body of bladder	Corpus vesicae	landmark	on Urinary bladder
+fundus-of-bladder	Fundus of bladder	Fundus vesicae	landmark	on Urinary bladder
+anterior-tubercle-of-transverse-process	Anterior tubercle of transverse process	Tuberculum anterius processus transversi	landmark	on Vertebra C4
+cervical-vertebra	Cervical vertebra	Vertebra cervicalis	landmark	on Vertebra C4
+foramen-transversarium	Foramen transversarium	Foramen transversarium	landmark	on Vertebra C4
+groove-for-spinal-nerve	Groove for spinal nerve	Sulcus nervi spinalis	landmark	on Vertebra C4
+posterior-tubercle-of-transverse-process	Posterior tubercle of transverse process	Tuberculum posterius processus transversi	landmark	on Vertebra C4
+uncinate-process-of-vertebra	Uncinate process of vertebra	Processus uncinatus vertebrae	landmark	on Vertebra C4
+annular-epiphysis	Annular epiphysis	Epiphysis anularis	landmark	on Vertebra L3
+costal-part-of-transverse-process	Costal part of transverse process	Pars costalis processus transversi	landmark	on Vertebra L3
+inferior-articular-facet-of-vertebra	Inferior articular facet of vertebra	Facies articularis inferior vertebrae	landmark	on Vertebra L3
+inferior-vertebral-notch	Inferior vertebral notch	Incisura inferior vertebrae	landmark	on Vertebra L3
+intervertebral-foramen	Intervertebral foramen	Foramen intervertebrale	landmark	on Vertebra L3
+intervertebral-surface	Intervertebral surface	Facies intervertebralis	landmark	on Vertebra L3
+lamina-of-vertebral-arch	Lamina of vertebral arch	Lamina arcus vertebrae	landmark	on Vertebra L3
+lateral-part-of-transverse-process	Lateral part of transverse process	Pars lateralis processus transversi	landmark	on Vertebra L3
+pars-interarticularis-of-vertebral-arch	Pars interarticularis of vertebral arch	Pars interarticularis arcus vertebrae	landmark	on Vertebra L3
+pedicle-of-vertebral-arch	Pedicle of vertebral arch	Pediculus arcus vertebrae	landmark	on Vertebra L3
+spinous-process	Spinous process	Processus spinosus	landmark	on Vertebra L3
+superior-articular-facet-of-vertebra	Superior articular facet of vertebra	Facies articularis superior vertebrae	landmark	on Vertebra L3
+superior-articular-process-of-vertebra	Superior articular process of vertebra	Processus articularis superior vertebrae	landmark	on Vertebra L3
+superior-vertebral-notch	Superior vertebral notch	Incisura superior vertebrae	landmark	on Vertebra L3
+transverse-process	Transverse process	Processus transversus	landmark	on Vertebra L3
+vertebra	Vertebra	Vertebra	landmark	on Vertebra L3
+vertebral-arch	Vertebral arch	Arcus vertebrae	landmark	on Vertebra L3
+vertebral-body	Vertebral body	Corpus vertebrae	landmark	on Vertebra L3
+vertebral-foramen	Vertebral foramen	Foramen vertebrale	landmark	on Vertebra L3
+uncinate-process-of-first-thoracic-vertebra	Uncinate process of first thoracic vertebra	(Processus uncinatus vertebrae thoracicae primae)	landmark	on Vertebra T1
+inferior-costal-facet	Inferior costal facet	Fovea costalis inferior	landmark	on Vertebra T8
+superior-costal-facet	Superior costal facet	Fovea costalis superior	landmark	on Vertebra T8
+thoracic-vertebra	Thoracic vertebra	Vertebra thoracica	landmark	on Vertebra T8
+transverse-costal-facet	Transverse costal facet	Fovea costalis processus transversi	landmark	on Vertebra T8
+xiphoid-process	Xiphoid process	Processus xiphoideus	landmark	on Xiphoid process
+clavipectoral-fascia	Clavipectoral fascia	Fascia clavipectoralis	muscles	Fasciae > Fasciae of thorax
+pectoral-fascia	Pectoral fascia	Fascia pectoralis	muscles	Fasciae > Fasciae of thorax
+iliococcygeus-muscle	Iliococcygeus muscle	Musculus iliococcygeus	muscles	Muscles of pelvis > Pelvic diaphragm > Levator ani
+pubo-analis-muscle	Pubo-analis muscle	Musculus puboanalis	muscles	Muscles of pelvis > Pelvic diaphragm > Levator ani
+pubococcygeus-muscle	Pubococcygeus muscle	Musculus pubococcygeus	muscles	Muscles of pelvis > Pelvic diaphragm > Levator ani
+tendinous-arch-of-levator-ani	Tendinous arch of levator ani	Arcus tendineus levatoris ani	muscles	Muscles of pelvis > Pelvic diaphragm > Levator ani
+diaphragm	Diaphragm	Diaphragma	muscles	Muscular system > Thoracic part of muscular system
+external-intercostal-muscles	External intercostal muscles	Musculi intercostales externi	muscles	Muscular system > Thoracic part of muscular system > Muscles of thorax
+innermost-intercostal-muscles	Innermost intercostal muscles	Musculi intercostales intimi	muscles	Muscular system > Thoracic part of muscular system > Muscles of thorax
+internal-intercostal-muscles	Internal intercostal muscles	Musculi intercostales interni	muscles	Muscular system > Thoracic part of muscular system > Muscles of thorax
+transversus-thoracis-muscle	Transversus thoracis muscle	Musculus transversus thoracis	muscles	Muscular system > Thoracic part of muscular system > Muscles of thorax
+coccygeus-muscle	Coccygeus muscle	Musculus coccygeus	muscles	Pelvic part of muscular system > Muscles of pelvis > Pelvic diaphragm
+levatores-breves-costarum	Levatores breves costarum	Levatores breves costarum	muscles	Thoracic part of muscular system > Muscles of thorax > Levatores costarum
+levatores-longi-costarum	Levatores longi costarum	Levatores longi costarum	muscles	Thoracic part of muscular system > Muscles of thorax > Levatores costarum
+eighth-rib	Eighth rib	Octava costa	skeleton	Bones of thorax > Ribs > False ribs
+ninth-rib	Ninth rib	Nona costa	skeleton	Bones of thorax > Ribs > False ribs
+tenth-rib	Tenth rib	Decima costa	skeleton	Bones of thorax > Ribs > False ribs
+fifth-rib	Fifth rib	Quinta costa	skeleton	Bones of thorax > Ribs > True ribs
+first-rib	First rib	Costa prima	skeleton	Bones of thorax > Ribs > True ribs
+fourth-rib	Fourth rib	Quarta costa	skeleton	Bones of thorax > Ribs > True ribs
+second-rib	Second rib	Costa secunda	skeleton	Bones of thorax > Ribs > True ribs
+seventh-rib	Seventh rib	Septima costa	skeleton	Bones of thorax > Ribs > True ribs
+sixth-rib	Sixth rib	Sexta costa	skeleton	Bones of thorax > Ribs > True ribs
+third-rib	Third rib	Tertia costa	skeleton	Bones of thorax > Ribs > True ribs
+eleventh-rib	Eleventh rib	Undecima costa	skeleton	Ribs > False ribs > Floating ribs
+twelfth-rib	Twelfth rib	Duodecima costa	skeleton	Ribs > False ribs > Floating ribs
+anterior-cells-of-ethmoid-bone	Anterior cells of ethmoid bone	Cellulae anteriores ossis ethmoidei	skeleton	Skeletal system > Cranium > Bones of cranium
+ethmoid-bone	Ethmoid bone	Os ethmoideum	skeleton	Skeletal system > Cranium > Bones of cranium
+frontal-bone	Frontal bone	Os frontale	skeleton	Skeletal system > Cranium > Bones of cranium
+inferior-nasal-concha-bone	Inferior nasal concha bone	Concha nasalis inferior	skeleton	Skeletal system > Cranium > Bones of cranium
+lacrimal-bone	Lacrimal bone	Os lacrimale	skeleton	Skeletal system > Cranium > Bones of cranium
+maxilla	Maxilla	Maxilla	skeleton	Skeletal system > Cranium > Bones of cranium
+middle-cells-of-ethmoid-bone	Middle cells of ethmoid bone	Cellulae mediae ossis ethmoidei	skeleton	Skeletal system > Cranium > Bones of cranium
+nasal-bone	Nasal bone	Os nasale	skeleton	Skeletal system > Cranium > Bones of cranium
+occipital-bone	Occipital bone	Os occipitale	skeleton	Skeletal system > Cranium > Bones of cranium
+palatine-bone	Palatine bone	Os palatinum	skeleton	Skeletal system > Cranium > Bones of cranium
+parietal-bone	Parietal bone	Os parietale	skeleton	Skeletal system > Cranium > Bones of cranium
+posterior-cells-of-ethmoid-bone	Posterior cells of ethmoid bone	Cellulae posteriores ossis ethmoidei	skeleton	Skeletal system > Cranium > Bones of cranium
+sinus-of-frontal-bone	Sinus of frontal bone	Sinus ossis frontalis	skeleton	Skeletal system > Cranium > Bones of cranium
+sinus-of-sphenoid-bone	Sinus of sphenoid bone	Sinus ossis sphenoidei	skeleton	Skeletal system > Cranium > Bones of cranium
+sphenoid-bone	Sphenoid bone	Os sphenoideum	skeleton	Skeletal system > Cranium > Bones of cranium
+temporal-bone	Temporal bone	Os temporale	skeleton	Skeletal system > Cranium > Bones of cranium
+vomer	Vomer	Vomer	skeleton	Skeletal system > Cranium > Bones of cranium
+zygomatic-bone	Zygomatic bone	Os zygomaticum	skeleton	Skeletal system > Cranium > Bones of cranium
+mandible	Mandible	Mandibula	skeleton	Skeletal system > Extracranial bones of head
+lateral-process-of-nasal-septal-cartilage	Lateral process of nasal septal cartilage	Processus lateralis cartilaginis septi nasi	skeleton	Skeletal system > Nasal cartilages
+major-alar-cartilage	Major alar cartilage	Cartilago alaris major	skeleton	Skeletal system > Nasal cartilages
+nasal-septal-cartilage	Nasal septal cartilage	Cartilago septi nasi	skeleton	Skeletal system > Nasal cartilages
+lower-canine	Lower canine	Dens caninus inferioris	skeleton	Skeletal system > Teeth > Anterior teeth
+lower-lateral-incisor	Lower lateral incisor	Dens incisivus lateralis inferioris	skeleton	Skeletal system > Teeth > Anterior teeth
+lower-medial-incisor	Lower medial incisor	Dens incisivus medialis inferioris	skeleton	Skeletal system > Teeth > Anterior teeth
+upper-canine	Upper canine	Dens caninus superioris	skeleton	Skeletal system > Teeth > Anterior teeth
+upper-lateral-incisor	Upper lateral incisor	Dens incisivus lateralis superioris	skeleton	Skeletal system > Teeth > Anterior teeth
+upper-medial-incisor	Upper medial incisor	Dens incisivus medialis superioris	skeleton	Skeletal system > Teeth > Anterior teeth
+lower-first-molar-tooth	Lower first molar tooth	Dens molaris primus inferioris	skeleton	Skeletal system > Teeth > Posterior teeth
+lower-first-premolar	Lower first premolar	Dens premolaris primus inferioris	skeleton	Skeletal system > Teeth > Posterior teeth
+lower-second-molar-tooth	Lower second molar tooth	Dens molaris secundus inferioris	skeleton	Skeletal system > Teeth > Posterior teeth
+lower-second-premolar	Lower second premolar	Dens premolaris secundus inferioris	skeleton	Skeletal system > Teeth > Posterior teeth
+upper-first-molar-tooth	Upper first molar tooth	Dens molaris primus suprioris	skeleton	Skeletal system > Teeth > Posterior teeth
+upper-first-premolar	Upper first premolar	Dens premolaris primus superioris	skeleton	Skeletal system > Teeth > Posterior teeth
+upper-second-molar-tooth	Upper second molar tooth	Dens molaris secundus superioris	skeleton	Skeletal system > Teeth > Posterior teeth
+upper-second-premolar	Upper second premolar	Dens premolaris secundus superioris	skeleton	Skeletal system > Teeth > Posterior teeth
+costal-cartilage-of-eighth-rib	Costal cartilage of eighth rib	Cartilago costae octavae costae	skeleton	Skeletal system > Thoracic skeleton > Costal cartilages
+costal-cartilage-of-fifth-rib	Costal cartilage of fifth rib	Cartilago costae quinti costae	skeleton	Skeletal system > Thoracic skeleton > Costal cartilages
+costal-cartilage-of-first-rib	Costal cartilage of first rib	Cartilago costae primae costae	skeleton	Skeletal system > Thoracic skeleton > Costal cartilages
+costal-cartilage-of-fourth-rib	Costal cartilage of fourth rib	Cartilago costae quarti costae	skeleton	Skeletal system > Thoracic skeleton > Costal cartilages
+costal-cartilage-of-ninth-rib	Costal cartilage of ninth rib	Costa cartilago nonae costae	skeleton	Skeletal system > Thoracic skeleton > Costal cartilages
+costal-cartilage-of-second-rib	Costal cartilage of second rib	Cartilago costae secundae costae	skeleton	Skeletal system > Thoracic skeleton > Costal cartilages
+costal-cartilage-of-seventh-rib	Costal cartilage of seventh rib	Cartilago costae septimi costae	skeleton	Skeletal system > Thoracic skeleton > Costal cartilages
+costal-cartilage-of-sixth-rib	Costal cartilage of sixth rib	Cartilago costae sextae costae	skeleton	Skeletal system > Thoracic skeleton > Costal cartilages
+costal-cartilage-of-tenth-rib	Costal cartilage of tenth rib	Cartilago costae decimae costae	skeleton	Skeletal system > Thoracic skeleton > Costal cartilages
+costal-cartilage-of-third-rib	Costal cartilage of third rib	Cartilago costae tertiae costae	skeleton	Skeletal system > Thoracic skeleton > Costal cartilages
+coccyx	Coccyx	Os coccygis	skeleton	Skeletal system > Vertebral column
+sacrum	Sacrum	Os sacrum	skeleton	Skeletal system > Vertebral column
+atlas-c1	Atlas (C1)		skeleton	Skeletal system > Vertebral column > Cervical vertebrae
+axis-c2	Axis (C2)		skeleton	Skeletal system > Vertebral column > Cervical vertebrae
+vertebra-c3	Vertebra C3	Vertebra cervicalis III	skeleton	Skeletal system > Vertebral column > Cervical vertebrae
+vertebra-c4	Vertebra C4	Vertebra cervicalis IV	skeleton	Skeletal system > Vertebral column > Cervical vertebrae
+vertebra-c5	Vertebra C5	Vertebra cervicalis V	skeleton	Skeletal system > Vertebral column > Cervical vertebrae
+vertebra-c6	Vertebra C6	Vertebra cervicalis VI	skeleton	Skeletal system > Vertebral column > Cervical vertebrae
+vertebra-c7	Vertebra C7	Vertebra cervicalis VII	skeleton	Skeletal system > Vertebral column > Cervical vertebrae
+vertebra-l1	Vertebra L1	Vertebra lumborum I	skeleton	Skeletal system > Vertebral column > Lumbar vertebrae
+vertebra-l2	Vertebra L2	Vertebra lumborum II	skeleton	Skeletal system > Vertebral column > Lumbar vertebrae
+vertebra-l3	Vertebra L3	Vertebra lumborum III	skeleton	Skeletal system > Vertebral column > Lumbar vertebrae
+vertebra-l4	Vertebra L4	Vertebra lumborum IV	skeleton	Skeletal system > Vertebral column > Lumbar vertebrae
+vertebra-l5	Vertebra L5	Vertebra lumborum V	skeleton	Skeletal system > Vertebral column > Lumbar vertebrae
+vertebra-t1	Vertebra T1	Vertebra thoracis I	skeleton	Skeletal system > Vertebral column > Thoracic vertebrae
+vertebra-t10	Vertebra T10	Vertebra thoracis X	skeleton	Skeletal system > Vertebral column > Thoracic vertebrae
+vertebra-t11	Vertebra T11	Vertebra thoracis XI	skeleton	Skeletal system > Vertebral column > Thoracic vertebrae
+vertebra-t12	Vertebra T12	Vertebra thoracis XII	skeleton	Skeletal system > Vertebral column > Thoracic vertebrae
+vertebra-t2	Vertebra T2	Vertebra thoracis II	skeleton	Skeletal system > Vertebral column > Thoracic vertebrae
+vertebra-t3	Vertebra T3	Vertebra thoracis III	skeleton	Skeletal system > Vertebral column > Thoracic vertebrae
+vertebra-t4	Vertebra T4	Vertebra thoracis IV	skeleton	Skeletal system > Vertebral column > Thoracic vertebrae
+vertebra-t5	Vertebra T5	Vertebra thoracis V	skeleton	Skeletal system > Vertebral column > Thoracic vertebrae
+vertebra-t6	Vertebra T6	Vertebra thoracis VI	skeleton	Skeletal system > Vertebral column > Thoracic vertebrae
+vertebra-t7	Vertebra T7	Vertebra thoracis VII	skeleton	Skeletal system > Vertebral column > Thoracic vertebrae
+vertebra-t8	Vertebra T8	Vertebra thoracis VIII	skeleton	Skeletal system > Vertebral column > Thoracic vertebrae
+vertebra-t9	Vertebra T9	Vertebra thoracis IX	skeleton	Skeletal system > Vertebral column > Thoracic vertebrae
+body-of-sternum	Body of sternum	Corpus sterni	skeleton	Thoracic skeleton > Bones of thorax > Sternum
+manubrium-of-sternum	Manubrium of sternum	Manubrium sterni	skeleton	Thoracic skeleton > Bones of thorax > Sternum
+xiphoid-process	Xiphoid process	Processus xiphoideus	skeleton	Thoracic skeleton > Bones of thorax > Sternum
