@@ -43,11 +43,52 @@ export interface Verdict {
   distance: number;
 }
 
-function threshold(len: number) {
+// Words that tell neighbouring structures apart. A slip is only forgiven when it does not
+// turn one of these into another (externus/internus, major/minor, longus/brevis ...).
+const CRITICAL = [
+  'externus', 'internus', 'externa', 'interna', 'externi', 'interni', 'externae', 'internae', 'superior', 'inferior', 'superius',
+  'inferius', 'superiores', 'inferiores', 'anterior', 'posterior', 'anterius', 'posterius', 'anteriores', 'posteriores', 'medialis',
+  'lateralis', 'mediale', 'laterale', 'medius', 'media', 'medium', 'major', 'minor', 'majus', 'minus', 'longus', 'brevis', 'longum',
+  'breve', 'longa', 'profundus', 'superficialis', 'profunda', 'profundum', 'superficiale', 'proximalis', 'distalis', 'proximale',
+  'distale', 'ulnaris', 'radialis', 'ulnare', 'radiale', 'magnus', 'maximus', 'minimus', 'tertius', 'primus', 'secundus', 'flexor',
+  'extensor', 'abductor', 'adductor', 'pronator', 'supinator', 'tibialis', 'fibularis', 'palmaris', 'plantaris', 'dorsalis',
+  'palmares', 'plantares', 'dorsales', 'capitis', 'colli', 'thoracis', 'lumborum', 'carpi', 'digitorum', 'pollicis', 'hallucis',
+  'indicis', 'minimi', 'dexter', 'sinister', 'dextra', 'sinistra', 'ascendens', 'descendens', 'transversus', 'obliquus', 'rectus',
+  'teres', 'quadratus', 'humeri', 'femoris', 'tibiae', 'fibulae', 'radii', 'ulnae', 'cranialis', 'caudalis', 'arteria', 'vena',
+  'nervus', 'cubiti', 'genus', 'coxae', 'pubis', 'ilii', 'ischii', 'mediana', 'medianus', 'coracoideus', 'coronoideus',
+  'coracoidea', 'coronoidea', 'coracoideum', 'ilium', 'ileum', 'metacarpi', 'metatarsi', 'metacarpalis', 'metatarsalis',
+  'metacarpale', 'metatarsale', 'metacarpeae', 'metatarseae', 'malleus', 'malleolus', 'trochlea', 'trochlearis', 'humeralis',
+  'femoralis', 'cervicalis', 'thoracica', 'lumbalis', 'sacralis', 'costalis', 'vertebralis', 'sternalis', 'acromialis',
+];
+// same structure, different (or wrong) ending: still the right answer
+const SAME: Record<string, string> = { majus: 'major', major: 'majus', minus: 'minor', minor: 'minus' };
+
+function sameStem(a: string, b: string) {
+  if (SAME[a] === b) return true;
+  let i = 0;
+  while (i < a.length && i < b.length && a[i] === b[i]) i++;
+  return i >= 5 && i >= Math.min(a.length, b.length) - 3;
+}
+const CRIT = new Set(CRITICAL);
+
+function tokThreshold(len: number) {
   if (len <= 4) return 0;
   if (len <= 8) return 1;
-  if (len <= 16) return 2;
-  return 3;
+  return 2;
+}
+
+/** Can user token `u` be read as a misspelling of expected token `e`? */
+function tokenClose(u: string, e: string): number {
+  if (u === e) return 0;
+  if ((CRIT.has(u) || CRIT.has(e)) && sameStem(u, e)) return 1;
+  const d = editDistance(u, e, 3);
+  if (d > tokThreshold(e.length)) return -1;
+  // a slip must not land on, or near, a different discriminating word
+  if (CRIT.has(e) || CRIT.has(u)) {
+    if (CRIT.has(u)) return -1;
+    for (const c of CRITICAL) if (c !== e && editDistance(u, c, 2) <= d) return -1;
+  }
+  return d;
 }
 
 function onlyQualifiers(ws: string[]) {
@@ -65,30 +106,39 @@ export function grade(input: string, accepted: string[], opts: { requireSide?: b
     const saysL = raw.some((w) => ['sinister', 'sinistra', 'sinistrum', 'sinistri', 'sinistrae', 'left', 'kiri', 'sin'].includes(w));
     if ((wantsR && !saysR) || (!wantsR && !saysL)) return none;
   }
-  const uiNoSide = ui.filter((w) => !SIDE.has(w));
+  const u = ui.filter((w) => !SIDE.has(w));
   let best: Verdict = none;
   for (const a of accepted) {
-    const at = tokens(a, false);
-    if (!at.length) continue;
-    const us = uiNoSide.join(' ');
-    const as = at.join(' ');
-    if (us === as) return { ok: true, typo: false, matched: a, distance: 0 };
-    // qualifier tolerance: "tuberculum majus humeri" vs "tuberculum majus"
-    const shorter = uiNoSide.length <= at.length ? uiNoSide : at;
-    const longer = uiNoSide.length <= at.length ? at : uiNoSide;
+    const e = tokens(a, false);
+    if (!e.length) continue;
+    if (u.join(' ') === e.join(' ')) return { ok: true, typo: false, matched: a, distance: 0 };
+    // optional trailing genitive ("tuberculum majus humeri" or "tuberculum majus")
+    const shorter = u.length <= e.length ? u : e;
+    const longer = u.length <= e.length ? e : u;
     if (shorter.every((w, i) => longer[i] === w) && onlyQualifiers(longer.slice(shorter.length))) {
       return { ok: true, typo: false, matched: a, distance: 0 };
     }
-    const uj = uiNoSide.join('');
-    const aj = at.join('');
-    const d = editDistance(uj, aj, 4);
-    const thr = threshold(aj.length);
-    if (d <= thr && d < best.distance) best = { ok: true, typo: d > 0, matched: a, distance: d };
-    // typo plus trailing qualifier
-    if (!best.ok && uiNoSide.length > at.length && onlyQualifiers(uiNoSide.slice(at.length))) {
-      const d2 = editDistance(uiNoSide.slice(0, at.length).join(''), aj, 4);
-      if (d2 <= thr && d2 < best.distance) best = { ok: true, typo: d2 > 0, matched: a, distance: d2 };
+    // word-by-word spelling tolerance
+    const tryAligned = (uu: string[], ee: string[]) => {
+      if (uu.length !== ee.length) return -1;
+      let total = 0;
+      for (let i = 0; i < ee.length; i++) {
+        const d = tokenClose(uu[i], ee[i]);
+        if (d < 0) return -1;
+        total += d;
+      }
+      return total;
+    };
+    let d = tryAligned(u, e);
+    if (d < 0 && u.length > e.length && onlyQualifiers(u.slice(e.length))) d = tryAligned(u.slice(0, e.length), e);
+    if (d < 0 && e.length > u.length && onlyQualifiers(e.slice(u.length))) d = tryAligned(u, e.slice(0, u.length));
+    // spacing differences ("aryepiglotticus" vs "ary epiglotticus"): one slip at most
+    if (d < 0 && u.length !== e.length) {
+      const dj = editDistance(u.join(''), e.join(''), 2);
+      const critOk = e.filter((w) => CRIT.has(w)).every((w) => u.join('').includes(w));
+      if (dj <= 1 && critOk) d = dj;
     }
+    if (d >= 0 && d < best.distance) best = { ok: true, typo: d > 0, matched: a, distance: d };
   }
   return best;
 }
