@@ -1,0 +1,614 @@
+[
+  {
+    "key": "sacro-iliac-joint",
+    "kind": "joint",
+    "la": "Articulatio sacroiliaca",
+    "alt": ["Art. sacroiliaca", "Articulatio sacro-iliaca"],
+    "en": "Sacro-iliac joint",
+    "desc": {
+      "en": "Joint between the auricular surfaces of the sacrum and the ilium. It has two parts: a synovial joint in front and a syndesmosis behind, where very strong interosseous ligaments bind the iliac tuberosity to the sacrum.",
+      "id": "Sendi antara facies auricularis os sacrum dan os ilium. Sendi ini terdiri atas dua bagian: sendi sinovial di depan dan syndesmosis di belakang, tempat lig. sacroiliacum interosseum yang sangat kuat mengikat tuberositas iliaca ke os sacrum."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio plana",
+      "complexity": "Articulatio simplex",
+      "axes": "multiaxial",
+      "surfaces": "Facies auricularis ossis sacri et facies auricularis ossis ilii",
+      "movements": {
+        "en": "Only small gliding and rotation of the sacrum: nutation, in which the promontory tips forward and down, and the reverse, counternutation. The range increases in late pregnancy when the ligaments soften.",
+        "id": "Hanya gerak meluncur dan rotasi kecil os sacrum: nutasi, yaitu promontorium miring ke depan bawah, dan kebalikannya, kontranutasi. Luas gerak ini bertambah pada akhir kehamilan saat ligamen melunak."
+      },
+      "ligaments": ["Ligamentum sacroiliacum anterius", "Ligamentum sacroiliacum interosseum", "Ligamentum sacroiliacum posterius", "Ligamentum iliolumbale", "Ligamentum sacrotuberale", "Ligamentum sacrospinale"],
+      "stability": {
+        "en": "Stability comes from the ligaments. Body weight drives the sacrum down and forward between the hip bones; the interosseous and posterior ligaments resist this, and the sacrotuberous and sacrospinous ligaments stop the lower end of the sacrum from tilting upward.",
+        "id": "Kestabilan sendi ini berasal dari ligamen. Berat badan mendorong os sacrum ke bawah dan ke depan di antara kedua os coxae; lig. sacroiliacum interosseum dan posterius menahan dorongan ini, sedangkan lig. sacrotuberale dan lig. sacrospinale mencegah ujung bawah os sacrum terangkat ke atas."
+      },
+      "clinical": {
+        "en": "Inflammation of the joint (sacroiliitis) causes low back and buttock pain and is an early sign of ankylosing spondylitis. The joint lies deep to the skin dimple over the posterior superior iliac spine, at the level of S2.",
+        "id": "Peradangan sendi ini (sakroiliitis) menimbulkan nyeri punggung bawah dan bokong, dan merupakan tanda awal spondilitis ankilosa. Sendi ini terletak di bawah lekukan kulit di atas SIPS, setinggi S2."
+      },
+      "note": {
+        "en": "Because it moves so little, it is often described functionally as an amphiarthrosis. With age the joint cavity may be partly obliterated by fibrous tissue, especially in men.",
+        "id": "Karena geraknya sangat sedikit, sendi ini secara fungsional sering digolongkan sebagai amphiarthrosis. Dengan bertambahnya usia, rongga sendinya dapat sebagian tertutup jaringan fibrosa, terutama pada laki-laki."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio plana", "plana", "plana (gliding)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial", "amphiarthrosis"],
+      "axes": ["multiaxial", "multiaksial", "nonaxial", "nonaksial"]
+    }
+  },
+  {
+    "key": "pubic-symphysis",
+    "kind": "joint",
+    "la": "Symphysis pubica",
+    "alt": ["Symphysis pubis", "Symphysis ossium pubis"],
+    "en": "Pubic symphysis",
+    "desc": {
+      "en": "Secondary cartilaginous joint in the midline between the symphysial surfaces of the two pubic bones. Each surface is covered by hyaline cartilage, and a fibrocartilaginous interpubic disc joins them.",
+      "id": "Sendi kartilaginosa sekunder di garis tengah antara facies symphysialis kedua os pubis. Masing-masing permukaan dilapisi cartilago hyalina dan keduanya disatukan oleh discus interpubicus yang terdiri atas fibrocartilago."
+    },
+    "facts": {
+      "class": "Junctura cartilaginea",
+      "subtype": "Symphysis",
+      "surfaces": "Facies symphysiales ossium pubis",
+      "movements": {
+        "en": "Very slight movement, mainly when the pelvis is loaded unevenly, as in walking. The joint loosens and widens a little in late pregnancy and during childbirth.",
+        "id": "Gerak sangat sedikit, terutama saat pelvis menerima beban yang tidak seimbang, misalnya ketika berjalan. Sendi ini mengendur dan sedikit melebar pada akhir kehamilan dan saat persalinan."
+      },
+      "ligaments": ["Ligamentum pubicum superius", "Ligamentum pubicum inferius"],
+      "discs": "Discus interpubicus",
+      "clinical": {
+        "en": "Pregnancy hormones such as relaxin loosen the joint; excessive loosening causes pelvic girdle pain, and rarely the joint separates during delivery.",
+        "id": "Hormon kehamilan seperti relaksin melonggarkan sendi ini; pelonggaran yang berlebihan menimbulkan nyeri gelang panggul, dan pada kasus yang jarang sendi dapat terpisah saat persalinan."
+      },
+      "note": {
+        "en": "The interpubic disc often contains a small non-synovial cavity and is usually thicker in women.",
+        "id": "Discus interpubicus sering memiliki rongga kecil yang tidak dilapisi membrana synovialis, dan biasanya lebih tebal pada perempuan."
+      }
+    },
+    "quiz": {
+      "type": ["Symphysis", "symphysis"],
+      "class": ["Junctura cartilaginea", "cartilaginea", "articulatio cartilaginea", "sendi kartilaginosa", "amphiarthrosis"]
+    }
+  },
+  {
+    "key": "hip-joint",
+    "kind": "joint",
+    "la": "Articulatio coxae",
+    "alt": ["Art. coxae", "Articulatio coxofemoralis"],
+    "en": "Hip joint",
+    "desc": {
+      "en": "Ball-and-socket joint between the head of the femur and the acetabulum. The deep socket, deepened further by the acetabular labrum, and a thick capsule make it far more stable than the shoulder, with a smaller range of movement.",
+      "id": "Sendi peluru antara caput femoris dan acetabulum. Acetabulum yang dalam, ditambah labrum acetabuli, serta capsula articularis yang tebal membuat sendi ini jauh lebih stabil daripada sendi bahu, dengan luas gerak yang lebih kecil."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio cotylica",
+      "complexity": "Articulatio simplex",
+      "axes": "multiaxial",
+      "surfaces": "Caput femoris; facies lunata acetabuli et labrum acetabuli",
+      "movements": {
+        "en": "Flexion and extension, abduction and adduction, medial and lateral rotation, and circumduction. Flexion has the largest range, especially with the knee bent; extension is limited because the iliofemoral ligament tightens.",
+        "id": "Fleksi dan ekstensi, abduksi dan adduksi, rotasi medial dan lateral, serta sirkumduksi. Fleksi memiliki luas gerak terbesar, terutama bila lutut ditekuk; ekstensi terbatas karena lig. iliofemorale menegang."
+      },
+      "ligaments": ["Ligamentum iliofemorale (pars transversa et pars descendens)", "Ligamentum pubofemorale", "Ligamentum ischiofemorale", "Zona orbicularis", "Ligamentum capitis femoris", "Ligamentum transversum acetabuli"],
+      "stability": {
+        "en": "The acetabulum and labrum hold more than half of the femoral head. The three capsular ligaments spiral around the neck and tighten in extension, pressing the head into the socket; the iliofemoral ligament, the strongest ligament in the body, prevents hyperextension during standing.",
+        "id": "Acetabulum dan labrum memeluk lebih dari separuh caput femoris. Ketiga ligamen kapsul berjalan spiral mengelilingi collum dan menegang saat ekstensi sehingga menekan caput ke dalam soket; lig. iliofemorale, ligamen terkuat di tubuh, mencegah hiperekstensi saat berdiri."
+      },
+      "clinical": {
+        "en": "Developmental dysplasia of the hip is screened at birth with the Ortolani and Barlow tests. Traumatic posterior dislocation, as when the knee strikes the dashboard, leaves the limb shortened and medially rotated and can injure the sciatic nerve.",
+        "id": "Displasia perkembangan sendi panggul diperiksa saat lahir dengan uji Ortolani dan Barlow. Dislokasi posterior akibat trauma, misalnya lutut membentur dasbor, membuat tungkai memendek dan berotasi ke medial serta dapat mencederai n. ischiadicus."
+      },
+      "note": {
+        "en": "A cotylic joint is a ball-and-socket joint whose socket covers more than half of the ball. The head is supplied mainly by retinacular branches of the medial circumflex femoral artery; the artery in the ligament of the head is small and matters mostly in children.",
+        "id": "Articulatio cotylica adalah sendi peluru yang soketnya menutupi lebih dari separuh bola sendi. Caput femoris terutama diperdarahi cabang retinakular a. circumflexa femoris medialis; arteri di dalam lig. capitis femoris kecil dan terutama penting pada anak."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio cotylica", "cotylica", "enarthrosis", "Articulatio spheroidea", "spheroidea", "spheroidea (ball-and-socket)", "globoidea"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["multiaxial", "multiaksial", "triaxial", "triaksial"]
+    }
+  },
+  {
+    "key": "knee-joint",
+    "kind": "joint",
+    "la": "Articulatio genus",
+    "alt": ["Art. genus", "Articulatio genu"],
+    "en": "Knee joint",
+    "desc": {
+      "en": "Largest joint of the body, formed by the condyles of the femur, the condyles of the tibia and the patella. It works mainly as a hinge, and when flexed it also allows some rotation.",
+      "id": "Sendi terbesar di tubuh, dibentuk oleh condylus femoris, condylus tibiae dan patella. Sendi ini terutama bekerja sebagai engsel, dan dalam posisi fleksi juga memungkinkan sedikit rotasi."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio bicondylaris",
+      "complexity": "Articulatio composita",
+      "axes": "biaxial",
+      "surfaces": "Condyli femoris et facies articulares superiores tibiae (articulatio femorotibialis); facies patellaris femoris et facies articularis patellae (articulatio femoropatellaris)",
+      "movements": {
+        "en": "Flexion and extension, and medial and lateral rotation of the leg when the knee is flexed. At the end of extension with the foot on the ground, the femur rotates medially on the tibia and locks the knee; popliteus unlocks it by rotating the femur laterally.",
+        "id": "Fleksi dan ekstensi, serta rotasi medial dan lateral tungkai bawah saat lutut fleksi. Pada akhir ekstensi dengan kaki menapak, femur berotasi ke medial terhadap tibia sehingga lutut terkunci; m. popliteus membuka kuncian ini dengan memutar femur ke lateral."
+      },
+      "ligaments": ["Ligamentum patellae", "Retinaculum patellae mediale", "Retinaculum patellae laterale", "Ligamentum collaterale tibiale", "Ligamentum collaterale fibulare", "Ligamentum popliteum obliquum", "Ligamentum popliteum arcuatum", "Ligamentum cruciatum anterius", "Ligamentum cruciatum posterius", "Ligamentum transversum genus", "Ligamentum meniscofemorale anterius", "Ligamentum meniscofemorale posterius"],
+      "discs": "Meniscus medialis et meniscus lateralis",
+      "stability": {
+        "en": "The bones fit poorly, so stability comes from soft tissue: quadriceps femoris with its tendon and the patellar ligament, the collateral and cruciate ligaments, and the menisci. The anterior cruciate ligament stops the tibia sliding forward on the femur, and the posterior cruciate stops it sliding backward.",
+        "id": "Kesesuaian tulangnya kurang, sehingga kestabilan berasal dari jaringan lunak: m. quadriceps femoris dengan tendonya dan lig. patellae, ligamenta collateralia dan cruciata, serta meniscus. Lig. cruciatum anterius mencegah tibia bergeser ke depan terhadap femur, dan lig. cruciatum posterius mencegahnya bergeser ke belakang."
+      },
+      "clinical": {
+        "en": "A blow to the lateral side of the extended knee can cause the 'unhappy triad': tears of the tibial collateral ligament, the medial meniscus attached to it, and the anterior cruciate ligament. Anterior cruciate rupture is tested with the anterior drawer and Lachman tests.",
+        "id": "Benturan pada sisi lateral lutut yang sedang ekstensi dapat menimbulkan 'unhappy triad': robekan lig. collaterale tibiale, meniscus medialis yang melekat padanya, dan lig. cruciatum anterius. Ruptur lig. cruciatum anterius diperiksa dengan uji anterior drawer dan uji Lachman."
+      },
+      "note": {
+        "en": "By shape it is a bicondylar joint; many books call it a modified hinge joint (ginglymus). The suprapatellar bursa communicates with the joint cavity, so a knee effusion also fills it above the patella.",
+        "id": "Menurut bentuknya sendi ini bicondylaris; banyak buku menyebutnya sendi engsel yang dimodifikasi (ginglymus). Bursa suprapatellaris berhubungan dengan rongga sendi, sehingga efusi lutut juga mengisi bursa ini di atas patella."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio bicondylaris", "bicondylaris", "condylaris", "Ginglymus", "ginglymus", "trochoginglymus", "Articulatio composita", "composita"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["biaxial", "biaksial"]
+    }
+  },
+  {
+    "key": "superior-tibiofibular-joint",
+    "kind": "joint",
+    "la": "Articulatio tibiofibularis",
+    "alt": ["Art. tibiofibularis", "Articulatio tibiofibularis proximalis", "Articulatio tibiofibularis superior"],
+    "en": "Superior tibiofibular joint",
+    "desc": {
+      "en": "Plane synovial joint between the facet on the head of the fibula and the fibular articular facet on the posterolateral underside of the lateral tibial condyle.",
+      "id": "Sendi sinovial tipe plana antara facies articularis capitis fibulae dan facies articularis fibularis pada sisi bawah posterolateral condylus lateralis tibiae."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio plana",
+      "complexity": "Articulatio simplex",
+      "axes": "multiaxial",
+      "surfaces": "Facies articularis capitis fibulae et facies articularis fibularis tibiae",
+      "movements": {
+        "en": "Slight gliding of the fibular head, which follows the movement of the lateral malleolus as the ankle dorsiflexes and plantarflexes.",
+        "id": "Gerak meluncur kecil caput fibulae yang mengikuti gerakan malleolus lateralis saat pergelangan kaki dorsofleksi dan plantarfleksi."
+      },
+      "ligaments": ["Ligamentum capitis fibulae anterius", "Ligamentum capitis fibulae posterius"],
+      "note": {
+        "en": "In some adults its cavity communicates with the knee joint through the subpopliteal recess.",
+        "id": "Pada sebagian orang dewasa, rongga sendi ini berhubungan dengan sendi lutut melalui recessus subpopliteus."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio plana", "plana", "plana (gliding)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["multiaxial", "multiaksial", "nonaxial", "nonaksial"]
+    }
+  },
+  {
+    "key": "tibiofibular-syndesmosis",
+    "kind": "joint",
+    "la": "Syndesmosis tibiofibularis",
+    "alt": ["Articulatio tibiofibularis distalis", "Articulatio tibiofibularis inferior", "Syndesmosis tibiofibularis distalis"],
+    "en": "Tibiofibular syndesmosis (inferior tibiofibular joint)",
+    "desc": {
+      "en": "Fibrous joint between the rough medial surface of the lower end of the fibula and the fibular notch of the tibia. Its ligaments hold the lateral malleolus against the tibia and keep the ankle mortise tight.",
+      "id": "Sendi fibrosa antara permukaan medial ujung bawah fibula yang kasar dan incisura fibularis tibiae. Ligamennya menahan malleolus lateralis tetap menempel pada tibia dan menjaga soket pergelangan kaki tetap rapat."
+    },
+    "facts": {
+      "class": "Junctura fibrosa",
+      "subtype": "Syndesmosis",
+      "surfaces": "Incisura fibularis tibiae et extremitas distalis fibulae",
+      "movements": {
+        "en": "Slight give that lets the malleoli spread a little when the wider front of the talar trochlea enters the mortise in dorsiflexion.",
+        "id": "Sedikit kelenturan yang memungkinkan kedua malleolus agak merenggang saat bagian depan trochlea tali yang lebih lebar masuk ke soket ketika dorsofleksi."
+      },
+      "ligaments": ["Ligamentum tibiofibulare anterius", "Ligamentum tibiofibulare posterius", "Ligamentum tibiofibulare transversum", "Ligamentum tibiofibulare interosseum"],
+      "parts": ["anterior-tibiofibular-ligament", "posterior-tibiofibular-ligament", "transverse-tibiofibular-ligament"],
+      "clinical": {
+        "en": "Forced external rotation and dorsiflexion tear the syndesmotic ligaments (high ankle sprain); the mortise widens and the talus becomes unstable. Fibular fractures above the joint line often disrupt the syndesmosis.",
+        "id": "Rotasi eksternal dan dorsofleksi paksa merobek ligamen syndesmosis (high ankle sprain); soket melebar dan talus menjadi tidak stabil. Fraktur fibula di atas garis sendi sering merusak syndesmosis ini."
+      }
+    },
+    "quiz": {
+      "type": ["Syndesmosis", "syndesmosis"],
+      "class": ["Junctura fibrosa", "fibrosa", "articulatio fibrosa", "sendi fibrosa"]
+    }
+  },
+  {
+    "key": "interosseous-membrane-of-leg",
+    "kind": "joint",
+    "la": "Membrana interossea cruris",
+    "alt": ["Membrana interossea"],
+    "en": "Interosseous membrane of leg",
+    "desc": {
+      "en": "Strong sheet of fibrous tissue stretched between the interosseous borders of the tibia and fibula. It is a syndesmosis that binds the two bones and separates the anterior and posterior compartments of the leg.",
+      "id": "Lembaran jaringan fibrosa yang kuat, terbentang di antara margo interosseus tibiae dan fibulae. Membran ini merupakan syndesmosis yang mengikat kedua tulang dan memisahkan kompartemen anterior dan posterior tungkai bawah."
+    },
+    "facts": {
+      "class": "Junctura fibrosa",
+      "subtype": "Syndesmosis",
+      "attach": {
+        "en": "Interosseous border of the tibia and interosseous border (crest) of the fibula; most fibres run down and laterally from the tibia to the fibula.",
+        "id": "Margo interosseus tibiae dan margo interosseus fibulae; sebagian besar serabutnya berjalan ke bawah lateral dari tibia ke fibula."
+      },
+      "function": {
+        "en": "Holds the bones together and gives origin to muscles of both compartments: tibialis anterior, extensor digitorum longus and extensor hallucis longus in front, tibialis posterior behind. An opening at its upper end passes the anterior tibial vessels, and a small one near its lower end the perforating branch of the fibular artery.",
+        "id": "Menyatukan kedua tulang dan menjadi origo otot kedua kompartemen: m. tibialis anterior, m. extensor digitorum longus dan m. extensor hallucis longus di depan, m. tibialis posterior di belakang. Lubang di ujung atasnya dilalui vasa tibialis anterior, dan lubang kecil di dekat ujung bawahnya dilalui ramus perforans a. fibularis."
+      }
+    },
+    "quiz": {
+      "type": ["Syndesmosis", "syndesmosis"],
+      "class": ["Junctura fibrosa", "fibrosa", "articulatio fibrosa", "sendi fibrosa"]
+    }
+  },
+  {
+    "key": "ankle-joint",
+    "kind": "joint",
+    "la": "Articulatio talocruralis",
+    "alt": ["Art. talocruralis"],
+    "en": "Ankle joint (talocrural joint)",
+    "desc": {
+      "en": "Hinge joint between the lower ends of the tibia and fibula and the trochlea of the talus. The two malleoli and the inferior surface of the tibia form a deep socket (mortise) that grips the talus.",
+      "id": "Sendi engsel antara ujung bawah tibia dan fibula dengan trochlea tali. Kedua malleolus bersama facies articularis inferior tibiae membentuk soket dalam (mortise) yang menjepit talus."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Ginglymus",
+      "complexity": "Articulatio composita",
+      "axes": "uniaxial",
+      "surfaces": "Facies articularis inferior tibiae, facies articularis malleoli medialis et facies articularis malleoli lateralis; trochlea tali",
+      "movements": {
+        "en": "Dorsiflexion (extension) and plantarflexion (flexion) of the foot about a transverse axis through the malleoli. Plantarflexion has the larger range.",
+        "id": "Dorsofleksi (ekstensi) dan plantarfleksi (fleksi) kaki pada sumbu transversal yang melalui kedua malleolus. Plantarfleksi memiliki luas gerak yang lebih besar."
+      },
+      "ligaments": ["Ligamentum collaterale mediale (Ligamentum deltoideum)", "Ligamentum talofibulare anterius", "Ligamentum calcaneofibulare", "Ligamentum talofibulare posterius"],
+      "stability": {
+        "en": "The trochlea is wider in front, so the joint is most stable in dorsiflexion, when the wide part is wedged in the mortise. In plantarflexion the narrow back part allows some wobble, which is why most sprains happen with the foot pointed down and turned in.",
+        "id": "Trochlea tali lebih lebar di depan, sehingga sendi paling stabil saat dorsofleksi ketika bagian yang lebar terjepit dalam soket. Saat plantarfleksi, bagian belakang yang sempit memungkinkan sedikit goyangan; karena itu sebagian besar keseleo terjadi saat kaki menjinjit dan terpuntir ke dalam."
+      },
+      "clinical": {
+        "en": "An inversion sprain of the plantarflexed foot tears the lateral ligament, the anterior talofibular part first and then the calcaneofibular. Forced eversion is resisted by the strong deltoid ligament, which tends to pull off the medial malleolus instead (Pott fracture-dislocation).",
+        "id": "Keseleo inversi pada kaki yang plantarfleksi merobek lig. collaterale laterale, dimulai dari lig. talofibulare anterius lalu lig. calcaneofibulare. Eversi paksa ditahan oleh lig. deltoideum yang kuat, sehingga yang terjadi justru avulsi malleolus medialis (fraktur-dislokasi Pott)."
+      },
+      "note": {
+        "en": "Dorsiflexion is also called extension of the ankle, and plantarflexion flexion. Because the tibia, fibula and talus all take part, the joint is classed as compound.",
+        "id": "Dorsofleksi disebut juga ekstensi pergelangan kaki, dan plantarfleksi disebut fleksi. Karena tibia, fibula dan talus ikut membentuknya, sendi ini digolongkan articulatio composita."
+      }
+    },
+    "quiz": {
+      "type": ["Ginglymus", "ginglymus", "Articulatio ginglymus", "ginglymus (hinge)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["uniaxial", "uniaksial", "monoaxial"]
+    }
+  },
+  {
+    "key": "subtalar-joint",
+    "kind": "joint",
+    "la": "Articulatio subtalaris",
+    "alt": ["Art. subtalaris", "Articulatio talocalcanea"],
+    "en": "Subtalar (talocalcaneal) joint",
+    "desc": {
+      "en": "Joint between the posterior calcaneal facet on the underside of the talus and the posterior talar facet of the calcaneus. Together with the talocalcaneonavicular joint it turns the sole inward and outward (inversion and eversion).",
+      "id": "Sendi antara facies articularis calcanea posterior di sisi bawah talus dan facies articularis talaris posterior calcanei. Bersama articulatio talocalcaneonavicularis, sendi ini memutar telapak kaki ke dalam dan ke luar (inversi dan eversi)."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio plana",
+      "complexity": "Articulatio simplex",
+      "axes": "uniaxial",
+      "surfaces": "Facies articularis calcanea posterior tali et facies articularis talaris posterior calcanei",
+      "movements": {
+        "en": "Inversion and eversion about one oblique axis that runs from the back and lateral side of the heel forward, medially and upward through the neck of the talus.",
+        "id": "Inversi dan eversi pada satu sumbu miring yang berjalan dari bagian belakang lateral tumit ke depan, medial dan atas melalui collum tali."
+      },
+      "ligaments": ["Ligamentum talocalcaneum laterale", "Ligamentum talocalcaneum mediale", "Ligamentum talocalcaneum posterius", "Ligamentum talocalcaneum anterius", "Ligamentum talocalcaneum interosseum"],
+      "note": {
+        "en": "Clinicians often use 'subtalar joint' for this joint and the talocalcaneonavicular joint together, since both move about the same axis. Moore classes it as a plane joint; it is listed here as uniaxial because its movement occurs about that single axis.",
+        "id": "Para klinisi sering memakai istilah 'sendi subtalar' untuk sendi ini bersama articulatio talocalcaneonavicularis, karena keduanya bergerak pada sumbu yang sama. Moore menggolongkannya sebagai sendi plana; di sini sendi ini dicatat uniaksial karena geraknya terjadi pada satu sumbu tersebut."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio plana", "plana", "plana (gliding)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["uniaxial", "uniaksial"]
+    },
+    "model": false,
+    "verify": true
+  },
+  {
+    "key": "talocalcaneonavicular-joint",
+    "kind": "joint",
+    "la": "Articulatio talocalcaneonavicularis",
+    "alt": ["Art. talocalcaneonavicularis"],
+    "en": "Talocalcaneonavicular joint",
+    "desc": {
+      "en": "Joint in which the head of the talus sits in a socket formed by the navicular in front, the plantar calcaneonavicular (spring) ligament below, and the anterior and middle talar facets of the calcaneus.",
+      "id": "Sendi tempat caput tali duduk dalam soket yang dibentuk oleh os naviculare di depan, lig. calcaneonaviculare plantare (spring ligament) di bawah, serta facies articularis talaris anterior dan media calcanei."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio spheroidea",
+      "complexity": "Articulatio composita",
+      "axes": "multiaxial",
+      "surfaces": "Caput tali; facies articularis talaris ossis navicularis, facies articulares talares anterior et media calcanei, ligamentum calcaneonaviculare plantare",
+      "movements": {
+        "en": "Gliding and rotation of the head of the talus in its socket. With the subtalar joint it produces inversion and eversion; its talonavicular part also moves with the calcaneocuboid joint as the transverse tarsal joint.",
+        "id": "Gerak meluncur dan rotasi caput tali di dalam soketnya. Bersama articulatio subtalaris sendi ini menghasilkan inversi dan eversi; bagian talonavicularis-nya juga bergerak bersama articulatio calcaneocuboidea sebagai articulatio tarsi transversa."
+      },
+      "ligaments": ["Ligamentum calcaneonaviculare plantare", "Ligamentum talonaviculare", "Ligamentum bifurcatum (pars calcaneonavicularis)", "Ligamentum talocalcaneum interosseum"],
+      "clinical": {
+        "en": "If the spring ligament and the tibialis posterior tendon fail, the head of the talus sinks between the calcaneus and navicular and the medial longitudinal arch flattens (acquired flatfoot).",
+        "id": "Bila spring ligament dan tendo m. tibialis posterior melemah, caput tali turun di antara calcaneus dan os naviculare sehingga lengkung longitudinal medial mendatar (flatfoot didapat)."
+      },
+      "note": {
+        "en": "By shape it is partly a ball-and-socket joint, but its ligaments restrict it, so in practice it moves with the subtalar joint about one oblique axis.",
+        "id": "Menurut bentuknya sendi ini sebagian merupakan sendi peluru, tetapi ligamennya membatasi gerak sehingga dalam praktik sendi ini bergerak bersama articulatio subtalaris pada satu sumbu miring."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio spheroidea", "spheroidea", "spheroidea (ball-and-socket)", "globoidea"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["multiaxial", "multiaksial", "uniaxial", "uniaksial"]
+    },
+    "model": false,
+    "verify": true
+  },
+  {
+    "key": "calcaneocuboid-joint",
+    "kind": "joint",
+    "la": "Articulatio calcaneocuboidea",
+    "alt": ["Art. calcaneocuboidea"],
+    "en": "Calcaneocuboid joint",
+    "desc": {
+      "en": "Joint between the cuboid surface on the front of the calcaneus and the back of the cuboid, on the lateral side of the foot. It forms the lateral part of the transverse tarsal joint.",
+      "id": "Sendi antara facies articularis cuboidea di depan calcaneus dan sisi belakang os cuboideum, di sisi lateral kaki. Sendi ini membentuk bagian lateral articulatio tarsi transversa."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio sellaris",
+      "complexity": "Articulatio simplex",
+      "axes": "biaxial",
+      "surfaces": "Facies articularis cuboidea calcanei et facies articularis posterior ossis cuboidei",
+      "movements": {
+        "en": "Small gliding and rotation that add to inversion and eversion of the forefoot.",
+        "id": "Gerak meluncur dan rotasi kecil yang menambah inversi dan eversi kaki depan."
+      },
+      "ligaments": ["Ligamentum calcaneocuboideum dorsale", "Ligamentum bifurcatum (pars calcaneocuboidea)", "Ligamentum plantare longum", "Ligamentum calcaneocuboideum plantare"],
+      "note": {
+        "en": "Its surfaces are reciprocally saddle-shaped; some textbooks class it as a plane joint.",
+        "id": "Permukaan sendinya berbentuk pelana yang saling berpasangan; sebagian buku ajar menggolongkannya sebagai sendi plana."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio sellaris", "sellaris", "sellaris (saddle)", "Articulatio plana", "plana"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["biaxial", "biaksial", "multiaxial", "multiaksial"]
+    },
+    "model": false
+  },
+  {
+    "key": "transverse-tarsal-joint",
+    "kind": "joint",
+    "la": "Articulatio tarsi transversa",
+    "alt": ["Art. tarsi transversa", "Articulatio Chopart", "Chopart"],
+    "en": "Transverse tarsal joint (Chopart joint)",
+    "desc": {
+      "en": "Combined joint across the tarsus formed by the talonavicular part of the talocalcaneonavicular joint and the calcaneocuboid joint. The two lie roughly in one S-shaped line that separates the hindfoot from the midfoot.",
+      "id": "Gabungan sendi yang melintang pada tarsus, dibentuk oleh bagian talonavicularis articulatio talocalcaneonavicularis dan articulatio calcaneocuboidea. Keduanya terletak kira-kira pada satu garis berbentuk S yang memisahkan kaki belakang dari kaki tengah."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "complexity": "Articulatio composita",
+      "parts": ["talocalcaneonavicular-joint", "calcaneocuboid-joint"],
+      "movements": {
+        "en": "With the subtalar joint it allows inversion and eversion; it also lets the forefoot twist on the hindfoot so that the sole adapts to uneven ground.",
+        "id": "Bersama articulatio subtalaris sendi ini memungkinkan inversi dan eversi; sendi ini juga memungkinkan kaki depan terpuntir terhadap kaki belakang sehingga telapak kaki dapat menyesuaikan diri dengan permukaan yang tidak rata."
+      },
+      "ligaments": ["Ligamentum bifurcatum", "Ligamentum calcaneonaviculare plantare", "Ligamentum talonaviculare", "Ligamentum calcaneocuboideum dorsale", "Ligamentum plantare longum", "Ligamentum calcaneocuboideum plantare"],
+      "clinical": {
+        "en": "Surgeons use this line for amputation through the foot (Chopart amputation).",
+        "id": "Garis sendi ini dipakai ahli bedah untuk amputasi kaki (amputasi Chopart)."
+      },
+      "note": {
+        "en": "The two joints have separate cavities and act as one functional unit, so the transverse tarsal joint has no single shape type.",
+        "id": "Kedua sendi memiliki rongga sendi terpisah dan bekerja sebagai satu kesatuan fungsional, sehingga articulatio tarsi transversa tidak memiliki satu tipe bentuk."
+      }
+    },
+    "quiz": {
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"]
+    },
+    "model": false
+  },
+  {
+    "key": "cuneonavicular-joint",
+    "kind": "joint",
+    "la": "Articulatio cuneonavicularis",
+    "alt": ["Art. cuneonavicularis"],
+    "en": "Cuneonavicular joint",
+    "desc": {
+      "en": "Joint between the front of the navicular and the backs of the three cuneiform bones. Its synovial cavity continues into the intercuneiform and cuneocuboid joints and the second and third tarsometatarsal joints.",
+      "id": "Sendi antara sisi depan os naviculare dan sisi belakang ketiga os cuneiforme. Rongga sinovialnya bersambung dengan sendi intercuneiformis, sendi cuneocuboidea, serta sendi tarsometatarsal II dan III."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio plana",
+      "complexity": "Articulatio composita",
+      "axes": "multiaxial",
+      "surfaces": "Facies anterior ossis navicularis et facies posteriores ossium cuneiformium",
+      "movements": {
+        "en": "Slight gliding that helps the midfoot adapt and absorb load.",
+        "id": "Gerak meluncur kecil yang membantu kaki tengah menyesuaikan diri dan meredam beban."
+      },
+      "ligaments": ["Ligamenta cuneonavicularia dorsalia", "Ligamenta cuneonavicularia plantaria"]
+    },
+    "quiz": {
+      "type": ["Articulatio plana", "plana", "plana (gliding)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["multiaxial", "multiaksial", "nonaxial", "nonaksial"]
+    },
+    "model": false
+  },
+  {
+    "key": "intertarsal-joints",
+    "kind": "joint",
+    "la": "Articulationes intertarsales",
+    "alt": ["Artt. intertarsales", "Articulationes intertarseae"],
+    "en": "Intertarsal joints",
+    "desc": {
+      "en": "Collective name for the joints between the tarsal bones: the subtalar, talocalcaneonavicular, calcaneocuboid, cuneonavicular, intercuneiform and cuneocuboid joints. Most are plane joints held by strong dorsal, plantar and interosseous ligaments.",
+      "id": "Nama bersama untuk sendi-sendi di antara tulang tarsal: articulatio subtalaris, talocalcaneonavicularis, calcaneocuboidea, cuneonavicularis, intercuneiformis dan cuneocuboidea. Sebagian besar merupakan sendi plana yang diikat ligamen dorsal, plantar dan interoseus yang kuat."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio plana",
+      "axes": "multiaxial",
+      "parts": ["subtalar-joint", "talocalcaneonavicular-joint", "calcaneocuboid-joint", "cuneonavicular-joint", "transverse-tarsal-joint"],
+      "movements": {
+        "en": "Inversion and eversion at the subtalar and transverse tarsal joints, and small gliding at the others, which lets the foot adapt to the ground and absorb shock.",
+        "id": "Inversi dan eversi pada articulatio subtalaris dan articulatio tarsi transversa, serta gerak meluncur kecil pada sendi lainnya, sehingga kaki dapat menyesuaikan diri dengan permukaan tanah dan meredam guncangan."
+      },
+      "ligaments": ["Ligamenta talocalcanea", "Ligamentum bifurcatum", "Ligamentum calcaneonaviculare plantare", "Ligamentum talonaviculare", "Ligamentum plantare longum", "Ligamentum calcaneocuboideum plantare", "Ligamenta cuneonavicularia", "Ligamenta intercuneiformia", "Ligamenta cuneocuboidea", "Ligamenta cuboideonavicularia"],
+      "note": {
+        "en": "The subtalar, talocalcaneonavicular and calcaneocuboid joints have shapes of their own; see their entries.",
+        "id": "Articulatio subtalaris, talocalcaneonavicularis dan calcaneocuboidea memiliki bentuk tersendiri; lihat entri masing-masing."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio plana", "plana", "plana (gliding)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["multiaxial", "multiaksial", "nonaxial", "nonaksial"]
+    }
+  },
+  {
+    "key": "tarsometatarsal-joints",
+    "kind": "joint",
+    "la": "Articulationes tarsometatarsales",
+    "alt": ["Artt. tarsometatarsales", "Articulationes tarsometatarseae", "Articulatio Lisfranc", "Lisfranc"],
+    "en": "Tarsometatarsal joints (Lisfranc joint)",
+    "desc": {
+      "en": "Plane joints between the three cuneiforms and the cuboid behind and the bases of the five metatarsals in front. The base of the second metatarsal is set back between the medial and lateral cuneiforms, which locks the joint line.",
+      "id": "Sendi-sendi plana antara ketiga os cuneiforme dan os cuboideum di belakang dengan basis kelima os metatarsi di depan. Basis os metatarsi II terselip lebih ke belakang di antara os cuneiforme mediale dan laterale sehingga garis sendi ini terkunci."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio plana",
+      "axes": "multiaxial",
+      "surfaces": "Os cuneiforme mediale et basis ossis metatarsi I; ossa cuneiformia et basis ossis metatarsi II; os cuneiforme laterale et basis ossis metatarsi III; os cuboideum et bases ossium metatarsi IV et V",
+      "movements": {
+        "en": "Small gliding; the first joint and the joints of the fourth and fifth metatarsals move most, the second least.",
+        "id": "Gerak meluncur kecil; sendi os metatarsi I serta sendi os metatarsi IV dan V paling banyak bergerak, sendi os metatarsi II paling sedikit."
+      },
+      "ligaments": ["Ligamenta tarsometatarsalia dorsalia", "Ligamenta tarsometatarsalia plantaria", "Ligamenta cuneometatarsalia interossea"],
+      "clinical": {
+        "en": "A Lisfranc injury, often from a twisting fall on a plantarflexed foot, disrupts this joint line and is easily missed on X-ray. It usually involves the Lisfranc ligament between the medial cuneiform and the base of the second metatarsal.",
+        "id": "Cedera Lisfranc, sering akibat jatuh dengan kaki plantarfleksi yang terpuntir, merusak garis sendi ini dan mudah terlewat pada foto Rontgen. Cedera ini biasanya melibatkan ligamentum Lisfranc di antara os cuneiforme mediale dan basis os metatarsi II."
+      },
+      "note": {
+        "en": "There are usually three synovial cavities: a medial one for the first metatarsal, an intermediate one for the second and third (continuous with the cuneonavicular cavity), and a lateral one for the fourth and fifth.",
+        "id": "Biasanya terdapat tiga rongga sinovial: rongga medial untuk os metatarsi I, rongga tengah untuk os metatarsi II dan III (bersambung dengan rongga articulatio cuneonavicularis), dan rongga lateral untuk os metatarsi IV dan V."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio plana", "plana", "plana (gliding)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["multiaxial", "multiaksial", "nonaxial", "nonaksial"]
+    }
+  },
+  {
+    "key": "intermetatarsal-joints",
+    "kind": "joint",
+    "la": "Articulationes intermetatarsales",
+    "alt": ["Artt. intermetatarsales", "Articulationes intermetatarseae"],
+    "en": "Intermetatarsal joints",
+    "desc": {
+      "en": "Small plane joints between the sides of the bases of adjacent metatarsals II to V. The bases of the first and second metatarsals usually have no joint between them.",
+      "id": "Sendi-sendi plana kecil di antara sisi basis os metatarsi II sampai V yang bersebelahan. Basis os metatarsi I dan II biasanya tidak membentuk sendi."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio plana",
+      "axes": "multiaxial",
+      "surfaces": "Facies articulares laterales et mediales basium ossium metatarsi II-V",
+      "movements": {
+        "en": "Slight gliding that lets the forefoot spread under load and adjust the transverse arch.",
+        "id": "Gerak meluncur kecil yang memungkinkan kaki depan melebar saat menerima beban dan menyesuaikan lengkung transversal."
+      },
+      "ligaments": ["Ligamenta metatarsalia dorsalia", "Ligamenta metatarsalia plantaria", "Ligamenta metatarsalia interossea", "Ligamentum metatarsale transversum profundum"],
+      "note": {
+        "en": "Unlike the thumb, the head of the first metatarsal is tied to the second by the deep transverse metatarsal ligament, so the great toe cannot be opposed.",
+        "id": "Berbeda dengan ibu jari tangan, caput os metatarsi I diikat ke os metatarsi II oleh lig. metatarsale transversum profundum, sehingga ibu jari kaki tidak dapat beroposisi."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio plana", "plana", "plana (gliding)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["multiaxial", "multiaksial", "nonaxial", "nonaksial"]
+    }
+  },
+  {
+    "key": "metatarsophalangeal-joints",
+    "kind": "joint",
+    "la": "Articulationes metatarsophalangeae",
+    "alt": ["Artt. metatarsophalangeae", "Articulatio metatarsophalangea"],
+    "en": "Metatarsophalangeal joints",
+    "desc": {
+      "en": "Ellipsoid joints between the rounded heads of the metatarsals and the shallow concave bases of the proximal phalanges, at the ball of the foot.",
+      "id": "Sendi ellipsoidea antara caput os metatarsi yang bulat dan basis phalanx proximalis yang cekung dangkal, terletak di bantalan kaki depan."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio ellipsoidea",
+      "complexity": "Articulatio simplex",
+      "axes": "biaxial",
+      "surfaces": "Capita ossium metatarsi et bases phalangum proximalium pedis",
+      "movements": {
+        "en": "Flexion and extension, with more extension than flexion, which the toes need at push-off in walking; limited abduction and adduction, measured from the axis of the second toe.",
+        "id": "Fleksi dan ekstensi, dengan ekstensi yang lebih luas daripada fleksi, yang diperlukan jari kaki saat menolak tanah ketika berjalan; abduksi dan adduksi terbatas, diukur dari sumbu jari kaki II."
+      },
+      "ligaments": ["Ligamenta collateralia", "Ligamenta plantaria", "Ligamentum metatarsale transversum profundum"],
+      "clinical": {
+        "en": "The first joint is the site of hallux valgus with a bunion, of osteoarthritis (hallux rigidus), and of the classic first attack of gout (podagra).",
+        "id": "Sendi metatarsophalangea I adalah lokasi hallux valgus dengan bunion, osteoartritis (hallux rigidus), dan serangan pertama gout yang khas (podagra)."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio ellipsoidea", "ellipsoidea", "ellipsoidea (condyloid)", "Articulatio condylaris", "condylaris"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["biaxial", "biaksial"]
+    }
+  },
+  {
+    "key": "interphalangeal-joints-of-foot",
+    "kind": "joint",
+    "la": "Articulationes interphalangeae pedis",
+    "alt": ["Artt. interphalangeae pedis", "Articulatio interphalangea pedis"],
+    "en": "Interphalangeal joints of foot",
+    "desc": {
+      "en": "Hinge joints between the head of one phalanx and the base of the next. Toes II to V each have a proximal and a distal joint; the great toe has a single interphalangeal joint.",
+      "id": "Sendi engsel antara caput satu phalanx dan basis phalanx berikutnya. Jari kaki II sampai V masing-masing memiliki sendi proksimal dan distal; ibu jari kaki hanya memiliki satu articulatio interphalangea."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Ginglymus",
+      "complexity": "Articulatio simplex",
+      "axes": "uniaxial",
+      "surfaces": "Trochlea phalangis proximalis vel mediae et basis phalangis sequentis",
+      "movements": {
+        "en": "Flexion and extension only.",
+        "id": "Hanya fleksi dan ekstensi."
+      },
+      "ligaments": ["Ligamenta collateralia", "Ligamenta plantaria"],
+      "clinical": {
+        "en": "Muscle imbalance or tight shoes cause hammer toe (flexed proximal joint), claw toe (flexed proximal and distal joints with an extended metatarsophalangeal joint) and mallet toe (flexed distal joint).",
+        "id": "Ketidakseimbangan otot atau sepatu yang sempit menimbulkan hammer toe (sendi proksimal fleksi), claw toe (sendi proksimal dan distal fleksi dengan sendi metatarsophalangea ekstensi) dan mallet toe (sendi distal fleksi)."
+      }
+    },
+    "quiz": {
+      "type": ["Ginglymus", "ginglymus", "Articulatio ginglymus", "ginglymus (hinge)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["uniaxial", "uniaksial", "monoaxial"]
+    }
+  }
+]

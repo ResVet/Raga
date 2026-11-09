@@ -1,5 +1,5 @@
 // Raga service worker: network-first for the page, cache-first for hashed assets, models and data.
-const VERSION = 'raga-v1';
+const VERSION = 'raga-v2';
 const SCOPE = self.registration.scope;
 
 self.addEventListener('install', (e) => {

@@ -1,0 +1,890 @@
+[
+  {
+    "key": "fascia-lata",
+    "kind": "fascia",
+    "la": "Fascia lata",
+    "alt": ["Fascia lata femoris"],
+    "en": "Fascia lata",
+    "desc": {
+      "en": "Strong deep fascia that wraps the thigh like a stocking. Its lateral part is thickened as the iliotibial tract, and the great saphenous vein passes through an opening in it (hiatus saphenus) just below the inguinal ligament.",
+      "id": "Fascia profunda yang kuat, membungkus paha seperti kaus kaki panjang. Bagian lateralnya menebal menjadi tractus iliotibialis, dan v. saphena magna menembusnya melalui sebuah lubang (hiatus saphenus) tepat di bawah ligamentum inguinale."
+    },
+    "facts": {
+      "location": {"en": "Deep fascia of the thigh and gluteal region", "id": "Fascia profunda paha dan regio glutea"},
+      "attach": {"en": "Above: inguinal ligament, pubis, ischiopubic ramus, ischial tuberosity, sacrotuberous ligament, sacrum, coccyx and iliac crest. Below: the bony prominences around the knee, continuing as the crural fascia.", "id": "Di atas: ligamentum inguinale, os pubis, ramus ischiopubicus, tuber ischiadicum, ligamentum sacrotuberale, sacrum, coccyx dan crista iliaca. Di bawah: tonjolan tulang di sekitar lutut, lalu berlanjut sebagai fascia cruris."},
+      "function": {"en": "Holds the thigh muscles in place and sends intermuscular septa to the linea aspera that separate the compartments of the thigh.", "id": "Menahan otot-otot paha pada tempatnya dan memberikan septa intermuscularia ke linea aspera yang memisahkan kompartemen paha."}
+    }
+  },
+  {
+    "key": "iliotibial-tract",
+    "kind": "fascia",
+    "la": "Tractus iliotibialis",
+    "alt": ["Tractus iliotibialis Maissiati"],
+    "en": "Iliotibial tract",
+    "desc": {
+      "en": "Thick band of the fascia lata along the lateral side of the thigh, running from the iliac tubercle to the anterolateral tubercle of the tibia (Gerdy's tubercle). Tensor fasciae latae and most of gluteus maximus insert into it.",
+      "id": "Pita tebal fascia lata di sisi lateral paha, berjalan dari tuberculum iliacum ke tuberculum tractus iliotibialis pada condylus lateralis tibiae (tuberkel Gerdy). M. tensor fasciae latae dan sebagian besar m. gluteus maximus berinsersio padanya."
+    },
+    "facts": {
+      "location": {"en": "Lateral thigh, from the iliac crest to the lateral condyle of the tibia", "id": "Sisi lateral paha, dari crista iliaca ke condylus lateralis tibiae"},
+      "attach": {"en": "Iliac tubercle of the iliac crest above; anterolateral tubercle of the tibia (tuberculum tractus iliotibialis) below", "id": "Di atas pada tuberculum iliacum cristae iliacae; di bawah pada tuberculum tractus iliotibialis tibiae"},
+      "function": {"en": "Braces the extended knee laterally and steadies the hip; through it gluteus maximus and tensor fasciae latae act on the knee.", "id": "Menopang sisi lateral lutut yang ekstensi dan menstabilkan panggul; melalui pita ini m. gluteus maximus dan m. tensor fasciae latae bekerja pada lutut."},
+      "clinical": {"en": "In runners and cyclists the tract can rub over the lateral femoral epicondyle and cause lateral knee pain (iliotibial band syndrome).", "id": "Pada pelari dan pesepeda, tractus ini dapat bergesekan dengan epicondylus lateralis femoris dan menimbulkan nyeri lutut lateral (sindrom iliotibial band)."}
+    }
+  },
+  {
+    "key": "lateral-femoral-intermuscular-septum",
+    "kind": "fascia",
+    "la": "Septum intermusculare femoris laterale",
+    "alt": ["Septum intermusculare laterale femoris"],
+    "en": "Lateral femoral intermuscular septum",
+    "desc": {
+      "en": "Strong fibrous partition passing from the deep surface of the fascia lata to the lateral lip of the linea aspera. It separates the anterior compartment (vastus lateralis) from the posterior compartment (short head of biceps femoris).",
+      "id": "Sekat fibrosa yang kuat dari permukaan dalam fascia lata ke labium laterale lineae asperae. Sekat ini memisahkan kompartemen anterior (m. vastus lateralis) dari kompartemen posterior (caput breve m. biceps femoris)."
+    },
+    "facts": {
+      "location": {"en": "Lateral thigh, between the anterior and posterior compartments", "id": "Paha lateral, di antara kompartemen anterior dan posterior"},
+      "attach": {"en": "Fascia lata to the lateral lip of the linea aspera and the lateral supracondylar line", "id": "Fascia lata ke labium laterale lineae asperae dan linea supracondylaris lateralis"}
+    }
+  },
+  {
+    "key": "medial-femoral-intermuscular-septum",
+    "kind": "fascia",
+    "la": "Septum intermusculare femoris mediale",
+    "alt": ["Septum intermusculare mediale femoris"],
+    "en": "Medial femoral intermuscular septum",
+    "desc": {
+      "en": "Fibrous partition from the fascia lata to the medial lip of the linea aspera. It separates the anterior compartment (vastus medialis) from the medial compartment of the adductors.",
+      "id": "Sekat fibrosa dari fascia lata ke labium mediale lineae asperae. Sekat ini memisahkan kompartemen anterior (m. vastus medialis) dari kompartemen medial yang berisi otot-otot adduktor."
+    },
+    "facts": {
+      "location": {"en": "Medial thigh, between the anterior and medial compartments", "id": "Paha medial, di antara kompartemen anterior dan medial"},
+      "attach": {"en": "Fascia lata to the medial lip of the linea aspera and the medial supracondylar line", "id": "Fascia lata ke labium mediale lineae asperae dan linea supracondylaris medialis"}
+    }
+  },
+  {
+    "key": "iliopectineal-arch",
+    "kind": "fascia",
+    "la": "Arcus iliopectineus",
+    "alt": [],
+    "en": "Iliopectineal arch",
+    "desc": {
+      "en": "Thickened band of the iliac fascia running from the inguinal ligament back to the iliopubic eminence. It divides the space under the inguinal ligament into the lacuna musculorum laterally (iliopsoas, femoral nerve) and the lacuna vasorum medially (femoral artery and vein, femoral canal).",
+      "id": "Pita fascia iliaca yang menebal, berjalan dari ligamentum inguinale ke belakang menuju eminentia iliopubica. Pita ini membagi ruang di bawah ligamentum inguinale menjadi lacuna musculorum di lateral (m. iliopsoas, n. femoralis) dan lacuna vasorum di medial (a. dan v. femoralis, canalis femoralis)."
+    },
+    "facts": {
+      "location": {"en": "Beneath the inguinal ligament, between the lacuna musculorum and the lacuna vasorum", "id": "Di bawah ligamentum inguinale, di antara lacuna musculorum dan lacuna vasorum"},
+      "attach": {"en": "Inguinal ligament to the iliopubic eminence", "id": "Ligamentum inguinale ke eminentia iliopubica"}
+    }
+  },
+  {
+    "key": "piriformis-fascia",
+    "kind": "fascia",
+    "la": "Fascia musculi piriformis",
+    "alt": ["Fascia m. piriformis"],
+    "en": "Piriformis fascia",
+    "desc": {
+      "en": "Thin layer of the parietal pelvic fascia covering the pelvic surface of piriformis on the posterolateral wall of the lesser pelvis.",
+      "id": "Lapisan tipis fascia pelvis parietalis yang menutupi permukaan pelvis m. piriformis pada dinding posterolateral pelvis minor."
+    },
+    "facts": {
+      "location": {"en": "Pelvic surface of piriformis, posterolateral wall of the lesser pelvis", "id": "Permukaan pelvis m. piriformis, dinding posterolateral pelvis minor"}
+    }
+  },
+  {
+    "key": "popliteal-fascia",
+    "kind": "fascia",
+    "la": "Fascia poplitea",
+    "alt": [],
+    "en": "Popliteal fascia",
+    "desc": {
+      "en": "Tough deep fascia forming the roof of the popliteal fossa, continuous with the fascia lata above and the crural fascia below. The small saphenous vein pierces it to join the popliteal vein.",
+      "id": "Fascia profunda yang kuat sebagai atap fossa poplitea, bersambung dengan fascia lata di atas dan fascia cruris di bawah. V. saphena parva menembusnya untuk bermuara ke v. poplitea."
+    },
+    "facts": {
+      "location": {"en": "Roof of the popliteal fossa", "id": "Atap fossa poplitea"},
+      "clinical": {"en": "Because the fascia is tight, a swelling in the fossa, such as an abscess or a popliteal aneurysm, causes severe pain.", "id": "Karena fascia ini tegang, pembengkakan di dalam fossa, misalnya abses atau aneurisma a. poplitea, menimbulkan nyeri hebat."}
+    }
+  },
+  {
+    "key": "crural-fascia",
+    "kind": "fascia",
+    "la": "Fascia cruris",
+    "alt": [],
+    "en": "Crural fascia",
+    "desc": {
+      "en": "Deep fascia of the leg, fused with the periosteum along the anterior and medial borders of the tibia. With the intermuscular septa and the interosseous membrane it closes the leg into anterior, lateral and posterior compartments.",
+      "id": "Fascia profunda tungkai bawah yang menyatu dengan periosteum di sepanjang margo anterior dan margo medialis tibiae. Bersama septa intermuscularia dan membrana interossea, fascia ini membagi tungkai bawah menjadi kompartemen anterior, lateral dan posterior."
+    },
+    "facts": {
+      "location": {"en": "Deep fascia of the leg", "id": "Fascia profunda tungkai bawah"},
+      "attach": {"en": "Anterior and medial borders of the tibia; continuous with the popliteal fascia above and with the retinacula at the ankle", "id": "Margo anterior dan margo medialis tibiae; bersambung dengan fascia poplitea di atas dan dengan retinacula di pergelangan kaki"},
+      "clinical": {"en": "The compartments cannot expand, so bleeding or swelling after a tibial fracture can raise the pressure enough to cut off the blood supply of the muscles (compartment syndrome), which needs urgent fasciotomy.", "id": "Kompartemen tidak dapat mengembang, sehingga perdarahan atau pembengkakan setelah fraktur tibia dapat meningkatkan tekanan hingga menghentikan aliran darah ke otot (sindrom kompartemen), yang memerlukan fasiotomi segera."}
+    }
+  },
+  {
+    "key": "anterior-intermuscular-septum-of-leg",
+    "kind": "fascia",
+    "la": "Septum intermusculare cruris anterius",
+    "alt": ["Septum intermusculare anterius cruris"],
+    "en": "Anterior intermuscular septum of leg",
+    "desc": {
+      "en": "Septum from the crural fascia to the anterior border of the fibula, separating the anterior compartment of the leg from the lateral compartment.",
+      "id": "Sekat dari fascia cruris ke margo anterior fibulae yang memisahkan kompartemen anterior tungkai bawah dari kompartemen lateral."
+    },
+    "facts": {
+      "location": {"en": "Leg, between the anterior and lateral compartments", "id": "Tungkai bawah, di antara kompartemen anterior dan lateral"},
+      "attach": {"en": "Crural fascia to the anterior border of the fibula", "id": "Fascia cruris ke margo anterior fibulae"}
+    }
+  },
+  {
+    "key": "posterior-intermuscular-septum-of-leg",
+    "kind": "fascia",
+    "la": "Septum intermusculare cruris posterius",
+    "alt": ["Septum intermusculare posterius cruris"],
+    "en": "Posterior intermuscular septum of leg",
+    "desc": {
+      "en": "Septum from the crural fascia to the posterior border of the fibula, separating the lateral compartment of the leg from the posterior compartment.",
+      "id": "Sekat dari fascia cruris ke margo posterior fibulae yang memisahkan kompartemen lateral tungkai bawah dari kompartemen posterior."
+    },
+    "facts": {
+      "location": {"en": "Leg, between the lateral and posterior compartments", "id": "Tungkai bawah, di antara kompartemen lateral dan posterior"},
+      "attach": {"en": "Crural fascia to the posterior border of the fibula", "id": "Fascia cruris ke margo posterior fibulae"}
+    }
+  },
+  {
+    "key": "transverse-intermuscular-septum-of-leg",
+    "kind": "fascia",
+    "verify": true,
+    "la": "Septum intermusculare cruris transversum",
+    "alt": ["Septum intermusculare transversum cruris", "Lamina profunda fasciae cruris"],
+    "en": "Transverse intermuscular septum of leg",
+    "desc": {
+      "en": "Deep layer of the crural fascia stretched between the medial border of the tibia and the posterior border of the fibula. It separates the superficial posterior compartment (gastrocnemius, soleus, plantaris) from the deep one (popliteus, flexor digitorum longus, flexor hallucis longus, tibialis posterior).",
+      "id": "Lapisan dalam fascia cruris yang terbentang antara margo medialis tibiae dan margo posterior fibulae. Sekat ini memisahkan kompartemen posterior superfisial (m. gastrocnemius, m. soleus, m. plantaris) dari kompartemen posterior profunda (m. popliteus, m. flexor digitorum longus, m. flexor hallucis longus, m. tibialis posterior)."
+    },
+    "facts": {
+      "location": {"en": "Back of the leg, between the superficial and deep posterior compartments", "id": "Bagian belakang tungkai bawah, di antara kompartemen posterior superfisial dan profunda"},
+      "attach": {"en": "Medial border of the tibia to the posterior border of the fibula", "id": "Margo medialis tibiae ke margo posterior fibulae"}
+    }
+  },
+  {
+    "key": "superior-extensor-retinaculum-of-ankle",
+    "kind": "fascia",
+    "la": "Retinaculum musculorum extensorum superius",
+    "alt": ["Retinaculum mm. extensorum superius", "Retinaculum extensorium superius", "Retinaculum extensorium superius tali", "Ligamentum transversum cruris"],
+    "en": "Superior extensor retinaculum",
+    "desc": {
+      "en": "Broad band of thickened crural fascia passing between the anterior borders of the tibia and fibula just above the ankle. It holds the anterior compartment tendons against the bones so they do not bowstring when the foot is dorsiflexed.",
+      "id": "Pita lebar dari fascia cruris yang menebal, terbentang antara margo anterior tibiae dan margo anterior fibulae tepat di atas pergelangan kaki. Retinaculum ini menahan tendo-tendo kompartemen anterior tetap menempel pada tulang sehingga tidak terangkat seperti tali busur saat kaki didorsifleksikan."
+    },
+    "facts": {
+      "location": {"en": "Front of the lower leg, just above the ankle", "id": "Depan tungkai bawah, tepat di atas pergelangan kaki"},
+      "attach": {"en": "Anterior border of the tibia to the anterior border of the fibula, above the malleoli", "id": "Margo anterior tibiae ke margo anterior fibulae, di atas kedua malleolus"}
+    }
+  },
+  {
+    "key": "inferior-extensor-retinaculum-of-ankle",
+    "kind": "fascia",
+    "la": "Retinaculum musculorum extensorum inferius",
+    "alt": ["Retinaculum mm. extensorum inferius", "Retinaculum extensorium inferius", "Retinaculum extensorium inferius tali", "Ligamentum cruciatum cruris"],
+    "en": "Inferior extensor retinaculum",
+    "desc": {
+      "en": "Y-shaped band in front of the ankle. Its stem is attached to the upper surface of the calcaneus, the upper limb runs to the medial malleolus and the lower limb to the plantar aponeurosis. The anterior compartment tendons pass beneath it in synovial sheaths.",
+      "id": "Pita berbentuk huruf Y di depan pergelangan kaki. Pangkalnya melekat pada permukaan atas calcaneus, cabang atasnya menuju malleolus medialis dan cabang bawahnya ke aponeurosis plantaris. Tendo-tendo kompartemen anterior berjalan di bawahnya dalam selubung sinovial."
+    },
+    "facts": {
+      "location": {"en": "Front of the ankle and dorsum of the foot", "id": "Depan pergelangan kaki dan punggung kaki"},
+      "attach": {"en": "Stem: upper surface of the calcaneus. Upper limb: medial malleolus. Lower limb: plantar aponeurosis on the medial side of the foot.", "id": "Pangkal: permukaan atas calcaneus. Cabang atas: malleolus medialis. Cabang bawah: aponeurosis plantaris di sisi medial kaki."}
+    }
+  },
+  {
+    "key": "flexor-retinaculum-of-ankle",
+    "kind": "fascia",
+    "la": "Retinaculum musculorum flexorum",
+    "alt": ["Retinaculum musculorum flexorum pedis", "Retinaculum mm. flexorum", "Retinaculum flexorium tali", "Ligamentum laciniatum"],
+    "en": "Flexor retinaculum of ankle",
+    "desc": {
+      "en": "Band of deep fascia stretched from the medial malleolus to the medial process of the calcaneal tuberosity, forming the roof of the tarsal tunnel. Beneath it, from front to back, pass the tibialis posterior and flexor digitorum longus tendons, the posterior tibial vessels, the tibial nerve and the flexor hallucis longus tendon.",
+      "id": "Pita fascia profunda yang terbentang dari malleolus medialis ke processus medialis tuberis calcanei dan membentuk atap terowongan tarsal. Di bawahnya, dari depan ke belakang, berjalan tendo m. tibialis posterior dan m. flexor digitorum longus, vasa tibialis posterior, n. tibialis dan tendo m. flexor hallucis longus."
+    },
+    "facts": {
+      "location": {"en": "Medial side of the ankle, behind the medial malleolus", "id": "Sisi medial pergelangan kaki, di belakang malleolus medialis"},
+      "attach": {"en": "Medial malleolus to the medial process of the calcaneal tuberosity", "id": "Malleolus medialis ke processus medialis tuberis calcanei"},
+      "clinical": {"en": "Compression of the tibial nerve or its plantar branches under the retinaculum causes burning pain and numbness in the sole (tarsal tunnel syndrome).", "id": "Penekanan n. tibialis atau cabang-cabang plantarnya di bawah retinaculum ini menimbulkan nyeri seperti terbakar dan baal di telapak kaki (sindrom terowongan tarsal)."}
+    }
+  },
+  {
+    "key": "superior-fibular-retinaculum",
+    "kind": "fascia",
+    "la": "Retinaculum musculorum fibularium superius",
+    "alt": ["Retinaculum musculorum peroneorum superius", "Retinaculum mm. fibularium superius", "Retinaculum fibulare superius"],
+    "en": "Superior fibular retinaculum",
+    "desc": {
+      "en": "Short band from the back of the lateral malleolus to the lateral surface of the calcaneus. It holds the fibularis longus and brevis tendons in their groove behind the malleolus.",
+      "id": "Pita pendek dari bagian belakang malleolus lateralis ke permukaan lateral calcaneus. Retinaculum ini menahan tendo m. fibularis longus dan brevis di dalam sulcus di belakang malleolus."
+    },
+    "facts": {
+      "location": {"en": "Lateral side of the ankle, behind the lateral malleolus", "id": "Sisi lateral pergelangan kaki, di belakang malleolus lateralis"},
+      "attach": {"en": "Lateral malleolus to the lateral surface of the calcaneus", "id": "Malleolus lateralis ke permukaan lateral calcaneus"},
+      "clinical": {"en": "If it tears in an ankle sprain, the fibular tendons can slip forward over the malleolus with a painful snap.", "id": "Bila robek pada cedera pergelangan kaki, tendo-tendo fibularis dapat tergelincir ke depan melewati malleolus disertai bunyi dan nyeri."}
+    }
+  },
+  {
+    "key": "inferior-fibular-retinaculum",
+    "kind": "fascia",
+    "la": "Retinaculum musculorum fibularium inferius",
+    "alt": ["Retinaculum musculorum peroneorum inferius", "Retinaculum mm. fibularium inferius", "Retinaculum fibulare inferius"],
+    "en": "Inferior fibular retinaculum",
+    "desc": {
+      "en": "Band on the lateral side of the calcaneus, continuous with the inferior extensor retinaculum. A septum from it to the fibular trochlea separates the fibularis brevis tendon above from the fibularis longus tendon below.",
+      "id": "Pita di sisi lateral calcaneus yang bersambung dengan retinaculum musculorum extensorum inferius. Sekat dari retinaculum ini ke trochlea fibularis memisahkan tendo m. fibularis brevis di atas dari tendo m. fibularis longus di bawah."
+    },
+    "facts": {
+      "location": {"en": "Lateral surface of the calcaneus", "id": "Permukaan lateral calcaneus"},
+      "attach": {"en": "Lateral surface of the calcaneus, with a septum to the fibular trochlea", "id": "Permukaan lateral calcaneus, dengan sekat ke trochlea fibularis"}
+    }
+  },
+  {
+    "key": "plantar-aponeurosis",
+    "kind": "fascia",
+    "la": "Aponeurosis plantaris",
+    "alt": ["Fascia plantaris"],
+    "en": "Plantar aponeurosis",
+    "desc": {
+      "en": "Thick central part of the deep fascia of the sole, running forward from the medial process of the calcaneal tuberosity and splitting into five bands for the toes. Dorsiflexing the toes tightens it and raises the longitudinal arch (windlass mechanism).",
+      "id": "Bagian tengah fascia profunda telapak kaki yang tebal, berjalan ke depan dari processus medialis tuberis calcanei lalu terbagi menjadi lima pita menuju jari-jari kaki. Dorsifleksi jari-jari menegangkan aponeurosis ini dan menaikkan arcus longitudinalis (mekanisme windlass)."
+    },
+    "facts": {
+      "location": {"en": "Sole of the foot, directly under the skin and fat pad, over the first layer of muscles", "id": "Telapak kaki, tepat di bawah kulit dan bantalan lemak, menutupi otot lapisan pertama"},
+      "attach": {"en": "Medial process of the calcaneal tuberosity behind; fibrous digital sheaths and plantar ligaments of the metatarsophalangeal joints in front", "id": "Di belakang pada processus medialis tuberis calcanei; di depan pada vagina fibrosa digitorum dan ligamenta plantaria sendi metatarsophalangea"},
+      "function": {"en": "Holds the parts of the foot together, protects the deeper plantar structures and supports the longitudinal arch.", "id": "Menyatukan bagian-bagian kaki, melindungi struktur plantar yang lebih dalam dan menopang arcus longitudinalis."},
+      "clinical": {"en": "Inflammation at its calcaneal attachment (plantar fasciitis) causes heel pain that is worst with the first steps in the morning.", "id": "Peradangan pada perlekatannya di calcaneus (plantar fasciitis) menimbulkan nyeri tumit yang paling berat pada langkah pertama di pagi hari."}
+    }
+  },
+  {
+    "key": "superficial-transverse-metatarsal-ligament",
+    "kind": "fascia",
+    "la": "Ligamentum metatarsale transversum superficiale",
+    "alt": ["Ligamentum metatarseum transversum superficiale", "Lig. metatarsale transversum superficiale"],
+    "en": "Superficial transverse metatarsal ligament",
+    "desc": {
+      "en": "Transverse fibers of the plantar aponeurosis in the subcutaneous tissue at the level of the metatarsal heads and the bases of the toes, binding the digital bands of the aponeurosis together.",
+      "id": "Serabut melintang aponeurosis plantaris di jaringan subkutan setinggi caput ossa metatarsi dan pangkal jari-jari kaki, yang mengikat pita-pita digital aponeurosis tersebut."
+    },
+    "facts": {
+      "location": {"en": "Sole, at the level of the metatarsal heads and the bases of the toes", "id": "Telapak kaki, setinggi caput ossa metatarsi dan pangkal jari"}
+    }
+  },
+  {
+    "key": "medial-patellar-retinaculum",
+    "kind": "ligament",
+    "la": "Retinaculum patellae mediale",
+    "alt": ["Retinaculum mediale patellae"],
+    "en": "Medial patellar retinaculum",
+    "desc": {
+      "en": "Fibrous expansion of the vastus medialis aponeurosis and the fascia lata on the medial side of the patella. It runs from the patella and patellar ligament to the medial condyle of the tibia and strengthens the front of the knee joint capsule.",
+      "id": "Perluasan fibrosa dari aponeurosis m. vastus medialis dan fascia lata di sisi medial patella. Retinaculum ini berjalan dari patella dan ligamentum patellae ke condylus medialis tibiae dan memperkuat bagian depan capsula sendi lutut."
+    },
+    "facts": {
+      "joint": "knee-joint",
+      "attach": {"en": "Medial border of the patella and patellar ligament to the anterior surface of the medial tibial condyle", "id": "Tepi medial patella dan ligamentum patellae ke permukaan anterior condylus medialis tibiae"},
+      "function": {"en": "Reinforces the anteromedial capsule and helps keep the patella from sliding laterally.", "id": "Memperkuat capsula sendi bagian anteromedial dan membantu mencegah patella bergeser ke lateral."}
+    }
+  },
+  {
+    "key": "lateral-patellar-retinaculum",
+    "kind": "ligament",
+    "la": "Retinaculum patellae laterale",
+    "alt": ["Retinaculum laterale patellae"],
+    "en": "Lateral patellar retinaculum",
+    "desc": {
+      "en": "Fibrous expansion of the vastus lateralis aponeurosis and the iliotibial tract on the lateral side of the patella, running to the lateral condyle of the tibia. It strengthens the anterolateral part of the knee joint capsule.",
+      "id": "Perluasan fibrosa dari aponeurosis m. vastus lateralis dan tractus iliotibialis di sisi lateral patella, berjalan ke condylus lateralis tibiae. Retinaculum ini memperkuat bagian anterolateral capsula sendi lutut."
+    },
+    "facts": {
+      "joint": "knee-joint",
+      "attach": {"en": "Lateral border of the patella and patellar ligament to the lateral tibial condyle, blending with the iliotibial tract", "id": "Tepi lateral patella dan ligamentum patellae ke condylus lateralis tibiae, menyatu dengan tractus iliotibialis"},
+      "function": {"en": "Reinforces the anterolateral capsule; when too tight it can pull the patella laterally.", "id": "Memperkuat capsula sendi bagian anterolateral; bila terlalu tegang dapat menarik patella ke lateral."}
+    }
+  },
+  {
+    "key": "bursae-of-lower-limb",
+    "kind": "bursa",
+    "la": "Bursae membri inferioris",
+    "alt": ["Bursae synoviales membri inferioris"],
+    "en": "Bursae of lower limb",
+    "desc": {
+      "en": "Synovial sacs of the lower limb lying where tendons, muscles or skin move over bone or over each other. The largest groups surround the greater trochanter, the knee and the heel, and some around the knee open into the joint cavity.",
+      "id": "Kantong sinovial pada ekstremitas inferior yang terletak di tempat tendo, otot atau kulit bergerak di atas tulang atau di atas satu sama lain. Kelompok terbesar berada di sekitar trochanter major, lutut dan tumit, dan sebagian bursa di sekitar lutut berhubungan dengan rongga sendi."
+    },
+    "facts": {
+      "parts": ["subcutaneous-trochanteric-bursa", "trochanteric-bursa-of-gluteus-maximus-muscle", "trochanteric-bursa-of-gluteus-medius-muscle", "trochanteric-bursa-of-gluteus-minimus-muscle", "bursa-of-piriformis-muscle", "sciatic-bursa-of-obturator-internus", "subtendinous-bursa-of-obturator-internus", "intermuscular-gluteal-bursae", "sciatic-bursa-of-gluteus-maximus-muscle", "iliopectineal-bursa", "subtendinous-bursa-of-iliacus-muscle", "superior-bursa-of-biceps-femoris-muscle", "subcutaneous-prepatellar-bursa", "subfacial-prepatellar-bursa", "subtendinous-prepatellar-bursa", "suprapatellar-bursa", "subcutaneous-infrapatellar-bursa", "deep-infrapatellar-bursa", "subcutaneous-bursa-of-tuberosity-of-tibia", "subtendinous-bursa-of-sartorius-muscle", "anserine-bursa", "inferior-subtendinous-bursa-of-biceps-femoris-muscle", "lateral-subtendinous-bursa-of-gastrocnemius-muscle", "medial-subtendinous-bursa-of-gastrocnemius-muscle", "semimembranosus-bursa", "subcutaneous-bursa-of-lateral-malleolus", "subcutaneous-bursa-of-medial-malleolus", "subtendinous-bursa-of-tibialis-anterior", "subcutaneous-calcaneal-bursa", "subtendinous-calcaneal-bursa"]
+    }
+  },
+  {
+    "key": "subcutaneous-trochanteric-bursa",
+    "kind": "bursa",
+    "la": "Bursa subcutanea trochanterica",
+    "alt": [],
+    "en": "Subcutaneous trochanteric bursa",
+    "desc": {
+      "en": "Bursa between the skin and the lateral surface of the greater trochanter.",
+      "id": "Bursa di antara kulit dan permukaan lateral trochanter major."
+    },
+    "facts": {"location": {"en": "Under the skin over the greater trochanter", "id": "Di bawah kulit di atas trochanter major"}}
+  },
+  {
+    "key": "trochanteric-bursa-of-gluteus-maximus-muscle",
+    "kind": "bursa",
+    "la": "Bursa trochanterica musculi glutei maximi",
+    "alt": ["Bursa trochanterica m. glutei maximi"],
+    "en": "Trochanteric bursa of gluteus maximus",
+    "desc": {
+      "en": "Large bursa between the fibers of gluteus maximus that pass into the iliotibial tract and the greater trochanter, letting the muscle glide over the bony prominence.",
+      "id": "Bursa besar di antara serabut m. gluteus maximus yang menuju tractus iliotibialis dan trochanter major, sehingga otot dapat meluncur di atas tonjolan tulang tersebut."
+    },
+    "facts": {
+      "location": {"en": "Between gluteus maximus and the greater trochanter", "id": "Di antara m. gluteus maximus dan trochanter major"},
+      "clinical": {"en": "Inflammation of this bursa (trochanteric bursitis) causes pain and point tenderness over the lateral hip that spreads down the thigh.", "id": "Peradangan bursa ini (bursitis trochanterica) menimbulkan nyeri dan nyeri tekan di sisi lateral panggul yang menjalar ke paha."}
+    }
+  },
+  {
+    "key": "trochanteric-bursa-of-gluteus-medius-muscle",
+    "kind": "bursa",
+    "la": "Bursae trochantericae musculi glutei medii",
+    "alt": ["Bursa trochanterica musculi glutei medii", "Bursae trochantericae m. glutei medii"],
+    "en": "Trochanteric bursae of gluteus medius",
+    "desc": {
+      "en": "Small bursae between the tendon of gluteus medius and the lateral surface of the greater trochanter.",
+      "id": "Bursa-bursa kecil di antara tendo m. gluteus medius dan permukaan lateral trochanter major."
+    },
+    "facts": {"location": {"en": "Between the gluteus medius tendon and the greater trochanter", "id": "Di antara tendo m. gluteus medius dan trochanter major"}}
+  },
+  {
+    "key": "trochanteric-bursa-of-gluteus-minimus-muscle",
+    "kind": "bursa",
+    "la": "Bursa trochanterica musculi glutei minimi",
+    "alt": ["Bursa trochanterica m. glutei minimi"],
+    "en": "Trochanteric bursa of gluteus minimus",
+    "desc": {
+      "en": "Bursa between the tendon of gluteus minimus and the anterior surface of the greater trochanter.",
+      "id": "Bursa di antara tendo m. gluteus minimus dan permukaan anterior trochanter major."
+    },
+    "facts": {"location": {"en": "Between the gluteus minimus tendon and the front of the greater trochanter", "id": "Di antara tendo m. gluteus minimus dan bagian depan trochanter major"}}
+  },
+  {
+    "key": "bursa-of-piriformis-muscle",
+    "kind": "bursa",
+    "la": "Bursa musculi piriformis",
+    "alt": ["Bursa m. piriformis"],
+    "en": "Bursa of piriformis",
+    "desc": {
+      "en": "Small bursa under the piriformis tendon close to its insertion on the upper border of the greater trochanter.",
+      "id": "Bursa kecil di bawah tendo m. piriformis dekat insersionya pada tepi atas trochanter major."
+    },
+    "facts": {"location": {"en": "Under the piriformis tendon at the greater trochanter", "id": "Di bawah tendo m. piriformis pada trochanter major"}}
+  },
+  {
+    "key": "sciatic-bursa-of-obturator-internus",
+    "kind": "bursa",
+    "la": "Bursa ischiadica musculi obturatorii interni",
+    "alt": ["Bursa ischiadica m. obturatorii interni", "Bursa ischiadica obturatoris interni"],
+    "en": "Sciatic bursa of obturator internus",
+    "desc": {
+      "en": "Bursa between the obturator internus tendon and the cartilage-covered lesser sciatic notch, where the tendon turns around the bone.",
+      "id": "Bursa di antara tendo m. obturatorius internus dan incisura ischiadica minor yang dilapisi tulang rawan, tempat tendo itu membelok mengelilingi tulang."
+    },
+    "facts": {"location": {"en": "At the lesser sciatic notch, under the obturator internus tendon", "id": "Pada incisura ischiadica minor, di bawah tendo m. obturatorius internus"}}
+  },
+  {
+    "key": "subtendinous-bursa-of-obturator-internus",
+    "kind": "bursa",
+    "la": "Bursa subtendinea musculi obturatorii interni",
+    "alt": ["Bursa subtendinea m. obturatorii interni", "Bursa subtendinea obturatoris interni"],
+    "en": "Subtendinous bursa of obturator internus",
+    "desc": {
+      "en": "Bursa between the obturator internus tendon and the capsule of the hip joint, near the insertion of the tendon.",
+      "id": "Bursa di antara tendo m. obturatorius internus dan capsula sendi panggul, dekat insersio tendo tersebut."
+    },
+    "facts": {"location": {"en": "Between the obturator internus tendon and the hip joint capsule", "id": "Di antara tendo m. obturatorius internus dan capsula sendi panggul"}}
+  },
+  {
+    "key": "intermuscular-gluteal-bursae",
+    "kind": "bursa",
+    "la": "Bursae intermusculares musculorum gluteorum",
+    "alt": ["Bursae intermusculares gluteae"],
+    "en": "Intermuscular gluteal bursae",
+    "desc": {
+      "en": "Two or three small bursae between the tendon of gluteus maximus and the origin of vastus lateralis near the gluteal tuberosity.",
+      "id": "Dua atau tiga bursa kecil di antara tendo m. gluteus maximus dan origo m. vastus lateralis di dekat tuberositas glutea."
+    },
+    "facts": {"location": {"en": "Near the gluteal tuberosity, between gluteus maximus and vastus lateralis", "id": "Di dekat tuberositas glutea, di antara m. gluteus maximus dan m. vastus lateralis"}}
+  },
+  {
+    "key": "sciatic-bursa-of-gluteus-maximus-muscle",
+    "kind": "bursa",
+    "la": "Bursa ischiadica musculi glutei maximi",
+    "alt": ["Bursa ischiadica m. glutei maximi"],
+    "en": "Sciatic bursa of gluteus maximus",
+    "desc": {
+      "en": "Bursa between the lower part of gluteus maximus and the ischial tuberosity. In sitting the muscle slides off the tuberosity, which then rests on this bursa and the skin.",
+      "id": "Bursa di antara bagian bawah m. gluteus maximus dan tuber ischiadicum. Saat duduk, otot ini bergeser dari tuber ischiadicum sehingga tuber bertumpu pada bursa ini dan kulit."
+    },
+    "facts": {
+      "location": {"en": "Over the ischial tuberosity, under gluteus maximus", "id": "Di atas tuber ischiadicum, di bawah m. gluteus maximus"},
+      "clinical": {"en": "Repeated pressure from long sitting on hard seats can inflame it (ischial bursitis, 'weaver's bottom').", "id": "Tekanan berulang akibat duduk lama di kursi keras dapat menimbulkan peradangan bursa ini (bursitis ischiadica, 'weaver's bottom')."}
+    }
+  },
+  {
+    "key": "iliopectineal-bursa",
+    "kind": "bursa",
+    "la": "Bursa iliopectinea",
+    "alt": [],
+    "en": "Iliopectineal bursa",
+    "desc": {
+      "en": "Large bursa between the iliopsoas tendon and the iliopubic eminence and hip joint capsule. It often communicates with the hip joint cavity.",
+      "id": "Bursa besar di antara tendo m. iliopsoas dengan eminentia iliopubica dan capsula sendi panggul. Bursa ini sering berhubungan dengan rongga sendi panggul."
+    },
+    "facts": {"location": {"en": "Behind the iliopsoas tendon, in front of the hip joint", "id": "Di belakang tendo m. iliopsoas, di depan sendi panggul"}}
+  },
+  {
+    "key": "subtendinous-bursa-of-iliacus-muscle",
+    "kind": "bursa",
+    "la": "Bursa subtendinea iliaca",
+    "alt": ["Bursa subtendinea musculi iliaci"],
+    "en": "Subtendinous bursa of iliacus",
+    "desc": {
+      "en": "Bursa between the iliopsoas tendon and the lesser trochanter, at the insertion of the tendon.",
+      "id": "Bursa di antara tendo m. iliopsoas dan trochanter minor, pada tempat insersio tendo tersebut."
+    },
+    "facts": {"location": {"en": "At the lesser trochanter, under the iliopsoas tendon", "id": "Pada trochanter minor, di bawah tendo m. iliopsoas"}}
+  },
+  {
+    "key": "superior-bursa-of-biceps-femoris-muscle",
+    "kind": "bursa",
+    "la": "Bursa musculi bicipitis femoris superior",
+    "alt": ["Bursa superior musculi bicipitis femoris", "Bursa m. bicipitis femoris superior"],
+    "en": "Superior bursa of biceps femoris",
+    "desc": {
+      "en": "Bursa near the ischial tuberosity, between the tendon of origin of the long head of biceps femoris and the semimembranosus tendon.",
+      "id": "Bursa di dekat tuber ischiadicum, di antara tendo origo caput longum m. biceps femoris dan tendo m. semimembranosus."
+    },
+    "facts": {"location": {"en": "At the origin of the hamstrings on the ischial tuberosity", "id": "Pada origo otot hamstring di tuber ischiadicum"}}
+  },
+  {
+    "key": "subcutaneous-prepatellar-bursa",
+    "kind": "bursa",
+    "la": "Bursa subcutanea prepatellaris",
+    "alt": ["Bursa subcutanea praepatellaris", "Bursa prepatellaris"],
+    "en": "Subcutaneous prepatellar bursa",
+    "desc": {
+      "en": "Bursa between the skin and the front of the patella, allowing the skin to move freely over the kneecap.",
+      "id": "Bursa di antara kulit dan permukaan depan patella, sehingga kulit dapat bergerak bebas di atas tempurung lutut."
+    },
+    "facts": {
+      "location": {"en": "Under the skin in front of the patella", "id": "Di bawah kulit di depan patella"},
+      "clinical": {"en": "Repeated kneeling inflames it (prepatellar bursitis, 'housemaid's knee'), producing a soft swelling over the patella.", "id": "Berlutut berulang kali dapat menimbulkan peradangan bursa ini (bursitis prepatellaris, 'housemaid's knee'), berupa pembengkakan lunak di atas patella."}
+    }
+  },
+  {
+    "key": "subfacial-prepatellar-bursa",
+    "kind": "bursa",
+    "la": "Bursa subfascialis prepatellaris",
+    "alt": ["Bursa subfascialis praepatellaris"],
+    "en": "Subfascial prepatellar bursa",
+    "desc": {
+      "en": "Bursa in front of the patella lying under the fascia lata, between the deep fascia and the expansion of the quadriceps tendon.",
+      "id": "Bursa di depan patella yang terletak di bawah fascia lata, di antara fascia profunda dan perluasan tendo m. quadriceps."
+    },
+    "facts": {"location": {"en": "In front of the patella, deep to the fascia lata", "id": "Di depan patella, di bawah fascia lata"}}
+  },
+  {
+    "key": "subtendinous-prepatellar-bursa",
+    "kind": "bursa",
+    "la": "Bursa subtendinea prepatellaris",
+    "alt": ["Bursa subtendinea praepatellaris"],
+    "en": "Subtendinous prepatellar bursa",
+    "desc": {
+      "en": "Deepest of the prepatellar bursae, lying between the expansion of the quadriceps tendon and the anterior surface of the patella.",
+      "id": "Bursa prepatellaris yang paling dalam, terletak di antara perluasan tendo m. quadriceps dan permukaan anterior patella."
+    },
+    "facts": {"location": {"en": "On the anterior surface of the patella, under the quadriceps tendon", "id": "Pada permukaan anterior patella, di bawah tendo m. quadriceps"}}
+  },
+  {
+    "key": "suprapatellar-bursa",
+    "kind": "bursa",
+    "la": "Bursa suprapatellaris",
+    "alt": ["Recessus suprapatellaris"],
+    "en": "Suprapatellar bursa",
+    "desc": {
+      "en": "Large bursa between the quadriceps tendon and the lower femur, reaching several centimetres above the patella. It normally opens freely into the knee joint cavity, and articularis genus pulls it up during extension.",
+      "id": "Bursa besar di antara tendo m. quadriceps dan bagian bawah femur, meluas beberapa sentimeter di atas patella. Normalnya bursa ini berhubungan bebas dengan rongga sendi lutut, dan m. articularis genus menariknya ke atas saat ekstensi."
+    },
+    "facts": {
+      "location": {"en": "Above the patella, between the quadriceps tendon and the femur", "id": "Di atas patella, di antara tendo m. quadriceps dan femur"},
+      "clinical": {"en": "Because it is part of the joint cavity, a knee effusion fills it, and a wound above the patella can infect the joint.", "id": "Karena merupakan bagian rongga sendi, efusi lutut akan mengisinya, dan luka di atas patella dapat menyebabkan infeksi sendi."}
+    }
+  },
+  {
+    "key": "subcutaneous-infrapatellar-bursa",
+    "kind": "bursa",
+    "la": "Bursa subcutanea infrapatellaris",
+    "alt": ["Bursa infrapatellaris subcutanea"],
+    "en": "Subcutaneous infrapatellar bursa",
+    "desc": {
+      "en": "Bursa between the skin and the patellar ligament.",
+      "id": "Bursa di antara kulit dan ligamentum patellae."
+    },
+    "facts": {
+      "location": {"en": "Under the skin in front of the patellar ligament", "id": "Di bawah kulit di depan ligamentum patellae"},
+      "clinical": {"en": "Kneeling with the trunk upright inflames it (infrapatellar bursitis, 'clergyman's knee').", "id": "Berlutut dengan badan tegak dapat menimbulkan peradangan bursa ini (bursitis infrapatellaris, 'clergyman's knee')."}
+    }
+  },
+  {
+    "key": "deep-infrapatellar-bursa",
+    "kind": "bursa",
+    "la": "Bursa infrapatellaris profunda",
+    "alt": [],
+    "en": "Deep infrapatellar bursa",
+    "desc": {
+      "en": "Bursa between the patellar ligament and the front of the tibia above the tuberosity, separated from the knee joint by the infrapatellar fat pad.",
+      "id": "Bursa di antara ligamentum patellae dan permukaan depan tibia di atas tuberositas, dipisahkan dari sendi lutut oleh corpus adiposum infrapatellare."
+    },
+    "facts": {"location": {"en": "Behind the lower patellar ligament, in front of the upper tibia", "id": "Di belakang bagian bawah ligamentum patellae, di depan bagian atas tibia"}}
+  },
+  {
+    "key": "subcutaneous-bursa-of-tuberosity-of-tibia",
+    "kind": "bursa",
+    "la": "Bursa subcutanea tuberositatis tibiae",
+    "alt": [],
+    "en": "Subcutaneous bursa of tibial tuberosity",
+    "desc": {
+      "en": "Bursa between the skin and the tibial tuberosity.",
+      "id": "Bursa di antara kulit dan tuberositas tibiae."
+    },
+    "facts": {"location": {"en": "Under the skin over the tibial tuberosity", "id": "Di bawah kulit di atas tuberositas tibiae"}}
+  },
+  {
+    "key": "subtendinous-bursa-of-sartorius-muscle",
+    "kind": "bursa",
+    "la": "Bursae subtendineae musculi sartorii",
+    "alt": ["Bursa subtendinea musculi sartorii", "Bursa subtendinea m. sartorii"],
+    "en": "Subtendinous bursa of sartorius",
+    "desc": {
+      "en": "Bursa between the tendon of sartorius and the tendons of gracilis and semitendinosus at the pes anserinus.",
+      "id": "Bursa di antara tendo m. sartorius dan tendo m. gracilis serta m. semitendinosus pada pes anserinus."
+    },
+    "facts": {"location": {"en": "Pes anserinus, under the sartorius tendon", "id": "Pes anserinus, di bawah tendo m. sartorius"}}
+  },
+  {
+    "key": "anserine-bursa",
+    "kind": "bursa",
+    "la": "Bursa anserina",
+    "alt": [],
+    "en": "Anserine bursa",
+    "desc": {
+      "en": "Bursa between the pes anserinus tendons (sartorius, gracilis, semitendinosus) and the tibial collateral ligament on the upper medial tibia.",
+      "id": "Bursa di antara tendo-tendo pes anserinus (m. sartorius, m. gracilis, m. semitendinosus) dan ligamentum collaterale tibiale pada bagian atas sisi medial tibia."
+    },
+    "facts": {
+      "location": {"en": "Upper medial tibia, deep to the pes anserinus", "id": "Bagian atas sisi medial tibia, di bawah pes anserinus"},
+      "clinical": {"en": "Inflammation (pes anserinus bursitis) gives pain and tenderness a few centimetres below the medial knee joint line, often in people with knee osteoarthritis.", "id": "Peradangan bursa ini (bursitis pes anserinus) menimbulkan nyeri dan nyeri tekan beberapa sentimeter di bawah celah sendi lutut medial, sering pada penderita osteoartritis lutut."}
+    }
+  },
+  {
+    "key": "inferior-subtendinous-bursa-of-biceps-femoris-muscle",
+    "kind": "bursa",
+    "la": "Bursa subtendinea musculi bicipitis femoris inferior",
+    "alt": ["Bursa subtendinea inferior musculi bicipitis femoris", "Bursa subtendinea m. bicipitis femoris inferior"],
+    "en": "Inferior subtendinous bursa of biceps femoris",
+    "desc": {
+      "en": "Bursa between the biceps femoris tendon and the fibular collateral ligament, just above the head of the fibula.",
+      "id": "Bursa di antara tendo m. biceps femoris dan ligamentum collaterale fibulare, tepat di atas caput fibulae."
+    },
+    "facts": {"location": {"en": "Lateral knee, between the biceps femoris tendon and the fibular collateral ligament", "id": "Lutut lateral, di antara tendo m. biceps femoris dan ligamentum collaterale fibulare"}}
+  },
+  {
+    "key": "lateral-subtendinous-bursa-of-gastrocnemius-muscle",
+    "kind": "bursa",
+    "la": "Bursa subtendinea musculi gastrocnemii lateralis",
+    "alt": ["Bursa subtendinea lateralis musculi gastrocnemii", "Bursa subtendinea m. gastrocnemii lateralis"],
+    "en": "Lateral subtendinous bursa of gastrocnemius",
+    "desc": {
+      "en": "Bursa between the lateral head of gastrocnemius and the knee joint capsule; it sometimes communicates with the joint.",
+      "id": "Bursa di antara caput laterale m. gastrocnemius dan capsula sendi lutut; kadang berhubungan dengan rongga sendi."
+    },
+    "facts": {"location": {"en": "Back of the knee, under the lateral head of gastrocnemius", "id": "Belakang lutut, di bawah caput laterale m. gastrocnemius"}}
+  },
+  {
+    "key": "medial-subtendinous-bursa-of-gastrocnemius-muscle",
+    "kind": "bursa",
+    "la": "Bursa subtendinea musculi gastrocnemii medialis",
+    "alt": ["Bursa subtendinea medialis musculi gastrocnemii", "Bursa subtendinea m. gastrocnemii medialis"],
+    "en": "Medial subtendinous bursa of gastrocnemius",
+    "desc": {
+      "en": "Bursa between the medial head of gastrocnemius and the knee joint capsule. It usually communicates with the joint cavity and often with the semimembranosus bursa.",
+      "id": "Bursa di antara caput mediale m. gastrocnemius dan capsula sendi lutut. Bursa ini biasanya berhubungan dengan rongga sendi dan sering juga dengan bursa m. semimembranosus."
+    },
+    "facts": {
+      "location": {"en": "Back of the knee, under the medial head of gastrocnemius", "id": "Belakang lutut, di bawah caput mediale m. gastrocnemius"},
+      "clinical": {"en": "Joint fluid pushed into this bursa forms a popliteal (Baker) cyst, a swelling at the back of the knee.", "id": "Cairan sendi yang terdorong ke dalam bursa ini membentuk kista poplitea (kista Baker), berupa benjolan di belakang lutut."}
+    }
+  },
+  {
+    "key": "semimembranosus-bursa",
+    "kind": "bursa",
+    "la": "Bursa musculi semimembranosi",
+    "alt": ["Bursa m. semimembranosi"],
+    "en": "Semimembranosus bursa",
+    "desc": {
+      "en": "Bursa between the semimembranosus tendon and the medial tibial condyle and medial head of gastrocnemius. It often joins the medial gastrocnemius bursa and can take part in a popliteal (Baker) cyst.",
+      "id": "Bursa di antara tendo m. semimembranosus dengan condylus medialis tibiae dan caput mediale m. gastrocnemius. Bursa ini sering menyatu dengan bursa subtendinea m. gastrocnemii medialis dan dapat ikut membentuk kista poplitea (kista Baker)."
+    },
+    "facts": {"location": {"en": "Posteromedial knee, under the semimembranosus tendon", "id": "Lutut posteromedial, di bawah tendo m. semimembranosus"}}
+  },
+  {
+    "key": "subcutaneous-bursa-of-lateral-malleolus",
+    "kind": "bursa",
+    "la": "Bursa subcutanea malleoli lateralis",
+    "alt": [],
+    "en": "Subcutaneous bursa of lateral malleolus",
+    "desc": {
+      "en": "Bursa between the skin and the lateral malleolus.",
+      "id": "Bursa di antara kulit dan malleolus lateralis."
+    },
+    "facts": {"location": {"en": "Under the skin over the lateral malleolus", "id": "Di bawah kulit di atas malleolus lateralis"}}
+  },
+  {
+    "key": "subcutaneous-bursa-of-medial-malleolus",
+    "kind": "bursa",
+    "la": "Bursa subcutanea malleoli medialis",
+    "alt": [],
+    "en": "Subcutaneous bursa of medial malleolus",
+    "desc": {
+      "en": "Bursa between the skin and the medial malleolus.",
+      "id": "Bursa di antara kulit dan malleolus medialis."
+    },
+    "facts": {"location": {"en": "Under the skin over the medial malleolus", "id": "Di bawah kulit di atas malleolus medialis"}}
+  },
+  {
+    "key": "subtendinous-bursa-of-tibialis-anterior",
+    "kind": "bursa",
+    "la": "Bursa subtendinea musculi tibialis anterioris",
+    "alt": ["Bursa subtendinea m. tibialis anterioris"],
+    "en": "Subtendinous bursa of tibialis anterior",
+    "desc": {
+      "en": "Bursa between the tibialis anterior tendon and the medial cuneiform, near the insertion of the tendon.",
+      "id": "Bursa di antara tendo m. tibialis anterior dan os cuneiforme mediale, dekat insersio tendo tersebut."
+    },
+    "facts": {"location": {"en": "Medial side of the foot, under the tibialis anterior tendon", "id": "Sisi medial kaki, di bawah tendo m. tibialis anterior"}}
+  },
+  {
+    "key": "subcutaneous-calcaneal-bursa",
+    "kind": "bursa",
+    "la": "Bursa subcutanea calcanea",
+    "alt": [],
+    "en": "Subcutaneous calcaneal bursa",
+    "desc": {
+      "en": "Bursa between the skin and the calcaneal tendon at the back of the heel.",
+      "id": "Bursa di antara kulit dan tendo calcaneus di bagian belakang tumit."
+    },
+    "facts": {
+      "location": {"en": "Back of the heel, behind the calcaneal tendon", "id": "Belakang tumit, di belakang tendo calcaneus"},
+      "clinical": {"en": "Friction from a tight shoe counter inflames it and produces a tender swelling at the back of the heel.", "id": "Gesekan dari bagian belakang sepatu yang sempit dapat menimbulkan peradangan bursa ini, berupa benjolan nyeri di bagian belakang tumit."}
+    }
+  },
+  {
+    "key": "subtendinous-calcaneal-bursa",
+    "kind": "bursa",
+    "la": "Bursa tendinis calcanei",
+    "alt": ["Bursa subtendinea calcanea", "Bursa retrocalcanea", "Bursa tendinis Achillis"],
+    "en": "Bursa of calcaneal tendon (retrocalcaneal bursa)",
+    "desc": {
+      "en": "Bursa between the calcaneal tendon and the upper part of the posterior surface of the calcaneus, just above the insertion of the tendon.",
+      "id": "Bursa di antara tendo calcaneus dan bagian atas permukaan posterior calcaneus, tepat di atas insersio tendo tersebut."
+    },
+    "facts": {
+      "location": {"en": "In front of the lower calcaneal tendon, above its insertion", "id": "Di depan bagian bawah tendo calcaneus, di atas insersionya"},
+      "clinical": {"en": "Inflammation (retrocalcaneal bursitis) causes pain just in front of the tendon above the heel.", "id": "Peradangan bursa ini (bursitis retrocalcanea) menimbulkan nyeri tepat di depan tendo di atas tumit."}
+    }
+  },
+  {
+    "key": "tendon-sheaths-of-lower-limb",
+    "kind": "bursa",
+    "la": "Vaginae tendinum membri inferioris",
+    "alt": ["Vaginae synoviales tendinum membri inferioris"],
+    "en": "Tendon sheaths of lower limb",
+    "desc": {
+      "en": "Synovial sheaths that wrap the long tendons where they cross the ankle under the retinacula and where they run along the toes. They work like elongated bursae and are grouped as anterior, tibial and fibular tarsal sheaths and the sheaths of the toes.",
+      "id": "Selubung sinovial yang membungkus tendo-tendo panjang saat melintasi pergelangan kaki di bawah retinacula dan saat berjalan di sepanjang jari kaki. Selubung ini bekerja seperti bursa yang memanjang dan dikelompokkan menjadi vaginae tendinum tarsales anteriores, tibiales, fibulares dan vaginae tendinum digitorum pedis."
+    },
+    "facts": {
+      "parts": ["anterior-tarsal-tendon-sheaths", "tibial-tarsal-tendon-sheaths", "fibular-tarsal-tendon-sheaths", "tendon-sheaths-of-toes"]
+    }
+  },
+  {
+    "key": "anterior-tarsal-tendon-sheaths",
+    "kind": "bursa",
+    "la": "Vaginae tendinum tarsales anteriores",
+    "alt": ["Vaginae tarseae anteriores tendinum"],
+    "en": "Anterior tarsal tendon sheaths",
+    "desc": {
+      "en": "Synovial sheaths of the anterior compartment tendons in front of the ankle, under the extensor retinacula: those of tibialis anterior, extensor hallucis longus, and extensor digitorum longus with fibularis tertius.",
+      "id": "Selubung sinovial tendo-tendo kompartemen anterior di depan pergelangan kaki, di bawah retinacula musculorum extensorum: milik m. tibialis anterior, m. extensor hallucis longus, serta m. extensor digitorum longus bersama m. fibularis tertius."
+    },
+    "facts": {
+      "location": {"en": "Front of the ankle, under the extensor retinacula", "id": "Depan pergelangan kaki, di bawah retinacula musculorum extensorum"},
+      "parts": ["tendon-sheath-of-tibialis-anterior", "tendon-sheath-of-extensor-digitorum-longus"]
+    }
+  },
+  {
+    "key": "tendon-sheath-of-tibialis-anterior",
+    "kind": "bursa",
+    "la": "Vagina tendinis musculi tibialis anterioris",
+    "alt": ["Vagina tendinis m. tibialis anterioris"],
+    "en": "Tendon sheath of tibialis anterior",
+    "desc": {
+      "en": "Synovial sheath around the tibialis anterior tendon as it passes under the extensor retinacula; it is the most medial of the anterior sheaths.",
+      "id": "Selubung sinovial yang membungkus tendo m. tibialis anterior saat berjalan di bawah retinacula musculorum extensorum; letaknya paling medial di antara selubung anterior."
+    },
+    "facts": {
+      "muscle": "tibialis-anterior-muscle",
+      "location": {"en": "Front of the ankle, medial side", "id": "Depan pergelangan kaki, sisi medial"}
+    }
+  },
+  {
+    "key": "tendon-sheath-of-extensor-digitorum-longus",
+    "kind": "bursa",
+    "la": "Vagina tendinum musculi extensoris digitorum longi",
+    "alt": ["Vagina tendinum m. extensoris digitorum longi", "Vagina tendinis musculi extensoris digitorum longi", "Vagina tendinum extensoris longi digitorum"],
+    "en": "Tendon sheath of extensor digitorum longus",
+    "desc": {
+      "en": "Common synovial sheath for the four tendons of extensor digitorum longus and the fibularis tertius tendon under the inferior extensor retinaculum; it is the most lateral of the anterior sheaths.",
+      "id": "Selubung sinovial bersama untuk keempat tendo m. extensor digitorum longus dan tendo m. fibularis tertius di bawah retinaculum musculorum extensorum inferius; letaknya paling lateral di antara selubung anterior."
+    },
+    "facts": {
+      "muscle": "extensor-digitorum-longus",
+      "location": {"en": "Front of the ankle, lateral side", "id": "Depan pergelangan kaki, sisi lateral"}
+    }
+  },
+  {
+    "key": "tibial-tarsal-tendon-sheaths",
+    "kind": "bursa",
+    "la": "Vaginae tendinum tarsales tibiales",
+    "alt": ["Vaginae tarseae tibiales tendinum"],
+    "en": "Tibial tarsal tendon sheaths",
+    "desc": {
+      "en": "Three synovial sheaths behind the medial malleolus, under the flexor retinaculum: from front to back, those of tibialis posterior, flexor digitorum longus and flexor hallucis longus.",
+      "id": "Tiga selubung sinovial di belakang malleolus medialis, di bawah retinaculum musculorum flexorum: dari depan ke belakang milik m. tibialis posterior, m. flexor digitorum longus dan m. flexor hallucis longus."
+    },
+    "facts": {
+      "location": {"en": "Behind the medial malleolus, under the flexor retinaculum", "id": "Di belakang malleolus medialis, di bawah retinaculum musculorum flexorum"},
+      "parts": ["tendon-sheath-of-tibialis-posterior-muscle", "tendon-sheath-of-flexor-digitorum-longus", "tendon-sheath-of-flexor-hallucis-longus"]
+    }
+  },
+  {
+    "key": "tendon-sheath-of-tibialis-posterior-muscle",
+    "kind": "bursa",
+    "la": "Vagina tendinis musculi tibialis posterioris",
+    "alt": ["Vagina tendinis m. tibialis posterioris"],
+    "en": "Tendon sheath of tibialis posterior",
+    "desc": {
+      "en": "Synovial sheath of the tibialis posterior tendon in the groove directly behind the medial malleolus; it is the most anterior of the tibial sheaths.",
+      "id": "Selubung sinovial tendo m. tibialis posterior di sulcus tepat di belakang malleolus medialis; letaknya paling anterior di antara selubung tibial."
+    },
+    "facts": {
+      "muscle": "tibialis-posterior-muscle",
+      "location": {"en": "Directly behind the medial malleolus", "id": "Tepat di belakang malleolus medialis"}
+    }
+  },
+  {
+    "key": "tendon-sheath-of-flexor-digitorum-longus",
+    "kind": "bursa",
+    "la": "Vagina tendinum musculi flexoris digitorum longi",
+    "alt": ["Vagina tendinis musculi flexoris digitorum longi", "Vagina tendinum m. flexoris digitorum longi", "Vagina tendinis flexoris digitorum longus"],
+    "en": "Tendon sheath of flexor digitorum longus",
+    "desc": {
+      "en": "Synovial sheath of the flexor digitorum longus tendon behind the medial malleolus, between the tibialis posterior sheath in front and the flexor hallucis longus sheath behind; it continues into the sole.",
+      "id": "Selubung sinovial tendo m. flexor digitorum longus di belakang malleolus medialis, di antara selubung m. tibialis posterior di depan dan selubung m. flexor hallucis longus di belakang; selubung ini berlanjut ke telapak kaki."
+    },
+    "facts": {
+      "muscle": "flexor-digitorum-longus",
+      "location": {"en": "Behind the medial malleolus, middle of the three tibial sheaths", "id": "Di belakang malleolus medialis, di tengah ketiga selubung tibial"}
+    }
+  },
+  {
+    "key": "tendon-sheath-of-flexor-hallucis-longus",
+    "kind": "bursa",
+    "la": "Vagina tendinis musculi flexoris hallucis longi",
+    "alt": ["Vagina tendinis m. flexoris hallucis longi"],
+    "en": "Tendon sheath of flexor hallucis longus",
+    "desc": {
+      "en": "Synovial sheath of the flexor hallucis longus tendon, the most posterior of the tibial sheaths. It follows the tendon in its groove on the talus and under the sustentaculum tali into the sole.",
+      "id": "Selubung sinovial tendo m. flexor hallucis longus, paling posterior di antara selubung tibial. Selubung ini mengikuti tendo dalam sulcus pada talus dan di bawah sustentaculum tali hingga ke telapak kaki."
+    },
+    "facts": {
+      "muscle": "flexor-hallucis-longus",
+      "location": {"en": "Behind the talus and under the sustentaculum tali", "id": "Di belakang talus dan di bawah sustentaculum tali"}
+    }
+  },
+  {
+    "key": "fibular-tarsal-tendon-sheaths",
+    "kind": "bursa",
+    "la": "Vaginae tendinum tarsales fibulares",
+    "alt": ["Vaginae tendinum tarsales peroneae", "Vaginae tarseae fibulares tendinum"],
+    "en": "Fibular tarsal tendon sheaths",
+    "desc": {
+      "en": "Synovial sheaths of the fibularis longus and brevis tendons on the lateral side of the ankle and in the sole.",
+      "id": "Selubung sinovial tendo m. fibularis longus dan brevis di sisi lateral pergelangan kaki dan di telapak kaki."
+    },
+    "facts": {
+      "location": {"en": "Behind and below the lateral malleolus, and across the sole", "id": "Di belakang dan bawah malleolus lateralis, serta menyilang telapak kaki"},
+      "parts": ["common-tendon-sheath-of-fibularis-muscles", "plantar-tendon-sheath-of-fibularis-longus-muscle"]
+    }
+  },
+  {
+    "key": "common-tendon-sheath-of-fibularis-muscles",
+    "kind": "bursa",
+    "la": "Vagina communis tendinum musculorum fibularium",
+    "alt": ["Vagina communis tendinum musculorum peroneorum", "Vagina communis tendinum mm. fibularium"],
+    "en": "Common tendon sheath of fibularis muscles",
+    "desc": {
+      "en": "Single synovial sheath around the fibularis longus and brevis tendons behind the lateral malleolus, under the superior fibular retinaculum. It divides into two at the inferior fibular retinaculum.",
+      "id": "Satu selubung sinovial yang membungkus tendo m. fibularis longus dan brevis di belakang malleolus lateralis, di bawah retinaculum musculorum fibularium superius. Selubung ini terbagi dua setinggi retinaculum musculorum fibularium inferius."
+    },
+    "facts": {
+      "tendons": ["Tendo musculi fibularis longi", "Tendo musculi fibularis brevis"],
+      "location": {"en": "Behind the lateral malleolus", "id": "Di belakang malleolus lateralis"}
+    }
+  },
+  {
+    "key": "plantar-tendon-sheath-of-fibularis-longus-muscle",
+    "kind": "bursa",
+    "la": "Vagina plantaris tendinis musculi fibularis longi",
+    "alt": ["Vagina plantaris tendinis musculi peronei longi", "Vagina plantaris tendinis m. fibularis longi"],
+    "en": "Plantar tendon sheath of fibularis longus",
+    "desc": {
+      "en": "Separate synovial sheath around the fibularis longus tendon as it runs in the groove of the cuboid and across the sole under the long plantar ligament.",
+      "id": "Selubung sinovial tersendiri yang membungkus tendo m. fibularis longus saat berjalan di sulcus os cuboideum dan menyilang telapak kaki di bawah ligamentum plantare longum."
+    },
+    "facts": {
+      "muscle": "fibularis-longus-muscle",
+      "location": {"en": "Sole, from the cuboid groove to the base of the first metatarsal", "id": "Telapak kaki, dari sulcus os cuboideum ke basis os metatarsi I"}
+    }
+  },
+  {
+    "key": "tendon-sheaths-of-toes",
+    "kind": "bursa",
+    "la": "Vaginae tendinum digitorum pedis",
+    "alt": ["Vaginae synoviales digitorum pedis"],
+    "en": "Tendon sheaths of toes",
+    "desc": {
+      "en": "Synovial sheaths lining the fibrous digital sheaths on the plantar side of the toes, around the tendons of the long and short flexors.",
+      "id": "Selubung sinovial yang melapisi vagina fibrosa digitorum pada sisi plantar jari-jari kaki, membungkus tendo-tendo fleksor panjang dan pendek."
+    },
+    "facts": {
+      "location": {"en": "Plantar side of the toes, inside the fibrous digital sheaths", "id": "Sisi plantar jari-jari kaki, di dalam vagina fibrosa digitorum"}
+    }
+  }
+]

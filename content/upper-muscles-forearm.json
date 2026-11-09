@@ -1,0 +1,762 @@
+[
+  {
+    "key": "pronator-teres-muscle",
+    "kind": "muscle",
+    "model": false,
+    "la": "Musculus pronator teres",
+    "alt": ["M. pronator teres", "Pronator teres"],
+    "en": "Pronator teres",
+    "desc": {
+      "en": "Most lateral muscle of the superficial flexor layer, running obliquely from the medial epicondyle and the coronoid process to the middle of the lateral surface of the radius. It forms the medial border of the cubital fossa, and the median nerve enters the forearm between its two heads.",
+      "id": "Otot paling lateral pada lapisan fleksor superfisial, berjalan miring dari epicondylus medialis humeri dan processus coronoideus ulnae ke pertengahan permukaan lateral radius. Otot ini membentuk batas medial fossa cubiti, dan n. medianus masuk ke lengan bawah di antara kedua kepalanya."
+    },
+    "facts": {
+      "group": {"en": "Anterior compartment of forearm, superficial layer (module: lapis pertama)", "id": "Otot regio antebrachii kompartemen anterior, lapis pertama (superfisial)"},
+      "origin": {
+        "la": "Caput humerale: epicondylus medialis humeri et crista supracondylaris medialis; caput ulnare: processus coronoideus ulnae",
+        "en": "Humeral head: medial epicondyle (common flexor origin) and the lowest part of the medial supracondylar ridge. Ulnar head: medial side of the coronoid process of the ulna."
+      },
+      "insertion": {"la": "Tuberositas pronatoria radii (media facies lateralis radii)", "en": "Pronator tuberosity, at the middle of the convex lateral surface of the radius"},
+      "action": {
+        "en": "Pronates the forearm, joining pronator quadratus when speed or force is needed, and weakly flexes the elbow.",
+        "id": "Pronasi lengan bawah, membantu m. pronator quadratus bila gerakan perlu cepat atau kuat, dan fleksi lemah sendi siku."
+      },
+      "nerve": {"la": "Nervus medianus", "roots": "C6-C7"},
+      "blood": ["Arteria recurrens ulnaris", "Rami musculares arteriae radialis", "Rami musculares arteriae brachialis"],
+      "parts": ["superficial-head-of-pronator-teres", "deep-head-of-pronator-teres"],
+      "clinical": {
+        "en": "The median nerve can be squeezed between the two heads (pronator syndrome). Forearm pain and tingling in the lateral three and a half digits get worse with resisted pronation. Numbness of the skin over the thenar eminence helps separate it from carpal tunnel syndrome, because the palmar branch of the median nerve leaves the nerve above the wrist.",
+        "id": "N. medianus dapat terjepit di antara kedua kepala otot ini (sindrom pronator). Nyeri lengan bawah dan kesemutan pada tiga setengah jari lateral bertambah saat pronasi melawan tahanan. Kebas pada kulit di atas eminentia thenaris membedakannya dari sindrom carpal tunnel, karena r. palmaris n. mediani dicabangkan di atas pergelangan tangan."
+      }
+    },
+    "quiz": {
+      "origin": ["Epicondylus medialis humeri et processus coronoideus ulnae", "epicondylus medialis humeri dan prosesus koronoideus ulna", "epicondylus medialis humeri", "caput humerale: epicondylus medialis; caput ulnare: processus coronoideus"],
+      "insertion": ["Tuberositas pronatoria radii", "tuberositas pronatoria", "pertengahan permukaan lateral radius", "permukaan lateral radius", "facies lateralis radii"],
+      "nerve": ["Nervus medianus", "N. medianus"],
+      "action": ["Pronatio antebrachii", "pronasi lengan bawah", "pronasi", "fleksi siku (lemah)"]
+    }
+  },
+  {
+    "key": "superficial-head-of-pronator-teres",
+    "kind": "muscle-part",
+    "la": "Caput humerale musculi pronatoris teretis",
+    "alt": ["Caput humerale m. pronatoris teretis", "Caput superficiale musculi pronatoris teretis", "Caput superficiale pronatoris teretis", "Caput humerale"],
+    "en": "Humeral (superficial) head of pronator teres",
+    "desc": {
+      "en": "Larger, superficial head of pronator teres, arising with the common flexor tendon from the medial epicondyle. The median nerve passes deep to it.",
+      "id": "Kepala superfisial m. pronator teres yang lebih besar, berasal bersama tendo fleksor bersama dari epicondylus medialis humeri. N. medianus berjalan di bawahnya."
+    },
+    "facts": {
+      "muscle": "pronator-teres-muscle",
+      "origin": {"la": "Epicondylus medialis humeri et crista supracondylaris medialis", "en": "Medial epicondyle of the humerus and the lowest part of the medial supracondylar ridge"},
+      "insertion": {"la": "Tuberositas pronatoria radii", "en": "Pronator tuberosity of the radius"}
+    }
+  },
+  {
+    "key": "deep-head-of-pronator-teres",
+    "kind": "muscle-part",
+    "la": "Caput ulnare musculi pronatoris teretis",
+    "alt": ["Caput ulnare m. pronatoris teretis", "Caput profundum musculi pronatoris teretis", "Caput profundum pronatoris teretis", "Caput ulnare"],
+    "en": "Ulnar (deep) head of pronator teres",
+    "desc": {
+      "en": "Small deep head arising from the coronoid process of the ulna. It separates the median nerve, which lies in front of it, from the ulnar artery, which passes behind it.",
+      "id": "Kepala dalam yang kecil, berasal dari processus coronoideus ulnae. Kepala ini memisahkan n. medianus yang berada di depannya dari a. ulnaris yang lewat di belakangnya."
+    },
+    "facts": {
+      "muscle": "pronator-teres-muscle",
+      "origin": {"la": "Processus coronoideus ulnae (latus mediale)", "en": "Medial side of the coronoid process of the ulna"},
+      "insertion": {"la": "Tuberositas pronatoria radii", "en": "Pronator tuberosity of the radius"}
+    }
+  },
+  {
+    "key": "flexor-carpi-radialis",
+    "kind": "muscle",
+    "la": "Musculus flexor carpi radialis",
+    "alt": ["M. flexor carpi radialis", "Flexor carpi radialis", "Musculus flexor radialis carpi"],
+    "en": "Flexor carpi radialis",
+    "desc": {
+      "en": "Superficial flexor lying just medial to pronator teres, with a long tendon that stands out at the wrist when the hand is flexed against resistance. The tendon runs in its own canal in the lateral part of the flexor retinaculum, in the groove of the trapezium, outside the carpal tunnel. The radial pulse is felt just lateral to it.",
+      "id": "Otot fleksor superfisial tepat di medial m. pronator teres, dengan tendo panjang yang menonjol di pergelangan tangan saat tangan difleksikan melawan tahanan. Tendonya berjalan dalam saluran tersendiri di bagian lateral retinaculum musculorum flexorum, pada alur os trapezium, di luar canalis carpi. Denyut a. radialis teraba tepat di lateral tendo ini."
+    },
+    "facts": {
+      "group": {"en": "Anterior compartment of forearm, superficial layer (module: lapis pertama)", "id": "Otot regio antebrachii kompartemen anterior, lapis pertama (superfisial)"},
+      "origin": {"la": "Epicondylus medialis humeri (origo communis flexorum)", "en": "Medial epicondyle of the humerus (common flexor origin)"},
+      "insertion": {"la": "Basis ossis metacarpi II (et III), facies palmaris", "en": "Palmar surface of the base of the second metacarpal, with a slip to the third"},
+      "action": {
+        "en": "Flexes the hand at the wrist and abducts it (radial deviation).",
+        "id": "Fleksi dan abduksi tangan pada pergelangan tangan (deviasi radial)."
+      },
+      "nerve": {"la": "Nervus medianus", "roots": "C6-C7"},
+      "blood": ["Rami musculares arteriae radialis", "Rami musculares arteriae ulnaris"],
+      "note": {
+        "en": "The module gives the insertion as the base of the first metacarpal (thumb). Standard references place it on the base of the second metacarpal, with a slip to the third.",
+        "id": "Modul menyebut insersio pada basis metakarpal I (ibu jari). Buku acuan standar menyebut basis os metacarpi II, dengan sebagian serabut ke os metacarpi III."
+      }
+    },
+    "quiz": {
+      "origin": ["Epicondylus medialis humeri", "epicondylus medialis", "epikondilus medial humerus", "origo communis flexorum"],
+      "insertion": ["Basis ossis metacarpi II", "basis metakarpal II", "basis ossis metacarpi II et III", "basis metakarpal II dan III", "basis os metacarpi II"],
+      "nerve": ["Nervus medianus", "N. medianus"],
+      "action": ["Flexio et abductio manus", "fleksi dan abduksi pergelangan tangan", "fleksi pergelangan tangan", "fleksi radial pergelangan tangan", "abduksi pergelangan tangan", "deviasi radial"]
+    }
+  },
+  {
+    "key": "palmaris-longus-muscle",
+    "kind": "muscle",
+    "la": "Musculus palmaris longus",
+    "alt": ["M. palmaris longus", "Palmaris longus"],
+    "en": "Palmaris longus",
+    "desc": {
+      "en": "Small fusiform muscle with a long thin tendon that runs superficial to the flexor retinaculum and fans out as the palmar aponeurosis. It is missing on one or both sides in about 14 percent of people, and its tendon is often taken for tendon grafts.",
+      "id": "Otot kecil berbentuk gelendong dengan tendo panjang dan tipis yang berjalan di superfisial retinaculum musculorum flexorum lalu melebar menjadi aponeurosis palmaris. Otot ini tidak ada pada satu atau kedua sisi pada sekitar 14 persen orang, dan tendonya sering diambil sebagai bahan cangkok tendo."
+    },
+    "facts": {
+      "group": {"en": "Anterior compartment of forearm, superficial layer (module: lapis pertama)", "id": "Otot regio antebrachii kompartemen anterior, lapis pertama (superfisial)"},
+      "origin": {"la": "Epicondylus medialis humeri (origo communis flexorum)", "en": "Medial epicondyle of the humerus (common flexor origin)"},
+      "insertion": {"la": "Dimidium distale retinaculi musculorum flexorum et apex aponeurosis palmaris", "en": "Distal half of the flexor retinaculum and apex of the palmar aponeurosis"},
+      "action": {
+        "en": "Flexes the hand at the wrist and tenses the palmar aponeurosis.",
+        "id": "Fleksi tangan pada pergelangan tangan dan menegangkan aponeurosis palmaris."
+      },
+      "nerve": {"la": "Nervus medianus", "roots": "C7-C8"},
+      "blood": ["Rami musculares arteriae ulnaris"],
+      "clinical": {
+        "en": "To see the tendon, ask the patient to touch the tips of the thumb and little finger together and flex the wrist. The median nerve lies just deep and slightly lateral to the tendon at the wrist, so the tendon guides injections and incisions there.",
+        "id": "Untuk melihat tendonya, pasien diminta mempertemukan ujung ibu jari dan jari kelingking lalu memfleksikan pergelangan tangan. N. medianus terletak tepat di bawah dan sedikit lateral dari tendo ini di pergelangan tangan, sehingga tendo ini menjadi patokan untuk suntikan dan sayatan di daerah tersebut."
+      }
+    },
+    "quiz": {
+      "origin": ["Epicondylus medialis humeri", "epicondylus medialis", "epikondilus medial humerus"],
+      "insertion": ["Aponeurosis palmaris", "aponeurosis palmaris et retinaculum musculorum flexorum", "retinaculum flexorum dan aponeurosis palmaris", "apex aponeurosis palmaris"],
+      "nerve": ["Nervus medianus", "N. medianus"],
+      "action": ["Flexio manus", "fleksi pergelangan tangan", "menegangkan aponeurosis palmaris", "flexio articulationis radiocarpeae"]
+    }
+  },
+  {
+    "key": "flexor-carpi-ulnaris-muscle",
+    "kind": "muscle",
+    "model": false,
+    "la": "Musculus flexor carpi ulnaris",
+    "alt": ["M. flexor carpi ulnaris", "Flexor carpi ulnaris", "Musculus flexor ulnaris carpi"],
+    "en": "Flexor carpi ulnaris",
+    "desc": {
+      "en": "Most medial superficial flexor, with a humeral head from the medial epicondyle and an ulnar head from the olecranon and posterior border of the ulna. The ulnar nerve enters the forearm through the gap between the two heads. Its tendon ends on the pisiform, a sesamoid bone in the tendon, and continues by ligaments to the hamate and the fifth metacarpal.",
+      "id": "Otot fleksor superfisial paling medial, dengan caput humerale dari epicondylus medialis humeri dan caput ulnare dari olecranon serta margo posterior ulnae. N. ulnaris masuk ke lengan bawah melalui celah di antara kedua kepala tersebut. Tendonya berakhir pada os pisiforme, tulang sesamoid di dalam tendo ini, lalu berlanjut melalui ligamentum ke os hamatum dan os metacarpi V."
+    },
+    "facts": {
+      "group": {"en": "Anterior compartment of forearm, superficial layer (module: lapis pertama)", "id": "Otot regio antebrachii kompartemen anterior, lapis pertama (superfisial)"},
+      "origin": {
+        "la": "Caput humerale: epicondylus medialis humeri; caput ulnare: margo medialis olecrani et margo posterior ulnae (per aponeurosin)",
+        "en": "Humeral head: medial epicondyle (common flexor origin). Ulnar head: medial margin of the olecranon and, through an aponeurosis, the posterior border of the ulna."
+      },
+      "insertion": {
+        "la": "Os pisiforme; per ligamentum pisohamatum hamulus ossis hamati et per ligamentum pisometacarpale basis ossis metacarpi V",
+        "en": "Pisiform, and through the pisohamate and pisometacarpal ligaments the hook of the hamate and the base of the fifth metacarpal"
+      },
+      "action": {
+        "en": "Flexes the hand at the wrist and adducts it (ulnar deviation). It also fixes the pisiform when abductor digiti minimi contracts.",
+        "id": "Fleksi dan adduksi tangan pada pergelangan tangan (deviasi ulnar). Otot ini juga memfiksasi os pisiforme saat m. abductor digiti minimi berkontraksi."
+      },
+      "nerve": {"la": "Nervus ulnaris", "roots": "C7-C8"},
+      "blood": ["Arteria recurrens ulnaris", "Rami musculares arteriae ulnaris", "Arteria collateralis ulnaris superior"],
+      "parts": ["humeral-head-of-flexor-carpi-ulnaris", "ulnar-head-of-flexor-carpi-ulnaris"],
+      "clinical": {
+        "en": "The fibrous arch joining the two heads forms the roof of the cubital tunnel. Compression of the ulnar nerve here (cubital tunnel syndrome) causes tingling of the little finger and the medial half of the ring finger and weakness of the intrinsic hand muscles.",
+        "id": "Lengkung fibrosa yang menghubungkan kedua kepala membentuk atap cubital tunnel. Penekanan n. ulnaris di tempat ini (sindrom cubital tunnel) menimbulkan kesemutan pada jari kelingking dan separuh medial jari manis serta kelemahan otot intrinsik tangan."
+      }
+    },
+    "quiz": {
+      "origin": ["Epicondylus medialis humeri et olecranon ulnae", "epicondylus medialis humeri dan olecranon ulna", "epicondylus medialis humeri, olecranon et margo posterior ulnae", "caput humerale: epicondylus medialis; caput ulnare: olecranon dan margo posterior ulna"],
+      "insertion": ["Os pisiforme, hamulus ossis hamati et basis ossis metacarpi V", "os pisiforme", "pisiform, hamulus hamatum, dan basis metakarpal V", "os pisiforme et os metacarpi V"],
+      "nerve": ["Nervus ulnaris", "N. ulnaris"],
+      "action": ["Flexio et adductio manus", "fleksi dan adduksi pergelangan tangan", "fleksi ulnar pergelangan tangan", "deviasi ulnar", "fleksi pergelangan tangan"]
+    }
+  },
+  {
+    "key": "humeral-head-of-flexor-carpi-ulnaris",
+    "kind": "muscle-part",
+    "la": "Caput humerale musculi flexoris carpi ulnaris",
+    "alt": ["Caput humerale m. flexoris carpi ulnaris", "Caput humerale flexoris ulnaris carpi", "Caput humerale"],
+    "en": "Humeral head of flexor carpi ulnaris",
+    "desc": {
+      "en": "Head arising with the common flexor tendon from the medial epicondyle. A fibrous arch joins it to the ulnar head, and the ulnar nerve passes under this arch after running behind the epicondyle.",
+      "id": "Kepala yang berasal bersama tendo fleksor bersama dari epicondylus medialis humeri. Lengkung fibrosa menghubungkannya dengan caput ulnare, dan n. ulnaris lewat di bawah lengkung ini setelah berjalan di belakang epicondylus medialis."
+    },
+    "facts": {
+      "muscle": "flexor-carpi-ulnaris-muscle",
+      "origin": {"la": "Epicondylus medialis humeri (origo communis flexorum)", "en": "Medial epicondyle of the humerus (common flexor origin)"},
+      "insertion": {"la": "Os pisiforme (per tendinem communem)", "en": "Pisiform, through the common tendon"}
+    }
+  },
+  {
+    "key": "ulnar-head-of-flexor-carpi-ulnaris",
+    "kind": "muscle-part",
+    "la": "Caput ulnare musculi flexoris carpi ulnaris",
+    "alt": ["Caput ulnare m. flexoris carpi ulnaris", "Caput ulnare flexoris ulnaris carpi", "Caput ulnare"],
+    "en": "Ulnar head of flexor carpi ulnaris",
+    "desc": {
+      "en": "Head with a long origin from the medial margin of the olecranon and, through an aponeurosis shared with extensor carpi ulnaris and flexor digitorum profundus, from the posterior border of the ulna.",
+      "id": "Kepala dengan origo yang panjang, berasal dari tepi medial olecranon dan, melalui aponeurosis yang juga dipakai m. extensor carpi ulnaris dan m. flexor digitorum profundus, dari margo posterior ulnae."
+    },
+    "facts": {
+      "muscle": "flexor-carpi-ulnaris-muscle",
+      "origin": {"la": "Margo medialis olecrani et margo posterior ulnae (per aponeurosin)", "en": "Medial margin of the olecranon and the upper two thirds of the posterior border of the ulna, through an aponeurosis"},
+      "insertion": {"la": "Os pisiforme (per tendinem communem)", "en": "Pisiform, through the common tendon"}
+    }
+  },
+  {
+    "key": "flexor-digitorum-superficialis-muscle",
+    "kind": "muscle",
+    "model": false,
+    "la": "Musculus flexor digitorum superficialis",
+    "alt": ["M. flexor digitorum superficialis", "Flexor digitorum superficialis", "Musculus flexor superficialis digitorum", "M. flexor digitorum sublimis"],
+    "en": "Flexor digitorum superficialis",
+    "desc": {
+      "en": "Largest superficial muscle of the forearm and the only one in the intermediate layer. Its humero-ulnar and radial heads are joined by a fibrous arch, under which the median nerve and the ulnar artery pass. Its four tendons go through the carpal tunnel; at the proximal phalanx each splits into two slips that let the profundus tendon through, partly cross behind it and attach to the sides of the middle phalanx.",
+      "id": "Otot superfisial terbesar di lengan bawah dan satu-satunya otot pada lapisan tengah. Caput humeroulnare dan caput radiale dihubungkan oleh lengkung fibrosa yang dilewati n. medianus dan a. ulnaris. Keempat tendonya melalui canalis carpi; setinggi phalanx proximalis tiap tendo terbelah dua untuk dilewati tendo m. flexor digitorum profundus, sebagian saling menyilang di belakangnya (chiasma tendinum), lalu melekat pada sisi phalanx media."
+    },
+    "facts": {
+      "group": {"en": "Anterior compartment of forearm, intermediate layer (module: lapis kedua)", "id": "Otot regio antebrachii kompartemen anterior, lapis kedua (intermedia)"},
+      "origin": {
+        "la": "Caput humeroulnare: epicondylus medialis humeri, ligamentum collaterale ulnare et processus coronoideus ulnae; caput radiale: dimidium proximale marginis anterioris radii",
+        "en": "Humero-ulnar head: medial epicondyle (common flexor origin), ulnar collateral ligament and coronoid process of the ulna. Radial head: upper half of the anterior border of the radius."
+      },
+      "insertion": {"la": "Latera corporum phalangum mediarum digitorum II-V", "en": "Sides of the shafts of the middle phalanges of the medial four digits"},
+      "action": {
+        "en": "Flexes the middle phalanges at the proximal interphalangeal joints of digits 2-5. Acting more strongly, it also flexes the proximal phalanges at the metacarpophalangeal joints and the hand at the wrist.",
+        "id": "Fleksi phalanx media pada sendi interphalangea proximalis jari II-V. Bila berkontraksi lebih kuat, otot ini juga memfleksikan phalanx proximalis pada sendi metacarpophalangea dan tangan pada pergelangan tangan."
+      },
+      "nerve": {"la": "Nervus medianus", "roots": "C7-T1"},
+      "blood": ["Rami musculares arteriae ulnaris", "Rami musculares arteriae radialis"],
+      "parts": ["humero-ulnar-head-of-flexor-digitorum-superficialis", "radial-head-of-flexor-digitorum-superficialis"],
+      "clinical": {
+        "en": "To test it, hold the other fingers straight, which blocks flexor digitorum profundus because its tendons to the medial fingers share one belly, and ask the patient to bend the free finger. Flexion at the proximal interphalangeal joint with a floppy distal joint shows an intact superficialis tendon.",
+        "id": "Untuk mengujinya, jari-jari lain ditahan lurus sehingga m. flexor digitorum profundus terhambat, karena tendonya untuk jari-jari medial berasal dari satu venter, lalu pasien diminta menekuk jari yang bebas. Fleksi pada sendi interphalangea proximalis dengan sendi distal yang lemas menunjukkan tendo m. flexor digitorum superficialis masih utuh."
+      },
+      "note": {
+        "en": "The module gives the insertion as the tuberosity of the proximal phalanges. Standard references place it on the sides of the middle phalanges; the muscle has no attachment on the proximal phalanx.",
+        "id": "Modul menyebut insersio pada tuberositas phalanx proximalis. Buku acuan standar menyebut sisi corpus phalanx media; otot ini tidak melekat pada phalanx proximalis."
+      }
+    },
+    "quiz": {
+      "origin": ["Epicondylus medialis humeri, processus coronoideus ulnae et radius", "epicondylus medialis humeri, prosesus koronoideus ulna, dan bagian proksimal radius", "epicondylus medialis humeri", "caput humeroulnare: epicondylus medialis et processus coronoideus; caput radiale: margo anterior radii"],
+      "insertion": ["Phalanges mediae digitorum II-V", "corpus phalangis mediae digitorum II-V", "phalanx media jari II-V", "sisi phalanx media jari II-V", "latera phalangum mediarum"],
+      "nerve": ["Nervus medianus", "N. medianus"],
+      "action": ["Flexio articulationum interphalangearum proximalium digitorum II-V", "fleksi sendi interphalangeal proksimal jari II-V", "fleksi jari II-V", "fleksi phalanx media", "fleksi pergelangan tangan dan jari"]
+    }
+  },
+  {
+    "key": "humero-ulnar-head-of-flexor-digitorum-superficialis",
+    "kind": "muscle-part",
+    "la": "Caput humeroulnare musculi flexoris digitorum superficialis",
+    "alt": ["Caput humeroulnare m. flexoris digitorum superficialis", "Caput humeroulnare flexoris superficialis digitorum", "Caput humeroulnare"],
+    "en": "Humero-ulnar head of flexor digitorum superficialis",
+    "desc": {
+      "en": "Larger head of flexor digitorum superficialis, arising from the medial epicondyle, the ulnar collateral ligament and the coronoid process.",
+      "id": "Kepala m. flexor digitorum superficialis yang lebih besar, berasal dari epicondylus medialis humeri, lig. collaterale ulnare dan processus coronoideus ulnae."
+    },
+    "facts": {
+      "muscle": "flexor-digitorum-superficialis-muscle",
+      "origin": {"la": "Epicondylus medialis humeri, ligamentum collaterale ulnare et processus coronoideus ulnae", "en": "Medial epicondyle of the humerus, ulnar collateral ligament and coronoid process of the ulna"},
+      "insertion": {"la": "Phalanges mediae digitorum II-V (per tendines communes)", "en": "Middle phalanges of digits 2-5, through the common tendons"}
+    }
+  },
+  {
+    "key": "radial-head-of-flexor-digitorum-superficialis",
+    "kind": "muscle-part",
+    "la": "Caput radiale musculi flexoris digitorum superficialis",
+    "alt": ["Caput radiale m. flexoris digitorum superficialis", "Caput radiale flexoris superficialis digitorum", "Caput radiale"],
+    "en": "Radial head of flexor digitorum superficialis",
+    "desc": {
+      "en": "Thin flat head arising from the upper half of the anterior border of the radius, below the radial tuberosity. The tendinous arch between it and the humero-ulnar head covers the median nerve and the ulnar artery.",
+      "id": "Kepala tipis dan pipih yang berasal dari separuh atas margo anterior radii, di bawah tuberositas radii. Lengkung tendinosa antara kepala ini dan caput humeroulnare menutupi n. medianus dan a. ulnaris."
+    },
+    "facts": {
+      "muscle": "flexor-digitorum-superficialis-muscle",
+      "origin": {"la": "Dimidium proximale marginis anterioris radii", "en": "Upper half of the anterior border of the radius"},
+      "insertion": {"la": "Phalanges mediae digitorum II-V (per tendines communes)", "en": "Middle phalanges of digits 2-5, through the common tendons"}
+    }
+  },
+  {
+    "key": "flexor-digitorum-profundus",
+    "kind": "muscle",
+    "la": "Musculus flexor digitorum profundus",
+    "alt": ["M. flexor digitorum profundus", "Flexor digitorum profundus", "Musculus flexor profundus digitorum"],
+    "en": "Flexor digitorum profundus",
+    "desc": {
+      "en": "Thick muscle of the deep layer covering the front of the ulna. It is the only muscle that can flex the distal interphalangeal joints. Its four tendons run through the carpal tunnel deep to the superficialis tendons, give origin to the lumbricals in the palm and pass through the split superficialis tendons to the distal phalanges.",
+      "id": "Otot tebal pada lapisan dalam yang menutupi permukaan depan ulna. Otot ini satu-satunya yang dapat memfleksikan sendi interphalangea distalis. Keempat tendonya melalui canalis carpi di bawah tendo m. flexor digitorum superficialis, menjadi origo mm. lumbricales di telapak tangan, lalu menembus belahan tendo superficialis menuju phalanx distalis."
+    },
+    "facts": {
+      "group": {"en": "Anterior compartment of forearm, deep layer (module: lapis ketiga)", "id": "Otot regio antebrachii kompartemen anterior, lapis ketiga (profunda)"},
+      "origin": {
+        "la": "Tres quartae proximales facierum medialis et anterioris ulnae et membrana interossea antebrachii",
+        "en": "Proximal three quarters of the medial and anterior surfaces of the ulna and the interosseous membrane"
+      },
+      "insertion": {"la": "Bases phalangum distalium digitorum II-V (facies palmaris)", "en": "Palmar surface of the bases of the distal phalanges of digits 2-5"},
+      "action": {
+        "en": "Flexes the distal phalanges at the distal interphalangeal joints of digits 2-5, then helps flex the more proximal finger joints and the hand at the wrist.",
+        "id": "Fleksi phalanx distalis pada sendi interphalangea distalis jari II-V, kemudian membantu fleksi sendi-sendi jari yang lebih proksimal dan fleksi tangan pada pergelangan tangan."
+      },
+      "nerve": {
+        "la": "Pars medialis (digiti IV-V): nervus ulnaris; pars lateralis (digiti II-III): nervus interosseus antebrachii anterior (nervus medianus)",
+        "roots": "C8-T1"
+      },
+      "blood": ["Arteria interossea anterior", "Rami musculares arteriae ulnaris"],
+      "clinical": {
+        "en": "The double nerve supply shows in lesions. An ulnar nerve injury at the elbow loses distal flexion of the ring and little fingers, while an anterior interosseous nerve lesion loses it in the index and middle fingers. To test the muscle, hold the middle phalanx still and ask the patient to bend the fingertip.",
+        "id": "Persarafan ganda ini tampak pada lesi saraf. Cedera n. ulnaris setinggi siku menghilangkan fleksi distal jari manis dan kelingking, sedangkan lesi n. interosseus antebrachii anterior menghilangkannya pada jari telunjuk dan jari tengah. Untuk menguji otot ini, phalanx media ditahan lalu pasien diminta menekuk ujung jarinya."
+      }
+    },
+    "quiz": {
+      "origin": ["Facies anterior et medialis ulnae et membrana interossea", "permukaan anterior ulna dan membrana interossea", "facies anterior ulnae", "ulna dan membrana interossea antebrachii"],
+      "insertion": ["Bases phalangum distalium digitorum II-V", "basis phalanx distalis jari II-V", "basis falang distal jari II-V", "phalanx distalis jari II-V"],
+      "nerve": ["Nervus medianus et nervus ulnaris", "N. medianus (n. interosseus anterior) dan n. ulnaris", "N. ulnaris et N. interosseus antebrachii anterior", "N. medianus dan N. ulnaris"],
+      "action": ["Flexio articulationum interphalangearum distalium digitorum II-V", "fleksi sendi interphalangeal distal jari II-V", "fleksi phalanx distalis", "fleksi jari II-V", "fleksi pergelangan tangan dan jari"]
+    }
+  },
+  {
+    "key": "flexor-pollicis-longus",
+    "kind": "muscle",
+    "la": "Musculus flexor pollicis longus",
+    "alt": ["M. flexor pollicis longus", "Flexor pollicis longus", "Musculus flexor longus pollicis", "M. pollicis longus"],
+    "en": "Flexor pollicis longus",
+    "desc": {
+      "en": "Deep flexor lying lateral to flexor digitorum profundus on the front of the radius. Its tendon runs through the carpal tunnel in its own synovial sheath and between the thenar muscles to the distal phalanx of the thumb. It is the only muscle that flexes the interphalangeal joint of the thumb.",
+      "id": "Otot fleksor dalam di lateral m. flexor digitorum profundus, pada permukaan depan radius. Tendonya melalui canalis carpi dalam selubung sinovialnya sendiri dan berjalan di antara otot thenar menuju phalanx distalis ibu jari. Otot ini satu-satunya yang memfleksikan sendi interphalangea ibu jari."
+    },
+    "facts": {
+      "group": {"en": "Anterior compartment of forearm, deep layer (module: lapis ketiga)", "id": "Otot regio antebrachii kompartemen anterior, lapis ketiga (profunda)"},
+      "origin": {"la": "Facies anterior radii et membrana interossea antebrachii", "en": "Anterior surface of the radius and the adjacent interosseous membrane"},
+      "insertion": {"la": "Basis phalangis distalis pollicis (facies palmaris)", "en": "Palmar surface of the base of the distal phalanx of the thumb"},
+      "action": {
+        "en": "Flexes the distal phalanx of the thumb at the interphalangeal joint, then helps flex the metacarpophalangeal and carpometacarpal joints of the thumb, and weakly the wrist.",
+        "id": "Fleksi phalanx distalis ibu jari pada sendi interphalangea, kemudian membantu fleksi sendi metacarpophalangea dan carpometacarpalis ibu jari, serta fleksi lemah pergelangan tangan."
+      },
+      "nerve": {"la": "Nervus interosseus antebrachii anterior (nervus medianus)", "roots": "C8-T1"},
+      "blood": ["Arteria interossea anterior", "Rami musculares arteriae radialis"],
+      "clinical": {
+        "en": "In anterior interosseous nerve palsy the patient cannot make a round 'OK' sign. The tip of the thumb and the tip of the index finger cannot bend, so the pinch becomes flat, pad to pad.",
+        "id": "Pada kelumpuhan n. interosseus antebrachii anterior, pasien tidak dapat membentuk tanda 'OK' yang bulat. Ujung ibu jari dan ujung jari telunjuk tidak dapat ditekuk, sehingga jepitan menjadi datar, bantalan bertemu bantalan."
+      },
+      "note": {
+        "en": "The module names this muscle 'm. pollicis longus', leaving out 'flexor', and lists flexion of the 'distal interphalangeal' joint of the thumb. The thumb has two phalanges and a single interphalangeal joint.",
+        "id": "Modul menulis nama otot ini sebagai 'm. pollicis longus' tanpa kata 'flexor', dan menyebut fleksi sendi 'interphalangeal distal' ibu jari. Ibu jari hanya memiliki dua phalanx dan satu sendi interphalangea."
+      }
+    },
+    "quiz": {
+      "origin": ["Facies anterior radii et membrana interossea", "permukaan anterior radius dan membrana interossea", "facies anterior radii", "radius dan membrana interossea antebrachii"],
+      "insertion": ["Basis phalangis distalis pollicis", "basis phalanx distalis ibu jari", "basis falang distal ibu jari", "phalanx distalis pollicis"],
+      "nerve": ["Nervus interosseus antebrachii anterior", "N. interosseus anterior", "N. interosseus antebrachii anterior", "Nervus medianus", "N. medianus"],
+      "action": ["Flexio pollicis", "fleksi ibu jari", "fleksi sendi interphalangeal ibu jari", "flexio articulationis interphalangeae pollicis", "fleksi phalanx distalis ibu jari"]
+    }
+  },
+  {
+    "key": "pronator-quadratus",
+    "kind": "muscle",
+    "la": "Musculus pronator quadratus",
+    "alt": ["M. pronator quadratus", "Pronator quadratus"],
+    "en": "Pronator quadratus",
+    "desc": {
+      "en": "Flat quadrilateral muscle, the deepest in the front of the forearm, stretched across the distal quarter of the radius and ulna just above the wrist. It is the main pronator and starts every pronation; its deep fibers also hold the lower ends of the radius and ulna together.",
+      "id": "Otot pipih segi empat, terdalam di bagian depan lengan bawah, terbentang melintang pada seperempat distal radius dan ulna tepat di atas pergelangan tangan. Otot ini pronator utama yang memulai setiap gerakan pronasi; serabut dalamnya juga mengikat ujung bawah radius dan ulna."
+    },
+    "facts": {
+      "group": {"en": "Anterior compartment of forearm, deep layer (module: lapis keempat)", "id": "Otot regio antebrachii kompartemen anterior, lapis keempat (paling dalam)"},
+      "origin": {"la": "Quarta pars distalis faciei anterioris ulnae", "en": "Distal quarter of the anterior surface of the ulna"},
+      "insertion": {"la": "Quarta pars distalis faciei anterioris radii", "en": "Distal quarter of the anterior surface of the radius"},
+      "action": {
+        "en": "Pronates the forearm; pronator teres helps when speed or force is needed. Its deep fibers bind the radius and ulna together at the distal radio-ulnar joint.",
+        "id": "Pronasi lengan bawah; m. pronator teres membantu bila diperlukan kecepatan atau tenaga. Serabut dalamnya mengikat radius dan ulna pada sendi radioulnaris distalis."
+      },
+      "nerve": {"la": "Nervus interosseus antebrachii anterior (nervus medianus)", "roots": "C8-T1"},
+      "blood": ["Arteria interossea anterior"]
+    },
+    "quiz": {
+      "origin": ["Quarta pars distalis faciei anterioris ulnae", "permukaan anterior ulna bagian distal", "facies anterior ulnae", "seperempat distal permukaan anterior ulna"],
+      "insertion": ["Quarta pars distalis faciei anterioris radii", "permukaan anterior radius", "facies anterior radii", "seperempat distal permukaan anterior radius"],
+      "nerve": ["Nervus interosseus antebrachii anterior", "N. interosseus anterior", "N. interosseus antebrachii anterior", "Nervus medianus", "N. medianus"],
+      "action": ["Pronatio antebrachii", "pronasi lengan bawah", "pronasi", "pronator utama"]
+    }
+  },
+  {
+    "key": "brachioradialis-muscle",
+    "kind": "muscle",
+    "la": "Musculus brachioradialis",
+    "alt": ["M. brachioradialis", "Brachioradialis"],
+    "en": "Brachioradialis",
+    "desc": {
+      "en": "Superficial muscle along the lateral side of the forearm, from the lateral supracondylar ridge of the humerus to the distal radius just above the styloid process. It lies in the extensor compartment and is supplied by the radial nerve, yet it flexes the elbow. It forms the lateral border of the cubital fossa, and the superficial branch of the radial nerve runs under it.",
+      "id": "Otot superfisial di sisi lateral lengan bawah, dari crista supracondylaris lateralis humeri ke ujung distal radius tepat di atas processus styloideus. Otot ini terletak di kompartemen ekstensor dan dipersarafi n. radialis, tetapi bekerja sebagai fleksor siku. Otot ini membentuk batas lateral fossa cubiti, dan r. superficialis n. radialis berjalan di bawahnya."
+    },
+    "facts": {
+      "group": {"en": "Lateral (radial) group of forearm (module: kompartemen lateral); Moore counts it in the superficial layer of the posterior compartment", "id": "Otot regio antebrachii kompartemen lateral; dalam buku Moore termasuk lapisan superfisial kompartemen posterior"},
+      "origin": {"la": "Duae tertiae proximales cristae supracondylaris lateralis humeri", "en": "Proximal two thirds of the lateral supracondylar ridge of the humerus"},
+      "insertion": {"la": "Facies lateralis extremitatis distalis radii, proxime processum styloideum", "en": "Lateral surface of the distal end of the radius, just above the styloid process"},
+      "action": {
+        "en": "Flexes the forearm at the elbow, most strongly with the forearm in the mid-prone (thumb-up) position, especially in quick movements or against a load.",
+        "id": "Fleksi lengan bawah pada sendi siku, paling kuat bila lengan bawah dalam posisi netral (ibu jari menghadap ke atas), terutama pada gerakan cepat atau melawan beban."
+      },
+      "nerve": {"la": "Nervus radialis", "roots": "C5-C6"},
+      "blood": ["Arteria recurrens radialis", "Arteria collateralis radialis", "Rami musculares arteriae radialis"],
+      "clinical": {
+        "en": "The brachioradialis reflex, tapped over the distal radius, tests mainly the C6 segment.",
+        "id": "Refleks brachioradialis, yang diperiksa dengan mengetuk ujung distal radius, terutama menguji segmen C6."
+      },
+      "note": {
+        "en": "The module gives the origin as the lateral epicondyle. Standard references place it higher, on the upper two thirds of the lateral supracondylar ridge, above the common extensor origin.",
+        "id": "Modul menyebut origo pada epicondylus lateralis humeri. Buku acuan standar menyebut letaknya lebih tinggi, yaitu pada dua pertiga atas crista supracondylaris lateralis humeri, di atas origo bersama otot ekstensor."
+      }
+    },
+    "quiz": {
+      "origin": ["Crista supracondylaris lateralis humeri", "crista supracondylaris lateralis", "crista supraepicondylaris lateralis humeri", "dua pertiga proksimal crista supracondylaris lateralis humeri"],
+      "insertion": ["Basis processus styloidei radii", "facies lateralis radii distalis", "ujung distal radius di atas processus styloideus", "processus styloideus radii", "radius distal"],
+      "nerve": ["Nervus radialis", "N. radialis"],
+      "action": ["Flexio cubiti", "fleksi siku", "fleksi lengan bawah pada sendi siku", "fleksi siku pada posisi netral", "flexio articulationis cubiti"]
+    }
+  },
+  {
+    "key": "extensor-carpi-radialis-longus",
+    "kind": "muscle",
+    "la": "Musculus extensor carpi radialis longus",
+    "alt": ["M. extensor carpi radialis longus", "Extensor carpi radialis longus", "Musculus extensor radialis longus carpi"],
+    "en": "Extensor carpi radialis longus",
+    "desc": {
+      "en": "Long extensor on the radial side of the forearm, arising just below brachioradialis and partly overlapped by it. Its tendon runs with that of extensor carpi radialis brevis through the second compartment of the extensor retinaculum to the base of the second metacarpal.",
+      "id": "Otot ekstensor panjang di sisi radial lengan bawah, berasal tepat di bawah m. brachioradialis dan sebagian tertutup olehnya. Tendonya berjalan bersama tendo m. extensor carpi radialis brevis melalui kompartemen kedua retinaculum musculorum extensorum menuju basis os metacarpi II."
+    },
+    "facts": {
+      "group": {"en": "Lateral (radial) group of forearm (module: kompartemen lateral); Moore counts it in the superficial layer of the posterior compartment", "id": "Otot regio antebrachii kompartemen lateral; dalam buku Moore termasuk lapisan superfisial kompartemen posterior"},
+      "origin": {"la": "Tertia distalis cristae supracondylaris lateralis humeri et septum intermusculare brachii laterale", "en": "Distal third of the lateral supracondylar ridge of the humerus and the lateral intermuscular septum"},
+      "insertion": {"la": "Basis ossis metacarpi II (facies dorsalis)", "en": "Dorsal surface of the base of the second metacarpal"},
+      "action": {
+        "en": "Extends and abducts the hand at the wrist. It also holds the wrist in slight extension when the fist is clenched, so the finger flexors work at a good length.",
+        "id": "Ekstensi dan abduksi tangan pada pergelangan tangan. Otot ini juga menahan pergelangan tangan dalam ekstensi ringan saat mengepal, sehingga otot fleksor jari bekerja pada panjang yang menguntungkan."
+      },
+      "nerve": {"la": "Nervus radialis", "roots": "C6-C7"},
+      "blood": ["Arteria recurrens radialis", "Arteria collateralis radialis", "Rami musculares arteriae radialis"]
+    },
+    "quiz": {
+      "origin": ["Crista supracondylaris lateralis humeri", "crista supracondylaris lateralis (sepertiga distal)", "crista supraepicondylaris lateralis humeri", "humerus lateral di atas epicondylus lateralis"],
+      "insertion": ["Basis ossis metacarpi II", "basis metakarpal II", "basis os metacarpi II (dorsal)", "basis os metacarpi II"],
+      "nerve": ["Nervus radialis", "N. radialis"],
+      "action": ["Extensio et abductio manus", "ekstensi dan abduksi pergelangan tangan", "ekstensi pergelangan tangan", "abduksi pergelangan tangan", "deviasi radial", "fleksi radial"]
+    }
+  },
+  {
+    "key": "extensor-carpi-radialis-brevis",
+    "kind": "muscle",
+    "la": "Musculus extensor carpi radialis brevis",
+    "alt": ["M. extensor carpi radialis brevis", "Extensor carpi radialis brevis", "Musculus extensor radialis brevis carpi"],
+    "en": "Extensor carpi radialis brevis",
+    "desc": {
+      "en": "Shorter radial wrist extensor lying under and behind extensor carpi radialis longus. It arises from the common extensor tendon and inserts on the third metacarpal, so it extends the wrist with less abduction than the longus.",
+      "id": "Ekstensor pergelangan tangan sisi radial yang lebih pendek, terletak di bawah dan di belakang m. extensor carpi radialis longus. Otot ini berasal dari tendo ekstensor bersama dan berinsersio pada os metacarpi III, sehingga ekstensinya disertai abduksi yang lebih kecil dibandingkan m. extensor carpi radialis longus."
+    },
+    "facts": {
+      "group": {"en": "Lateral (radial) group of forearm (module: kompartemen lateral); Moore counts it in the superficial layer of the posterior compartment", "id": "Otot regio antebrachii kompartemen lateral; dalam buku Moore termasuk lapisan superfisial kompartemen posterior"},
+      "origin": {"la": "Epicondylus lateralis humeri (origo communis extensorum)", "en": "Lateral epicondyle of the humerus (common extensor origin)"},
+      "insertion": {"la": "Basis ossis metacarpi III (facies dorsalis)", "en": "Dorsal surface of the base of the third metacarpal"},
+      "action": {
+        "en": "Extends and abducts the hand at the wrist, and steadies the wrist during gripping.",
+        "id": "Ekstensi dan abduksi tangan pada pergelangan tangan, serta menstabilkan pergelangan tangan saat menggenggam."
+      },
+      "nerve": {"la": "Ramus profundus nervi radialis", "roots": "C7-C8"},
+      "blood": ["Arteria recurrens radialis", "Rami musculares arteriae radialis"],
+      "clinical": {
+        "en": "Lateral epicondylitis (tennis elbow) is a degenerative strain of the common extensor origin, mostly of the part that belongs to this muscle. Pain at the lateral epicondyle increases with resisted wrist extension and with gripping.",
+        "id": "Epikondilitis lateral (tennis elbow) adalah cedera degeneratif pada origo bersama otot ekstensor, terutama bagian milik otot ini. Nyeri di epicondylus lateralis bertambah saat ekstensi pergelangan tangan melawan tahanan dan saat menggenggam."
+      }
+    },
+    "quiz": {
+      "origin": ["Epicondylus lateralis humeri", "epicondylus lateralis", "epikondilus lateral humerus", "origo communis extensorum"],
+      "insertion": ["Basis ossis metacarpi III", "basis metakarpal III", "basis os metacarpi III (dorsal)", "basis os metacarpi III"],
+      "nerve": ["Ramus profundus nervi radialis", "R. profundus n. radialis", "Nervus radialis", "N. radialis"],
+      "action": ["Extensio et abductio manus", "ekstensi dan abduksi pergelangan tangan", "ekstensi pergelangan tangan", "abduksi pergelangan tangan", "deviasi radial", "fleksi radial"]
+    }
+  },
+  {
+    "key": "extensor-digitorum",
+    "kind": "muscle",
+    "la": "Musculus extensor digitorum",
+    "alt": ["M. extensor digitorum", "Extensor digitorum", "Musculus extensor digitorum communis", "M. extensor digitorum communis"],
+    "en": "Extensor digitorum",
+    "desc": {
+      "en": "Main extensor of the medial four fingers, in the middle of the back of the forearm. Its four tendons pass with extensor indicis through the fourth compartment of the extensor retinaculum; on the back of the hand they are linked by intertendinous connections, which is why the ring finger cannot be lifted fully on its own. Over each finger the tendon spreads into the extensor expansion.",
+      "id": "Ekstensor utama empat jari medial, terletak di tengah bagian belakang lengan bawah. Keempat tendonya bersama m. extensor indicis melewati kompartemen keempat retinaculum musculorum extensorum; di punggung tangan tendo-tendo ini dihubungkan oleh connexus intertendinei, sehingga jari manis tidak dapat diangkat penuh secara mandiri. Pada setiap jari tendonya melebar menjadi aponeurosis dorsalis (extensor expansion)."
+    },
+    "facts": {
+      "group": {"en": "Posterior compartment of forearm, superficial layer", "id": "Otot regio antebrachii kompartemen posterior, lapisan superfisial"},
+      "origin": {"la": "Epicondylus lateralis humeri (origo communis extensorum)", "en": "Lateral epicondyle of the humerus (common extensor origin)"},
+      "insertion": {"la": "Aponeuroses dorsales digitorum II-V; per eas bases phalangum mediarum et distalium", "en": "Extensor expansions of digits 2-5, through which it reaches the bases of the middle and distal phalanges"},
+      "action": {
+        "en": "Extends digits 2-5, mainly at the metacarpophalangeal joints and secondarily at the interphalangeal joints, and helps extend the hand at the wrist.",
+        "id": "Ekstensi jari II-V, terutama pada sendi metacarpophalangea dan selanjutnya pada sendi interphalangea, serta membantu ekstensi tangan pada pergelangan tangan."
+      },
+      "nerve": {"la": "Nervus interosseus antebrachii posterior (ramus profundus nervi radialis)", "roots": "C7-C8"},
+      "blood": ["Arteria interossea posterior", "Arteria interossea recurrens"]
+    },
+    "quiz": {
+      "origin": ["Epicondylus lateralis humeri", "epicondylus lateralis", "epikondilus lateral humerus", "origo communis extensorum"],
+      "insertion": ["Aponeuroses dorsales digitorum II-V", "phalanges mediae et distales digitorum II-V", "falang distal jari II-V", "extensor expansion jari II-V", "basis phalanx media dan distal jari II-V"],
+      "nerve": ["Nervus interosseus antebrachii posterior", "N. interosseus posterior", "N. interosseus antebrachii posterior", "Ramus profundus nervi radialis", "Nervus radialis", "N. radialis"],
+      "action": ["Extensio digitorum II-V", "ekstensi jari II-V", "ekstensi jari-jari", "ekstensi pergelangan tangan dan jari II-V", "extensio articulationum metacarpophalangearum"]
+    }
+  },
+  {
+    "key": "extensor-digiti-minimi",
+    "kind": "muscle",
+    "la": "Musculus extensor digiti minimi",
+    "alt": ["M. extensor digiti minimi", "Extensor digiti minimi", "Musculus extensor digiti quinti proprius"],
+    "en": "Extensor digiti minimi",
+    "desc": {
+      "en": "Slender muscle partly separated from the ulnar side of extensor digitorum. Its tendon runs alone in the fifth compartment of the extensor retinaculum, over the distal radio-ulnar joint, and joins the extensor expansion of the little finger, so the little finger can be extended on its own.",
+      "id": "Otot ramping yang sebagian terpisah dari sisi ulnar m. extensor digitorum. Tendonya berjalan sendiri dalam kompartemen kelima retinaculum musculorum extensorum, di atas sendi radioulnaris distalis, lalu bergabung dengan aponeurosis dorsalis jari kelingking, sehingga jari kelingking dapat diekstensikan secara mandiri."
+    },
+    "facts": {
+      "group": {"en": "Posterior compartment of forearm, superficial layer", "id": "Otot regio antebrachii kompartemen posterior, lapisan superfisial"},
+      "origin": {"la": "Epicondylus lateralis humeri (origo communis extensorum)", "en": "Lateral epicondyle of the humerus (common extensor origin)"},
+      "insertion": {"la": "Aponeurosis dorsalis digiti minimi", "en": "Extensor expansion of the fifth digit"},
+      "action": {
+        "en": "Extends the little finger at the metacarpophalangeal and interphalangeal joints, and helps extend the wrist.",
+        "id": "Ekstensi jari kelingking pada sendi metacarpophalangea dan interphalangea, serta membantu ekstensi pergelangan tangan."
+      },
+      "nerve": {"la": "Nervus interosseus antebrachii posterior (ramus profundus nervi radialis)", "roots": "C7-C8"},
+      "blood": ["Arteria interossea posterior"]
+    },
+    "quiz": {
+      "origin": ["Epicondylus lateralis humeri", "epicondylus lateralis", "epikondilus lateral humerus"],
+      "insertion": ["Aponeurosis dorsalis digiti minimi", "phalanx distalis digiti V", "falang distal jari kelima", "extensor expansion jari V", "phalanges digiti minimi"],
+      "nerve": ["Nervus interosseus antebrachii posterior", "N. interosseus posterior", "N. interosseus antebrachii posterior", "Nervus radialis", "N. radialis"],
+      "action": ["Extensio digiti minimi", "ekstensi jari kelingking", "ekstensi jari V", "ekstensi jari kelima"]
+    }
+  },
+  {
+    "key": "extensor-carpi-ulnaris-muscle",
+    "kind": "muscle",
+    "model": false,
+    "la": "Musculus extensor carpi ulnaris",
+    "alt": ["M. extensor carpi ulnaris", "Extensor carpi ulnaris", "Musculus extensor ulnaris carpi"],
+    "en": "Extensor carpi ulnaris",
+    "desc": {
+      "en": "Most medial muscle of the superficial extensor layer, with a humeral head from the common extensor origin and an ulnar head from the posterior border of the ulna. Its tendon runs in the sixth compartment of the extensor retinaculum, in the groove between the head and the styloid process of the ulna, to the base of the fifth metacarpal.",
+      "id": "Otot paling medial pada lapisan ekstensor superfisial, dengan caput humerale dari origo bersama otot ekstensor dan caput ulnare dari margo posterior ulnae. Tendonya berjalan dalam kompartemen keenam retinaculum musculorum extensorum, pada alur di antara caput ulnae dan processus styloideus ulnae, menuju basis os metacarpi V."
+    },
+    "facts": {
+      "group": {"en": "Posterior compartment of forearm, superficial layer", "id": "Otot regio antebrachii kompartemen posterior, lapisan superfisial"},
+      "origin": {
+        "la": "Caput humerale: epicondylus lateralis humeri; caput ulnare: margo posterior ulnae (per aponeurosin)",
+        "en": "Humeral head: lateral epicondyle (common extensor origin). Ulnar head: posterior border of the ulna, through an aponeurosis shared with flexor carpi ulnaris and flexor digitorum profundus."
+      },
+      "insertion": {"la": "Basis ossis metacarpi V (facies dorsalis, latus mediale)", "en": "Dorsal surface of the base of the fifth metacarpal, on its medial side"},
+      "action": {
+        "en": "Extends and adducts the hand at the wrist. Like the radial extensors, it holds the wrist steady when the fist is clenched.",
+        "id": "Ekstensi dan adduksi tangan pada pergelangan tangan. Seperti ekstensor sisi radial, otot ini menahan pergelangan tangan tetap stabil saat mengepal."
+      },
+      "nerve": {"la": "Nervus interosseus antebrachii posterior (ramus profundus nervi radialis)", "roots": "C7-C8"},
+      "blood": ["Arteria interossea posterior", "Rami musculares arteriae ulnaris"],
+      "parts": ["humeral-head-of-extensor-carpi-ulnaris", "ulnar-head-of-extensor-carpi-ulnaris"]
+    },
+    "quiz": {
+      "origin": ["Epicondylus lateralis humeri et margo posterior ulnae", "epicondylus lateralis humeri", "epicondylus lateralis humeri dan margo posterior ulna", "epikondilus lateral humerus"],
+      "insertion": ["Basis ossis metacarpi V", "basis metakarpal V", "basis os metacarpi V (dorsal)", "basis os metacarpi V"],
+      "nerve": ["Nervus interosseus antebrachii posterior", "N. interosseus posterior", "N. interosseus antebrachii posterior", "Nervus radialis", "N. radialis"],
+      "action": ["Extensio et adductio manus", "ekstensi dan adduksi pergelangan tangan", "ekstensi pergelangan tangan", "adduksi pergelangan tangan", "deviasi ulnar", "fleksi ulnar"]
+    }
+  },
+  {
+    "key": "humeral-head-of-extensor-carpi-ulnaris",
+    "kind": "muscle-part",
+    "la": "Caput humerale musculi extensoris carpi ulnaris",
+    "alt": ["Caput humerale m. extensoris carpi ulnaris", "Caput humerale extensoris ulnaris carpi", "Caput humerale"],
+    "en": "Humeral head of extensor carpi ulnaris",
+    "desc": {
+      "en": "Upper head of extensor carpi ulnaris, arising from the lateral epicondyle as part of the common extensor tendon.",
+      "id": "Kepala atas m. extensor carpi ulnaris yang berasal dari epicondylus lateralis humeri sebagai bagian dari tendo ekstensor bersama."
+    },
+    "facts": {
+      "muscle": "extensor-carpi-ulnaris-muscle",
+      "origin": {"la": "Epicondylus lateralis humeri (origo communis extensorum)", "en": "Lateral epicondyle of the humerus (common extensor origin)"},
+      "insertion": {"la": "Basis ossis metacarpi V (per tendinem communem)", "en": "Base of the fifth metacarpal, through the common tendon"}
+    }
+  },
+  {
+    "key": "ulnar-head-of-extensor-carpi-ulnaris",
+    "kind": "muscle-part",
+    "la": "Caput ulnare musculi extensoris carpi ulnaris",
+    "alt": ["Caput ulnare m. extensoris carpi ulnaris", "Caput ulnare extensoris ulnaris carpi", "Caput ulnare"],
+    "en": "Ulnar head of extensor carpi ulnaris",
+    "desc": {
+      "en": "Head arising from the posterior border of the ulna through an aponeurosis that also gives origin to flexor carpi ulnaris and flexor digitorum profundus.",
+      "id": "Kepala yang berasal dari margo posterior ulnae melalui aponeurosis yang juga menjadi origo m. flexor carpi ulnaris dan m. flexor digitorum profundus."
+    },
+    "facts": {
+      "muscle": "extensor-carpi-ulnaris-muscle",
+      "origin": {"la": "Margo posterior ulnae (per aponeurosin)", "en": "Posterior border of the ulna, through an aponeurosis"},
+      "insertion": {"la": "Basis ossis metacarpi V (per tendinem communem)", "en": "Base of the fifth metacarpal, through the common tendon"}
+    }
+  },
+  {
+    "key": "supinator",
+    "kind": "muscle",
+    "la": "Musculus supinator",
+    "alt": ["M. supinator", "Supinator"],
+    "en": "Supinator",
+    "desc": {
+      "en": "Deep sheet-like muscle that wraps around the upper third of the radius from behind. The deep branch of the radial nerve passes through it and comes out as the posterior interosseous nerve. With brachialis it forms the floor of the cubital fossa.",
+      "id": "Otot dalam berbentuk lembaran yang membungkus sepertiga atas radius dari arah belakang. R. profundus n. radialis menembus otot ini dan keluar sebagai n. interosseus antebrachii posterior. Bersama m. brachialis, otot ini membentuk dasar fossa cubiti."
+    },
+    "facts": {
+      "group": {"en": "Posterior compartment of forearm, deep layer", "id": "Otot regio antebrachii kompartemen posterior, lapisan profunda"},
+      "origin": {
+        "la": "Epicondylus lateralis humeri, ligamentum collaterale radiale, ligamentum anulare radii et crista musculi supinatoris ulnae",
+        "en": "Lateral epicondyle of the humerus, radial collateral and anular ligaments, and the supinator fossa and supinator crest of the ulna"
+      },
+      "insertion": {"la": "Facies lateralis, posterior et anterior tertiae proximalis radii", "en": "Lateral, posterior and anterior surfaces of the proximal third of the radius"},
+      "action": {
+        "en": "Supinates the forearm by rotating the radius. It is the main supinator in slow, unresisted movements, and biceps brachii adds power when the elbow is flexed.",
+        "id": "Supinasi lengan bawah dengan memutar radius. Otot ini supinator utama pada gerakan lambat tanpa tahanan, dan m. biceps brachii menambah tenaga bila siku dalam posisi fleksi."
+      },
+      "nerve": {"la": "Ramus profundus nervi radialis", "roots": "C6-C7"},
+      "blood": ["Arteria recurrens radialis", "Arteria interossea recurrens", "Arteria interossea posterior"],
+      "clinical": {
+        "en": "The deep branch of the radial nerve can be compressed where it enters the muscle under a fibrous arch (arcade of Frohse). The result is weak extension of the fingers and thumb with little or no sensory loss.",
+        "id": "R. profundus n. radialis dapat tertekan di tempat masuknya ke otot ini di bawah lengkung fibrosa (arcade of Frohse). Akibatnya ekstensi jari dan ibu jari melemah dengan sedikit atau tanpa gangguan sensorik."
+      }
+    },
+    "quiz": {
+      "origin": ["Epicondylus lateralis humeri et crista musculi supinatoris ulnae", "epicondylus lateralis humeri dan bagian proksimal ulna", "epicondylus lateralis humeri", "crista musculi supinatoris", "epicondylus lateralis, lig. collaterale radiale, lig. anulare radii, crista supinatoria"],
+      "insertion": ["Tertia proximalis radii", "sepertiga proksimal radius", "facies lateralis radii proximalis", "bagian proksimal radius"],
+      "nerve": ["Ramus profundus nervi radialis", "R. profundus n. radialis", "Nervus radialis", "N. radialis", "N. interosseus antebrachii posterior"],
+      "action": ["Supinatio antebrachii", "supinasi lengan bawah", "supinasi"]
+    }
+  },
+  {
+    "key": "abductor-pollicis-longus",
+    "kind": "muscle",
+    "la": "Musculus abductor pollicis longus",
+    "alt": ["M. abductor pollicis longus", "Abductor pollicis longus", "Musculus abductor longus pollicis"],
+    "en": "Abductor pollicis longus",
+    "desc": {
+      "en": "Deep extensor that comes out from under extensor digitorum on the lateral side of the forearm, together with extensor pollicis brevis, and crosses over the tendons of the radial wrist extensors. The two tendons share the first compartment of the extensor retinaculum and form the anterior (lateral) border of the anatomical snuffbox.",
+      "id": "Otot ekstensor dalam yang muncul dari bawah m. extensor digitorum di sisi lateral lengan bawah bersama m. extensor pollicis brevis, lalu menyilang di atas tendo kedua m. extensor carpi radialis. Kedua tendo tersebut menempati kompartemen pertama retinaculum musculorum extensorum dan membentuk batas anterior (lateral) fovea radialis (anatomical snuffbox)."
+    },
+    "facts": {
+      "group": {"en": "Posterior compartment of forearm, deep layer", "id": "Otot regio antebrachii kompartemen posterior, lapisan profunda"},
+      "origin": {"la": "Facies posteriores dimidiorum proximalium ulnae et radii et membrana interossea antebrachii", "en": "Posterior surfaces of the proximal halves of the ulna and radius and the interosseous membrane"},
+      "insertion": {"la": "Basis ossis metacarpi I (latus laterale)", "en": "Lateral side of the base of the first metacarpal"},
+      "action": {
+        "en": "Abducts the thumb and extends it at the carpometacarpal joint; it also helps abduct the hand at the wrist.",
+        "id": "Abduksi ibu jari dan ekstensi ibu jari pada sendi carpometacarpalis; otot ini juga membantu abduksi tangan pada pergelangan tangan."
+      },
+      "nerve": {"la": "Nervus interosseus antebrachii posterior", "roots": "C7-C8"},
+      "blood": ["Arteria interossea posterior"],
+      "clinical": {
+        "en": "Its tendon and that of extensor pollicis brevis can become inflamed and thickened in their shared sheath over the radial styloid process (de Quervain tenosynovitis). Pain appears when the thumb is held inside the fist and the wrist is bent toward the ulna (Finkelstein test).",
+        "id": "Tendo otot ini dan tendo m. extensor pollicis brevis dapat meradang dan menebal dalam selubung bersamanya di atas processus styloideus radii (tenosinovitis de Quervain). Nyeri timbul saat ibu jari digenggam dalam kepalan lalu pergelangan tangan ditekuk ke arah ulnar (uji Finkelstein)."
+      }
+    },
+    "quiz": {
+      "origin": ["Facies posterior radii et ulnae et membrana interossea", "permukaan posterior radius dan ulna serta membrana interossea", "facies posterior radii et ulnae", "radius, ulna dan membrana interossea antebrachii"],
+      "insertion": ["Basis ossis metacarpi I", "basis metakarpal I", "basis os metacarpi I (lateral)", "basis os metacarpi I"],
+      "nerve": ["Nervus interosseus antebrachii posterior", "N. interosseus posterior", "N. interosseus antebrachii posterior", "Nervus radialis", "N. radialis"],
+      "action": ["Abductio pollicis", "abduksi ibu jari", "abduksi dan ekstensi ibu jari pada sendi carpometacarpal", "ekstensi sendi carpometacarpal ibu jari", "abductio et extensio pollicis"]
+    }
+  },
+  {
+    "key": "extensor-pollicis-brevis",
+    "kind": "muscle",
+    "la": "Musculus extensor pollicis brevis",
+    "alt": ["M. extensor pollicis brevis", "Extensor pollicis brevis", "Musculus extensor brevis pollicis"],
+    "en": "Extensor pollicis brevis",
+    "desc": {
+      "en": "Small deep extensor lying just distal and medial to abductor pollicis longus, whose tendon it follows through the first compartment of the extensor retinaculum. Its tendon forms part of the anterior border of the anatomical snuffbox and ends on the proximal phalanx of the thumb.",
+      "id": "Otot ekstensor dalam yang kecil, terletak tepat di distal dan medial m. abductor pollicis longus dan mengikuti tendonya melalui kompartemen pertama retinaculum musculorum extensorum. Tendonya ikut membentuk batas anterior fovea radialis (anatomical snuffbox) dan berakhir pada phalanx proximalis ibu jari."
+    },
+    "facts": {
+      "group": {"en": "Posterior compartment of forearm, deep layer", "id": "Otot regio antebrachii kompartemen posterior, lapisan profunda"},
+      "origin": {"la": "Facies posterior tertiae distalis radii et membrana interossea antebrachii", "en": "Posterior surface of the distal third of the radius and the interosseous membrane"},
+      "insertion": {"la": "Basis phalangis proximalis pollicis (facies dorsalis)", "en": "Dorsal surface of the base of the proximal phalanx of the thumb"},
+      "action": {
+        "en": "Extends the proximal phalanx of the thumb at the metacarpophalangeal joint and helps extend the carpometacarpal joint.",
+        "id": "Ekstensi phalanx proximalis ibu jari pada sendi metacarpophalangea dan membantu ekstensi sendi carpometacarpalis."
+      },
+      "nerve": {"la": "Nervus interosseus antebrachii posterior", "roots": "C7-C8"},
+      "blood": ["Arteria interossea posterior"]
+    },
+    "quiz": {
+      "origin": ["Facies posterior radii et membrana interossea", "permukaan posterior radius dan membrana interossea", "facies posterior radii", "radius dan membrana interossea antebrachii"],
+      "insertion": ["Basis phalangis proximalis pollicis", "basis phalanx proximalis ibu jari", "basis falang proksimal ibu jari", "phalanx proximalis pollicis"],
+      "nerve": ["Nervus interosseus antebrachii posterior", "N. interosseus posterior", "N. interosseus antebrachii posterior", "Nervus radialis", "N. radialis"],
+      "action": ["Extensio pollicis (articulatio metacarpophalangea)", "ekstensi ibu jari pada sendi metacarpophalangeal", "ekstensi ibu jari", "ekstensi phalanx proximalis ibu jari"]
+    }
+  },
+  {
+    "key": "extensor-pollicis-longus",
+    "kind": "muscle",
+    "la": "Musculus extensor pollicis longus",
+    "alt": ["M. extensor pollicis longus", "Extensor pollicis longus", "Musculus extensor longus pollicis"],
+    "en": "Extensor pollicis longus",
+    "desc": {
+      "en": "Deep extensor arising from the ulna. Its tendon runs alone through the third compartment of the extensor retinaculum, hooks around the medial side of the dorsal tubercle of the radius, which acts as a pulley, and then forms the posterior (medial) border of the anatomical snuffbox on its way to the distal phalanx of the thumb.",
+      "id": "Otot ekstensor dalam yang berasal dari ulna. Tendonya berjalan sendiri melalui kompartemen ketiga retinaculum musculorum extensorum, membelok mengitari sisi medial tuberculum dorsale radii yang berfungsi sebagai katrol, lalu membentuk batas posterior (medial) fovea radialis (anatomical snuffbox) dalam perjalanannya menuju phalanx distalis ibu jari."
+    },
+    "facts": {
+      "group": {"en": "Posterior compartment of forearm, deep layer", "id": "Otot regio antebrachii kompartemen posterior, lapisan profunda"},
+      "origin": {"la": "Facies posterior tertiae mediae ulnae et membrana interossea antebrachii", "en": "Posterior surface of the middle third of the ulna and the interosseous membrane"},
+      "insertion": {"la": "Basis phalangis distalis pollicis (facies dorsalis)", "en": "Dorsal surface of the base of the distal phalanx of the thumb"},
+      "action": {
+        "en": "Extends the distal phalanx of the thumb at the interphalangeal joint and also extends the metacarpophalangeal and carpometacarpal joints. Once the thumb is extended, it draws it back toward the index finger.",
+        "id": "Ekstensi phalanx distalis ibu jari pada sendi interphalangea serta ekstensi sendi metacarpophalangea dan carpometacarpalis. Setelah ibu jari terekstensi, otot ini menariknya ke belakang mendekati jari telunjuk."
+      },
+      "nerve": {"la": "Nervus interosseus antebrachii posterior", "roots": "C7-C8"},
+      "blood": ["Arteria interossea posterior"],
+      "clinical": {
+        "en": "The tendon can fray and rupture where it turns around the dorsal tubercle, weeks after a fracture of the distal radius or in rheumatoid arthritis. The patient can then no longer straighten the tip of the thumb.",
+        "id": "Tendo ini dapat aus dan putus di tempat tendo membelok mengitari tuberculum dorsale radii, beberapa minggu setelah fraktur radius distal atau pada artritis reumatoid. Pasien kemudian tidak dapat lagi meluruskan ujung ibu jari."
+      },
+      "note": {
+        "en": "The module lists extension of the 'distal interphalangeal' joint of the thumb. The thumb has a single interphalangeal joint, and that is the joint this muscle extends.",
+        "id": "Modul menyebut ekstensi sendi 'interphalangeal distal' ibu jari. Ibu jari hanya memiliki satu sendi interphalangea, dan sendi itulah yang diekstensikan oleh otot ini."
+      }
+    },
+    "quiz": {
+      "origin": ["Facies posterior ulnae et membrana interossea", "permukaan posterior ulna dan membrana interossea", "facies posterior ulnae", "ulna dan membrana interossea antebrachii"],
+      "insertion": ["Basis phalangis distalis pollicis", "basis phalanx distalis ibu jari", "falang distal ibu jari", "phalanx distalis pollicis"],
+      "nerve": ["Nervus interosseus antebrachii posterior", "N. interosseus posterior", "N. interosseus antebrachii posterior", "Nervus radialis", "N. radialis"],
+      "action": ["Extensio pollicis", "ekstensi ibu jari", "ekstensi sendi interphalangeal ibu jari", "ekstensi phalanx distalis ibu jari", "ekstensi ibu jari pada sendi interphalangeal dan metacarpophalangeal"]
+    }
+  },
+  {
+    "key": "extensor-indicis",
+    "kind": "muscle",
+    "la": "Musculus extensor indicis",
+    "alt": ["M. extensor indicis", "Extensor indicis", "Musculus extensor indicis proprius"],
+    "en": "Extensor indicis",
+    "desc": {
+      "en": "Narrow deep extensor arising from the distal part of the ulna. Its tendon passes with extensor digitorum through the fourth compartment of the extensor retinaculum and joins the extensor expansion of the index finger on the ulnar side of the extensor digitorum tendon, which lets the index finger point on its own.",
+      "id": "Otot ekstensor dalam yang sempit, berasal dari bagian distal ulna. Tendonya bersama m. extensor digitorum melalui kompartemen keempat retinaculum musculorum extensorum, lalu bergabung dengan aponeurosis dorsalis jari telunjuk di sisi ulnar tendo m. extensor digitorum, sehingga jari telunjuk dapat menunjuk secara mandiri."
+    },
+    "facts": {
+      "group": {"en": "Posterior compartment of forearm, deep layer", "id": "Otot regio antebrachii kompartemen posterior, lapisan profunda"},
+      "origin": {"la": "Facies posterior tertiae distalis ulnae et membrana interossea antebrachii", "en": "Posterior surface of the distal third of the ulna and the interosseous membrane"},
+      "insertion": {"la": "Aponeurosis dorsalis digiti II (indicis)", "en": "Extensor expansion of the index finger (second digit)"},
+      "action": {
+        "en": "Extends the index finger, letting it move independently of the other fingers, and helps extend the hand at the wrist.",
+        "id": "Ekstensi jari telunjuk sehingga jari ini dapat bergerak terpisah dari jari lain, serta membantu ekstensi tangan pada pergelangan tangan."
+      },
+      "nerve": {"la": "Nervus interosseus antebrachii posterior", "roots": "C7-C8"},
+      "blood": ["Arteria interossea posterior", "Arteria interossea anterior"],
+      "note": {
+        "en": "The module calls the index finger 'jari I'. The index finger is digit II; digit I is the thumb.",
+        "id": "Modul menyebut jari telunjuk sebagai 'jari I'. Jari telunjuk adalah jari II; jari I adalah ibu jari."
+      }
+    },
+    "quiz": {
+      "origin": ["Facies posterior ulnae et membrana interossea", "permukaan posterior ulna dan membrana interossea", "facies posterior ulnae", "ulna dan membrana interossea antebrachii"],
+      "insertion": ["Aponeurosis dorsalis digiti II", "aponeurosis dorsalis indicis", "extensor expansion jari II", "falang distal jari telunjuk", "phalanges digiti II"],
+      "nerve": ["Nervus interosseus antebrachii posterior", "N. interosseus posterior", "N. interosseus antebrachii posterior", "Nervus radialis", "N. radialis"],
+      "action": ["Extensio indicis", "ekstensi jari telunjuk", "ekstensi jari II", "extensio digiti II"]
+    }
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "key": "biceps-brachii-muscle",
+    "kind": "muscle",
+    "la": "Musculus biceps brachii",
+    "alt": ["M. biceps brachii", "Biceps brachii", "Musculus biceps"],
+    "en": "Biceps brachii",
+    "desc": {
+      "en": "Two-headed muscle on the front of the arm. The long head arises inside the shoulder joint from the supraglenoid tubercle and the short head from the tip of the coracoid process; the bellies join and end on the radial tuberosity and, through the bicipital aponeurosis, on the deep fascia of the forearm. It is the strongest supinator of the forearm when the elbow is flexed.",
+      "id": "Otot berkepala dua di bagian depan lengan atas. Caput longum berasal dari tuberculum supraglenoidale di dalam sendi bahu dan caput breve dari ujung processus coracoideus; kedua venter bersatu lalu berinsersio pada tuberositas radii dan, melalui aponeurosis bicipitalis, pada fascia antebrachii. Otot ini adalah supinator terkuat lengan bawah saat siku dalam posisi fleksi."
+    },
+    "facts": {
+      "group": {"en": "Anterior compartment of arm (flexors)", "id": "Otot regio brachii, kompartemen anterior (fleksor)"},
+      "origin": {
+        "la": "Caput longum: tuberculum supraglenoidale scapulae; caput breve: apex processus coracoidei scapulae",
+        "en": "Long head: supraglenoid tubercle of the scapula and the upper part of the glenoid labrum. Short head: tip of the coracoid process, in a common tendon with coracobrachialis."
+      },
+      "insertion": {
+        "la": "Tuberositas radii; per aponeurosin musculi bicipitis brachii (lacertus fibrosus) in fasciam antebrachii",
+        "en": "Radial tuberosity, and through the bicipital aponeurosis into the deep fascia on the medial side of the forearm"
+      },
+      "action": {
+        "en": "Supinates the forearm and, with the forearm supinated, flexes it at the elbow. Supination is strongest with the elbow bent, as when driving in a screw. At the shoulder it weakly flexes the arm (mainly the long head), and the short head helps resist downward dislocation of the humerus.",
+        "id": "Supinasi lengan bawah dan, bila lengan bawah dalam posisi supinasi, fleksi lengan bawah pada sendi siku. Supinasi paling kuat saat siku tertekuk, misalnya ketika memutar obeng. Pada sendi bahu otot ini membantu fleksi lengan secara lemah (terutama caput longum), dan caput breve ikut menahan dislokasi humerus ke bawah."
+      },
+      "nerve": {"la": "Nervus musculocutaneus", "roots": "C5-C6"},
+      "blood": ["Rami musculares arteriae brachialis"],
+      "parts": ["long-head-of-biceps-brachii", "short-head-of-biceps-brachii"],
+      "clinical": {
+        "en": "The biceps reflex, tapped over the tendon in the cubital fossa, tests the C5-C6 segments. The tendon of the long head can rupture where it rubs in the intertubercular sulcus, usually in older people with a worn, inflamed tendon; the detached belly bunches into a ball in the lower arm when the elbow is flexed.",
+        "id": "Refleks biceps, yang diperiksa dengan mengetuk tendonya di fossa cubiti, menguji segmen C5-C6. Tendo caput longum dapat putus di tempat tendo bergesekan dalam sulcus intertubercularis, umumnya pada orang tua dengan tendo yang aus dan meradang; venter yang terlepas mengumpul seperti bola di bagian bawah lengan atas saat siku difleksikan."
+      }
+    },
+    "quiz": {
+      "origin": ["Tuberculum supraglenoidale et processus coracoideus", "caput longum: tuberculum supraglenoidale; caput breve: processus coracoideus", "tuberculum supraglenoidale scapulae dan processus coracoideus scapulae", "tuberculum supraglenoidale dan prosesus korakoid", "apex processus coracoidei et tuberculum supraglenoidale"],
+      "insertion": ["Tuberositas radii", "tuberositas radii et aponeurosis bicipitalis", "tuberositas radii dan aponeurosis bicipitalis", "tuberositas radialis", "tuberositas radii et fascia antebrachii"],
+      "nerve": ["Nervus musculocutaneus", "N. musculocutaneus", "N. muskulokutaneus"],
+      "action": ["Flexio cubiti et supinatio antebrachii", "fleksi siku dan supinasi lengan bawah", "supinasi lengan bawah", "fleksi lengan bawah pada sendi siku", "flexio articulationis cubiti", "supinatio antebrachii"]
+    }
+  },
+  {
+    "key": "long-head-of-biceps-brachii",
+    "kind": "muscle-part",
+    "la": "Caput longum musculi bicipitis brachii",
+    "alt": ["Caput longum m. bicipitis brachii", "Caput longum"],
+    "en": "Long head of biceps brachii",
+    "desc": {
+      "en": "Lateral head of the biceps. Its tendon starts inside the shoulder joint capsule, arches over the head of the humerus and leaves the joint through the intertubercular sulcus in its own synovial sheath, held in the groove by the transverse humeral ligament. It helps keep the humeral head in place and assists flexion at the shoulder.",
+      "id": "Kepala lateral m. biceps brachii. Tendonya berawal di dalam capsula articularis sendi bahu, melengkung di atas caput humeri, lalu keluar dari sendi melalui sulcus intertubercularis dengan selubung sinovialnya sendiri dan ditahan di dalam alur oleh lig. transversum humeri. Bagian ini membantu menahan caput humeri pada tempatnya dan ikut melakukan fleksi bahu."
+    },
+    "facts": {
+      "muscle": "biceps-brachii-muscle",
+      "origin": {"la": "Tuberculum supraglenoidale scapulae et labrum glenoidale", "en": "Supraglenoid tubercle of the scapula and the upper part of the glenoid labrum"},
+      "insertion": {"la": "Tuberositas radii (per tendinem communem)", "en": "Radial tuberosity, through the common tendon"}
+    }
+  },
+  {
+    "key": "short-head-of-biceps-brachii",
+    "kind": "muscle-part",
+    "la": "Caput breve musculi bicipitis brachii",
+    "alt": ["Caput breve m. bicipitis brachii", "Caput breve"],
+    "en": "Short head of biceps brachii",
+    "desc": {
+      "en": "Medial head of the biceps, arising from the tip of the coracoid process in a common tendon with coracobrachialis. It joins the long head at about the middle of the arm.",
+      "id": "Kepala medial m. biceps brachii yang berasal dari ujung processus coracoideus dalam satu tendo bersama m. coracobrachialis. Bagian ini bergabung dengan caput longum kira-kira di pertengahan lengan atas."
+    },
+    "facts": {
+      "muscle": "biceps-brachii-muscle",
+      "origin": {"la": "Apex processus coracoidei scapulae", "en": "Tip of the coracoid process of the scapula"},
+      "insertion": {"la": "Tuberositas radii (per tendinem communem)", "en": "Radial tuberosity, through the common tendon"}
+    }
+  },
+  {
+    "key": "coracobrachialis-muscle",
+    "kind": "muscle",
+    "la": "Musculus coracobrachialis",
+    "alt": ["M. coracobrachialis", "Coracobrachialis"],
+    "en": "Coracobrachialis",
+    "desc": {
+      "en": "Slender muscle in the upper medial part of the arm, running from the tip of the coracoid process to the middle of the medial side of the humerus. The musculocutaneous nerve pierces it, and the brachial artery runs along its medial edge, so it is a landmark for finding both.",
+      "id": "Otot ramping di bagian atas sisi medial lengan atas, berjalan dari ujung processus coracoideus ke pertengahan sisi medial humerus. Otot ini ditembus oleh n. musculocutaneus, dan a. brachialis berjalan di sepanjang tepi medialnya, sehingga otot ini menjadi patokan untuk menemukan keduanya."
+    },
+    "facts": {
+      "group": {"en": "Anterior compartment of arm (flexors)", "id": "Otot regio brachii, kompartemen anterior (fleksor)"},
+      "origin": {"la": "Apex processus coracoidei scapulae", "en": "Tip of the coracoid process of the scapula, together with the short head of biceps"},
+      "insertion": {"la": "Tertia media faciei anteromedialis humeri", "en": "Middle third of the medial surface of the humerus"},
+      "action": {
+        "en": "Helps flex and adduct the arm at the shoulder joint, and helps keep the head of the humerus from slipping downward when the arm hangs.",
+        "id": "Membantu fleksi dan adduksi lengan pada sendi bahu, serta membantu menahan caput humeri agar tidak bergeser ke bawah saat lengan tergantung."
+      },
+      "nerve": {"la": "Nervus musculocutaneus", "roots": "C5-C7"},
+      "blood": ["Rami musculares arteriae brachialis"],
+      "note": {
+        "en": "The module places the insertion below the deltoid tuberosity. Standard references give the middle third of the medial surface of the humerus, at about the same level as the deltoid tuberosity on the lateral side.",
+        "id": "Modul menyebut insersio di bawah tuberositas deltoidea. Buku acuan standar menyebut sepertiga tengah permukaan medial humerus, kira-kira setinggi tuberositas deltoidea yang terletak di sisi lateral."
+      }
+    },
+    "quiz": {
+      "origin": ["Processus coracoideus", "apex processus coracoidei", "processus coracoideus scapulae", "prosesus korakoid scapula"],
+      "insertion": ["Tertia media faciei medialis humeri", "pertengahan permukaan medial humerus", "facies anteromedialis humeri", "facies medialis humeri", "bagian medial humerus"],
+      "nerve": ["Nervus musculocutaneus", "N. musculocutaneus", "N. muskulokutaneus"],
+      "action": ["Flexio et adductio brachii", "fleksi dan adduksi lengan", "fleksi lengan pada sendi bahu", "adduksi lengan", "stabilisasi sendi bahu"]
+    }
+  },
+  {
+    "key": "brachialis-muscle",
+    "kind": "muscle",
+    "la": "Musculus brachialis",
+    "alt": ["M. brachialis", "Brachialis"],
+    "en": "Brachialis",
+    "desc": {
+      "en": "Flat muscle lying deep to the biceps in the lower half of the arm, from the front of the humerus to the coronoid process and tuberosity of the ulna. Because it pulls on the ulna, which does not rotate, it flexes the elbow equally well with the forearm prone or supine and is the main flexor of the elbow. With supinator it forms the floor of the cubital fossa.",
+      "id": "Otot pipih di bawah m. biceps brachii pada separuh bawah lengan atas, dari permukaan depan humerus ke processus coronoideus dan tuberositas ulnae. Karena menarik ulna yang tidak ikut berotasi, otot ini memfleksikan siku sama baiknya dalam posisi pronasi maupun supinasi dan merupakan fleksor utama sendi siku. Bersama m. supinator, otot ini membentuk dasar fossa cubiti."
+    },
+    "facts": {
+      "group": {"en": "Anterior compartment of arm (flexors)", "id": "Otot regio brachii, kompartemen anterior (fleksor)"},
+      "origin": {
+        "la": "Dimidium distale facierum anteromedialis et anterolateralis humeri; septa intermuscularia brachii",
+        "en": "Distal half of the anterior surface of the humerus (anteromedial and anterolateral surfaces) and the intermuscular septa"
+      },
+      "insertion": {"la": "Processus coronoideus et tuberositas ulnae", "en": "Coronoid process and tuberosity of the ulna"},
+      "action": {
+        "en": "Flexes the forearm at the elbow in every position of the forearm, in slow and quick movements, with or without a load.",
+        "id": "Fleksi lengan bawah pada sendi siku dalam semua posisi lengan bawah, pada gerakan lambat maupun cepat, dengan atau tanpa beban."
+      },
+      "nerve": {"la": "Nervus musculocutaneus; nervus radialis (pars lateralis)", "roots": "C5-C6; C7"},
+      "blood": ["Rami musculares arteriae brachialis", "Arteria recurrens radialis"]
+    },
+    "quiz": {
+      "origin": ["Dimidium distale faciei anterioris humeri", "permukaan anterior humerus bagian distal", "facies anterior humeri", "separuh distal permukaan anterior humerus", "permukaan anterior humerus di bawah tuberositas deltoidea"],
+      "insertion": ["Processus coronoideus et tuberositas ulnae", "tuberositas ulnae", "processus coronoideus ulnae", "prosesus koronoideus dan tuberositas ulna"],
+      "nerve": ["Nervus musculocutaneus", "N. musculocutaneus", "N. musculocutaneus et N. radialis", "N. muskulokutaneus"],
+      "action": ["Flexio cubiti", "fleksi siku", "fleksi lengan bawah pada sendi siku", "flexio articulationis cubiti", "fleksor utama siku"]
+    }
+  },
+  {
+    "key": "triceps-brachii-muscle",
+    "kind": "muscle",
+    "la": "Musculus triceps brachii",
+    "alt": ["M. triceps brachii", "Triceps brachii", "Musculus triceps"],
+    "en": "Triceps brachii",
+    "desc": {
+      "en": "Large muscle filling the posterior compartment of the arm. Its long, lateral and medial heads end in a common tendon on the olecranon. The long head crosses the shoulder joint; the lateral and medial heads arise from the humerus above and below the radial groove, where the radial nerve and the profunda brachii artery run.",
+      "id": "Otot besar yang mengisi kompartemen posterior lengan atas. Caput longum, caput laterale dan caput mediale berakhir pada satu tendo bersama di olecranon. Caput longum menyilang sendi bahu, sedangkan caput laterale dan caput mediale berasal dari humerus di atas dan di bawah sulcus nervi radialis, tempat berjalannya n. radialis dan a. profunda brachii."
+    },
+    "facts": {
+      "group": {"en": "Posterior compartment of arm (extensors)", "id": "Otot regio brachii, kompartemen posterior (ekstensor)"},
+      "origin": {
+        "la": "Caput longum: tuberculum infraglenoidale scapulae; caput laterale: facies posterior humeri supra sulcum nervi radialis; caput mediale: facies posterior humeri infra sulcum nervi radialis",
+        "en": "Long head: infraglenoid tubercle of the scapula. Lateral head: posterior surface of the humerus above the radial groove. Medial head: posterior surface of the humerus below the radial groove, and the intermuscular septa."
+      },
+      "insertion": {"la": "Olecranon ulnae (pars proximalis) et fascia antebrachii", "en": "Proximal end of the olecranon of the ulna and the deep fascia of the forearm"},
+      "action": {
+        "en": "Main extensor of the forearm at the elbow. The medial head works in every extension, and the long and lateral heads are recruited when more force is needed. The long head also extends and adducts the arm at the shoulder and steadies the head of the humerus when the arm is adducted.",
+        "id": "Ekstensor utama lengan bawah pada sendi siku. Caput mediale bekerja pada setiap gerakan ekstensi, sedangkan caput longum dan caput laterale ikut bekerja bila diperlukan tenaga lebih besar. Caput longum juga melakukan ekstensi dan adduksi lengan pada sendi bahu serta menstabilkan caput humeri saat lengan adduksi."
+      },
+      "nerve": {"la": "Nervus radialis", "roots": "C6-C8"},
+      "blood": ["Arteria profunda brachii", "Arteria collateralis ulnaris superior", "Arteria circumflexa humeri posterior"],
+      "parts": ["long-head-of-triceps-brachii", "lateral-head-of-triceps-brachii", "medial-head-of-triceps-brachii"],
+      "clinical": {
+        "en": "The triceps reflex tests mainly the C7 segment. A fracture of the humeral shaft at the radial groove injures the radial nerve after most of its branches to triceps have left it, so elbow extension is kept or only weakened while the wrist and fingers drop (wrist drop).",
+        "id": "Refleks triceps terutama menguji segmen C7. Fraktur corpus humeri setinggi sulcus nervi radialis mencederai n. radialis setelah sebagian besar cabangnya untuk m. triceps brachii dilepaskan, sehingga ekstensi siku tetap ada atau hanya melemah, sedangkan pergelangan tangan dan jari terkulai (wrist drop)."
+      }
+    },
+    "quiz": {
+      "origin": ["Tuberculum infraglenoidale et facies posterior humeri", "tuberculum infraglenoidale scapulae dan permukaan posterior humerus", "caput longum: tuberculum infraglenoidale; caput laterale et mediale: facies posterior humeri", "tuberculum infraglenoidale, facies posterior humeri supra et infra sulcum nervi radialis"],
+      "insertion": ["Olecranon ulnae", "olecranon", "olekranon ulna"],
+      "nerve": ["Nervus radialis", "N. radialis"],
+      "action": ["Extensio cubiti", "ekstensi siku", "ekstensi lengan bawah pada sendi siku", "extensio articulationis cubiti", "ekstensi dan adduksi lengan (caput longum)"]
+    }
+  },
+  {
+    "key": "long-head-of-triceps-brachii",
+    "kind": "muscle-part",
+    "la": "Caput longum musculi tricipitis brachii",
+    "alt": ["Caput longum m. tricipitis brachii", "Caput longum"],
+    "en": "Long head of triceps brachii",
+    "desc": {
+      "en": "The only head of triceps that crosses the shoulder joint. It runs down from the infraglenoid tubercle between teres minor and teres major and separates the quadrangular space, lateral to it, from the triangular space, medial to it.",
+      "id": "Satu-satunya kepala m. triceps brachii yang menyilang sendi bahu. Bagian ini turun dari tuberculum infraglenoidale di antara m. teres minor dan m. teres major, dan memisahkan spatium quadrangulare di lateralnya dari spatium triangulare di medialnya."
+    },
+    "facts": {
+      "muscle": "triceps-brachii-muscle",
+      "origin": {"la": "Tuberculum infraglenoidale scapulae", "en": "Infraglenoid tubercle of the scapula"},
+      "insertion": {"la": "Olecranon ulnae (per tendinem communem)", "en": "Olecranon, through the common tendon"}
+    }
+  },
+  {
+    "key": "lateral-head-of-triceps-brachii",
+    "kind": "muscle-part",
+    "la": "Caput laterale musculi tricipitis brachii",
+    "alt": ["Caput laterale m. tricipitis brachii", "Caput laterale"],
+    "en": "Lateral head of triceps brachii",
+    "desc": {
+      "en": "Head that forms the lateral bulge on the back of the arm, arising from the posterior surface of the humerus above the radial groove. It covers the radial nerve and the profunda brachii artery as they wind round the humerus.",
+      "id": "Kepala yang membentuk tonjolan lateral di bagian belakang lengan atas, berasal dari permukaan posterior humerus di atas sulcus nervi radialis. Bagian ini menutupi n. radialis dan a. profunda brachii yang melingkari humerus."
+    },
+    "facts": {
+      "muscle": "triceps-brachii-muscle",
+      "origin": {"la": "Facies posterior humeri supra sulcum nervi radialis et septum intermusculare brachii laterale", "en": "Posterior surface of the humerus above the radial groove, and the lateral intermuscular septum"},
+      "insertion": {"la": "Olecranon ulnae (per tendinem communem)", "en": "Olecranon, through the common tendon"}
+    }
+  },
+  {
+    "key": "medial-head-of-triceps-brachii",
+    "kind": "muscle-part",
+    "la": "Caput mediale musculi tricipitis brachii",
+    "alt": ["Caput mediale m. tricipitis brachii", "Caput profundum musculi tricipitis brachii", "Caput mediale"],
+    "en": "Medial head of triceps brachii",
+    "desc": {
+      "en": "Deepest head of triceps, arising from a wide area of the posterior humerus below the radial groove and mostly covered by the other two heads. It is active in every elbow extension, and a few of its deep fibers pull on the capsule of the elbow joint.",
+      "id": "Kepala terdalam m. triceps brachii, berasal dari area luas permukaan posterior humerus di bawah sulcus nervi radialis dan sebagian besar tertutup oleh dua kepala lainnya. Bagian ini aktif pada setiap ekstensi siku, dan beberapa serabut dalamnya menarik capsula articularis sendi siku."
+    },
+    "facts": {
+      "muscle": "triceps-brachii-muscle",
+      "origin": {"la": "Facies posterior humeri infra sulcum nervi radialis; septa intermuscularia brachii", "en": "Posterior surface of the humerus below the radial groove, and both intermuscular septa"},
+      "insertion": {"la": "Olecranon ulnae (per tendinem communem) et capsula articularis cubiti", "en": "Olecranon, through the common tendon, with a few deep fibers to the elbow joint capsule"}
+    }
+  },
+  {
+    "key": "anconeus-muscle",
+    "kind": "muscle",
+    "la": "Musculus anconeus",
+    "alt": ["M. anconeus", "Anconeus"],
+    "en": "Anconeus",
+    "desc": {
+      "en": "Small triangular muscle on the back of the elbow, from the lateral epicondyle to the lateral side of the olecranon, partly blended with the medial head of triceps. It can be felt just lateral to the olecranon when the elbow is extended against resistance.",
+      "id": "Otot kecil berbentuk segitiga di bagian belakang siku, dari epicondylus lateralis humeri ke sisi lateral olecranon, dan sebagian menyatu dengan caput mediale m. tricipitis brachii. Otot ini teraba tepat di lateral olecranon saat siku diekstensikan melawan tahanan."
+    },
+    "facts": {
+      "group": {"en": "Posterior compartment of arm, as grouped in the module", "id": "Otot regio brachii, kompartemen posterior (sesuai modul)"},
+      "origin": {"la": "Epicondylus lateralis humeri (facies posterior)", "en": "Posterior surface of the lateral epicondyle of the humerus"},
+      "insertion": {"la": "Facies lateralis olecrani et pars proximalis faciei posterioris ulnae", "en": "Lateral surface of the olecranon and upper part of the posterior surface of the ulna"},
+      "action": {
+        "en": "Assists triceps in extending the forearm and steadies the elbow joint; it may also abduct the ulna slightly during pronation.",
+        "id": "Membantu m. triceps brachii melakukan ekstensi lengan bawah dan menstabilkan sendi siku; otot ini juga diduga sedikit mengabduksi ulna saat pronasi."
+      },
+      "nerve": {"la": "Nervus radialis", "roots": "C7-C8"},
+      "blood": ["Arteria collateralis media", "Arteria interossea recurrens"],
+      "note": {
+        "en": "The module lists anconeus with the muscles of the arm, as Moore's tables do. The muscle itself lies on the back of the elbow and upper forearm, and the 3D model groups it with the superficial extensors of the forearm.",
+        "id": "Modul memasukkan m. anconeus ke dalam otot regio brachii, sama seperti tabel dalam buku Moore. Otot ini sendiri terletak di bagian belakang siku dan lengan bawah atas, dan model 3D mengelompokkannya dengan otot ekstensor superfisial lengan bawah."
+      }
+    },
+    "quiz": {
+      "origin": ["Epicondylus lateralis humeri", "epicondylus lateralis", "epikondilus lateral humerus"],
+      "insertion": ["Olecranon et facies posterior ulnae", "facies lateralis olecrani", "olecranon ulna dan bagian proksimal margo posterior ulna", "olecranon", "olecranon ulnae"],
+      "nerve": ["Nervus radialis", "N. radialis"],
+      "action": ["Extensio cubiti", "membantu ekstensi siku", "ekstensi siku", "stabilisasi sendi siku", "extensio articulationis cubiti"]
+    }
+  }
+]

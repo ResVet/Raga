@@ -1,0 +1,540 @@
+[
+  {
+    "key": "bursae-of-upper-limb",
+    "kind": "bursa",
+    "la": "Bursae membri superioris",
+    "alt": ["Bursae synoviales membri superioris", "Bursae membri superiori"],
+    "en": "Bursae of upper limb",
+    "desc": {
+      "en": "Small closed sacs lined by synovial membrane and holding a film of fluid, placed where a tendon, muscle or skin moves over bone or another tendon. The largest in the upper limb are the subacromial and subdeltoid bursae of the shoulder; others lie under the tendons of the scapular muscles and around the elbow.",
+      "id": "Kantong tertutup kecil yang dilapisi membrana synovialis dan berisi lapisan tipis cairan, terletak di tempat tendo, otot atau kulit bergerak di atas tulang atau tendo lain. Bursa terbesar di ekstremitas superior adalah bursa subacromialis dan bursa subdeltoidea di bahu; bursa lainnya terletak di bawah tendo otot-otot scapula dan di sekitar siku."
+    },
+    "facts": {
+      "function": {"en": "Reduce friction between structures that move against each other.", "id": "Mengurangi gesekan antara struktur yang saling bergerak."},
+      "parts": ["subacromial-bursa", "subdeltoid-bursa", "subcutaneous-acromial-bursa", "coracobrachial-bursa", "subtendinous-bursa-of-infraspinatus-muscle", "subtendinous-bursa-of-teres-major-muscle", "subtendinous-bursa-of-trapezius-muscle", "subtendinous-bursa-of-triceps-brachii-muscle", "bicipitoradial-bursa"],
+      "clinical": {
+        "en": "Repeated pressure or friction can inflame a bursa (bursitis), which then swells and hurts, as in subacromial bursitis or swelling over the olecranon.",
+        "id": "Tekanan atau gesekan berulang dapat membuat bursa meradang (bursitis) sehingga bengkak dan nyeri, misalnya bursitis subacromialis atau pembengkakan di atas olecranon."
+      }
+    },
+    "quiz": {}
+  },
+  {
+    "key": "subacromial-bursa",
+    "kind": "bursa",
+    "la": "Bursa subacromialis",
+    "alt": ["Bursa subacromiodeltoidea"],
+    "en": "Subacromial bursa",
+    "desc": {
+      "en": "Large bursa between the coracoacromial arch (acromion and coracoacromial ligament) above and the supraspinatus tendon and shoulder joint capsule below. It is usually continuous with the subdeltoid bursa and does not open into the joint unless the rotator cuff is torn.",
+      "id": "Bursa besar di antara arcus coracoacromialis (acromion dan lig. coracoacromiale) di atas dan tendo m. supraspinatus serta capsula articularis sendi bahu di bawah. Bursa ini biasanya bersambung dengan bursa subdeltoidea dan tidak berhubungan dengan rongga sendi kecuali bila rotator cuff robek."
+    },
+    "facts": {
+      "location": {"en": "Under the acromion and coracoacromial ligament, over the supraspinatus tendon", "id": "Di bawah acromion dan lig. coracoacromiale, di atas tendo m. supraspinatus"},
+      "function": {"en": "Lets the rotator cuff glide under the coracoacromial arch when the arm is raised.", "id": "Memungkinkan rotator cuff meluncur di bawah arcus coracoacromialis saat lengan diangkat."},
+      "clinical": {
+        "en": "Subacromial bursitis, usually together with supraspinatus tendinitis, gives pain in the middle range of abduction (painful arc, about 60-120 degrees). The bursa is the target of subacromial steroid injections.",
+        "id": "Bursitis subacromialis, biasanya bersamaan dengan tendinitis m. supraspinatus, menimbulkan nyeri pada rentang tengah abduksi (painful arc, sekitar 60-120 derajat). Bursa ini menjadi sasaran suntikan steroid subakromial."
+      }
+    },
+    "quiz": {}
+  },
+  {
+    "key": "subdeltoid-bursa",
+    "kind": "bursa",
+    "la": "Bursa subdeltoidea",
+    "alt": [],
+    "en": "Subdeltoid bursa",
+    "desc": {
+      "en": "Bursa between the deep surface of the deltoid and the greater tubercle and capsule of the shoulder joint. It usually communicates with the subacromial bursa, and the two are often treated as one space.",
+      "id": "Bursa di antara permukaan dalam m. deltoideus dan tuberculum majus humeri serta capsula articularis sendi bahu. Bursa ini biasanya berhubungan dengan bursa subacromialis, dan keduanya sering dianggap satu ruang."
+    },
+    "facts": {
+      "location": {"en": "Deep to the deltoid, over the greater tubercle of the humerus", "id": "Di bawah m. deltoideus, di atas tuberculum majus humeri"},
+      "function": {"en": "Lets the deltoid slide over the greater tubercle and the rotator cuff.", "id": "Memungkinkan m. deltoideus meluncur di atas tuberculum majus dan rotator cuff."}
+    },
+    "quiz": {}
+  },
+  {
+    "key": "subcutaneous-acromial-bursa",
+    "kind": "bursa",
+    "la": "Bursa subcutanea acromialis",
+    "alt": ["Bursa acromialis subcutanea"],
+    "en": "Subcutaneous acromial bursa",
+    "desc": {
+      "en": "Small bursa in the subcutaneous tissue over the acromion, between the skin and the bone. It can become inflamed from repeated pressure, for example from carrying loads on the shoulder.",
+      "id": "Bursa kecil di jaringan subkutan di atas acromion, di antara kulit dan tulang. Bursa ini dapat meradang akibat tekanan berulang, misalnya karena sering memikul beban di bahu."
+    },
+    "facts": {
+      "location": {"en": "Between the skin and the upper surface of the acromion", "id": "Di antara kulit dan permukaan atas acromion"},
+      "function": {"en": "Lets the skin move over the acromion.", "id": "Memungkinkan kulit bergerak di atas acromion."}
+    },
+    "quiz": {}
+  },
+  {
+    "key": "coracobrachial-bursa",
+    "kind": "bursa",
+    "verify": true,
+    "la": "Bursa musculi coracobrachialis",
+    "alt": ["Bursa m. coracobrachialis", "Bursa coracobrachialis"],
+    "en": "Coracobrachial bursa",
+    "desc": {
+      "en": "Bursa just below the tip of the coracoid process, between the common tendon of coracobrachialis and the short head of biceps in front and the subscapularis tendon behind.",
+      "id": "Bursa tepat di bawah ujung processus coracoideus, di antara tendo bersama m. coracobrachialis dan caput breve m. bicipitis brachii di depan dan tendo m. subscapularis di belakang."
+    },
+    "facts": {
+      "location": {"en": "Below the coracoid process, behind the coracobrachialis and short head of biceps", "id": "Di bawah processus coracoideus, di belakang m. coracobrachialis dan caput breve m. bicipitis brachii"},
+      "function": {"en": "Reduces friction between the coracobrachialis tendon and the subscapularis tendon over the front of the shoulder.", "id": "Mengurangi gesekan antara tendo m. coracobrachialis dan tendo m. subscapularis di bagian depan bahu."}
+    },
+    "quiz": {}
+  },
+  {
+    "key": "subtendinous-bursa-of-infraspinatus-muscle",
+    "kind": "bursa",
+    "la": "Bursa subtendinea musculi infraspinati",
+    "alt": ["Bursa subtendinea m. infraspinati"],
+    "en": "Subtendinous bursa of infraspinatus",
+    "desc": {
+      "en": "Bursa between the tendon of infraspinatus and the back of the shoulder joint capsule. It sometimes communicates with the joint cavity.",
+      "id": "Bursa di antara tendo m. infraspinatus dan bagian belakang capsula articularis sendi bahu. Bursa ini kadang berhubungan dengan rongga sendi."
+    },
+    "facts": {
+      "location": {"en": "Deep to the infraspinatus tendon, behind the shoulder joint", "id": "Di bawah tendo m. infraspinatus, di belakang sendi bahu"},
+      "function": {"en": "Lets the tendon glide over the joint capsule.", "id": "Memungkinkan tendo meluncur di atas capsula articularis."}
+    },
+    "quiz": {}
+  },
+  {
+    "key": "subtendinous-bursa-of-teres-major-muscle",
+    "kind": "bursa",
+    "la": "Bursa subtendinea musculi teretis majoris",
+    "alt": ["Bursa subtendinea m. teretis majoris"],
+    "en": "Subtendinous bursa of teres major",
+    "desc": {
+      "en": "Bursa under the tendon of teres major where it attaches to the crest of the lesser tubercle, separating the tendon from the humerus.",
+      "id": "Bursa di bawah tendo m. teres major pada tempat perlekatannya di crista tuberculi minoris, memisahkan tendo dari humerus."
+    },
+    "facts": {
+      "location": {"en": "Between the teres major tendon and the humerus, at the crest of the lesser tubercle", "id": "Di antara tendo m. teres major dan humerus, setinggi crista tuberculi minoris"},
+      "function": {"en": "Lets the tendon move over the bone during rotation of the arm.", "id": "Memungkinkan tendo bergerak di atas tulang saat lengan berotasi."}
+    },
+    "quiz": {}
+  },
+  {
+    "key": "subtendinous-bursa-of-trapezius-muscle",
+    "kind": "bursa",
+    "la": "Bursa subtendinea musculi trapezii",
+    "alt": ["Bursa subtendinea m. trapezii"],
+    "en": "Subtendinous bursa of trapezius",
+    "desc": {
+      "en": "Small bursa between the tendon of the ascending part of trapezius and the smooth triangular area at the medial end of the spine of the scapula, over which the tendon glides.",
+      "id": "Bursa kecil di antara tendo pars ascendens m. trapezii dan area segitiga yang licin pada ujung medial spina scapulae, tempat tendo tersebut meluncur."
+    },
+    "facts": {
+      "location": {"en": "At the root (medial end) of the spine of the scapula", "id": "Pada pangkal (ujung medial) spina scapulae"},
+      "function": {"en": "Lets the tendon slide over the bone as the scapula rotates.", "id": "Memungkinkan tendo meluncur di atas tulang saat scapula berotasi."}
+    },
+    "quiz": {}
+  },
+  {
+    "key": "subtendinous-bursa-of-triceps-brachii-muscle",
+    "kind": "bursa",
+    "la": "Bursa subtendinea musculi tricipitis brachii",
+    "alt": ["Bursa subtendinea m. tricipitis brachii", "Bursa subtendinea musculi tricipitis"],
+    "en": "Subtendinous bursa of triceps brachii",
+    "desc": {
+      "en": "Bursa between the tendon of triceps and the upper surface of the olecranon, close to the back of the elbow joint capsule. The bursa that commonly swells after leaning on the elbow is a different one, the subcutaneous olecranon bursa, which lies between the skin and the olecranon.",
+      "id": "Bursa di antara tendo m. triceps brachii dan permukaan atas olecranon, dekat bagian belakang capsula articularis sendi siku. Bursa yang sering membengkak karena bertumpu pada siku adalah bursa lain, yaitu bursa subcutanea olecrani, yang terletak di antara kulit dan olecranon."
+    },
+    "facts": {
+      "location": {"en": "Deep to the triceps tendon, just above its insertion on the olecranon", "id": "Di bawah tendo m. triceps brachii, tepat di atas insersionya pada olecranon"},
+      "function": {"en": "Lets the tendon glide over the olecranon and joint capsule as the elbow bends.", "id": "Memungkinkan tendo meluncur di atas olecranon dan capsula articularis saat siku ditekuk."}
+    },
+    "quiz": {}
+  },
+  {
+    "key": "bicipitoradial-bursa",
+    "kind": "bursa",
+    "la": "Bursa bicipitoradialis",
+    "alt": [],
+    "en": "Bicipitoradial bursa",
+    "desc": {
+      "en": "Bursa between the tendon of biceps brachii and the front of the radial tuberosity. During pronation the tuberosity turns backward and the tendon winds around the radius, and the bursa keeps it from rubbing on the bone.",
+      "id": "Bursa di antara tendo m. biceps brachii dan bagian depan tuberositas radii. Saat pronasi, tuberositas radii berputar ke belakang dan tendo melilit radius; bursa ini mencegah tendo bergesekan dengan tulang."
+    },
+    "facts": {
+      "location": {"en": "Between the biceps tendon and the anterior part of the radial tuberosity", "id": "Di antara tendo m. biceps brachii dan bagian anterior tuberositas radii"},
+      "function": {"en": "Reduces friction on the biceps tendon during pronation and supination.", "id": "Mengurangi gesekan pada tendo m. biceps brachii saat pronasi dan supinasi."}
+    },
+    "quiz": {}
+  },
+  {
+    "key": "tendon-sheaths-of-upper-limb",
+    "kind": "bursa",
+    "la": "Vaginae tendinum membri superioris",
+    "alt": ["Vaginae synoviales tendinum membri superioris"],
+    "en": "Tendon sheaths of upper limb",
+    "desc": {
+      "en": "Tubes of synovial membrane wrapped around long tendons where they pass under retinacula or through fibrous tunnels at the wrist and in the fingers. A thin film of synovial fluid inside lets the tendons slide.",
+      "id": "Selubung berupa tabung membrana synovialis yang membungkus tendo panjang di tempat tendo melewati retinaculum atau terowongan fibrosa di pergelangan tangan dan jari. Lapisan tipis cairan sinovial di dalamnya membuat tendo dapat meluncur."
+    },
+    "facts": {
+      "function": {"en": "Reduce friction where tendons change direction or pass through tight tunnels.", "id": "Mengurangi gesekan di tempat tendo berbelok atau melewati terowongan yang sempit."},
+      "parts": ["carpal-tendon-sheaths", "tendon-sheaths-of-digits-of-hand"],
+      "clinical": {
+        "en": "Overuse or infection inflames a sheath (tenosynovitis), causing pain and swelling along the tendon and pain when the tendon moves.",
+        "id": "Penggunaan berlebihan atau infeksi dapat membuat selubung meradang (tenosinovitis), dengan nyeri dan bengkak sepanjang tendo serta nyeri saat tendo bergerak."
+      }
+    },
+    "quiz": {}
+  },
+  {
+    "key": "carpal-tendon-sheaths",
+    "kind": "bursa",
+    "la": "Vaginae tendinum carpales",
+    "alt": ["Vaginae carpeae tendinum", "Vaginae tendinum carpeae"],
+    "en": "Carpal tendon sheaths",
+    "desc": {
+      "en": "Synovial sheaths around the tendons that cross the wrist. The dorsal sheaths lie in the six compartments under the extensor retinaculum; the palmar sheaths surround the long flexor tendons in and near the carpal tunnel.",
+      "id": "Selubung sinovial yang membungkus tendo-tendo yang menyilang pergelangan tangan. Selubung dorsal terletak dalam enam kompartemen di bawah retinaculum musculorum extensorum; selubung palmar membungkus tendo fleksor panjang di dalam dan di sekitar canalis carpi."
+    },
+    "facts": {
+      "parts": ["dorsal-carpal-tendon-sheaths", "palmar-carpal-tendon-sheaths"]
+    },
+    "quiz": {}
+  },
+  {
+    "key": "dorsal-carpal-tendon-sheaths",
+    "kind": "bursa",
+    "la": "Vaginae tendinum carpales dorsales",
+    "alt": ["Vaginae carpeae dorsales tendinum", "Vaginae tendinum carpeae dorsales"],
+    "en": "Dorsal carpal tendon sheaths",
+    "desc": {
+      "en": "Six synovial sheaths on the back of the wrist, one for each compartment under the extensor retinaculum. They begin just above the retinaculum and end on the back of the hand, short of the metacarpophalangeal joints.",
+      "id": "Enam selubung sinovial di punggung pergelangan tangan, satu untuk tiap kompartemen di bawah retinaculum musculorum extensorum. Selubung ini dimulai tepat di atas retinaculum dan berakhir di punggung tangan, sebelum mencapai sendi metacarpophalangea."
+    },
+    "facts": {
+      "location": {"en": "Under the extensor retinaculum, on the back of the wrist", "id": "Di bawah retinaculum musculorum extensorum, di punggung pergelangan tangan"},
+      "parts": ["tendon-sheath-abd-pollicis-longus-ext-pollicis-brevis", "tendon-sheath-of-extensors-carpi-radialis", "tendon-sheath-of-extensor-digitorum-and-extensor-indicis"]
+    },
+    "quiz": {}
+  },
+  {
+    "key": "palmar-carpal-tendon-sheaths",
+    "kind": "bursa",
+    "la": "Vaginae tendinum carpales palmares",
+    "alt": ["Vaginae carpeae palmares tendinum", "Vaginae tendinum carpeae palmares"],
+    "en": "Palmar carpal tendon sheaths",
+    "desc": {
+      "en": "Synovial sheaths on the front of the wrist: the common flexor sheath (ulnar bursa) around the tendons of flexor digitorum superficialis and profundus, the sheath of flexor pollicis longus (radial bursa) and a small sheath for flexor carpi radialis.",
+      "id": "Selubung sinovial di depan pergelangan tangan: vagina communis tendinum musculorum flexorum (bursa ulnaris) yang membungkus tendo m. flexor digitorum superficialis dan profundus, selubung tendo m. flexor pollicis longus (bursa radialis), dan selubung kecil untuk tendo m. flexor carpi radialis."
+    },
+    "facts": {
+      "location": {"en": "In and around the carpal tunnel", "id": "Di dalam dan di sekitar canalis carpi"},
+      "contents": ["Vagina communis tendinum musculorum flexorum", "Vagina tendinis musculi flexoris pollicis longi", "Vagina tendinis musculi flexoris carpi radialis"],
+      "parts": ["common-flexor-tendon-sheath"]
+    },
+    "quiz": {}
+  },
+  {
+    "key": "common-flexor-tendon-sheath",
+    "kind": "bursa",
+    "la": "Vagina communis tendinum musculorum flexorum",
+    "alt": ["Vagina communis tendinum flexorum", "Vagina synovialis communis musculorum flexorum", "Bursa ulnaris"],
+    "en": "Common flexor tendon sheath (ulnar bursa)",
+    "desc": {
+      "en": "Large synovial sheath around the eight tendons of flexor digitorum superficialis and profundus in the carpal tunnel. It starts a few centimeters above the flexor retinaculum and ends in the middle of the palm, except over the little finger, where it continues as the digital sheath down to the distal phalanx. It often communicates with the sheath of flexor pollicis longus.",
+      "id": "Selubung sinovial besar yang membungkus delapan tendo m. flexor digitorum superficialis dan profundus di dalam canalis carpi. Selubung ini dimulai beberapa sentimeter di atas retinaculum musculorum flexorum dan berakhir di tengah telapak tangan, kecuali pada jari kelingking, tempat selubung ini berlanjut sebagai selubung jari sampai phalanx distalis. Selubung ini sering berhubungan dengan selubung tendo m. flexor pollicis longus."
+    },
+    "facts": {
+      "location": {"en": "Carpal tunnel, from the distal forearm to the middle of the palm", "id": "Canalis carpi, dari lengan bawah distal sampai tengah telapak tangan"},
+      "contents": ["Tendines musculi flexoris digitorum superficialis", "Tendines musculi flexoris digitorum profundi"],
+      "function": {"en": "Lets the long finger flexor tendons slide past each other and past the walls of the carpal tunnel.", "id": "Memungkinkan tendo fleksor jari yang panjang saling meluncur dan meluncur terhadap dinding canalis carpi."},
+      "clinical": {
+        "en": "Infection of the little finger sheath can spread into this sheath and the palm, then through a communication to the thumb sheath (horseshoe abscess) or up into the forearm.",
+        "id": "Infeksi selubung jari kelingking dapat menyebar ke selubung ini dan ke telapak tangan, lalu melalui hubungan dengan selubung ibu jari (abses tapal kuda) atau naik ke lengan bawah."
+      }
+    },
+    "quiz": {}
+  },
+  {
+    "key": "tendon-sheath-abd-pollicis-longus-ext-pollicis-brevis",
+    "kind": "bursa",
+    "la": "Vagina tendinum musculorum abductoris longi et extensoris pollicis brevis",
+    "alt": ["Vagina tendinum mm. abductoris pollicis longi et extensoris pollicis brevis", "Vagina tendinum abductoris longi et extensoris brevis pollicis"],
+    "en": "Tendon sheath of abductor pollicis longus and extensor pollicis brevis",
+    "desc": {
+      "en": "Synovial sheath in the first compartment of the extensor retinaculum, on the lateral side of the radial styloid process, shared by the tendons of abductor pollicis longus and extensor pollicis brevis.",
+      "id": "Selubung sinovial dalam kompartemen pertama retinaculum musculorum extensorum, di sisi lateral processus styloideus radii, yang dipakai bersama oleh tendo m. abductor pollicis longus dan m. extensor pollicis brevis."
+    },
+    "facts": {
+      "location": {"en": "First dorsal compartment, over the radial styloid process", "id": "Kompartemen dorsal pertama, di atas processus styloideus radii"},
+      "contents": ["Tendo musculi abductoris pollicis longi", "Tendo musculi extensoris pollicis brevis"],
+      "clinical": {
+        "en": "Thickening and inflammation of this sheath (de Quervain tenosynovitis) causes pain over the radial styloid, made worse by gripping the thumb in the fist and bending the wrist toward the ulna (Finkelstein test).",
+        "id": "Penebalan dan peradangan selubung ini (tenosinovitis de Quervain) menimbulkan nyeri di atas processus styloideus radii, yang bertambah bila ibu jari digenggam dalam kepalan lalu pergelangan tangan ditekuk ke arah ulnar (uji Finkelstein)."
+      }
+    },
+    "quiz": {}
+  },
+  {
+    "key": "tendon-sheath-of-extensors-carpi-radialis",
+    "kind": "bursa",
+    "la": "Vagina tendinum musculorum extensorum carpi radialium",
+    "alt": ["Vagina tendinum mm. extensorum carpi radialium"],
+    "en": "Tendon sheath of extensores carpi radiales",
+    "desc": {
+      "en": "Synovial sheath in the second compartment of the extensor retinaculum, lateral to the dorsal tubercle of the radius, around the tendons of extensor carpi radialis longus and brevis.",
+      "id": "Selubung sinovial dalam kompartemen kedua retinaculum musculorum extensorum, di lateral tuberculum dorsale radii, yang membungkus tendo m. extensor carpi radialis longus dan brevis."
+    },
+    "facts": {
+      "location": {"en": "Second dorsal compartment, lateral to the dorsal tubercle of the radius", "id": "Kompartemen dorsal kedua, di lateral tuberculum dorsale radii"},
+      "contents": ["Tendo musculi extensoris carpi radialis longi", "Tendo musculi extensoris carpi radialis brevis"]
+    },
+    "quiz": {}
+  },
+  {
+    "key": "tendon-sheath-of-extensor-digitorum-and-extensor-indicis",
+    "kind": "bursa",
+    "la": "Vagina tendinum musculorum extensoris digitorum et extensoris indicis",
+    "alt": ["Vagina tendinum mm. extensoris digitorum et extensoris indicis"],
+    "en": "Tendon sheath of extensor digitorum and extensor indicis",
+    "desc": {
+      "en": "Wide synovial sheath in the fourth compartment of the extensor retinaculum, in the middle of the back of the wrist, around the four tendons of extensor digitorum and the tendon of extensor indicis.",
+      "id": "Selubung sinovial lebar dalam kompartemen keempat retinaculum musculorum extensorum, di tengah punggung pergelangan tangan, yang membungkus keempat tendo m. extensor digitorum dan tendo m. extensor indicis."
+    },
+    "facts": {
+      "location": {"en": "Fourth dorsal compartment, medial to the dorsal tubercle of the radius", "id": "Kompartemen dorsal keempat, di medial tuberculum dorsale radii"},
+      "contents": ["Tendines musculi extensoris digitorum", "Tendo musculi extensoris indicis"]
+    },
+    "quiz": {}
+  },
+  {
+    "key": "tendon-sheaths-of-digits-of-hand",
+    "kind": "bursa",
+    "la": "Vaginae tendinum digitorum manus",
+    "alt": ["Vaginae tendinum digitorum"],
+    "en": "Tendon sheaths of digits of hand",
+    "desc": {
+      "en": "Sheaths around the long flexor tendons on the palmar side of each finger. Each has an outer fibrous sheath, attached to the edges of the phalanges and thickened into annular and cruciform parts, and an inner synovial sheath.",
+      "id": "Selubung yang membungkus tendo fleksor panjang di sisi palmar tiap jari. Masing-masing terdiri atas vagina fibrosa di luar, yang melekat pada tepi phalanx dan menebal menjadi pars anularis dan pars cruciformis, serta vagina synovialis di dalam."
+    },
+    "facts": {
+      "parts": ["synovial-sheaths-of-digits-of-hand", "cruciform-part-of-fibrous-sheath-of-digit-of-hand"]
+    },
+    "quiz": {}
+  },
+  {
+    "key": "synovial-sheaths-of-digits-of-hand",
+    "kind": "bursa",
+    "la": "Vaginae synoviales digitorum manus",
+    "alt": ["Vaginae synoviales digitorum", "Vagina synovialis digiti manus"],
+    "en": "Synovial sheaths of digits of hand",
+    "desc": {
+      "en": "Synovial tubes around the flexor tendons inside the fibrous digital sheaths. In the index, middle and ring fingers they run from just above the metacarpophalangeal joint to the base of the distal phalanx and are closed off from the palm; the little finger sheath joins the common flexor sheath, and the thumb sheath joins the sheath of flexor pollicis longus.",
+      "id": "Tabung sinovial yang membungkus tendo fleksor di dalam vagina fibrosa jari. Pada jari telunjuk, jari tengah dan jari manis, selubung ini berjalan dari tepat di atas sendi metacarpophalangea sampai basis phalanx distalis dan tertutup dari telapak tangan; selubung jari kelingking bersambung dengan vagina communis tendinum musculorum flexorum, dan selubung ibu jari bersambung dengan selubung tendo m. flexor pollicis longus."
+    },
+    "facts": {
+      "location": {"en": "Palmar side of the fingers, inside the fibrous digital sheaths", "id": "Sisi palmar jari, di dalam vagina fibrosa jari"},
+      "contents": ["Tendines musculi flexoris digitorum superficialis", "Tendines musculi flexoris digitorum profundi", "Tendo musculi flexoris pollicis longi"],
+      "clinical": {
+        "en": "Infection of a digital sheath (suppurative tenosynovitis), often after a puncture wound, leaves the finger swollen, held slightly flexed and very painful on passive extension. In the index, middle and ring fingers it stays in the finger; in the thumb and little finger it can spread to the palm and wrist.",
+        "id": "Infeksi selubung jari (tenosinovitis supuratif), sering setelah luka tusuk, membuat jari bengkak, tertahan dalam fleksi ringan dan sangat nyeri saat diekstensikan secara pasif. Pada jari telunjuk, tengah dan manis infeksi tetap terbatas di jari; pada ibu jari dan kelingking infeksi dapat menyebar ke telapak dan pergelangan tangan."
+      }
+    },
+    "quiz": {}
+  },
+  {
+    "key": "cruciform-part-of-fibrous-sheath-of-digit-of-hand",
+    "kind": "fascia",
+    "la": "Pars cruciformis vaginae fibrosae digitorum manus",
+    "alt": ["Pars cruciformis vaginae fibrosae", "Pars cruciformis vaginae fibrosae digiti manus"],
+    "en": "Cruciform part of fibrous sheath of digit of hand",
+    "desc": {
+      "en": "Thin, criss-crossing bands of the fibrous digital sheath that lie mainly near the interphalangeal joints, between the thicker annular parts. They let the sheath fold when the finger bends while still holding the flexor tendons close to the bone.",
+      "id": "Berkas tipis yang saling menyilang pada vagina fibrosa jari, terutama di dekat sendi interphalangea, di antara pars anularis yang lebih tebal. Bagian ini memungkinkan selubung terlipat saat jari ditekuk sambil tetap menahan tendo fleksor dekat ke tulang."
+    },
+    "facts": {
+      "attach": {"en": "Edges of the phalanges and the palmar ligaments of the interphalangeal joints", "id": "Tepi phalanx dan ligamentum palmaria sendi interphalangea"},
+      "function": {"en": "Keeps the flexor tendons against the phalanges without blocking flexion.", "id": "Menahan tendo fleksor tetap menempel pada phalanx tanpa menghambat fleksi."}
+    },
+    "quiz": {}
+  },
+  {
+    "key": "deltoid-fascia",
+    "kind": "fascia",
+    "la": "Fascia deltoidea",
+    "alt": [],
+    "en": "Deltoid fascia",
+    "desc": {
+      "en": "Deep fascia covering the deltoid and sending thin septa between its bundles. It is continuous in front with the pectoral fascia, behind with the infraspinous fascia and below with the brachial fascia.",
+      "id": "Fascia profunda yang menutupi m. deltoideus dan mengirim septa tipis di antara berkas-berkas ototnya. Fascia ini bersambung ke depan dengan fascia pectoralis, ke belakang dengan fascia infraspinata dan ke bawah dengan fascia brachii."
+    },
+    "facts": {
+      "attach": {"en": "Clavicle, acromion and spine of the scapula, along the origin of the deltoid", "id": "Clavicula, acromion dan spina scapulae, sepanjang origo m. deltoideus"},
+      "function": {"en": "Encloses the deltoid and links the fasciae of the chest, back and arm.", "id": "Membungkus m. deltoideus dan menghubungkan fascia dada, punggung dan lengan atas."}
+    },
+    "quiz": {}
+  },
+  {
+    "key": "brachial-fascia",
+    "kind": "fascia",
+    "la": "Fascia brachii",
+    "alt": [],
+    "en": "Brachial fascia",
+    "desc": {
+      "en": "Deep fascia of the arm, a sleeve continuous above with the deltoid, pectoral and axillary fasciae and below with the antebrachial fascia. It sends the medial and lateral intermuscular septa to the humerus, dividing the arm into anterior and posterior compartments; the basilic vein pierces it at about the middle of the arm.",
+      "id": "Fascia profunda lengan atas, berbentuk selongsong yang bersambung ke atas dengan fascia deltoidea, fascia pectoralis dan fascia axillaris serta ke bawah dengan fascia antebrachii. Fascia ini mengirim septum intermusculare brachii mediale dan laterale ke humerus sehingga lengan atas terbagi menjadi kompartemen anterior dan posterior; v. basilica menembusnya kira-kira di pertengahan lengan atas."
+    },
+    "facts": {
+      "attach": {"en": "Humerus through the intermuscular septa; epicondyles and olecranon below", "id": "Humerus melalui septa intermuscularia; epicondylus dan olecranon di bagian bawah"},
+      "function": {"en": "Encloses the arm muscles and separates the flexor and extensor compartments.", "id": "Membungkus otot-otot lengan atas dan memisahkan kompartemen fleksor dan ekstensor."}
+    },
+    "quiz": {}
+  },
+  {
+    "key": "medial-intermuscular-septum-of-arm",
+    "kind": "fascia",
+    "la": "Septum intermusculare brachii mediale",
+    "alt": ["Septum intermusculare mediale brachii", "Septum intermusculare mediale"],
+    "en": "Medial intermuscular septum of arm",
+    "desc": {
+      "en": "Fascial partition, thicker than the lateral one, from the brachial fascia to the medial border and medial supracondylar ridge of the humerus, from the coracobrachialis insertion down to the medial epicondyle. Brachialis attaches in front of it and the medial head of triceps behind. The ulnar nerve and the superior ulnar collateral artery pierce it at about the middle of the arm to enter the posterior compartment.",
+      "id": "Sekat fascia yang lebih tebal daripada septum lateral, dari fascia brachii ke margo medialis dan crista supracondylaris medialis humeri, dari insersio m. coracobrachialis sampai epicondylus medialis. M. brachialis melekat di depannya dan caput mediale m. tricipitis brachii di belakangnya. N. ulnaris dan a. collateralis ulnaris superior menembusnya kira-kira di pertengahan lengan atas untuk masuk ke kompartemen posterior."
+    },
+    "facts": {
+      "attach": {"en": "Medial border and medial supracondylar ridge of the humerus, down to the medial epicondyle", "id": "Margo medialis dan crista supracondylaris medialis humeri, sampai epicondylus medialis"},
+      "function": {"en": "Separates the anterior and posterior compartments of the arm on the medial side and gives attachment to the muscles of both.", "id": "Memisahkan kompartemen anterior dan posterior lengan atas di sisi medial dan menjadi tempat perlekatan otot kedua kompartemen."}
+    },
+    "quiz": {}
+  },
+  {
+    "key": "lateral-intermuscular-septum-of-arm",
+    "kind": "fascia",
+    "la": "Septum intermusculare brachii laterale",
+    "alt": ["Septum intermusculare laterale brachii", "Septum intermusculare laterale"],
+    "en": "Lateral intermuscular septum of arm",
+    "desc": {
+      "en": "Fascial partition from the brachial fascia to the lateral border and lateral supracondylar ridge of the humerus, from the deltoid insertion down to the lateral epicondyle. Triceps attaches behind it, and brachialis, brachioradialis and extensor carpi radialis longus in front. The radial nerve and the radial collateral artery pierce it in the lower arm on their way to the front.",
+      "id": "Sekat fascia dari fascia brachii ke margo lateralis dan crista supracondylaris lateralis humeri, dari insersio m. deltoideus sampai epicondylus lateralis. M. triceps brachii melekat di belakangnya, sedangkan m. brachialis, m. brachioradialis dan m. extensor carpi radialis longus di depannya. N. radialis dan a. collateralis radialis menembusnya di bagian bawah lengan atas dalam perjalanannya ke depan."
+    },
+    "facts": {
+      "attach": {"en": "Lateral border and lateral supracondylar ridge of the humerus, down to the lateral epicondyle", "id": "Margo lateralis dan crista supracondylaris lateralis humeri, sampai epicondylus lateralis"},
+      "function": {"en": "Separates the anterior and posterior compartments of the arm on the lateral side and gives attachment to the muscles of both.", "id": "Memisahkan kompartemen anterior dan posterior lengan atas di sisi lateral dan menjadi tempat perlekatan otot kedua kompartemen."}
+    },
+    "quiz": {}
+  },
+  {
+    "key": "antebrachial-fascia",
+    "kind": "fascia",
+    "la": "Fascia antebrachii",
+    "alt": [],
+    "en": "Antebrachial fascia",
+    "desc": {
+      "en": "Deep fascia of the forearm, continuous above with the brachial fascia and attached along the subcutaneous posterior border of the ulna. It receives the bicipital aponeurosis, gives origin to the superficial forearm muscles near the elbow and thickens at the wrist into the extensor retinaculum behind and the palmar carpal ligament in front.",
+      "id": "Fascia profunda lengan bawah yang bersambung ke atas dengan fascia brachii dan melekat sepanjang margo posterior ulnae yang teraba di bawah kulit. Fascia ini menerima aponeurosis bicipitalis, menjadi origo otot-otot superfisial lengan bawah di dekat siku, dan di pergelangan tangan menebal menjadi retinaculum musculorum extensorum di belakang serta lig. carpi palmare di depan."
+    },
+    "facts": {
+      "attach": {"en": "Epicondyles of the humerus, olecranon and the posterior border of the ulna", "id": "Epicondylus humeri, olecranon dan margo posterior ulnae"},
+      "function": {"en": "Encloses the forearm muscles and, with the radius, ulna and interosseous membrane, separates the anterior (flexor-pronator) and posterior (extensor-supinator) compartments.", "id": "Membungkus otot-otot lengan bawah dan, bersama radius, ulna dan membrana interossea, memisahkan kompartemen anterior (fleksor-pronator) dan posterior (ekstensor-supinator)."},
+      "clinical": {
+        "en": "The fascia does not stretch, so bleeding or swelling inside a compartment, for example after a supracondylar fracture of the humerus, raises the pressure and cuts off blood flow to the muscles (compartment syndrome). Untreated ischemia of the flexors leaves the wrist and fingers permanently flexed (Volkmann ischemic contracture).",
+        "id": "Fascia ini tidak dapat meregang, sehingga perdarahan atau pembengkakan di dalam kompartemen, misalnya setelah fraktur suprakondilar humerus, menaikkan tekanan dan menghentikan aliran darah ke otot (sindrom kompartemen). Iskemia otot fleksor yang tidak ditangani membuat pergelangan tangan dan jari menetap dalam posisi fleksi (kontraktur iskemik Volkmann)."
+      }
+    },
+    "quiz": {}
+  },
+  {
+    "key": "extensor-retinaculum-of-wrist",
+    "kind": "fascia",
+    "la": "Retinaculum musculorum extensorum",
+    "alt": ["Retinaculum extensorum", "Retinaculum musculorum extensorum manus", "Retinaculum extensorium carpi", "Ligamentum carpi dorsale", "Lig. carpi dorsale"],
+    "en": "Extensor retinaculum of wrist",
+    "desc": {
+      "en": "Strong transverse band of the antebrachial fascia across the back of the wrist, attached laterally to the distal radius and medially to the pisiform and triquetrum, near the ulnar styloid process. Septa from its deep surface to the radius and ulna make six tunnels for the extensor tendons and their synovial sheaths.",
+      "id": "Pita melintang yang kuat dari fascia antebrachii di punggung pergelangan tangan, melekat di lateral pada radius distal dan di medial pada os pisiforme dan os triquetrum, dekat processus styloideus ulnae. Septa dari permukaan dalamnya ke radius dan ulna membentuk enam terowongan untuk tendo-tendo ekstensor beserta selubung sinovialnya."
+    },
+    "facts": {
+      "attach": {"en": "Laterally the distal end of the radius; medially the pisiform and triquetrum", "id": "Di lateral ujung distal radius; di medial os pisiforme dan os triquetrum"},
+      "compartments": ["I: M. abductor pollicis longus, M. extensor pollicis brevis", "II: M. extensor carpi radialis longus, M. extensor carpi radialis brevis", "III: M. extensor pollicis longus", "IV: M. extensor digitorum, M. extensor indicis", "V: M. extensor digiti minimi", "VI: M. extensor carpi ulnaris"],
+      "function": {"en": "Holds the extensor tendons against the radius and ulna so they do not bowstring when the wrist is extended.", "id": "Menahan tendo-tendo ekstensor tetap dekat dengan radius dan ulna agar tidak terangkat seperti tali busur saat pergelangan tangan diekstensikan."}
+    },
+    "quiz": {}
+  },
+  {
+    "key": "flexor-retinaculum-of-wrist",
+    "kind": "fascia",
+    "la": "Retinaculum musculorum flexorum",
+    "alt": ["Retinaculum flexorum", "Retinaculum musculorum flexorum manus", "Retinaculum flexorium carpi", "Ligamentum carpi transversum", "Lig. carpi transversum", "Retinaculum fleksor"],
+    "en": "Flexor retinaculum of wrist",
+    "desc": {
+      "en": "Thick fibrous band bridging the front of the carpal arch, attached medially to the pisiform and the hook of the hamate and laterally to the tubercles of the scaphoid and trapezium. It turns the hollow of the carpus into the carpal tunnel and gives origin to most of the thenar and hypothenar muscles.",
+      "id": "Pita fibrosa tebal yang menjembatani bagian depan lengkung ossa carpi, melekat di medial pada os pisiforme dan hamulus ossis hamati serta di lateral pada tuberculum ossis scaphoidei dan tuberculum ossis trapezii. Retinaculum ini mengubah cekungan ossa carpi menjadi canalis carpi dan menjadi origo sebagian besar otot thenar dan hypothenar."
+    },
+    "facts": {
+      "attach": {"en": "Medially the pisiform and hook of the hamate; laterally the tubercles of the scaphoid and trapezium", "id": "Di medial os pisiforme dan hamulus ossis hamati; di lateral tuberculum ossis scaphoidei dan tuberculum ossis trapezii"},
+      "contents": ["Tendines musculi flexoris digitorum superficialis (IV)", "Tendines musculi flexoris digitorum profundi (IV)", "Tendo musculi flexoris pollicis longi", "Nervus medianus"],
+      "function": {
+        "en": "Forms the roof of the carpal tunnel and holds the long flexor tendons against the carpus. The tendon of flexor carpi radialis runs in a separate split of its lateral part; palmaris longus, the ulnar nerve and artery and the palmar branch of the median nerve pass in front of it.",
+        "id": "Membentuk atap canalis carpi dan menahan tendo fleksor panjang tetap menempel pada ossa carpi. Tendo m. flexor carpi radialis berjalan dalam celah tersendiri di bagian lateralnya; m. palmaris longus, n. ulnaris, a. ulnaris dan r. palmaris n. mediani lewat di depannya."
+      },
+      "clinical": {
+        "en": "Anything that narrows the carpal tunnel, such as swollen tendon sheaths, fluid retention in pregnancy, arthritis or a fracture, compresses the median nerve (carpal tunnel syndrome). Patients have tingling and numbness in the lateral three and a half digits, worse at night, then thenar weakness and wasting; the skin of the central palm is spared because the palmar branch of the median nerve runs superficial to the retinaculum. Dividing the retinaculum relieves the pressure.",
+        "id": "Segala hal yang menyempitkan canalis carpi, misalnya selubung tendo yang membengkak, retensi cairan saat hamil, artritis atau fraktur, menekan n. medianus (sindrom carpal tunnel). Pasien mengeluh kesemutan dan kebas pada tiga setengah jari lateral yang memberat pada malam hari, lalu timbul kelemahan dan atrofi otot thenar; kulit bagian tengah telapak tangan tidak terganggu karena r. palmaris n. mediani berjalan di superfisial retinaculum. Pemotongan retinaculum menghilangkan tekanan tersebut."
+      }
+    },
+    "quiz": {}
+  },
+  {
+    "key": "dorsal-fascia-of-hand",
+    "kind": "fascia",
+    "la": "Fascia dorsalis manus",
+    "alt": [],
+    "en": "Dorsal fascia of hand",
+    "desc": {
+      "en": "Thin deep fascia on the back of the hand, continuous with the extensor retinaculum at the wrist. It covers the extensor tendons and blends with them over the metacarpals; a separate deeper layer covers the dorsal interossei.",
+      "id": "Fascia profunda yang tipis di punggung tangan, bersambung dengan retinaculum musculorum extensorum di pergelangan tangan. Fascia ini menutupi tendo-tendo ekstensor dan menyatu dengannya di atas ossa metacarpi; lapisan lain yang lebih dalam menutupi mm. interossei dorsales."
+    },
+    "facts": {
+      "attach": {"en": "Extensor retinaculum above; margins of the second and fifth metacarpals at the sides", "id": "Retinaculum musculorum extensorum di atas; tepi os metacarpi II dan V di samping"},
+      "function": {"en": "Covers and holds the extensor tendons on the back of the hand.", "id": "Menutupi dan menahan tendo-tendo ekstensor di punggung tangan."}
+    },
+    "quiz": {}
+  },
+  {
+    "key": "palmar-aponeurosis",
+    "kind": "fascia",
+    "la": "Aponeurosis palmaris",
+    "alt": [],
+    "en": "Palmar aponeurosis",
+    "desc": {
+      "en": "Strong triangular sheet of deep fascia in the central palm, continuous at its apex with the tendon of palmaris longus and the flexor retinaculum. Distally it divides into four longitudinal bands that fan out to the bases of the fingers and blend with the fibrous digital sheaths, linked by transverse fibers. It anchors the palmar skin and covers the superficial palmar arch and the long flexor tendons.",
+      "id": "Lembaran fascia profunda yang kuat berbentuk segitiga di bagian tengah telapak tangan; apeksnya bersambung dengan tendo m. palmaris longus dan retinaculum musculorum flexorum. Ke distal, aponeurosis ini terbagi menjadi empat pita longitudinal yang menyebar ke pangkal jari dan menyatu dengan vagina fibrosa jari, dihubungkan oleh serabut transversal. Aponeurosis ini mengikat kulit telapak tangan dan menutupi arcus palmaris superficialis serta tendo fleksor panjang."
+    },
+    "facts": {
+      "attach": {"en": "Flexor retinaculum and palmaris longus tendon at the apex; fibrous digital sheaths and skin at the bases of digits 2-5", "id": "Retinaculum musculorum flexorum dan tendo m. palmaris longus di apeks; vagina fibrosa jari dan kulit di pangkal jari II-V"},
+      "function": {"en": "Fixes the skin of the palm for a firm grip and protects the vessels, nerves and tendons beneath it.", "id": "Mengikat kulit telapak tangan agar genggaman mantap dan melindungi pembuluh, saraf dan tendo di bawahnya."},
+      "clinical": {
+        "en": "In Dupuytren contracture the aponeurosis thickens and shortens, usually in the bands to the ring and little fingers, slowly pulling them into flexion at the metacarpophalangeal and proximal interphalangeal joints. It is more common in older men.",
+        "id": "Pada kontraktur Dupuytren, aponeurosis menebal dan memendek, biasanya pada pita untuk jari manis dan kelingking, sehingga perlahan menarik jari tersebut ke posisi fleksi pada sendi metacarpophalangea dan interphalangea proximalis. Kelainan ini lebih sering pada laki-laki usia lanjut."
+      }
+    },
+    "quiz": {}
+  },
+  {
+    "key": "superficial-transverse-metacarpal-ligament",
+    "kind": "fascia",
+    "la": "Ligamentum metacarpale transversum superficiale",
+    "alt": ["Lig. metacarpale transversum superficiale", "Ligamentum metacarpeum transversum superficiale"],
+    "en": "Superficial transverse metacarpal ligament",
+    "desc": {
+      "en": "Thin band of transverse fibers at the roots of the fingers, in the webs between them, forming the distal edge of the palmar aponeurosis. The digital nerves and vessels pass deep to it, between it and the deep transverse metacarpal ligament.",
+      "id": "Pita tipis serabut transversal di pangkal jari, pada lipatan kulit di antara jari, yang membentuk tepi distal aponeurosis palmaris. Nervi dan vasa digitales berjalan di bawahnya, di antara ligamentum ini dan lig. metacarpale transversum profundum."
+    },
+    "facts": {
+      "attach": {"en": "Skin of the finger webs and the fibrous digital sheaths", "id": "Kulit lipatan antarjari dan vagina fibrosa jari"},
+      "function": {"en": "Supports the skin of the finger webs and limits spreading of the fingers.", "id": "Menopang kulit lipatan antarjari dan membatasi pelebaran jari."}
+    },
+    "quiz": {}
+  }
+]

@@ -1,15 +1,25 @@
 """Export Z-Anatomy (Startup.blend) into web-ready glTF packs plus JSON manifests.
 
-Run with the bpy module:  bvenv/bin/python -I scripts/export_packs.py
-Outputs go to /home/claude/work/build/.
+Run with the bpy module, one pack per process (bpy leaks memory):
+    bvenv/bin/python -I -u scripts/export_pack.py <pack>
+    RAGA_TIER=ultra bvenv/bin/python -I -u scripts/export_pack.py <pack>
+Default tier ("high"): subdivision capped at level 1, curve tubes at resolution_u 6 / bevel_resolution 2
+(the high and lite web packs are simplified from this). Outputs go to /home/claude/work/build/.
+Ultra tier: Z-Anatomy viewport subdivision levels (cap 2) and smooth tubes (resolution_u up to 12,
+bevel_resolution 4); outputs go to /home/claude/work/build/ultra/. Node names (structure ids) are
+identical in both tiers because targets are visited in the same order.
 """
 import bpy, bmesh, json, math, os, re, sys, collections
 import mathutils
 from mathutils.bvhtree import BVHTree
 
 SRC = "/home/claude/work/zsrc/Z-Anatomy/Startup.blend"
-OUT = "/home/claude/work/build"
+TIER = os.environ.get("RAGA_TIER", "high")
+OUT = "/home/claude/work/build" + ("/ultra" if TIER == "ultra" else "")
 os.makedirs(OUT + "/packs", exist_ok=True)
+SUBSURF_CAP = 2 if TIER == "ultra" else 1
+CURVE_RES_U = 12 if TIER == "ultra" else 6
+CURVE_BEVEL_RES = 4 if TIER == "ultra" else 2
 
 bpy.ops.wm.open_mainfile(filepath=SRC)
 scene = bpy.context.scene
@@ -221,7 +231,7 @@ if WANT:
 for o, _ in targets:
     for m in o.modifiers:
         if m.type == "SUBSURF":
-            m.levels = min(m.levels, 1)
+            m.levels = min(m.levels, SUBSURF_CAP)
 def rss():
     return resource.getrusage(resource.RUSAGE_SELF).ru_maxrss // 1024
 print("rss MB", rss(), flush=True)
@@ -232,8 +242,8 @@ import numpy as np, struct
 for o, pack in targets:
     if o.type == "CURVE":
         try:
-            o.data.resolution_u = min(o.data.resolution_u, 6)
-            o.data.bevel_resolution = min(o.data.bevel_resolution, 2)
+            o.data.resolution_u = min(o.data.resolution_u, CURVE_RES_U)
+            o.data.bevel_resolution = CURVE_BEVEL_RES if TIER == "ultra" else min(o.data.bevel_resolution, CURVE_BEVEL_RES)
         except Exception:
             pass
 if WANT != "attachments":

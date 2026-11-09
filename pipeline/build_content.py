@@ -13,7 +13,7 @@ OUT = os.path.join(ROOT, "public", "data", "content.json")
 CAT = os.path.join(ROOT, "public", "data", "catalog.json")
 LMS = os.path.join(ROOT, "public", "data", "landmarks.json")
 
-INVISIBLE = re.compile("[­᠎​-‏ -  -⁤⁦-⁯﻿]")
+INVISIBLE = re.compile("[\u00ad\u180e\u200b-\u200f\u2028-\u202f\u205f-\u2064\u2066-\u206f\ufeff]")
 
 
 def clean_text(s: str) -> str:

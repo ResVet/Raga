@@ -1,0 +1,440 @@
+[
+  {
+    "key": "iliopsoas-muscle",
+    "kind": "muscle",
+    "la": "Musculus iliopsoas",
+    "alt": ["M. iliopsoas", "Iliopsoas"],
+    "en": "Iliopsoas",
+    "desc": {
+      "en": "Compound hip flexor made of psoas major and iliacus. The two arise separately, from the lumbar spine and the iliac fossa, and end in a common tendon on the lesser trochanter after passing under the inguinal ligament through the lacuna musculorum. It is the strongest flexor of the hip.",
+      "id": "Otot gabungan fleksor panggul yang terdiri atas m. psoas major dan m. iliacus. Keduanya berorigo terpisah, dari columna vertebralis lumbalis dan fossa iliaca, lalu berakhir dalam satu tendo pada trochanter minor setelah lewat di bawah ligamentum inguinale melalui lacuna musculorum. Otot ini adalah fleksor terkuat sendi panggul."
+    },
+    "facts": {
+      "group": {"en": "Inner hip muscles (iliopsoas group); Moore describes it with the anterior thigh muscles", "id": "Otot panggul dalam (kelompok iliopsoas); Moore membahasnya bersama otot paha anterior"},
+      "origin": {
+        "la": "Musculus psoas major: corpora vertebrarum T12-L5, disci intervertebrales et processus transversi vertebrarum lumbalium; musculus iliacus: fossa iliaca, labium internum cristae iliacae et ala ossis sacri",
+        "en": "Psoas major: sides of the bodies of T12-L5, the discs between them and the transverse processes of the lumbar vertebrae. Iliacus: iliac fossa, inner lip of the iliac crest and ala of the sacrum."
+      },
+      "insertion": {"la": "Trochanter minor femoris", "en": "Lesser trochanter of the femur; some iliacus fibers attach to the shaft just below it"},
+      "action": {
+        "en": "Flexes the thigh at the hip and steadies the hip joint. With the thigh fixed it flexes the trunk on the thigh, as in sitting up from lying down. Psoas major also bends the lumbar spine to its own side. Any rotation it produces is weak.",
+        "id": "Fleksi paha pada sendi panggul dan menstabilkan sendi panggul. Bila paha terfiksasi, otot ini memfleksikan batang tubuh terhadap paha, misalnya saat bangun dari posisi berbaring. M. psoas major juga melakukan fleksi lateral columna vertebralis lumbalis ke sisinya. Rotasi yang dihasilkannya lemah."
+      },
+      "nerve": {"la": "Rami anteriores nervorum lumbalium L1-L3 (m. psoas major) et nervus femoralis (m. iliacus)", "roots": "L1-L3"},
+      "blood": ["Arteriae lumbales", "Arteria iliolumbalis", "Arteria circumflexa ilium profunda"],
+      "parts": ["psoas-major", "iliacus-muscle"],
+      "clinical": {
+        "en": "Pain when the hip is flexed against resistance or passively extended (psoas sign) suggests an inflamed organ lying on the muscle, such as a retrocecal appendix. Pus from tuberculosis of the lumbar spine can track down inside the psoas fascia and appear as a swelling in the groin (psoas abscess).",
+        "id": "Nyeri saat panggul difleksikan melawan tahanan atau diekstensikan secara pasif (tanda psoas) menunjukkan peradangan organ yang menempel pada otot ini, misalnya appendix retrocaecal. Nanah dari tuberkulosis vertebra lumbal dapat turun di dalam fascia m. psoas dan muncul sebagai benjolan di lipat paha (abses psoas)."
+      }
+    },
+    "quiz": {
+      "origin": ["Corpora vertebrarum T12-L5 et fossa iliaca", "vertebra T12-L5 dan fossa iliaca", "corpus vertebra T12-L5, processus transversus lumbal dan fossa iliaca", "fossa iliaca et vertebrae lumbales"],
+      "insertion": ["Trochanter minor femoris", "trochanter minor", "trochanter minor femur"],
+      "nerve": ["Nervus femoralis et rami anteriores nervorum lumbalium", "N. femoralis dan rami anteriores L1-L3", "N. femoralis et plexus lumbalis", "plexus lumbalis", "rami ventrales L1-L3 dan n. femoralis"],
+      "action": ["Flexio articulationis coxae", "fleksi panggul", "fleksi paha", "flexio femoris", "fleksi sendi panggul", "flexio coxae"]
+    }
+  },
+  {
+    "key": "psoas-major",
+    "kind": "muscle",
+    "la": "Musculus psoas major",
+    "alt": ["M. psoas major", "Psoas major", "Musculus psoas mayor", "M. psoas mayor"],
+    "en": "Psoas major",
+    "desc": {
+      "en": "Long spindle-shaped muscle beside the lumbar spine in the posterior abdominal wall. It runs down along the pelvic brim, joins iliacus to form iliopsoas and reaches the lesser trochanter. The lumbar plexus forms inside its substance.",
+      "id": "Otot panjang berbentuk kumparan di samping columna vertebralis lumbalis, pada dinding posterior abdomen. Otot ini turun di sepanjang tepi pintu atas panggul, bergabung dengan m. iliacus membentuk m. iliopsoas, lalu berinsersio pada trochanter minor. Plexus lumbalis terbentuk di dalam massa otot ini."
+    },
+    "facts": {
+      "group": {"en": "Inner hip muscles (iliopsoas)", "id": "Otot panggul dalam (m. iliopsoas)"},
+      "origin": {
+        "la": "Facies laterales corporum vertebrarum T12-L5, disci intervertebrales inter eas et processus transversi vertebrarum lumbalium",
+        "en": "Sides of the bodies of T12-L5 vertebrae and the intervertebral discs between them; transverse processes of all lumbar vertebrae"
+      },
+      "insertion": {"la": "Trochanter minor femoris (per tendinem communem musculi iliopsoatis)", "en": "Lesser trochanter of the femur, through the common iliopsoas tendon"},
+      "action": {
+        "en": "Flexes the thigh at the hip together with iliacus. With the thigh fixed it flexes the trunk forward. Acting on one side it bends the lumbar spine to that side.",
+        "id": "Bersama m. iliacus melakukan fleksi paha pada sendi panggul. Bila paha terfiksasi, otot ini memfleksikan batang tubuh ke depan. Kontraksi satu sisi menghasilkan fleksi lateral columna vertebralis lumbalis ke sisi yang sama."
+      },
+      "nerve": {"la": "Rami anteriores nervorum lumbalium L1-L3", "roots": "L1-L3"},
+      "blood": ["Arteriae lumbales", "Ramus lumbalis arteriae iliolumbalis"]
+    },
+    "quiz": {
+      "origin": ["Corpora vertebrarum T12-L5 et disci intervertebrales", "corpus vertebra T12-L5 dan diskus intervertebralis", "permukaan lateral corpus vertebra T12-L5", "vertebra T12-L5", "processus transversus vertebra lumbal"],
+      "insertion": ["Trochanter minor femoris", "trochanter minor", "trochanter minor femur"],
+      "nerve": ["Rami anteriores nervorum lumbalium L1-L3", "rami anteriores L1-L3", "rami ventrales L1-L3", "plexus lumbalis", "plexus lumbalis L1-L3"],
+      "action": ["Flexio articulationis coxae", "fleksi panggul", "fleksi paha", "flexio femoris", "fleksi lateral tulang belakang lumbal", "flexio lateralis columnae vertebralis"]
+    }
+  },
+  {
+    "key": "iliacus-muscle",
+    "kind": "muscle",
+    "la": "Musculus iliacus",
+    "alt": ["M. iliacus", "Iliacus"],
+    "en": "Iliacus",
+    "desc": {
+      "en": "Flat triangular muscle filling the iliac fossa on the inner surface of the ilium. Its fibers converge on the lateral side of the psoas major tendon and end with it on the lesser trochanter, so the two work as one hip flexor.",
+      "id": "Otot pipih berbentuk segitiga yang mengisi fossa iliaca pada permukaan dalam os ilium. Serabutnya menyatu pada sisi lateral tendo m. psoas major dan berinsersio bersamanya pada trochanter minor, sehingga keduanya bekerja sebagai satu fleksor panggul."
+    },
+    "facts": {
+      "group": {"en": "Inner hip muscles (iliopsoas)", "id": "Otot panggul dalam (m. iliopsoas)"},
+      "origin": {
+        "la": "Fossa iliaca, labium internum cristae iliacae, ala ossis sacri et ligamenta sacroiliaca anteriora",
+        "en": "Upper two-thirds of the iliac fossa, inner lip of the iliac crest, ala of the sacrum and the anterior sacro-iliac ligaments"
+      },
+      "insertion": {"la": "Tendo musculi psoatis majoris, trochanter minor femoris et corpus femoris infra eum", "en": "Tendon of psoas major, lesser trochanter and the femoral shaft just below it"},
+      "action": {
+        "en": "Flexes the thigh at the hip and steadies the hip joint, working with psoas major. It does not move the spine because it has no vertebral attachment.",
+        "id": "Fleksi paha pada sendi panggul dan menstabilkan sendi panggul, bekerja bersama m. psoas major. Otot ini tidak menggerakkan columna vertebralis karena tidak melekat pada vertebra."
+      },
+      "nerve": {"la": "Nervus femoralis", "roots": "L2-L3"},
+      "blood": ["Ramus iliacus arteriae iliolumbalis", "Arteria circumflexa ilium profunda", "Arteria obturatoria"]
+    },
+    "quiz": {
+      "origin": ["Fossa iliaca", "fossa iliaca ossis ilii", "fossa iliaca (bagian dalam ilium)", "permukaan dalam os ilium"],
+      "insertion": ["Trochanter minor femoris", "trochanter minor", "trochanter minor femur"],
+      "nerve": ["Nervus femoralis", "N. femoralis", "n. femoralis L2-L3"],
+      "action": ["Flexio articulationis coxae", "fleksi panggul", "fleksi paha", "flexio femoris", "fleksi sendi panggul", "stabilisasi panggul"]
+    }
+  },
+  {
+    "key": "psoas-minor",
+    "kind": "muscle",
+    "model": false,
+    "la": "Musculus psoas minor",
+    "alt": ["M. psoas minor", "Psoas minor"],
+    "en": "Psoas minor",
+    "desc": {
+      "en": "Small inconstant muscle lying on the front of psoas major; it is absent in roughly 40% of people. Its long thin tendon ends on the pelvic brim at the pecten pubis and iliopubic eminence, so it never reaches the femur.",
+      "id": "Otot kecil yang tidak selalu ada (tidak ditemukan pada kira-kira 40% orang), terletak di depan m. psoas major. Tendonya yang panjang dan tipis berakhir pada tepi pintu atas panggul, yaitu pecten ossis pubis dan eminentia iliopubica, sehingga tidak mencapai femur."
+    },
+    "facts": {
+      "group": {"en": "Inner hip muscles (posterior abdominal wall)", "id": "Otot panggul dalam (dinding posterior abdomen)"},
+      "origin": {"la": "Facies laterales corporum vertebrarum T12 et L1 et discus intervertebralis inter eas", "en": "Sides of the bodies of T12 and L1 vertebrae and the disc between them"},
+      "insertion": {"la": "Pecten ossis pubis et eminentia iliopubica (per arcum iliopectineum)", "en": "Pecten pubis and iliopubic eminence, through the iliopectineal arch"},
+      "action": {
+        "en": "Weak flexor of the lumbar spine on the pelvis; it also tenses the iliac fascia. Its absence causes no noticeable weakness.",
+        "id": "Fleksor lemah columna vertebralis lumbalis terhadap panggul; otot ini juga menegangkan fascia iliaca. Ketiadaannya tidak menimbulkan kelemahan yang berarti."
+      },
+      "nerve": {"la": "Ramus anterior nervi lumbalis I", "roots": "L1"},
+      "blood": ["Arteriae lumbales"],
+      "note": {
+        "en": "The module says it helps flex the hip. Its tendon ends on the pelvic brim and does not cross the hip joint, so the references give only weak flexion of the lumbar spine. Some references give its nerve as L1-L2.",
+        "id": "Modul menyebut otot ini membantu fleksi panggul. Tendonya berakhir pada tepi pintu atas panggul dan tidak menyilang sendi panggul, sehingga buku acuan hanya menyebut fleksi lemah columna vertebralis lumbalis. Sebagian buku menulis persarafannya L1-L2."
+      }
+    },
+    "quiz": {
+      "origin": ["Corpora vertebrarum T12 et L1", "vertebra T12 dan L1", "corpus vertebra T12-L1", "tuberkulum vertebra T12 dan L1", "T12-L1"],
+      "insertion": ["Pecten ossis pubis et eminentia iliopubica", "eminentia iliopubica", "pecten ossis pubis", "linea pectinea ossis pubis", "arcus iliopectineus"],
+      "nerve": ["Ramus anterior nervi lumbalis I", "ramus anterior L1", "rami anteriores L1-L2", "ramus ventralis L1", "plexus lumbalis"],
+      "action": ["Flexio columnae vertebralis lumbalis", "fleksi lemah tulang belakang lumbal", "fleksi batang tubuh", "fleksi lateral tulang belakang"]
+    }
+  },
+  {
+    "key": "gluteus-maximus-muscle",
+    "kind": "muscle",
+    "la": "Musculus gluteus maximus",
+    "alt": ["M. gluteus maximus", "Gluteus maximus"],
+    "en": "Gluteus maximus",
+    "desc": {
+      "en": "Largest and most superficial muscle of the buttock, a thick quadrilateral sheet whose fibers run down and laterally. Most of it ends in the iliotibial tract, and only the deep lower fibers reach the gluteal tuberosity. It does its main work in climbing stairs and rising from a seat and is little used in quiet walking.",
+      "id": "Otot terbesar dan paling superfisial di regio glutea, berupa lembaran tebal segiempat dengan serabut yang berjalan ke bawah dan lateral. Sebagian besar serabutnya berakhir pada tractus iliotibialis, hanya serabut bawah bagian dalam yang melekat pada tuberositas glutea. Otot ini bekerja terutama saat naik tangga dan bangkit dari duduk, dan hampir tidak dipakai pada jalan santai."
+    },
+    "facts": {
+      "group": {"en": "Gluteal region, superficial group", "id": "Regio glutea, kelompok superfisial"},
+      "origin": {
+        "la": "Facies glutea ossis ilii posterior lineae gluteae posterioris, facies dorsalis ossis sacri et ossis coccygis, ligamentum sacrotuberale et aponeurosis musculi erectoris spinae",
+        "en": "Outer surface of the ilium behind the posterior gluteal line, dorsal surface of the sacrum and coccyx, the sacrotuberous ligament and the aponeurosis of erector spinae"
+      },
+      "insertion": {"la": "Tractus iliotibialis (fibrae plurimae) et tuberositas glutea femoris (fibrae profundae inferiores)", "en": "Most fibers: iliotibial tract, which ends on the lateral condyle of the tibia. Deep lower fibers: gluteal tuberosity of the femur."},
+      "action": {
+        "en": "Extends the thigh at the hip, mainly from a flexed position, and rotates it laterally. Through the iliotibial tract it helps steady the extended knee. With the femur fixed it extends the trunk on the thigh, as when rising from a squat.",
+        "id": "Ekstensi paha pada sendi panggul, terutama dari posisi fleksi, dan rotasi lateral paha. Melalui tractus iliotibialis, otot ini membantu menstabilkan lutut yang lurus. Bila femur terfiksasi, otot ini mengekstensikan batang tubuh terhadap paha, misalnya saat bangkit dari jongkok."
+      },
+      "nerve": {"la": "Nervus gluteus inferior", "roots": "L5-S2"},
+      "blood": ["Arteria glutea inferior", "Arteria glutea superior", "Arteria circumflexa femoris medialis", "Arteriae perforantes"],
+      "clinical": {
+        "en": "Intramuscular injections go into the upper outer quadrant of the buttock to stay clear of the sciatic nerve, which runs under the lower medial part of gluteus maximus.",
+        "id": "Injeksi intramuskular diberikan pada kuadran lateral atas regio glutea agar terhindar dari n. ischiadicus, yang berjalan di bawah bagian medial bawah m. gluteus maximus."
+      }
+    },
+    "quiz": {
+      "origin": ["Facies glutea ossis ilii, os sacrum, os coccygis et ligamentum sacrotuberale", "ilium di belakang linea glutea posterior, sacrum, coccyx, lig. sacrotuberale", "ilium, sacrum dan coccyx", "facies posterior sacrum dan coccyx"],
+      "insertion": ["Tractus iliotibialis et tuberositas glutea", "tractus iliotibialis", "tuberositas glutea femoris", "tuberositas glutea"],
+      "nerve": ["Nervus gluteus inferior", "N. gluteus inferior", "n. gluteus inferior L5-S2"],
+      "action": ["Extensio articulationis coxae", "ekstensi paha", "ekstensi panggul", "extensio femoris", "ekstensi dan rotasi lateral paha", "rotasi lateral paha"]
+    }
+  },
+  {
+    "key": "gluteus-medius-muscle",
+    "kind": "muscle",
+    "la": "Musculus gluteus medius",
+    "alt": ["M. gluteus medius", "Gluteus medius"],
+    "en": "Gluteus medius",
+    "desc": {
+      "en": "Thick fan-shaped muscle on the outer surface of the ilium, partly covered by gluteus maximus. Together with gluteus minimus it keeps the pelvis level when the opposite foot is off the ground, and weakness of the pair gives a positive Trendelenburg sign.",
+      "id": "Otot tebal berbentuk kipas pada permukaan luar os ilium, sebagian tertutup m. gluteus maximus. Bersama m. gluteus minimus, otot ini menjaga panggul tetap datar saat kaki sisi lawan diangkat, dan kelemahan kedua otot ini menimbulkan tanda Trendelenburg positif."
+    },
+    "facts": {
+      "group": {"en": "Gluteal region, superficial group (abductors and medial rotators of the hip)", "id": "Regio glutea, kelompok superfisial (abduktor dan rotator medial panggul)"},
+      "origin": {"la": "Facies glutea ossis ilii inter lineam gluteam anteriorem et posteriorem", "en": "Outer surface of the ilium between the anterior and posterior gluteal lines"},
+      "insertion": {"la": "Facies lateralis trochanteris majoris femoris", "en": "Lateral surface of the greater trochanter of the femur"},
+      "action": {
+        "en": "Abducts the thigh, and its anterior fibers rotate it medially; the posterior fibers may assist lateral rotation. In walking it holds the pelvis level over the standing limb so the opposite limb can swing forward.",
+        "id": "Abduksi paha, dan serabut anteriornya melakukan rotasi medial; serabut posterior dapat membantu rotasi lateral. Saat berjalan, otot ini menjaga panggul tetap datar di atas tungkai yang menumpu sehingga tungkai sisi lawan dapat diayunkan ke depan."
+      },
+      "nerve": {"la": "Nervus gluteus superior", "roots": "L4-S1"},
+      "blood": ["Arteria glutea superior"],
+      "clinical": {
+        "en": "Injury to the superior gluteal nerve paralyses gluteus medius and minimus. When the patient stands on the affected limb, the pelvis drops on the opposite, unsupported side (positive Trendelenburg sign), and the gait becomes a waddling gluteal gait.",
+        "id": "Cedera n. gluteus superior melumpuhkan m. gluteus medius dan minimus. Saat pasien berdiri di atas tungkai yang sakit, panggul sisi lawan yang tidak menumpu akan turun (tanda Trendelenburg positif), dan cara berjalannya menjadi bergoyang (gluteal gait)."
+      },
+      "note": {
+        "en": "The module gives the origin as 'fossa iliaca (bagian sisi luar ilium)'. The iliac fossa is the inner surface of the ilium, where iliacus arises. Gluteus medius arises from the outer surface, the facies glutea.",
+        "id": "Modul menulis origo sebagai 'fossa iliaca (bagian sisi luar ilium)'. Fossa iliaca adalah permukaan dalam os ilium, tempat origo m. iliacus. M. gluteus medius berorigo pada permukaan luar, yaitu facies glutea."
+      }
+    },
+    "quiz": {
+      "origin": ["Facies glutea ossis ilii inter lineam gluteam anteriorem et posteriorem", "facies glutea ossis ilii", "permukaan luar ilium antara linea glutea anterior dan posterior", "facies externa ossis ilii", "permukaan luar os ilium"],
+      "insertion": ["Trochanter major femoris (facies lateralis)", "trochanter major", "trochanter major femur", "facies lateralis trochanteris majoris"],
+      "nerve": ["Nervus gluteus superior", "N. gluteus superior", "n. gluteus superior L4-S1"],
+      "action": ["Abductio et rotatio medialis femoris", "abduksi paha", "abduksi panggul", "abduksi dan rotasi medial paha", "abductio femoris", "stabilisasi panggul saat berjalan"]
+    }
+  },
+  {
+    "key": "gluteus-minimus-muscle",
+    "kind": "muscle",
+    "la": "Musculus gluteus minimus",
+    "alt": ["M. gluteus minimus", "Gluteus minimus"],
+    "en": "Gluteus minimus",
+    "desc": {
+      "en": "Smallest and deepest of the three glutei, lying under gluteus medius on the outer surface of the ilium. It has the same nerve and the same actions as gluteus medius, and the two share the work of keeping the pelvis level in walking.",
+      "id": "Otot terkecil dan terdalam di antara ketiga m. gluteus, terletak di bawah m. gluteus medius pada permukaan luar os ilium. Persarafan dan aksinya sama dengan m. gluteus medius, dan keduanya bersama-sama menjaga panggul tetap datar saat berjalan."
+    },
+    "facts": {
+      "group": {"en": "Gluteal region, superficial group (abductors and medial rotators of the hip); it lies deepest of the three glutei", "id": "Regio glutea, kelompok superfisial (abduktor dan rotator medial panggul); letaknya paling dalam di antara ketiga m. gluteus"},
+      "origin": {"la": "Facies glutea ossis ilii inter lineam gluteam anteriorem et inferiorem", "en": "Outer surface of the ilium between the anterior and inferior gluteal lines"},
+      "insertion": {"la": "Facies anterior trochanteris majoris femoris", "en": "Anterior surface of the greater trochanter of the femur"},
+      "action": {
+        "en": "Abducts the thigh and rotates it medially. With gluteus medius it steadies the pelvis over the standing limb during walking.",
+        "id": "Abduksi dan rotasi medial paha. Bersama m. gluteus medius, otot ini menstabilkan panggul di atas tungkai yang menumpu saat berjalan."
+      },
+      "nerve": {"la": "Nervus gluteus superior", "roots": "L4-S1"},
+      "blood": ["Arteria glutea superior (ramus profundus)"]
+    },
+    "quiz": {
+      "origin": ["Facies glutea ossis ilii inter lineam gluteam anteriorem et inferiorem", "permukaan luar ilium antara linea glutea anterior dan inferior", "facies glutea ossis ilii", "permukaan luar os ilium"],
+      "insertion": ["Trochanter major femoris (facies anterior)", "trochanter major", "facies anterior trochanteris majoris", "trochanter major femur"],
+      "nerve": ["Nervus gluteus superior", "N. gluteus superior"],
+      "action": ["Abductio et rotatio medialis femoris", "abduksi paha", "abduksi dan rotasi medial paha", "rotasi medial paha", "menstabilkan panggul saat berjalan"]
+    }
+  },
+  {
+    "key": "tensor-fasciae-latae",
+    "kind": "muscle",
+    "la": "Musculus tensor fasciae latae",
+    "alt": ["M. tensor fasciae latae", "Tensor fasciae latae", "Musculus tensor fascia latae", "M. tensor fascia latae"],
+    "en": "Tensor fasciae latae",
+    "desc": {
+      "en": "Small muscle on the lateral side of the hip, enclosed between two layers of the fascia lata. It arises near the anterior superior iliac spine and ends in the iliotibial tract a short way below the greater trochanter.",
+      "id": "Otot kecil di sisi lateral panggul yang terbungkus di antara dua lapis fascia lata. Otot ini berorigo dekat spina iliaca anterior superior dan berakhir pada tractus iliotibialis sedikit di bawah trochanter major."
+    },
+    "facts": {
+      "group": {"en": "Gluteal region, superficial group (abductors and medial rotators of the hip)", "id": "Regio glutea, kelompok superfisial (abduktor dan rotator medial panggul)"},
+      "origin": {"la": "Spina iliaca anterior superior et pars anterior labii externi cristae iliacae", "en": "Anterior superior iliac spine and the front part of the outer lip of the iliac crest"},
+      "insertion": {"la": "Tractus iliotibialis, qui in condylo laterali tibiae (tuberculum tractus iliotibialis) terminatur", "en": "Iliotibial tract, which attaches to the lateral condyle of the tibia (anterolateral tubercle, Gerdy's tubercle)"},
+      "action": {
+        "en": "Flexes, abducts and medially rotates the thigh, working with gluteus medius and minimus. By tightening the iliotibial tract it helps keep the extended knee stable and steadies the pelvis in walking and running.",
+        "id": "Fleksi, abduksi dan rotasi medial paha, bekerja bersama m. gluteus medius dan minimus. Dengan menegangkan tractus iliotibialis, otot ini membantu menstabilkan lutut yang lurus dan panggul saat berjalan atau berlari."
+      },
+      "nerve": {"la": "Nervus gluteus superior", "roots": "L4-S1"},
+      "blood": ["Arteria circumflexa femoris lateralis (ramus ascendens)", "Arteria glutea superior"]
+    },
+    "quiz": {
+      "origin": ["Spina iliaca anterior superior", "SIAS", "spina iliaca anterior superior et crista iliaca", "crista iliaca bagian anterior"],
+      "insertion": ["Tractus iliotibialis", "tractus iliotibialis (condylus lateralis tibiae)", "condylus lateralis tibiae", "tuberculum tractus iliotibialis"],
+      "nerve": ["Nervus gluteus superior", "N. gluteus superior"],
+      "action": ["Flexio et abductio femoris", "fleksi dan abduksi paha", "fleksi dan abduksi panggul", "abduksi paha", "rotasi medial paha", "menegangkan fascia lata"]
+    }
+  },
+  {
+    "key": "piriformis-muscle",
+    "kind": "muscle",
+    "la": "Musculus piriformis",
+    "alt": ["M. piriformis", "Piriformis"],
+    "en": "Piriformis",
+    "desc": {
+      "en": "Pear-shaped muscle that leaves the pelvis through the greater sciatic foramen and divides it into suprapiriform and infrapiriform openings. It is the landmark of the gluteal region: the superior gluteal vessels and nerve pass above it, and the sciatic nerve and the inferior gluteal vessels and nerve pass below it.",
+      "id": "Otot berbentuk buah pir yang keluar dari rongga panggul melalui foramen ischiadicum majus dan membaginya menjadi foramen suprapiriforme dan infrapiriforme. Otot ini menjadi patokan regio glutea: vasa dan n. gluteus superior lewat di atasnya, sedangkan n. ischiadicus serta vasa dan n. gluteus inferior lewat di bawahnya."
+    },
+    "facts": {
+      "group": {"en": "Gluteal region, deep group (lateral rotators of the hip)", "id": "Regio glutea, kelompok profunda (rotator lateral panggul)"},
+      "origin": {"la": "Facies pelvica ossis sacri inter foramina sacralia anteriora II-IV, margo incisurae ischiadicae majoris et ligamentum sacrotuberale", "en": "Pelvic surface of the sacrum between the anterior sacral foramina of S2-S4, the margin of the greater sciatic notch and the sacrotuberous ligament"},
+      "insertion": {"la": "Margo superior trochanteris majoris femoris", "en": "Superior border of the greater trochanter of the femur"},
+      "action": {
+        "en": "Rotates the extended thigh laterally and abducts the flexed thigh. It also helps hold the femoral head in the acetabulum.",
+        "id": "Rotasi lateral paha dalam posisi ekstensi dan abduksi paha dalam posisi fleksi. Otot ini juga membantu menahan caput femoris di dalam acetabulum."
+      },
+      "nerve": {"la": "Nervus musculi piriformis (rami anteriores S1-S2)", "roots": "S1-S2"},
+      "blood": ["Arteria glutea superior", "Arteria glutea inferior", "Arteriae sacrales laterales"],
+      "clinical": {
+        "en": "In about 12% of people the common fibular part of the sciatic nerve passes through piriformis. A tight or swollen piriformis can then press on the nerve and cause buttock pain that spreads down the back of the limb (piriformis syndrome).",
+        "id": "Pada sekitar 12% orang, bagian fibularis communis n. ischiadicus menembus m. piriformis. M. piriformis yang tegang atau membengkak dapat menekan saraf ini dan menimbulkan nyeri bokong yang menjalar ke bagian belakang tungkai (sindrom piriformis)."
+      }
+    },
+    "quiz": {
+      "origin": ["Facies pelvica ossis sacri", "facies pelvina os sacrum S2-S4", "permukaan anterior sacrum", "facies anterior ossis sacri", "sacrum S2-S4"],
+      "insertion": ["Margo superior trochanteris majoris", "trochanter major", "trochanter major femur", "apex trochanteris majoris"],
+      "nerve": ["Nervus musculi piriformis", "n. musculi piriformis", "rami anteriores S1-S2", "ramus ventralis S1-S2", "plexus sacralis S1-S2"],
+      "action": ["Rotatio lateralis femoris", "rotasi lateral paha", "rotasi lateral femur", "abduksi paha saat fleksi panggul", "rotasi eksternal paha"]
+    }
+  },
+  {
+    "key": "superior-gemellus-muscle",
+    "kind": "muscle",
+    "la": "Musculus gemellus superior",
+    "alt": ["M. gemellus superior", "Gemellus superior"],
+    "en": "Superior gemellus",
+    "desc": {
+      "en": "Narrow muscle running along the upper border of the obturator internus tendon after the tendon leaves the lesser sciatic foramen. It blends with that tendon and shares its insertion and its nerve.",
+      "id": "Otot sempit yang berjalan di sepanjang tepi atas tendo m. obturatorius internus setelah tendo itu keluar dari foramen ischiadicum minus. Otot ini menyatu dengan tendo tersebut dan memiliki insersio serta persarafan yang sama."
+    },
+    "facts": {
+      "group": {"en": "Gluteal region, deep group (lateral rotators of the hip)", "id": "Regio glutea, kelompok profunda (rotator lateral panggul)"},
+      "origin": {"la": "Facies externa spinae ischiadicae", "en": "Outer surface of the ischial spine"},
+      "insertion": {"la": "Facies medialis trochanteris majoris femoris (per tendinem musculi obturatorii interni)", "en": "Medial surface of the greater trochanter, by way of the obturator internus tendon"},
+      "action": {
+        "en": "Rotates the extended thigh laterally and abducts the flexed thigh, acting with obturator internus, and helps hold the femoral head in the acetabulum.",
+        "id": "Rotasi lateral paha dalam posisi ekstensi dan abduksi paha dalam posisi fleksi, bersama m. obturatorius internus, serta membantu menahan caput femoris di dalam acetabulum."
+      },
+      "nerve": {"la": "Nervus musculi obturatorii interni", "roots": "L5-S2"},
+      "blood": ["Arteria glutea inferior", "Arteria pudenda interna"]
+    },
+    "quiz": {
+      "origin": ["Spina ischiadica", "spina ischii", "spina ossis ischii"],
+      "insertion": ["Facies medialis trochanteris majoris", "trochanter major", "trochanter major femur", "bersama tendo m. obturatorius internus ke trochanter major", "fossa trochanterica"],
+      "nerve": ["Nervus musculi obturatorii interni", "n. musculi obturatorii interni", "n. ad m. obturatorium internum", "plexus sacralis L5-S2"],
+      "action": ["Rotatio lateralis femoris", "rotasi lateral paha", "rotasi lateral femur", "rotasi eksternal paha"]
+    }
+  },
+  {
+    "key": "obturator-internus",
+    "kind": "muscle",
+    "la": "Musculus obturatorius internus",
+    "alt": ["M. obturatorius internus", "Musculus obturator internus", "M. obturator internus", "Obturator internus", "Obturatorius internus"],
+    "en": "Obturator internus",
+    "desc": {
+      "en": "Fan-shaped muscle on the inner surface of the obturator membrane, lining the side wall of the lesser pelvis. Its tendon turns at nearly a right angle around the lesser sciatic notch, cushioned by a bursa, and runs laterally between the two gemelli to the greater trochanter.",
+      "id": "Otot berbentuk kipas pada permukaan dalam membrana obturatoria, melapisi dinding samping pelvis minor. Tendonya membelok hampir tegak lurus mengelilingi incisura ischiadica minor (dilindungi sebuah bursa), lalu berjalan ke lateral di antara kedua m. gemellus menuju trochanter major."
+    },
+    "facts": {
+      "group": {"en": "Gluteal region, deep group (lateral rotators of the hip); its belly lies in the pelvic wall", "id": "Regio glutea, kelompok profunda (rotator lateral panggul); perutnya terletak di dinding panggul"},
+      "origin": {"la": "Facies interna membranae obturatoriae et margo ossium circa foramen obturatum", "en": "Pelvic (inner) surface of the obturator membrane and the surrounding bone of the obturator foramen"},
+      "insertion": {"la": "Facies medialis trochanteris majoris femoris (supra fossam trochantericam)", "en": "Medial surface of the greater trochanter, just above the trochanteric fossa"},
+      "action": {
+        "en": "Rotates the extended thigh laterally and abducts the flexed thigh. With the other short rotators it holds the femoral head in the acetabulum.",
+        "id": "Rotasi lateral paha dalam posisi ekstensi dan abduksi paha dalam posisi fleksi. Bersama rotator pendek lainnya, otot ini menahan caput femoris di dalam acetabulum."
+      },
+      "nerve": {"la": "Nervus musculi obturatorii interni", "roots": "L5-S2"},
+      "blood": ["Arteria pudenda interna", "Arteria obturatoria", "Arteria glutea inferior"],
+      "note": {
+        "en": "Despite its name, it is not supplied by the obturator nerve. Its own nerve comes from the sacral plexus, leaves the pelvis through the greater sciatic foramen and re-enters through the lesser one.",
+        "id": "Walaupun namanya demikian, otot ini tidak dipersarafi n. obturatorius. Sarafnya sendiri berasal dari plexus sacralis, keluar dari panggul melalui foramen ischiadicum majus lalu masuk kembali melalui foramen ischiadicum minus."
+      }
+    },
+    "quiz": {
+      "origin": ["Facies interna membranae obturatoriae", "membrana obturatoria (permukaan dalam)", "permukaan dalam membrana obturatoria dan foramen obturatum", "margo foraminis obturati"],
+      "insertion": ["Facies medialis trochanteris majoris", "trochanter major", "trochanter major femur", "fossa trochanterica", "trochanter major (via fossa trochanterica)"],
+      "nerve": ["Nervus musculi obturatorii interni", "n. musculi obturatorii interni", "n. ad m. obturatorium internum", "plexus sacralis L5-S2"],
+      "action": ["Rotatio lateralis femoris", "rotasi lateral paha", "rotasi lateral femur", "stabilisasi sendi panggul", "rotasi eksternal paha"]
+    }
+  },
+  {
+    "key": "inferior-gemellus-muscle",
+    "kind": "muscle",
+    "la": "Musculus gemellus inferior",
+    "alt": ["M. gemellus inferior", "Gemellus inferior"],
+    "en": "Inferior gemellus",
+    "desc": {
+      "en": "Narrow muscle along the lower border of the obturator internus tendon, between that tendon and quadratus femoris. It blends with the tendon and shares its insertion, but its nerve is the nerve to quadratus femoris.",
+      "id": "Otot sempit di sepanjang tepi bawah tendo m. obturatorius internus, di antara tendo tersebut dan m. quadratus femoris. Otot ini menyatu dengan tendo itu dan memiliki insersio yang sama, tetapi persarafannya dari n. musculi quadrati femoris."
+    },
+    "facts": {
+      "group": {"en": "Gluteal region, deep group (lateral rotators of the hip)", "id": "Regio glutea, kelompok profunda (rotator lateral panggul)"},
+      "origin": {"la": "Pars superior tuberis ischiadici", "en": "Upper part of the ischial tuberosity"},
+      "insertion": {"la": "Facies medialis trochanteris majoris femoris (per tendinem musculi obturatorii interni)", "en": "Medial surface of the greater trochanter, by way of the obturator internus tendon"},
+      "action": {
+        "en": "Rotates the extended thigh laterally and abducts the flexed thigh, acting with obturator internus, and helps hold the femoral head in the acetabulum.",
+        "id": "Rotasi lateral paha dalam posisi ekstensi dan abduksi paha dalam posisi fleksi, bersama m. obturatorius internus, serta membantu menahan caput femoris di dalam acetabulum."
+      },
+      "nerve": {"la": "Nervus musculi quadrati femoris", "roots": "L4-S1"},
+      "blood": ["Arteria circumflexa femoris medialis", "Arteria glutea inferior"]
+    },
+    "quiz": {
+      "origin": ["Tuber ischiadicum", "tuber ischiadicum (bagian atas)", "tuberositas ischiadica"],
+      "insertion": ["Facies medialis trochanteris majoris", "trochanter major", "trochanter major femur", "bersama tendo m. obturatorius internus ke trochanter major", "fossa trochanterica"],
+      "nerve": ["Nervus musculi quadrati femoris", "n. musculi quadrati femoris", "n. ad m. quadratum femoris", "plexus sacralis L4-S1"],
+      "action": ["Rotatio lateralis femoris", "rotasi lateral paha", "rotasi lateral femur", "rotasi eksternal paha"]
+    }
+  },
+  {
+    "key": "quadratus-femoris-muscle",
+    "kind": "muscle",
+    "la": "Musculus quadratus femoris",
+    "alt": ["M. quadratus femoris", "Quadratus femoris"],
+    "en": "Quadratus femoris",
+    "desc": {
+      "en": "Short, flat rectangular muscle, the lowest of the deep lateral rotators, running horizontally from the ischial tuberosity to the back of the femur. The sciatic nerve crosses its posterior surface.",
+      "id": "Otot pendek dan pipih berbentuk segiempat, rotator lateral dalam yang letaknya paling bawah, berjalan mendatar dari tuber ischiadicum ke bagian belakang femur. N. ischiadicus menyilang permukaan posteriornya."
+    },
+    "facts": {
+      "group": {"en": "Gluteal region, deep group (lateral rotators of the hip)", "id": "Regio glutea, kelompok profunda (rotator lateral panggul)"},
+      "origin": {"la": "Margo lateralis tuberis ischiadici", "en": "Lateral border of the ischial tuberosity"},
+      "insertion": {"la": "Tuberculum quadratum cristae intertrochantericae et area infra id", "en": "Quadrate tubercle on the intertrochanteric crest and the area just below it"},
+      "action": {
+        "en": "Rotates the thigh laterally and steadies the femoral head in the acetabulum; it may assist adduction.",
+        "id": "Rotasi lateral paha dan menstabilkan caput femoris di dalam acetabulum; dapat membantu adduksi paha."
+      },
+      "nerve": {"la": "Nervus musculi quadrati femoris", "roots": "L4-S1"},
+      "blood": ["Arteria circumflexa femoris medialis", "Arteria glutea inferior"]
+    },
+    "quiz": {
+      "origin": ["Tuber ischiadicum", "margo lateralis tuberis ischiadici", "tuberositas ischiadica"],
+      "insertion": ["Tuberculum quadratum cristae intertrochantericae", "tuberculum quadratum", "crista intertrochanterica", "crista intertrochanterica femur"],
+      "nerve": ["Nervus musculi quadrati femoris", "n. musculi quadrati femoris", "n. ad m. quadratum femoris"],
+      "action": ["Rotatio lateralis femoris", "rotasi lateral paha", "rotasi lateral femur", "adduksi paha", "rotasi eksternal paha"]
+    }
+  },
+  {
+    "key": "obturator-externus",
+    "kind": "muscle",
+    "la": "Musculus obturatorius externus",
+    "alt": ["M. obturatorius externus", "Musculus obturator externus", "M. obturator externus", "Obturator externus", "Obturatorius externus"],
+    "en": "Obturator externus",
+    "desc": {
+      "en": "Flat triangular muscle covering the outer surface of the obturator membrane, deep in the upper medial thigh. Its tendon passes below the femoral neck to the trochanteric fossa. It belongs to the medial (adductor) compartment and is supplied by the obturator nerve, yet it acts as a lateral rotator.",
+      "id": "Otot pipih berbentuk segitiga yang menutupi permukaan luar membrana obturatoria, jauh di dalam paha medial atas. Tendonya berjalan di bawah collum femoris menuju fossa trochanterica. Otot ini termasuk kompartemen medial (kelompok adduktor) dan dipersarafi n. obturatorius, tetapi aksinya adalah rotasi lateral."
+    },
+    "facts": {
+      "group": {"en": "Medial compartment of thigh (adductor group), deep; acts with the deep lateral rotators of the hip", "id": "Kompartemen medial paha (kelompok adduktor), lapisan dalam; bekerja bersama rotator lateral dalam panggul"},
+      "origin": {"la": "Facies externa membranae obturatoriae et margo ossium circa foramen obturatum", "en": "Outer surface of the obturator membrane and the bony margin of the obturator foramen"},
+      "insertion": {"la": "Fossa trochanterica femoris", "en": "Trochanteric fossa of the femur"},
+      "action": {
+        "en": "Rotates the thigh laterally and steadies the femoral head in the acetabulum.",
+        "id": "Rotasi lateral paha dan menstabilkan caput femoris di dalam acetabulum."
+      },
+      "nerve": {"la": "Nervus obturatorius (ramus posterior)", "roots": "L3-L4"},
+      "blood": ["Arteria obturatoria", "Arteria circumflexa femoris medialis"],
+      "note": {
+        "en": "The module lists it with the deep hip muscles. Moore and the 3D model place it in the medial compartment of the thigh, which fits its supply by the obturator nerve.",
+        "id": "Modul memasukkannya ke dalam otot panggul lapisan profunda. Moore dan model 3D menempatkannya di kompartemen medial paha, sesuai dengan persarafannya dari n. obturatorius."
+      }
+    },
+    "quiz": {
+      "origin": ["Facies externa membranae obturatoriae", "membrana obturatoria (permukaan luar)", "permukaan luar membrana obturatoria dan foramen obturatum", "margo foraminis obturati"],
+      "insertion": ["Fossa trochanterica femoris", "fossa trochanterica", "trochanter major (fossa trochanterica)"],
+      "nerve": ["Nervus obturatorius", "N. obturatorius", "ramus posterior n. obturatorii", "n. obturatorius L3-L4"],
+      "action": ["Rotatio lateralis femoris", "rotasi lateral paha", "rotasi lateral femur", "stabilisasi caput femoris pada acetabulum", "rotasi eksternal paha"]
+    }
+  }
+]

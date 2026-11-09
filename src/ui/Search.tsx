@@ -1,7 +1,7 @@
 import { useEffect, useId, useMemo, useRef, useState } from 'react';
 import { useApp } from './ctx';
 import type { SearchItem } from '../data/db';
-import { IconSearch } from './icons';
+import { IconClose, IconSearch } from './icons';
 
 const KIND_LABEL: Record<string, { en: string; id: string }> = {
   skeleton: { en: 'Bone', id: 'Tulang' }, bone: { en: 'Bone', id: 'Tulang' },
@@ -14,7 +14,8 @@ const KIND_LABEL: Record<string, { en: string; id: string }> = {
   group: { en: 'Group', id: 'Kelompok' }, cartilage: { en: 'Cartilage', id: 'Kartilago' },
 };
 
-export function Search({ onPick }: { onPick: (it: SearchItem) => void }) {
+/** Search combobox. `overlay` is the full-width phone version, which focuses itself and can be closed. */
+export function Search({ onPick, overlay, onClose }: { onPick: (it: SearchItem) => void; overlay?: boolean; onClose?: () => void }) {
   const { db, t, settings } = useApp();
   const [q, setQ] = useState('');
   const [open, setOpen] = useState(false);
@@ -25,26 +26,33 @@ export function Search({ onPick }: { onPick: (it: SearchItem) => void }) {
 
   useEffect(() => setActive(0), [q]);
   useEffect(() => {
+    if (overlay) inputRef.current?.focus();
+  }, [overlay]);
+  useEffect(() => {
+    if (overlay) return;
     const onKey = (e: KeyboardEvent) => {
-      if (e.key === '/' && document.activeElement?.tagName !== 'INPUT' && document.activeElement?.tagName !== 'TEXTAREA') {
+      const tag = document.activeElement?.tagName;
+      if (e.key === '/' && tag !== 'INPUT' && tag !== 'TEXTAREA' && tag !== 'SELECT') {
         e.preventDefault();
         inputRef.current?.focus();
       }
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  }, []);
+  }, [overlay]);
 
   const choose = (it: SearchItem) => {
     onPick(it);
     setOpen(false);
     setQ('');
     inputRef.current?.blur();
+    onClose?.();
   };
+  const expanded = open && q.trim().length >= 2;
 
   return (
-    <div className="search" role="search">
-      <IconSearch />
+    <div className={`search ${overlay ? 'overlay' : ''}`} role="search">
+      <IconSearch className="ico search-ico" />
       <input
         ref={inputRef}
         type="search"
@@ -52,17 +60,19 @@ export function Search({ onPick }: { onPick: (it: SearchItem) => void }) {
         placeholder={t.searchPlaceholder}
         aria-label={t.searchLabel}
         role="combobox"
-        aria-expanded={open && q.length >= 2}
+        aria-autocomplete="list"
+        aria-expanded={expanded}
         aria-controls={listId}
-        aria-activedescendant={results[active] ? `${listId}-${active}` : undefined}
+        aria-activedescendant={expanded && results[active] ? `${listId}-${active}` : undefined}
         autoComplete="off"
+        autoCapitalize="off"
         spellCheck={false}
         onChange={(e) => {
           setQ(e.target.value);
           setOpen(true);
         }}
         onFocus={() => setOpen(true)}
-        onBlur={() => setTimeout(() => setOpen(false), 150)}
+        onBlur={() => window.setTimeout(() => setOpen(false), 150)}
         onKeyDown={(e) => {
           if (e.key === 'ArrowDown') {
             e.preventDefault();
@@ -71,20 +81,35 @@ export function Search({ onPick }: { onPick: (it: SearchItem) => void }) {
             e.preventDefault();
             setActive((a) => Math.max(0, a - 1));
           } else if (e.key === 'Enter' && results[active]) {
+            e.preventDefault();
             choose(results[active]);
           } else if (e.key === 'Escape') {
-            setOpen(false);
-            (e.target as HTMLInputElement).blur();
+            if (q) setQ('');
+            else {
+              setOpen(false);
+              (e.target as HTMLInputElement).blur();
+              onClose?.();
+            }
           }
         }}
       />
-      {open && q.trim().length >= 2 && (
-        <div className="results" id={listId} role="listbox">
-          {results.length === 0 && <div className="results-empty">{t.noResults}</div>}
-          {results.map((it, i) => {
+      {!overlay && !q && (
+        <kbd className="search-key" aria-hidden="true">
+          /
+        </kbd>
+      )}
+      {overlay && (
+        <button className="icon-btn search-close" aria-label={t.searchClose} onClick={onClose}>
+          <IconClose />
+        </button>
+      )}
+      <div className="results glass" id={listId} role="listbox" aria-label={t.searchLabel} hidden={!expanded}>
+        {expanded && results.length === 0 && <p className="results-empty">{t.noResults}</p>}
+        {expanded &&
+          results.map((it, i) => {
             const k = KIND_LABEL[it.kind] ?? KIND_LABEL[it.type] ?? { en: '', id: '' };
             return (
-              <button
+              <div
                 key={it.type + it.key}
                 id={`${listId}-${i}`}
                 role="option"
@@ -96,12 +121,11 @@ export function Search({ onPick }: { onPick: (it: SearchItem) => void }) {
               >
                 <span className="latin">{it.la}</span>
                 <span className="result-kind">{settings.lang === 'id' ? k.id : k.en}</span>
-                <span className="result-en">{it.en}</span>
-              </button>
+                {it.en && it.en !== it.la && <span className="result-en">{it.en}</span>}
+              </div>
             );
           })}
-        </div>
-      )}
+      </div>
     </div>
   );
 }

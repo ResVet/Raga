@@ -96,8 +96,11 @@ for lbl in bpy.data.objects:
                 loc, nor, idx, dist = tb.find_nearest(mp)
                 if loc is not None and dist < 0.012:
                     lp = anchor[2].copy(); lp.x = -lp.x
+                    # the twin is a negatively scaled mirror copy: its face normals point inward, so use
+                    # the mirrored normal of the right-side anchor instead
+                    mn = anchor[1].copy(); mn.x = -mn.x
                     landmarks.append({**entry, "on": id_by_name[twin.name], "side": "l", "p": to_gltf(loc),
-                                      "n": [round(x, 4) for x in to_gltf(nor.normalized())], "lp": to_gltf(lp),
+                                      "n": [round(x, 4) for x in to_gltf(mn.normalized())], "lp": to_gltf(lp),
                                       "mirrored": True, "snap": round(dist, 5)})
 # second pass: labels parented to a group (e.g. heart surface features) -> snap to the nearest exported mesh
 coll_meshes = collections.defaultdict(list)

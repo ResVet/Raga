@@ -1,0 +1,931 @@
+[
+  {
+    "key": "hip-bone",
+    "kind": "bone",
+    "la": "Os coxae",
+    "alt": ["Os coxa", "Os innominatum"],
+    "en": "Hip bone",
+    "desc": {
+      "en": "Large bone of the pelvic girdle, formed by the ilium, ischium and pubis, which fuse in the acetabulum. The two hip bones meet in front at the pubic symphysis and articulate with the sacrum behind at the sacro-iliac joints, completing the bony pelvis.",
+      "id": "Tulang besar gelang panggul yang terbentuk dari os ilium, os ischii dan os pubis; ketiganya menyatu di acetabulum. Kedua os coxae bertemu di depan pada symphysis pubica dan bersendi dengan os sacrum di belakang melalui articulatio sacroiliaca, sehingga terbentuk pelvis."
+    },
+    "facts": {
+      "type": "Os irregulare",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os sacrum", "Os coxae contralaterale", "Femur"],
+      "features": ["acetabulum", "acetabular-fossa", "acetabular-margin", "acetabular-notch", "lunate-surface", "ilium", "ischium", "pubis", "ala-of-ilium", "body-of-ilium", "iliac-crest", "outer-lip-of-iliac-crest", "intermediate-zone", "inner-lip-of-iliac-crest", "iliac-tubercle", "anterior-superior-iliac-spine", "anterior-inferior-iliac-spine", "posterior-superior-iliac-spine", "posterior-inferior-iliac-spine", "iliac-fossa", "gluteal-surface-of-ilium", "anterior-gluteal-line", "posterior-gluteal-line", "inferior-gluteal-line", "sacropelvic-surface-of-ilium", "auricular-surface-of-ilium", "iliac-tuberosity", "arcuate-line-of-ilium", "iliopubic-eminence", "supra-acetabular-groove", "greater-sciatic-notch", "greater-sciatic-foramen", "body-of-ischium", "ischial-spine", "lesser-sciatic-notch", "lesser-sciatic-foramen", "ischial-tuberosity", "ramus-of-ischium", "ischiopubic-ramus", "body-of-pubis", "superior-pubic-ramus", "inferior-pubic-ramus", "pubic-crest", "pubic-tubercle", "pecten-pubis", "symphysial-surface-of-pubis", "obturator-foramen", "obturator-groove", "obturator-crest", "anterior-obturator-tubercle", "posterior-obturator-tubercle"],
+      "region": {"en": "Pelvic girdle", "id": "Gelang panggul (cingulum pelvicum)"},
+      "clinical": {
+        "en": "The iliac crest is the usual site for bone marrow aspiration and for taking bone grafts. In adolescents a strong muscle pull can avulse an apophysis: the anterior superior iliac spine (sartorius), the anterior inferior iliac spine (rectus femoris) or the ischial tuberosity (hamstrings).",
+        "id": "Crista iliaca adalah lokasi yang lazim untuk aspirasi sumsum tulang dan pengambilan cangkok tulang. Pada remaja, tarikan otot yang kuat dapat menimbulkan fraktur avulsi apofisis: SIAS (m. sartorius), SIAI (m. rectus femoris) atau tuber ischiadicum (otot hamstring)."
+      },
+      "note": {
+        "en": "In children the ilium, ischium and pubis are separate bones joined in the acetabulum by the Y-shaped triradiate cartilage. Fusion begins at about 15-17 years and is complete by about 20-25 years. Some books class the hip bone as a flat bone.",
+        "id": "Pada anak, os ilium, os ischii dan os pubis masih terpisah dan dihubungkan di acetabulum oleh cartilago triradiata yang berbentuk huruf Y. Penyatuan dimulai sekitar usia 15-17 tahun dan selesai sekitar usia 20-25 tahun. Sebagian buku menggolongkan os coxae sebagai os planum."
+      }
+    },
+    "quiz": {
+      "type": ["Os irregulare", "irregulare", "tulang tidak beraturan", "Os planum", "planum"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "ilium",
+    "kind": "bone",
+    "la": "Os ilium",
+    "alt": ["Ilium", "Os ilii"],
+    "en": "Ilium",
+    "desc": {
+      "en": "Largest and uppermost of the three parts of the hip bone. Its body forms the upper part of the acetabulum (about two fifths), and its broad ala carries the iliac crest and the iliac fossa.",
+      "id": "Bagian os coxae yang paling besar dan paling atas. Corpus-nya membentuk bagian atas acetabulum (sekitar dua perlima), sedangkan ala ossis ilii yang lebar memiliki crista iliaca dan fossa iliaca."
+    },
+    "facts": {
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os sacrum", "Femur"],
+      "features": ["body-of-ilium", "ala-of-ilium", "iliac-crest", "outer-lip-of-iliac-crest", "intermediate-zone", "inner-lip-of-iliac-crest", "iliac-tubercle", "anterior-superior-iliac-spine", "anterior-inferior-iliac-spine", "posterior-superior-iliac-spine", "posterior-inferior-iliac-spine", "iliac-fossa", "gluteal-surface-of-ilium", "anterior-gluteal-line", "posterior-gluteal-line", "inferior-gluteal-line", "sacropelvic-surface-of-ilium", "auricular-surface-of-ilium", "iliac-tuberosity", "arcuate-line-of-ilium", "supra-acetabular-groove", "greater-sciatic-notch"],
+      "region": {"en": "Pelvic girdle", "id": "Gelang panggul (cingulum pelvicum)"},
+      "note": {
+        "en": "Part of the os coxae, so it has no shape class of its own. It articulates with the sacrum through its auricular surface.",
+        "id": "Merupakan bagian dari os coxae, sehingga tidak digolongkan tersendiri menurut bentuk. Os ilium bersendi dengan os sacrum melalui facies auricularis."
+      }
+    },
+    "quiz": {
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "ischium",
+    "kind": "bone",
+    "la": "Os ischii",
+    "alt": ["Ischium", "Os ischium"],
+    "en": "Ischium",
+    "desc": {
+      "en": "Posteroinferior part of the hip bone. Its body forms the posterior part of the acetabulum (about two fifths), its ramus joins the inferior pubic ramus, and its tuberosity takes the body weight when sitting.",
+      "id": "Bagian posteroinferior os coxae. Corpus-nya membentuk bagian posterior acetabulum (sekitar dua perlima), ramus-nya bersatu dengan ramus inferior ossis pubis, dan tuber ischiadicum menahan berat badan saat duduk."
+    },
+    "facts": {
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Femur"],
+      "features": ["body-of-ischium", "ischial-spine", "lesser-sciatic-notch", "ischial-tuberosity", "ramus-of-ischium", "ischiopubic-ramus"],
+      "region": {"en": "Pelvic girdle", "id": "Gelang panggul (cingulum pelvicum)"},
+      "note": {
+        "en": "Part of the os coxae. The hamstrings and the hamstring part of adductor magnus arise from the ischial tuberosity.",
+        "id": "Merupakan bagian dari os coxae. Otot hamstring dan bagian hamstring m. adductor magnus berorigo pada tuber ischiadicum."
+      }
+    },
+    "quiz": {
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "pubis",
+    "kind": "bone",
+    "la": "Os pubis",
+    "alt": ["Pubis"],
+    "en": "Pubis",
+    "desc": {
+      "en": "Anteromedial part of the hip bone, made of a body and superior and inferior rami. The bodies of the two sides meet at the pubic symphysis, and the superior ramus forms the anterior part of the acetabulum (about one fifth).",
+      "id": "Bagian anteromedial os coxae yang terdiri atas corpus, ramus superior dan ramus inferior. Corpus kedua sisi bertemu pada symphysis pubica, dan ramus superior ikut membentuk bagian anterior acetabulum (sekitar seperlima)."
+    },
+    "facts": {
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os pubis contralaterale", "Femur"],
+      "features": ["body-of-pubis", "superior-pubic-ramus", "inferior-pubic-ramus", "pubic-crest", "pubic-tubercle", "pecten-pubis", "symphysial-surface-of-pubis", "iliopubic-eminence", "obturator-groove", "obturator-crest", "anterior-obturator-tubercle"],
+      "region": {"en": "Pelvic girdle", "id": "Gelang panggul (cingulum pelvicum)"},
+      "note": {
+        "en": "Part of the os coxae. The adductor muscles of the thigh arise mostly from the body and inferior ramus of the pubis.",
+        "id": "Merupakan bagian dari os coxae. Otot adduktor paha sebagian besar berorigo pada corpus dan ramus inferior ossis pubis."
+      }
+    },
+    "quiz": {
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "femur",
+    "kind": "bone",
+    "la": "Femur",
+    "alt": ["Os femoris", "Os femur"],
+    "en": "Femur",
+    "desc": {
+      "en": "Longest and strongest bone of the body and the only bone of the thigh. Its head fits the acetabulum at the hip joint, and its two condyles rest on the tibia at the knee joint, with the patella gliding on the front of the lower end.",
+      "id": "Tulang terpanjang dan terkuat di tubuh, satu-satunya tulang paha. Caput femoris masuk ke acetabulum membentuk articulatio coxae, sedangkan kedua condylus bertumpu pada tibia membentuk articulatio genus, dengan patella meluncur di depan ujung bawahnya."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os coxae", "Tibia", "Patella"],
+      "features": ["head-of-femur", "fovea-for-ligament-of-head-of-femur", "neck-of-femur", "greater-trochanter", "trochanteric-fossa", "lesser-trochanter", "third-trochanter", "intertrochanteric-line", "intertrochanteric-crest", "quadrate-tubercle", "body-of-femur", "gluteal-tuberosity", "pectineal-line-of-femur", "linea-aspera", "medial-lip-of-linea-aspera", "lateral-lip-of-linea-aspera", "medial-supracondylar-line", "lateral-supracondylar-line", "popliteal-surface-of-femur", "adductor-tubercle", "medial-condyle-of-femur", "lateral-condyle-of-femur", "medial-epicondyle-of-femur", "lateral-epicondyle-of-femur", "groove-for-popliteus-muscle", "intercondylar-fossa", "intercondylar-line", "patellar-surface-of-femur"],
+      "region": {"en": "Thigh (regio femoris)", "id": "Paha (regio femoris)"},
+      "clinical": {
+        "en": "Femoral neck fractures are common in elderly women with osteoporosis. The leg lies shortened and laterally rotated, and a displaced fracture can tear the retinacular arteries along the neck, leading to avascular necrosis of the head.",
+        "id": "Fraktur collum femoris sering terjadi pada perempuan lanjut usia dengan osteoporosis. Tungkai tampak memendek dan berotasi ke lateral, dan fraktur yang bergeser dapat merobek arteri retinakular di sepanjang collum sehingga caput femoris mengalami nekrosis avaskular."
+      },
+      "note": {
+        "en": "The neck meets the shaft at an angle of inclination of about 125° in adults. A smaller angle is coxa vara, a larger one coxa valga.",
+        "id": "Collum membentuk sudut inklinasi sekitar 125° terhadap corpus pada orang dewasa. Sudut yang lebih kecil disebut coxa vara, yang lebih besar coxa valga."
+      }
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "patella",
+    "kind": "bone",
+    "la": "Patella",
+    "alt": ["Os patella", "Os patellae"],
+    "en": "Patella",
+    "desc": {
+      "en": "Largest sesamoid bone of the body, a triangular bone inside the tendon of quadriceps femoris in front of the knee. Its posterior articular surface glides on the patellar surface of the femur.",
+      "id": "Os sesamoideum terbesar di tubuh, tulang segitiga yang terletak di dalam tendo m. quadriceps femoris di depan lutut. Facies articularis di belakangnya meluncur pada facies patellaris femoris."
+    },
+    "facts": {
+      "type": "Os sesamoideum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Femur"],
+      "region": {"en": "Knee (regio genus)", "id": "Lutut (regio genus)"},
+      "clinical": {
+        "en": "Dislocation of the patella is almost always lateral, because the pull of quadriceps runs obliquely along the thigh; the lowest fibres of vastus medialis and the high lateral lip of the patellar surface resist it. A bipartite patella (an unfused superolateral piece) can look like a fracture on X-ray.",
+        "id": "Dislokasi patella hampir selalu ke lateral, karena tarikan m. quadriceps berjalan miring mengikuti paha; serabut terbawah m. vastus medialis dan tepi lateral facies patellaris yang tinggi menahan pergeseran ini. Patella bipartita (bagian superolateral yang tidak menyatu) dapat tampak seperti fraktur pada foto Rontgen."
+      },
+      "note": {
+        "en": "The base faces up and receives the quadriceps tendon; the apex points down and gives origin to the patellar ligament. The posterior surface has a larger lateral and a smaller medial facet. The patella moves the quadriceps tendon away from the axis of the knee and so increases its leverage.",
+        "id": "Basis menghadap ke atas dan menerima tendo m. quadriceps; apex mengarah ke bawah dan menjadi tempat lekat ligamentum patellae. Permukaan belakangnya memiliki faset lateral yang lebih besar dan faset medial yang lebih kecil. Patella menjauhkan tendo quadriceps dari sumbu sendi lutut sehingga daya ungkitnya bertambah."
+      }
+    },
+    "quiz": {
+      "type": ["Os sesamoideum", "sesamoideum", "tulang sesamoid"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "tibia",
+    "kind": "bone",
+    "la": "Tibia",
+    "alt": ["Os tibia", "Os tibiae"],
+    "en": "Tibia",
+    "desc": {
+      "en": "Large medial bone of the leg that carries the body weight from the femur to the talus. Its medial surface and anterior border lie directly under the skin along the shin.",
+      "id": "Tulang besar di sisi medial tungkai bawah yang meneruskan berat badan dari femur ke talus. Facies medialis dan margo anterior-nya terletak langsung di bawah kulit sepanjang tulang kering."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Femur", "Fibula", "Talus"],
+      "features": ["medial-condyle-of-tibia", "lateral-condyle-of-tibia", "superior-articular-surfaces-of-tibia", "articular-surface-of-medial-condyle", "superior-articular-surface-of-lateral-condyle", "tibial-plateau", "intercondylar-area", "anterior-intercondylar-area", "posterior-intercondylar-area", "intercondylar-eminence", "medial-intercondylar-tubercle", "lateral-intercondylar-tubercle", "fibular-articular-facet", "tubercle-of-iliotibial-tract", "tibial-tuberosity", "body-of-tibia", "anterior-border-of-tibia", "medial-border-of-tibia", "interosseous-border-of-tibia", "medial-surface-of-tibia", "lateral-surface-of-tibia", "posterior-surface-of-tibia", "soleal-line", "nutrient-foramen-of-tibia", "medial-malleolus", "articular-facet-of-medial-malleolus", "malleolar-groove-of-tibia", "posterior-malleolus", "fibular-notch", "inferior-articular-surface-of-tibia"],
+      "region": {"en": "Leg (regio cruris)", "id": "Tungkai bawah (regio cruris)"},
+      "clinical": {
+        "en": "The shaft is narrowest at the junction of its middle and lower thirds, the commonest fracture site. Because the bone lies under the skin, many fractures are open, and the lower third heals slowly because of its poorer blood supply.",
+        "id": "Corpus tibiae paling sempit di perbatasan sepertiga tengah dan sepertiga bawah, lokasi fraktur yang paling sering. Karena tulang ini terletak di bawah kulit, banyak frakturnya bersifat terbuka, dan sepertiga bawah lambat menyatu karena perdarahannya lebih sedikit."
+      },
+      "note": {
+        "en": "The nutrient foramen lies on the posterior surface just below the soleal line, and its canal runs downward. The nutrient artery comes from the posterior tibial artery and is one of the largest nutrient arteries in the body.",
+        "id": "Foramen nutricium terletak pada facies posterior tepat di bawah linea musculi solei, dan salurannya mengarah ke bawah. A. nutricia tibiae berasal dari a. tibialis posterior dan termasuk arteri nutrisia terbesar di tubuh."
+      }
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "fibula",
+    "kind": "bone",
+    "la": "Fibula",
+    "alt": ["Os fibula", "Os fibulae", "Os Fibuka"],
+    "en": "Fibula",
+    "desc": {
+      "en": "Slender lateral bone of the leg that carries little of the body weight. Its shaft gives attachment to many leg muscles, and its lower end, the lateral malleolus, forms the lateral side of the ankle joint.",
+      "id": "Tulang ramping di sisi lateral tungkai bawah yang hanya menanggung sedikit berat badan. Corpus-nya menjadi tempat lekat banyak otot tungkai bawah, dan ujung bawahnya, malleolus lateralis, membentuk sisi lateral sendi pergelangan kaki."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Tibia", "Talus"],
+      "features": ["head-of-fibula", "apex-of-head-of-fibula", "articular-facet-of-head-of-fibula", "neck-of-fibula", "body-of-fibula", "anterior-border-of-fibula", "interosseous-crest-of-fibula", "posterior-border-of-fibula", "medial-border-of-fibula", "lateral-surface-of-fibula", "medial-surface-of-fibula", "anteromedial-surface-of-fibula", "posterior-surface-of-fibula", "posteromedial-surface-of-fibula", "lateral-malleolus", "articular-facet-of-lateral-malleolus", "malleolar-fossa", "malleolar-groove-of-fibula"],
+      "region": {"en": "Leg (regio cruris)", "id": "Tungkai bawah (regio cruris)"},
+      "clinical": {
+        "en": "The common fibular nerve winds around the neck of the fibula, where a fracture or a tight cast can injure it and cause foot drop. A segment of the shaft can be removed with its vessels and used as a bone graft without disturbing walking.",
+        "id": "N. fibularis communis melingkari collum fibulae; di tempat ini fraktur atau gips yang terlalu ketat dapat mencederainya dan menimbulkan foot drop. Sebagian corpus fibulae dapat diambil bersama pembuluh darahnya sebagai cangkok tulang tanpa mengganggu kemampuan berjalan."
+      }
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "tarsal-bones",
+    "kind": "bone",
+    "la": "Ossa tarsi",
+    "alt": ["Ossa tarsalia", "Tarsus", "Ossa tarsi pedis"],
+    "en": "Tarsal bones",
+    "desc": {
+      "en": "The seven short bones of the back half of the foot: talus, calcaneus, navicular, cuboid and the medial, intermediate and lateral cuneiforms. They take the body weight from the leg and form the posterior part of the arches of the foot.",
+      "id": "Tujuh tulang pendek di separuh belakang kaki: talus, calcaneus, os naviculare, os cuboideum, serta os cuneiforme mediale, intermedium dan laterale. Tulang-tulang ini menerima berat badan dari tungkai bawah dan membentuk bagian belakang lengkung kaki."
+    },
+    "facts": {
+      "type": "Os breve",
+      "skeleton": "Skeleton appendiculare",
+      "region": {"en": "Foot (tarsus)", "id": "Kaki (tarsus)"},
+      "note": {
+        "en": "The talus and calcaneus form the hindfoot; the navicular, cuboid and cuneiforms form the midfoot. The three cuneiforms and the cuboid make the distal row that meets the metatarsals.",
+        "id": "Talus dan calcaneus membentuk kaki belakang; os naviculare, os cuboideum dan ossa cuneiformia membentuk kaki tengah. Ketiga os cuneiforme dan os cuboideum membentuk baris distal yang bersendi dengan ossa metatarsi."
+      }
+    },
+    "quiz": {
+      "type": ["Os breve", "breve", "tulang pendek"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "talus",
+    "kind": "bone",
+    "la": "Talus",
+    "alt": ["Os tali", "Astragalus"],
+    "en": "Talus",
+    "desc": {
+      "en": "Second largest tarsal bone, lying between the leg bones above and the calcaneus below. It has a head, neck and body, carries no muscle attachments, and passes the body weight from the tibia to the rest of the foot.",
+      "id": "Tulang tarsal terbesar kedua, terletak di antara tulang tungkai bawah di atasnya dan calcaneus di bawahnya. Talus terdiri atas caput, collum dan corpus, tidak menjadi tempat lekat otot, dan meneruskan berat badan dari tibia ke bagian kaki lainnya."
+    },
+    "facts": {
+      "type": "Os breve",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Tibia", "Fibula", "Calcaneus", "Os naviculare"],
+      "features": ["head-of-talus", "navicular-articular-surface", "facet-for-plantar-calcaneonavicular-ligament", "facet-for-calcaneonavicular-part-of-bifurcate-ligament", "middle-facet-for-calcaneus", "neck-of-talus", "talar-sulcus", "body-of-talus", "trochlea-of-talus", "superior-facet-of-talus", "medial-malleolar-facet", "lateral-malleolar-facet", "lateral-process-of-talus", "posterior-process-of-talus", "medial-tubercle", "lateral-tubercle", "groove-for-tendon-of-flexor-hallucis-longus-of-talus", "posterior-calcaneal-articular-facet"],
+      "region": {"en": "Foot (tarsus)", "id": "Kaki (tarsus)"},
+      "clinical": {
+        "en": "Forced dorsiflexion, for example a foot on the brake pedal in a car crash, can fracture the neck. Most of the blood enters through the neck and the tarsal sinus and canal, so the body may then undergo avascular necrosis.",
+        "id": "Dorsofleksi paksa, misalnya kaki yang menginjak rem saat kecelakaan mobil, dapat mematahkan collum tali. Sebagian besar darah masuk melalui collum serta sinus dan canalis tarsi, sehingga corpus tali kemudian dapat mengalami nekrosis avaskular."
+      },
+      "note": {
+        "en": "An unfused lateral tubercle of the posterior process forms a separate os trigonum in some people.",
+        "id": "Pada sebagian orang, tuberculum laterale processus posterioris tidak menyatu dan membentuk os trigonum yang terpisah."
+      }
+    },
+    "quiz": {
+      "type": ["Os breve", "breve", "tulang pendek"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "calcaneus",
+    "kind": "bone",
+    "la": "Calcaneus",
+    "alt": ["Os calcis", "Os calcaneus", "Os calcanei"],
+    "en": "Calcaneus",
+    "desc": {
+      "en": "Largest tarsal bone, forming the heel. It carries the talus on its upper surface and the cuboid in front, and the calcaneal tendon inserts on the back of its tuberosity.",
+      "id": "Tulang tarsal terbesar yang membentuk tumit. Talus bertumpu pada permukaan atasnya dan os cuboideum di depannya, sedangkan tendo calcaneus berinsersio pada bagian belakang tuber calcanei."
+    },
+    "facts": {
+      "type": "Os breve",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Talus", "Os cuboideum"],
+      "features": ["calcaneal-tuberosity", "medial-process-of-calcaneal-tuberosity", "lateral-process-of-calcaneal-tuberosity", "calcaneal-tubercle", "sustentaculum-tali", "groove-for-tendon-of-flexor-hallucis-longus-of-calcaneus", "calcaneal-sulcus", "tarsal-sinus", "anterior-process-of-calcaneus", "articular-surface-for-cuboid"],
+      "region": {"en": "Foot (tarsus)", "id": "Kaki (tarsus)"},
+      "clinical": {
+        "en": "A fall from a height onto the heels can crush the calcaneus, often on both sides and together with a compression fracture of a lumbar vertebra.",
+        "id": "Jatuh dari ketinggian dengan bertumpu pada tumit dapat meremukkan calcaneus, sering pada kedua sisi dan disertai fraktur kompresi vertebra lumbalis."
+      },
+      "note": {
+        "en": "On the lateral surface a small fibular trochlea separates the tendons of fibularis brevis (above) and fibularis longus (below).",
+        "id": "Pada facies lateralis terdapat trochlea fibularis kecil yang memisahkan tendo m. fibularis brevis (di atas) dan tendo m. fibularis longus (di bawah)."
+      }
+    },
+    "quiz": {
+      "type": ["Os breve", "breve", "tulang pendek"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "navicular-bone",
+    "kind": "bone",
+    "la": "Os naviculare",
+    "alt": ["Os naviculare pedis", "Naviculare"],
+    "en": "Navicular bone",
+    "desc": {
+      "en": "Boat-shaped tarsal bone on the medial side of the foot, between the head of the talus behind and the three cuneiforms in front. Its tuberosity forms a palpable bump in front of and below the medial malleolus.",
+      "id": "Tulang tarsal berbentuk perahu di sisi medial kaki, di antara caput tali di belakang dan ketiga os cuneiforme di depan. Tuberositas-nya membentuk tonjolan yang dapat diraba di depan bawah malleolus medialis."
+    },
+    "facts": {
+      "type": "Os breve",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Talus", "Os cuneiforme mediale", "Os cuneiforme intermedium", "Os cuneiforme laterale", "Os cuboideum"],
+      "features": ["tuberosity-of-navicular-bone"],
+      "region": {"en": "Foot (tarsus)", "id": "Kaki (tarsus)"},
+      "clinical": {
+        "en": "An accessory navicular beside the tuberosity is a common variant and can cause pain on the medial side of the foot where the shoe presses.",
+        "id": "Os naviculare accessorium di samping tuberositas adalah varian yang sering ditemukan dan dapat menimbulkan nyeri di sisi medial kaki akibat tekanan sepatu."
+      }
+    },
+    "quiz": {
+      "type": ["Os breve", "breve", "tulang pendek"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "cuboid-bone",
+    "kind": "bone",
+    "la": "Os cuboideum",
+    "alt": ["Cuboideum", "Os cuboides"],
+    "en": "Cuboid bone",
+    "desc": {
+      "en": "Cube-shaped tarsal bone on the lateral side of the foot, between the calcaneus behind and the fourth and fifth metatarsals in front. A groove on its plantar surface carries the tendon of fibularis longus.",
+      "id": "Tulang tarsal berbentuk kubus di sisi lateral kaki, di antara calcaneus di belakang dan os metatarsi IV dan V di depan. Alur pada facies plantaris-nya dilalui tendo m. fibularis longus."
+    },
+    "facts": {
+      "type": "Os breve",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Calcaneus", "Os cuneiforme laterale", "Os metatarsi IV", "Os metatarsi V", "Os naviculare"],
+      "features": ["tuberosity-of-cuboid-bone", "groove-for-tendon-of-fibularis-longus-muscle-of-cuboid-bone"],
+      "region": {"en": "Foot (tarsus)", "id": "Kaki (tarsus)"},
+      "note": {
+        "en": "It lies in the lateral longitudinal arch and is held from below by the long and short plantar ligaments.",
+        "id": "Tulang ini terletak pada lengkung longitudinal lateral dan ditopang dari bawah oleh lig. plantare longum dan lig. calcaneocuboideum plantare."
+      }
+    },
+    "quiz": {
+      "type": ["Os breve", "breve", "tulang pendek"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "medial-cuneiform-bone",
+    "kind": "bone",
+    "la": "Os cuneiforme mediale",
+    "alt": ["Os cuneiforme primum", "Os cuneiforme I", "Cuneiforme mediale"],
+    "en": "Medial cuneiform bone",
+    "desc": {
+      "en": "Largest of the three cuneiform bones, on the medial side of the foot between the navicular and the base of the first metatarsal.",
+      "id": "Os cuneiforme yang terbesar, terletak di sisi medial kaki di antara os naviculare dan basis os metatarsi I."
+    },
+    "facts": {
+      "type": "Os breve",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os naviculare", "Os cuneiforme intermedium", "Os metatarsi I", "Os metatarsi II"],
+      "region": {"en": "Foot (tarsus)", "id": "Kaki (tarsus)"},
+      "note": {
+        "en": "Tibialis anterior and fibularis longus insert on it next to the base of the first metatarsal. The Lisfranc ligament runs from its lateral surface to the base of the second metatarsal.",
+        "id": "M. tibialis anterior dan m. fibularis longus berinsersio pada tulang ini di dekat basis os metatarsi I. Ligamentum Lisfranc berjalan dari facies lateralis-nya ke basis os metatarsi II."
+      }
+    },
+    "quiz": {
+      "type": ["Os breve", "breve", "tulang pendek"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "intermediate-cuneiform-bone",
+    "kind": "bone",
+    "la": "Os cuneiforme intermedium",
+    "alt": ["Os cuneiforme secundum", "Os cuneiforme II", "Cuneiforme intermedium"],
+    "en": "Intermediate cuneiform bone",
+    "desc": {
+      "en": "Smallest cuneiform, a wedge with its broad side facing the dorsum. Because it is shorter than its neighbours, the base of the second metatarsal sits in a recess between the medial and lateral cuneiforms.",
+      "id": "Os cuneiforme terkecil, berbentuk baji dengan sisi lebarnya menghadap ke dorsum. Karena lebih pendek daripada tulang di kiri kanannya, basis os metatarsi II terselip dalam ceruk di antara os cuneiforme mediale dan laterale."
+    },
+    "facts": {
+      "type": "Os breve",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os naviculare", "Os cuneiforme mediale", "Os cuneiforme laterale", "Os metatarsi II"],
+      "region": {"en": "Foot (tarsus)", "id": "Kaki (tarsus)"}
+    },
+    "quiz": {
+      "type": ["Os breve", "breve", "tulang pendek"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "lateral-cuneiform-bone",
+    "kind": "bone",
+    "la": "Os cuneiforme laterale",
+    "alt": ["Os cuneiforme tertium", "Os cuneiforme III", "Cuneiforme laterale"],
+    "en": "Lateral cuneiform bone",
+    "desc": {
+      "en": "Middle-sized cuneiform between the intermediate cuneiform and the cuboid. In front it articulates mainly with the third metatarsal and also with the sides of the second and fourth.",
+      "id": "Os cuneiforme berukuran sedang di antara os cuneiforme intermedium dan os cuboideum. Di depan tulang ini terutama bersendi dengan os metatarsi III, dan juga dengan sisi os metatarsi II dan IV."
+    },
+    "facts": {
+      "type": "Os breve",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os naviculare", "Os cuneiforme intermedium", "Os cuboideum", "Os metatarsi II", "Os metatarsi III", "Os metatarsi IV"],
+      "region": {"en": "Foot (tarsus)", "id": "Kaki (tarsus)"},
+      "note": {
+        "en": "The cuneiforms are wedges with the broad side up, and together with the cuboid they shape the transverse arch of the foot.",
+        "id": "Ossa cuneiformia berbentuk baji dengan sisi lebar di atas, dan bersama os cuboideum membentuk lengkung transversal kaki."
+      }
+    },
+    "quiz": {
+      "type": ["Os breve", "breve", "tulang pendek"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "metatarsal-bones",
+    "kind": "bone",
+    "la": "Ossa metatarsi",
+    "alt": ["Ossa metatarsalia", "Metatarsus", "Ossa metatarsalia pedis"],
+    "en": "Metatarsal bones",
+    "desc": {
+      "en": "Five long bones of the forefoot, numbered I to V from the medial side. Each has a base that joins the tarsus, a shaft, and a head that joins the proximal phalanx of a toe.",
+      "id": "Lima tulang panjang di kaki depan, diberi nomor I sampai V dari sisi medial. Masing-masing memiliki basis yang bersendi dengan tarsus, corpus, dan caput yang bersendi dengan phalanx proximalis jari kaki."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "features": ["base-of-metatarsal-bone", "body-of-metatarsal-bone", "head-of-metatarsal-bone"],
+      "region": {"en": "Foot (metatarsus)", "id": "Kaki (metatarsus)"},
+      "clinical": {
+        "en": "Stress (march) fractures of the shafts of the second and third metatarsals follow long marching or running.",
+        "id": "Fraktur stres (march fracture) pada corpus os metatarsi II dan III terjadi setelah berbaris atau berlari dalam waktu lama."
+      },
+      "note": {
+        "en": "In standing, the weight rests on the calcaneal tuberosity behind and on the metatarsal heads in front.",
+        "id": "Saat berdiri, berat badan bertumpu pada tuber calcanei di belakang dan pada capita ossium metatarsi di depan."
+      }
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "first-metatarsal-bone",
+    "kind": "bone",
+    "la": "Os metatarsi I",
+    "alt": ["Os metatarsi primum", "Os primum metatarsi", "Os metatarsale I", "Os metatarsale primum", "Os metatarsi hallucis"],
+    "en": "First metatarsal bone",
+    "desc": {
+      "en": "Shortest and thickest metatarsal, at the base of the great toe. Its head carries much of the load at push-off and has two sesamoid bones on its plantar side.",
+      "id": "Os metatarsi terpendek dan paling tebal, di pangkal ibu jari kaki. Caput-nya menanggung banyak beban saat kaki menolak tanah dan memiliki dua os sesamoideum di sisi plantarnya."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os cuneiforme mediale", "Phalanx proximalis hallucis", "Ossa sesamoidea pedis"],
+      "region": {"en": "Foot (metatarsus)", "id": "Kaki (metatarsus)"},
+      "clinical": {
+        "en": "In hallux valgus the first metatarsal drifts medially and the great toe deviates laterally; a bunion forms over the prominent head.",
+        "id": "Pada hallux valgus, os metatarsi I bergeser ke medial dan ibu jari kaki menyimpang ke lateral; bunion terbentuk di atas caput yang menonjol."
+      },
+      "note": {
+        "en": "Tibialis anterior inserts on the medial side of its base, and fibularis longus on the tuberosity on the lateral plantar side of the base.",
+        "id": "M. tibialis anterior berinsersio pada sisi medial basisnya, dan m. fibularis longus pada tuberositas di sisi lateral plantar basis."
+      }
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "second-metatarsal-bone",
+    "kind": "bone",
+    "la": "Os metatarsi II",
+    "alt": ["Os metatarsi secundum", "Os secundum metatarsi", "Os metatarsale II", "Os metatarsale secundum"],
+    "en": "Second metatarsal bone",
+    "desc": {
+      "en": "Usually the longest metatarsal. Its base is wedged between the medial and lateral cuneiforms, which makes it the most firmly fixed metatarsal and the commonest site of a march fracture.",
+      "id": "Biasanya os metatarsi yang terpanjang. Basisnya terjepit di antara os cuneiforme mediale dan laterale, sehingga tulang ini paling kokoh kedudukannya dan paling sering mengalami march fracture."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os cuneiforme mediale", "Os cuneiforme intermedium", "Os cuneiforme laterale", "Os metatarsi III", "Phalanx proximalis digiti II pedis"],
+      "region": {"en": "Foot (metatarsus)", "id": "Kaki (metatarsus)"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "third-metatarsal-bone",
+    "kind": "bone",
+    "la": "Os metatarsi III",
+    "alt": ["Os metatarsi tertium", "Os tertium metatarsi", "Os metatarsale III", "Os metatarsale tertium"],
+    "en": "Third metatarsal bone",
+    "desc": {
+      "en": "Middle metatarsal. Its base articulates with the lateral cuneiform and with the second and fourth metatarsals, and its head with the proximal phalanx of the third toe.",
+      "id": "Os metatarsi yang di tengah. Basisnya bersendi dengan os cuneiforme laterale serta os metatarsi II dan IV, dan caput-nya dengan phalanx proximalis jari kaki III."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os cuneiforme laterale", "Os metatarsi II", "Os metatarsi IV", "Phalanx proximalis digiti III pedis"],
+      "features": ["base-of-metatarsal-bone", "body-of-metatarsal-bone", "head-of-metatarsal-bone"],
+      "region": {"en": "Foot (metatarsus)", "id": "Kaki (metatarsus)"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "fourth-metatarsal-bone",
+    "kind": "bone",
+    "la": "Os metatarsi IV",
+    "alt": ["Os metatarsi quartum", "Os quartum metatarsi", "Os metatarsale IV", "Os metatarsale quartum"],
+    "en": "Fourth metatarsal bone",
+    "desc": {
+      "en": "Its base articulates with the cuboid behind, with the lateral cuneiform, and with the third and fifth metatarsals at the sides.",
+      "id": "Basisnya bersendi dengan os cuboideum di belakang, dengan os cuneiforme laterale, serta dengan os metatarsi III dan V di sampingnya."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os cuboideum", "Os cuneiforme laterale", "Os metatarsi III", "Os metatarsi V", "Phalanx proximalis digiti IV pedis"],
+      "region": {"en": "Foot (metatarsus)", "id": "Kaki (metatarsus)"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "fifth-metatarsal-bone",
+    "kind": "bone",
+    "la": "Os metatarsi V",
+    "alt": ["Os metatarsi quintum", "Os quintum metatarsi", "Os metatarsale V", "Os metatarsale quintum"],
+    "en": "Fifth metatarsal bone",
+    "desc": {
+      "en": "Lateral metatarsal with a large tuberosity projecting backward from its base, palpable halfway along the lateral border of the foot.",
+      "id": "Os metatarsi paling lateral dengan tuberositas besar yang menonjol ke belakang dari basisnya, dapat diraba di pertengahan tepi lateral kaki."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os cuboideum", "Os metatarsi IV", "Phalanx proximalis digiti V pedis"],
+      "region": {"en": "Foot (metatarsus)", "id": "Kaki (metatarsus)"},
+      "clinical": {
+        "en": "Forced inversion can avulse the tuberosity. A fracture just beyond it, at the junction of base and shaft (Jones fracture), heals poorly because the blood supply there is limited.",
+        "id": "Inversi paksa dapat menimbulkan fraktur avulsi tuberositas. Fraktur sedikit di distalnya, di perbatasan basis dan corpus (fraktur Jones), sulit menyatu karena perdarahan di daerah itu terbatas."
+      },
+      "note": {
+        "en": "Fibularis brevis inserts on the tuberosity, and fibularis tertius on the dorsum of the base and shaft.",
+        "id": "M. fibularis brevis berinsersio pada tuberositas, dan m. fibularis tertius pada dorsum basis dan corpus."
+      }
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "phalanges-of-foot",
+    "kind": "bone",
+    "la": "Phalanges pedis",
+    "alt": ["Phalanges", "Ossa digitorum pedis", "Phalanges digitorum pedis"],
+    "en": "Phalanges of foot",
+    "desc": {
+      "en": "Fourteen small long bones of the toes. The great toe (hallux) has two, proximal and distal; each of the other toes has three: proximal, middle and distal.",
+      "id": "Empat belas tulang panjang kecil pada jari kaki. Ibu jari kaki (hallux) memiliki dua, phalanx proximalis dan distalis; jari kaki lainnya masing-masing memiliki tiga: proximalis, media dan distalis."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "features": ["base-of-phalanx-of-foot", "body-of-phalanx-of-foot", "head-of-phalanx-of-foot", "trochlea-of-phalanx-of-foot", "tuberosity-of-distal-phalanx-of-foot"],
+      "region": {"en": "Foot (digits)", "id": "Kaki (digiti pedis)"},
+      "note": {
+        "en": "They are shorter than the phalanges of the hand. The middle and distal phalanges of the fifth toe are often fused.",
+        "id": "Phalanges pedis lebih pendek daripada phalanges manus. Phalanx media dan distalis jari kaki V sering menyatu."
+      }
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "proximal-phalanx-of-first-finger-of-foot",
+    "kind": "bone",
+    "la": "Phalanx proximalis hallucis",
+    "alt": ["Phalanx proximalis digiti I pedis", "Phalanx proximalis digiti primi pedis", "Phalanx proximalis", "Phalanx proximalis pedis"],
+    "en": "Proximal phalanx of great toe",
+    "desc": {
+      "en": "Short, broad proximal bone of the great toe. Its base forms the first metatarsophalangeal joint, and its head forms the only interphalangeal joint of the great toe.",
+      "id": "Tulang proksimal ibu jari kaki yang pendek dan lebar. Basisnya membentuk articulatio metatarsophalangea I, dan caput-nya membentuk satu-satunya articulatio interphalangea ibu jari kaki."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os metatarsi I", "Phalanx distalis hallucis"],
+      "region": {"en": "Foot (digits), great toe", "id": "Kaki (digiti pedis), ibu jari kaki"},
+      "note": {
+        "en": "Base: abductor hallucis and the medial head of flexor hallucis brevis on the medial side, adductor hallucis and the lateral head of flexor hallucis brevis on the lateral side (through the sesamoids), extensor hallucis brevis dorsally.",
+        "id": "Basis: m. abductor hallucis dan caput mediale m. flexor hallucis brevis di sisi medial, m. adductor hallucis dan caput laterale m. flexor hallucis brevis di sisi lateral (melalui os sesamoideum), m. extensor hallucis brevis di dorsal."
+      }
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "distal-phalanx-of-first-finger-of-foot",
+    "kind": "bone",
+    "la": "Phalanx distalis hallucis",
+    "alt": ["Phalanx distalis digiti I pedis", "Phalanx distalis digiti primi pedis", "Phalanx distalis", "Phalanx distalis pedis"],
+    "en": "Distal phalanx of great toe",
+    "desc": {
+      "en": "Broad distal bone of the great toe with a rough tuberosity under the nail. Flexor hallucis longus inserts on the plantar side of its base and extensor hallucis longus on the dorsal side.",
+      "id": "Tulang distal ibu jari kaki yang lebar dengan tuberositas kasar di bawah kuku. M. flexor hallucis longus berinsersio pada sisi plantar basisnya dan m. extensor hallucis longus pada sisi dorsal."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Phalanx proximalis hallucis"],
+      "region": {"en": "Foot (digits), great toe", "id": "Kaki (digiti pedis), ibu jari kaki"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "proximal-phalanx-of-second-finger-of-foot",
+    "kind": "bone",
+    "la": "Phalanx proximalis digiti II pedis",
+    "alt": ["Phalanx proximalis digiti secundi pedis", "Phalanx proximalis", "Phalanx proximalis pedis"],
+    "en": "Proximal phalanx of second toe",
+    "desc": {
+      "en": "Longest phalanx of the second toe. Its base articulates with the head of the second metatarsal and its head with the middle phalanx.",
+      "id": "Phalanx terpanjang jari kaki II. Basisnya bersendi dengan caput os metatarsi II dan caput-nya dengan phalanx media."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os metatarsi II", "Phalanx media digiti II pedis"],
+      "region": {"en": "Foot (digits), second toe", "id": "Kaki (digiti pedis), jari kaki II"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "proximal-phalanx-of-third-finger-of-foot",
+    "kind": "bone",
+    "la": "Phalanx proximalis digiti III pedis",
+    "alt": ["Phalanx proximalis digiti tertii pedis", "Phalanx proximalis", "Phalanx proximalis pedis"],
+    "en": "Proximal phalanx of third toe",
+    "desc": {
+      "en": "Longest phalanx of the third toe. Its base articulates with the head of the third metatarsal and its head with the middle phalanx.",
+      "id": "Phalanx terpanjang jari kaki III. Basisnya bersendi dengan caput os metatarsi III dan caput-nya dengan phalanx media."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os metatarsi III", "Phalanx media digiti III pedis"],
+      "features": ["base-of-phalanx-of-foot", "body-of-phalanx-of-foot", "head-of-phalanx-of-foot", "trochlea-of-phalanx-of-foot"],
+      "region": {"en": "Foot (digits), third toe", "id": "Kaki (digiti pedis), jari kaki III"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "proximal-phalanx-of-fourth-finger-of-foot",
+    "kind": "bone",
+    "la": "Phalanx proximalis digiti IV pedis",
+    "alt": ["Phalanx proximalis digiti quarti pedis", "Phalanx proximalis", "Phalanx proximalis pedis"],
+    "en": "Proximal phalanx of fourth toe",
+    "desc": {
+      "en": "Longest phalanx of the fourth toe. Its base articulates with the head of the fourth metatarsal and its head with the middle phalanx.",
+      "id": "Phalanx terpanjang jari kaki IV. Basisnya bersendi dengan caput os metatarsi IV dan caput-nya dengan phalanx media."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os metatarsi IV", "Phalanx media digiti IV pedis"],
+      "region": {"en": "Foot (digits), fourth toe", "id": "Kaki (digiti pedis), jari kaki IV"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "proximal-phalanx-of-fifth-finger-of-foot",
+    "kind": "bone",
+    "la": "Phalanx proximalis digiti V pedis",
+    "alt": ["Phalanx proximalis digiti minimi pedis", "Phalanx proximalis digiti quinti pedis", "Phalanx proximalis", "Phalanx proximalis pedis"],
+    "en": "Proximal phalanx of little toe",
+    "desc": {
+      "en": "Proximal phalanx of the fifth toe. Its base articulates with the head of the fifth metatarsal and receives abductor digiti minimi and flexor digiti minimi brevis on its lateral plantar side.",
+      "id": "Phalanx proximalis jari kaki V. Basisnya bersendi dengan caput os metatarsi V dan menjadi tempat insersio m. abductor digiti minimi dan m. flexor digiti minimi brevis di sisi lateral plantar."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os metatarsi V", "Phalanx media digiti V pedis"],
+      "region": {"en": "Foot (digits), little toe", "id": "Kaki (digiti pedis), jari kaki V"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "middle-phalanx-of-second-finger-of-foot",
+    "kind": "bone",
+    "la": "Phalanx media digiti II pedis",
+    "alt": ["Phalanx media digiti secundi pedis", "Phalanx media", "Phalanx media pedis"],
+    "en": "Middle phalanx of second toe",
+    "desc": {
+      "en": "Short middle bone of the second toe, between the proximal and distal phalanges. A slip of flexor digitorum brevis inserts on each side of its shaft.",
+      "id": "Tulang tengah jari kaki II yang pendek, di antara phalanx proximalis dan distalis. Tendo m. flexor digitorum brevis berinsersio pada kedua sisi corpus-nya."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Phalanx proximalis digiti II pedis", "Phalanx distalis digiti II pedis"],
+      "region": {"en": "Foot (digits), second toe", "id": "Kaki (digiti pedis), jari kaki II"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "middle-phalanx-of-third-finger-of-foot",
+    "kind": "bone",
+    "la": "Phalanx media digiti III pedis",
+    "alt": ["Phalanx media digiti tertii pedis", "Phalanx media", "Phalanx media pedis"],
+    "en": "Middle phalanx of third toe",
+    "desc": {
+      "en": "Short middle bone of the third toe. A slip of flexor digitorum brevis inserts on each side of its shaft.",
+      "id": "Tulang tengah jari kaki III yang pendek. Tendo m. flexor digitorum brevis berinsersio pada kedua sisi corpus-nya."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Phalanx proximalis digiti III pedis", "Phalanx distalis digiti III pedis"],
+      "region": {"en": "Foot (digits), third toe", "id": "Kaki (digiti pedis), jari kaki III"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "middle-phalanx-of-fourth-finger-of-foot",
+    "kind": "bone",
+    "la": "Phalanx media digiti IV pedis",
+    "alt": ["Phalanx media digiti quarti pedis", "Phalanx media", "Phalanx media pedis"],
+    "en": "Middle phalanx of fourth toe",
+    "desc": {
+      "en": "Short middle bone of the fourth toe. A slip of flexor digitorum brevis inserts on each side of its shaft.",
+      "id": "Tulang tengah jari kaki IV yang pendek. Tendo m. flexor digitorum brevis berinsersio pada kedua sisi corpus-nya."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Phalanx proximalis digiti IV pedis", "Phalanx distalis digiti IV pedis"],
+      "region": {"en": "Foot (digits), fourth toe", "id": "Kaki (digiti pedis), jari kaki IV"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "middle-phalanx-of-fifth-finger-of-foot",
+    "kind": "bone",
+    "la": "Phalanx media digiti V pedis",
+    "alt": ["Phalanx media digiti minimi pedis", "Phalanx media digiti quinti pedis", "Phalanx media", "Phalanx media pedis"],
+    "en": "Middle phalanx of little toe",
+    "desc": {
+      "en": "Very small middle bone of the fifth toe, often fused with the distal phalanx so that the toe has only two phalanges.",
+      "id": "Tulang tengah jari kaki V yang sangat kecil, sering menyatu dengan phalanx distalis sehingga jari ini hanya memiliki dua phalanx."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Phalanx proximalis digiti V pedis", "Phalanx distalis digiti V pedis"],
+      "region": {"en": "Foot (digits), little toe", "id": "Kaki (digiti pedis), jari kaki V"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "distal-phalanx-of-second-finger-of-foot",
+    "kind": "bone",
+    "la": "Phalanx distalis digiti II pedis",
+    "alt": ["Phalanx distalis digiti secundi pedis", "Phalanx distalis", "Phalanx distalis pedis"],
+    "en": "Distal phalanx of second toe",
+    "desc": {
+      "en": "Small terminal bone of the second toe with a tuberosity under the nail. Flexor digitorum longus inserts on the plantar side of its base.",
+      "id": "Tulang ujung jari kaki II yang kecil dengan tuberositas di bawah kuku. M. flexor digitorum longus berinsersio pada sisi plantar basisnya."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Phalanx media digiti II pedis"],
+      "region": {"en": "Foot (digits), second toe", "id": "Kaki (digiti pedis), jari kaki II"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "distal-phalanx-of-third-finger-of-foot",
+    "kind": "bone",
+    "la": "Phalanx distalis digiti III pedis",
+    "alt": ["Phalanx distalis digiti tertii pedis", "Phalanx distalis", "Phalanx distalis pedis"],
+    "en": "Distal phalanx of third toe",
+    "desc": {
+      "en": "Small terminal bone of the third toe with a tuberosity under the nail. Flexor digitorum longus inserts on the plantar side of its base.",
+      "id": "Tulang ujung jari kaki III yang kecil dengan tuberositas di bawah kuku. M. flexor digitorum longus berinsersio pada sisi plantar basisnya."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Phalanx media digiti III pedis"],
+      "features": ["tuberosity-of-distal-phalanx-of-foot"],
+      "region": {"en": "Foot (digits), third toe", "id": "Kaki (digiti pedis), jari kaki III"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "distal-phalanx-of-fourth-finger-of-foot",
+    "kind": "bone",
+    "la": "Phalanx distalis digiti IV pedis",
+    "alt": ["Phalanx distalis digiti quarti pedis", "Phalanx distalis", "Phalanx distalis pedis"],
+    "en": "Distal phalanx of fourth toe",
+    "desc": {
+      "en": "Small terminal bone of the fourth toe with a tuberosity under the nail. Flexor digitorum longus inserts on the plantar side of its base.",
+      "id": "Tulang ujung jari kaki IV yang kecil dengan tuberositas di bawah kuku. M. flexor digitorum longus berinsersio pada sisi plantar basisnya."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Phalanx media digiti IV pedis"],
+      "region": {"en": "Foot (digits), fourth toe", "id": "Kaki (digiti pedis), jari kaki IV"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "distal-phalanx-of-fifth-finger-of-foot",
+    "kind": "bone",
+    "la": "Phalanx distalis digiti V pedis",
+    "alt": ["Phalanx distalis digiti minimi pedis", "Phalanx distalis digiti quinti pedis", "Phalanx distalis", "Phalanx distalis pedis"],
+    "en": "Distal phalanx of little toe",
+    "desc": {
+      "en": "Tiny terminal bone of the fifth toe, often fused with the middle phalanx. Flexor digitorum longus inserts on the plantar side of its base.",
+      "id": "Tulang ujung jari kaki V yang sangat kecil, sering menyatu dengan phalanx media. M. flexor digitorum longus berinsersio pada sisi plantar basisnya."
+    },
+    "facts": {
+      "type": "Os longum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Phalanx media digiti V pedis"],
+      "region": {"en": "Foot (digits), little toe", "id": "Kaki (digiti pedis), jari kaki V"}
+    },
+    "quiz": {
+      "type": ["Os longum", "longum", "tulang panjang"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  },
+  {
+    "key": "sesamoid-bones-of-foot",
+    "kind": "bone",
+    "la": "Ossa sesamoidea pedis",
+    "alt": ["Ossa sesamoidea", "Os sesamoideum pedis"],
+    "en": "Sesamoid bones of foot",
+    "desc": {
+      "en": "Small bones that develop inside tendons. Two are constant: the medial and lateral sesamoids under the head of the first metatarsal, one in each tendon of flexor hallucis brevis.",
+      "id": "Tulang-tulang kecil yang terbentuk di dalam tendo. Dua di antaranya selalu ada: os sesamoideum mediale dan laterale di bawah caput os metatarsi I, masing-masing di dalam satu tendo m. flexor hallucis brevis."
+    },
+    "facts": {
+      "type": "Os sesamoideum",
+      "skeleton": "Skeleton appendiculare",
+      "articulates": ["Os metatarsi I"],
+      "region": {"en": "Foot (forefoot)", "id": "Kaki (kaki depan)"},
+      "clinical": {
+        "en": "Repeated loading of the forefoot, as in dancers and runners, can inflame or fracture them (sesamoiditis). A bipartite medial sesamoid can mimic a fracture on X-ray.",
+        "id": "Beban berulang pada kaki depan, seperti pada penari dan pelari, dapat menimbulkan peradangan atau fraktur (sesamoiditis). Os sesamoideum mediale yang bipartit dapat menyerupai fraktur pada foto Rontgen."
+      },
+      "note": {
+        "en": "They protect the tendon of flexor hallucis longus, which runs in the groove between them, and raise the flexor hallucis brevis tendons off the joint. Other sesamoids are variable, for example one in the fibularis longus tendon beside the cuboid (os peroneum).",
+        "id": "Keduanya melindungi tendo m. flexor hallucis longus yang berjalan di alur di antara keduanya, dan mengangkat tendo m. flexor hallucis brevis menjauhi sendi. Os sesamoideum lainnya bervariasi, misalnya di dalam tendo m. fibularis longus di samping os cuboideum (os peroneum)."
+      }
+    },
+    "quiz": {
+      "type": ["Os sesamoideum", "sesamoideum", "tulang sesamoid"],
+      "skeleton": ["Skeleton appendiculare", "appendiculare", "skeleton appendicular"]
+    }
+  }
+]

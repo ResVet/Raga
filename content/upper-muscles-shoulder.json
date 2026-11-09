@@ -1,0 +1,628 @@
+[
+  {
+    "key": "pectoralis-major-muscle",
+    "kind": "muscle",
+    "model": false,
+    "la": "Musculus pectoralis major",
+    "alt": ["M. pectoralis major", "Pectoralis major", "M. pectoralis mayor", "Musculus pectoralis mayor"],
+    "en": "Pectoralis major",
+    "desc": {
+      "en": "Large fan-shaped muscle of the front of the chest, with clavicular, sternocostal and abdominal parts that converge on a folded tendon at the crest of the greater tubercle. Its lower border forms the anterior axillary fold.",
+      "id": "Otot besar berbentuk kipas di dinding depan dada, terdiri atas pars clavicularis, pars sternocostalis dan pars abdominalis yang menyatu menjadi tendo terlipat pada crista tuberculi majoris humeri. Tepi bawahnya membentuk plica axillaris anterior."
+    },
+    "facts": {
+      "group": {"en": "Thoracoappendicular (anterior axio-appendicular) muscles", "id": "Otot thoracoappendicular"},
+      "origin": {
+        "la": "Pars clavicularis: dimidium mediale claviculae; pars sternocostalis: sternum et cartilagines costales I-VI; pars abdominalis: lamina anterior vaginae musculi recti abdominis",
+        "en": "Clavicular part: anterior surface of the medial half of the clavicle. Sternocostal part: anterior surface of the sternum and the upper six costal cartilages. Abdominal part: anterior layer of the rectus sheath (aponeurosis of the external oblique)."
+      },
+      "insertion": {"la": "Crista tuberculi majoris humeri", "en": "Crest of the greater tubercle (lateral lip of the intertubercular sulcus) of the humerus"},
+      "action": {
+        "en": "Adducts and medially rotates the arm at the shoulder joint. The clavicular part flexes the arm; the sternocostal part brings the flexed arm back down to the side (extension). With the arm fixed, it pulls the trunk upward and helps raise the ribs in forced inspiration.",
+        "id": "Adduksi dan rotasi medial lengan pada sendi bahu. Pars clavicularis melakukan fleksi lengan, sedangkan pars sternocostalis mengembalikan lengan yang terfleksi ke samping badan (ekstensi). Bila lengan terfiksasi, otot ini menarik batang tubuh ke atas dan membantu mengangkat costa pada inspirasi kuat."
+      },
+      "nerve": {"la": "Nervus pectoralis lateralis et nervus pectoralis medialis", "roots": "C5-T1"},
+      "blood": ["Rami pectorales arteriae thoracoacromialis", "Rami perforantes arteriae thoracicae internae", "Arteria thoracica lateralis"],
+      "parts": ["clavicular-head-of-pectoralis-major-muscle", "sternocostal-head-of-pectoralis-major-muscle", "abdominal-part-of-pectoralis-major-muscle"],
+      "clinical": {
+        "en": "The sternocostal part is occasionally missing from birth (Poland syndrome). The anterior axillary fold is then absent on that side, with surprisingly little loss of function.",
+        "id": "Pars sternocostalis kadang tidak terbentuk sejak lahir (sindrom Poland). Plica axillaris anterior pada sisi itu tidak tampak, tetapi gangguan fungsinya biasanya ringan."
+      }
+    },
+    "quiz": {
+      "origin": ["Clavicula, sternum et cartilagines costales I-VI", "dimidium mediale claviculae, sternum, cartilagines costales I-VI", "clavicula, sternum, costa 1-6", "clavicula medial, sternum, kartilago kostalis 1-6", "clavicula et sternum"],
+      "insertion": ["Crista tuberculi majoris humeri", "crista tuberculi majoris", "labium laterale sulci intertubercularis", "bibir lateral sulcus intertubercularis"],
+      "nerve": ["Nervus pectoralis lateralis et medialis", "Nn. pectorales lateralis et medialis", "N. pectoralis lateralis dan medialis", "Nervi pectorales", "Nn. pectorales"],
+      "action": ["Adductio et rotatio medialis brachii", "adduksi dan rotasi medial lengan", "fleksi, adduksi dan rotasi medial lengan", "adductio et rotatio interna humeri", "flexio brachii (pars clavicularis)"]
+    }
+  },
+  {
+    "key": "clavicular-head-of-pectoralis-major-muscle",
+    "kind": "muscle-part",
+    "la": "Pars clavicularis musculi pectoralis majoris",
+    "alt": ["Pars clavicularis m. pectoralis majoris", "Caput claviculare musculi pectoralis majoris", "Pars clavicularis"],
+    "en": "Clavicular head of pectoralis major",
+    "desc": {
+      "en": "Upper part of pectoralis major, separated from the sternocostal part by a narrow cleft. It flexes the arm together with the clavicular part of the deltoid, and its fibers form the front layer of the tendon, which attaches lowest on the crest of the greater tubercle.",
+      "id": "Bagian atas m. pectoralis major, dipisahkan dari pars sternocostalis oleh celah sempit. Bagian ini melakukan fleksi lengan bersama pars clavicularis m. deltoidei, dan serabutnya membentuk lapisan depan tendo yang melekat paling bawah pada crista tuberculi majoris."
+    },
+    "facts": {
+      "muscle": "pectoralis-major-muscle",
+      "origin": {"la": "Dimidium mediale claviculae (facies anterior)", "en": "Anterior surface of the medial half of the clavicle"},
+      "insertion": {"la": "Crista tuberculi majoris humeri (pars distalis)", "en": "Distal part of the crest of the greater tubercle (front layer of the tendon)"}
+    }
+  },
+  {
+    "key": "sternocostal-head-of-pectoralis-major-muscle",
+    "kind": "muscle-part",
+    "la": "Pars sternocostalis musculi pectoralis majoris",
+    "alt": ["Pars sternocostalis m. pectoralis majoris", "Caput sternocostale musculi pectoralis majoris", "Pars sternocostalis"],
+    "en": "Sternocostal head of pectoralis major",
+    "desc": {
+      "en": "Largest part of pectoralis major, arising from the sternum and the upper six costal cartilages. Its fibers twist behind the clavicular fibers to form the back layer of the tendon; it adducts the arm and brings the flexed arm back down.",
+      "id": "Bagian terbesar m. pectoralis major, berasal dari sternum dan cartilago costalis I-VI. Serabutnya terpuntir di belakang serabut pars clavicularis membentuk lapisan belakang tendo; bagian ini melakukan adduksi dan mengembalikan lengan dari posisi fleksi."
+    },
+    "facts": {
+      "muscle": "pectoralis-major-muscle",
+      "origin": {"la": "Facies anterior sterni et cartilagines costales I-VI", "en": "Anterior surface of the sternum and the upper six costal cartilages"},
+      "insertion": {"la": "Crista tuberculi majoris humeri (pars proximalis)", "en": "Proximal part of the crest of the greater tubercle (back layer of the tendon)"}
+    }
+  },
+  {
+    "key": "abdominal-part-of-pectoralis-major-muscle",
+    "kind": "muscle-part",
+    "la": "Pars abdominalis musculi pectoralis majoris",
+    "alt": ["Pars abdominalis m. pectoralis majoris", "Pars abdominalis"],
+    "en": "Abdominal part of pectoralis major",
+    "desc": {
+      "en": "Small lowest slip of pectoralis major, arising from the anterior layer of the rectus sheath. Its fibers ascend and twist to attach highest on the tendon, and they make up the lower edge of the anterior axillary fold.",
+      "id": "Berkas paling bawah dan kecil dari m. pectoralis major, berasal dari lamina anterior vagina musculi recti abdominis. Serabutnya naik dan terpuntir sehingga melekat paling tinggi pada tendo, dan membentuk tepi bawah plica axillaris anterior."
+    },
+    "facts": {
+      "muscle": "pectoralis-major-muscle",
+      "origin": {"la": "Lamina anterior vaginae musculi recti abdominis", "en": "Anterior layer of the rectus sheath (aponeurosis of the external oblique)"},
+      "insertion": {"la": "Crista tuberculi majoris humeri (pars proximalis)", "en": "Highest part of the crest of the greater tubercle (back layer of the tendon)"}
+    }
+  },
+  {
+    "key": "pectoralis-minor-muscle",
+    "kind": "muscle",
+    "la": "Musculus pectoralis minor",
+    "alt": ["M. pectoralis minor", "Pectoralis minor"],
+    "en": "Pectoralis minor",
+    "desc": {
+      "en": "Thin triangular muscle lying deep to pectoralis major, running from ribs 3-5 up to the coracoid process. It crosses in front of the axillary artery and divides it into three parts, so it is the usual landmark of the axilla.",
+      "id": "Otot tipis berbentuk segitiga di bawah m. pectoralis major, berjalan dari costa III-V ke processus coracoideus. Otot ini menyilang di depan a. axillaris dan membaginya menjadi tiga bagian, sehingga dipakai sebagai patokan di axilla."
+    },
+    "facts": {
+      "group": {"en": "Thoracoappendicular (anterior axio-appendicular) muscles", "id": "Otot thoracoappendicular"},
+      "origin": {"la": "Costae III-V prope cartilagines costales", "en": "Anterior surfaces of ribs 3-5 near their costal cartilages"},
+      "insertion": {"la": "Processus coracoideus scapulae (margo medialis et facies superior)", "en": "Medial border and upper surface of the coracoid process of the scapula"},
+      "action": {
+        "en": "Stabilizes the scapula by pulling it forward and downward against the thoracic wall (protraction and depression). With the scapula fixed, it raises ribs 3-5 in forced inspiration.",
+        "id": "Menstabilkan scapula dengan menariknya ke depan bawah merapat ke dinding thorax (protraksi dan depresi). Bila scapula terfiksasi, otot ini mengangkat costa III-V pada inspirasi kuat."
+      },
+      "nerve": {"la": "Nervus pectoralis medialis", "roots": "C8-T1"},
+      "blood": ["Rami pectorales arteriae thoracoacromialis", "Arteria thoracica lateralis", "Arteria thoracica superior"]
+    },
+    "quiz": {
+      "origin": ["Costae III-V", "costa 3-5", "costa III-V", "tulang rusuk 3-5", "costae III-V prope cartilagines costales"],
+      "insertion": ["Processus coracoideus", "processus coracoideus scapulae", "proc. coracoideus", "prosesus korakoid"],
+      "nerve": ["Nervus pectoralis medialis", "N. pectoralis medialis", "Nervus pectoralis medialis et lateralis", "Nn. pectorales"],
+      "action": ["Protractio et depressio scapulae", "protraksi dan depresi scapula", "menarik scapula ke depan dan ke bawah", "stabilisasi scapula", "elevasi costa (inspirasi)"]
+    }
+  },
+  {
+    "key": "subclavius-muscle",
+    "kind": "muscle",
+    "la": "Musculus subclavius",
+    "alt": ["M. subclavius", "Subclavius"],
+    "en": "Subclavius",
+    "desc": {
+      "en": "Small round muscle under the clavicle, running from the first rib to the groove for subclavius. It anchors the clavicle at the sternoclavicular joint and cushions the subclavian vessels and brachial plexus when the clavicle breaks.",
+      "id": "Otot kecil bulat di bawah clavicula, berjalan dari costa I ke sulcus musculi subclavii. Otot ini menahan clavicula pada sendi sternoclavicularis dan menjadi bantalan bagi vasa subclavia dan plexus brachialis bila clavicula patah."
+    },
+    "facts": {
+      "group": {"en": "Thoracoappendicular (anterior axio-appendicular) muscles", "id": "Otot thoracoappendicular"},
+      "origin": {"la": "Junctura costae I et cartilaginis costalis I", "en": "Junction of the first rib with its costal cartilage"},
+      "insertion": {"la": "Sulcus musculi subclavii (facies inferior tertiae mediae claviculae)", "en": "Groove for subclavius on the inferior surface of the middle third of the clavicle"},
+      "action": {
+        "en": "Anchors and depresses the clavicle, steadying the sternoclavicular joint during movements of the upper limb.",
+        "id": "Menahan dan menurunkan (depresi) clavicula sehingga sendi sternoclavicularis stabil selama gerakan ekstremitas superior."
+      },
+      "nerve": {"la": "Nervus subclavius", "roots": "C5-C6"},
+      "blood": ["Ramus clavicularis arteriae thoracoacromialis", "Arteria suprascapularis"]
+    },
+    "quiz": {
+      "origin": ["Costa I et cartilago costalis I", "costa I", "costa 1 dan kartilago kostanya", "kosta I dan kartilago kostanya", "junctura costochondralis I"],
+      "insertion": ["Sulcus musculi subclavii", "sulcus m. subclavii", "facies inferior claviculae", "inferior klavikula pada sulcus m. subclavii"],
+      "nerve": ["Nervus subclavius", "N. subclavius"],
+      "action": ["Depressio claviculae", "depresi clavicula", "menurunkan clavicula", "stabilisasi sendi sternoclavicularis"]
+    }
+  },
+  {
+    "key": "serratus-anterior-muscle",
+    "kind": "muscle",
+    "la": "Musculus serratus anterior",
+    "alt": ["M. serratus anterior", "Serratus anterior"],
+    "en": "Serratus anterior",
+    "desc": {
+      "en": "Broad sheet on the lateral thoracic wall whose saw-toothed slips arise from the upper eight or nine ribs and pass backward, deep to the scapula, to its medial border. It forms the medial wall of the axilla and keeps the scapula against the thorax.",
+      "id": "Lembaran otot lebar pada dinding lateral thorax; digitasinya yang bergerigi berasal dari costa I-VIII atau IX lalu berjalan ke belakang, di antara scapula dan dinding dada, menuju margo medialis scapulae. Otot ini membentuk dinding medial axilla dan menahan scapula tetap menempel pada thorax."
+    },
+    "facts": {
+      "group": {"en": "Thoracoappendicular (anterior axio-appendicular) muscles", "id": "Otot thoracoappendicular"},
+      "origin": {"la": "Facies externae partium lateralium costarum I-VIII (IX)", "en": "External surfaces of the lateral parts of ribs 1-8 (often also rib 9)"},
+      "insertion": {"la": "Margo medialis scapulae (facies costalis), ab angulo superiore ad angulum inferiorem", "en": "Costal (anterior) surface of the medial border of the scapula, from the superior to the inferior angle"},
+      "action": {
+        "en": "Protracts the scapula and holds it against the thoracic wall. Its lower fibers rotate the scapula upward so the glenoid cavity faces up, which is needed to raise the arm above the head. With the scapula fixed, it can raise the ribs.",
+        "id": "Protraksi scapula dan menahannya merapat ke dinding thorax. Serabut bagian bawah memutar scapula ke atas (rotasi superior) sehingga cavitas glenoidalis menghadap ke atas, gerakan yang diperlukan untuk mengangkat lengan di atas kepala. Bila scapula terfiksasi, otot ini dapat mengangkat costa."
+      },
+      "nerve": {"la": "Nervus thoracicus longus", "roots": "C5-C7"},
+      "blood": ["Arteria thoracica lateralis", "Arteria thoracodorsalis", "Arteria thoracica superior"],
+      "clinical": {
+        "en": "Injury to the long thoracic nerve, for example in axillary surgery, paralyses the muscle. The medial border of the scapula lifts off the thorax when the patient pushes against a wall (winged scapula), and the arm cannot be raised above the horizontal.",
+        "id": "Cedera n. thoracicus longus, misalnya pada operasi di axilla, melumpuhkan otot ini. Margo medialis scapulae terangkat dari dinding dada ketika pasien mendorong dinding (scapula alata), dan lengan tidak dapat diangkat melewati bidang horizontal."
+      },
+      "note": {
+        "en": "The module lists raising the ribs in breathing. This is an accessory action that needs a fixed scapula; the main actions are protraction and upward rotation of the scapula.",
+        "id": "Modul menyebut otot ini mengangkat costa saat bernapas. Aksi tersebut hanya aksi tambahan bila scapula terfiksasi; aksi utamanya adalah protraksi dan rotasi superior scapula."
+      }
+    },
+    "quiz": {
+      "origin": ["Costae I-VIII", "costa 1-8", "costa I-VIII", "costae I-IX", "facies externa costarum I-VIII", "permukaan lateral costa 1-8"],
+      "insertion": ["Margo medialis scapulae", "margo medialis scapulae (facies costalis)", "facies costalis margo medialis scapulae", "margo vertebralis scapulae"],
+      "nerve": ["Nervus thoracicus longus", "N. thoracicus longus", "N. thoracalis longus"],
+      "action": ["Protractio scapulae", "protraksi scapula", "rotatio superior scapulae", "rotasi scapula ke atas", "menahan scapula pada dinding thorax"]
+    }
+  },
+  {
+    "key": "trapezius-muscle",
+    "kind": "muscle",
+    "model": false,
+    "la": "Musculus trapezius",
+    "alt": ["M. trapezius", "Trapezius"],
+    "en": "Trapezius",
+    "desc": {
+      "en": "Flat triangular muscle covering the back of the neck and the upper thorax; the muscles of both sides together form a trapezoid. Its descending, transverse and ascending parts attach the clavicle and scapula to the skull and the vertebral column.",
+      "id": "Otot pipih berbentuk segitiga yang menutupi tengkuk dan punggung atas; otot kiri dan kanan bersama-sama membentuk trapesium. Pars descendens, pars transversa dan pars ascendens menghubungkan clavicula dan scapula dengan cranium dan columna vertebralis."
+    },
+    "facts": {
+      "group": {"en": "Spinoappendicular (posterior axio-appendicular) muscles, superficial layer", "id": "Otot spinoappendicular, lapisan superfisial"},
+      "origin": {
+        "la": "Tertia medialis lineae nuchae superioris, protuberantia occipitalis externa, ligamentum nuchae et processus spinosi vertebrarum C7-T12",
+        "en": "Medial third of the superior nuchal line, external occipital protuberance, nuchal ligament and spinous processes of C7-T12"
+      },
+      "insertion": {"la": "Tertia lateralis claviculae, acromion et spina scapulae", "en": "Lateral third of the clavicle, acromion and spine of the scapula"},
+      "action": {
+        "en": "The descending part elevates the scapula, the transverse part retracts it and the ascending part depresses it. The descending and ascending parts acting together rotate the scapula upward (glenoid cavity turns up) when the arm is raised above the horizontal. With the shoulders fixed, both sides extend the head and neck, and one side bends the neck to its own side.",
+        "id": "Pars descendens mengangkat (elevasi) scapula, pars transversa menarik scapula ke medial (retraksi), dan pars ascendens menurunkan (depresi) scapula. Pars descendens dan pars ascendens bersama-sama memutar scapula ke atas (cavitas glenoidalis menghadap ke atas) saat lengan diangkat melewati bidang horizontal. Bila bahu terfiksasi, kontraksi kedua sisi mengekstensikan kepala dan leher, sedangkan kontraksi satu sisi menekuk leher ke sisi yang sama (fleksi lateral)."
+      },
+      "nerve": {"la": "Nervus accessorius (N. XI); rami ventrales nervorum spinalium C3-C4", "roots": "CN XI; C3-C4"},
+      "blood": ["Ramus superficialis arteriae transversae cervicis", "Arteria suprascapularis", "Rami dorsales arteriarum intercostalium posteriorum"],
+      "parts": ["descending-part-of-trapezius-muscle", "transverse-part-of-trapezius-muscle", "ascending-part-of-trapezius-muscle"],
+      "clinical": {
+        "en": "The accessory nerve crosses the posterior triangle of the neck just under the skin and can be cut during lymph node biopsy. The shoulder then droops, shrugging is weak and raising the arm above the head becomes difficult.",
+        "id": "N. accessorius menyilang trigonum cervicale posterius tepat di bawah kulit dan dapat terpotong saat biopsi kelenjar limfe. Akibatnya bahu turun, gerakan mengangkat bahu lemah, dan lengan sulit diangkat di atas kepala."
+      },
+      "note": {
+        "en": "The module lists flexion and extension of the neck. The trapezius extends the head and neck (both sides) and bends the neck laterally (one side); it does not flex the neck forward. The C3-C4 fibers carry mainly pain and proprioception, and the motor supply comes from the accessory nerve.",
+        "id": "Modul menyebut fleksi dan ekstensi leher. M. trapezius mengekstensikan kepala dan leher (kedua sisi) dan melakukan fleksi lateral leher (satu sisi); otot ini tidak memfleksikan leher ke depan. Serabut C3-C4 terutama membawa rasa nyeri dan proprioseptif, sedangkan persarafan motoriknya berasal dari n. accessorius."
+      }
+    },
+    "quiz": {
+      "origin": ["Linea nuchae superior, protuberantia occipitalis externa, ligamentum nuchae, processus spinosi C7-T12", "processus spinosi C7-T12", "linea nuchae superior dan processus spinosus C7-T12", "os occipitale, ligamentum nuchae, processus spinosi C7-T12"],
+      "insertion": ["Tertia lateralis claviculae, acromion et spina scapulae", "clavicula lateral, acromion, spina scapulae", "acromion, spina scapulae, dan bagian lateral clavicula", "acromion et spina scapulae"],
+      "nerve": ["Nervus accessorius", "N. accessorius", "N. XI", "Nervus cranialis XI", "N. accessorius spinalis"],
+      "action": ["Elevatio, retractio, depressio et rotatio superior scapulae", "elevasi scapula", "retraksi scapula", "depresi scapula", "rotasi scapula ke atas", "elevatio scapulae"]
+    }
+  },
+  {
+    "key": "descending-part-of-trapezius-muscle",
+    "kind": "muscle-part",
+    "la": "Pars descendens musculi trapezii",
+    "alt": ["Pars descendens m. trapezii", "Pars superior musculi trapezii", "Pars descendens"],
+    "en": "Descending part of trapezius",
+    "desc": {
+      "en": "Upper fibers of the trapezius, running down from the occipital bone and nuchal ligament to the lateral third of the clavicle. They elevate the scapula (shrugging) and help rotate it upward.",
+      "id": "Serabut atas m. trapezius yang berjalan turun dari os occipitale dan ligamentum nuchae ke sepertiga lateral clavicula. Serabut ini mengangkat scapula (mengangkat bahu) dan membantu rotasi superior scapula."
+    },
+    "facts": {
+      "muscle": "trapezius-muscle",
+      "origin": {"la": "Tertia medialis lineae nuchae superioris, protuberantia occipitalis externa, ligamentum nuchae et processus spinosus vertebrae C7", "en": "Medial third of the superior nuchal line, external occipital protuberance, nuchal ligament and spinous process of C7"},
+      "insertion": {"la": "Tertia lateralis claviculae (margo posterior)", "en": "Posterior border of the lateral third of the clavicle"}
+    }
+  },
+  {
+    "key": "transverse-part-of-trapezius-muscle",
+    "kind": "muscle-part",
+    "la": "Pars transversa musculi trapezii",
+    "alt": ["Pars transversa m. trapezii", "Pars media musculi trapezii", "Pars transversa"],
+    "en": "Transverse part of trapezius",
+    "desc": {
+      "en": "Middle fibers of the trapezius, running horizontally through a broad aponeurosis from the upper thoracic spinous processes to the acromion and the spine of the scapula. They retract the scapula.",
+      "id": "Serabut tengah m. trapezius yang berjalan mendatar melalui aponeurosis lebar dari processus spinosus vertebrae thoracicae atas ke acromion dan spina scapulae. Serabut ini menarik scapula ke medial (retraksi)."
+    },
+    "facts": {
+      "muscle": "trapezius-muscle",
+      "origin": {"la": "Processus spinosi vertebrarum T1-T4", "en": "Spinous processes of about T1-T4"},
+      "insertion": {"la": "Margo medialis acromii et labium superius spinae scapulae", "en": "Medial margin of the acromion and upper lip of the spine of the scapula"}
+    }
+  },
+  {
+    "key": "ascending-part-of-trapezius-muscle",
+    "kind": "muscle-part",
+    "la": "Pars ascendens musculi trapezii",
+    "alt": ["Pars ascendens m. trapezii", "Pars inferior musculi trapezii", "Pars ascendens"],
+    "en": "Ascending part of trapezius",
+    "desc": {
+      "en": "Lower fibers of the trapezius, rising from the lower thoracic spinous processes to the medial end of the spine of the scapula, where a small bursa lies under their tendon. They depress the scapula and, with the descending part, rotate it upward.",
+      "id": "Serabut bawah m. trapezius yang naik dari processus spinosus vertebrae thoracicae bawah ke ujung medial spina scapulae; di bawah tendonya terdapat bursa kecil. Serabut ini menurunkan scapula dan, bersama pars descendens, memutar scapula ke atas."
+    },
+    "facts": {
+      "muscle": "trapezius-muscle",
+      "origin": {"la": "Processus spinosi vertebrarum T5-T12", "en": "Spinous processes of about T5-T12"},
+      "insertion": {"la": "Pars medialis spinae scapulae", "en": "Medial end of the spine of the scapula (smooth triangular area at its root)"}
+    }
+  },
+  {
+    "key": "latissimus-dorsi-muscle",
+    "kind": "muscle",
+    "la": "Musculus latissimus dorsi",
+    "alt": ["M. latissimus dorsi", "Latissimus dorsi"],
+    "en": "Latissimus dorsi",
+    "desc": {
+      "en": "Widest muscle of the back, spreading from the lower thoracic spine, thoracolumbar fascia and iliac crest to a narrow tendon in the floor of the intertubercular sulcus. With teres major it forms the posterior axillary fold.",
+      "id": "Otot terlebar di punggung, terbentang dari vertebrae thoracicae bawah, fascia thoracolumbalis dan crista iliaca menuju tendo sempit di dasar sulcus intertubercularis humeri. Bersama m. teres major, otot ini membentuk plica axillaris posterior."
+    },
+    "facts": {
+      "group": {"en": "Spinoappendicular (posterior axio-appendicular) muscles, superficial layer", "id": "Otot spinoappendicular, lapisan superfisial"},
+      "origin": {
+        "la": "Processus spinosi vertebrarum T7-T12, fascia thoracolumbalis, crista iliaca, costae IX-XII et angulus inferior scapulae",
+        "en": "Spinous processes of T7-T12, thoracolumbar fascia (and through it the lumbar and sacral spinous processes), iliac crest, the lower three or four ribs and often the inferior angle of the scapula"
+      },
+      "insertion": {"la": "Fundus sulci intertubercularis humeri", "en": "Floor of the intertubercular sulcus of the humerus"},
+      "action": {
+        "en": "Extends, adducts and medially rotates the arm at the shoulder joint. With the arms fixed above the head it pulls the trunk up, as in climbing, and it helps in forced respiration.",
+        "id": "Ekstensi, adduksi dan rotasi medial lengan pada sendi bahu. Bila lengan terfiksasi di atas kepala, otot ini menarik batang tubuh ke atas seperti saat memanjat, dan membantu pernapasan kuat."
+      },
+      "nerve": {"la": "Nervus thoracodorsalis", "roots": "C6-C8"},
+      "blood": ["Arteria thoracodorsalis", "Rami dorsales arteriarum intercostalium posteriorum", "Arteriae lumbales"],
+      "clinical": {
+        "en": "Damage to the thoracodorsal nerve during axillary surgery weakens extension and adduction of the arm, and the patient cannot pull the body up when climbing. The muscle with its vessels is often moved as a flap in reconstructive surgery.",
+        "id": "Cedera n. thoracodorsalis pada operasi axilla melemahkan ekstensi dan adduksi lengan, sehingga pasien tidak mampu menarik tubuhnya ke atas saat memanjat. Otot ini beserta pembuluhnya sering dipindahkan sebagai flap pada bedah rekonstruksi."
+      },
+      "note": {
+        "en": "The module gives the origin as T7-L5 and the sacrum; the lumbar and sacral attachment is through the thoracolumbar fascia. Some atlases place the insertion on the crest of the lesser tubercle, just in front of teres major, while Moore and Gray's give the floor of the intertubercular sulcus.",
+        "id": "Modul menyebut origo T7-L5 dan sacrum; perlekatan pada vertebrae lumbales dan sacrum terjadi melalui fascia thoracolumbalis. Sebagian atlas menempatkan insersionya pada crista tuberculi minoris, tepat di depan m. teres major, sedangkan Moore dan Gray's menyebut dasar sulcus intertubercularis."
+      }
+    },
+    "quiz": {
+      "origin": ["Processus spinosi T7-T12, fascia thoracolumbalis, crista iliaca, costae IX-XII", "processus spinosi T7-L5, sacrum, crista iliaca, costa 9-12", "fascia thoracolumbalis dan crista iliaca", "processus spinosus T7-T12 dan crista iliaca"],
+      "insertion": ["Sulcus intertubercularis humeri", "fundus sulci intertubercularis", "dasar sulcus intertubercularis", "sulcus bicipitalis", "crista tuberculi minoris humeri"],
+      "nerve": ["Nervus thoracodorsalis", "N. thoracodorsalis"],
+      "action": ["Extensio, adductio et rotatio medialis brachii", "ekstensi, adduksi dan rotasi medial lengan", "ekstensi lengan", "adduksi lengan", "rotasi medial lengan"]
+    }
+  },
+  {
+    "key": "levator-scapulae",
+    "kind": "muscle",
+    "la": "Musculus levator scapulae",
+    "alt": ["M. levator scapulae", "Levator scapulae"],
+    "en": "Levator scapulae",
+    "desc": {
+      "en": "Strap-like muscle at the side and back of the neck, running from the transverse processes of C1-C4 down to the superior angle of the scapula. It lies in the floor of the posterior triangle of the neck, with its lower end hidden under the trapezius.",
+      "id": "Otot berbentuk pita di sisi belakang leher, berjalan dari processus transversus C1-C4 turun ke angulus superior scapulae. Otot ini menjadi bagian dasar trigonum cervicale posterius, dan ujung bawahnya tertutup m. trapezius."
+    },
+    "facts": {
+      "group": {"en": "Spinoappendicular (posterior axio-appendicular) muscles, deep layer", "id": "Otot spinoappendicular, lapisan profunda"},
+      "origin": {"la": "Tubercula posteriora processuum transversorum vertebrarum C1-C4", "en": "Posterior tubercles of the transverse processes of C1-C4"},
+      "insertion": {"la": "Margo medialis scapulae, ab angulo superiore ad radicem spinae scapulae", "en": "Medial border of the scapula from the superior angle to the root of the spine"},
+      "action": {
+        "en": "Elevates the scapula and rotates it downward, tilting the glenoid cavity inferiorly. With the scapula fixed, it bends the neck laterally to the same side.",
+        "id": "Mengangkat (elevasi) scapula dan memutarnya ke bawah (rotasi inferior) sehingga cavitas glenoidalis menghadap ke bawah. Bila scapula terfiksasi, otot ini melakukan fleksi lateral leher ke sisi yang sama."
+      },
+      "nerve": {"la": "Nervus dorsalis scapulae; rami ventrales nervorum spinalium C3-C4", "roots": "C3-C5"},
+      "blood": ["Arteria dorsalis scapulae", "Arteria transversa cervicis"],
+      "note": {
+        "en": "The module says it helps the trapezius rotate the scapula to raise the arm. It shares elevation with the descending trapezius, but its rotation is downward; the upward rotation needed to raise the arm comes from the trapezius and serratus anterior.",
+        "id": "Modul menyebut otot ini membantu m. trapezius memutar scapula untuk mengangkat lengan. Otot ini memang bersama pars descendens m. trapezii melakukan elevasi scapula, tetapi rotasinya ke bawah (inferior); rotasi ke atas untuk mengangkat lengan dilakukan oleh m. trapezius dan m. serratus anterior."
+      }
+    },
+    "quiz": {
+      "origin": ["Processus transversi vertebrarum C1-C4", "processus transversus C1-C4", "tubercula posteriora processuum transversorum C1-C4", "prosesus transversus vertebra C1-C4"],
+      "insertion": ["Margo medialis scapulae (pars superior)", "angulus superior scapulae", "margo medialis scapulae di atas spina scapulae", "margo medialis scapulae"],
+      "nerve": ["Nervus dorsalis scapulae", "N. dorsalis scapulae", "N. dorsalis scapulae dan nn. cervicales C3-C4", "Nervus scapularis dorsalis"],
+      "action": ["Elevatio scapulae", "elevasi scapula", "mengangkat scapula", "rotasi inferior scapula", "rotatio inferior scapulae"]
+    }
+  },
+  {
+    "key": "rhomboid-major-muscle",
+    "kind": "muscle",
+    "la": "Musculus rhomboideus major",
+    "alt": ["M. rhomboideus major", "Rhomboideus major", "M. rhomboideus mayor", "Musculus rhomboideus mayor"],
+    "en": "Rhomboid major",
+    "desc": {
+      "en": "Flat quadrilateral muscle deep to the trapezius, running obliquely down and laterally from the spinous processes of T2-T5 to the medial border of the scapula below the spine. It holds the scapula against the thoracic wall and pulls it toward the midline.",
+      "id": "Otot pipih segi empat di bawah m. trapezius, berjalan miring ke bawah lateral dari processus spinosus T2-T5 ke margo medialis scapulae di bawah spina scapulae. Otot ini menahan scapula merapat ke dinding thorax dan menariknya ke arah garis tengah."
+    },
+    "facts": {
+      "group": {"en": "Spinoappendicular (posterior axio-appendicular) muscles, deep layer", "id": "Otot spinoappendicular, lapisan profunda"},
+      "origin": {"la": "Processus spinosi vertebrarum T2-T5", "en": "Spinous processes of T2-T5 and their supraspinous ligaments"},
+      "insertion": {"la": "Margo medialis scapulae, a radice spinae ad angulum inferiorem", "en": "Medial border of the scapula from the root of the spine to the inferior angle"},
+      "action": {
+        "en": "Retracts the scapula and rotates it downward (glenoid cavity turns down); fixes the scapula to the thoracic wall.",
+        "id": "Menarik scapula ke medial (retraksi) dan memutarnya ke bawah (rotasi inferior); memfiksasi scapula pada dinding thorax."
+      },
+      "nerve": {"la": "Nervus dorsalis scapulae", "roots": "C4-C5"},
+      "blood": ["Arteria dorsalis scapulae", "Rami dorsales arteriarum intercostalium posteriorum"]
+    },
+    "quiz": {
+      "origin": ["Processus spinosi T2-T5", "processus spinosus vertebra T2-T5", "prosesus spinosus vertebra T2-T5", "processus spinosi vertebrarum thoracicarum II-V"],
+      "insertion": ["Margo medialis scapulae (infra spinam)", "margo medialis scapulae", "margo medialis scapulae bagian bawah", "margo vertebralis scapulae"],
+      "nerve": ["Nervus dorsalis scapulae", "N. dorsalis scapulae", "Nervus scapularis dorsalis"],
+      "action": ["Retractio scapulae", "retraksi scapula", "menarik scapula ke medial", "rotasi inferior scapula", "fiksasi scapula"]
+    }
+  },
+  {
+    "key": "rhomboid-minor-muscle",
+    "kind": "muscle",
+    "la": "Musculus rhomboideus minor",
+    "alt": ["M. rhomboideus minor", "Rhomboideus minor"],
+    "en": "Rhomboid minor",
+    "desc": {
+      "en": "Narrow band just above rhomboid major, from the lower nuchal ligament and the spinous processes of C7 and T1 to the medial border of the scapula at the root of its spine. It acts with rhomboid major.",
+      "id": "Pita otot sempit tepat di atas m. rhomboideus major, dari bagian bawah ligamentum nuchae dan processus spinosus C7-T1 ke margo medialis scapulae setinggi pangkal spina scapulae. Kerjanya sama dengan m. rhomboideus major."
+    },
+    "facts": {
+      "group": {"en": "Spinoappendicular (posterior axio-appendicular) muscles, deep layer", "id": "Otot spinoappendicular, lapisan profunda"},
+      "origin": {"la": "Ligamentum nuchae (pars inferior) et processus spinosi vertebrarum C7-T1", "en": "Lower part of the nuchal ligament and spinous processes of C7 and T1"},
+      "insertion": {"la": "Margo medialis scapulae ad radicem spinae scapulae", "en": "Medial border of the scapula at the level of the root of the spine"},
+      "action": {
+        "en": "Retracts the scapula and rotates it downward; fixes the scapula to the thoracic wall.",
+        "id": "Menarik scapula ke medial (retraksi) dan memutarnya ke bawah (rotasi inferior); memfiksasi scapula pada dinding thorax."
+      },
+      "nerve": {"la": "Nervus dorsalis scapulae", "roots": "C4-C5"},
+      "blood": ["Arteria dorsalis scapulae"]
+    },
+    "quiz": {
+      "origin": ["Processus spinosi C7-T1", "processus spinosus vertebra C7-T1", "prosesus spinosus vertebra C7-T1", "ligamentum nuchae dan processus spinosi C7-T1"],
+      "insertion": ["Margo medialis scapulae (radix spinae)", "margo medialis scapulae", "margo medialis scapulae bagian atas", "radix spinae scapulae"],
+      "nerve": ["Nervus dorsalis scapulae", "N. dorsalis scapulae", "Nervus scapularis dorsalis"],
+      "action": ["Retractio scapulae", "retraksi scapula", "menarik scapula ke medial", "rotasi inferior scapula", "fiksasi scapula"]
+    }
+  },
+  {
+    "key": "deltoid-muscle",
+    "kind": "muscle",
+    "la": "Musculus deltoideus",
+    "alt": ["M. deltoideus", "Deltoideus"],
+    "en": "Deltoid",
+    "desc": {
+      "en": "Thick triangular muscle that gives the shoulder its rounded contour. Its clavicular, acromial and spinal parts arise along the same line where the trapezius inserts and converge on the deltoid tuberosity of the humerus.",
+      "id": "Otot tebal berbentuk segitiga yang membentuk kontur bulat bahu. Pars clavicularis, pars acromialis dan pars spinalis berasal dari garis yang sama dengan insersio m. trapezius, lalu menyatu pada tuberositas deltoidea humeri."
+    },
+    "facts": {
+      "group": {"en": "Scapulohumeral muscles", "id": "Otot scapulohumeral"},
+      "origin": {"la": "Tertia lateralis claviculae, acromion et spina scapulae", "en": "Lateral third of the clavicle, acromion and spine of the scapula"},
+      "insertion": {"la": "Tuberositas deltoidea humeri", "en": "Deltoid tuberosity of the humerus"},
+      "action": {
+        "en": "The clavicular (anterior) part flexes and medially rotates the arm. The acromial (middle) part abducts the arm once supraspinatus has started the movement (about the first 15 degrees). The spinal (posterior) part extends and laterally rotates the arm.",
+        "id": "Pars clavicularis (anterior) melakukan fleksi dan rotasi medial lengan. Pars acromialis (tengah) melakukan abduksi lengan setelah m. supraspinatus memulai gerakan (sekitar 15 derajat pertama). Pars spinalis (posterior) melakukan ekstensi dan rotasi lateral lengan."
+      },
+      "nerve": {"la": "Nervus axillaris", "roots": "C5-C6"},
+      "blood": ["Arteria circumflexa humeri posterior", "Ramus deltoideus arteriae thoracoacromialis", "Arteria circumflexa humeri anterior"],
+      "parts": ["clavicular-part-of-deltoid-muscle", "acromial-part-of-deltoid-muscle", "scapular-spinal-part-of-deltoid-muscle"],
+      "clinical": {
+        "en": "The axillary nerve winds around the surgical neck of the humerus and can be damaged by a fracture there or by dislocation of the shoulder. The deltoid wastes, the shoulder loses its round contour, abduction is weak and the skin over the lower deltoid goes numb. Intramuscular injections go into the thick middle part, a few fingerbreadths below the acromion, to keep clear of the nerve.",
+        "id": "N. axillaris melingkari collum chirurgicum humeri sehingga dapat cedera pada fraktur di daerah itu atau dislokasi sendi bahu. M. deltoideus mengalami atrofi, kontur bahu tidak lagi bulat, abduksi lemah, dan kulit di atas bagian bawah m. deltoideus kebas. Suntikan intramuskular diberikan pada bagian tengah yang tebal, beberapa jari di bawah acromion, agar tidak mengenai saraf ini."
+      }
+    },
+    "quiz": {
+      "origin": ["Tertia lateralis claviculae, acromion et spina scapulae", "clavicula lateral, acromion, spina scapulae", "clavicula, acromion, spina scapulae", "acromion dan spina scapulae"],
+      "insertion": ["Tuberositas deltoidea humeri", "tuberositas deltoidea"],
+      "nerve": ["Nervus axillaris", "N. axillaris", "N. circumflexus"],
+      "action": ["Abductio brachii", "abduksi lengan", "fleksi, abduksi dan ekstensi lengan", "abductio humeri", "abduksi lengan setelah 15 derajat"]
+    }
+  },
+  {
+    "key": "clavicular-part-of-deltoid-muscle",
+    "kind": "muscle-part",
+    "la": "Pars clavicularis musculi deltoidei",
+    "alt": ["Pars clavicularis m. deltoidei", "Pars anterior musculi deltoidei", "Pars clavicularis"],
+    "en": "Clavicular part of deltoid",
+    "desc": {
+      "en": "Anterior part of the deltoid. It flexes and medially rotates the arm, working with the clavicular part of pectoralis major.",
+      "id": "Bagian anterior m. deltoideus. Bagian ini melakukan fleksi dan rotasi medial lengan bersama pars clavicularis m. pectoralis majoris."
+    },
+    "facts": {
+      "muscle": "deltoid-muscle",
+      "origin": {"la": "Tertia lateralis claviculae (margo anterior)", "en": "Anterior border of the lateral third of the clavicle"},
+      "insertion": {"la": "Tuberositas deltoidea humeri", "en": "Deltoid tuberosity of the humerus"}
+    }
+  },
+  {
+    "key": "acromial-part-of-deltoid-muscle",
+    "kind": "muscle-part",
+    "la": "Pars acromialis musculi deltoidei",
+    "alt": ["Pars acromialis m. deltoidei", "Pars media musculi deltoidei", "Pars acromialis"],
+    "en": "Acromial part of deltoid",
+    "desc": {
+      "en": "Middle part of the deltoid, with multipennate fibers. It is the main abductor of the arm after the first 15 degrees.",
+      "id": "Bagian tengah m. deltoideus dengan serabut multipennatus. Bagian ini adalah abduktor utama lengan setelah 15 derajat pertama."
+    },
+    "facts": {
+      "muscle": "deltoid-muscle",
+      "origin": {"la": "Margo lateralis acromii", "en": "Lateral margin and upper surface of the acromion"},
+      "insertion": {"la": "Tuberositas deltoidea humeri", "en": "Deltoid tuberosity of the humerus"}
+    }
+  },
+  {
+    "key": "scapular-spinal-part-of-deltoid-muscle",
+    "kind": "muscle-part",
+    "la": "Pars spinalis musculi deltoidei",
+    "alt": ["Pars spinalis m. deltoidei", "Pars spinalis scapularis musculi deltoidei", "Pars posterior musculi deltoidei", "Pars spinalis"],
+    "en": "Spinal part of deltoid",
+    "desc": {
+      "en": "Posterior part of the deltoid. It extends and laterally rotates the arm.",
+      "id": "Bagian posterior m. deltoideus. Bagian ini melakukan ekstensi dan rotasi lateral lengan."
+    },
+    "facts": {
+      "muscle": "deltoid-muscle",
+      "origin": {"la": "Labium inferius spinae scapulae", "en": "Lower lip of the spine of the scapula"},
+      "insertion": {"la": "Tuberositas deltoidea humeri", "en": "Deltoid tuberosity of the humerus"}
+    }
+  },
+  {
+    "key": "supraspinatus-muscle",
+    "kind": "muscle",
+    "la": "Musculus supraspinatus",
+    "alt": ["M. supraspinatus", "Supraspinatus"],
+    "en": "Supraspinatus",
+    "desc": {
+      "en": "Rotator cuff muscle filling the supraspinous fossa. Its tendon passes under the acromion and the coracoacromial ligament, separated from them by the subacromial bursa, and blends with the top of the shoulder joint capsule.",
+      "id": "Otot rotator cuff yang mengisi fossa supraspinata. Tendonya berjalan di bawah acromion dan lig. coracoacromiale, dipisahkan oleh bursa subacromialis, lalu menyatu dengan bagian atas capsula articularis sendi bahu."
+    },
+    "facts": {
+      "group": {"en": "Scapulohumeral muscles (rotator cuff)", "id": "Otot scapulohumeral (rotator cuff)"},
+      "origin": {"la": "Fossa supraspinata scapulae", "en": "Supraspinous fossa of the scapula and its covering fascia"},
+      "insertion": {"la": "Facies superior tuberculi majoris humeri", "en": "Superior facet of the greater tubercle of the humerus"},
+      "action": {
+        "en": "Starts abduction of the arm (about the first 15 degrees) and assists the deltoid through the rest of the movement. As part of the rotator cuff it holds the head of the humerus in the glenoid cavity.",
+        "id": "Memulai abduksi lengan (sekitar 15 derajat pertama) dan membantu m. deltoideus pada sisa gerakan. Sebagai bagian rotator cuff, otot ini menahan caput humeri tetap dalam cavitas glenoidalis."
+      },
+      "nerve": {"la": "Nervus suprascapularis", "roots": "C5-C6"},
+      "blood": ["Arteria suprascapularis"],
+      "clinical": {
+        "en": "Its tendon is the one most often torn or inflamed in the rotator cuff, because it is pinched under the coracoacromial arch. Typical findings are pain between about 60 and 120 degrees of abduction (painful arc) and difficulty starting abduction.",
+        "id": "Tendonya paling sering robek atau meradang di antara otot rotator cuff karena terjepit di bawah arcus coracoacromialis. Temuan khasnya nyeri pada abduksi sekitar 60-120 derajat (painful arc) dan kesulitan memulai abduksi."
+      }
+    },
+    "quiz": {
+      "origin": ["Fossa supraspinata", "fossa supraspinata scapulae", "fossa supraspinosa"],
+      "insertion": ["Tuberculum majus humeri (facies superior)", "tuberculum majus humeri", "facies superior tuberculi majoris", "tuberculum majus"],
+      "nerve": ["Nervus suprascapularis", "N. suprascapularis"],
+      "action": ["Abductio brachii", "abduksi lengan", "memulai abduksi lengan (0-15 derajat)", "inisiasi abduksi", "stabilisasi sendi bahu"]
+    }
+  },
+  {
+    "key": "infraspinatus-muscle",
+    "kind": "muscle",
+    "la": "Musculus infraspinatus",
+    "alt": ["M. infraspinatus", "Infraspinatus"],
+    "en": "Infraspinatus",
+    "desc": {
+      "en": "Thick triangular rotator cuff muscle occupying most of the infraspinous fossa. Its tendon passes behind the shoulder joint to the middle facet of the greater tubercle.",
+      "id": "Otot rotator cuff yang tebal dan berbentuk segitiga, menempati sebagian besar fossa infraspinata. Tendonya melintas di belakang sendi bahu menuju facies media tuberculi majoris humeri."
+    },
+    "facts": {
+      "group": {"en": "Scapulohumeral muscles (rotator cuff)", "id": "Otot scapulohumeral (rotator cuff)"},
+      "origin": {"la": "Fossa infraspinata scapulae", "en": "Infraspinous fossa of the scapula and its covering fascia"},
+      "insertion": {"la": "Facies media tuberculi majoris humeri", "en": "Middle facet of the greater tubercle of the humerus"},
+      "action": {
+        "en": "Laterally rotates the arm. As part of the rotator cuff it holds the head of the humerus in the glenoid cavity.",
+        "id": "Rotasi lateral lengan. Sebagai bagian rotator cuff, otot ini menahan caput humeri tetap dalam cavitas glenoidalis."
+      },
+      "nerve": {"la": "Nervus suprascapularis", "roots": "C5-C6"},
+      "blood": ["Arteria suprascapularis", "Arteria circumflexa scapulae"],
+      "clinical": {
+        "en": "The suprascapular nerve can be compressed at the spinoglenoid notch, beyond its branch to supraspinatus. Infraspinatus then wastes on its own and lateral rotation is weak.",
+        "id": "N. suprascapularis dapat tertekan pada incisura spinoglenoidea, setelah percabangannya untuk m. supraspinatus. Akibatnya hanya m. infraspinatus yang atrofi dan rotasi lateral lengan melemah."
+      }
+    },
+    "quiz": {
+      "origin": ["Fossa infraspinata", "fossa infraspinata scapulae", "fossa infraspinosa"],
+      "insertion": ["Tuberculum majus humeri (facies media)", "tuberculum majus humeri", "facies media tuberculi majoris", "tuberculum majus"],
+      "nerve": ["Nervus suprascapularis", "N. suprascapularis"],
+      "action": ["Rotatio lateralis brachii", "rotasi lateral lengan", "rotasi eksternal lengan", "eksorotasi lengan", "rotatio externa humeri"]
+    }
+  },
+  {
+    "key": "teres-minor-muscle",
+    "kind": "muscle",
+    "la": "Musculus teres minor",
+    "alt": ["M. teres minor", "Teres minor"],
+    "en": "Teres minor",
+    "desc": {
+      "en": "Narrow rotator cuff muscle below infraspinatus, often partly fused with it. It forms the upper border of the quadrangular space, through which the axillary nerve and the posterior circumflex humeral artery pass.",
+      "id": "Otot rotator cuff yang sempit di bawah m. infraspinatus dan sering sebagian menyatu dengannya. Otot ini membentuk batas atas spatium quadrangulare, tempat lewatnya n. axillaris dan a. circumflexa humeri posterior."
+    },
+    "facts": {
+      "group": {"en": "Scapulohumeral muscles (rotator cuff)", "id": "Otot scapulohumeral (rotator cuff)"},
+      "origin": {"la": "Pars media marginis lateralis scapulae (facies posterior)", "en": "Middle part of the lateral border of the scapula, on its posterior surface"},
+      "insertion": {"la": "Facies inferior tuberculi majoris humeri", "en": "Inferior facet of the greater tubercle of the humerus"},
+      "action": {
+        "en": "Laterally rotates the arm and weakly adducts it. As part of the rotator cuff it holds the head of the humerus in the glenoid cavity.",
+        "id": "Rotasi lateral lengan dan adduksi lemah. Sebagai bagian rotator cuff, otot ini menahan caput humeri tetap dalam cavitas glenoidalis."
+      },
+      "nerve": {"la": "Nervus axillaris", "roots": "C5-C6"},
+      "blood": ["Arteria circumflexa scapulae", "Arteria circumflexa humeri posterior"]
+    },
+    "quiz": {
+      "origin": ["Margo lateralis scapulae", "margo lateralis scapulae (pars media)", "margo axillaris scapulae"],
+      "insertion": ["Tuberculum majus humeri (facies inferior)", "tuberculum majus humeri", "facies inferior tuberculi majoris", "tuberculum majus"],
+      "nerve": ["Nervus axillaris", "N. axillaris", "N. circumflexus"],
+      "action": ["Rotatio lateralis brachii", "rotasi lateral lengan", "rotasi eksternal lengan", "eksorotasi lengan", "adduksi lengan"]
+    }
+  },
+  {
+    "key": "teres-major-muscle",
+    "kind": "muscle",
+    "la": "Musculus teres major",
+    "alt": ["M. teres major", "Teres major", "M. teres mayor"],
+    "en": "Teres major",
+    "desc": {
+      "en": "Thick rounded muscle from the inferior angle of the scapula to the crest of the lesser tubercle, running alongside latissimus dorsi. It does not belong to the rotator cuff. Its lower border marks the point where the axillary artery becomes the brachial artery.",
+      "id": "Otot tebal bulat dari angulus inferior scapulae ke crista tuberculi minoris humeri, berjalan berdampingan dengan m. latissimus dorsi. Otot ini tidak termasuk rotator cuff. Tepi bawahnya menjadi batas tempat a. axillaris berlanjut menjadi a. brachialis."
+    },
+    "facts": {
+      "group": {"en": "Scapulohumeral muscles", "id": "Otot scapulohumeral"},
+      "origin": {"la": "Facies posterior anguli inferioris scapulae", "en": "Posterior surface of the inferior angle of the scapula"},
+      "insertion": {"la": "Crista tuberculi minoris humeri", "en": "Crest of the lesser tubercle (medial lip of the intertubercular sulcus) of the humerus"},
+      "action": {
+        "en": "Adducts and medially rotates the arm and helps extend it from the flexed position.",
+        "id": "Adduksi dan rotasi medial lengan, serta membantu ekstensi lengan dari posisi fleksi."
+      },
+      "nerve": {"la": "Nervus subscapularis inferior", "roots": "C5-C6"},
+      "blood": ["Arteria thoracodorsalis", "Arteria circumflexa scapulae"]
+    },
+    "quiz": {
+      "origin": ["Angulus inferior scapulae", "facies posterior anguli inferioris scapulae", "angulus inferior scapulae (facies posterior)"],
+      "insertion": ["Crista tuberculi minoris humeri", "crista tuberculi minoris", "labium mediale sulci intertubercularis"],
+      "nerve": ["Nervus subscapularis inferior", "N. subscapularis inferior", "N. subscapularis"],
+      "action": ["Adductio et rotatio medialis brachii", "adduksi dan rotasi medial lengan", "adduksi, ekstensi dan rotasi medial lengan", "rotasi medial lengan"]
+    }
+  },
+  {
+    "key": "subscapularis-muscle",
+    "kind": "muscle",
+    "la": "Musculus subscapularis",
+    "alt": ["M. subscapularis", "Subscapularis"],
+    "en": "Subscapularis",
+    "desc": {
+      "en": "Large triangular rotator cuff muscle filling the subscapular fossa on the front of the scapula. It forms most of the posterior wall of the axilla, and its tendon crosses the front of the shoulder joint to the lesser tubercle.",
+      "id": "Otot rotator cuff besar berbentuk segitiga yang mengisi fossa subscapularis di permukaan depan scapula. Otot ini membentuk sebagian besar dinding posterior axilla, dan tendonya menyilang bagian depan sendi bahu menuju tuberculum minus humeri."
+    },
+    "facts": {
+      "group": {"en": "Scapulohumeral muscles (rotator cuff)", "id": "Otot scapulohumeral (rotator cuff)"},
+      "origin": {"la": "Fossa subscapularis", "en": "Subscapular fossa (most of the anterior surface of the scapula)"},
+      "insertion": {"la": "Tuberculum minus humeri", "en": "Lesser tubercle of the humerus"},
+      "action": {
+        "en": "Medially rotates and adducts the arm. As part of the rotator cuff it holds the head of the humerus in the glenoid cavity and resists anterior dislocation.",
+        "id": "Rotasi medial dan adduksi lengan. Sebagai bagian rotator cuff, otot ini menahan caput humeri dalam cavitas glenoidalis dan menahan dislokasi ke anterior."
+      },
+      "nerve": {"la": "Nervus subscapularis superior et nervus subscapularis inferior", "roots": "C5-C6"},
+      "blood": ["Arteria subscapularis", "Arteria suprascapularis", "Arteria thoracodorsalis"],
+      "note": {
+        "en": "The module also lists extension of the shoulder. Standard references give medial rotation and adduction.",
+        "id": "Modul juga mencantumkan ekstensi bahu. Buku acuan standar menyebut rotasi medial dan adduksi."
+      }
+    },
+    "quiz": {
+      "origin": ["Fossa subscapularis", "fossa subscapularis scapulae", "facies costalis scapulae"],
+      "insertion": ["Tuberculum minus humeri", "tuberculum minus"],
+      "nerve": ["Nervus subscapularis superior et inferior", "Nn. subscapulares", "N. subscapularis superior dan inferior", "N. subscapularis"],
+      "action": ["Rotatio medialis brachii", "rotasi medial lengan", "rotasi internal lengan", "endorotasi lengan", "adduksi lengan"]
+    }
+  }
+]

@@ -1,0 +1,421 @@
+[
+  {
+    "key": "abductor-pollicis-brevis",
+    "kind": "muscle",
+    "la": "Musculus abductor pollicis brevis",
+    "alt": ["M. abductor pollicis brevis", "Abductor pollicis brevis", "Musculus abductor brevis pollicis"],
+    "en": "Abductor pollicis brevis",
+    "desc": {
+      "en": "Thin superficial muscle forming the lateral part of the thenar eminence. It draws the thumb forward, away from the palm, and is the muscle usually tested for the median nerve at the wrist: in carpal tunnel syndrome it weakens and the outer part of the thenar eminence flattens.",
+      "id": "Otot superfisial yang tipis, membentuk bagian lateral eminentia thenaris. Otot ini menarik ibu jari ke depan menjauhi telapak tangan dan biasa diperiksa untuk menilai n. medianus di pergelangan tangan: pada sindrom carpal tunnel otot ini melemah dan bagian luar eminentia thenaris menjadi datar."
+    },
+    "facts": {
+      "group": {"en": "Thenar muscles", "id": "Otot thenar"},
+      "origin": {"la": "Retinaculum musculorum flexorum, tuberculum ossis scaphoidei et tuberculum ossis trapezii", "en": "Flexor retinaculum and the tubercles of the scaphoid and trapezium"},
+      "insertion": {"la": "Basis phalangis proximalis pollicis (latus laterale)", "en": "Lateral side of the base of the proximal phalanx of the thumb"},
+      "action": {
+        "en": "Abducts the thumb at the carpometacarpal and metacarpophalangeal joints (palmar abduction, moving the thumb forward at right angles to the palm) and helps in opposition.",
+        "id": "Abduksi ibu jari pada sendi carpometacarpalis dan metacarpophalangea (abduksi palmar, menggerakkan ibu jari ke depan tegak lurus terhadap telapak tangan) dan membantu oposisi."
+      },
+      "nerve": {"la": "Ramus recurrens nervi mediani", "roots": "C8-T1"},
+      "blood": ["Ramus palmaris superficialis arteriae radialis"]
+    },
+    "quiz": {
+      "origin": ["Retinaculum musculorum flexorum et os scaphoideum", "retinaculum flexorum, os scaphoideum dan os trapezium", "retinaculum fleksor dan os scaphoideum", "tuberculum ossis scaphoidei et retinaculum flexorum"],
+      "insertion": ["Basis phalangis proximalis pollicis", "basis phalanx proximalis ibu jari", "basis falang proksimal ibu jari", "basis phalangis proximalis pollicis (latus laterale)"],
+      "nerve": ["Ramus recurrens nervi mediani", "R. recurrens n. mediani", "Nervus medianus", "N. medianus"],
+      "action": ["Abductio pollicis", "abduksi ibu jari", "abduksi ibu jari pada sendi metacarpophalangeal", "abduksi palmar ibu jari"]
+    }
+  },
+  {
+    "key": "flexor-pollicis-brevis-muscle",
+    "kind": "muscle",
+    "model": false,
+    "la": "Musculus flexor pollicis brevis",
+    "alt": ["M. flexor pollicis brevis", "Flexor pollicis brevis", "Musculus flexor brevis pollicis"],
+    "en": "Flexor pollicis brevis",
+    "desc": {
+      "en": "Thenar muscle lying medial to abductor pollicis brevis, with a superficial head from the flexor retinaculum and a deep head from the distal carpal bones. It flexes the proximal phalanx of the thumb. The two heads often have different nerves: the median nerve for the superficial head and the ulnar nerve for the deep head.",
+      "id": "Otot thenar di medial m. abductor pollicis brevis, dengan caput superficiale dari retinaculum musculorum flexorum dan caput profundum dari ossa carpi baris distal. Otot ini memfleksikan phalanx proximalis ibu jari. Kedua kepalanya sering memiliki persarafan berbeda: n. medianus untuk caput superficiale dan n. ulnaris untuk caput profundum."
+    },
+    "facts": {
+      "group": {"en": "Thenar muscles", "id": "Otot thenar"},
+      "origin": {
+        "la": "Caput superficiale: retinaculum musculorum flexorum et tuberculum ossis trapezii; caput profundum: os trapezoideum et os capitatum",
+        "en": "Superficial head: flexor retinaculum and tubercle of the trapezium. Deep head: trapezoid and capitate."
+      },
+      "insertion": {"la": "Basis phalangis proximalis pollicis (latus laterale), per os sesamoideum laterale", "en": "Lateral side of the base of the proximal phalanx of the thumb, through the lateral sesamoid bone"},
+      "action": {
+        "en": "Flexes the thumb at the metacarpophalangeal joint and helps flex the carpometacarpal joint during opposition.",
+        "id": "Fleksi ibu jari pada sendi metacarpophalangea dan membantu fleksi sendi carpometacarpalis saat oposisi."
+      },
+      "nerve": {"la": "Caput superficiale: ramus recurrens nervi mediani; caput profundum: ramus profundus nervi ulnaris", "roots": "C8-T1"},
+      "blood": ["Ramus palmaris superficialis arteriae radialis"],
+      "parts": ["superficial-head-of-flexor-pollicis-brevis", "deep-head-of-flexor-pollicis-brevis"]
+    },
+    "quiz": {
+      "origin": ["Retinaculum musculorum flexorum et os trapezium", "retinaculum flexorum dan tuberculum ossis trapezii", "retinaculum fleksor dan os trapezium", "caput superficiale: retinaculum flexorum; caput profundum: os trapezoideum et os capitatum"],
+      "insertion": ["Basis phalangis proximalis pollicis", "basis phalanx proximalis ibu jari (lateral)", "basis falang proksimal ibu jari", "basis phalangis proximalis pollicis (latus laterale)"],
+      "nerve": ["Ramus recurrens nervi mediani et ramus profundus nervi ulnaris", "N. medianus et N. ulnaris", "Nervus medianus", "N. medianus", "R. recurrens n. mediani"],
+      "action": ["Flexio pollicis (articulatio metacarpophalangea)", "fleksi ibu jari pada sendi metacarpophalangeal", "fleksi ibu jari", "flexio pollicis"]
+    }
+  },
+  {
+    "key": "superficial-head-of-flexor-pollicis-brevis",
+    "kind": "muscle-part",
+    "la": "Caput superficiale musculi flexoris pollicis brevis",
+    "alt": ["Caput superficiale m. flexoris pollicis brevis", "Caput superficiale flexoris brevis pollicis", "Caput superficiale"],
+    "en": "Superficial head of flexor pollicis brevis",
+    "desc": {
+      "en": "Larger head of flexor pollicis brevis, lying alongside abductor pollicis brevis and supplied by the recurrent branch of the median nerve.",
+      "id": "Kepala m. flexor pollicis brevis yang lebih besar, terletak berdampingan dengan m. abductor pollicis brevis dan dipersarafi r. recurrens n. mediani."
+    },
+    "facts": {
+      "muscle": "flexor-pollicis-brevis-muscle",
+      "origin": {"la": "Retinaculum musculorum flexorum et tuberculum ossis trapezii", "en": "Flexor retinaculum and tubercle of the trapezium"},
+      "insertion": {"la": "Basis phalangis proximalis pollicis (latus laterale)", "en": "Lateral side of the base of the proximal phalanx of the thumb"}
+    }
+  },
+  {
+    "key": "deep-head-of-flexor-pollicis-brevis",
+    "kind": "muscle-part",
+    "la": "Caput profundum musculi flexoris pollicis brevis",
+    "alt": ["Caput profundum m. flexoris pollicis brevis", "Caput profundum flexoris brevis pollicis", "Caput profundum"],
+    "en": "Deep head of flexor pollicis brevis",
+    "desc": {
+      "en": "Small deep head arising from the trapezoid and capitate, close to the oblique head of adductor pollicis. It is usually supplied by the deep branch of the ulnar nerve.",
+      "id": "Kepala dalam yang kecil, berasal dari os trapezoideum dan os capitatum, dekat caput obliquum m. adductor pollicis. Kepala ini biasanya dipersarafi r. profundus n. ulnaris."
+    },
+    "facts": {
+      "muscle": "flexor-pollicis-brevis-muscle",
+      "origin": {"la": "Os trapezoideum et os capitatum", "en": "Trapezoid and capitate bones"},
+      "insertion": {"la": "Basis phalangis proximalis pollicis (latus laterale)", "en": "Lateral side of the base of the proximal phalanx of the thumb"}
+    }
+  },
+  {
+    "key": "opponens-pollicis-muscle",
+    "kind": "muscle",
+    "la": "Musculus opponens pollicis",
+    "alt": ["M. opponens pollicis", "Opponens pollicis"],
+    "en": "Opponens pollicis",
+    "desc": {
+      "en": "Quadrilateral thenar muscle lying deep to abductor pollicis brevis and flexor pollicis brevis. It is the only thenar muscle that inserts on the first metacarpal, which it pulls across the palm and rotates medially so that the pulp of the thumb faces the other fingers.",
+      "id": "Otot thenar segi empat yang terletak di bawah m. abductor pollicis brevis dan m. flexor pollicis brevis. Otot ini satu-satunya otot thenar yang berinsersio pada os metacarpi I, yang ditariknya melintasi telapak tangan sambil dirotasikan ke medial sehingga bantalan ibu jari berhadapan dengan jari-jari lain."
+    },
+    "facts": {
+      "group": {"en": "Thenar muscles", "id": "Otot thenar"},
+      "origin": {"la": "Retinaculum musculorum flexorum et tuberculum ossis trapezii", "en": "Flexor retinaculum and tubercle of the trapezium"},
+      "insertion": {"la": "Margo lateralis et facies palmaris corporis ossis metacarpi I", "en": "Lateral border and adjacent palmar surface of the shaft of the first metacarpal"},
+      "action": {
+        "en": "Opposes the thumb: draws the first metacarpal medially toward the center of the palm and rotates it medially at the carpometacarpal joint.",
+        "id": "Oposisi ibu jari: menarik os metacarpi I ke medial menuju tengah telapak tangan dan merotasikannya ke medial pada sendi carpometacarpalis."
+      },
+      "nerve": {"la": "Ramus recurrens nervi mediani", "roots": "C8-T1"},
+      "blood": ["Ramus palmaris superficialis arteriae radialis"],
+      "clinical": {
+        "en": "Loss of opposition after injury to the median nerve at the wrist, or to its recurrent branch in a cut across the thenar eminence, makes fine grips such as holding a pen very difficult. The thumb lies beside the index finger in the plane of the palm (ape hand).",
+        "id": "Hilangnya oposisi akibat cedera n. medianus di pergelangan tangan, atau cedera r. recurrens-nya pada luka sayat di eminentia thenaris, membuat genggaman halus seperti memegang pena sangat sulit. Ibu jari terletak di samping jari telunjuk sebidang dengan telapak tangan (ape hand)."
+      }
+    },
+    "quiz": {
+      "origin": ["Retinaculum musculorum flexorum et os trapezium", "os trapezium dan retinaculum fleksor", "tuberculum ossis trapezii et retinaculum flexorum", "retinaculum flexorum"],
+      "insertion": ["Os metacarpi I (margo lateralis)", "os metacarpi I", "metakarpal I bagian lateral", "margo lateralis ossis metacarpi I", "corpus ossis metacarpi I"],
+      "nerve": ["Ramus recurrens nervi mediani", "R. recurrens n. mediani", "Nervus medianus", "N. medianus"],
+      "action": ["Oppositio pollicis", "oposisi ibu jari", "opposisi ibu jari", "oppositio"]
+    }
+  },
+  {
+    "key": "adductor-pollicis-muscle",
+    "kind": "muscle",
+    "model": false,
+    "la": "Musculus adductor pollicis",
+    "alt": ["M. adductor pollicis", "Adductor pollicis"],
+    "en": "Adductor pollicis",
+    "desc": {
+      "en": "Fan-shaped muscle lying deep in the web of the thumb, with an oblique head from the capitate and the bases of the second and third metacarpals and a transverse head from the shaft of the third metacarpal. The radial artery reaches the deep palm by passing between its two heads. It gives power to the grip between the thumb and the palm.",
+      "id": "Otot berbentuk kipas yang terletak dalam di lipatan ibu jari, dengan caput obliquum dari os capitatum dan basis os metacarpi II-III serta caput transversum dari corpus os metacarpi III. A. radialis mencapai bagian dalam telapak tangan dengan melewati celah di antara kedua kepalanya. Otot ini memberi kekuatan pada genggaman antara ibu jari dan telapak tangan."
+    },
+    "facts": {
+      "group": {"en": "Thenar group as listed in the module (it lies in its own adductor compartment, deep to the long flexor tendons)", "id": "Kelompok otot thenar menurut modul (terletak dalam kompartemen adductor tersendiri, di bawah tendo fleksor panjang)"},
+      "origin": {
+        "la": "Caput obliquum: os capitatum et bases ossium metacarpi II et III; caput transversum: facies palmaris corporis ossis metacarpi III",
+        "en": "Oblique head: capitate and the bases of the second and third metacarpals, with the nearby carpal ligaments. Transverse head: palmar surface of the shaft of the third metacarpal."
+      },
+      "insertion": {"la": "Basis phalangis proximalis pollicis (latus mediale), per os sesamoideum mediale", "en": "Medial side of the base of the proximal phalanx of the thumb, through the medial sesamoid bone"},
+      "action": {
+        "en": "Adducts the thumb, pulling it toward the palm and the index finger, mainly at the carpometacarpal joint. This gives power to the grip.",
+        "id": "Adduksi ibu jari, menariknya ke arah telapak tangan dan jari telunjuk, terutama pada sendi carpometacarpalis. Gerakan ini memberi kekuatan pada genggaman."
+      },
+      "nerve": {"la": "Ramus profundus nervi ulnaris", "roots": "C8-T1"},
+      "blood": ["Arcus palmaris profundus"],
+      "parts": ["oblique-head-of-adductor-pollicis", "transverse-head-of-adductor-pollicis"],
+      "clinical": {
+        "en": "In ulnar nerve palsy a patient asked to hold a sheet of paper between the thumb and the side of the index finger bends the tip of the thumb instead, using flexor pollicis longus (median nerve) to make up for the weak adductor (Froment sign).",
+        "id": "Pada kelumpuhan n. ulnaris, pasien yang diminta menjepit selembar kertas antara ibu jari dan sisi jari telunjuk akan menekuk ujung ibu jarinya, memakai m. flexor pollicis longus (n. medianus) untuk menggantikan m. adductor pollicis yang lemah (tanda Froment)."
+      },
+      "note": {
+        "en": "The module lists the trapezium as an origin of the oblique head. Standard references give the capitate and the bases of the second and third metacarpals, with the nearby carpal ligaments.",
+        "id": "Modul mencantumkan os trapezium sebagai origo caput obliquum. Buku acuan standar menyebut os capitatum dan basis os metacarpi II dan III, beserta ligamentum carpi di sekitarnya."
+      }
+    },
+    "quiz": {
+      "origin": ["Os capitatum et ossa metacarpi II-III", "caput obliquum: os capitatum dan basis metakarpal II-III; caput transversum: metakarpal III", "os capitatum, bases ossium metacarpi II et III, os metacarpi III", "metakarpal III", "os metacarpi III et os capitatum"],
+      "insertion": ["Basis phalangis proximalis pollicis (latus mediale)", "basis phalanx proximalis ibu jari bagian medial", "basis falang proksimal ibu jari (bagian medial)", "basis phalangis proximalis pollicis"],
+      "nerve": ["Ramus profundus nervi ulnaris", "R. profundus n. ulnaris", "Nervus ulnaris", "N. ulnaris"],
+      "action": ["Adductio pollicis", "adduksi ibu jari", "adduksi ibu jari pada sendi carpometacarpal", "adduksi ibu jari pada sendi metacarpophalangeal"]
+    }
+  },
+  {
+    "key": "oblique-head-of-adductor-pollicis",
+    "kind": "muscle-part",
+    "la": "Caput obliquum musculi adductoris pollicis",
+    "alt": ["Caput obliquum m. adductoris pollicis", "Caput obliquum adductoris pollicis", "Caput obliquum"],
+    "en": "Oblique head of adductor pollicis",
+    "desc": {
+      "en": "Upper head of adductor pollicis, arising from the capitate and the bases of the second and third metacarpals. Its fibers converge with those of the transverse head on the medial sesamoid of the thumb.",
+      "id": "Kepala atas m. adductor pollicis yang berasal dari os capitatum dan basis os metacarpi II dan III. Serabutnya menyatu dengan serabut caput transversum pada os sesamoideum mediale ibu jari."
+    },
+    "facts": {
+      "muscle": "adductor-pollicis-muscle",
+      "origin": {"la": "Os capitatum et bases ossium metacarpi II et III", "en": "Capitate and the bases of the second and third metacarpals"},
+      "insertion": {"la": "Basis phalangis proximalis pollicis (latus mediale)", "en": "Medial side of the base of the proximal phalanx of the thumb"}
+    }
+  },
+  {
+    "key": "transverse-head-of-adductor-pollicis",
+    "kind": "muscle-part",
+    "la": "Caput transversum musculi adductoris pollicis",
+    "alt": ["Caput transversum m. adductoris pollicis", "Caput transversum adductoris pollicis", "Caput transversum"],
+    "en": "Transverse head of adductor pollicis",
+    "desc": {
+      "en": "Lower, triangular head arising from the palmar surface of the shaft of the third metacarpal. Its fibers run horizontally to the thumb, and its lower border lies in the web between the thumb and the index finger.",
+      "id": "Kepala bawah berbentuk segitiga yang berasal dari permukaan palmar corpus os metacarpi III. Serabutnya berjalan mendatar ke ibu jari, dan tepi bawahnya terletak di lipatan antara ibu jari dan jari telunjuk."
+    },
+    "facts": {
+      "muscle": "adductor-pollicis-muscle",
+      "origin": {"la": "Facies palmaris corporis ossis metacarpi III", "en": "Palmar surface of the shaft of the third metacarpal"},
+      "insertion": {"la": "Basis phalangis proximalis pollicis (latus mediale)", "en": "Medial side of the base of the proximal phalanx of the thumb"}
+    }
+  },
+  {
+    "key": "abductor-digiti-minimi-of-hand",
+    "kind": "muscle",
+    "la": "Musculus abductor digiti minimi",
+    "alt": ["M. abductor digiti minimi", "Musculus abductor digiti minimi manus", "M. abductor digiti minimi manus", "Abductor digiti minimi", "Abductor digiti minimi manus"],
+    "en": "Abductor digiti minimi (hand)",
+    "desc": {
+      "en": "Most superficial and most medial of the three hypothenar muscles, running along the ulnar border of the palm from the pisiform to the proximal phalanx of the little finger.",
+      "id": "Otot hypothenar yang paling superfisial dan paling medial di antara ketiga otot hypothenar, berjalan sepanjang tepi ulnar telapak tangan dari os pisiforme ke phalanx proximalis jari kelingking."
+    },
+    "facts": {
+      "group": {"en": "Hypothenar muscles", "id": "Otot hypothenar"},
+      "origin": {"la": "Os pisiforme et tendo musculi flexoris carpi ulnaris", "en": "Pisiform and the tendon of flexor carpi ulnaris"},
+      "insertion": {"la": "Basis phalangis proximalis digiti minimi (latus mediale)", "en": "Medial side of the base of the proximal phalanx of the little finger"},
+      "action": {
+        "en": "Abducts the little finger and helps flex its proximal phalanx.",
+        "id": "Abduksi jari kelingking dan membantu fleksi phalanx proximalis-nya."
+      },
+      "nerve": {"la": "Ramus profundus nervi ulnaris", "roots": "C8-T1"},
+      "blood": ["Ramus palmaris profundus arteriae ulnaris"]
+    },
+    "quiz": {
+      "origin": ["Os pisiforme", "pisiform", "os pisiforme et tendo m. flexoris carpi ulnaris"],
+      "insertion": ["Basis phalangis proximalis digiti minimi", "basis phalanx proximalis jari kelingking", "basis falang proksimal jari kelima", "basis phalangis proximalis digiti V"],
+      "nerve": ["Ramus profundus nervi ulnaris", "R. profundus n. ulnaris", "Nervus ulnaris", "N. ulnaris"],
+      "action": ["Abductio digiti minimi", "abduksi jari kelingking", "abduksi jari kelima", "abduksi jari V"]
+    }
+  },
+  {
+    "key": "flexor-digiti-minimi-of-hand",
+    "kind": "muscle",
+    "la": "Musculus flexor digiti minimi brevis",
+    "alt": ["M. flexor digiti minimi brevis", "Musculus flexor digiti minimi brevis manus", "M. flexor digiti minimi brevis manus", "Musculus flexor digiti minimi manus", "M. flexor digiti minimi", "Flexor digiti minimi brevis"],
+    "en": "Flexor digiti minimi brevis (hand)",
+    "desc": {
+      "en": "Hypothenar muscle lying lateral to abductor digiti minimi, from the hook of the hamate to the proximal phalanx of the little finger. It varies in size and may be fused with the abductor.",
+      "id": "Otot hypothenar di lateral m. abductor digiti minimi, dari hamulus ossis hamati ke phalanx proximalis jari kelingking. Ukurannya bervariasi dan dapat menyatu dengan m. abductor digiti minimi."
+    },
+    "facts": {
+      "group": {"en": "Hypothenar muscles", "id": "Otot hypothenar"},
+      "origin": {"la": "Hamulus ossis hamati et retinaculum musculorum flexorum", "en": "Hook of the hamate and the flexor retinaculum"},
+      "insertion": {"la": "Basis phalangis proximalis digiti minimi (latus mediale)", "en": "Medial side of the base of the proximal phalanx of the little finger"},
+      "action": {
+        "en": "Flexes the proximal phalanx of the little finger at the metacarpophalangeal joint.",
+        "id": "Fleksi phalanx proximalis jari kelingking pada sendi metacarpophalangea."
+      },
+      "nerve": {"la": "Ramus profundus nervi ulnaris", "roots": "C8-T1"},
+      "blood": ["Ramus palmaris profundus arteriae ulnaris"]
+    },
+    "quiz": {
+      "origin": ["Hamulus ossis hamati et retinaculum musculorum flexorum", "hamulus hamatum dan retinaculum fleksor", "hamulus ossis hamati", "hamulus hamati"],
+      "insertion": ["Basis phalangis proximalis digiti minimi", "basis phalanx proximalis jari kelingking", "basis falang proksimal jari kelima", "basis phalangis proximalis digiti V"],
+      "nerve": ["Ramus profundus nervi ulnaris", "R. profundus n. ulnaris", "Nervus ulnaris", "N. ulnaris"],
+      "action": ["Flexio digiti minimi (articulatio metacarpophalangea)", "fleksi jari kelingking pada sendi metacarpophalangeal", "fleksi jari kelingking", "fleksi jari kelima"]
+    }
+  },
+  {
+    "key": "opponens-digiti-minimi-muscle-of-hand",
+    "kind": "muscle",
+    "la": "Musculus opponens digiti minimi",
+    "alt": ["M. opponens digiti minimi", "Musculus opponens digiti minimi manus", "M. opponens digiti minimi manus", "Opponens digiti minimi"],
+    "en": "Opponens digiti minimi",
+    "desc": {
+      "en": "Deepest hypothenar muscle, lying under the abductor and flexor of the little finger. It inserts along the fifth metacarpal and cups the palm by bringing the little finger toward the thumb.",
+      "id": "Otot hypothenar terdalam, terletak di bawah m. abductor digiti minimi dan m. flexor digiti minimi brevis. Otot ini berinsersio sepanjang os metacarpi V dan membuat telapak tangan mencekung dengan mendekatkan jari kelingking ke ibu jari."
+    },
+    "facts": {
+      "group": {"en": "Hypothenar muscles", "id": "Otot hypothenar"},
+      "origin": {"la": "Hamulus ossis hamati et retinaculum musculorum flexorum", "en": "Hook of the hamate and the flexor retinaculum"},
+      "insertion": {"la": "Margo medialis ossis metacarpi V", "en": "Medial border of the fifth metacarpal"},
+      "action": {
+        "en": "Draws the fifth metacarpal forward and rotates it laterally, bringing the little finger into opposition with the thumb.",
+        "id": "Menarik os metacarpi V ke depan dan merotasikannya ke lateral sehingga jari kelingking berhadapan (oposisi) dengan ibu jari."
+      },
+      "nerve": {"la": "Ramus profundus nervi ulnaris", "roots": "C8-T1"},
+      "blood": ["Ramus palmaris profundus arteriae ulnaris"]
+    },
+    "quiz": {
+      "origin": ["Hamulus ossis hamati et retinaculum musculorum flexorum", "hamulus hamatum dan retinaculum fleksor", "hamulus ossis hamati", "hamulus hamati"],
+      "insertion": ["Margo medialis ossis metacarpi V", "os metacarpi V", "metakarpal V bagian medial", "metakarpal V (bagian medial)", "corpus ossis metacarpi V"],
+      "nerve": ["Ramus profundus nervi ulnaris", "R. profundus n. ulnaris", "Nervus ulnaris", "N. ulnaris"],
+      "action": ["Oppositio digiti minimi", "oposisi jari kelingking", "opposisi jari kelima", "oposisi jari V"]
+    }
+  },
+  {
+    "key": "palmaris-brevis-muscle",
+    "kind": "muscle",
+    "model": false,
+    "la": "Musculus palmaris brevis",
+    "alt": ["M. palmaris brevis", "Palmaris brevis"],
+    "en": "Palmaris brevis",
+    "desc": {
+      "en": "Thin sheet of muscle lying in the superficial fascia over the hypothenar eminence, running from the palmar aponeurosis to the skin of the ulnar border of the hand. It covers the ulnar nerve and artery at the wrist and is the only muscle supplied by the superficial branch of the ulnar nerve.",
+      "id": "Lembaran otot tipis di dalam fascia superficialis di atas eminentia hypothenaris, berjalan dari aponeurosis palmaris ke kulit tepi ulnar tangan. Otot ini menutupi n. ulnaris dan a. ulnaris di pergelangan tangan dan merupakan satu-satunya otot yang dipersarafi r. superficialis n. ulnaris."
+    },
+    "facts": {
+      "group": {"en": "Hypothenar group as listed in the module (a subcutaneous muscle over the hypothenar eminence)", "id": "Kelompok hypothenar menurut modul (otot subkutan di atas eminentia hypothenaris)"},
+      "origin": {"la": "Margo medialis aponeurosis palmaris et retinaculum musculorum flexorum", "en": "Medial border of the palmar aponeurosis and the flexor retinaculum"},
+      "insertion": {"la": "Cutis marginis ulnaris palmae", "en": "Skin of the medial (ulnar) border of the palm"},
+      "action": {
+        "en": "Wrinkles the skin over the hypothenar eminence and deepens the hollow of the palm, which helps the grip.",
+        "id": "Mengerutkan kulit di atas eminentia hypothenaris dan memperdalam cekungan telapak tangan sehingga membantu genggaman."
+      },
+      "nerve": {"la": "Ramus superficialis nervi ulnaris", "roots": "C8-T1"},
+      "blood": ["Arcus palmaris superficialis"]
+    },
+    "quiz": {
+      "origin": ["Aponeurosis palmaris", "aponeurosis palmaris et retinaculum flexorum", "margo medialis aponeurosis palmaris", "retinaculum musculorum flexorum"],
+      "insertion": ["Cutis marginis ulnaris palmae", "kulit sisi medial telapak tangan", "kulit pada sisi medial palmar", "kulit tepi ulnar telapak tangan"],
+      "nerve": ["Ramus superficialis nervi ulnaris", "R. superficialis n. ulnaris", "Nervus ulnaris", "N. ulnaris"],
+      "action": ["Corrugatio cutis eminentiae hypothenaris", "mengerutkan kulit hypothenar", "menegangkan kulit telapak tangan", "memperdalam cekungan telapak tangan"]
+    }
+  },
+  {
+    "key": "lumbrical-muscles-of-hand",
+    "kind": "muscle",
+    "la": "Musculi lumbricales manus",
+    "alt": ["Mm. lumbricales", "Musculi lumbricales", "Mm. lumbricales manus", "Mm. lumbricalis", "Musculi lumbricalis", "M. lumbricalis"],
+    "en": "Lumbricals (hand)",
+    "desc": {
+      "en": "Four small worm-shaped muscles in the palm that arise from the tendons of flexor digitorum profundus and have no attachment to bone. Each passes in front of the deep transverse metacarpal ligament, on the radial side of a metacarpophalangeal joint, to the extensor expansion, so it links the finger flexors with the extensors. The first and second are supplied by the median nerve, the third and fourth by the ulnar nerve.",
+      "id": "Empat otot kecil berbentuk cacing di telapak tangan yang berasal dari tendo m. flexor digitorum profundus dan tidak melekat pada tulang. Masing-masing berjalan di depan lig. metacarpale transversum profundum, pada sisi radial sendi metacarpophalangea, menuju aponeurosis dorsalis sehingga menghubungkan fleksor dan ekstensor jari. Mm. lumbricales I dan II dipersarafi n. medianus, sedangkan III dan IV oleh n. ulnaris."
+    },
+    "facts": {
+      "group": {"en": "Short muscles of the hand (central compartment of the palm)", "id": "Otot telapak tangan (otot pendek tangan, kompartemen sentral)"},
+      "origin": {
+        "la": "Tendines musculi flexoris digitorum profundi: I-II a latere laterali tendinum digitorum II et III; III-IV a lateribus adjacentibus tendinum digitorum III-V",
+        "en": "Tendons of flexor digitorum profundus: the first and second (unipennate) from the lateral sides of the tendons to digits 2 and 3; the third and fourth (bipennate) from the adjacent sides of the tendons to digits 3-4 and 4-5"
+      },
+      "insertion": {"la": "Latus laterale aponeurosis dorsalis digitorum II-V", "en": "Lateral (radial) sides of the extensor expansions of digits 2-5"},
+      "action": {
+        "en": "Flex the fingers at the metacarpophalangeal joints and extend them at the interphalangeal joints, the position used to hold a playing card or a pen.",
+        "id": "Fleksi jari pada sendi metacarpophalangea dan ekstensi pada sendi interphalangea, posisi yang dipakai saat memegang kartu atau pena."
+      },
+      "nerve": {"la": "Mm. lumbricales I-II: nervus medianus; III-IV: ramus profundus nervi ulnaris", "roots": "C8-T1"},
+      "blood": ["Arcus palmaris superficialis", "Arteriae digitales palmares communes", "Arteriae metacarpales palmares"],
+      "clinical": {
+        "en": "In an ulnar nerve lesion at the wrist the third and fourth lumbricals and the interossei are paralyzed. The ring and little fingers hyperextend at the metacarpophalangeal joints and stay flexed at the interphalangeal joints (claw hand).",
+        "id": "Pada lesi n. ulnaris setinggi pergelangan tangan, mm. lumbricales III-IV dan mm. interossei lumpuh. Jari manis dan kelingking hiperekstensi pada sendi metacarpophalangea dan tetap fleksi pada sendi interphalangea (claw hand)."
+      }
+    },
+    "quiz": {
+      "origin": ["Tendines musculi flexoris digitorum profundi", "tendo m. flexor digitorum profundus", "tendon m. flexor digitorum profundus jari II-V", "tendines m. flexoris digitorum profundi"],
+      "insertion": ["Aponeurosis dorsalis digitorum II-V", "extensor expansion jari II-V", "basis phalanx proximalis jari II-V (melalui aponeurosis dorsalis)", "aponeurosis dorsalis"],
+      "nerve": ["Nervus medianus et nervus ulnaris", "N. medianus (I-II) dan N. ulnaris (III-IV)", "N. medianus et R. profundus n. ulnaris", "N. medianus dan N. ulnaris"],
+      "action": ["Flexio articulationum metacarpophalangearum et extensio articulationum interphalangearum", "fleksi MCP dan ekstensi IP jari II-V", "fleksi sendi metacarpophalangeal dan ekstensi sendi interphalangeal", "fleksi metacarpophalangeal, ekstensi interphalangeal"]
+    }
+  },
+  {
+    "key": "palmar-interossei-muscles",
+    "kind": "muscle",
+    "la": "Musculi interossei palmares",
+    "alt": ["Mm. interossei palmares", "Musculi interossei palmaris", "Mm. interossei palmaris", "M. interossei palmaris", "Musculi interossei volares", "Mm. interossei volares"],
+    "en": "Palmar interossei",
+    "desc": {
+      "en": "Three small unipennate muscles on the palmar side of the metacarpals of digits 2, 4 and 5. Each arises from the side of its metacarpal that faces the middle finger and pulls its finger toward the middle finger, remembered as PAD (palmar adduct).",
+      "id": "Tiga otot unipennatus kecil pada sisi palmar os metacarpi jari II, IV dan V. Masing-masing berasal dari sisi os metacarpi yang menghadap jari tengah dan menarik jarinya mendekati jari tengah, dihafal sebagai PAD (palmar adduksi)."
+    },
+    "facts": {
+      "group": {"en": "Short muscles of the hand (interosseous compartments)", "id": "Otot telapak tangan (otot pendek tangan, kompartemen interosseus)"},
+      "origin": {
+        "la": "Facies palmares ossium metacarpi II, IV et V (latera digito medio adversa)",
+        "en": "Palmar surfaces of the second, fourth and fifth metacarpals, on the side facing the middle finger (medial side of the second, lateral sides of the fourth and fifth)"
+      },
+      "insertion": {
+        "la": "Bases phalangum proximalium et aponeuroses dorsales digitorum II, IV et V (latera digito medio adversa)",
+        "en": "Bases of the proximal phalanges and the extensor expansions of digits 2, 4 and 5, on the side facing the middle finger"
+      },
+      "action": {
+        "en": "Adduct digits 2, 4 and 5 toward the axis of the middle finger, and help the lumbricals flex the metacarpophalangeal joints and extend the interphalangeal joints.",
+        "id": "Adduksi jari II, IV dan V ke arah sumbu jari tengah, serta membantu mm. lumbricales melakukan fleksi sendi metacarpophalangea dan ekstensi sendi interphalangea."
+      },
+      "nerve": {"la": "Ramus profundus nervi ulnaris", "roots": "C8-T1"},
+      "blood": ["Arteriae metacarpales palmares"],
+      "note": {
+        "en": "The module places all the insertions on the medial side of the proximal phalanges. Only the interosseous for the index finger attaches on the medial side; those for the ring and little fingers attach on the lateral side, so that each pulls toward the middle finger. Some books also count a small first palmar interosseous for the thumb, which makes four.",
+        "id": "Modul menyebut semua insersio pada sisi medial phalanx proximalis. Hanya m. interosseus palmaris untuk jari telunjuk yang melekat di sisi medial; untuk jari manis dan kelingking melekat di sisi lateral, sehingga masing-masing menarik ke arah jari tengah. Sebagian buku juga menghitung m. interosseus palmaris kecil untuk ibu jari sehingga jumlahnya menjadi empat."
+      }
+    },
+    "quiz": {
+      "origin": ["Facies palmares ossium metacarpi II, IV et V", "permukaan palmar metakarpal II, IV dan V", "ossa metacarpi II, IV et V", "metakarpal II, IV, V"],
+      "insertion": ["Bases phalangum proximalium digitorum II, IV et V", "basis phalanx proximalis jari II, IV dan V", "basis falang proksimal jari II, IV, V", "aponeuroses dorsales digitorum II, IV et V"],
+      "nerve": ["Ramus profundus nervi ulnaris", "R. profundus n. ulnaris", "Nervus ulnaris", "N. ulnaris"],
+      "action": ["Adductio digitorum", "adduksi jari", "adduksi jari II, IV dan V", "adduksi jari ke arah jari tengah", "PAD"]
+    }
+  },
+  {
+    "key": "dorsal-interossei-muscles-of-hand",
+    "kind": "muscle",
+    "la": "Musculi interossei dorsales manus",
+    "alt": ["Mm. interossei dorsales", "Musculi interossei dorsales", "Mm. interossei dorsales manus", "Musculi interossei dorsalis", "Mm. interossei dorsalis", "M. interossei dorsalis"],
+    "en": "Dorsal interossei (hand)",
+    "desc": {
+      "en": "Four bipennate muscles filling the spaces between the metacarpals, each arising by two heads from the adjacent bones. They abduct the fingers away from the axis through the middle finger (DAB); the middle finger receives two of them and can move to either side. The first dorsal interosseous, in the web of the thumb, is the largest, and its wasting is an early visible sign of ulnar nerve damage.",
+      "id": "Empat otot bipennatus yang mengisi ruang di antara ossa metacarpi, masing-masing berasal dengan dua kepala dari tulang yang berdekatan. Otot ini mengabduksi jari menjauhi sumbu yang melalui jari tengah (DAB); jari tengah mendapat dua otot sehingga dapat bergerak ke kedua sisi. M. interosseus dorsalis I di lipatan ibu jari adalah yang terbesar, dan atrofinya merupakan tanda awal yang terlihat pada cedera n. ulnaris."
+    },
+    "facts": {
+      "group": {"en": "Short muscles of the hand (interosseous compartments)", "id": "Otot telapak tangan (otot pendek tangan, kompartemen interosseus)"},
+      "origin": {"la": "Latera adjacentia ossium metacarpi I-V (capitibus binis)", "en": "Adjacent sides of metacarpals 1-5, each muscle by two heads"},
+      "insertion": {
+        "la": "Bases phalangum proximalium et aponeuroses dorsales digitorum II-IV",
+        "en": "Bases of the proximal phalanges and extensor expansions of digits 2-4: the first on the lateral side of the index finger, the second and third on either side of the middle finger, the fourth on the medial side of the ring finger"
+      },
+      "action": {
+        "en": "Abduct digits 2-4 away from the axis of the middle finger, and help the lumbricals flex the metacarpophalangeal joints and extend the interphalangeal joints.",
+        "id": "Abduksi jari II-IV menjauhi sumbu jari tengah, serta membantu mm. lumbricales melakukan fleksi sendi metacarpophalangea dan ekstensi sendi interphalangea."
+      },
+      "nerve": {"la": "Ramus profundus nervi ulnaris", "roots": "C8-T1"},
+      "blood": ["Arteriae metacarpales dorsales", "Arteriae metacarpales palmares"],
+      "note": {
+        "en": "The module describes abduction of digits II-IV away from the middle finger. The reference line is the axis through the middle finger itself, which the second and third dorsal interossei move to either side.",
+        "id": "Modul menyebut abduksi jari II-IV menjauhi jari tengah. Garis acuannya adalah sumbu yang melalui jari tengah itu sendiri, dan jari tengah digerakkan ke kedua sisi oleh m. interosseus dorsalis II dan III."
+      }
+    },
+    "quiz": {
+      "origin": ["Latera adjacentia ossium metacarpi I-V", "permukaan metakarpal yang berdekatan (I-V)", "ossa metacarpi I-V", "dua kepala dari metakarpal yang berdekatan"],
+      "insertion": ["Bases phalangum proximalium digitorum II-IV", "basis phalanx proximalis jari II-IV", "basis falang proksimal jari II-IV", "aponeuroses dorsales digitorum II-IV"],
+      "nerve": ["Ramus profundus nervi ulnaris", "R. profundus n. ulnaris", "Nervus ulnaris", "N. ulnaris"],
+      "action": ["Abductio digitorum", "abduksi jari", "abduksi jari II-IV", "abduksi jari menjauhi jari tengah", "DAB"]
+    }
+  }
+]

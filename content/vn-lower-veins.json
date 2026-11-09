@@ -1,0 +1,797 @@
+[
+  {
+    "key": "dorsal-digital-veins-of-foot",
+    "kind": "vein",
+    "la": "Venae digitales dorsales pedis",
+    "alt": ["Vv. digitales dorsales pedis", "Vena digitalis dorsalis pedis"],
+    "en": "Dorsal digital veins of foot",
+    "desc": {
+      "en": "Small veins along the dorsal margins of the toes. The veins of adjacent toes unite in each toe cleft to form the vv. metatarsales dorsales, which open into the arcus venosus dorsalis pedis.",
+      "id": "Vena kecil di sepanjang tepi dorsal jari-jari kaki. Vena dari dua jari yang bersebelahan bersatu di setiap celah jari membentuk vv. metatarsales dorsales, yang bermuara ke arcus venosus dorsalis pedis."
+    },
+    "facts": {
+      "drains": {
+        "en": "Skin and subcutaneous tissue of the dorsum of the toes. The medial vein of the big toe and the lateral vein of the little toe join the two ends of the arch directly, where the marginal veins begin.",
+        "id": "Kulit dan jaringan subkutan dorsum jari kaki. Vena sisi medial ibu jari kaki dan vena sisi lateral jari kelingking kaki langsung bergabung dengan kedua ujung arcus, tempat vena marginalis dimulai."
+      },
+      "continues": "Venae metatarsales dorsales"
+    },
+    "quiz": {
+      "drains": ["Venae metatarsales dorsales", "Vv. metatarsales dorsales", "Venae metatarseae dorsales", "Arcus venosus dorsalis pedis"]
+    }
+  },
+  {
+    "key": "dorsal-metatarsal-veins",
+    "kind": "vein",
+    "la": "Venae metatarsales dorsales",
+    "alt": ["Vv. metatarsales dorsales", "Venae metatarseae dorsales", "Vv. metatarseae dorsales"],
+    "en": "Dorsal metatarsal veins",
+    "desc": {
+      "en": "Superficial veins formed in the toe clefts by the union of the dorsal digital veins. They run back over the metatarsal spaces and open into the arcus venosus dorsalis pedis; near the clefts they also receive the vv. intercapitulares from the sole.",
+      "id": "Vena superfisial yang terbentuk di celah jari kaki dari gabungan vv. digitales dorsales pedis. Vena ini berjalan ke proksimal di atas spatium interosseum metatarsi lalu bermuara ke arcus venosus dorsalis pedis; di dekat celah jari vena ini juga menerima vv. intercapitulares dari telapak kaki."
+    },
+    "facts": {
+      "from": "Venae digitales dorsales pedis",
+      "drains": {
+        "en": "The dorsum of the toes and the distal dorsum of the foot, and part of the sole through the vv. intercapitulares.",
+        "id": "Dorsum jari kaki dan bagian distal punggung kaki, serta sebagian telapak kaki melalui vv. intercapitulares."
+      },
+      "continues": "Arcus venosus dorsalis pedis"
+    },
+    "quiz": {
+      "from": ["Venae digitales dorsales pedis", "Vv. digitales dorsales pedis"],
+      "drains": ["Arcus venosus dorsalis pedis"]
+    }
+  },
+  {
+    "key": "intercapitular-veins-of-foot",
+    "kind": "vein",
+    "la": "Venae intercapitulares",
+    "alt": ["Venae intercapitulares pedis", "Vv. intercapitulares", "Vv. intercapitulares pedis"],
+    "en": "Intercapitular veins of foot",
+    "desc": {
+      "en": "Short communicating veins that pass between the heads of the metatarsals. They carry blood from the plantar veins of the toes and sole to the dorsal metatarsal veins and the arcus venosus dorsalis pedis.",
+      "id": "Vena penghubung pendek yang lewat di antara caput ossa metatarsi. Vena ini membawa darah dari vena plantar jari dan telapak kaki ke vv. metatarsales dorsales dan arcus venosus dorsalis pedis."
+    },
+    "facts": {
+      "from": "Venae digitales plantares",
+      "drains": {
+        "en": "The plantar side of the toes and the distal sole, so that part of the blood of the sole reaches the superficial veins of the dorsum.",
+        "id": "Sisi plantar jari kaki dan telapak kaki bagian distal, sehingga sebagian darah telapak kaki sampai ke vena superfisial di punggung kaki."
+      },
+      "continues": "Venae metatarsales dorsales"
+    },
+    "quiz": {
+      "from": ["Venae digitales plantares", "Vv. digitales plantares"],
+      "drains": ["Venae metatarsales dorsales", "Vv. metatarsales dorsales", "Arcus venosus dorsalis pedis"]
+    }
+  },
+  {
+    "key": "dorsal-venous-arch-of-foot",
+    "kind": "vein",
+    "la": "Arcus venosus dorsalis pedis",
+    "alt": ["Arcus venosus dorsalis"],
+    "en": "Dorsal venous arch of foot",
+    "desc": {
+      "en": "Superficial venous arch in the subcutaneous tissue of the dorsum of the foot, over the distal parts of the metatarsals. It receives the dorsal metatarsal veins; its medial end continues as v. saphena magna and its lateral end as v. saphena parva.",
+      "id": "Lengkung vena superfisial di jaringan subkutan punggung kaki, di atas bagian distal ossa metatarsi. Arcus ini menerima vv. metatarsales dorsales; ujung medialnya berlanjut sebagai v. saphena magna dan ujung lateralnya sebagai v. saphena parva."
+    },
+    "facts": {
+      "from": "Venae metatarsales dorsales",
+      "course": {
+        "en": "Runs across the dorsum of the foot, convex distally, just proximal to the toes. Proximal to it lies an irregular network, the rete venosum dorsale pedis. At each end it is joined by a dorsal digital vein (of the big toe medially, of the little toe laterally) to form the v. marginalis medialis and the v. marginalis lateralis, which become the two saphenous veins.",
+        "id": "Berjalan melintang di punggung kaki dengan sisi cembung ke distal, tepat di proksimal jari-jari kaki. Di proksimalnya terdapat anyaman vena yang tidak teratur, yaitu rete venosum dorsale pedis. Di tiap ujungnya arcus bergabung dengan satu v. digitalis dorsalis (dari ibu jari kaki di medial, dari jari kelingking kaki di lateral) membentuk v. marginalis medialis dan v. marginalis lateralis, yang kemudian menjadi kedua vena saphena."
+      },
+      "branches": ["Venae metatarsales dorsales", "Venae intercapitulares"],
+      "drains": {
+        "en": "The toes and the dorsum of the foot, and part of the sole through the vv. intercapitulares.",
+        "id": "Jari-jari kaki dan punggung kaki, serta sebagian telapak kaki melalui vv. intercapitulares."
+      },
+      "continues": "Vena saphena magna et vena saphena parva",
+      "clinical": {
+        "en": "Easy to see on the dorsum of the foot, especially when standing, and used for intravenous cannulation when the veins of the hand cannot be used, often in infants.",
+        "id": "Mudah terlihat di punggung kaki, terutama saat berdiri, dan dipakai untuk pemasangan kanula intravena bila vena di tangan tidak dapat digunakan, sering pada bayi."
+      }
+    },
+    "quiz": {
+      "from": ["Venae metatarsales dorsales", "Vv. metatarsales dorsales"],
+      "continues": ["Vena saphena magna et vena saphena parva", "V. saphena magna dan V. saphena parva", "Vena saphena magna dan vena saphena parva", "V. saphena magna et V. saphena parva"]
+    }
+  },
+  {
+    "key": "great-saphenous-vein",
+    "kind": "vein",
+    "la": "Vena saphena magna",
+    "alt": ["V. saphena magna"],
+    "en": "Great saphenous vein",
+    "desc": {
+      "en": "Longest vein of the body and the main superficial vein of the lower limb. It begins at the medial end of the arcus venosus dorsalis pedis, passes in front of the malleolus medialis, ascends along the medial side of the leg, knee and thigh, and ends in v. femoralis after passing through the hiatus saphenus.",
+      "id": "Vena terpanjang di tubuh dan vena superfisial utama ekstremitas inferior. Vena ini dimulai dari ujung medial arcus venosus dorsalis pedis, lewat di depan malleolus medialis, naik di sisi medial tungkai bawah, lutut dan paha, lalu bermuara ke v. femoralis setelah melewati hiatus saphenus."
+    },
+    "facts": {
+      "from": "Arcus venosus dorsalis pedis (vena marginalis medialis)",
+      "course": {
+        "en": "Continues the v. marginalis medialis and passes anterior to the malleolus medialis, where n. saphenus lies next to it. It ascends along the medial border of the tibia, passes behind the condylus medialis femoris about a hand's breadth behind the medial border of the patella, and runs up the medial and then anteromedial thigh in the subcutaneous tissue. It pierces the fascia cribrosa of the hiatus saphenus, about 3-4 cm inferolateral to the tuberculum pubicum, and ends in v. femoralis in the trigonum femorale (saphenofemoral junction). It has many valves, more in the leg than in the thigh, and vv. perforantes connect it with the deep veins.",
+        "id": "Melanjutkan v. marginalis medialis dan lewat di depan malleolus medialis, tempat n. saphenus berada di sampingnya. Vena naik di sepanjang tepi medial tibia, lewat di belakang condylus medialis femoris kira-kira selebar telapak tangan di belakang tepi medial patella, lalu naik di sisi medial kemudian anteromedial paha di jaringan subkutan. Vena menembus fascia cribrosa pada hiatus saphenus, kira-kira 3-4 cm inferolateral dari tuberculum pubicum, dan bermuara ke v. femoralis di trigonum femorale (saphenofemoral junction). Vena ini memiliki banyak katup, lebih banyak di tungkai bawah daripada di paha, dan dihubungkan dengan vena dalam oleh vv. perforantes."
+      },
+      "branches": ["Vena saphena accessoria", "Vena circumflexa ilium superficialis", "Vena epigastrica superficialis", "Venae pudendae externae"],
+      "drains": {
+        "en": "Superficial tissues of the medial side of the foot, the medial and anterior leg and most of the thigh. Near its end it also receives blood from the lower anterior abdominal wall, the inguinal region and the external genitalia.",
+        "id": "Jaringan superfisial sisi medial kaki, sisi medial dan anterior tungkai bawah serta sebagian besar paha. Di dekat muaranya vena ini juga menerima darah dari dinding perut anterior bagian bawah, regio inguinalis dan genitalia eksterna."
+      },
+      "continues": "Vena femoralis",
+      "clinical": {
+        "en": "Varicose veins: when its valves fail, most often at the saphenofemoral junction or in incompetent perforating veins, blood flows backward and the vein and its tributaries become dilated and tortuous, mainly on the medial leg. Saphenous cutdown: its constant position just in front of the malleolus medialis allows venous access when other veins have collapsed; n. saphenus lies beside it and may be injured, leaving pain or numbness along the medial border of the foot. Graft: it is harvested for coronary artery bypass grafting (CABG) and sewn in reversed so that its valves do not block the flow. Thrombosis of this superficial vein is superficial thrombophlebitis; a clot near the saphenofemoral junction can extend into v. femoralis and become a DVT.",
+        "id": "Varises: bila katupnya tidak berfungsi, paling sering di saphenofemoral junction atau pada vv. perforantes yang inkompeten, darah mengalir balik sehingga vena ini dan cabang-cabangnya melebar dan berkelok-kelok, terutama di sisi medial tungkai bawah. Venaseksi (saphenous cutdown): letaknya yang tetap tepat di depan malleolus medialis memungkinkan akses vena ketika vena lain kolaps; n. saphenus berada di sampingnya dan dapat cedera sehingga timbul nyeri atau mati rasa di tepi medial kaki. Graft: vena ini diambil untuk bedah pintas arteri koroner (CABG) dan dijahit dalam posisi terbalik agar katupnya tidak menghambat aliran. Trombosis pada vena superfisial ini disebut tromboflebitis superfisial; bekuan di dekat saphenofemoral junction dapat meluas ke v. femoralis dan menjadi DVT."
+      }
+    },
+    "quiz": {
+      "from": ["Arcus venosus dorsalis pedis", "Vena marginalis medialis", "V. marginalis medialis"],
+      "drains": ["Vena femoralis", "V. femoralis"]
+    }
+  },
+  {
+    "key": "small-saphenous-vein",
+    "kind": "vein",
+    "la": "Vena saphena parva",
+    "alt": ["V. saphena parva"],
+    "en": "Small saphenous vein",
+    "desc": {
+      "en": "Superficial vein of the lateral side of the foot and the back of the leg. It begins at the lateral end of the arcus venosus dorsalis pedis, passes behind the malleolus lateralis with n. suralis, ascends in the midline of the calf and ends in v. poplitea in the fossa poplitea.",
+      "id": "Vena superfisial sisi lateral kaki dan bagian belakang tungkai bawah. Vena ini dimulai dari ujung lateral arcus venosus dorsalis pedis, lewat di belakang malleolus lateralis bersama n. suralis, naik di garis tengah betis lalu bermuara ke v. poplitea di fossa poplitea."
+    },
+    "facts": {
+      "from": "Arcus venosus dorsalis pedis (vena marginalis lateralis)",
+      "course": {
+        "en": "Continues the v. marginalis lateralis, passes posterior to the malleolus lateralis and ascends along the lateral border of the tendo calcaneus, then in the midline of the calf. It pierces the fascia cruris, runs up between the two heads of m. gastrocnemius and ends in v. poplitea, usually a little above the level of the knee joint (saphenopopliteal junction). It has several valves and communicates with v. saphena magna and with the deep veins. Its ending varies: it may continue up the back of the thigh to join v. saphena magna or a deep vein.",
+        "id": "Melanjutkan v. marginalis lateralis, lewat di belakang malleolus lateralis lalu naik di sepanjang tepi lateral tendo calcaneus, kemudian di garis tengah betis. Vena menembus fascia cruris, naik di antara kedua caput m. gastrocnemius dan bermuara ke v. poplitea, biasanya sedikit di atas sendi lutut (saphenopopliteal junction). Vena ini memiliki beberapa katup dan berhubungan dengan v. saphena magna serta vena dalam. Muaranya bervariasi: vena dapat terus naik di belakang paha dan bergabung dengan v. saphena magna atau dengan vena dalam."
+      },
+      "drains": {
+        "en": "Superficial tissues of the lateral side of the foot, the heel, and the posterior and lateral leg.",
+        "id": "Jaringan superfisial sisi lateral kaki, tumit, serta sisi posterior dan lateral tungkai bawah."
+      },
+      "continues": "Vena poplitea",
+      "clinical": {
+        "en": "Reflux at the saphenopopliteal junction gives varicose veins on the back and lateral side of the calf. N. suralis runs close to it behind the malleolus lateralis and along the calf, so surgery on this vein can leave numbness along the lateral border of the foot.",
+        "id": "Aliran balik di saphenopopliteal junction menimbulkan varises di bagian belakang dan sisi lateral betis. N. suralis berjalan dekat vena ini di belakang malleolus lateralis dan di sepanjang betis, sehingga operasi pada vena ini dapat menimbulkan mati rasa di tepi lateral kaki."
+      }
+    },
+    "quiz": {
+      "from": ["Arcus venosus dorsalis pedis", "Vena marginalis lateralis", "V. marginalis lateralis"],
+      "drains": ["Vena poplitea", "V. poplitea"]
+    }
+  },
+  {
+    "key": "superficial-epigastric-vein",
+    "kind": "vein",
+    "la": "Vena epigastrica superficialis",
+    "alt": ["V. epigastrica superficialis"],
+    "en": "Superficial epigastric vein",
+    "desc": {
+      "en": "Superficial vein of the lower anterior abdominal wall that runs with the a. epigastrica superficialis. It descends across the ligamentum inguinale and ends in v. saphena magna close to the hiatus saphenus.",
+      "id": "Vena superfisial dinding perut anterior bagian bawah yang berjalan bersama a. epigastrica superficialis. Vena ini turun menyilang ligamentum inguinale dan bermuara ke v. saphena magna di dekat hiatus saphenus."
+    },
+    "facts": {
+      "drains": {
+        "en": "Skin and subcutaneous tissue of the anterior abdominal wall below the umbilicus.",
+        "id": "Kulit dan jaringan subkutan dinding perut anterior di bawah umbilicus."
+      },
+      "continues": "Vena saphena magna",
+      "clinical": {
+        "en": "Above, it anastomoses with v. thoracica lateralis through the vv. thoracoepigastricae. When the vena cava inferior is obstructed, this channel dilates and carries blood from the lower body to v. axillaris and the vena cava superior, and the enlarged veins become visible on the trunk. Around the umbilicus it also connects with the vv. paraumbilicales, which dilate in portal hypertension (caput medusae).",
+        "id": "Di atas, vena ini beranastomosis dengan v. thoracica lateralis melalui vv. thoracoepigastricae. Bila vena cava inferior tersumbat, jalur ini melebar dan membawa darah dari tubuh bagian bawah ke v. axillaris dan vena cava superior, sehingga vena yang melebar tampak di dinding batang tubuh. Di sekitar umbilicus vena ini juga berhubungan dengan vv. paraumbilicales, yang melebar pada hipertensi portal (caput medusae)."
+      }
+    },
+    "quiz": {
+      "drains": ["Vena saphena magna", "V. saphena magna"]
+    }
+  },
+  {
+    "key": "external-pudendal-veins",
+    "kind": "vein",
+    "la": "Venae pudendae externae",
+    "alt": ["Vv. pudendae externae", "Venae pudendales externae", "Vv. pudendales externae", "Vena pudenda externa", "V. pudenda externa"],
+    "en": "External pudendal veins",
+    "desc": {
+      "en": "Small superficial veins that accompany the aa. pudendae externae. They drain the skin of the pubic region and the anterior part of the external genitalia and end in v. saphena magna near the hiatus saphenus.",
+      "id": "Vena superfisial kecil yang menyertai aa. pudendae externae. Vena ini mengalirkan darah dari kulit regio pubica dan bagian anterior genitalia eksterna lalu bermuara ke v. saphena magna di dekat hiatus saphenus."
+    },
+    "facts": {
+      "branches": ["Venae dorsales superficiales penis (clitoridis)", "Venae scrotales (labiales) anteriores"],
+      "drains": {
+        "en": "Skin of the pubic region, the anterior scrotum or labia majora and, through the superficial dorsal veins, the skin of the penis or clitoris.",
+        "id": "Kulit regio pubica, bagian anterior scrotum atau labia majora dan, melalui vv. dorsales superficiales, kulit penis atau clitoris."
+      },
+      "continues": "Vena saphena magna"
+    },
+    "quiz": {
+      "drains": ["Vena saphena magna", "V. saphena magna"]
+    }
+  },
+  {
+    "key": "plantar-digital-veins",
+    "kind": "vein",
+    "la": "Venae digitales plantares",
+    "alt": ["Vv. digitales plantares"],
+    "en": "Plantar digital veins",
+    "desc": {
+      "en": "Small veins on the plantar side of the toes. They join to form the vv. metatarsales plantares and also send blood through the vv. intercapitulares to the dorsal veins of the foot.",
+      "id": "Vena kecil di sisi plantar jari-jari kaki. Vena ini bersatu membentuk vv. metatarsales plantares dan juga mengalirkan darah melalui vv. intercapitulares ke vena dorsal kaki."
+    },
+    "facts": {
+      "drains": {
+        "en": "Plantar skin and soft tissue of the toes.",
+        "id": "Kulit dan jaringan lunak sisi plantar jari kaki."
+      },
+      "continues": "Venae metatarsales plantares"
+    },
+    "quiz": {
+      "drains": ["Venae metatarsales plantares", "Vv. metatarsales plantares", "Venae metatarseae plantares", "Venae intercapitulares"]
+    }
+  },
+  {
+    "key": "plantar-metatarsal-veins",
+    "kind": "vein",
+    "la": "Venae metatarsales plantares",
+    "alt": ["Vv. metatarsales plantares", "Venae metatarseae plantares", "Vv. metatarseae plantares"],
+    "en": "Plantar metatarsal veins",
+    "desc": {
+      "en": "Deep veins of the sole that accompany the aa. metatarsales plantares in the metatarsal spaces. They are formed by the plantar digital veins and run back to the arcus venosus plantaris.",
+      "id": "Vena dalam telapak kaki yang menyertai aa. metatarsales plantares di spatium interosseum metatarsi. Vena ini dibentuk oleh vv. digitales plantares dan berjalan ke proksimal menuju arcus venosus plantaris."
+    },
+    "facts": {
+      "from": "Venae digitales plantares",
+      "drains": {
+        "en": "The toes and the deep tissues of the forefoot, including the interossei.",
+        "id": "Jari-jari kaki dan jaringan dalam kaki bagian depan, termasuk mm. interossei."
+      },
+      "continues": "Arcus venosus plantaris"
+    },
+    "quiz": {
+      "from": ["Venae digitales plantares", "Vv. digitales plantares"],
+      "drains": ["Arcus venosus plantaris"]
+    }
+  },
+  {
+    "key": "plantar-venous-arch",
+    "kind": "vein",
+    "la": "Arcus venosus plantaris",
+    "alt": ["Arcus venosus plantaris profundus"],
+    "en": "Plantar venous arch",
+    "desc": {
+      "en": "Deep venous arch of the sole that runs with the arcus plantaris profundus across the bases of the metatarsals. It receives the plantar metatarsal veins and continues as the vv. plantares laterales.",
+      "id": "Lengkung vena dalam di telapak kaki yang berjalan bersama arcus plantaris profundus melintasi basis ossa metatarsi. Arcus ini menerima vv. metatarsales plantares dan berlanjut sebagai vv. plantares laterales."
+    },
+    "facts": {
+      "from": "Venae metatarsales plantares",
+      "drains": {
+        "en": "The deep tissues of the sole and the toes. Perforating veins link it with the dorsal veins of the foot.",
+        "id": "Jaringan dalam telapak kaki dan jari-jari kaki. Vena perforans menghubungkannya dengan vena dorsal kaki."
+      },
+      "continues": "Venae plantares laterales",
+      "clinical": {
+        "en": "Each step compresses the plantar veins under body weight and pushes blood into the vv. tibiales posteriores (the foot pump), which works together with the calf muscle pump in venous return.",
+        "id": "Setiap langkah menekan vena-vena plantar oleh berat badan dan mendorong darah ke vv. tibiales posteriores (pompa kaki), yang bekerja bersama pompa otot betis dalam aliran balik vena."
+      }
+    },
+    "quiz": {
+      "from": ["Venae metatarsales plantares", "Vv. metatarsales plantares"],
+      "continues": ["Venae plantares laterales", "Vv. plantares laterales"]
+    }
+  },
+  {
+    "key": "medial-plantar-veins",
+    "kind": "vein",
+    "la": "Venae plantares mediales",
+    "alt": ["Vv. plantares mediales", "Vena plantaris medialis", "V. plantaris medialis"],
+    "en": "Medial plantar veins",
+    "desc": {
+      "en": "Paired venae comitantes of the a. plantaris medialis on the medial side of the sole. Behind the malleolus medialis they join the vv. plantares laterales to form the vv. tibiales posteriores.",
+      "id": "Venae comitantes berpasangan dari a. plantaris medialis di sisi medial telapak kaki. Di belakang malleolus medialis vena ini bergabung dengan vv. plantares laterales membentuk vv. tibiales posteriores."
+    },
+    "facts": {
+      "course": {
+        "en": "Run back with the artery and n. plantaris medialis between m. abductor hallucis and m. flexor digitorum brevis, then pass deep to m. abductor hallucis and under the retinaculum musculorum flexorum to the back of the malleolus medialis.",
+        "id": "Berjalan ke belakang bersama arteri dan n. plantaris medialis di antara m. abductor hallucis dan m. flexor digitorum brevis, lalu lewat di sebelah dalam m. abductor hallucis dan di bawah retinaculum musculorum flexorum menuju belakang malleolus medialis."
+      },
+      "drains": {
+        "en": "The medial side of the sole, m. abductor hallucis, m. flexor digitorum brevis and the medial toes.",
+        "id": "Sisi medial telapak kaki, m. abductor hallucis, m. flexor digitorum brevis dan jari-jari kaki bagian medial."
+      },
+      "continues": "Venae tibiales posteriores"
+    },
+    "quiz": {
+      "continues": ["Venae tibiales posteriores", "Vv. tibiales posteriores"]
+    }
+  },
+  {
+    "key": "lateral-plantar-veins",
+    "kind": "vein",
+    "la": "Venae plantares laterales",
+    "alt": ["Vv. plantares laterales", "Vena plantaris lateralis", "V. plantaris lateralis"],
+    "en": "Lateral plantar veins",
+    "desc": {
+      "en": "Paired venae comitantes of the a. plantaris lateralis. They continue from the arcus venosus plantaris, cross the sole obliquely to its medial side and join the vv. plantares mediales behind the malleolus medialis to form the vv. tibiales posteriores.",
+      "id": "Venae comitantes berpasangan dari a. plantaris lateralis. Vena ini merupakan lanjutan arcus venosus plantaris, menyilang telapak kaki secara oblik ke sisi medial, lalu bergabung dengan vv. plantares mediales di belakang malleolus medialis membentuk vv. tibiales posteriores."
+    },
+    "facts": {
+      "from": "Arcus venosus plantaris",
+      "course": {
+        "en": "Run with the artery and n. plantaris lateralis between m. flexor digitorum brevis and m. quadratus plantae, then pass deep to m. abductor hallucis to reach the medial side of the heel.",
+        "id": "Berjalan bersama arteri dan n. plantaris lateralis di antara m. flexor digitorum brevis dan m. quadratus plantae, lalu lewat di sebelah dalam m. abductor hallucis menuju sisi medial tumit."
+      },
+      "drains": {
+        "en": "Most of the deep sole through the arch, the lateral side of the sole and the lateral toes.",
+        "id": "Sebagian besar bagian dalam telapak kaki melalui arcus, sisi lateral telapak kaki dan jari-jari kaki bagian lateral."
+      },
+      "continues": "Venae tibiales posteriores"
+    },
+    "quiz": {
+      "from": ["Arcus venosus plantaris"],
+      "continues": ["Venae tibiales posteriores", "Vv. tibiales posteriores"]
+    }
+  },
+  {
+    "key": "posterior-tibial-veins",
+    "kind": "vein",
+    "la": "Venae tibiales posteriores",
+    "alt": ["Vv. tibiales posteriores", "Vena tibialis posterior", "V. tibialis posterior"],
+    "en": "Posterior tibial veins",
+    "desc": {
+      "en": "Paired venae comitantes of the a. tibialis posterior in the deep posterior compartment of the leg. They form behind the malleolus medialis from the plantar veins, receive the vv. fibulares, and at the lower border of m. popliteus join the vv. tibiales anteriores to form v. poplitea.",
+      "id": "Venae comitantes berpasangan dari a. tibialis posterior di kompartemen posterior profunda tungkai bawah. Vena ini terbentuk di belakang malleolus medialis dari vena-vena plantar, menerima vv. fibulares, dan di tepi bawah m. popliteus bergabung dengan vv. tibiales anteriores membentuk v. poplitea."
+    },
+    "facts": {
+      "from": "Venae plantares mediales et laterales",
+      "course": {
+        "en": "Pass behind the malleolus medialis under the retinaculum musculorum flexorum with the artery and n. tibialis, then ascend deep to m. soleus on m. tibialis posterior. Veins from the venous sinuses of m. soleus and the vv. fibulares open into them.",
+        "id": "Lewat di belakang malleolus medialis di bawah retinaculum musculorum flexorum bersama arteri dan n. tibialis, lalu naik di sebelah dalam m. soleus di atas m. tibialis posterior. Vena dari sinus-sinus vena m. soleus dan vv. fibulares bermuara ke dalamnya."
+      },
+      "branches": ["Venae fibulares"],
+      "drains": {
+        "en": "The sole and the deep posterior compartment of the leg, including m. soleus.",
+        "id": "Telapak kaki dan kompartemen posterior profunda tungkai bawah, termasuk m. soleus."
+      },
+      "continues": "Vena poplitea",
+      "clinical": {
+        "en": "Most deep vein thromboses (DVT) start in the calf veins, especially the soleal sinuses and the posterior tibial and fibular veins, during immobility, after surgery or in hypercoagulable states (Virchow triad: stasis, endothelial injury, hypercoagulability). Contraction of the calf muscles squeezes these veins and their valves send the blood upward (calf muscle pump), which is why early mobilization prevents DVT. A clot that extends into v. poplitea and v. femoralis can break off and cause pulmonary embolism.",
+        "id": "Sebagian besar trombosis vena dalam (deep vein thrombosis, DVT) dimulai di vena betis, terutama sinus vena m. soleus, vv. tibiales posteriores dan vv. fibulares, saat imobilisasi, pascaoperasi atau pada keadaan hiperkoagulasi (trias Virchow: stasis, cedera endotel, hiperkoagulabilitas). Kontraksi otot betis menekan vena-vena ini dan katupnya mengarahkan darah ke atas (pompa otot betis), karena itu mobilisasi dini mencegah DVT. Bekuan yang meluas ke v. poplitea dan v. femoralis dapat lepas dan menyebabkan emboli paru."
+      }
+    },
+    "quiz": {
+      "from": ["Venae plantares mediales et laterales", "Vv. plantares mediales dan laterales", "Venae plantares mediales dan laterales"],
+      "continues": ["Vena poplitea", "V. poplitea"]
+    }
+  },
+  {
+    "key": "fibular-veins",
+    "kind": "vein",
+    "la": "Venae fibulares",
+    "alt": ["Vv. fibulares", "Venae peroneae", "Vv. peroneae", "Vena fibularis", "V. fibularis"],
+    "en": "Fibular veins",
+    "desc": {
+      "en": "Paired venae comitantes of the a. fibularis, lying close to the fibula in the deep posterior compartment of the leg. They end in the vv. tibiales posteriores in the upper part of the leg.",
+      "id": "Venae comitantes berpasangan dari a. fibularis, terletak dekat fibula di kompartemen posterior profunda tungkai bawah. Vena ini bermuara ke vv. tibiales posteriores di bagian atas tungkai bawah."
+    },
+    "facts": {
+      "course": {
+        "en": "Ascend with the artery close to the fibula and behind the membrana interossea cruris, covered by m. flexor hallucis longus, and end in the posterior tibial veins in the upper third of the leg.",
+        "id": "Naik bersama arteri dekat fibula di belakang membrana interossea cruris, tertutup oleh m. flexor hallucis longus, lalu bermuara ke vv. tibiales posteriores di sepertiga atas tungkai bawah."
+      },
+      "drains": {
+        "en": "Muscles of the lateral part of the posterior compartment and of the lateral compartment of the leg, and the fibula.",
+        "id": "Otot-otot bagian lateral kompartemen posterior dan kompartemen lateral tungkai bawah, serta fibula."
+      },
+      "continues": "Venae tibiales posteriores",
+      "clinical": {
+        "en": "Together with the posterior tibial veins and the veins of m. soleus they are the usual starting site of DVT in the calf.",
+        "id": "Bersama vv. tibiales posteriores dan vena m. soleus, vena ini merupakan tempat awal DVT yang paling sering di betis."
+      }
+    },
+    "quiz": {
+      "drains": ["Venae tibiales posteriores", "Vv. tibiales posteriores"]
+    }
+  },
+  {
+    "key": "anterior-tibial-veins",
+    "kind": "vein",
+    "la": "Venae tibiales anteriores",
+    "alt": ["Vv. tibiales anteriores", "Vena tibialis anterior", "V. tibialis anterior"],
+    "en": "Anterior tibial veins",
+    "desc": {
+      "en": "Paired venae comitantes of the a. tibialis anterior in the anterior compartment of the leg. They continue the deep veins of the dorsum of the foot, pass backward above the membrana interossea and join the vv. tibiales posteriores to form v. poplitea.",
+      "id": "Venae comitantes berpasangan dari a. tibialis anterior di kompartemen anterior tungkai bawah. Vena ini melanjutkan vena dalam punggung kaki, lewat ke belakang di atas membrana interossea, lalu bergabung dengan vv. tibiales posteriores membentuk v. poplitea."
+    },
+    "facts": {
+      "from": "Venae comitantes arteriae dorsalis pedis",
+      "course": {
+        "en": "Ascend with the artery and n. fibularis profundus on the front of the membrana interossea cruris, between m. tibialis anterior and m. extensor digitorum longus (lower down m. extensor hallucis longus). Near the knee they pass through the gap above the upper border of the membrana interossea to the back of the leg and unite with the posterior tibial veins at the lower border of m. popliteus.",
+        "id": "Naik bersama arteri dan n. fibularis profundus di depan membrana interossea cruris, di antara m. tibialis anterior dan m. extensor digitorum longus (lebih ke bawah m. extensor hallucis longus). Di dekat lutut vena ini lewat melalui celah di atas tepi atas membrana interossea ke belakang tungkai, lalu bersatu dengan vv. tibiales posteriores di tepi bawah m. popliteus."
+      },
+      "drains": {
+        "en": "The anterior compartment of the leg, the ankle joint and the deep tissues of the dorsum of the foot.",
+        "id": "Kompartemen anterior tungkai bawah, sendi pergelangan kaki dan jaringan dalam punggung kaki."
+      },
+      "continues": "Vena poplitea"
+    },
+    "quiz": {
+      "continues": ["Vena poplitea", "V. poplitea"]
+    }
+  },
+  {
+    "key": "genicular-veins",
+    "kind": "vein",
+    "la": "Venae geniculares",
+    "alt": ["Vv. geniculares", "Vena genicularis", "Venae genus"],
+    "en": "Genicular veins",
+    "desc": {
+      "en": "Venae comitantes of the genicular arteries around the knee. They drain the knee joint and the tissues around it and end in v. poplitea.",
+      "id": "Venae comitantes dari arteri-arteri genus di sekitar lutut. Vena ini mengalirkan darah dari sendi lutut dan jaringan di sekitarnya lalu bermuara ke v. poplitea."
+    },
+    "facts": {
+      "drains": {
+        "en": "The capsule and synovial membrane of the knee joint, the distal femur, the proximal tibia and the patella, through veins that follow the superior, middle and inferior genicular arteries.",
+        "id": "Capsula articularis dan membrana synovialis sendi lutut, femur distal, tibia proksimal dan patella, melalui vena yang mengikuti aa. genus superior, media dan inferior."
+      },
+      "continues": "Vena poplitea"
+    },
+    "quiz": {
+      "drains": ["Vena poplitea", "V. poplitea"]
+    }
+  },
+  {
+    "key": "popliteal-vein",
+    "kind": "vein",
+    "la": "Vena poplitea",
+    "alt": ["V. poplitea"],
+    "en": "Popliteal vein",
+    "desc": {
+      "en": "Deep vein of the fossa poplitea, formed at the lower border of m. popliteus by the union of the anterior and posterior tibial veins. It ascends between n. tibialis (superficial) and a. poplitea (deep) and becomes v. femoralis at the hiatus adductorius.",
+      "id": "Vena dalam di fossa poplitea yang dibentuk di tepi bawah m. popliteus oleh gabungan vv. tibiales anteriores dan posteriores. Vena ini naik di antara n. tibialis (superfisial) dan a. poplitea (profunda), lalu menjadi v. femoralis di hiatus adductorius."
+    },
+    "facts": {
+      "from": "Venae tibiales anteriores et posteriores",
+      "course": {
+        "en": "Lies in the same fibrous sheath as a. poplitea. Below, it is medial to the artery; between the heads of m. gastrocnemius it lies directly behind it; above the knee it is posterolateral to it. From superficial to deep the main contents of the fossa poplitea are n. tibialis, v. poplitea and a. poplitea. The vein has several valves and passes through the hiatus adductorius in m. adductor magnus to become v. femoralis.",
+        "id": "Terletak dalam selubung fibrosa yang sama dengan a. poplitea. Di bagian bawah vena berada di medial arteri; di antara kedua caput m. gastrocnemius tepat di belakangnya; di atas lutut di posterolateralnya. Dari superfisial ke profunda, isi utama fossa poplitea adalah n. tibialis, v. poplitea dan a. poplitea. Vena ini memiliki beberapa katup dan melewati hiatus adductorius pada m. adductor magnus untuk menjadi v. femoralis."
+      },
+      "branches": ["Vena saphena parva", "Venae surales", "Venae geniculares"],
+      "drains": {
+        "en": "All the deep veins of the leg and foot, the knee region and, through v. saphena parva, the superficial tissues of the back of the leg.",
+        "id": "Seluruh vena dalam tungkai bawah dan kaki, daerah lutut dan, melalui v. saphena parva, jaringan superfisial bagian belakang tungkai bawah."
+      },
+      "continues": "Vena femoralis",
+      "clinical": {
+        "en": "Thrombosis that reaches v. poplitea is a proximal DVT, with a much higher risk of pulmonary embolism than a clot confined to the calf; it is looked for with compression ultrasound behind the knee. Because the vein shares a sheath with the artery, a penetrating wound can produce an arteriovenous fistula.",
+        "id": "Trombosis yang mencapai v. poplitea termasuk DVT proksimal, dengan risiko emboli paru jauh lebih tinggi daripada bekuan yang terbatas di betis; pemeriksaannya dengan USG kompresi di belakang lutut. Karena vena ini berada dalam satu selubung dengan arteri, luka tusuk dapat menimbulkan fistula arteriovenosa."
+      }
+    },
+    "quiz": {
+      "from": ["Venae tibiales anteriores et posteriores", "Vv. tibiales anteriores dan posteriores", "Venae tibiales anteriores dan posteriores"],
+      "continues": ["Vena femoralis", "V. femoralis"]
+    }
+  },
+  {
+    "key": "perforating-veins",
+    "kind": "vein",
+    "la": "Venae perforantes",
+    "alt": ["Vv. perforantes", "Vena perforans", "V. perforans"],
+    "en": "Perforating veins",
+    "desc": {
+      "en": "In TA these are the veins that accompany the aa. perforantes of the thigh: they pass through m. adductor magnus close to the linea aspera and end in v. profunda femoris. Clinicians also use the name for the many veins that pierce the deep fascia of the leg and thigh to connect the superficial veins with the deep veins.",
+      "id": "Dalam TA, vv. perforantes adalah vena yang menyertai aa. perforantes paha: vena menembus m. adductor magnus dekat linea aspera lalu bermuara ke v. profunda femoris. Di klinik nama ini juga dipakai untuk banyak vena yang menembus fascia profunda tungkai bawah dan paha untuk menghubungkan vena superfisial dengan vena dalam."
+    },
+    "facts": {
+      "course": {
+        "en": "The perforating veins of the thigh run from the posterior compartment forward through the insertion of m. adductor magnus, next to the femur, to v. profunda femoris; above and below they anastomose with the vv. gluteae inferiores and v. poplitea. The clinical perforators of the leg and thigh run obliquely through the fascia cruris or fascia lata, and their valves let blood pass only from the superficial to the deep veins.",
+        "id": "Vv. perforantes paha berjalan dari kompartemen posterior ke depan menembus insersio m. adductor magnus, di samping femur, menuju v. profunda femoris; di atas dan di bawah vena ini beranastomosis dengan vv. gluteae inferiores dan v. poplitea. Vena perforans klinis pada tungkai bawah dan paha berjalan oblik menembus fascia cruris atau fascia lata, dan katupnya hanya mengizinkan darah mengalir dari vena superfisial ke vena dalam."
+      },
+      "drains": {
+        "en": "The hamstrings and the adductor muscles (thigh perforators). The clinical perforators drain the superficial veins into the deep veins.",
+        "id": "Otot hamstring dan otot adduktor (vv. perforantes paha). Vena perforans klinis mengalirkan darah vena superfisial ke vena dalam."
+      },
+      "continues": "Vena profunda femoris",
+      "clinical": {
+        "en": "When the valves of the leg perforators fail, the high pressure produced by the calf muscle pump is transmitted to the superficial veins. This causes varicose veins, skin pigmentation and venous ulcers, typically above the malleolus medialis, where perforators join the posterior arch vein to the posterior tibial veins. DVT can destroy these valves and lead to the same picture later (post-thrombotic syndrome).",
+        "id": "Bila katup vena perforans tungkai bawah tidak berfungsi, tekanan tinggi dari pompa otot betis diteruskan ke vena superfisial. Akibatnya timbul varises, hiperpigmentasi kulit dan ulkus vena, khas di atas malleolus medialis, tempat vena perforans menghubungkan posterior arch vein dengan vv. tibiales posteriores. DVT dapat merusak katup-katup ini dan kemudian menimbulkan gambaran yang sama (sindrom pascatrombosis)."
+      }
+    },
+    "quiz": {
+      "drains": ["Vena profunda femoris", "V. profunda femoris"]
+    },
+    "verify": true
+  },
+  {
+    "key": "deep-femoral-vein",
+    "kind": "vein",
+    "la": "Vena profunda femoris",
+    "alt": ["V. profunda femoris"],
+    "en": "Deep femoral vein",
+    "desc": {
+      "en": "Vein that accompanies a. profunda femoris, lying in front of the artery. It is formed by the perforating veins and ends in v. femoralis in the lower part of the trigonum femorale.",
+      "id": "Vena yang menyertai a. profunda femoris dan terletak di depan arteri tersebut. Vena ini dibentuk oleh vv. perforantes dan bermuara ke v. femoralis di bagian bawah trigonum femorale."
+    },
+    "facts": {
+      "from": "Venae perforantes",
+      "course": {
+        "en": "Ascends behind m. adductor longus, which separates it from the femoral vessels in front, lying on m. adductor brevis and then m. adductor magnus. Through the perforating veins it connects below with v. poplitea and above with the vv. gluteae inferiores.",
+        "id": "Naik di belakang m. adductor longus, yang memisahkannya dari vasa femoralia di depan, dan terletak di atas m. adductor brevis lalu m. adductor magnus. Melalui vv. perforantes vena ini berhubungan di bawah dengan v. poplitea dan di atas dengan vv. gluteae inferiores."
+      },
+      "branches": ["Venae perforantes", "Venae circumflexae femoris mediales", "Venae circumflexae femoris laterales"],
+      "drains": {
+        "en": "The muscles of the medial and posterior thigh, part of the anterior thigh muscles and the femur.",
+        "id": "Otot-otot paha medial dan posterior, sebagian otot paha anterior dan femur."
+      },
+      "continues": "Vena femoralis"
+    },
+    "quiz": {
+      "from": ["Venae perforantes", "Vv. perforantes"],
+      "drains": ["Vena femoralis", "V. femoralis"]
+    }
+  },
+  {
+    "key": "medial-circumflex-femoral-veins",
+    "kind": "vein",
+    "la": "Venae circumflexae femoris mediales",
+    "alt": ["Vv. circumflexae femoris mediales", "Venae circumflexae mediales femoris", "Vena circumflexa femoris medialis", "V. circumflexa femoris medialis"],
+    "en": "Medial circumflex femoral veins",
+    "desc": {
+      "en": "Venae comitantes of the a. circumflexa femoris medialis. They come forward from the back of the hip and upper thigh between m. iliopsoas and m. pectineus and end in v. femoralis or v. profunda femoris.",
+      "id": "Venae comitantes dari a. circumflexa femoris medialis. Vena ini datang dari belakang panggul dan paha atas, lewat di antara m. iliopsoas dan m. pectineus, lalu bermuara ke v. femoralis atau v. profunda femoris."
+    },
+    "facts": {
+      "drains": {
+        "en": "The adductor muscles, the head and neck of the femur with the hip joint, and the upper part of the posterior thigh. They anastomose with the gluteal and perforating veins.",
+        "id": "Otot-otot adduktor, caput dan collum femoris beserta sendi panggul, dan bagian atas paha posterior. Vena ini beranastomosis dengan vena glutea dan vv. perforantes."
+      },
+      "continues": "Vena femoralis vel vena profunda femoris"
+    },
+    "quiz": {
+      "drains": ["Vena femoralis", "V. femoralis", "Vena profunda femoris", "V. profunda femoris"]
+    }
+  },
+  {
+    "key": "lateral-circumflex-femoral-veins",
+    "kind": "vein",
+    "la": "Venae circumflexae femoris laterales",
+    "alt": ["Vv. circumflexae femoris laterales", "Venae circumflexae laterales femoris", "Vena circumflexa femoris lateralis", "V. circumflexa femoris lateralis"],
+    "en": "Lateral circumflex femoral veins",
+    "desc": {
+      "en": "Venae comitantes of the a. circumflexa femoris lateralis and its branches. They run medially deep to m. sartorius and m. rectus femoris and end in v. femoralis or v. profunda femoris.",
+      "id": "Venae comitantes dari a. circumflexa femoris lateralis beserta cabang-cabangnya. Vena ini berjalan ke medial di sebelah dalam m. sartorius dan m. rectus femoris lalu bermuara ke v. femoralis atau v. profunda femoris."
+    },
+    "facts": {
+      "drains": {
+        "en": "M. quadriceps femoris (especially m. vastus lateralis and m. rectus femoris), m. tensor fasciae latae, the lateral part of the hip joint and the upper lateral thigh.",
+        "id": "M. quadriceps femoris (terutama m. vastus lateralis dan m. rectus femoris), m. tensor fasciae latae, bagian lateral sendi panggul dan paha atas sisi lateral."
+      },
+      "continues": "Vena femoralis vel vena profunda femoris"
+    },
+    "quiz": {
+      "drains": ["Vena femoralis", "V. femoralis", "Vena profunda femoris", "V. profunda femoris"]
+    }
+  },
+  {
+    "key": "femoral-vein",
+    "kind": "vein",
+    "la": "Vena femoralis",
+    "alt": ["V. femoralis"],
+    "en": "Femoral vein",
+    "desc": {
+      "en": "Main deep vein of the thigh. It continues v. poplitea at the hiatus adductorius, ascends through the canalis adductorius and the trigonum femorale with a. femoralis, and becomes v. iliaca externa behind the ligamentum inguinale.",
+      "id": "Vena dalam utama paha. Vena ini melanjutkan v. poplitea di hiatus adductorius, naik melalui canalis adductorius dan trigonum femorale bersama a. femoralis, lalu menjadi v. iliaca externa di belakang ligamentum inguinale."
+    },
+    "facts": {
+      "from": "Vena poplitea",
+      "course": {
+        "en": "In the canalis adductorius it lies posterolateral and then posterior to a. femoralis; at the apex of the trigonum femorale it is behind the artery, and at the base of the triangle it is medial to it. Below the ligamentum inguinale it occupies the intermediate compartment of the femoral sheath, with the artery lateral to it and the canalis femoralis medial to it (from lateral to medial: nerve, artery, vein, empty space, lymphatics). In the lower part of the trigonum femorale it receives v. profunda femoris, and just below the ligamentum inguinale it receives v. saphena magna.",
+        "id": "Di canalis adductorius vena ini terletak di posterolateral lalu di posterior a. femoralis; di apex trigonum femorale berada di belakang arteri, dan di basis trigonum berada di medialnya. Di bawah ligamentum inguinale vena menempati kompartemen tengah selubung femoral (femoral sheath), dengan arteri di lateralnya dan canalis femoralis di medialnya (dari lateral ke medial: nervus, arteri, vena, ruang kosong, limfatik). Di bagian bawah trigonum femorale vena menerima v. profunda femoris, dan tepat di bawah ligamentum inguinale menerima v. saphena magna."
+      },
+      "branches": ["Vena profunda femoris", "Vena saphena magna", "Venae circumflexae femoris mediales", "Venae circumflexae femoris laterales", "Venae musculares"],
+      "drains": {
+        "en": "Nearly the whole lower limb: all the deep veins and, through v. saphena magna, most of the superficial veins. The gluteal region drains separately into v. iliaca interna.",
+        "id": "Hampir seluruh ekstremitas inferior: semua vena dalam dan, melalui v. saphena magna, sebagian besar vena superfisial. Regio glutea mengalir terpisah ke v. iliaca interna."
+      },
+      "continues": "Vena iliaca externa",
+      "clinical": {
+        "en": "Femoral venous puncture or central line: feel the femoral pulse just below the ligamentum inguinale and insert the needle about 1 cm medial to it. Thrombosis here is a proximal DVT with a high risk of pulmonary embolism. Ultrasound reports often call the part below the profunda junction the superficial femoral vein; it is still a deep vein, and a clot in it is a DVT.",
+        "id": "Pungsi vena femoralis atau pemasangan kateter vena sentral: raba denyut a. femoralis tepat di bawah ligamentum inguinale dan tusukkan jarum kira-kira 1 cm di medialnya. Trombosis di sini termasuk DVT proksimal dengan risiko emboli paru yang tinggi. Laporan USG sering menyebut bagian di bawah muara v. profunda femoris sebagai superficial femoral vein; vena ini tetap vena dalam, dan bekuan di dalamnya adalah DVT."
+      }
+    },
+    "quiz": {
+      "from": ["Vena poplitea", "V. poplitea"],
+      "continues": ["Vena iliaca externa", "V. iliaca externa"]
+    }
+  },
+  {
+    "key": "superior-gluteal-veins",
+    "kind": "vein",
+    "la": "Venae gluteae superiores",
+    "alt": ["Vv. gluteae superiores", "Vena glutea superior", "V. glutea superior", "Venae glutaeae superiores", "Vena glutaea superior", "V. glutaea superior"],
+    "en": "Superior gluteal veins",
+    "desc": {
+      "en": "Venae comitantes of the a. glutea superior. They collect blood from the upper gluteal region, enter the pelvis through the foramen ischiadicum majus above m. piriformis and end in v. iliaca interna.",
+      "id": "Venae comitantes dari a. glutea superior. Vena ini mengumpulkan darah dari regio glutea bagian atas, masuk ke pelvis melalui foramen ischiadicum majus di atas m. piriformis lalu bermuara ke v. iliaca interna."
+    },
+    "facts": {
+      "course": {
+        "en": "Accompany the superficial branch of the artery between m. gluteus maximus and m. gluteus medius and the deep branch between m. gluteus medius and m. gluteus minimus, then pass with the artery and n. gluteus superior through the foramen ischiadicum majus above m. piriformis.",
+        "id": "Menyertai ramus superficialis arteri di antara m. gluteus maximus dan m. gluteus medius serta ramus profundus di antara m. gluteus medius dan m. gluteus minimus, lalu bersama arteri dan n. gluteus superior melewati foramen ischiadicum majus di atas m. piriformis."
+      },
+      "drains": {
+        "en": "The upper part of m. gluteus maximus, m. gluteus medius, m. gluteus minimus, m. tensor fasciae latae and the overlying skin.",
+        "id": "Bagian atas m. gluteus maximus, m. gluteus medius, m. gluteus minimus, m. tensor fasciae latae dan kulit di atasnya."
+      },
+      "continues": "Vena iliaca interna"
+    },
+    "quiz": {
+      "drains": ["Vena iliaca interna", "V. iliaca interna"]
+    }
+  },
+  {
+    "key": "inferior-gluteal-veins",
+    "kind": "vein",
+    "la": "Venae gluteae inferiores",
+    "alt": ["Vv. gluteae inferiores", "Vena glutea inferior", "V. glutea inferior", "Venae glutaeae inferiores", "Vena glutaea inferior", "V. glutaea inferior"],
+    "en": "Inferior gluteal veins",
+    "desc": {
+      "en": "Venae comitantes of the a. glutea inferior. They begin in the upper back of the thigh, drain m. gluteus maximus and enter the pelvis through the foramen ischiadicum majus below m. piriformis to end in v. iliaca interna.",
+      "id": "Venae comitantes dari a. glutea inferior. Vena ini dimulai di bagian atas belakang paha, mengalirkan darah m. gluteus maximus, lalu masuk ke pelvis melalui foramen ischiadicum majus di bawah m. piriformis dan bermuara ke v. iliaca interna."
+    },
+    "facts": {
+      "course": {
+        "en": "Begin in the upper posterior thigh, where they anastomose with the medial circumflex femoral veins and the first perforating vein, ascend deep to m. gluteus maximus with the artery, close to n. ischiadicus and n. cutaneus femoris posterior, and pass through the foramen ischiadicum majus below m. piriformis.",
+        "id": "Dimulai di bagian atas paha posterior, tempat vena ini beranastomosis dengan vv. circumflexae femoris mediales dan v. perforans pertama, naik di sebelah dalam m. gluteus maximus bersama arteri, dekat n. ischiadicus dan n. cutaneus femoris posterior, lalu melewati foramen ischiadicum majus di bawah m. piriformis."
+      },
+      "drains": {
+        "en": "The lower part of m. gluteus maximus, the short lateral rotators of the hip, the upper hamstrings and the skin of the lower buttock.",
+        "id": "Bagian bawah m. gluteus maximus, otot rotator lateral pendek sendi panggul, bagian atas otot hamstring dan kulit bokong bagian bawah."
+      },
+      "continues": "Vena iliaca interna"
+    },
+    "quiz": {
+      "drains": ["Vena iliaca interna", "V. iliaca interna"]
+    }
+  },
+  {
+    "key": "internal-pudendal-vein",
+    "kind": "vein",
+    "la": "Vena pudenda interna",
+    "alt": ["V. pudenda interna", "Vena pudendalis interna", "V. pudendalis interna", "Venae pudendae internae", "Vv. pudendae internae"],
+    "en": "Internal pudendal vein",
+    "desc": {
+      "en": "Vein of the perineum, usually paired venae comitantes of the a. pudenda interna. It runs with the artery and n. pudendus in the canalis pudendalis (Alcock's canal) and ends in v. iliaca interna.",
+      "id": "Vena perineum, biasanya berupa venae comitantes berpasangan dari a. pudenda interna. Vena ini berjalan bersama arteri dan n. pudendus di canalis pudendalis (canalis Alcock) lalu bermuara ke v. iliaca interna."
+    },
+    "facts": {
+      "course": {
+        "en": "Runs back in the canalis pudendalis on the lateral wall of the fossa ischioanalis, leaves the perineum through the foramen ischiadicum minus, crosses behind the spina ischiadica and re-enters the pelvis through the foramen ischiadicum majus below m. piriformis to join v. iliaca interna.",
+        "id": "Berjalan ke belakang di canalis pudendalis pada dinding lateral fossa ischioanalis, keluar dari perineum melalui foramen ischiadicum minus, menyilang di belakang spina ischiadica, lalu masuk kembali ke pelvis melalui foramen ischiadicum majus di bawah m. piriformis dan bergabung dengan v. iliaca interna."
+      },
+      "branches": ["Venae rectales inferiores", "Venae scrotales (labiales) posteriores", "Vena bulbi penis (vestibuli)", "Venae profundae penis (clitoridis)"],
+      "drains": {
+        "en": "The perineum: the lower anal canal, the perineal muscles, the posterior scrotum or labia and the erectile tissue of the penis or clitoris.",
+        "id": "Perineum: canalis analis bagian bawah, otot-otot perineum, bagian posterior scrotum atau labia dan jaringan erektil penis atau clitoris."
+      },
+      "continues": "Vena iliaca interna",
+      "clinical": {
+        "en": "Its tributaries, the vv. rectales inferiores, drain to the caval system while v. rectalis superior drains to the portal system, so the anal canal is a site of portosystemic anastomosis.",
+        "id": "Cabangnya, vv. rectales inferiores, mengalir ke sistem cava sedangkan v. rectalis superior mengalir ke sistem porta, sehingga canalis analis merupakan tempat anastomosis portosistemik."
+      }
+    },
+    "quiz": {
+      "drains": ["Vena iliaca interna", "V. iliaca interna"]
+    }
+  },
+  {
+    "key": "lateral-sacral-veins",
+    "kind": "vein",
+    "la": "Venae sacrales laterales",
+    "alt": ["Vv. sacrales laterales", "Vena sacralis lateralis", "V. sacralis lateralis"],
+    "en": "Lateral sacral veins",
+    "desc": {
+      "en": "Veins that accompany the aa. sacrales laterales on the pelvic surface of the sacrum, lateral to the foramina sacralia anteriora. With v. sacralis mediana they form the plexus venosus sacralis, and they end in v. iliaca interna.",
+      "id": "Vena yang menyertai aa. sacrales laterales pada facies pelvica ossis sacri, di lateral foramina sacralia anteriora. Bersama v. sacralis mediana vena ini membentuk plexus venosus sacralis, lalu bermuara ke v. iliaca interna."
+    },
+    "facts": {
+      "drains": {
+        "en": "The sacrum, m. piriformis and, through veins in the anterior sacral foramina, the sacral canal and the internal vertebral venous plexus.",
+        "id": "Os sacrum, m. piriformis dan, melalui vena di foramina sacralia anteriora, canalis sacralis serta plexus venosus vertebralis internus."
+      },
+      "continues": "Vena iliaca interna",
+      "clinical": {
+        "en": "Their link with the valveless vertebral venous plexus gives pelvic cancers, prostate cancer in particular, a route to spread to the vertebrae.",
+        "id": "Hubungannya dengan plexus venosus vertebralis yang tidak berkatup memberi jalur bagi kanker pelvis, terutama kanker prostat, untuk menyebar ke vertebra."
+      }
+    },
+    "quiz": {
+      "drains": ["Vena iliaca interna", "V. iliaca interna"]
+    }
+  },
+  {
+    "key": "internal-iliac-vein",
+    "kind": "vein",
+    "la": "Vena iliaca interna",
+    "alt": ["V. iliaca interna", "Vena hypogastrica", "V. hypogastrica"],
+    "en": "Internal iliac vein",
+    "desc": {
+      "en": "Short, wide vein of the pelvis formed near the upper part of the foramen ischiadicum majus by the veins of the pelvic wall, pelvic organs, gluteal region and perineum. It ascends behind a. iliaca interna and joins v. iliaca externa in front of the articulatio sacroiliaca to form v. iliaca communis.",
+      "id": "Vena pelvis yang pendek dan lebar, dibentuk di dekat bagian atas foramen ischiadicum majus oleh vena-vena dinding pelvis, organ pelvis, regio glutea dan perineum. Vena ini naik di belakang a. iliaca interna dan bergabung dengan v. iliaca externa di depan articulatio sacroiliaca membentuk v. iliaca communis."
+    },
+    "facts": {
+      "course": {
+        "en": "Ascends on the posterolateral pelvic wall, posteromedial to a. iliaca interna and in front of the truncus lumbosacralis and the articulatio sacroiliaca, and ends at the pelvic brim by joining v. iliaca externa. Its parietal tributaries follow the branches of the artery; the visceral veins first form plexuses around the rectum, the bladder and the prostate or the uterus and vagina.",
+        "id": "Naik di dinding pelvis posterolateral, di posteromedial a. iliaca interna dan di depan truncus lumbosacralis serta articulatio sacroiliaca, lalu berakhir setinggi linea terminalis dengan bergabung dengan v. iliaca externa. Cabang parietal yang bermuara kepadanya mengikuti cabang arteri; vena viseral lebih dulu membentuk pleksus di sekitar rectum, vesica urinaria dan prostat atau uterus dan vagina."
+      },
+      "branches": ["Venae gluteae superiores", "Venae gluteae inferiores", "Venae obturatoriae", "Venae sacrales laterales", "Vena pudenda interna", "Venae rectales mediae", "Venae vesicales", "Venae uterinae"],
+      "drains": {
+        "en": "The pelvic walls and pelvic organs, the gluteal region and the perineum.",
+        "id": "Dinding dan organ pelvis, regio glutea dan perineum."
+      },
+      "continues": "Vena iliaca communis"
+    },
+    "quiz": {
+      "continues": ["Vena iliaca communis", "V. iliaca communis"]
+    }
+  },
+  {
+    "key": "external-iliac-vein",
+    "kind": "vein",
+    "la": "Vena iliaca externa",
+    "alt": ["V. iliaca externa"],
+    "en": "External iliac vein",
+    "desc": {
+      "en": "Continuation of v. femoralis above the ligamentum inguinale. It runs up along the linea terminalis with a. iliaca externa and joins v. iliaca interna in front of the articulatio sacroiliaca to form v. iliaca communis.",
+      "id": "Lanjutan v. femoralis di atas ligamentum inguinale. Vena ini naik di sepanjang linea terminalis bersama a. iliaca externa dan bergabung dengan v. iliaca interna di depan articulatio sacroiliaca membentuk v. iliaca communis."
+    },
+    "facts": {
+      "from": "Vena femoralis",
+      "course": {
+        "en": "Begins behind the ligamentum inguinale, medial to a. iliaca externa. On the right it lies medial to the artery at first and gradually passes behind it as it ascends; on the left it stays medial to the artery. It runs along the medial border of m. psoas major, covered by peritoneum.",
+        "id": "Dimulai di belakang ligamentum inguinale, di medial a. iliaca externa. Di sisi kanan vena mula-mula berada di medial arteri lalu perlahan berpindah ke belakangnya saat naik; di sisi kiri vena tetap di medial arteri. Vena berjalan di sepanjang tepi medial m. psoas major dan ditutupi peritoneum."
+      },
+      "branches": ["Vena epigastrica inferior", "Vena circumflexa ilium profunda"],
+      "drains": {
+        "en": "The whole lower limb through v. femoralis, and the lower anterior abdominal wall through v. epigastrica inferior and v. circumflexa ilium profunda.",
+        "id": "Seluruh ekstremitas inferior melalui v. femoralis, serta dinding perut anterior bagian bawah melalui v. epigastrica inferior dan v. circumflexa ilium profunda."
+      },
+      "continues": "Vena iliaca communis"
+    },
+    "quiz": {
+      "from": ["Vena femoralis", "V. femoralis"],
+      "continues": ["Vena iliaca communis", "V. iliaca communis"]
+    }
+  },
+  {
+    "key": "common-iliac-vein",
+    "kind": "vein",
+    "la": "Vena iliaca communis",
+    "alt": ["V. iliaca communis"],
+    "en": "Common iliac vein",
+    "desc": {
+      "en": "Formed in front of the articulatio sacroiliaca by the union of v. iliaca externa and v. iliaca interna. The two common iliac veins ascend obliquely and unite on the right side of the body of L5 to form the vena cava inferior.",
+      "id": "Dibentuk di depan articulatio sacroiliaca oleh gabungan v. iliaca externa dan v. iliaca interna. Kedua v. iliaca communis naik secara oblik lalu bersatu di sisi kanan corpus vertebrae L5 membentuk vena cava inferior."
+    },
+    "facts": {
+      "from": "Vena iliaca externa et vena iliaca interna",
+      "course": {
+        "en": "The right vein is short and almost vertical, lying behind and then lateral to its artery. The left vein is longer and more oblique; it lies medial to its artery and then passes behind a. iliaca communis dextra to reach the confluence, which lies behind that artery. V. sacralis mediana usually ends in the left vein.",
+        "id": "Vena kanan pendek dan hampir vertikal, terletak di belakang lalu di lateral arterinya. Vena kiri lebih panjang dan lebih oblik; vena ini terletak di medial arterinya lalu lewat di belakang a. iliaca communis dextra menuju tempat pertemuan, yang berada di belakang arteri tersebut. V. sacralis mediana biasanya bermuara ke vena kiri."
+      },
+      "branches": ["Vena iliolumbalis", "Vena sacralis mediana"],
+      "drains": {
+        "en": "The lower limb, the pelvis and perineum, the gluteal region and the lower abdominal wall.",
+        "id": "Ekstremitas inferior, pelvis dan perineum, regio glutea dan dinding perut bagian bawah."
+      },
+      "continues": "Vena cava inferior",
+      "clinical": {
+        "en": "The left common iliac vein can be compressed between a. iliaca communis dextra in front and the body of L5 behind (May-Thurner syndrome). This is one reason why DVT of the lower limb is more frequent on the left.",
+        "id": "V. iliaca communis sinistra dapat terjepit di antara a. iliaca communis dextra di depan dan corpus vertebrae L5 di belakang (sindrom May-Thurner). Hal ini merupakan salah satu sebab DVT ekstremitas inferior lebih sering terjadi di sisi kiri."
+      }
+    },
+    "quiz": {
+      "from": ["Vena iliaca externa et vena iliaca interna", "V. iliaca externa dan V. iliaca interna", "Vena iliaca externa dan vena iliaca interna"],
+      "continues": ["Vena cava inferior", "V. cava inferior"]
+    }
+  }
+]

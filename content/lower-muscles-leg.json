@@ -1,0 +1,491 @@
+[
+  {
+    "key": "tibialis-anterior-muscle",
+    "kind": "muscle",
+    "la": "Musculus tibialis anterior",
+    "alt": ["M. tibialis anterior", "Tibialis anterior"],
+    "en": "Tibialis anterior",
+    "desc": {
+      "en": "Strongest dorsiflexor of the foot, lying along the lateral surface of the tibia right beside the sharp anterior border, where it can be felt contracting. Its tendon crosses the front of the ankle, the most medial of the anterior tendons, to reach the medial side of the foot.",
+      "id": "Dorsifleksor terkuat kaki, terletak di sepanjang permukaan lateral tibia tepat di samping margo anterior yang tajam, tempat kontraksinya dapat diraba. Tendonya menyilang bagian depan pergelangan kaki, paling medial di antara tendo-tendo anterior, menuju sisi medial kaki."
+    },
+    "facts": {
+      "group": {"en": "Anterior compartment of leg (dorsiflexors)", "id": "Kompartemen anterior tungkai bawah (dorsifleksor)"},
+      "origin": {"la": "Condylus lateralis tibiae, duae tertiae superiores faciei lateralis tibiae et membrana interossea cruris", "en": "Lateral condyle and upper two-thirds of the lateral surface of the tibia, and the interosseous membrane"},
+      "insertion": {"la": "Facies medialis et inferior ossis cuneiformis medialis et basis ossis metatarsi I", "en": "Medial and inferior surfaces of the medial cuneiform and the base of the first metatarsal"},
+      "action": {
+        "en": "Dorsiflexes the foot at the ankle and inverts it at the subtalar joint. In walking it lifts the forefoot during the swing phase and lowers it gently after heel strike.",
+        "id": "Dorsifleksi kaki pada sendi talocruralis dan inversi kaki pada sendi subtalaris. Saat berjalan, otot ini mengangkat kaki depan pada fase ayun dan menurunkannya perlahan setelah tumit menyentuh tanah."
+      },
+      "nerve": {"la": "Nervus fibularis profundus", "roots": "L4-L5"},
+      "blood": ["Arteria tibialis anterior"],
+      "clinical": {
+        "en": "Paralysis of the anterior compartment after deep fibular nerve injury causes foot drop: the toes catch the ground during swing, so the patient lifts the knee high to clear them (steppage gait). The tight compartment is also the usual site of anterior compartment syndrome.",
+        "id": "Kelumpuhan kompartemen anterior akibat cedera n. fibularis profundus menyebabkan foot drop: ujung kaki tersangkut di lantai saat fase ayun sehingga pasien mengangkat lutut tinggi-tinggi (steppage gait). Kompartemen yang sempit ini juga paling sering mengalami sindrom kompartemen anterior."
+      }
+    },
+    "quiz": {
+      "origin": ["Condylus lateralis et facies lateralis tibiae", "condylus lateralis tibiae", "facies lateralis tibiae", "2/3 proksimal permukaan lateral tibia", "membrana interossea"],
+      "insertion": ["Os cuneiforme mediale et basis ossis metatarsi I", "os cuneiforme mediale", "basis metatarsal I", "cuneiforme mediale dan basis metatarsal I"],
+      "nerve": ["Nervus fibularis profundus", "N. fibularis profundus", "N. peroneus profundus", "Nervus peroneus profundus"],
+      "action": ["Dorsiflexio et inversio pedis", "dorsifleksi dan inversi kaki", "dorsifleksi kaki", "inversi kaki", "dorsiflexio pedis"]
+    }
+  },
+  {
+    "key": "extensor-hallucis-longus",
+    "kind": "muscle",
+    "la": "Musculus extensor hallucis longus",
+    "alt": ["M. extensor hallucis longus", "Extensor hallucis longus", "Musculus extensor longus hallucis"],
+    "en": "Extensor hallucis longus",
+    "desc": {
+      "en": "Thin muscle hidden between tibialis anterior and extensor digitorum longus in the leg, whose tendon stands out on the dorsum of the foot when the great toe is raised. The dorsalis pedis pulse is felt just lateral to this tendon.",
+      "id": "Otot tipis yang tersembunyi di antara m. tibialis anterior dan m. extensor digitorum longus di tungkai bawah, dengan tendo yang menonjol di punggung kaki saat ibu jari kaki diangkat. Denyut a. dorsalis pedis teraba tepat di lateral tendo ini."
+    },
+    "facts": {
+      "group": {"en": "Anterior compartment of leg (dorsiflexors)", "id": "Kompartemen anterior tungkai bawah (dorsifleksor)"},
+      "origin": {"la": "Pars media faciei medialis (anterioris) fibulae et membrana interossea cruris", "en": "Middle part of the anterior (extensor) surface of the fibula and the interosseous membrane"},
+      "insertion": {"la": "Facies dorsalis basis phalangis distalis hallucis", "en": "Dorsal surface of the base of the distal phalanx of the great toe"},
+      "action": {"en": "Extends the great toe and helps dorsiflex the foot.", "id": "Ekstensi ibu jari kaki dan membantu dorsifleksi kaki."},
+      "nerve": {"la": "Nervus fibularis profundus", "roots": "L5-S1"},
+      "blood": ["Arteria tibialis anterior"],
+      "clinical": {
+        "en": "Weak extension of the great toe is a sensitive sign of L5 nerve root compression.",
+        "id": "Kelemahan ekstensi ibu jari kaki merupakan tanda yang peka untuk kompresi radix L5."
+      }
+    },
+    "quiz": {
+      "origin": ["Facies anterior fibulae (pars media) et membrana interossea", "pertengahan permukaan anterior fibula", "facies anterior fibulae", "facies medialis fibulae", "membrana interossea"],
+      "insertion": ["Basis phalangis distalis hallucis", "phalanx distalis hallucis", "falang distal ibu jari kaki", "phalanx distal hallux"],
+      "nerve": ["Nervus fibularis profundus", "N. fibularis profundus", "N. peroneus profundus", "Nervus peroneus profundus"],
+      "action": ["Extensio hallucis", "ekstensi ibu jari kaki", "ekstensi hallux", "dorsifleksi kaki"]
+    }
+  },
+  {
+    "key": "extensor-digitorum-longus",
+    "kind": "muscle",
+    "la": "Musculus extensor digitorum longus",
+    "alt": ["M. extensor digitorum longus", "Extensor digitorum longus", "Musculus extensor longus digitorum"],
+    "en": "Extensor digitorum longus",
+    "desc": {
+      "en": "Most lateral muscle of the anterior compartment. Its tendon divides into four on the dorsum of the foot for the lateral four toes, and each slip spreads into an extensor expansion that attaches to the middle and distal phalanges.",
+      "id": "Otot kompartemen anterior yang letaknya paling lateral. Tendonya terbagi empat di punggung kaki untuk jari II-V, dan tiap cabang melebar menjadi aponeurosis dorsalis yang melekat pada phalanx media dan distalis."
+    },
+    "facts": {
+      "group": {"en": "Anterior compartment of leg (dorsiflexors)", "id": "Kompartemen anterior tungkai bawah (dorsifleksor)"},
+      "origin": {"la": "Condylus lateralis tibiae, tres quartae superiores faciei medialis (anterioris) fibulae et membrana interossea cruris", "en": "Lateral condyle of the tibia, upper three-quarters of the anterior (extensor) surface of the fibula and the interosseous membrane"},
+      "insertion": {"la": "Phalanges mediae et distales digitorum II-V (per aponeuroses dorsales)", "en": "Middle and distal phalanges of the lateral four toes, through the extensor expansions"},
+      "action": {"en": "Extends the lateral four toes and helps dorsiflex the foot.", "id": "Ekstensi jari kaki II-V dan membantu dorsifleksi kaki."},
+      "nerve": {"la": "Nervus fibularis profundus", "roots": "L5-S1"},
+      "blood": ["Arteria tibialis anterior"]
+    },
+    "quiz": {
+      "origin": ["Condylus lateralis tibiae et facies anterior fibulae", "condylus lateralis tibiae", "facies anterior fibulae", "fibula dan membrana interossea"],
+      "insertion": ["Phalanges mediae et distales digitorum II-V", "phalanx distalis digiti II-V", "falang tengah dan distal jari II-V", "phalanx distal jari II-V melalui tendo extensor digitorum"],
+      "nerve": ["Nervus fibularis profundus", "N. fibularis profundus", "N. peroneus profundus", "Nervus peroneus profundus"],
+      "action": ["Extensio digitorum II-V", "ekstensi jari kaki II-V", "ekstensi jari kaki", "dorsifleksi kaki"]
+    }
+  },
+  {
+    "key": "tendon-of-extensor-digitorum-longus",
+    "kind": "tendon",
+    "la": "Tendo musculi extensoris digitorum longi",
+    "alt": ["Tendines musculi extensoris digitorum longi", "Tendo m. extensoris digitorum longi"],
+    "en": "Tendon of extensor digitorum longus",
+    "desc": {
+      "en": "Tendon of extensor digitorum longus that passes under both extensor retinacula in a synovial sheath shared with fibularis tertius, then splits into four slips for the second to fifth toes on the dorsum of the foot.",
+      "id": "Tendo m. extensor digitorum longus yang berjalan di bawah kedua retinaculum musculorum extensorum dalam selubung sinovial yang sama dengan m. fibularis tertius, lalu terbagi menjadi empat untuk jari II-V di punggung kaki."
+    },
+    "facts": {
+      "muscle": "extensor-digitorum-longus",
+      "insertion": {"la": "Phalanges mediae et distales digitorum II-V (per aponeuroses dorsales)", "en": "Middle and distal phalanges of the lateral four toes, through the extensor expansions"}
+    }
+  },
+  {
+    "key": "fibularis-tertius-muscle",
+    "kind": "muscle",
+    "la": "Musculus fibularis tertius",
+    "alt": ["M. fibularis tertius", "Fibularis tertius", "Musculus peroneus tertius", "M. peroneus tertius", "Peroneus tertius"],
+    "en": "Fibularis tertius",
+    "desc": {
+      "en": "Small, inconstant slip at the lower lateral edge of extensor digitorum longus, often fused with it. Its tendon runs to the base of the fifth metatarsal and can be felt lateral to the extensor tendons when the foot is dorsiflexed and everted.",
+      "id": "Berkas otot kecil yang tidak selalu ada di tepi lateral bawah m. extensor digitorum longus dan sering menyatu dengannya. Tendonya menuju basis os metatarsi V dan dapat diraba di lateral tendo-tendo ekstensor saat kaki didorsifleksikan dan dieversikan."
+    },
+    "facts": {
+      "group": {"en": "Anterior compartment of leg (dorsiflexors)", "id": "Kompartemen anterior tungkai bawah (dorsifleksor)"},
+      "origin": {"la": "Tertia inferior faciei medialis (anterioris) fibulae et membrana interossea cruris", "en": "Lower third of the anterior (extensor) surface of the fibula and the interosseous membrane"},
+      "insertion": {"la": "Facies dorsalis basis ossis metatarsi V", "en": "Dorsum of the base of the fifth metatarsal"},
+      "action": {"en": "Dorsiflexes the foot and helps evert it.", "id": "Dorsifleksi kaki dan membantu eversi kaki."},
+      "nerve": {"la": "Nervus fibularis profundus", "roots": "L5-S1"},
+      "blood": ["Arteria tibialis anterior"]
+    },
+    "quiz": {
+      "origin": ["Facies anterior fibulae (tertia inferior)", "bagian distal permukaan anterior fibula", "facies anterior fibulae", "fibula distal"],
+      "insertion": ["Basis ossis metatarsi V (facies dorsalis)", "basis metatarsal V", "basis os metatarsal V"],
+      "nerve": ["Nervus fibularis profundus", "N. fibularis profundus", "N. peroneus profundus", "Nervus peroneus profundus"],
+      "action": ["Dorsiflexio et eversio pedis", "dorsifleksi dan eversi kaki", "dorsifleksi kaki", "eversi kaki"]
+    }
+  },
+  {
+    "key": "fibularis-longus-muscle",
+    "kind": "muscle",
+    "la": "Musculus fibularis longus",
+    "alt": ["M. fibularis longus", "Fibularis longus", "Musculus peroneus longus", "M. peroneus longus", "Peroneus longus"],
+    "en": "Fibularis longus",
+    "desc": {
+      "en": "Superficial muscle of the lateral compartment, lying over fibularis brevis. Its tendon passes behind the lateral malleolus, turns under the cuboid in a groove and crosses the sole obliquely to the medial side, so it acts as a sling under the arches of the foot.",
+      "id": "Otot superfisial kompartemen lateral yang terletak di atas m. fibularis brevis. Tendonya berjalan di belakang malleolus lateralis, membelok di bawah os cuboideum dalam sebuah sulcus, lalu menyilang telapak kaki secara miring ke sisi medial, sehingga berfungsi sebagai penyangga di bawah lengkung kaki."
+    },
+    "facts": {
+      "group": {"en": "Lateral compartment of leg (evertors)", "id": "Kompartemen lateral tungkai bawah (evertor)"},
+      "origin": {"la": "Caput fibulae et duae tertiae superiores faciei lateralis fibulae", "en": "Head of the fibula and upper two-thirds of the lateral surface of the fibula"},
+      "insertion": {"la": "Basis ossis metatarsi I et os cuneiforme mediale (facies plantaris)", "en": "Plantar side of the base of the first metatarsal and the medial cuneiform"},
+      "action": {
+        "en": "Everts the foot and weakly plantarflexes it at the ankle. It supports the transverse and lateral longitudinal arches.",
+        "id": "Eversi kaki dan plantarfleksi lemah pada sendi talocruralis. Otot ini menopang arcus transversus dan arcus longitudinalis lateralis."
+      },
+      "nerve": {"la": "Nervus fibularis superficialis", "roots": "L5-S2"},
+      "blood": ["Arteria fibularis", "Arteria tibialis anterior"],
+      "clinical": {
+        "en": "The common fibular nerve winds around the neck of the fibula deep to fibularis longus, where a fracture or a tight cast can injure it. Dorsiflexion and eversion are then lost, and the foot hangs plantarflexed and inverted (foot drop).",
+        "id": "N. fibularis communis melingkari collum fibulae di bawah m. fibularis longus, sehingga mudah cedera pada fraktur collum fibulae atau akibat gips yang terlalu ketat. Dorsifleksi dan eversi kaki hilang, dan kaki menggantung dalam posisi plantarfleksi dan inversi (foot drop)."
+      }
+    },
+    "quiz": {
+      "origin": ["Caput fibulae et facies lateralis fibulae", "caput fibulae", "2/3 proksimal facies lateralis fibula", "facies lateralis fibulae"],
+      "insertion": ["Basis ossis metatarsi I et os cuneiforme mediale", "basis metatarsal I", "os cuneiforme mediale", "basis metatarsal I dan cuneiforme mediale"],
+      "nerve": ["Nervus fibularis superficialis", "N. fibularis superficialis", "N. peroneus superficialis", "Nervus peroneus superficialis"],
+      "action": ["Eversio pedis", "eversi kaki", "eversi dan plantarfleksi kaki", "plantarfleksi kaki", "menopang arcus transversus"]
+    }
+  },
+  {
+    "key": "fibularis-brevis-muscle",
+    "kind": "muscle",
+    "la": "Musculus fibularis brevis",
+    "alt": ["M. fibularis brevis", "Fibularis brevis", "Musculus peroneus brevis", "M. peroneus brevis", "Peroneus brevis"],
+    "en": "Fibularis brevis",
+    "desc": {
+      "en": "Deeper and shorter muscle of the lateral compartment. Its tendon runs behind the lateral malleolus in front of the fibularis longus tendon and ends on the tuberosity of the fifth metatarsal, which an inversion injury can pull off (avulsion fracture).",
+      "id": "Otot kompartemen lateral yang lebih dalam dan lebih pendek. Tendonya berjalan di belakang malleolus lateralis, di depan tendo m. fibularis longus, dan berinsersio pada tuberositas ossis metatarsi V, yang dapat tertarik lepas pada cedera inversi (fraktur avulsi)."
+    },
+    "facts": {
+      "group": {"en": "Lateral compartment of leg (evertors)", "id": "Kompartemen lateral tungkai bawah (evertor)"},
+      "origin": {"la": "Duae tertiae inferiores faciei lateralis fibulae", "en": "Lower two-thirds of the lateral surface of the fibula"},
+      "insertion": {"la": "Tuberositas ossis metatarsi V", "en": "Dorsal surface of the tuberosity on the lateral side of the base of the fifth metatarsal"},
+      "action": {"en": "Everts the foot and weakly plantarflexes it at the ankle.", "id": "Eversi kaki dan plantarfleksi lemah pada sendi talocruralis."},
+      "nerve": {"la": "Nervus fibularis superficialis", "roots": "L5-S2"},
+      "blood": ["Arteria fibularis", "Arteria tibialis anterior"]
+    },
+    "quiz": {
+      "origin": ["Facies lateralis fibulae (duae tertiae inferiores)", "2/3 distal facies lateralis fibula", "facies lateralis fibulae"],
+      "insertion": ["Tuberositas ossis metatarsi V", "tuberositas metatarsal V", "basis metatarsal V"],
+      "nerve": ["Nervus fibularis superficialis", "N. fibularis superficialis", "N. peroneus superficialis", "Nervus peroneus superficialis"],
+      "action": ["Eversio pedis", "eversi kaki", "eversi dan plantarfleksi kaki", "plantarfleksi kaki"]
+    }
+  },
+  {
+    "key": "gastrocnemius-muscle",
+    "kind": "muscle",
+    "model": false,
+    "la": "Musculus gastrocnemius",
+    "alt": ["M. gastrocnemius", "Gastrocnemius"],
+    "en": "Gastrocnemius",
+    "desc": {
+      "en": "Most superficial muscle of the calf, with two heads from the femoral condyles that form the lower borders of the popliteal fossa. It crosses both knee and ankle and is the main calf muscle for fast movements such as running and jumping.",
+      "id": "Otot betis yang paling superfisial, dengan dua kepala dari condylus femoris yang membentuk batas bawah fossa poplitea. Otot ini menyilang sendi lutut dan pergelangan kaki, dan merupakan otot betis utama untuk gerakan cepat seperti berlari dan melompat."
+    },
+    "facts": {
+      "group": {"en": "Posterior compartment of leg, superficial group (triceps surae)", "id": "Kompartemen posterior tungkai bawah, kelompok superfisial (m. triceps surae)"},
+      "origin": {"la": "Caput laterale: facies lateralis condyli lateralis femoris; caput mediale: facies poplitea femoris supra condylum medialem", "en": "Lateral head: lateral aspect of the lateral femoral condyle. Medial head: popliteal surface of the femur just above the medial condyle."},
+      "insertion": {"la": "Facies posterior tuberis calcanei (per tendinem calcaneum)", "en": "Posterior surface of the calcaneus, through the calcaneal tendon"},
+      "action": {
+        "en": "Plantarflexes the foot at the ankle, lifting the heel in walking and running. It also flexes the knee, and its pull on the ankle weakens when the knee is flexed.",
+        "id": "Plantarfleksi kaki pada sendi talocruralis, mengangkat tumit saat berjalan dan berlari. Otot ini juga melakukan fleksi lutut, dan tarikannya pada pergelangan kaki melemah bila lutut dalam posisi fleksi."
+      },
+      "nerve": {"la": "Nervus tibialis", "roots": "S1-S2"},
+      "blood": ["Arteriae surales"],
+      "parts": ["medial-head-of-gastrocnemius", "lateral-head-of-gastrocnemius"],
+      "clinical": {
+        "en": "A sudden push-off can tear the medial head where it joins the tendon ('tennis leg'), causing sharp pain in the middle of the calf.",
+        "id": "Tolakan mendadak dapat merobek caput mediale pada perbatasannya dengan tendo ('tennis leg'), menimbulkan nyeri tajam di pertengahan betis."
+      }
+    },
+    "quiz": {
+      "origin": ["Condylus medialis et lateralis femoris", "condylus medialis dan lateralis femur", "condyli femoris", "facies poplitea femoris"],
+      "insertion": ["Tuber calcanei (per tendinem calcaneum)", "tuber calcanei", "tendo calcaneus", "tendo Achillis", "tendon Achilles ke tuber calcanei"],
+      "nerve": ["Nervus tibialis", "N. tibialis"],
+      "action": ["Plantarflexio pedis et flexio genus", "plantarfleksi kaki", "plantar fleksi kaki", "plantarfleksi kaki dan fleksi lutut", "fleksi lutut"]
+    }
+  },
+  {
+    "key": "medial-head-of-gastrocnemius",
+    "kind": "muscle-part",
+    "la": "Caput mediale musculi gastrocnemii",
+    "alt": ["Caput mediale m. gastrocnemii", "Caput mediale"],
+    "en": "Medial head of gastrocnemius",
+    "desc": {
+      "en": "Larger head of gastrocnemius, arising above the medial femoral condyle and reaching lower down the calf than the lateral head. It forms the lower medial border of the popliteal fossa.",
+      "id": "Kepala m. gastrocnemius yang lebih besar, berorigo di atas condylus medialis femoris dan turun lebih jauh ke bawah betis dibandingkan caput laterale. Kepala ini membentuk batas inferomedial fossa poplitea."
+    },
+    "facts": {
+      "muscle": "gastrocnemius-muscle",
+      "origin": {"la": "Facies poplitea femoris supra condylum medialem", "en": "Popliteal surface of the femur just above the medial condyle"},
+      "insertion": {"la": "Tuber calcanei (per tendinem calcaneum)", "en": "Calcaneal tuberosity, through the calcaneal tendon"}
+    }
+  },
+  {
+    "key": "lateral-head-of-gastrocnemius",
+    "kind": "muscle-part",
+    "la": "Caput laterale musculi gastrocnemii",
+    "alt": ["Caput laterale m. gastrocnemii", "Caput laterale"],
+    "en": "Lateral head of gastrocnemius",
+    "desc": {
+      "en": "Smaller head of gastrocnemius, arising from the lateral side of the lateral femoral condyle. With plantaris it forms the lower lateral border of the popliteal fossa, and a small sesamoid bone (fabella) is sometimes found in its tendon.",
+      "id": "Kepala m. gastrocnemius yang lebih kecil, berorigo dari sisi lateral condylus lateralis femoris. Bersama m. plantaris, kepala ini membentuk batas inferolateral fossa poplitea, dan kadang ditemukan tulang sesamoid kecil (fabella) di dalam tendonya."
+    },
+    "facts": {
+      "muscle": "gastrocnemius-muscle",
+      "origin": {"la": "Facies lateralis condyli lateralis femoris", "en": "Lateral aspect of the lateral condyle of the femur"},
+      "insertion": {"la": "Tuber calcanei (per tendinem calcaneum)", "en": "Calcaneal tuberosity, through the calcaneal tendon"}
+    }
+  },
+  {
+    "key": "soleus-muscle",
+    "kind": "muscle",
+    "la": "Musculus soleus",
+    "alt": ["M. soleus", "Soleus"],
+    "en": "Soleus",
+    "desc": {
+      "en": "Broad flat muscle deep to gastrocnemius, named for its likeness to a sole, the flat fish. It crosses only the ankle and is rich in slow fibers, which suits it to holding the body upright in standing. The veins inside it form a pump that drives blood up the leg when it contracts.",
+      "id": "Otot lebar dan pipih di bawah m. gastrocnemius, dinamai menurut kemiripannya dengan ikan sebelah (sole). Otot ini hanya menyilang sendi pergelangan kaki dan kaya akan serabut lambat, sehingga cocok untuk menahan tubuh tetap tegak saat berdiri. Vena di dalamnya membentuk pompa yang mendorong darah ke atas saat otot berkontraksi."
+    },
+    "facts": {
+      "group": {"en": "Posterior compartment of leg, superficial group (triceps surae)", "id": "Kompartemen posterior tungkai bawah, kelompok superfisial (m. triceps surae)"},
+      "origin": {"la": "Facies posterior capitis et colli fibulae, quarta superior faciei posterioris fibulae, linea musculi solei et margo medialis tibiae, arcus tendineus musculi solei", "en": "Back of the head and upper quarter of the posterior surface of the fibula, soleal line and medial border of the tibia, and the tendinous arch between the two bones"},
+      "insertion": {"la": "Facies posterior tuberis calcanei (per tendinem calcaneum)", "en": "Posterior surface of the calcaneus, through the calcaneal tendon"},
+      "action": {
+        "en": "Plantarflexes the foot at the ankle whatever the knee position. It is the main postural muscle of the calf, steadying the leg on the foot in standing.",
+        "id": "Plantarfleksi kaki pada sendi talocruralis, tidak bergantung pada posisi lutut. Otot ini merupakan otot postural utama betis yang menstabilkan tungkai bawah di atas kaki saat berdiri."
+      },
+      "nerve": {"la": "Nervus tibialis", "roots": "S1-S2"},
+      "blood": ["Arteriae surales", "Arteria tibialis posterior", "Arteria fibularis"],
+      "clinical": {
+        "en": "Deep vein thrombosis often begins in the venous sinuses inside soleus, especially during long bed rest or long flights.",
+        "id": "Trombosis vena dalam sering berawal di sinus vena di dalam m. soleus, terutama saat tirah baring lama atau penerbangan panjang."
+      }
+    },
+    "quiz": {
+      "origin": ["Caput fibulae et linea musculi solei tibiae", "caput dan collum fibula, linea m. solei pada tibia", "linea musculi solei", "caput fibulae", "facies posterior fibulae et tibiae"],
+      "insertion": ["Tuber calcanei (per tendinem calcaneum)", "tuber calcanei", "tendo calcaneus", "tendo Achillis", "tendon Achilles ke tuber calcanei"],
+      "nerve": ["Nervus tibialis", "N. tibialis"],
+      "action": ["Plantarflexio pedis", "plantarfleksi kaki", "plantar fleksi kaki", "flexio plantaris pedis"]
+    }
+  },
+  {
+    "key": "plantaris-muscle",
+    "kind": "muscle",
+    "la": "Musculus plantaris",
+    "alt": ["M. plantaris", "Plantaris"],
+    "en": "Plantaris",
+    "desc": {
+      "en": "Small muscle with a short belly behind the knee and a very long thin tendon that runs between gastrocnemius and soleus to the calcaneus. It is missing in some people, and surgeons use its tendon as a graft.",
+      "id": "Otot kecil dengan perut pendek di belakang lutut dan tendo yang sangat panjang dan tipis, berjalan di antara m. gastrocnemius dan m. soleus menuju calcaneus. Otot ini tidak ada pada sebagian orang, dan tendonya sering dipakai sebagai cangkok."
+    },
+    "facts": {
+      "group": {"en": "Posterior compartment of leg, superficial group", "id": "Kompartemen posterior tungkai bawah, kelompok superfisial"},
+      "origin": {"la": "Pars inferior lineae supracondylaris lateralis femoris et ligamentum popliteum obliquum", "en": "Lower end of the lateral supracondylar line of the femur and the oblique popliteal ligament"},
+      "insertion": {"la": "Facies posterior tuberis calcanei, medialis ad tendinem calcaneum", "en": "Posterior surface of the calcaneus, medial to or blended with the calcaneal tendon"},
+      "action": {
+        "en": "Weakly helps gastrocnemius plantarflex the foot and flex the knee.",
+        "id": "Membantu lemah m. gastrocnemius dalam plantarfleksi kaki dan fleksi lutut."
+      },
+      "nerve": {"la": "Nervus tibialis", "roots": "S1-S2"},
+      "blood": ["Arteriae surales"],
+      "note": {
+        "en": "The module counts plantaris as part of triceps surae. Moore and Gray's limit triceps surae to the two heads of gastrocnemius and soleus; plantaris is a separate muscle.",
+        "id": "Modul memasukkan m. plantaris sebagai bagian m. triceps surae. Menurut Moore dan Gray's, m. triceps surae hanya terdiri atas kedua caput m. gastrocnemius dan m. soleus; m. plantaris adalah otot tersendiri."
+      }
+    },
+    "quiz": {
+      "origin": ["Linea supracondylaris lateralis femoris", "epicondylus lateralis femoris", "linea supracondylaris lateralis", "condylus lateralis femoris"],
+      "insertion": ["Tuber calcanei", "tuber calcanei (bersama tendo Achilles)", "calcaneus"],
+      "nerve": ["Nervus tibialis", "N. tibialis"],
+      "action": ["Plantarflexio pedis", "plantarfleksi kaki", "plantarfleksi kaki (lemah)", "fleksi lutut"]
+    }
+  },
+  {
+    "key": "triceps-surae-muscle",
+    "kind": "muscle",
+    "model": false,
+    "la": "Musculus triceps surae",
+    "alt": ["M. triceps surae", "Triceps surae"],
+    "en": "Triceps surae",
+    "desc": {
+      "en": "Collective name for the three heads that make up the calf: the medial and lateral heads of gastrocnemius and soleus. They share the calcaneal tendon and together form the most powerful plantarflexor of the foot.",
+      "id": "Nama kolektif untuk tiga kepala yang membentuk betis: caput mediale dan caput laterale m. gastrocnemius serta m. soleus. Ketiganya memiliki tendo bersama, yaitu tendo calcaneus, dan bersama-sama merupakan plantarfleksor terkuat kaki."
+    },
+    "facts": {
+      "group": {"en": "Posterior compartment of leg, superficial group", "id": "Kompartemen posterior tungkai bawah, kelompok superfisial"},
+      "origin": {"la": "Musculus gastrocnemius: condyli femoris; musculus soleus: caput et facies posterior fibulae, linea musculi solei tibiae", "en": "Gastrocnemius: the femoral condyles. Soleus: head and upper posterior surface of the fibula and the soleal line of the tibia."},
+      "insertion": {"la": "Facies posterior tuberis calcanei (per tendinem calcaneum)", "en": "Posterior surface of the calcaneus, through the calcaneal tendon"},
+      "action": {
+        "en": "Plantarflexes the foot at the ankle, raising the heel in walking, running and standing on tiptoe; the gastrocnemius part also flexes the knee.",
+        "id": "Plantarfleksi kaki pada sendi talocruralis, mengangkat tumit saat berjalan, berlari dan berjinjit; bagian m. gastrocnemius juga melakukan fleksi lutut."
+      },
+      "nerve": {"la": "Nervus tibialis", "roots": "S1-S2"},
+      "blood": ["Arteriae surales", "Arteria tibialis posterior", "Arteria fibularis"],
+      "parts": ["medial-head-of-gastrocnemius", "lateral-head-of-gastrocnemius", "soleus-muscle"],
+      "clinical": {
+        "en": "Tapping the calcaneal tendon produces the ankle jerk (Achilles reflex), which tests the tibial nerve and segments S1-S2.",
+        "id": "Ketukan pada tendo calcaneus menimbulkan refleks Achilles (ankle jerk), yang menguji n. tibialis dan segmen S1-S2."
+      },
+      "note": {
+        "en": "The module includes plantaris in triceps surae. Standard references (Moore, Gray's, TA98) count only the two heads of gastrocnemius and soleus; plantaris is a separate muscle.",
+        "id": "Modul memasukkan m. plantaris ke dalam m. triceps surae. Buku acuan standar (Moore, Gray's, TA98) hanya menghitung kedua caput m. gastrocnemius dan m. soleus; m. plantaris adalah otot tersendiri."
+      }
+    },
+    "quiz": {
+      "origin": ["Condyli femoris, caput fibulae et linea musculi solei", "condylus medialis dan lateralis femur, caput fibula, linea m. solei", "condylus femoris, fibula dan tibia"],
+      "insertion": ["Tuber calcanei (per tendinem calcaneum)", "tuber calcanei", "tendo calcaneus", "tendo Achillis", "tendon Achilles ke tuber calcanei"],
+      "nerve": ["Nervus tibialis", "N. tibialis"],
+      "action": ["Plantarflexio pedis", "plantarfleksi kaki", "plantar fleksi kaki", "fleksi lutut"]
+    }
+  },
+  {
+    "key": "calcaneal-tendon",
+    "kind": "tendon",
+    "la": "Tendo calcaneus",
+    "alt": ["Tendo calcaneus (Achillis)", "Tendo Achillis", "Tendo Achilles", "Tendon Achilles", "Tendo calcanei"],
+    "en": "Calcaneal tendon (Achilles tendon)",
+    "desc": {
+      "en": "Thickest and strongest tendon in the body, formed where the tendons of gastrocnemius and soleus unite near the middle of the calf. Its fibers twist as they descend, and it attaches to the middle of the posterior surface of the calcaneus, with a bursa in front of and behind its lower end.",
+      "id": "Tendo paling tebal dan kuat di tubuh, dibentuk oleh penyatuan tendo m. gastrocnemius dan m. soleus di sekitar pertengahan betis. Serabutnya terpuntir saat turun, dan tendo ini melekat pada pertengahan permukaan posterior calcaneus, dengan sebuah bursa di depan dan di belakang ujung bawahnya."
+    },
+    "facts": {
+      "muscle": "triceps-surae-muscle",
+      "insertion": {"la": "Facies posterior tuberis calcanei (pars media)", "en": "Middle part of the posterior surface of the calcaneal tuberosity"},
+      "clinical": {
+        "en": "Rupture usually happens 2-6 cm above the calcaneus during a sudden push-off, typically in middle-aged people playing sport. The patient cannot stand on tiptoe on that side, and squeezing the calf does not plantarflex the foot (positive Thompson test).",
+        "id": "Ruptur biasanya terjadi 2-6 cm di atas calcaneus saat tolakan mendadak, khas pada orang usia pertengahan yang berolahraga. Pasien tidak dapat berjinjit pada sisi itu, dan meremas betis tidak menghasilkan plantarfleksi kaki (tes Thompson positif)."
+      }
+    },
+    "quiz": {
+      "insertion": ["Tuber calcanei (facies posterior)", "tuber calcanei", "calcaneus", "permukaan posterior calcaneus"]
+    }
+  },
+  {
+    "key": "popliteus-muscle",
+    "kind": "muscle",
+    "la": "Musculus popliteus",
+    "alt": ["M. popliteus", "Popliteus"],
+    "en": "Popliteus",
+    "desc": {
+      "en": "Thin triangular muscle forming the lower part of the floor of the popliteal fossa. Its tendon arises inside the knee joint capsule from the lateral femoral condyle and is attached to the lateral meniscus. It unlocks the fully extended knee at the start of flexion.",
+      "id": "Otot tipis berbentuk segitiga yang membentuk bagian bawah dasar fossa poplitea. Tendonya berorigo di dalam capsula sendi lutut dari condylus lateralis femoris dan melekat pada meniscus lateralis. Otot ini membuka kunci lutut yang ekstensi penuh pada awal gerakan fleksi."
+    },
+    "facts": {
+      "group": {"en": "Posterior compartment of leg, deep group", "id": "Kompartemen posterior tungkai bawah, kelompok profunda"},
+      "origin": {"la": "Facies lateralis condyli lateralis femoris et meniscus lateralis", "en": "Lateral surface of the lateral femoral condyle and the lateral meniscus"},
+      "insertion": {"la": "Facies posterior tibiae supra lineam musculi solei", "en": "Posterior surface of the tibia above the soleal line"},
+      "action": {
+        "en": "Unlocks the extended knee. With the foot on the ground it rotates the femur laterally on the tibia; with the foot free it rotates the tibia medially. It also draws the lateral meniscus backward during flexion.",
+        "id": "Membuka kunci lutut yang ekstensi. Bila kaki menapak, otot ini memutar femur ke lateral terhadap tibia; bila kaki bebas, otot ini memutar tibia ke medial. Otot ini juga menarik meniscus lateralis ke belakang saat fleksi."
+      },
+      "nerve": {"la": "Nervus tibialis", "roots": "L4-S1"},
+      "blood": ["Arteria inferior medialis genus", "Arteria inferior lateralis genus", "Arteria tibialis posterior"]
+    },
+    "quiz": {
+      "origin": ["Condylus lateralis femoris", "facies lateralis condyli lateralis femoris", "epicondylus lateralis femoris", "meniscus lateralis"],
+      "insertion": ["Facies posterior tibiae supra lineam musculi solei", "facies posterior tibia (superior)", "facies posterior tibiae", "di atas linea musculi solei"],
+      "nerve": ["Nervus tibialis", "N. tibialis"],
+      "action": ["Rotatio medialis tibiae", "membuka kunci lutut", "unlocking lutut", "rotasi medial tibia", "rotasi lateral femur", "fleksi lutut"]
+    }
+  },
+  {
+    "key": "flexor-digitorum-longus",
+    "kind": "muscle",
+    "la": "Musculus flexor digitorum longus",
+    "alt": ["M. flexor digitorum longus", "Flexor digitorum longus", "Musculus flexor longus digitorum"],
+    "en": "Flexor digitorum longus",
+    "desc": {
+      "en": "Deep calf muscle on the medial part of the posterior tibia. Its tendon passes behind the medial malleolus, crossing superficial to the tibialis posterior tendon in the leg and to the flexor hallucis longus tendon in the sole, then divides into four for the lateral toes.",
+      "id": "Otot betis profunda pada bagian medial permukaan posterior tibia. Tendonya berjalan di belakang malleolus medialis, menyilang di superfisial tendo m. tibialis posterior di tungkai bawah dan di superfisial tendo m. flexor hallucis longus di telapak kaki, lalu terbagi empat untuk jari II-V."
+    },
+    "facts": {
+      "group": {"en": "Posterior compartment of leg, deep group", "id": "Kompartemen posterior tungkai bawah, kelompok profunda"},
+      "origin": {"la": "Pars medialis faciei posterioris tibiae infra lineam musculi solei", "en": "Medial part of the posterior surface of the tibia below the soleal line"},
+      "insertion": {"la": "Bases phalangum distalium digitorum II-V (facies plantaris)", "en": "Plantar surfaces of the bases of the distal phalanges of the lateral four toes"},
+      "action": {
+        "en": "Flexes the lateral four toes, helps plantarflex the foot and supports the longitudinal arch. It lets the toes grip the ground in walking.",
+        "id": "Fleksi jari kaki II-V, membantu plantarfleksi kaki dan menopang arcus longitudinalis. Otot ini membuat jari-jari kaki mencengkeram tanah saat berjalan."
+      },
+      "nerve": {"la": "Nervus tibialis", "roots": "S2-S3"},
+      "blood": ["Arteria tibialis posterior"]
+    },
+    "quiz": {
+      "origin": ["Facies posterior tibiae (pars medialis)", "facies posterior tibia bagian medial", "facies posterior tibiae", "tibia bagian posterior"],
+      "insertion": ["Bases phalangum distalium digitorum II-V", "phalanx distalis digiti II-V", "falang distal jari II-V", "basis falang distal jari II-V"],
+      "nerve": ["Nervus tibialis", "N. tibialis"],
+      "action": ["Flexio digitorum II-V", "fleksi jari II-V", "fleksi jari kaki", "plantarfleksi kaki", "menopang arcus longitudinalis"]
+    }
+  },
+  {
+    "key": "flexor-hallucis-longus",
+    "kind": "muscle",
+    "la": "Musculus flexor hallucis longus",
+    "alt": ["M. flexor hallucis longus", "Flexor hallucis longus", "Musculus flexor longus hallucis"],
+    "en": "Flexor hallucis longus",
+    "desc": {
+      "en": "Most powerful of the deep calf muscles, lying on the posterior surface of the fibula. Its tendon grooves the back of the talus, runs under the sustentaculum tali and passes between the two sesamoids of the great toe. It gives the final push from the great toe at toe-off.",
+      "id": "Otot terkuat di antara otot betis profunda, terletak pada permukaan posterior fibula. Tendonya menempati sulcus di bagian belakang talus, berjalan di bawah sustentaculum tali, lalu lewat di antara kedua os sesamoideum ibu jari kaki. Otot ini memberi dorongan terakhir dari ibu jari kaki saat toe-off."
+    },
+    "facts": {
+      "group": {"en": "Posterior compartment of leg, deep group", "id": "Kompartemen posterior tungkai bawah, kelompok profunda"},
+      "origin": {"la": "Duae tertiae inferiores faciei posterioris fibulae et pars inferior membranae interosseae cruris", "en": "Lower two-thirds of the posterior surface of the fibula and the lower part of the interosseous membrane"},
+      "insertion": {"la": "Basis phalangis distalis hallucis (facies plantaris)", "en": "Plantar surface of the base of the distal phalanx of the great toe"},
+      "action": {
+        "en": "Flexes the great toe at all its joints and weakly plantarflexes the foot. It supports the medial longitudinal arch and gives the push-off at toe-off in walking and running.",
+        "id": "Fleksi ibu jari kaki pada semua sendinya dan plantarfleksi lemah kaki. Otot ini menopang arcus longitudinalis medialis dan memberi dorongan saat toe-off ketika berjalan atau berlari."
+      },
+      "nerve": {"la": "Nervus tibialis", "roots": "S2-S3"},
+      "blood": ["Arteria fibularis", "Arteria tibialis posterior"]
+    },
+    "quiz": {
+      "origin": ["Facies posterior fibulae (duae tertiae inferiores)", "facies posterior fibula bagian distal", "facies posterior fibulae", "2/3 distal facies posterior fibula"],
+      "insertion": ["Basis phalangis distalis hallucis", "basis falang distal hallux", "phalanx distalis hallucis"],
+      "nerve": ["Nervus tibialis", "N. tibialis"],
+      "action": ["Flexio hallucis", "fleksi ibu jari kaki", "fleksi hallux", "plantarfleksi kaki"]
+    }
+  },
+  {
+    "key": "tibialis-posterior-muscle",
+    "kind": "muscle",
+    "la": "Musculus tibialis posterior",
+    "alt": ["M. tibialis posterior", "Tibialis posterior"],
+    "en": "Tibialis posterior",
+    "desc": {
+      "en": "Deepest muscle of the calf, lying on the interosseous membrane between flexor digitorum longus and flexor hallucis longus. Its tendon runs in a groove behind the medial malleolus, the most anterior of the structures there, and fans out to most of the tarsal bones.",
+      "id": "Otot betis yang paling dalam, terletak pada membrana interossea di antara m. flexor digitorum longus dan m. flexor hallucis longus. Tendonya berjalan dalam sulcus di belakang malleolus medialis, paling anterior di antara struktur di tempat itu, lalu menyebar ke sebagian besar ossa tarsi."
+    },
+    "facts": {
+      "group": {"en": "Posterior compartment of leg, deep group", "id": "Kompartemen posterior tungkai bawah, kelompok profunda"},
+      "origin": {"la": "Membrana interossea cruris, facies posterior tibiae infra lineam musculi solei et facies posterior fibulae", "en": "Interosseous membrane, posterior surface of the tibia below the soleal line and posterior surface of the fibula"},
+      "insertion": {"la": "Tuberositas ossis navicularis, ossa cuneiformia, os cuboideum et bases ossium metatarsi II-IV", "en": "Mainly the tuberosity of the navicular; also the cuneiforms, the cuboid and the bases of the second to fourth metatarsals"},
+      "action": {
+        "en": "Inverts the foot and plantarflexes it at the ankle. It is the main dynamic support of the medial longitudinal arch.",
+        "id": "Inversi kaki dan plantarfleksi kaki pada sendi talocruralis. Otot ini merupakan penopang dinamis utama arcus longitudinalis medialis."
+      },
+      "nerve": {"la": "Nervus tibialis", "roots": "L4-L5"},
+      "blood": ["Arteria fibularis", "Arteria tibialis posterior"],
+      "clinical": {
+        "en": "Failure or rupture of its tendon is the commonest cause of acquired flatfoot in adults.",
+        "id": "Gangguan fungsi atau ruptur tendonya merupakan penyebab tersering kaki datar (flatfoot) yang didapat pada orang dewasa."
+      }
+    },
+    "quiz": {
+      "origin": ["Membrana interossea et facies posteriores tibiae et fibulae", "membrana interossea", "facies posterior tibia dan fibula", "membrana interossea dan facies posterior tibia dan fibula"],
+      "insertion": ["Tuberositas ossis navicularis", "os naviculare", "tuberositas navicularis", "naviculare, cuneiformia, cuboideum, basis metatarsal II-IV"],
+      "nerve": ["Nervus tibialis", "N. tibialis"],
+      "action": ["Inversio et plantarflexio pedis", "inversi kaki", "inversi dan plantarfleksi kaki", "plantarfleksi kaki", "menopang arcus longitudinalis"]
+    }
+  }
+]

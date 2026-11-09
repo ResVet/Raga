@@ -1,0 +1,510 @@
+[
+  {
+    "key": "sartorius-muscle",
+    "kind": "muscle",
+    "la": "Musculus sartorius",
+    "alt": ["M. sartorius", "Sartorius"],
+    "en": "Sartorius",
+    "desc": {
+      "en": "Longest muscle in the body, a narrow strap that crosses the front of the thigh obliquely from the anterior superior iliac spine to the medial side of the tibia. It forms the lateral border of the femoral triangle and the roof of the adductor canal, and its tendon is the most anterior of the pes anserinus.",
+      "id": "Otot terpanjang di tubuh, berbentuk pita sempit yang menyilang bagian depan paha secara miring dari spina iliaca anterior superior ke sisi medial tibia. Otot ini membentuk batas lateral trigonum femorale dan atap canalis adductorius, dan tendonya adalah yang paling anterior pada pes anserinus."
+    },
+    "facts": {
+      "group": {"en": "Anterior compartment of thigh", "id": "Kompartemen anterior paha"},
+      "origin": {"la": "Spina iliaca anterior superior et pars superior incisurae infra eam", "en": "Anterior superior iliac spine and the upper part of the notch below it"},
+      "insertion": {"la": "Pars superior faciei medialis tibiae (pes anserinus)", "en": "Upper part of the medial surface of the tibia, as part of the pes anserinus"},
+      "action": {
+        "en": "Flexes, abducts and laterally rotates the thigh at the hip, and flexes the knee; with the knee flexed it helps rotate the leg medially. Together these movements give the cross-legged sitting position.",
+        "id": "Fleksi, abduksi dan rotasi lateral paha pada sendi panggul, serta fleksi lutut; saat lutut fleksi, otot ini membantu rotasi medial tungkai bawah. Gabungan gerakan ini menghasilkan posisi duduk bersila."
+      },
+      "nerve": {"la": "Nervus femoralis", "roots": "L2-L3"},
+      "blood": ["Rami musculares arteriae femoralis", "Arteria circumflexa femoris lateralis"]
+    },
+    "quiz": {
+      "origin": ["Spina iliaca anterior superior", "SIAS", "spina iliaca anterior superior (SIAS)"],
+      "insertion": ["Facies medialis tibiae (pes anserinus)", "pes anserinus", "bagian medial tuberositas tibiae", "facies medialis tibiae proksimal", "permukaan medial tibia bagian atas"],
+      "nerve": ["Nervus femoralis", "N. femoralis"],
+      "action": ["Flexio, abductio et rotatio lateralis femoris et flexio genus", "fleksi, abduksi dan rotasi lateral paha", "fleksi paha dan fleksi lutut", "fleksi lutut", "flexio genus", "posisi duduk bersila"]
+    }
+  },
+  {
+    "key": "quadriceps-femoris-muscle",
+    "kind": "muscle",
+    "model": false,
+    "la": "Musculus quadriceps femoris",
+    "alt": ["M. quadriceps femoris", "Quadriceps femoris", "Musculus quadriceps"],
+    "en": "Quadriceps femoris",
+    "desc": {
+      "en": "Large four-headed extensor of the knee covering the front and sides of the femur: rectus femoris, vastus lateralis, vastus intermedius and vastus medialis. The four heads join in the quadriceps tendon, which encloses the patella and continues as the patellar ligament to the tibial tuberosity.",
+      "id": "Otot besar berkepala empat yang membungkus bagian depan dan samping femur: m. rectus femoris, m. vastus lateralis, m. vastus intermedius dan m. vastus medialis. Keempat kepala bersatu dalam tendo quadriceps yang membungkus patella, lalu berlanjut sebagai ligamentum patellae ke tuberositas tibiae."
+    },
+    "facts": {
+      "group": {"en": "Anterior compartment of thigh", "id": "Kompartemen anterior paha"},
+      "origin": {
+        "la": "Musculus rectus femoris: spina iliaca anterior inferior et ilium supra acetabulum; musculi vasti: corpus femoris (linea intertrochanterica, labia lineae asperae, facies anterior et lateralis)",
+        "en": "Rectus femoris: anterior inferior iliac spine and the ilium above the acetabulum. The three vasti: shaft of the femur (intertrochanteric line, both lips of the linea aspera, anterior and lateral surfaces)."
+      },
+      "insertion": {"la": "Basis patellae et per ligamentum patellae tuberositas tibiae", "en": "Base of the patella, then the tibial tuberosity through the patellar ligament; the vasti also send expansions (patellar retinacula) to the tibial condyles"},
+      "action": {
+        "en": "Extends the leg at the knee. It is the main knee extensor and works hardest in rising from a chair, climbing and jumping. Rectus femoris, the only head that crosses the hip, also flexes the thigh.",
+        "id": "Ekstensi tungkai bawah pada sendi lutut. Otot ini merupakan ekstensor utama lutut dan bekerja paling keras saat bangkit dari kursi, naik tangga dan melompat. M. rectus femoris, satu-satunya kepala yang menyilang sendi panggul, juga melakukan fleksi paha."
+      },
+      "nerve": {"la": "Nervus femoralis", "roots": "L2-L4"},
+      "blood": ["Arteria circumflexa femoris lateralis (ramus descendens)", "Arteria profunda femoris", "Rami musculares arteriae femoralis"],
+      "parts": ["rectus-femoris-muscle", "vastus-lateralis-muscle", "vastus-intermedius-muscle", "vastus-medialis-muscle"],
+      "clinical": {
+        "en": "Tapping the patellar ligament stretches the quadriceps and produces the knee jerk (patellar reflex), which tests the femoral nerve and segments L2-L4, mainly L3-L4.",
+        "id": "Ketukan pada ligamentum patellae meregangkan m. quadriceps dan menimbulkan refleks patella (knee jerk), yang menguji n. femoralis dan segmen L2-L4, terutama L3-L4."
+      }
+    },
+    "quiz": {
+      "origin": ["Spina iliaca anterior inferior et corpus femoris", "SIAI dan corpus femoris", "spina iliaca anterior inferior, linea aspera, corpus femoris", "corpus femoris"],
+      "insertion": ["Tuberositas tibiae (per ligamentum patellae)", "tuberositas tibiae", "basis patellae", "patella dan tuberositas tibiae", "ligamentum patellae"],
+      "nerve": ["Nervus femoralis", "N. femoralis"],
+      "action": ["Extensio articulationis genus", "ekstensi lutut", "extensio genus", "ekstensi tungkai bawah", "ekstensi sendi lutut"]
+    }
+  },
+  {
+    "key": "rectus-femoris-muscle",
+    "kind": "muscle",
+    "la": "Musculus rectus femoris",
+    "alt": ["M. rectus femoris", "Rectus femoris"],
+    "en": "Rectus femoris",
+    "desc": {
+      "en": "Superficial central head of quadriceps femoris and the only one that crosses both hip and knee. Its belly is bipennate, and it arises by two heads: a straight head from the anterior inferior iliac spine and a reflected head from the ilium just above the acetabulum.",
+      "id": "Kepala m. quadriceps femoris yang letaknya superfisial di tengah dan satu-satunya yang menyilang sendi panggul dan sendi lutut. Perutnya bipennatus, dan otot ini berorigo dengan dua kepala: caput rectum dari spina iliaca anterior inferior dan caput reflexum dari os ilium tepat di atas acetabulum."
+    },
+    "facts": {
+      "group": {"en": "Anterior compartment of thigh (quadriceps femoris)", "id": "Kompartemen anterior paha (m. quadriceps femoris)"},
+      "origin": {"la": "Caput rectum: spina iliaca anterior inferior; caput reflexum: sulcus supra-acetabularis ossis ilii", "en": "Straight head: anterior inferior iliac spine. Reflected head: ilium just above the acetabulum (supra-acetabular groove)."},
+      "insertion": {"la": "Basis patellae et per ligamentum patellae tuberositas tibiae", "en": "Base of the patella through the quadriceps tendon, then the tibial tuberosity through the patellar ligament"},
+      "action": {
+        "en": "Extends the knee and flexes the thigh at the hip, the two movements combined in kicking a ball.",
+        "id": "Ekstensi lutut dan fleksi paha pada sendi panggul, dua gerakan yang digabungkan saat menendang bola."
+      },
+      "nerve": {"la": "Nervus femoralis", "roots": "L2-L4"},
+      "blood": ["Arteria circumflexa femoris lateralis (ramus descendens)", "Arteria profunda femoris"],
+      "note": {
+        "en": "The module writes the origin as 'SIAS (spina iliaca anterior inferior)'. SIAS is the usual abbreviation for spina iliaca anterior superior, where sartorius and tensor fasciae latae arise. Rectus femoris arises from the inferior spine (SIAI).",
+        "id": "Modul menulis origo sebagai 'SIAS (spina iliaca anterior inferior)'. SIAS adalah singkatan untuk spina iliaca anterior superior, tempat origo m. sartorius dan m. tensor fasciae latae. M. rectus femoris berorigo pada spina inferior (SIAI)."
+      }
+    },
+    "quiz": {
+      "origin": ["Spina iliaca anterior inferior", "SIAI", "spina iliaca anterior inferior et sulcus supra-acetabularis", "spina iliaca anterior inferior dan atap acetabulum"],
+      "insertion": ["Tuberositas tibiae (per ligamentum patellae)", "basis patellae", "tuberositas tibiae", "patella", "ligamentum patellae"],
+      "nerve": ["Nervus femoralis", "N. femoralis"],
+      "action": ["Extensio genus et flexio coxae", "ekstensi lutut dan fleksi panggul", "ekstensi lutut", "fleksi paha", "fleksi panggul"]
+    }
+  },
+  {
+    "key": "vastus-lateralis-muscle",
+    "kind": "muscle",
+    "la": "Musculus vastus lateralis",
+    "alt": ["M. vastus lateralis", "Vastus lateralis"],
+    "en": "Vastus lateralis",
+    "desc": {
+      "en": "Largest head of quadriceps femoris, forming the bulk of the lateral thigh under the iliotibial tract. It is the usual site for intramuscular injection in infants and for muscle biopsy.",
+      "id": "Kepala terbesar m. quadriceps femoris yang membentuk sebagian besar massa paha lateral di bawah tractus iliotibialis. Otot ini menjadi tempat injeksi intramuskular yang lazim pada bayi dan tempat biopsi otot."
+    },
+    "facts": {
+      "group": {"en": "Anterior compartment of thigh (quadriceps femoris)", "id": "Kompartemen anterior paha (m. quadriceps femoris)"},
+      "origin": {"la": "Pars superior lineae intertrochantericae, trochanter major, labium laterale tuberositatis gluteae et labium laterale lineae asperae", "en": "Upper part of the intertrochanteric line, greater trochanter, lateral lip of the gluteal tuberosity and lateral lip of the linea aspera"},
+      "insertion": {"la": "Basis et margo lateralis patellae, per ligamentum patellae tuberositas tibiae; retinaculum patellae laterale", "en": "Base and lateral border of the patella, then the tibial tuberosity through the patellar ligament; also the lateral patellar retinaculum"},
+      "action": {"en": "Extends the knee.", "id": "Ekstensi lutut."},
+      "nerve": {"la": "Nervus femoralis", "roots": "L2-L4"},
+      "blood": ["Arteria circumflexa femoris lateralis (ramus descendens)", "Arteriae perforantes"]
+    },
+    "quiz": {
+      "origin": ["Trochanter major et labium laterale lineae asperae", "trochanter major dan linea aspera (labium laterale)", "labium laterale lineae asperae", "trochanter major", "linea intertrochanterica"],
+      "insertion": ["Tuberositas tibiae (per ligamentum patellae)", "basis patellae", "tuberositas tibiae", "patella"],
+      "nerve": ["Nervus femoralis", "N. femoralis"],
+      "action": ["Extensio articulationis genus", "ekstensi lutut", "extensio genus"]
+    }
+  },
+  {
+    "key": "vastus-intermedius-muscle",
+    "kind": "muscle",
+    "la": "Musculus vastus intermedius",
+    "alt": ["M. vastus intermedius", "Vastus intermedius"],
+    "en": "Vastus intermedius",
+    "desc": {
+      "en": "Deepest head of quadriceps femoris, lying on the anterior and lateral surfaces of the femoral shaft under rectus femoris. It is seen only after rectus femoris is reflected. Articularis genus is a separated slip of its deepest fibers.",
+      "id": "Kepala m. quadriceps femoris yang paling dalam, terletak pada permukaan anterior dan lateral corpus femoris di bawah m. rectus femoris. Otot ini baru terlihat setelah m. rectus femoris disingkapkan. M. articularis genus merupakan berkas serabut terdalamnya yang terpisah."
+    },
+    "facts": {
+      "group": {"en": "Anterior compartment of thigh (quadriceps femoris)", "id": "Kompartemen anterior paha (m. quadriceps femoris)"},
+      "origin": {"la": "Facies anterior et lateralis corporis femoris (duae tertiae superiores)", "en": "Anterior and lateral surfaces of the upper two-thirds of the femoral shaft"},
+      "insertion": {"la": "Basis patellae (lamina profunda tendinis quadricipitis), per ligamentum patellae tuberositas tibiae", "en": "Base of the patella (deep layer of the quadriceps tendon), then the tibial tuberosity through the patellar ligament"},
+      "action": {"en": "Extends the knee.", "id": "Ekstensi lutut."},
+      "nerve": {"la": "Nervus femoralis", "roots": "L2-L4"},
+      "blood": ["Arteria circumflexa femoris lateralis", "Arteria profunda femoris"]
+    },
+    "quiz": {
+      "origin": ["Facies anterior et lateralis corporis femoris", "facies anterior dan lateral corpus femoris", "corpus femoris", "permukaan anterior dan lateral femur"],
+      "insertion": ["Tuberositas tibiae (per ligamentum patellae)", "basis patellae", "tuberositas tibiae", "patella"],
+      "nerve": ["Nervus femoralis", "N. femoralis"],
+      "action": ["Extensio articulationis genus", "ekstensi lutut", "extensio genus"]
+    }
+  },
+  {
+    "key": "vastus-medialis-muscle",
+    "kind": "muscle",
+    "la": "Musculus vastus medialis",
+    "alt": ["M. vastus medialis", "Vastus medialis"],
+    "en": "Vastus medialis",
+    "desc": {
+      "en": "Head of quadriceps femoris on the medial side of the thigh, forming the bulge above and medial to the patella. Its lowest fibers run almost horizontally (vastus medialis obliquus) and pull the patella medially, resisting its tendency to slide laterally.",
+      "id": "Kepala m. quadriceps femoris di sisi medial paha yang membentuk tonjolan di atas dan medial patella. Serabut paling bawahnya berjalan hampir mendatar (vastus medialis obliquus) dan menarik patella ke medial, sehingga menahan kecenderungan patella bergeser ke lateral."
+    },
+    "facts": {
+      "group": {"en": "Anterior compartment of thigh (quadriceps femoris)", "id": "Kompartemen anterior paha (m. quadriceps femoris)"},
+      "origin": {"la": "Pars inferior lineae intertrochantericae, linea spiralis, labium mediale lineae asperae et linea supracondylaris medialis", "en": "Lower part of the intertrochanteric line, spiral line, medial lip of the linea aspera and the medial supracondylar line"},
+      "insertion": {"la": "Basis et margo medialis patellae, per ligamentum patellae tuberositas tibiae; retinaculum patellae mediale", "en": "Base and medial border of the patella, then the tibial tuberosity through the patellar ligament; also the medial patellar retinaculum"},
+      "action": {
+        "en": "Extends the knee and stabilizes the patella, keeping it from dislocating laterally.",
+        "id": "Ekstensi lutut dan menstabilkan patella agar tidak terdislokasi ke lateral."
+      },
+      "nerve": {"la": "Nervus femoralis", "roots": "L2-L4"},
+      "blood": ["Rami musculares arteriae femoralis", "Arteria profunda femoris", "Arteria descendens genus"]
+    },
+    "quiz": {
+      "origin": ["Linea intertrochanterica et labium mediale lineae asperae", "labium mediale lineae asperae", "linea aspera (labium mediale)", "linea intertrochanterica"],
+      "insertion": ["Tuberositas tibiae (per ligamentum patellae)", "basis patellae", "tuberositas tibiae", "patella"],
+      "nerve": ["Nervus femoralis", "N. femoralis"],
+      "action": ["Extensio articulationis genus", "ekstensi lutut", "extensio genus", "menstabilkan patella"]
+    }
+  },
+  {
+    "key": "articularis-genus-muscle",
+    "kind": "muscle",
+    "model": false,
+    "la": "Musculus articularis genus",
+    "alt": ["M. articularis genus", "Articularis genus", "Musculus articularis genu", "M. articularis genu"],
+    "en": "Articularis genus",
+    "desc": {
+      "en": "Small flat slip of muscle under vastus intermedius, running from the lower front of the femur to the synovial membrane of the knee. It pulls the suprapatellar bursa upward as the knee extends, so the membrane is not caught between patella and femur.",
+      "id": "Berkas otot kecil dan pipih di bawah m. vastus intermedius, berjalan dari bagian bawah depan femur ke membrana synovialis sendi lutut. Otot ini menarik bursa suprapatellaris ke atas saat lutut ekstensi, sehingga membran tidak terjepit di antara patella dan femur."
+    },
+    "facts": {
+      "group": {"en": "Anterior compartment of thigh (deep to vastus intermedius)", "id": "Kompartemen anterior paha (di bawah m. vastus intermedius)"},
+      "origin": {"la": "Facies anterior partis inferioris corporis femoris", "en": "Anterior surface of the lower femoral shaft, deep to vastus intermedius"},
+      "insertion": {"la": "Membrana synovialis articulationis genus et bursa suprapatellaris", "en": "Synovial membrane of the knee joint and the wall of the suprapatellar bursa"},
+      "action": {
+        "en": "Pulls the synovial membrane and the suprapatellar bursa upward during knee extension.",
+        "id": "Menarik membrana synovialis dan bursa suprapatellaris ke atas saat ekstensi lutut."
+      },
+      "nerve": {"la": "Nervus femoralis (ramus musculi vasti intermedii)", "roots": "L3-L4"},
+      "blood": ["Rami musculares arteriae femoralis"]
+    },
+    "quiz": {
+      "origin": ["Facies anterior corporis femoris (pars inferior)", "bagian distal anterior femur", "facies anterior femur distal"],
+      "insertion": ["Bursa suprapatellaris", "membrana synovialis articulationis genus", "kapsula sendi lutut (recessus suprapatellaris)", "recessus suprapatellaris", "capsula articularis genus"],
+      "nerve": ["Nervus femoralis", "N. femoralis"],
+      "action": ["Elevatio bursae suprapatellaris", "menarik kapsula sendi lutut ke atas", "menarik bursa suprapatellaris ke atas", "mencegah kapsul sendi lutut terjepit"]
+    }
+  },
+  {
+    "key": "pectineus-muscle",
+    "kind": "muscle",
+    "la": "Musculus pectineus",
+    "alt": ["M. pectineus", "Pectineus"],
+    "en": "Pectineus",
+    "desc": {
+      "en": "Flat quadrangular muscle in the floor of the femoral triangle, between iliopsoas laterally and adductor longus medially. It sits on the boundary between the anterior and medial compartments and often has a double nerve supply, femoral and obturator.",
+      "id": "Otot pipih segiempat di dasar trigonum femorale, di antara m. iliopsoas di lateral dan m. adductor longus di medial. Otot ini terletak di perbatasan kompartemen anterior dan medial, dan sering mendapat persarafan ganda dari n. femoralis dan n. obturatorius."
+    },
+    "facts": {
+      "group": {"en": "Medial compartment of thigh (adductor group), superficial layer", "id": "Kompartemen medial paha (kelompok adduktor), lapisan superfisial"},
+      "origin": {"la": "Pecten ossis pubis (ramus superior ossis pubis)", "en": "Pecten pubis on the superior ramus of the pubis"},
+      "insertion": {"la": "Linea pectinea femoris", "en": "Pectineal line of the femur, just below the lesser trochanter"},
+      "action": {
+        "en": "Adducts and flexes the thigh at the hip and assists medial rotation.",
+        "id": "Adduksi dan fleksi paha pada sendi panggul, serta membantu rotasi medial."
+      },
+      "nerve": {"la": "Nervus femoralis (interdum etiam ramus nervi obturatorii)", "roots": "L2-L3"},
+      "blood": ["Arteria circumflexa femoris medialis", "Arteria obturatoria", "Rami musculares arteriae femoralis"]
+    },
+    "quiz": {
+      "origin": ["Pecten ossis pubis", "pecten pubis", "ramus superior ossis pubis", "eminentia iliopubica dan pecten ossis pubis"],
+      "insertion": ["Linea pectinea femoris", "linea pectinea", "linea pectinea femur"],
+      "nerve": ["Nervus femoralis", "N. femoralis", "N. femoralis dan n. obturatorius"],
+      "action": ["Adductio et flexio femoris", "adduksi dan fleksi paha", "adduksi paha", "fleksi paha", "rotasi medial paha"]
+    }
+  },
+  {
+    "key": "adductor-longus",
+    "kind": "muscle",
+    "la": "Musculus adductor longus",
+    "alt": ["M. adductor longus", "Adductor longus"],
+    "en": "Adductor longus",
+    "desc": {
+      "en": "Most anterior of the adductors, a large fan-shaped muscle whose round tendon can be felt in the groin when the thigh is adducted against resistance. Its medial border forms the medial boundary of the femoral triangle.",
+      "id": "Otot adduktor yang letaknya paling anterior, berbentuk kipas besar dengan tendo bulat yang dapat diraba di lipat paha saat paha diadduksi melawan tahanan. Tepi medialnya membentuk batas medial trigonum femorale."
+    },
+    "facts": {
+      "group": {"en": "Medial compartment of thigh (adductor group), superficial layer", "id": "Kompartemen medial paha (kelompok adduktor), lapisan superfisial"},
+      "origin": {"la": "Corpus ossis pubis infra cristam pubicam", "en": "Body of the pubis below the pubic crest, in the angle beside the symphysis"},
+      "insertion": {"la": "Labium mediale lineae asperae (tertia media)", "en": "Middle third of the linea aspera (medial lip)"},
+      "action": {
+        "en": "Adducts the thigh and assists flexion; its share in rotation is small.",
+        "id": "Adduksi paha dan membantu fleksi; peranannya dalam rotasi kecil."
+      },
+      "nerve": {"la": "Nervus obturatorius (ramus anterior)", "roots": "L2-L4"},
+      "blood": ["Arteria profunda femoris", "Arteria circumflexa femoris medialis", "Arteria obturatoria"],
+      "clinical": {
+        "en": "Strain of the upper adductor longus is the usual groin pull in footballers and sprinters.",
+        "id": "Cedera regangan bagian atas m. adductor longus merupakan cedera lipat paha (groin strain) yang paling sering pada pemain sepak bola dan pelari cepat."
+      },
+      "note": {
+        "en": "The module gives the origin as the superior ramus of the pubis. Moore and Gray's place it on the body of the pubis, below the pubic crest and lateral to the symphysis.",
+        "id": "Modul menulis origo pada ramus superior ossis pubis. Menurut Moore dan Gray's, origonya pada corpus ossis pubis, di bawah crista pubica dan di lateral symphysis."
+      }
+    },
+    "quiz": {
+      "origin": ["Corpus ossis pubis infra cristam pubicam", "corpus ossis pubis", "ramus superior ossis pubis", "os pubis dekat simfisis pubis"],
+      "insertion": ["Linea aspera (tertia media)", "linea aspera", "labium mediale lineae asperae", "linea aspera bagian tengah"],
+      "nerve": ["Nervus obturatorius", "N. obturatorius", "ramus anterior n. obturatorii"],
+      "action": ["Adductio femoris", "adduksi paha", "adduksi panggul", "adduksi dan fleksi paha"]
+    }
+  },
+  {
+    "key": "adductor-brevis",
+    "kind": "muscle",
+    "la": "Musculus adductor brevis",
+    "alt": ["M. adductor brevis", "Adductor brevis"],
+    "en": "Adductor brevis",
+    "desc": {
+      "en": "Short triangular adductor lying behind pectineus and adductor longus. The anterior branch of the obturator nerve runs in front of it and the posterior branch behind it, which helps identify it in dissection.",
+      "id": "Otot adduktor pendek berbentuk segitiga yang terletak di belakang m. pectineus dan m. adductor longus. Ramus anterior n. obturatorius berjalan di depannya dan ramus posterior di belakangnya, sehingga otot ini mudah dikenali saat diseksi."
+    },
+    "facts": {
+      "group": {"en": "Medial compartment of thigh (adductor group), intermediate layer", "id": "Kompartemen medial paha (kelompok adduktor), lapisan intermedia"},
+      "origin": {"la": "Corpus et ramus inferior ossis pubis", "en": "Body and inferior ramus of the pubis"},
+      "insertion": {"la": "Linea pectinea et pars proximalis labii medialis lineae asperae", "en": "Pectineal line and the proximal part of the linea aspera"},
+      "action": {"en": "Adducts the thigh and helps flex it.", "id": "Adduksi paha dan membantu fleksi paha."},
+      "nerve": {"la": "Nervus obturatorius", "roots": "L2-L4"},
+      "blood": ["Arteria profunda femoris", "Arteria circumflexa femoris medialis", "Arteria obturatoria"]
+    },
+    "quiz": {
+      "origin": ["Corpus et ramus inferior ossis pubis", "ramus inferior ossis pubis", "corpus ossis pubis", "os pubis"],
+      "insertion": ["Linea pectinea et linea aspera (pars proximalis)", "linea aspera bagian proksimal", "linea aspera", "linea pectinea"],
+      "nerve": ["Nervus obturatorius", "N. obturatorius"],
+      "action": ["Adductio femoris", "adduksi paha", "adduksi dan fleksi paha"]
+    }
+  },
+  {
+    "key": "adductor-magnus",
+    "kind": "muscle",
+    "la": "Musculus adductor magnus",
+    "alt": ["M. adductor magnus", "Adductor magnus"],
+    "en": "Adductor magnus",
+    "desc": {
+      "en": "Largest and deepest adductor, made of two parts: an adductor part from the pubic and ischial rami and a hamstring part from the ischial tuberosity. The femoral vessels pass between its two insertions, through the adductor hiatus, to reach the popliteal fossa.",
+      "id": "Otot adduktor terbesar dan terdalam, terdiri atas dua bagian: pars adductoria dari ramus ossis pubis dan ramus ossis ischii, serta pars hamstring dari tuber ischiadicum. Vasa femoralis lewat di antara kedua insersionya melalui hiatus adductorius menuju fossa poplitea."
+    },
+    "facts": {
+      "group": {"en": "Medial compartment of thigh (adductor group), deep layer", "id": "Kompartemen medial paha (kelompok adduktor), lapisan profunda"},
+      "origin": {"la": "Pars adductoria: ramus inferior ossis pubis et ramus ossis ischii; pars hamstring: tuber ischiadicum", "en": "Adductor part: inferior ramus of the pubis and ramus of the ischium. Hamstring part: ischial tuberosity."},
+      "insertion": {"la": "Pars adductoria: tuberositas glutea, linea aspera et linea supracondylaris medialis; pars hamstring: tuberculum adductorium femoris", "en": "Adductor part: gluteal tuberosity, linea aspera and medial supracondylar line. Hamstring part: adductor tubercle of the femur."},
+      "action": {
+        "en": "Adducts the thigh with great force. The adductor part also flexes the thigh, and the hamstring part extends it.",
+        "id": "Adduksi paha yang kuat. Pars adductoria juga melakukan fleksi paha, sedangkan pars hamstring melakukan ekstensi paha."
+      },
+      "nerve": {"la": "Pars adductoria: nervus obturatorius (ramus posterior); pars hamstring: pars tibialis nervi ischiadici", "roots": "L2-L4"},
+      "blood": ["Arteriae perforantes", "Arteria obturatoria", "Arteria femoralis", "Arteria poplitea"]
+    },
+    "quiz": {
+      "origin": ["Ramus ischiopubicus et tuber ischiadicum", "ramus inferior ossis pubis, ramus ossis ischii dan tuber ischiadicum", "tuber ischiadicum", "ramus ischiopubicus"],
+      "insertion": ["Linea aspera et tuberculum adductorium", "linea aspera dan tuberculum adductorium", "tuberculum adductorium femoris", "linea aspera", "tuberositas glutea, linea aspera, tuberculum adductorium"],
+      "nerve": ["Nervus obturatorius et pars tibialis nervi ischiadici", "N. obturatorius dan n. tibialis", "N. obturatorius dan n. ischiadicus", "N. obturatorius"],
+      "action": ["Adductio femoris", "adduksi paha", "adduksi paha (kuat)", "adduksi, fleksi dan ekstensi paha"]
+    }
+  },
+  {
+    "key": "adductor-minimus",
+    "kind": "muscle",
+    "verify": true,
+    "la": "Musculus adductor minimus",
+    "alt": ["M. adductor minimus", "Adductor minimus"],
+    "en": "Adductor minimus",
+    "desc": {
+      "en": "Upper, nearly horizontal part of adductor magnus, often separated from the rest by a slit through which a perforating artery passes. Terminologia Anatomica gives it a name of its own.",
+      "id": "Bagian atas m. adductor magnus yang serabutnya hampir mendatar, sering terpisah dari bagian lainnya oleh celah yang dilewati arteria perforans. Terminologia Anatomica memberinya nama tersendiri."
+    },
+    "facts": {
+      "group": {"en": "Medial compartment of thigh (adductor group), deep layer", "id": "Kompartemen medial paha (kelompok adduktor), lapisan profunda"},
+      "origin": {"la": "Ramus inferior ossis pubis (pars anterior rami ischiopubici)", "en": "Inferior ramus of the pubis, at the front of the ischiopubic ramus"},
+      "insertion": {"la": "Labium mediale lineae asperae (pars proximalis) usque ad tuberositatem gluteam", "en": "Upper part of the medial lip of the linea aspera, up to the gluteal tuberosity"},
+      "action": {
+        "en": "Adducts the thigh; it may help rotate it laterally.",
+        "id": "Adduksi paha; dapat membantu rotasi lateral paha."
+      },
+      "nerve": {"la": "Nervus obturatorius (ramus posterior)", "roots": "L2-L4"},
+      "blood": ["Arteria circumflexa femoris medialis", "Arteria obturatoria", "Arteriae perforantes"],
+      "note": {
+        "en": "The module gives the origin as the ramus of the ischium. Most references place it on the inferior ramus of the pubis, the front part of the ischiopubic ramus.",
+        "id": "Modul menulis origo pada ramus ossis ischii. Sebagian besar buku acuan menempatkannya pada ramus inferior ossis pubis, yaitu bagian depan ramus ischiopubicus."
+      }
+    },
+    "quiz": {
+      "origin": ["Ramus inferior ossis pubis", "ramus ischiopubicus", "ramus ossis ischii", "bagian atas m. adductor magnus"],
+      "insertion": ["Linea aspera (pars proximalis)", "linea aspera bagian atas", "linea aspera", "tuberositas glutea"],
+      "nerve": ["Nervus obturatorius", "N. obturatorius"],
+      "action": ["Adductio femoris", "adduksi paha", "rotasi lateral paha"]
+    }
+  },
+  {
+    "key": "gracilis-muscle",
+    "kind": "muscle",
+    "la": "Musculus gracilis",
+    "alt": ["M. gracilis", "Gracilis"],
+    "en": "Gracilis",
+    "desc": {
+      "en": "Long, slender strap muscle along the medial side of the thigh, the most superficial of the adductors and the only one that crosses the knee. Surgeons often transfer it as a muscle flap because its loss causes little weakness.",
+      "id": "Otot pita yang panjang dan ramping di sisi medial paha, adduktor paling superfisial dan satu-satunya adduktor yang menyilang sendi lutut. Ahli bedah sering memindahkannya sebagai flap otot karena kehilangan otot ini hampir tidak menimbulkan kelemahan."
+    },
+    "facts": {
+      "group": {"en": "Medial compartment of thigh (adductor group), superficial layer", "id": "Kompartemen medial paha (kelompok adduktor), lapisan superfisial"},
+      "origin": {"la": "Corpus et ramus inferior ossis pubis", "en": "Body and inferior ramus of the pubis"},
+      "insertion": {"la": "Pars superior faciei medialis tibiae (pes anserinus)", "en": "Upper part of the medial surface of the tibia, in the pes anserinus between sartorius and semitendinosus"},
+      "action": {
+        "en": "Adducts the thigh, flexes the knee and helps rotate the leg medially when the knee is flexed.",
+        "id": "Adduksi paha, fleksi lutut, dan membantu rotasi medial tungkai bawah saat lutut fleksi."
+      },
+      "nerve": {"la": "Nervus obturatorius (ramus anterior)", "roots": "L2-L3"},
+      "blood": ["Arteria obturatoria", "Arteria circumflexa femoris medialis", "Arteria profunda femoris"]
+    },
+    "quiz": {
+      "origin": ["Corpus et ramus inferior ossis pubis", "ramus inferior ossis pubis", "os pubis"],
+      "insertion": ["Facies medialis tibiae (pes anserinus)", "pes anserinus", "bagian medial tibia (pes anserinus)", "facies medialis tibiae proksimal"],
+      "nerve": ["Nervus obturatorius", "N. obturatorius"],
+      "action": ["Adductio femoris et flexio genus", "adduksi paha", "adduksi paha dan fleksi lutut", "fleksi lutut", "rotasi medial tungkai saat lutut fleksi"]
+    }
+  },
+  {
+    "key": "biceps-femoris-muscle",
+    "kind": "muscle",
+    "model": false,
+    "la": "Musculus biceps femoris",
+    "alt": ["M. biceps femoris", "Biceps femoris"],
+    "en": "Biceps femoris",
+    "desc": {
+      "en": "Lateral hamstring with two heads: a long head from the ischial tuberosity and a short head from the back of the femur. They join in a tendon that can be felt on the lateral side of the back of the knee and ends on the head of the fibula. The long head is supplied by the tibial part of the sciatic nerve and the short head by the common fibular part.",
+      "id": "Otot hamstring lateral dengan dua kepala: caput longum dari tuber ischiadicum dan caput breve dari bagian belakang femur. Keduanya bersatu menjadi tendo yang dapat diraba di sisi lateral belakang lutut dan berinsersio pada caput fibulae. Caput longum dipersarafi bagian tibialis n. ischiadicus, sedangkan caput breve oleh bagian fibularis communis."
+    },
+    "facts": {
+      "group": {"en": "Posterior compartment of thigh (hamstrings)", "id": "Kompartemen posterior paha (hamstring)"},
+      "origin": {"la": "Caput longum: tuber ischiadicum; caput breve: labium laterale lineae asperae et linea supracondylaris lateralis femoris", "en": "Long head: ischial tuberosity, by a common tendon with semitendinosus. Short head: lateral lip of the linea aspera and the lateral supracondylar line of the femur."},
+      "insertion": {"la": "Facies lateralis capitis fibulae", "en": "Lateral side of the head of the fibula; the fibular collateral ligament splits the tendon here"},
+      "action": {
+        "en": "Flexes the knee and rotates the flexed leg laterally. The long head also extends the thigh at the hip.",
+        "id": "Fleksi lutut dan rotasi lateral tungkai bawah saat lutut fleksi. Caput longum juga melakukan ekstensi paha pada sendi panggul."
+      },
+      "nerve": {"la": "Caput longum: pars tibialis nervi ischiadici; caput breve: pars fibularis communis nervi ischiadici", "roots": "L5-S2"},
+      "blood": ["Arteriae perforantes", "Arteria glutea inferior", "Arteria circumflexa femoris medialis", "Arteria superior lateralis genus"],
+      "parts": ["long-head-of-biceps-femoris", "short-head-of-biceps-femoris"],
+      "clinical": {
+        "en": "Hamstring strains are common in sprinters, and the long head of biceps femoris is the muscle torn most often.",
+        "id": "Cedera regangan hamstring sering terjadi pada pelari cepat, dan caput longum m. biceps femoris adalah otot yang paling sering robek."
+      }
+    },
+    "quiz": {
+      "origin": ["Tuber ischiadicum et linea aspera", "tuber ischiadicum dan linea aspera (labium laterale)", "tuber ischiadicum", "caput longum: tuber ischiadicum; caput breve: linea aspera"],
+      "insertion": ["Caput fibulae", "caput fibulae (kepala fibula)", "kepala fibula"],
+      "nerve": ["Nervus ischiadicus (pars tibialis et pars fibularis communis)", "N. ischiadicus", "N. tibialis dan n. fibularis communis", "N. tibialis dan n. peroneus communis"],
+      "action": ["Flexio genus et extensio coxae", "fleksi lutut", "ekstensi paha dan fleksi lutut", "fleksi lutut dan rotasi lateral tungkai", "ekstensi panggul"]
+    }
+  },
+  {
+    "key": "long-head-of-biceps-femoris",
+    "kind": "muscle-part",
+    "la": "Caput longum musculi bicipitis femoris",
+    "alt": ["Caput longum m. bicipitis femoris", "Caput longum"],
+    "en": "Long head of biceps femoris",
+    "desc": {
+      "en": "Head of biceps femoris that arises from the ischial tuberosity together with semitendinosus and crosses both hip and knee. It is supplied by the tibial part of the sciatic nerve and, like the other true hamstrings, extends the hip as well as flexing the knee.",
+      "id": "Kepala m. biceps femoris yang berorigo dari tuber ischiadicum bersama m. semitendinosus dan menyilang sendi panggul serta sendi lutut. Kepala ini dipersarafi bagian tibialis n. ischiadicus dan, seperti hamstring sejati lainnya, melakukan ekstensi panggul selain fleksi lutut."
+    },
+    "facts": {
+      "muscle": "biceps-femoris-muscle",
+      "origin": {"la": "Tuber ischiadicum (tendo communis cum musculo semitendinoso)", "en": "Ischial tuberosity, by a common tendon with semitendinosus"},
+      "insertion": {"la": "Caput fibulae", "en": "Head of the fibula, through the common tendon"}
+    }
+  },
+  {
+    "key": "short-head-of-biceps-femoris",
+    "kind": "muscle-part",
+    "la": "Caput breve musculi bicipitis femoris",
+    "alt": ["Caput breve m. bicipitis femoris", "Caput breve", "Caput brevis musculi bicipitis femoris"],
+    "en": "Short head of biceps femoris",
+    "desc": {
+      "en": "Head of biceps femoris that arises from the back of the femur and crosses only the knee, so it has no action on the hip. It is the only part of the posterior thigh muscles supplied by the common fibular part of the sciatic nerve.",
+      "id": "Kepala m. biceps femoris yang berorigo dari bagian belakang femur dan hanya menyilang sendi lutut, sehingga tidak bekerja pada sendi panggul. Kepala ini satu-satunya bagian otot paha posterior yang dipersarafi bagian fibularis communis n. ischiadicus."
+    },
+    "facts": {
+      "muscle": "biceps-femoris-muscle",
+      "origin": {"la": "Labium laterale lineae asperae et linea supracondylaris lateralis femoris", "en": "Lateral lip of the linea aspera and the upper two-thirds of the lateral supracondylar line"},
+      "insertion": {"la": "Caput fibulae", "en": "Head of the fibula, through the common tendon"}
+    }
+  },
+  {
+    "key": "semitendinosus-muscle",
+    "kind": "muscle",
+    "la": "Musculus semitendinosus",
+    "alt": ["M. semitendinosus", "Semitendinosus"],
+    "en": "Semitendinosus",
+    "desc": {
+      "en": "Medial hamstring named for its long cord-like tendon, which begins about two-thirds of the way down the thigh. It lies on semimembranosus and ends in the pes anserinus on the medial tibia, below and behind the gracilis tendon.",
+      "id": "Otot hamstring medial yang dinamai menurut tendonya yang panjang seperti tali, dimulai kira-kira pada dua pertiga bawah paha. Otot ini terletak di atas m. semimembranosus dan berinsersio pada pes anserinus di sisi medial tibia, di bawah dan belakang tendo m. gracilis."
+    },
+    "facts": {
+      "group": {"en": "Posterior compartment of thigh (hamstrings)", "id": "Kompartemen posterior paha (hamstring)"},
+      "origin": {"la": "Tuber ischiadicum (tendo communis cum capite longo musculi bicipitis femoris)", "en": "Ischial tuberosity, by a common tendon with the long head of biceps femoris"},
+      "insertion": {"la": "Pars superior faciei medialis tibiae (pes anserinus)", "en": "Upper part of the medial surface of the tibia (pes anserinus)"},
+      "action": {
+        "en": "Extends the thigh at the hip and flexes the knee; with the knee flexed it rotates the leg medially. When thigh and leg are flexed, it can extend the trunk.",
+        "id": "Ekstensi paha pada sendi panggul dan fleksi lutut; saat lutut fleksi, otot ini melakukan rotasi medial tungkai bawah. Bila paha dan tungkai dalam posisi fleksi, otot ini dapat mengekstensikan batang tubuh."
+      },
+      "nerve": {"la": "Pars tibialis nervi ischiadici", "roots": "L5-S2"},
+      "blood": ["Arteriae perforantes", "Arteria glutea inferior", "Arteria circumflexa femoris medialis"],
+      "clinical": {
+        "en": "Its tendon, often taken together with the gracilis tendon, is a standard graft for reconstructing the anterior cruciate ligament.",
+        "id": "Tendo otot ini, sering bersama tendo m. gracilis, merupakan cangkok yang lazim dipakai untuk rekonstruksi ligamentum cruciatum anterius."
+      }
+    },
+    "quiz": {
+      "origin": ["Tuber ischiadicum", "tuberositas ischiadica"],
+      "insertion": ["Facies medialis tibiae (pes anserinus)", "pes anserinus", "bagian medial tibia (pes anserinus)", "facies medialis tibiae proksimal"],
+      "nerve": ["Nervus ischiadicus (pars tibialis)", "N. ischiadicus", "N. tibialis", "pars tibialis n. ischiadici"],
+      "action": ["Extensio coxae et flexio genus", "ekstensi paha dan fleksi lutut", "fleksi lutut", "ekstensi paha", "rotasi medial tungkai saat lutut fleksi"]
+    }
+  },
+  {
+    "key": "semimembranosus-muscle",
+    "kind": "muscle",
+    "la": "Musculus semimembranosus",
+    "alt": ["M. semimembranosus", "Semimembranosus"],
+    "en": "Semimembranosus",
+    "desc": {
+      "en": "Broad medial hamstring lying deep to semitendinosus, named for the flat membranous tendon at its upper end. From its insertion on the back of the medial tibial condyle, a reflected expansion runs upward and laterally to form the oblique popliteal ligament.",
+      "id": "Otot hamstring medial yang lebar, terletak di bawah m. semitendinosus, dinamai menurut tendo pipih seperti membran pada ujung atasnya. Dari insersionya pada bagian belakang condylus medialis tibiae, sebuah perluasan tendo berjalan ke atas dan lateral membentuk ligamentum popliteum obliquum."
+    },
+    "facts": {
+      "group": {"en": "Posterior compartment of thigh (hamstrings)", "id": "Kompartemen posterior paha (hamstring)"},
+      "origin": {"la": "Tuber ischiadicum (impressio superolateralis)", "en": "Upper lateral impression on the ischial tuberosity"},
+      "insertion": {"la": "Pars posterior condyli medialis tibiae; expansio reflexa ligamentum popliteum obliquum format", "en": "Posterior part of the medial condyle of the tibia; a reflected expansion forms the oblique popliteal ligament"},
+      "action": {
+        "en": "Extends the thigh at the hip and flexes the knee; with the knee flexed it rotates the leg medially. Its expansion reinforces the back of the knee joint capsule.",
+        "id": "Ekstensi paha pada sendi panggul dan fleksi lutut; saat lutut fleksi, otot ini melakukan rotasi medial tungkai bawah. Perluasan tendonya memperkuat bagian belakang capsula sendi lutut."
+      },
+      "nerve": {"la": "Pars tibialis nervi ischiadici", "roots": "L5-S2"},
+      "blood": ["Arteriae perforantes", "Arteria glutea inferior", "Arteria circumflexa femoris medialis", "Arteria poplitea"]
+    },
+    "quiz": {
+      "origin": ["Tuber ischiadicum", "tuberositas ischiadica"],
+      "insertion": ["Condylus medialis tibiae (pars posterior)", "condylus medialis tibiae", "kondilus medialis tibia bagian posterior", "facies posterior condyli medialis tibiae"],
+      "nerve": ["Nervus ischiadicus (pars tibialis)", "N. ischiadicus", "N. tibialis", "pars tibialis n. ischiadici"],
+      "action": ["Extensio coxae et flexio genus", "ekstensi paha dan fleksi lutut", "fleksi lutut", "ekstensi paha", "rotasi medial tungkai saat lutut fleksi", "menstabilkan sendi lutut"]
+    }
+  }
+]

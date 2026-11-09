@@ -1,0 +1,426 @@
+[
+  {
+    "key": "extensor-digitorum-brevis",
+    "kind": "muscle",
+    "la": "Musculus extensor digitorum brevis",
+    "alt": ["M. extensor digitorum brevis", "Extensor digitorum brevis", "Musculus extensor brevis digitorum"],
+    "en": "Extensor digitorum brevis",
+    "desc": {
+      "en": "Small fleshy muscle on the lateral dorsum of the foot, felt as a soft bulge in front of the lateral malleolus when the toes are extended. Its three tendons join the long extensor tendons of the second to fourth toes.",
+      "id": "Otot kecil berdaging di bagian lateral punggung kaki, teraba sebagai tonjolan lunak di depan malleolus lateralis saat jari-jari diekstensikan. Ketiga tendonya bergabung dengan tendo m. extensor digitorum longus untuk jari II-IV."
+    },
+    "facts": {
+      "group": {"en": "Dorsum of foot", "id": "Punggung kaki (dorsum pedis)"},
+      "origin": {"la": "Facies superolateralis calcanei (fundus sinus tarsi) et radix retinaculi musculorum extensorum inferioris", "en": "Superolateral surface of the calcaneus in the floor of the tarsal sinus, and the stem of the inferior extensor retinaculum"},
+      "insertion": {"la": "Tendines musculi extensoris digitorum longi digitorum II-IV (aponeuroses dorsales)", "en": "Lateral sides of the long extensor tendons of the second to fourth toes"},
+      "action": {
+        "en": "Helps extensor digitorum longus extend the second to fourth toes at the metatarsophalangeal and interphalangeal joints.",
+        "id": "Membantu m. extensor digitorum longus melakukan ekstensi jari II-IV pada sendi metatarsophalangea dan interphalangea."
+      },
+      "nerve": {"la": "Nervus fibularis profundus", "roots": "L5-S1"},
+      "blood": ["Arteria dorsalis pedis", "Arteria tarsalis lateralis"]
+    },
+    "quiz": {
+      "origin": ["Calcaneus (facies superolateralis)", "facies superior ossis calcanei", "calcaneus", "permukaan dorsal-lateral calcaneus"],
+      "insertion": ["Tendines musculi extensoris digitorum longi II-IV", "tendo m. extensor digitorum longus jari II-IV", "phalanx proximalis digiti II-IV", "aponeurosis dorsalis jari II-IV"],
+      "nerve": ["Nervus fibularis profundus", "N. fibularis profundus", "N. peroneus profundus", "Nervus peroneus profundus"],
+      "action": ["Extensio digitorum II-IV", "ekstensi jari II-IV", "ekstensi jari kaki"]
+    }
+  },
+  {
+    "key": "extensor-hallucis-brevis",
+    "kind": "muscle",
+    "la": "Musculus extensor hallucis brevis",
+    "alt": ["M. extensor hallucis brevis", "Extensor hallucis brevis", "Musculus extensor brevis hallucis"],
+    "en": "Extensor hallucis brevis",
+    "desc": {
+      "en": "Medial part of the short extensor mass on the dorsum of the foot, often described as part of extensor digitorum brevis. Its tendon runs to the great toe on the lateral side of the extensor hallucis longus tendon.",
+      "id": "Bagian medial massa ekstensor pendek di punggung kaki, sering dianggap sebagai bagian m. extensor digitorum brevis. Tendonya menuju ibu jari kaki di sisi lateral tendo m. extensor hallucis longus."
+    },
+    "facts": {
+      "group": {"en": "Dorsum of foot", "id": "Punggung kaki (dorsum pedis)"},
+      "origin": {"la": "Facies superolateralis calcanei (cum musculo extensore digitorum brevi)", "en": "Superolateral surface of the calcaneus, in common with extensor digitorum brevis"},
+      "insertion": {"la": "Facies dorsalis basis phalangis proximalis hallucis", "en": "Dorsal surface of the base of the proximal phalanx of the great toe"},
+      "action": {"en": "Extends the great toe at the metatarsophalangeal joint.", "id": "Ekstensi ibu jari kaki pada sendi metatarsophalangea."},
+      "nerve": {"la": "Nervus fibularis profundus", "roots": "L5-S1"},
+      "blood": ["Arteria dorsalis pedis", "Arteria tarsalis lateralis"]
+    },
+    "quiz": {
+      "origin": ["Calcaneus (facies superolateralis)", "facies superior ossis calcanei", "calcaneus"],
+      "insertion": ["Basis phalangis proximalis hallucis", "falang proksimal ibu jari kaki", "phalanx proximalis hallucis"],
+      "nerve": ["Nervus fibularis profundus", "N. fibularis profundus", "N. peroneus profundus", "Nervus peroneus profundus"],
+      "action": ["Extensio hallucis", "ekstensi ibu jari kaki", "ekstensi hallux pada sendi MTP"]
+    }
+  },
+  {
+    "key": "abductor-hallucis",
+    "kind": "muscle",
+    "la": "Musculus abductor hallucis",
+    "alt": ["M. abductor hallucis", "Abductor hallucis"],
+    "en": "Abductor hallucis",
+    "desc": {
+      "en": "Superficial muscle along the medial border of the sole, forming the soft medial edge of the foot. The plantar vessels and nerves enter the sole deep to its upper end, under the flexor retinaculum.",
+      "id": "Otot superfisial di sepanjang tepi medial telapak kaki yang membentuk tepi medial kaki yang lunak. Vasa dan nervi plantares masuk ke telapak kaki di bawah ujung atasnya, di bawah retinaculum musculorum flexorum."
+    },
+    "facts": {
+      "group": {"en": "Sole of foot, first layer (superficial)", "id": "Telapak kaki (planta pedis), lapisan pertama (superfisial)"},
+      "origin": {"la": "Processus medialis tuberis calcanei, retinaculum musculorum flexorum et aponeurosis plantaris", "en": "Medial process of the calcaneal tuberosity, flexor retinaculum and plantar aponeurosis"},
+      "insertion": {"la": "Latus mediale basis phalangis proximalis hallucis (cum capite mediali musculi flexoris hallucis brevis)", "en": "Medial side of the base of the proximal phalanx of the great toe, together with the medial head of flexor hallucis brevis"},
+      "action": {
+        "en": "Abducts the great toe and helps flex it at the metatarsophalangeal joint; it supports the medial longitudinal arch.",
+        "id": "Abduksi ibu jari kaki dan membantu fleksinya pada sendi metatarsophalangea; menopang arcus longitudinalis medialis."
+      },
+      "nerve": {"la": "Nervus plantaris medialis", "roots": "S2-S3"},
+      "blood": ["Arteria plantaris medialis"]
+    },
+    "quiz": {
+      "origin": ["Processus medialis tuberis calcanei", "tuberositas calcanei", "tuber calcanei", "retinaculum musculorum flexorum"],
+      "insertion": ["Basis phalangis proximalis hallucis (latus mediale)", "basis falang proksimal hallux (medial)", "phalanx proximalis hallucis"],
+      "nerve": ["Nervus plantaris medialis", "N. plantaris medialis"],
+      "action": ["Abductio hallucis", "abduksi ibu jari kaki", "abduksi hallux", "fleksi sendi MTP hallux"]
+    }
+  },
+  {
+    "key": "flexor-digitorum-brevis",
+    "kind": "muscle",
+    "la": "Musculus flexor digitorum brevis",
+    "alt": ["M. flexor digitorum brevis", "Flexor digitorum brevis", "Musculus flexor brevis digitorum"],
+    "en": "Flexor digitorum brevis",
+    "desc": {
+      "en": "Central muscle of the first layer of the sole, lying directly under the plantar aponeurosis. Its four tendons split near the proximal phalanges to let the flexor digitorum longus tendons through, as the superficial flexor does in the hand.",
+      "id": "Otot di bagian tengah lapisan pertama telapak kaki, tepat di bawah aponeurosis plantaris. Keempat tendonya bercabang dekat phalanx proximalis sehingga tendo m. flexor digitorum longus dapat lewat di antaranya, seperti m. flexor digitorum superficialis di tangan."
+    },
+    "facts": {
+      "group": {"en": "Sole of foot, first layer (superficial)", "id": "Telapak kaki (planta pedis), lapisan pertama (superfisial)"},
+      "origin": {"la": "Processus medialis tuberis calcanei, aponeurosis plantaris et septa intermuscularia", "en": "Medial process of the calcaneal tuberosity, plantar aponeurosis and intermuscular septa"},
+      "insertion": {"la": "Latera phalangum mediarum digitorum II-V", "en": "Both sides of the middle phalanges of the lateral four toes"},
+      "action": {"en": "Flexes the lateral four toes at the proximal interphalangeal joints.", "id": "Fleksi jari kaki II-V pada sendi interphalangea proximalis."},
+      "nerve": {"la": "Nervus plantaris medialis", "roots": "S2-S3"},
+      "blood": ["Arteria plantaris medialis", "Arteria plantaris lateralis"],
+      "note": {
+        "en": "The module puts it under 'kompartemen intermedial (lapisan dalam telapak kaki)'. It does lie in the central compartment, but it belongs to the first, most superficial layer of the sole.",
+        "id": "Modul menempatkannya pada 'kompartemen intermedial (lapisan dalam telapak kaki)'. Otot ini memang berada di kompartemen sentral, tetapi termasuk lapisan pertama telapak kaki yang paling superfisial."
+      }
+    },
+    "quiz": {
+      "origin": ["Processus medialis tuberis calcanei et aponeurosis plantaris", "processus medialis tuberis calcanei", "tuber calcanei", "aponeurosis plantaris"],
+      "insertion": ["Phalanges mediae digitorum II-V", "falang tengah jari II-V", "phalanx media digiti II-V"],
+      "nerve": ["Nervus plantaris medialis", "N. plantaris medialis"],
+      "action": ["Flexio digitorum II-V", "fleksi jari II-V", "fleksi jari II-V pada sendi PIP", "fleksi jari kaki"]
+    }
+  },
+  {
+    "key": "abductor-digiti-minimi-of-foot",
+    "kind": "muscle",
+    "la": "Musculus abductor digiti minimi pedis",
+    "alt": ["Musculus abductor digiti minimi", "M. abductor digiti minimi", "M. abductor digiti minimi pedis", "Abductor digiti minimi", "Abductor digiti minimi pedis"],
+    "en": "Abductor digiti minimi of foot",
+    "desc": {
+      "en": "Superficial muscle along the lateral border of the sole, forming the lateral edge of the foot. It runs from the calcaneal tuberosity to the base of the little toe.",
+      "id": "Otot superfisial di sepanjang tepi lateral telapak kaki yang membentuk tepi lateral kaki. Otot ini berjalan dari tuber calcanei ke basis jari kelingking kaki."
+    },
+    "facts": {
+      "group": {"en": "Sole of foot, first layer (superficial)", "id": "Telapak kaki (planta pedis), lapisan pertama (superfisial)"},
+      "origin": {"la": "Processus medialis et lateralis tuberis calcanei, aponeurosis plantaris et septa intermuscularia", "en": "Medial and lateral processes of the calcaneal tuberosity, plantar aponeurosis and intermuscular septa"},
+      "insertion": {"la": "Latus laterale basis phalangis proximalis digiti minimi", "en": "Lateral side of the base of the proximal phalanx of the fifth toe"},
+      "action": {
+        "en": "Abducts and flexes the little toe and supports the lateral longitudinal arch.",
+        "id": "Abduksi dan fleksi jari kelingking kaki serta menopang arcus longitudinalis lateralis."
+      },
+      "nerve": {"la": "Nervus plantaris lateralis", "roots": "S2-S3"},
+      "blood": ["Arteria plantaris lateralis"]
+    },
+    "quiz": {
+      "origin": ["Tuber calcanei (processus medialis et lateralis)", "tuber calcanei", "tuberositas calcanei", "processus lateralis tuberis calcanei"],
+      "insertion": ["Basis phalangis proximalis digiti minimi (latus laterale)", "basis falang proksimal jari V (lateral)", "phalanx proximalis digiti V"],
+      "nerve": ["Nervus plantaris lateralis", "N. plantaris lateralis"],
+      "action": ["Abductio digiti minimi", "abduksi jari V", "abduksi jari kelingking kaki", "fleksi jari V"]
+    }
+  },
+  {
+    "key": "quadratus-plantae-muscle",
+    "kind": "muscle",
+    "la": "Musculus quadratus plantae",
+    "alt": ["M. quadratus plantae", "Quadratus plantae", "Musculus flexor accessorius", "M. flexor accessorius"],
+    "en": "Quadratus plantae",
+    "desc": {
+      "en": "Flat quadrangular muscle in the second layer of the sole. It arises by two heads from the calcaneus and attaches to the lateral border of the flexor digitorum longus tendon, straightening the oblique pull of that tendon so the toes flex in line with the foot.",
+      "id": "Otot pipih segiempat di lapisan kedua telapak kaki. Otot ini berorigo dengan dua kepala dari calcaneus dan melekat pada tepi lateral tendo m. flexor digitorum longus, sehingga meluruskan tarikan miring tendo tersebut dan jari-jari kaki menekuk searah sumbu kaki."
+    },
+    "facts": {
+      "group": {"en": "Sole of foot, second layer", "id": "Telapak kaki (planta pedis), lapisan kedua"},
+      "origin": {"la": "Facies medialis et margo lateralis faciei plantaris calcanei", "en": "Medial surface and lateral margin of the plantar surface of the calcaneus"},
+      "insertion": {"la": "Margo posterolateralis tendinis musculi flexoris digitorum longi", "en": "Posterolateral margin of the flexor digitorum longus tendon"},
+      "action": {
+        "en": "Corrects the oblique pull of flexor digitorum longus and so helps flex the lateral four toes.",
+        "id": "Meluruskan tarikan miring m. flexor digitorum longus sehingga membantu fleksi jari kaki II-V."
+      },
+      "nerve": {"la": "Nervus plantaris lateralis", "roots": "S2-S3"},
+      "blood": ["Arteria plantaris lateralis", "Arteria plantaris medialis"]
+    },
+    "quiz": {
+      "origin": ["Facies plantaris calcanei", "facies plantar calcanei", "calcaneus", "facies medialis calcanei"],
+      "insertion": ["Tendo musculi flexoris digitorum longi", "tendon m. flexor digitorum longus", "tendo flexor digitorum longus"],
+      "nerve": ["Nervus plantaris lateralis", "N. plantaris lateralis"],
+      "action": ["Flexio digitorum II-V", "membantu fleksi jari II-V", "meluruskan tarikan m. flexor digitorum longus", "fleksi jari kaki"]
+    }
+  },
+  {
+    "key": "lumbrical-muscles-of-foot",
+    "kind": "muscle",
+    "la": "Musculi lumbricales pedis",
+    "alt": ["Mm. lumbricales pedis", "Musculi lumbricales", "Mm. lumbricales", "Lumbricales"],
+    "en": "Lumbricals of foot",
+    "desc": {
+      "en": "Four small worm-like muscles in the second layer of the sole, arising from the tendons of flexor digitorum longus. Each passes along the medial side of one of the lateral four toes to its dorsal extensor expansion.",
+      "id": "Empat otot kecil berbentuk cacing di lapisan kedua telapak kaki yang berorigo dari tendo-tendo m. flexor digitorum longus. Masing-masing berjalan di sisi medial salah satu jari II-V menuju aponeurosis dorsalis jari tersebut."
+    },
+    "facts": {
+      "group": {"en": "Sole of foot, second layer", "id": "Telapak kaki (planta pedis), lapisan kedua"},
+      "origin": {"la": "Tendines musculi flexoris digitorum longi", "en": "Tendons of flexor digitorum longus: the first from the medial side of the first tendon, the other three from adjacent tendons"},
+      "insertion": {"la": "Latus mediale aponeurosium dorsalium digitorum II-V", "en": "Medial side of the extensor expansions over the lateral four toes"},
+      "action": {
+        "en": "Flex the metatarsophalangeal joints and extend the interphalangeal joints of the lateral four toes, which keeps the toes from buckling at push-off.",
+        "id": "Fleksi sendi metatarsophalangea dan ekstensi sendi interphalangea jari II-V, sehingga jari-jari tidak tertekuk saat menolak."
+      },
+      "nerve": {"la": "Primus: nervus plantaris medialis; secundus ad quartum: nervus plantaris lateralis (ramus profundus)", "roots": "S2-S3"},
+      "blood": ["Arteria plantaris lateralis", "Arteriae metatarsales plantares"]
+    },
+    "quiz": {
+      "origin": ["Tendines musculi flexoris digitorum longi", "tendon m. flexor digitorum longus", "tendo flexor digitorum longus"],
+      "insertion": ["Aponeuroses dorsales digitorum II-V", "aponeurosis extensor jari II-V", "falang proksimal jari II-V (via aponeurosis extensor)", "expansio dorsalis jari II-V"],
+      "nerve": ["Nervus plantaris medialis et lateralis", "N. plantaris medialis dan lateralis", "n. plantaris medialis (I) dan n. plantaris lateralis (II-IV)"],
+      "action": ["Flexio articulationum metatarsophalangearum et extensio articulationum interphalangearum", "fleksi MTP dan ekstensi IP jari II-V", "fleksi sendi MTP", "ekstensi sendi IP"]
+    }
+  },
+  {
+    "key": "flexor-hallucis-brevis",
+    "kind": "muscle",
+    "la": "Musculus flexor hallucis brevis",
+    "alt": ["M. flexor hallucis brevis", "Flexor hallucis brevis", "Musculus flexor brevis hallucis"],
+    "en": "Flexor hallucis brevis",
+    "desc": {
+      "en": "Two-headed muscle in the third layer of the sole, lying along the first metatarsal. Each head ends on one side of the base of the proximal phalanx of the great toe with a sesamoid bone in its tendon, and the flexor hallucis longus tendon runs between them.",
+      "id": "Otot berkepala dua di lapisan ketiga telapak kaki yang terletak di sepanjang os metatarsi I. Tiap kepala berinsersio pada satu sisi basis phalanx proximalis ibu jari kaki dengan sebuah os sesamoideum di dalam tendonya, dan tendo m. flexor hallucis longus berjalan di antara keduanya."
+    },
+    "facts": {
+      "group": {"en": "Sole of foot, third layer", "id": "Telapak kaki (planta pedis), lapisan ketiga"},
+      "origin": {"la": "Facies plantaris ossis cuboidei et ossis cuneiformis lateralis", "en": "Plantar surfaces of the cuboid and lateral cuneiform"},
+      "insertion": {"la": "Latera basis phalangis proximalis hallucis (per ossa sesamoidea)", "en": "Both sides of the base of the proximal phalanx of the great toe, through the two sesamoid bones"},
+      "action": {"en": "Flexes the proximal phalanx of the great toe at the metatarsophalangeal joint.", "id": "Fleksi phalanx proximalis ibu jari kaki pada sendi metatarsophalangea."},
+      "nerve": {"la": "Nervus plantaris medialis", "roots": "S2-S3"},
+      "blood": ["Arteria plantaris medialis", "Arteriae metatarsales plantares"],
+      "parts": ["medial-head-of-flexor-hallucis-brevis", "lateral-head-of-flexor-hallucis-brevis"]
+    },
+    "quiz": {
+      "origin": ["Os cuboideum et os cuneiforme laterale", "os cuboideum", "os cuneiforme laterale", "facies plantaris ossis cuboidei"],
+      "insertion": ["Basis phalangis proximalis hallucis (per ossa sesamoidea)", "basis falang proksimal hallux", "phalanx proximalis hallucis", "ossa sesamoidea hallucis"],
+      "nerve": ["Nervus plantaris medialis", "N. plantaris medialis"],
+      "action": ["Flexio hallucis", "fleksi ibu jari kaki pada sendi MTP", "fleksi hallux", "fleksi ibu jari kaki"]
+    }
+  },
+  {
+    "key": "medial-head-of-flexor-hallucis-brevis",
+    "kind": "muscle-part",
+    "la": "Caput mediale musculi flexoris hallucis brevis",
+    "alt": ["Caput mediale m. flexoris hallucis brevis", "Caput mediale"],
+    "en": "Medial head of flexor hallucis brevis",
+    "desc": {
+      "en": "Medial head of flexor hallucis brevis. It blends with the abductor hallucis tendon and reaches the medial side of the base of the proximal phalanx of the great toe through the medial sesamoid.",
+      "id": "Kepala medial m. flexor hallucis brevis. Kepala ini menyatu dengan tendo m. abductor hallucis dan berinsersio pada sisi medial basis phalanx proximalis ibu jari kaki melalui os sesamoideum medial."
+    },
+    "facts": {
+      "muscle": "flexor-hallucis-brevis",
+      "origin": {"la": "Os cuboideum et os cuneiforme laterale (origo communis)", "en": "Common origin from the cuboid and lateral cuneiform"},
+      "insertion": {"la": "Latus mediale basis phalangis proximalis hallucis (per os sesamoideum mediale)", "en": "Medial side of the base of the proximal phalanx of the great toe, through the medial sesamoid"}
+    }
+  },
+  {
+    "key": "lateral-head-of-flexor-hallucis-brevis",
+    "kind": "muscle-part",
+    "la": "Caput laterale musculi flexoris hallucis brevis",
+    "alt": ["Caput laterale m. flexoris hallucis brevis", "Caput laterale"],
+    "en": "Lateral head of flexor hallucis brevis",
+    "desc": {
+      "en": "Lateral head of flexor hallucis brevis. It blends with the adductor hallucis tendon and reaches the lateral side of the base of the proximal phalanx of the great toe through the lateral sesamoid.",
+      "id": "Kepala lateral m. flexor hallucis brevis. Kepala ini menyatu dengan tendo m. adductor hallucis dan berinsersio pada sisi lateral basis phalanx proximalis ibu jari kaki melalui os sesamoideum lateral."
+    },
+    "facts": {
+      "muscle": "flexor-hallucis-brevis",
+      "origin": {"la": "Os cuboideum et os cuneiforme laterale (origo communis)", "en": "Common origin from the cuboid and lateral cuneiform"},
+      "insertion": {"la": "Latus laterale basis phalangis proximalis hallucis (per os sesamoideum laterale)", "en": "Lateral side of the base of the proximal phalanx of the great toe, through the lateral sesamoid"}
+    }
+  },
+  {
+    "key": "adductor-hallucis",
+    "kind": "muscle",
+    "la": "Musculus adductor hallucis",
+    "alt": ["M. adductor hallucis", "Adductor hallucis"],
+    "en": "Adductor hallucis",
+    "desc": {
+      "en": "Muscle of the third layer of the sole with two heads: a large oblique head running forward from the bases of the middle metatarsals and a slender transverse head crossing the sole under the heads of the lateral metatarsals. Both end on the lateral side of the great toe.",
+      "id": "Otot lapisan ketiga telapak kaki dengan dua kepala: caput obliquum yang besar, berjalan ke depan dari basis ossa metatarsi bagian tengah, dan caput transversum yang ramping, menyilang telapak kaki di bawah caput ossa metatarsi lateral. Keduanya berinsersio pada sisi lateral ibu jari kaki."
+    },
+    "facts": {
+      "group": {"en": "Sole of foot, third layer", "id": "Telapak kaki (planta pedis), lapisan ketiga"},
+      "origin": {"la": "Caput obliquum: bases ossium metatarsi II-IV; caput transversum: ligamenta plantaria articulationum metatarsophalangearum III-V", "en": "Oblique head: bases of the second to fourth metatarsals. Transverse head: plantar ligaments of the third to fifth metatarsophalangeal joints."},
+      "insertion": {"la": "Latus laterale basis phalangis proximalis hallucis (cum capite laterali musculi flexoris hallucis brevis)", "en": "Lateral side of the base of the proximal phalanx of the great toe, through the lateral sesamoid"},
+      "action": {
+        "en": "Adducts the great toe toward the second toe and helps flex it; the transverse head helps hold the transverse arch.",
+        "id": "Adduksi ibu jari kaki ke arah jari II dan membantu fleksinya; caput transversum membantu mempertahankan arcus transversus."
+      },
+      "nerve": {"la": "Ramus profundus nervi plantaris lateralis", "roots": "S2-S3"},
+      "blood": ["Arteria plantaris lateralis", "Arcus plantaris profundus", "Arteriae metatarsales plantares"],
+      "parts": ["oblique-head-of-adductor-hallucis", "transverse-head-of-adductor-hallucis"]
+    },
+    "quiz": {
+      "origin": ["Bases ossium metatarsi II-IV et ligamenta plantaria articulationum metatarsophalangearum", "basis metatarsal II-IV", "caput obliquum: basis metatarsal II-IV; caput transversum: ligamentum MTP III-V", "ligamentum metatarsophalangeal"],
+      "insertion": ["Basis phalangis proximalis hallucis (latus laterale)", "basis falang proksimal hallux (lateral)", "phalanx proximalis hallucis"],
+      "nerve": ["Ramus profundus nervi plantaris lateralis", "N. plantaris lateralis", "ramus profundus n. plantaris lateralis"],
+      "action": ["Adductio hallucis", "adduksi ibu jari kaki", "adduksi hallux", "menjaga arcus transversus"]
+    }
+  },
+  {
+    "key": "oblique-head-of-adductor-hallucis",
+    "kind": "muscle-part",
+    "la": "Caput obliquum musculi adductoris hallucis",
+    "alt": ["Caput obliquum m. adductoris hallucis", "Caput obliquum"],
+    "en": "Oblique head of adductor hallucis",
+    "desc": {
+      "en": "Large, thick head of adductor hallucis that runs obliquely forward and medially from the bases of the second to fourth metatarsals and the sheath of the fibularis longus tendon.",
+      "id": "Kepala m. adductor hallucis yang besar dan tebal, berjalan miring ke depan dan medial dari basis ossa metatarsi II-IV serta selubung tendo m. fibularis longus."
+    },
+    "facts": {
+      "muscle": "adductor-hallucis",
+      "origin": {"la": "Bases ossium metatarsi II-IV et vagina tendinis musculi fibularis longi", "en": "Bases of the second to fourth metatarsals and the sheath of the fibularis longus tendon"},
+      "insertion": {"la": "Latus laterale basis phalangis proximalis hallucis", "en": "Lateral side of the base of the proximal phalanx of the great toe"}
+    }
+  },
+  {
+    "key": "transverse-head-of-adductor-hallucis",
+    "kind": "muscle-part",
+    "la": "Caput transversum musculi adductoris hallucis",
+    "alt": ["Caput transversum m. adductoris hallucis", "Caput transversum"],
+    "en": "Transverse head of adductor hallucis",
+    "desc": {
+      "en": "Thin flat head of adductor hallucis that crosses the sole beneath the heads of the third to fifth metatarsals and joins the oblique head. It helps keep the metatarsal heads together.",
+      "id": "Kepala m. adductor hallucis yang tipis dan pipih, menyilang telapak kaki di bawah caput ossa metatarsi III-V lalu bergabung dengan caput obliquum. Kepala ini membantu menahan caput ossa metatarsi agar tetap berdekatan."
+    },
+    "facts": {
+      "muscle": "adductor-hallucis",
+      "origin": {"la": "Ligamenta plantaria articulationum metatarsophalangearum III-V et ligamentum metatarsale transversum profundum", "en": "Plantar ligaments of the third to fifth metatarsophalangeal joints and the deep transverse metatarsal ligament"},
+      "insertion": {"la": "Latus laterale basis phalangis proximalis hallucis", "en": "Lateral side of the base of the proximal phalanx of the great toe"}
+    }
+  },
+  {
+    "key": "flexor-digiti-minimi-of-foot",
+    "kind": "muscle",
+    "la": "Musculus flexor digiti minimi brevis pedis",
+    "alt": ["Musculus flexor digiti minimi brevis", "M. flexor digiti minimi brevis", "M. flexor digiti minimi brevis pedis", "Flexor digiti minimi brevis", "Musculus flexor digiti minimi pedis"],
+    "en": "Flexor digiti minimi brevis of foot",
+    "desc": {
+      "en": "Small muscle of the third layer lying along the plantar surface of the fifth metatarsal, medial to abductor digiti minimi.",
+      "id": "Otot kecil lapisan ketiga yang terletak di sepanjang permukaan plantar os metatarsi V, di medial m. abductor digiti minimi."
+    },
+    "facts": {
+      "group": {"en": "Sole of foot, third layer", "id": "Telapak kaki (planta pedis), lapisan ketiga"},
+      "origin": {"la": "Basis ossis metatarsi V et vagina tendinis musculi fibularis longi", "en": "Base of the fifth metatarsal and the sheath of the fibularis longus tendon"},
+      "insertion": {"la": "Basis phalangis proximalis digiti minimi", "en": "Base of the proximal phalanx of the fifth toe"},
+      "action": {"en": "Flexes the proximal phalanx of the little toe at the metatarsophalangeal joint.", "id": "Fleksi phalanx proximalis jari kelingking kaki pada sendi metatarsophalangea."},
+      "nerve": {"la": "Ramus superficialis nervi plantaris lateralis", "roots": "S2-S3"},
+      "blood": ["Arteria plantaris lateralis"]
+    },
+    "quiz": {
+      "origin": ["Basis ossis metatarsi V", "basis metatarsal V", "basis metatarsal V dan os cuboideum", "ligamentum plantare longum"],
+      "insertion": ["Basis phalangis proximalis digiti minimi", "basis falang proksimal jari V", "phalanx proximalis digiti V"],
+      "nerve": ["Ramus superficialis nervi plantaris lateralis", "N. plantaris lateralis", "ramus superficialis n. plantaris lateralis"],
+      "action": ["Flexio digiti minimi", "fleksi jari V", "fleksi jari V pada sendi MTP", "fleksi jari kelingking kaki"]
+    }
+  },
+  {
+    "key": "opponens-digiti-minimi-muscle-of-foot",
+    "kind": "muscle",
+    "verify": true,
+    "la": "Musculus opponens digiti minimi pedis",
+    "alt": ["Musculus opponens digiti minimi", "M. opponens digiti minimi", "M. opponens digiti minimi pedis", "Opponens digiti minimi"],
+    "en": "Opponens digiti minimi of foot",
+    "desc": {
+      "en": "Small, inconstant slip of flexor digiti minimi brevis that inserts on the fifth metatarsal. True opposition is not possible in the foot; the muscle only pulls the fifth metatarsal toward the sole.",
+      "id": "Berkas kecil m. flexor digiti minimi brevis yang tidak selalu ada dan berinsersio pada os metatarsi V. Gerakan oposisi sejati tidak terjadi di kaki; otot ini hanya menarik os metatarsi V ke arah plantar."
+    },
+    "facts": {
+      "group": {"en": "Sole of foot, third layer", "id": "Telapak kaki (planta pedis), lapisan ketiga"},
+      "origin": {"la": "Ligamentum plantare longum et vagina tendinis musculi fibularis longi", "en": "Long plantar ligament and the sheath of the fibularis longus tendon"},
+      "insertion": {"la": "Margo lateralis ossis metatarsi V", "en": "Lateral border of the fifth metatarsal"},
+      "action": {"en": "Pulls the fifth metatarsal toward the sole and slightly medially.", "id": "Menarik os metatarsi V ke arah plantar dan sedikit ke medial."},
+      "nerve": {"la": "Ramus superficialis nervi plantaris lateralis", "roots": "S2-S3"},
+      "blood": ["Arteria plantaris lateralis"],
+      "note": {
+        "en": "The module gives the origin as the base of the fifth metatarsal. Most references describe it arising with flexor digiti minimi brevis from the long plantar ligament and the fibularis longus sheath; Moore treats it as part of that muscle.",
+        "id": "Modul menulis origo pada basis os metatarsi V. Sebagian besar buku acuan menyebut otot ini berorigo bersama m. flexor digiti minimi brevis dari ligamentum plantare longum dan selubung tendo m. fibularis longus; Moore menganggapnya bagian dari otot tersebut."
+      }
+    },
+    "quiz": {
+      "origin": ["Ligamentum plantare longum", "basis ossis metatarsi V", "basis metatarsal V", "vagina tendinis musculi fibularis longi"],
+      "insertion": ["Margo lateralis ossis metatarsi V", "os metatarsi V", "metatarsal V"],
+      "nerve": ["Ramus superficialis nervi plantaris lateralis", "N. plantaris lateralis"],
+      "action": ["Flexio ossis metatarsi V", "menarik metatarsal V ke arah plantar", "fleksi metatarsal V"]
+    }
+  },
+  {
+    "key": "plantar-interossei-muscles",
+    "kind": "muscle",
+    "la": "Musculi interossei plantares",
+    "alt": ["Mm. interossei plantares", "Interossei plantares", "Musculus interosseus plantaris"],
+    "en": "Plantar interossei",
+    "desc": {
+      "en": "Three unipennate muscles in the fourth (deepest) layer of the sole, each arising from the medial side of the third, fourth or fifth metatarsal. They adduct these toes toward the axis of the foot, which runs through the second toe (PAD: plantar adduct).",
+      "id": "Tiga otot unipennatus di lapisan keempat (terdalam) telapak kaki, masing-masing berorigo dari sisi medial os metatarsi III, IV atau V. Otot-otot ini melakukan adduksi jari III-V ke arah sumbu kaki yang melalui jari II (PAD: plantar adduksi)."
+    },
+    "facts": {
+      "group": {"en": "Sole of foot, fourth layer (deep)", "id": "Telapak kaki (planta pedis), lapisan keempat (profunda)"},
+      "origin": {"la": "Bases et latera medialia ossium metatarsi III-V", "en": "Bases and medial sides of the third to fifth metatarsals"},
+      "insertion": {"la": "Latera medialia basium phalangum proximalium digitorum III-V", "en": "Medial sides of the bases of the proximal phalanges of the third to fifth toes"},
+      "action": {
+        "en": "Adduct the third to fifth toes toward the second toe and flex them at the metatarsophalangeal joints.",
+        "id": "Adduksi jari III-V ke arah jari II dan fleksi pada sendi metatarsophalangea."
+      },
+      "nerve": {"la": "Nervus plantaris lateralis", "roots": "S2-S3"},
+      "blood": ["Arcus plantaris profundus", "Arteriae metatarsales plantares"]
+    },
+    "quiz": {
+      "origin": ["Latera medialia ossium metatarsi III-V", "permukaan medial metatarsal III-V", "metatarsal III-V"],
+      "insertion": ["Bases phalangum proximalium digitorum III-V (latus mediale)", "basis falang proksimal jari III-V", "phalanx proximalis digiti III-V"],
+      "nerve": ["Nervus plantaris lateralis", "N. plantaris lateralis"],
+      "action": ["Adductio digitorum III-V", "adduksi jari III-V", "adduksi jari kaki", "PAD"]
+    }
+  },
+  {
+    "key": "dorsal-interossei-muscles-of-foot",
+    "kind": "muscle",
+    "la": "Musculi interossei dorsales pedis",
+    "alt": ["Mm. interossei dorsales pedis", "Musculi interossei dorsales", "Mm. interossei dorsales", "Interossei dorsales"],
+    "en": "Dorsal interossei of foot",
+    "desc": {
+      "en": "Four bipennate muscles filling the spaces between the metatarsals, counted with the deepest layer of the sole. They abduct the toes away from the axis through the second toe (DAB: dorsal abduct); the second toe has one on each side, so it can move either way.",
+      "id": "Empat otot bipennatus yang mengisi celah di antara ossa metatarsi dan dihitung sebagai lapisan terdalam telapak kaki. Otot-otot ini melakukan abduksi jari menjauhi sumbu yang melalui jari II (DAB: dorsal abduksi); jari II memiliki satu interosseus dorsalis di tiap sisinya sehingga dapat digerakkan ke dua arah."
+    },
+    "facts": {
+      "group": {"en": "Sole of foot, fourth layer (deep)", "id": "Telapak kaki (planta pedis), lapisan keempat (profunda)"},
+      "origin": {"la": "Latera adjacentia ossium metatarsi I-V", "en": "Adjacent sides of the first to fifth metatarsals"},
+      "insertion": {"la": "Bases phalangum proximalium: primus latus mediale digiti II, secundus ad quartum latera lateralia digitorum II-IV; aponeuroses dorsales", "en": "Bases of the proximal phalanges: the first on the medial side of the second toe, the second to fourth on the lateral sides of the second to fourth toes; also the extensor expansions"},
+      "action": {
+        "en": "Abduct the second to fourth toes from the axis through the second toe and flex them at the metatarsophalangeal joints.",
+        "id": "Abduksi jari II-IV menjauhi sumbu yang melalui jari II dan fleksi pada sendi metatarsophalangea."
+      },
+      "nerve": {"la": "Nervus plantaris lateralis", "roots": "S2-S3"},
+      "blood": ["Arteriae metatarsales dorsales", "Arteriae metatarsales plantares", "Arcus plantaris profundus"]
+    },
+    "quiz": {
+      "origin": ["Latera adjacentia ossium metatarsi I-V", "sisi bersebelahan antar metatarsal", "ossa metatarsi I-V"],
+      "insertion": ["Bases phalangum proximalium digitorum II-IV", "basis falang proksimal jari II-IV", "phalanx proximalis digiti II-IV"],
+      "nerve": ["Nervus plantaris lateralis", "N. plantaris lateralis"],
+      "action": ["Abductio digitorum II-IV", "abduksi jari kaki", "abduksi jari II-IV", "DAB"]
+    }
+  }
+]

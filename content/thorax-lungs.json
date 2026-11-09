@@ -1,0 +1,1087 @@
+[
+  {
+    "key": "right-lung",
+    "kind": "organ",
+    "model": false,
+    "la": "Pulmo dexter",
+    "alt": ["Pulmo"],
+    "en": "Right lung",
+    "desc": {
+      "en": "The larger of the two lungs. It is shorter and wider than the left lung because the right dome of the diaphragm sits higher over the liver. It has three lobes (superior, medius, inferior), separated by the fissura obliqua and fissura horizontalis, and ten bronchopulmonary segments.",
+      "id": "Paru yang lebih besar di antara kedua paru. Paru kanan lebih pendek dan lebih lebar daripada paru kiri karena kubah diaphragma kanan lebih tinggi akibat hepar di bawahnya. Paru kanan memiliki tiga lobus (superior, medius, inferior) yang dipisahkan oleh fissura obliqua dan fissura horizontalis, serta sepuluh segmentum bronchopulmonale."
+    },
+    "facts": {
+      "location": {
+        "en": "Right cavitas pulmonalis, wrapped in pleura visceralis. The apex rises 2-3 cm above the medial third of the clavicle; the base rests on the right dome of the diaphragm.",
+        "id": "Cavitas pulmonalis dextra, dibungkus pleura visceralis. Apex naik 2-3 cm di atas sepertiga medial clavicula; basis bertumpu pada kubah diaphragma kanan."
+      },
+      "features": {
+        "en": "Apex, basis, facies costalis, facies mediastinalis (with the hilum) and facies diaphragmatica; margo anterior, margo inferior and a rounded posterior border along the vertebral column. The mediastinal surface carries a shallow impressio cardiaca (right atrium) and grooves for the v. cava superior, the arch of the v. azygos, the oesophagus and the v. brachiocephalica dextra.",
+        "id": "Apex, basis, facies costalis, facies mediastinalis (dengan hilum) dan facies diaphragmatica; margo anterior, margo inferior dan tepi posterior yang membulat di sepanjang columna vertebralis. Facies mediastinalis memiliki impressio cardiaca yang dangkal (atrium dextrum) serta sulcus untuk v. cava superior, arcus v. azygos, oesophagus dan v. brachiocephalica dextra."
+      },
+      "relations": {
+        "en": "At the hilum the bronchus lobaris superior (eparterial) lies highest, the a. pulmonalis dextra below and in front of it, and the vv. pulmonales lie most anterior and most inferior. In front of the root: v. cava superior, right atrium and n. phrenicus dexter; above it: arch of the v. azygos; behind it: n. vagus dexter.",
+        "id": "Di hilum, bronchus lobaris superior (eparterial) terletak paling atas, a. pulmonalis dextra di bawah dan di depannya, sedangkan vv. pulmonales paling depan dan paling bawah. Di depan radix: v. cava superior, atrium dextrum dan n. phrenicus dexter; di atasnya: arcus v. azygos; di belakangnya: n. vagus dexter."
+      },
+      "blood": ["Arteria pulmonalis dextra", "Venae pulmonales dextrae", "Rami bronchiales", "Venae bronchiales"],
+      "vessels": {
+        "en": "Functional circulation: the a. pulmonalis dextra brings deoxygenated blood and its branches follow the bronchi into each segment; oxygenated blood returns in the vv. pulmonales dextrae superior and inferior, whose tributaries run between the segments. Nutritive circulation: usually one right ramus bronchialis, from the 3rd right a. intercostalis posterior or from a trunk shared with a left bronchial artery, supplies the bronchial tree, lung connective tissue and visceral pleura. The right v. bronchialis drains to the v. azygos; part of the bronchial blood returns through the pulmonary veins.",
+        "id": "Sirkulasi fungsional: a. pulmonalis dextra membawa darah miskin oksigen dan cabangnya mengikuti bronchus ke setiap segmen; darah kaya oksigen kembali melalui v. pulmonalis dextra superior dan inferior, yang anak cabangnya berjalan di antara segmen. Sirkulasi nutritif: biasanya satu ramus bronchialis dexter, dari a. intercostalis posterior III kanan atau dari batang bersama dengan a. bronchialis kiri, memperdarahi percabangan bronchus, jaringan ikat paru dan pleura visceralis. V. bronchialis dextra bermuara ke v. azygos; sebagian darah bronchial kembali melalui vv. pulmonales."
+      },
+      "lymph": {
+        "en": "A superficial (subpleural) plexus under the visceral pleura and a deep plexus along the bronchi and pulmonary vessels drain to the nodi bronchopulmonales at the hilum, then to the nodi tracheobronchiales inferiores (below the carina) and superiores, and on to the right truncus bronchomediastinalis. This ends at the right venous angle, directly or through the ductus lymphaticus dexter.",
+        "id": "Pleksus superfisial (subpleura) di bawah pleura visceralis dan pleksus profundus di sepanjang bronchus dan pembuluh pulmonal mengalir ke nodi bronchopulmonales di hilum, lalu ke nodi tracheobronchiales inferiores (di bawah carina) dan superiores, kemudian ke truncus bronchomediastinalis dexter. Truncus ini bermuara di angulus venosus dexter, langsung atau melalui ductus lymphaticus dexter."
+      },
+      "nerve": ["Plexus pulmonalis", "Nervus vagus", "Truncus sympathicus"],
+      "innervation": {
+        "en": "Plexus pulmonalis in front of and behind the root of the lung. Vagal (parasympathetic) fibres constrict the bronchi, dilate the pulmonary vessels and stimulate the bronchial glands; sympathetic fibres from the upper thoracic ganglia dilate the bronchi and constrict the vessels. Visceral afferents run with both; the visceral pleura has no pain fibres.",
+        "id": "Plexus pulmonalis di depan dan di belakang radix pulmonis. Serabut vagus (parasimpatis) menyebabkan bronkokonstriksi, vasodilatasi pembuluh pulmonal dan sekresi kelenjar bronchial; serabut simpatis dari ganglia thoracica atas menyebabkan bronkodilatasi dan vasokonstriksi. Serabut aferen viseral ikut berjalan bersama keduanya; pleura visceralis tidak memiliki serabut nyeri."
+      },
+      "clinical": {
+        "en": "Aspirated material enters the right lung more often because the right main bronchus is wider, shorter and more vertical. Upright, it falls into the posterior basal segment (S X); lying supine, into the superior segment of the inferior lobe (S VI) or the posterior segment of the superior lobe (S II).",
+        "id": "Benda aspirasi lebih sering masuk ke paru kanan karena bronchus principalis dexter lebih lebar, lebih pendek dan lebih vertikal. Pada posisi tegak benda jatuh ke segmentum basale posterius (S X); pada posisi berbaring telentang ke segmentum superius lobus inferior (S VI) atau segmentum posterius lobus superior (S II)."
+      }
+    },
+    "quiz": {
+      "lobes": ["3", "tiga", "Lobus superior, medius et inferior"],
+      "segments": ["10", "sepuluh"]
+    }
+  },
+  {
+    "key": "left-lung",
+    "kind": "organ",
+    "model": false,
+    "la": "Pulmo sinister",
+    "alt": ["Pulmo"],
+    "en": "Left lung",
+    "desc": {
+      "en": "Smaller, longer and narrower than the right lung, because the heart bulges to the left. A single fissura obliqua divides it into a lobus superior and a lobus inferior. The anterior border of the superior lobe has a deep incisura cardiaca, below which the lingula curves over the heart.",
+      "id": "Lebih kecil, lebih panjang dan lebih sempit daripada paru kanan karena jantung menonjol ke kiri. Satu fissura obliqua membaginya menjadi lobus superior dan lobus inferior. Margo anterior lobus superior memiliki incisura cardiaca yang dalam, dan di bawahnya lingula melengkung di depan jantung."
+    },
+    "facts": {
+      "location": {
+        "en": "Left cavitas pulmonalis. The apex lies 2-3 cm above the medial third of the left clavicle; the base rests on the left dome of the diaphragm, which is lower than the right.",
+        "id": "Cavitas pulmonalis sinistra. Apex terletak 2-3 cm di atas sepertiga medial clavicula kiri; basis bertumpu pada kubah diaphragma kiri yang lebih rendah daripada kanan."
+      },
+      "features": {
+        "en": "Two lobes and usually 8 to 10 segments, because S I and S II, and often S VII and S VIII, share one segmental bronchus. The mediastinal surface has a deep impressio cardiaca (left ventricle), the sulcus aorticus arching over the hilum and running down behind it, grooves for the a. subclavia sinistra and a. carotis communis sinistra above the hilum, and a groove for the oesophagus low down in front of the aortic groove.",
+        "id": "Dua lobus dan biasanya 8 sampai 10 segmen, karena S I dan S II, dan sering juga S VII dan S VIII, memakai satu bronchus segmentalis bersama. Facies mediastinalis memiliki impressio cardiaca yang dalam (ventriculus sinister), sulcus aorticus yang melengkung di atas hilum lalu turun di belakangnya, sulcus untuk a. subclavia sinistra dan a. carotis communis sinistra di atas hilum, serta sulcus oesophageus di bagian bawah di depan sulcus aorticus."
+      },
+      "relations": {
+        "en": "At the hilum the a. pulmonalis sinistra lies highest, the bronchus principalis sinister behind and below it, and the vv. pulmonales most anterior and most inferior. The arch of the aorta hooks over the root and the aorta descendens lies behind it; n. phrenicus sinister passes in front and n. vagus sinister behind.",
+        "id": "Di hilum, a. pulmonalis sinistra terletak paling atas, bronchus principalis sinister di belakang dan di bawahnya, sedangkan vv. pulmonales paling depan dan paling bawah. Arcus aortae melengkung di atas radix dan aorta descendens terletak di belakangnya; n. phrenicus sinister lewat di depan dan n. vagus sinister di belakang."
+      },
+      "blood": ["Arteria pulmonalis sinistra", "Venae pulmonales sinistrae", "Rami bronchiales aortae thoracicae", "Venae bronchiales"],
+      "vessels": {
+        "en": "The a. pulmonalis sinistra brings deoxygenated blood; the vv. pulmonales sinistrae superior and inferior return oxygenated blood to the left atrium. Usually two left rami bronchiales arise directly from the aorta thoracica. Left bronchial veins drain to the v. hemiazygos accessoria or the v. intercostalis superior sinistra.",
+        "id": "A. pulmonalis sinistra membawa darah miskin oksigen; v. pulmonalis sinistra superior dan inferior mengembalikan darah kaya oksigen ke atrium sinistrum. Biasanya dua rami bronchiales kiri keluar langsung dari aorta thoracica. Vv. bronchiales kiri bermuara ke v. hemiazygos accessoria atau v. intercostalis superior sinistra."
+      },
+      "lymph": {
+        "en": "The same two plexuses and chain of nodes as on the right (nodi bronchopulmonales, then tracheobronchiales). Most lymph of the superior lobe drains to left-sided nodes and the left truncus bronchomediastinalis, but much of the lymph from the inferior lobe crosses to the right superior tracheobronchial nodes.",
+        "id": "Dua pleksus dan rantai kelenjar yang sama seperti di kanan (nodi bronchopulmonales, lalu tracheobronchiales). Sebagian besar limfe lobus superior mengalir ke kelenjar sisi kiri dan truncus bronchomediastinalis sinister, tetapi banyak limfe lobus inferior menyeberang ke nodi tracheobronchiales superiores kanan."
+      },
+      "nerve": ["Plexus pulmonalis", "Nervus vagus", "Truncus sympathicus"],
+      "clinical": {
+        "en": "Consolidation of the lingula blurs the left heart border on a PA chest radiograph, as middle lobe disease blurs the right heart border. Cancer of the left inferior lobe can spread to right-sided mediastinal nodes along the crossed lymph drainage.",
+        "id": "Konsolidasi lingula mengaburkan batas kiri jantung pada foto toraks PA, sama seperti kelainan lobus medius mengaburkan batas kanan jantung. Kanker lobus inferior kiri dapat menyebar ke kelenjar mediastinum kanan mengikuti aliran limfe yang menyilang."
+      }
+    },
+    "quiz": {
+      "lobes": ["2", "dua", "Lobus superior et inferior"],
+      "segments": ["8-10", "8", "9", "10"]
+    }
+  },
+  {
+    "key": "lobe-of-lung",
+    "kind": "organ-part",
+    "la": "Lobus pulmonis",
+    "alt": ["Lobi pulmonis", "Lobus"],
+    "en": "Lobe of lung",
+    "desc": {
+      "en": "Part of a lung bounded by fissures and aerated by its own lobar bronchus. The right lung has three lobes and the left lung two; the visceral pleura dips into each fissure and covers the facing interlobar surfaces.",
+      "id": "Bagian paru yang dibatasi oleh fissura dan mendapat udara dari bronchus lobaris sendiri. Paru kanan memiliki tiga lobus dan paru kiri dua; pleura visceralis masuk ke setiap fissura dan menutupi facies interlobaris yang saling berhadapan."
+    },
+    "facts": {
+      "features": {
+        "en": "Right: lobus superior, lobus medius and lobus inferior (fissura horizontalis and fissura obliqua). Left: lobus superior with the lingula and lobus inferior (fissura obliqua only). Each lobe is divided into bronchopulmonary segments.",
+        "id": "Kanan: lobus superior, lobus medius dan lobus inferior (fissura horizontalis dan fissura obliqua). Kiri: lobus superior dengan lingula dan lobus inferior (hanya fissura obliqua). Setiap lobus terbagi lagi menjadi segmentum bronchopulmonale."
+      }
+    },
+    "quiz": {
+      "right": ["3", "tiga"],
+      "left": ["2", "dua"]
+    }
+  },
+  {
+    "key": "bronchopulmonary-segment",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Segmentum bronchopulmonale",
+    "alt": ["Segmenta bronchopulmonalia", "Segmentum pulmonis"],
+    "en": "Bronchopulmonary segment",
+    "desc": {
+      "en": "Pyramid-shaped unit of a lobe, with its apex toward the hilum and its base at the pleural surface. Each segment is aerated by one segmental bronchus and supplied by a segmental branch of the a. pulmonalis running with it; the pulmonary veins drain along the planes between segments.",
+      "id": "Unit lobus berbentuk piramid dengan puncak mengarah ke hilum dan dasar di permukaan pleura. Setiap segmen mendapat udara dari satu bronchus segmentalis dan darah dari cabang segmental a. pulmonalis yang berjalan bersamanya; vena pulmonalis mengalir di bidang antarsegmen."
+    },
+    "facts": {
+      "features": {
+        "en": "Right lung: 10 segments (S I-S X). Left lung: 8 to 10, depending on whether S I+II and S VII+VIII are counted as one. Neighbouring segments are separated by thin connective tissue septa.",
+        "id": "Paru kanan: 10 segmen (S I-S X). Paru kiri: 8 sampai 10, tergantung apakah S I+II dan S VII+VIII dihitung sebagai satu. Segmen yang bersebelahan dipisahkan oleh septum jaringan ikat tipis."
+      },
+      "clinical": {
+        "en": "Because each segment has its own bronchus and artery, a diseased segment can be removed (segmentectomy) without much bleeding or air leak from the rest of the lobe. Segment anatomy also guides bronchoscopy and postural drainage.",
+        "id": "Karena setiap segmen memiliki bronchus dan arteri sendiri, segmen yang sakit dapat diangkat (segmentektomi) tanpa banyak perdarahan atau kebocoran udara dari bagian lobus lainnya. Anatomi segmen juga menjadi panduan bronkoskopi dan drainase postural."
+      }
+    },
+    "quiz": {
+      "right": ["10", "sepuluh"],
+      "left": ["8-10", "8", "9", "10"]
+    }
+  },
+  {
+    "key": "superior-lobe-of-right-lung",
+    "kind": "organ-part",
+    "la": "Lobus superior pulmonis dextri",
+    "alt": ["Lobus superior dexter", "Lobus superior"],
+    "en": "Superior lobe of right lung",
+    "desc": {
+      "en": "Upper lobe of the right lung, above the fissura horizontalis in front and above the fissura obliqua behind. It contains the apex and three segments: apicale (S I), posterius (S II) and anterius (S III).",
+      "id": "Lobus atas paru kanan, di atas fissura horizontalis di depan dan di atas fissura obliqua di belakang. Lobus ini berisi apex pulmonis dan tiga segmen: apicale (S I), posterius (S II) dan anterius (S III)."
+    },
+    "facts": {
+      "location": {
+        "en": "On the anterior chest wall it reaches down to the 4th rib and costal cartilage (line of the horizontal fissure). Behind, it covers only the upper chest above the start of the oblique fissure.",
+        "id": "Pada dinding dada depan, lobus ini turun sampai costa IV dan cartilago costalis IV (garis fissura horizontalis). Di belakang, lobus ini hanya menutupi bagian atas dada di atas pangkal fissura obliqua."
+      },
+      "features": {
+        "en": "Aerated by the bronchus lobaris superior dexter, which leaves the main bronchus above the a. pulmonalis dextra (eparterial bronchus).",
+        "id": "Mendapat udara dari bronchus lobaris superior dexter, yang keluar dari bronchus principalis di atas a. pulmonalis dextra (bronchus eparterial)."
+      }
+    },
+    "quiz": {
+      "bronchus": ["Bronchus lobaris superior dexter", "Bronchus lobaris superior"],
+      "segments": ["S I, S II, S III", "3", "tiga"]
+    }
+  },
+  {
+    "key": "middle-lobe-of-right-lung",
+    "kind": "organ-part",
+    "la": "Lobus medius pulmonis dextri",
+    "alt": ["Lobus medius"],
+    "en": "Middle lobe of right lung",
+    "desc": {
+      "en": "Wedge-shaped lobe found only in the right lung, between the fissura horizontalis above and the fissura obliqua below and behind. It has a laterale (S IV) and a mediale (S V) segment, aerated by the bronchus lobaris medius.",
+      "id": "Lobus berbentuk baji yang hanya ada pada paru kanan, di antara fissura horizontalis di atas dan fissura obliqua di bawah-belakang. Lobus ini memiliki segmentum laterale (S IV) dan mediale (S V) yang mendapat udara dari bronchus lobaris medius."
+    },
+    "facts": {
+      "location": {
+        "en": "Front and side of the right chest between the 4th and 6th ribs and costal cartilages; it does not reach the back.",
+        "id": "Bagian depan dan samping dada kanan di antara costa IV dan costa VI beserta cartilago costalisnya; lobus ini tidak mencapai dinding belakang."
+      },
+      "relations": {
+        "en": "Its medial segment lies against the right atrium, separated by the pleura and pericardium.",
+        "id": "Segmentum mediale-nya bersentuhan dengan atrium dextrum, dipisahkan oleh pleura dan pericardium."
+      },
+      "clinical": {
+        "en": "Middle lobe consolidation blurs the right heart border on a PA chest radiograph. Its long, narrow bronchus, surrounded by lymph nodes, collapses easily (middle lobe syndrome).",
+        "id": "Konsolidasi lobus medius mengaburkan batas kanan jantung pada foto toraks PA. Bronchusnya yang panjang dan sempit serta dikelilingi kelenjar limfe mudah kolaps (middle lobe syndrome)."
+      }
+    },
+    "quiz": {
+      "bronchus": ["Bronchus lobaris medius"],
+      "segments": ["S IV, S V", "2", "dua"]
+    }
+  },
+  {
+    "key": "inferior-lobe-of-right-lung",
+    "kind": "organ-part",
+    "la": "Lobus inferior pulmonis dextri",
+    "alt": ["Lobus inferior dexter", "Lobus inferior"],
+    "en": "Inferior lobe of right lung",
+    "desc": {
+      "en": "The largest right lobe, below and behind the fissura obliqua. It forms most of the base and of the posterior part of the lung and has five segments: superius (S VI) and the basal segments S VII-S X.",
+      "id": "Lobus terbesar paru kanan, di bawah dan di belakang fissura obliqua. Lobus ini membentuk sebagian besar basis dan bagian posterior paru, dan memiliki lima segmen: superius (S VI) dan segmen basal S VII-S X."
+    },
+    "facts": {
+      "location": {
+        "en": "Most of the posterior chest wall, from about the level of the T2-T3 spinous processes down to the 10th rib. The lower lobes are auscultated from the back.",
+        "id": "Sebagian besar dinding dada belakang, dari kira-kira setinggi processus spinosus T2-T3 sampai costa X. Lobus inferior diauskultasi dari punggung."
+      },
+      "features": {
+        "en": "Aerated by the bronchus lobaris inferior dexter, the continuation of the bronchus intermedius.",
+        "id": "Mendapat udara dari bronchus lobaris inferior dexter, lanjutan bronchus intermedius."
+      }
+    },
+    "quiz": {
+      "bronchus": ["Bronchus lobaris inferior dexter", "Bronchus lobaris inferior"],
+      "segments": ["S VI-S X", "5", "lima"]
+    }
+  },
+  {
+    "key": "superior-lobe-of-left-lung",
+    "kind": "organ-part",
+    "la": "Lobus superior pulmonis sinistri",
+    "alt": ["Lobus superior sinister", "Lobus superior"],
+    "en": "Superior lobe of left lung",
+    "desc": {
+      "en": "Upper lobe of the left lung, above and in front of the fissura obliqua. It carries the incisura cardiaca and the lingula and usually has four segments: apicoposterius (S I+II), anterius (S III), lingulare superius (S IV) and lingulare inferius (S V).",
+      "id": "Lobus atas paru kiri, di atas dan di depan fissura obliqua. Lobus ini memiliki incisura cardiaca dan lingula, dan biasanya terdiri atas empat segmen: apicoposterius (S I+II), anterius (S III), lingulare superius (S IV) dan lingulare inferius (S V)."
+    },
+    "facts": {
+      "location": {
+        "en": "Most of the left anterior chest wall, down to the 6th costal cartilage; the lingula lies in front of the heart.",
+        "id": "Sebagian besar dinding dada depan kiri, sampai cartilago costalis VI; lingula terletak di depan jantung."
+      },
+      "features": {
+        "en": "Aerated by the bronchus lobaris superior sinister, which divides into an upper division (apicoposterior and anterior) and the bronchus lingularis. The lingula is the counterpart of the right middle lobe.",
+        "id": "Mendapat udara dari bronchus lobaris superior sinister yang bercabang menjadi divisi atas (apicoposterior dan anterior) dan bronchus lingularis. Lingula merupakan padanan lobus medius paru kanan."
+      }
+    },
+    "quiz": {
+      "bronchus": ["Bronchus lobaris superior sinister", "Bronchus lobaris superior"],
+      "segments": ["S I+II, S III, S IV, S V", "4", "empat"]
+    }
+  },
+  {
+    "key": "inferior-lobe-of-left-lung",
+    "kind": "organ-part",
+    "la": "Lobus inferior pulmonis sinistri",
+    "alt": ["Lobus inferior sinister", "Lobus inferior"],
+    "en": "Inferior lobe of left lung",
+    "desc": {
+      "en": "Lobe below and behind the fissura obliqua of the left lung, forming most of its base and posterior part. It has the segmentum superius (S VI) and the basal segments S VII-S X; S VII and S VIII often share one bronchus and are then called the segmentum basale anteromediale.",
+      "id": "Lobus di bawah dan di belakang fissura obliqua paru kiri, membentuk sebagian besar basis dan bagian posteriornya. Lobus ini memiliki segmentum superius (S VI) dan segmen basal S VII-S X; S VII dan S VIII sering memakai satu bronchus bersama dan disebut segmentum basale anteromediale."
+    },
+    "facts": {
+      "location": {
+        "en": "Posterior chest wall on the left, from about the level of the T2-T3 spinous processes to the 10th rib.",
+        "id": "Dinding dada belakang kiri, dari kira-kira setinggi processus spinosus T2-T3 sampai costa X."
+      },
+      "features": {
+        "en": "Aerated by the bronchus lobaris inferior sinister.",
+        "id": "Mendapat udara dari bronchus lobaris inferior sinister."
+      }
+    },
+    "quiz": {
+      "bronchus": ["Bronchus lobaris inferior sinister", "Bronchus lobaris inferior"],
+      "segments": ["S VI-S X", "4-5", "4", "5"]
+    }
+  },
+  {
+    "key": "apical-segment-of-right-lung-si",
+    "kind": "landmark",
+    "la": "Segmentum apicale (S I)",
+    "alt": ["Segmentum apicale", "S I", "SI", "Segmentum apicale pulmonis dextri"],
+    "en": "Apical segment of right lung (S I)",
+    "desc": {
+      "en": "Top segment of the right superior lobe. It fills the apex and the cupula pleurae above the first rib and is aerated by the bronchus segmentalis apicalis (B I).",
+      "id": "Segmen paling atas lobus superior kanan. Segmen ini mengisi apex pulmonis dan cupula pleurae di atas costa I, dan mendapat udara dari bronchus segmentalis apicalis (B I)."
+    },
+    "facts": {"bone": "superior-lobe-of-right-lung"},
+    "quiz": {
+      "lobe": ["Lobus superior pulmonis dextri", "Lobus superior dexter"],
+      "bronchus": ["Bronchus segmentalis apicalis (B I)", "Bronchus segmentalis apicalis", "B I"]
+    }
+  },
+  {
+    "key": "posterior-segment-of-right-lung-sii",
+    "kind": "landmark",
+    "la": "Segmentum posterius (S II)",
+    "alt": ["Segmentum posterius", "S II", "SII", "Segmentum posterius pulmonis dextri"],
+    "en": "Posterior segment of right lung (S II)",
+    "desc": {
+      "en": "Posterior part of the right superior lobe, against the upper posterior chest wall below the apex. Aerated by B II. In a supine patient it is, with S VI, a common site of aspiration pneumonia and lung abscess.",
+      "id": "Bagian posterior lobus superior kanan, menempel pada dinding dada belakang atas di bawah apex. Mendapat udara dari B II. Pada pasien berbaring telentang, segmen ini bersama S VI sering menjadi tempat pneumonia aspirasi dan abses paru."
+    },
+    "facts": {"bone": "superior-lobe-of-right-lung"},
+    "quiz": {
+      "lobe": ["Lobus superior pulmonis dextri", "Lobus superior dexter"],
+      "bronchus": ["Bronchus segmentalis posterior (B II)", "Bronchus segmentalis posterior", "B II"]
+    }
+  },
+  {
+    "key": "anterior-segment-of-right-lung-siii",
+    "kind": "landmark",
+    "la": "Segmentum anterius (S III)",
+    "alt": ["Segmentum anterius", "S III", "SIII", "Segmentum anterius pulmonis dextri"],
+    "en": "Anterior segment of right lung (S III)",
+    "desc": {
+      "en": "Anterior part of the right superior lobe, behind the upper anterior chest wall down to the horizontal fissure. Aerated by B III.",
+      "id": "Bagian anterior lobus superior kanan, di belakang dinding dada depan atas sampai fissura horizontalis. Mendapat udara dari B III."
+    },
+    "facts": {"bone": "superior-lobe-of-right-lung"},
+    "quiz": {
+      "lobe": ["Lobus superior pulmonis dextri", "Lobus superior dexter"],
+      "bronchus": ["Bronchus segmentalis anterior (B III)", "Bronchus segmentalis anterior", "B III"]
+    }
+  },
+  {
+    "key": "lateral-segment-of-right-lung-siv",
+    "kind": "landmark",
+    "la": "Segmentum laterale (S IV)",
+    "alt": ["Segmentum laterale", "S IV", "SIV", "Segmentum laterale lobi medii"],
+    "en": "Lateral segment of right lung (S IV)",
+    "desc": {
+      "en": "Lateral half of the right middle lobe, facing the anterolateral chest wall and axilla. Aerated by B IV from the bronchus lobaris medius.",
+      "id": "Separuh lateral lobus medius kanan, menghadap dinding dada anterolateral dan axilla. Mendapat udara dari B IV cabang bronchus lobaris medius."
+    },
+    "facts": {"bone": "middle-lobe-of-right-lung"},
+    "quiz": {
+      "lobe": ["Lobus medius pulmonis dextri", "Lobus medius"],
+      "bronchus": ["Bronchus segmentalis lateralis (B IV)", "Bronchus segmentalis lateralis", "B IV"]
+    }
+  },
+  {
+    "key": "medial-segment-of-right-lung-sv",
+    "kind": "landmark",
+    "la": "Segmentum mediale (S V)",
+    "alt": ["Segmentum mediale", "S V", "SV", "Segmentum mediale lobi medii"],
+    "en": "Medial segment of right lung (S V)",
+    "desc": {
+      "en": "Medial half of the right middle lobe, lying against the right heart border (right atrium) across the pericardium. Aerated by B V.",
+      "id": "Separuh medial lobus medius kanan, bersentuhan dengan batas kanan jantung (atrium dextrum) dengan perantaraan pericardium. Mendapat udara dari B V."
+    },
+    "facts": {"bone": "middle-lobe-of-right-lung"},
+    "quiz": {
+      "lobe": ["Lobus medius pulmonis dextri", "Lobus medius"],
+      "bronchus": ["Bronchus segmentalis medialis (B V)", "Bronchus segmentalis medialis", "B V"]
+    }
+  },
+  {
+    "key": "superior-segment-of-right-lung-svi",
+    "kind": "landmark",
+    "la": "Segmentum superius (S VI)",
+    "alt": ["Segmentum superius", "S VI", "SVI", "Segmentum apicale lobi inferioris", "Segmentum superius lobi inferioris"],
+    "en": "Superior segment of right lung (S VI)",
+    "desc": {
+      "en": "Uppermost segment of the right inferior lobe, behind the hilum against the posterior chest wall. Its bronchus (B VI) is the first branch of the lower lobe bronchus and points straight backward, so aspirated material reaches it easily in a supine patient.",
+      "id": "Segmen paling atas lobus inferior kanan, di belakang hilum dan menempel pada dinding dada belakang. Bronchusnya (B VI) adalah cabang pertama bronchus lobaris inferior dan mengarah lurus ke belakang, sehingga benda aspirasi mudah masuk ke segmen ini pada pasien berbaring telentang."
+    },
+    "facts": {"bone": "inferior-lobe-of-right-lung"},
+    "quiz": {
+      "lobe": ["Lobus inferior pulmonis dextri", "Lobus inferior dexter"],
+      "bronchus": ["Bronchus segmentalis superior (B VI)", "Bronchus segmentalis superior", "B VI"]
+    }
+  },
+  {
+    "key": "medial-basal-segment-of-right-lung-svii",
+    "kind": "landmark",
+    "la": "Segmentum basale mediale (S VII)",
+    "alt": ["Segmentum basale mediale", "Segmentum cardiacum", "S VII", "SVII"],
+    "en": "Medial basal segment of right lung (S VII)",
+    "desc": {
+      "en": "Small segment on the mediastinal side of the right base, below the hilum, next to the v. cava inferior and the heart; TA98 also calls it segmentum cardiacum. Aerated by B VII.",
+      "id": "Segmen kecil di sisi mediastinal basis paru kanan, di bawah hilum, dekat v. cava inferior dan jantung; TA98 juga menyebutnya segmentum cardiacum. Mendapat udara dari B VII."
+    },
+    "facts": {"bone": "inferior-lobe-of-right-lung"},
+    "quiz": {
+      "lobe": ["Lobus inferior pulmonis dextri", "Lobus inferior dexter"],
+      "bronchus": ["Bronchus segmentalis basalis medialis (B VII)", "Bronchus segmentalis basalis medialis", "B VII"]
+    }
+  },
+  {
+    "key": "anterior-basal-segment-of-right-lung-sviii",
+    "kind": "landmark",
+    "la": "Segmentum basale anterius (S VIII)",
+    "alt": ["Segmentum basale anterius", "S VIII", "SVIII"],
+    "en": "Anterior basal segment of right lung (S VIII)",
+    "desc": {
+      "en": "Anterior part of the right base, behind the lower anterolateral chest wall and resting on the front of the diaphragmatic dome. Aerated by B VIII.",
+      "id": "Bagian anterior basis paru kanan, di belakang dinding dada anterolateral bawah dan bertumpu pada bagian depan kubah diaphragma. Mendapat udara dari B VIII."
+    },
+    "facts": {"bone": "inferior-lobe-of-right-lung"},
+    "quiz": {
+      "lobe": ["Lobus inferior pulmonis dextri", "Lobus inferior dexter"],
+      "bronchus": ["Bronchus segmentalis basalis anterior (B VIII)", "Bronchus segmentalis basalis anterior", "B VIII"]
+    }
+  },
+  {
+    "key": "lateral-basal-segment-of-right-lung-six",
+    "kind": "landmark",
+    "la": "Segmentum basale laterale (S IX)",
+    "alt": ["Segmentum basale laterale", "S IX", "SIX"],
+    "en": "Lateral basal segment of right lung (S IX)",
+    "desc": {
+      "en": "Lateral part of the right base, against the lower lateral chest wall above the costodiaphragmatic recess. Aerated by B IX.",
+      "id": "Bagian lateral basis paru kanan, menempel pada dinding dada lateral bawah di atas recessus costodiaphragmaticus. Mendapat udara dari B IX."
+    },
+    "facts": {"bone": "inferior-lobe-of-right-lung"},
+    "quiz": {
+      "lobe": ["Lobus inferior pulmonis dextri", "Lobus inferior dexter"],
+      "bronchus": ["Bronchus segmentalis basalis lateralis (B IX)", "Bronchus segmentalis basalis lateralis", "B IX"]
+    }
+  },
+  {
+    "key": "posterior-basal-segment-of-right-lung-sx",
+    "kind": "landmark",
+    "la": "Segmentum basale posterius (S X)",
+    "alt": ["Segmentum basale posterius", "S X", "SX"],
+    "en": "Posterior basal segment of right lung (S X)",
+    "desc": {
+      "en": "Lowest and most posterior segment, lying on the back of the diaphragm and in the posterior costodiaphragmatic angle. Aerated by B X. In an upright patient aspirated material settles here.",
+      "id": "Segmen paling bawah dan paling posterior, bertumpu pada bagian belakang diaphragma dan di sudut costodiaphragmatica posterior. Mendapat udara dari B X. Pada pasien dalam posisi tegak, benda aspirasi mengendap di segmen ini."
+    },
+    "facts": {"bone": "inferior-lobe-of-right-lung"},
+    "quiz": {
+      "lobe": ["Lobus inferior pulmonis dextri", "Lobus inferior dexter"],
+      "bronchus": ["Bronchus segmentalis basalis posterior (B X)", "Bronchus segmentalis basalis posterior", "B X"]
+    }
+  },
+  {
+    "key": "apicoposterior-segment-of-left-lung-si-sii",
+    "kind": "landmark",
+    "la": "Segmentum apicoposterius (S I+II)",
+    "alt": ["Segmentum apicoposterius", "S I+II", "S I+S II", "SI+SII", "Apicoposterior"],
+    "en": "Apicoposterior segment of left lung (S I+II)",
+    "desc": {
+      "en": "Top and upper posterior part of the left superior lobe, filling the left apex. It matches the apical and posterior segments of the right lung but is aerated by one bronchus, B I+II.",
+      "id": "Bagian puncak dan posterior atas lobus superior kiri, mengisi apex pulmonis kiri. Segmen ini sepadan dengan segmentum apicale dan posterius paru kanan, tetapi mendapat udara dari satu bronchus, B I+II."
+    },
+    "facts": {"bone": "superior-lobe-of-left-lung"},
+    "quiz": {
+      "lobe": ["Lobus superior pulmonis sinistri", "Lobus superior sinister"],
+      "bronchus": ["Bronchus segmentalis apicoposterior (B I+II)", "Bronchus segmentalis apicoposterior", "B I+II"]
+    }
+  },
+  {
+    "key": "anterior-segment-of-left-lung-siii",
+    "kind": "landmark",
+    "la": "Segmentum anterius (S III)",
+    "alt": ["Segmentum anterius", "S III", "SIII", "Segmentum anterius pulmonis sinistri"],
+    "en": "Anterior segment of left lung (S III)",
+    "desc": {
+      "en": "Anterior part of the left superior lobe, behind the upper anterior chest wall and above the cardiac notch. Aerated by B III.",
+      "id": "Bagian anterior lobus superior kiri, di belakang dinding dada depan atas dan di atas incisura cardiaca. Mendapat udara dari B III."
+    },
+    "facts": {"bone": "superior-lobe-of-left-lung"},
+    "quiz": {
+      "lobe": ["Lobus superior pulmonis sinistri", "Lobus superior sinister"],
+      "bronchus": ["Bronchus segmentalis anterior (B III)", "Bronchus segmentalis anterior", "B III"]
+    }
+  },
+  {
+    "key": "superior-lingular-segment-of-left-lung-siv",
+    "kind": "landmark",
+    "la": "Segmentum lingulare superius (S IV)",
+    "alt": ["Segmentum lingulare superius", "Lingularis superior", "S IV", "SIV"],
+    "en": "Superior lingular segment of left lung (S IV)",
+    "desc": {
+      "en": "Upper segment of the lingula, below the anterior segment and level with the cardiac notch. Aerated by B IV from the bronchus lingularis.",
+      "id": "Segmen atas lingula, di bawah segmentum anterius dan setinggi incisura cardiaca. Mendapat udara dari B IV cabang bronchus lingularis."
+    },
+    "facts": {"bone": "superior-lobe-of-left-lung"},
+    "quiz": {
+      "lobe": ["Lobus superior pulmonis sinistri", "Lobus superior sinister"],
+      "bronchus": ["Bronchus lingularis superior (B IV)", "Bronchus lingularis superior", "B IV"]
+    }
+  },
+  {
+    "key": "inferior-lingular-segment-of-left-lung-sv",
+    "kind": "landmark",
+    "la": "Segmentum lingulare inferius (S V)",
+    "alt": ["Segmentum lingulare inferius", "Lingularis inferior", "S V", "SV"],
+    "en": "Inferior lingular segment of left lung (S V)",
+    "desc": {
+      "en": "Lower segment of the lingula, forming the tip of the tongue-shaped process that curves over the heart. Aerated by B V.",
+      "id": "Segmen bawah lingula, membentuk ujung tonjolan berbentuk lidah yang melengkung di depan jantung. Mendapat udara dari B V."
+    },
+    "facts": {"bone": "superior-lobe-of-left-lung"},
+    "quiz": {
+      "lobe": ["Lobus superior pulmonis sinistri", "Lobus superior sinister"],
+      "bronchus": ["Bronchus lingularis inferior (B V)", "Bronchus lingularis inferior", "B V"]
+    }
+  },
+  {
+    "key": "superior-segment-of-left-lung-svi",
+    "kind": "landmark",
+    "la": "Segmentum superius (S VI)",
+    "alt": ["Segmentum superius", "S VI", "SVI", "Segmentum apicale lobi inferioris", "Segmentum superius lobi inferioris"],
+    "en": "Superior segment of left lung (S VI)",
+    "desc": {
+      "en": "Uppermost segment of the left inferior lobe, behind the hilum against the posterior chest wall. Aerated by B VI, the first, backward-pointing branch of the left lower lobe bronchus.",
+      "id": "Segmen paling atas lobus inferior kiri, di belakang hilum dan menempel pada dinding dada belakang. Mendapat udara dari B VI, cabang pertama bronchus lobaris inferior kiri yang mengarah ke belakang."
+    },
+    "facts": {"bone": "inferior-lobe-of-left-lung"},
+    "quiz": {
+      "lobe": ["Lobus inferior pulmonis sinistri", "Lobus inferior sinister"],
+      "bronchus": ["Bronchus segmentalis superior (B VI)", "Bronchus segmentalis superior", "B VI"]
+    }
+  },
+  {
+    "key": "medial-basal-segment-of-left-lung-svii",
+    "kind": "landmark",
+    "la": "Segmentum basale mediale (S VII)",
+    "alt": ["Segmentum basale mediale", "Segmentum cardiacum", "Segmentum basale anteromediale", "S VII", "S VII+VIII"],
+    "en": "Medial basal segment of left lung (S VII)",
+    "desc": {
+      "en": "Medial part of the left base, next to the heart. On the left it usually shares a bronchus with S VIII, and the two are then described together as the segmentum basale anteromediale (S VII+VIII).",
+      "id": "Bagian medial basis paru kiri, dekat jantung. Pada paru kiri segmen ini biasanya memakai satu bronchus bersama S VIII, sehingga keduanya disebut segmentum basale anteromediale (S VII+VIII)."
+    },
+    "facts": {"bone": "inferior-lobe-of-left-lung"},
+    "quiz": {
+      "lobe": ["Lobus inferior pulmonis sinistri", "Lobus inferior sinister"],
+      "bronchus": ["Bronchus segmentalis basalis medialis (B VII)", "Bronchus segmentalis basalis anteromedialis (B VII+VIII)", "B VII"]
+    }
+  },
+  {
+    "key": "anterior-basal-segment-of-left-lung-sviii",
+    "kind": "landmark",
+    "la": "Segmentum basale anterius (S VIII)",
+    "alt": ["Segmentum basale anterius", "Segmentum basale anteromediale", "S VIII", "SVIII"],
+    "en": "Anterior basal segment of left lung (S VIII)",
+    "desc": {
+      "en": "Anterior part of the left base, resting on the front of the left diaphragmatic dome. It is often fused with S VII as the anteromedial basal segment.",
+      "id": "Bagian anterior basis paru kiri, bertumpu pada bagian depan kubah diaphragma kiri. Segmen ini sering bergabung dengan S VII sebagai segmentum basale anteromediale."
+    },
+    "facts": {"bone": "inferior-lobe-of-left-lung"},
+    "quiz": {
+      "lobe": ["Lobus inferior pulmonis sinistri", "Lobus inferior sinister"],
+      "bronchus": ["Bronchus segmentalis basalis anterior (B VIII)", "Bronchus segmentalis basalis anteromedialis (B VII+VIII)", "B VIII"]
+    }
+  },
+  {
+    "key": "lateral-basal-segment-of-left-lung-six",
+    "kind": "landmark",
+    "la": "Segmentum basale laterale (S IX)",
+    "alt": ["Segmentum basale laterale", "S IX", "SIX"],
+    "en": "Lateral basal segment of left lung (S IX)",
+    "desc": {
+      "en": "Lateral part of the left base, against the lower lateral chest wall above the costodiaphragmatic recess. Aerated by B IX.",
+      "id": "Bagian lateral basis paru kiri, menempel pada dinding dada lateral bawah di atas recessus costodiaphragmaticus. Mendapat udara dari B IX."
+    },
+    "facts": {"bone": "inferior-lobe-of-left-lung"},
+    "quiz": {
+      "lobe": ["Lobus inferior pulmonis sinistri", "Lobus inferior sinister"],
+      "bronchus": ["Bronchus segmentalis basalis lateralis (B IX)", "Bronchus segmentalis basalis lateralis", "B IX"]
+    }
+  },
+  {
+    "key": "posterior-basal-segment-of-left-lung-sx",
+    "kind": "landmark",
+    "la": "Segmentum basale posterius (S X)",
+    "alt": ["Segmentum basale posterius", "S X", "SX"],
+    "en": "Posterior basal segment of left lung (S X)",
+    "desc": {
+      "en": "Lowest posterior segment of the left lung, lying on the back of the diaphragm in the posterior costodiaphragmatic angle. Aerated by B X.",
+      "id": "Segmen posterior paling bawah paru kiri, bertumpu pada bagian belakang diaphragma di sudut costodiaphragmatica posterior. Mendapat udara dari B X."
+    },
+    "facts": {"bone": "inferior-lobe-of-left-lung"},
+    "quiz": {
+      "lobe": ["Lobus inferior pulmonis sinistri", "Lobus inferior sinister"],
+      "bronchus": ["Bronchus segmentalis basalis posterior (B X)", "Bronchus segmentalis basalis posterior", "B X"]
+    }
+  },
+  {
+    "key": "oblique-fissure-of-right-lung",
+    "kind": "landmark",
+    "la": "Fissura obliqua pulmonis dextri",
+    "alt": ["Fissura obliqua", "Fissura obliqua pulmonis"],
+    "en": "Oblique fissure of right lung",
+    "desc": {
+      "en": "Deep cleft that separates the lobus inferior from the lobus superior and lobus medius. It starts on the mediastinal surface above and behind the hilum, crosses the posterior border, runs obliquely down and forward over the costal surface to the inferior border and returns to the hilum below.",
+      "id": "Celah dalam yang memisahkan lobus inferior dari lobus superior dan lobus medius. Fissura ini mulai di facies mediastinalis di atas-belakang hilum, melewati tepi posterior, berjalan miring ke bawah dan ke depan di facies costalis sampai margo inferior, lalu kembali ke hilum dari bawah."
+    },
+    "facts": {
+      "bone": "inferior-lobe-of-right-lung",
+      "projection": {
+        "en": "From about the spinous process of T2 behind (some texts give T3-T4), around the side of the chest roughly along the 5th intercostal space and 6th rib, to the 6th costal cartilage in front. With the arm raised above the head it follows the medial border of the scapula.",
+        "id": "Dari kira-kira processus spinosus T2 di belakang (sebagian buku menyebut T3-T4), mengelilingi sisi dada kira-kira mengikuti spatium intercostale V dan costa VI, sampai cartilago costalis VI di depan. Bila lengan diangkat ke atas kepala, garis ini mengikuti margo medialis scapulae."
+      }
+    },
+    "quiz": {
+      "separates": ["Lobus superior et medius dari lobus inferior", "lobus superior dan medius dengan lobus inferior"],
+      "anterior_end": ["Cartilago costalis VI", "costa VI"]
+    }
+  },
+  {
+    "key": "oblique-fissure-of-left-lung",
+    "kind": "landmark",
+    "la": "Fissura obliqua pulmonis sinistri",
+    "alt": ["Fissura obliqua", "Fissura obliqua pulmonis"],
+    "en": "Oblique fissure of left lung",
+    "desc": {
+      "en": "The only fissure of the left lung, separating the lobus superior from the lobus inferior. It follows the same course as on the right, from above and behind the hilum around the lung to the inferior border and back to the hilum.",
+      "id": "Satu-satunya fissura paru kiri, memisahkan lobus superior dari lobus inferior. Jalannya sama seperti di kanan, dari atas-belakang hilum mengelilingi paru sampai margo inferior lalu kembali ke hilum."
+    },
+    "facts": {
+      "bone": "inferior-lobe-of-left-lung",
+      "projection": {
+        "en": "From about the spinous process of T2 behind (T3-T4 in some texts) to the 6th costal cartilage in front, roughly along the 6th rib laterally.",
+        "id": "Dari kira-kira processus spinosus T2 di belakang (T3-T4 menurut sebagian buku) sampai cartilago costalis VI di depan, di lateral kira-kira mengikuti costa VI."
+      }
+    },
+    "quiz": {
+      "separates": ["Lobus superior dan lobus inferior", "lobus superior et inferior"],
+      "anterior_end": ["Cartilago costalis VI", "costa VI"]
+    }
+  },
+  {
+    "key": "horizontal-fissure-of-right-lung",
+    "kind": "landmark",
+    "la": "Fissura horizontalis pulmonis dextri",
+    "alt": ["Fissura horizontalis", "Fissura transversa"],
+    "en": "Horizontal fissure of right lung",
+    "desc": {
+      "en": "Shorter fissure of the right lung that separates the lobus superior from the lobus medius. It leaves the oblique fissure in the midaxillary line, runs horizontally forward to the anterior border, and then back on the mediastinal surface to the hilum.",
+      "id": "Fissura yang lebih pendek pada paru kanan, memisahkan lobus superior dari lobus medius. Fissura ini berpisah dari fissura obliqua di linea axillaris media, berjalan horizontal ke depan sampai margo anterior, lalu kembali di facies mediastinalis ke hilum."
+    },
+    "facts": {
+      "bone": "middle-lobe-of-right-lung",
+      "projection": {
+        "en": "From the oblique fissure in the midaxillary line forward along the 4th rib and 4th costal cartilage to the sternal border.",
+        "id": "Dari fissura obliqua di linea axillaris media ke depan mengikuti costa IV dan cartilago costalis IV sampai tepi sternum."
+      },
+      "clinical": {
+        "en": "On a PA chest radiograph it is the only fissure seen as a thin horizontal line (minor fissure). It is incomplete in many people.",
+        "id": "Pada foto toraks PA, fissura ini satu-satunya yang tampak sebagai garis horizontal tipis (minor fissure). Pada banyak orang fissura ini tidak lengkap."
+      }
+    },
+    "quiz": {
+      "separates": ["Lobus superior dan lobus medius", "lobus superior et medius"],
+      "projection": ["Costa IV", "cartilago costalis IV"]
+    }
+  },
+  {
+    "key": "apex-of-lung",
+    "kind": "landmark",
+    "la": "Apex pulmonis",
+    "alt": ["Apex pulmonis dextri", "Apex pulmonis sinistri"],
+    "en": "Apex of lung",
+    "desc": {
+      "en": "Rounded top of the lung that rises through the superior thoracic aperture into the root of the neck, 2-3 cm above the medial third of the clavicle. It is covered by the cupula pleurae and the membrana suprapleuralis.",
+      "id": "Puncak paru yang membulat dan naik melalui apertura thoracis superior ke pangkal leher, 2-3 cm di atas sepertiga medial clavicula. Apex ditutupi cupula pleurae dan membrana suprapleuralis."
+    },
+    "facts": {
+      "bone": "superior-lobe-of-right-lung",
+      "relations": {
+        "en": "In front: a. subclavia, which grooves it, and v. subclavia. Behind: neck of the first rib with the ventral ramus of T1, the ganglion cervicothoracicum (stellatum) and the a. intercostalis suprema. Above and lateral: the lower trunk of the plexus brachialis and the scalene muscles.",
+        "id": "Di depan: a. subclavia yang membuat alur padanya, dan v. subclavia. Di belakang: collum costae I dengan ramus ventralis T1, ganglion cervicothoracicum (stellatum) dan a. intercostalis suprema. Di atas dan lateral: truncus inferior plexus brachialis dan mm. scaleni."
+      },
+      "clinical": {
+        "en": "A tumour of the apex (Pancoast tumour) can invade the lower trunk of the plexus brachialis, giving pain and weakness in the C8-T1 territory of the hand, and the sympathetic chain, giving Horner syndrome. Stab wounds above the clavicle and subclavian vein puncture can enter the apex and cause pneumothorax.",
+        "id": "Tumor apex (tumor Pancoast) dapat menginvasi truncus inferior plexus brachialis sehingga timbul nyeri dan kelemahan di daerah C8-T1 pada tangan, serta rantai simpatis sehingga timbul sindrom Horner. Luka tusuk di atas clavicula dan pungsi v. subclavia dapat mengenai apex dan menyebabkan pneumotoraks."
+      }
+    },
+    "quiz": {
+      "projection": ["2-3 cm di atas sepertiga medial clavicula", "2-3 cm di atas clavicula", "di atas sepertiga medial clavicula"]
+    }
+  },
+  {
+    "key": "base-of-lung",
+    "kind": "landmark",
+    "la": "Basis pulmonis",
+    "alt": ["Basis pulmonis dextri", "Basis pulmonis sinistri"],
+    "en": "Base of lung",
+    "desc": {
+      "en": "Concave lower part of the lung that rests on the dome of the diaphragm; its surface is the facies diaphragmatica. The right base is more deeply hollowed and sits higher because of the liver below.",
+      "id": "Bagian bawah paru yang cekung dan bertumpu pada kubah diaphragma; permukaannya adalah facies diaphragmatica. Basis kanan lebih cekung dan lebih tinggi karena hepar di bawahnya."
+    },
+    "facts": {
+      "bone": "inferior-lobe-of-right-lung",
+      "relations": {
+        "en": "Across the diaphragm: the liver on the right; the left lobe of the liver, the fundus of the stomach and the spleen on the left. The base moves down in inspiration and up in expiration.",
+        "id": "Di seberang diaphragma: hepar di kanan; lobus sinister hepatis, fundus gastricus dan lien di kiri. Basis turun saat inspirasi dan naik saat ekspirasi."
+      }
+    },
+    "quiz": {
+      "rests_on": ["Diaphragma"]
+    }
+  },
+  {
+    "key": "costal-surface-of-lung",
+    "kind": "landmark",
+    "la": "Facies costalis pulmonis",
+    "alt": ["Facies costalis"],
+    "en": "Costal surface of lung",
+    "desc": {
+      "en": "Large, smooth, convex surface facing the ribs, costal cartilages and intercostal spaces, separated from them by the pleura costalis and fascia endothoracica. Behind, it curves into the paravertebral gutter beside the vertebral bodies.",
+      "id": "Permukaan luas, licin dan cembung yang menghadap costae, cartilagines costales dan spatia intercostalia, dipisahkan darinya oleh pleura costalis dan fascia endothoracica. Di belakang, permukaan ini melengkung masuk ke cekungan paravertebral di samping corpus vertebrae."
+    },
+    "facts": {
+      "bone": "superior-lobe-of-right-lung",
+      "note": {
+        "en": "Embalmed lungs show shallow rib impressions on this surface; in life it slides freely on the costal pleura.",
+        "id": "Paru yang diawetkan menunjukkan impresi costae yang dangkal pada permukaan ini; pada orang hidup permukaan ini meluncur bebas di atas pleura costalis."
+      }
+    },
+    "quiz": {
+      "faces": ["Costae", "pleura costalis", "dinding thorax"]
+    }
+  },
+  {
+    "key": "medial-surface-of-lung",
+    "kind": "landmark",
+    "la": "Facies medialis pulmonis",
+    "alt": ["Facies medialis"],
+    "en": "Medial surface of lung",
+    "desc": {
+      "en": "Inner surface of the lung, facing the mediastinum and the vertebral column. It has a pars vertebralis behind, lying against the sides of the vertebral bodies, and a pars mediastinalis in front, which is the concave facies mediastinalis with the hilum.",
+      "id": "Permukaan dalam paru yang menghadap mediastinum dan columna vertebralis. Permukaan ini terdiri atas pars vertebralis di belakang, yang menempel pada sisi corpus vertebrae, dan pars mediastinalis di depan, yaitu facies mediastinalis yang cekung dan memiliki hilum."
+    },
+    "facts": {
+      "bone": "inferior-lobe-of-right-lung",
+      "note": {
+        "en": "Facies medialis is the TA2 term that groups both parts; the module and most atlases name the front part facies mediastinalis.",
+        "id": "Facies medialis adalah istilah TA2 yang mencakup kedua bagian; modul dan sebagian besar atlas menamai bagian depannya facies mediastinalis."
+      }
+    },
+    "quiz": {
+      "parts": ["Pars vertebralis et pars mediastinalis", "pars vertebralis dan pars mediastinalis"]
+    }
+  },
+  {
+    "key": "mediastinal-surface-of-lung",
+    "kind": "landmark",
+    "la": "Facies mediastinalis pulmonis",
+    "alt": ["Facies mediastinalis", "Pars mediastinalis faciei medialis"],
+    "en": "Mediastinal surface of lung",
+    "desc": {
+      "en": "Concave medial surface facing the mediastinum, with the hilum in its centre. The mediastinal organs leave impressions and grooves on it in fixed specimens; the impressio cardiaca is much deeper on the left.",
+      "id": "Permukaan medial yang cekung dan menghadap mediastinum, dengan hilum di tengahnya. Organ mediastinum meninggalkan impresi dan sulcus padanya pada sediaan yang difiksasi; impressio cardiaca jauh lebih dalam pada paru kiri."
+    },
+    "facts": {
+      "bone": "superior-lobe-of-right-lung",
+      "features": {
+        "en": "Right lung: impressio cardiaca (right atrium); grooves for the v. cava superior and v. brachiocephalica dextra in front of and above the hilum; the arch of the v. azygos over the hilum; the oesophagus behind the hilum and lig. pulmonale; a small area for the v. cava inferior near the base. Left lung: deep impressio cardiaca (left ventricle); sulcus aorticus over and behind the hilum; grooves for the a. subclavia sinistra, a. carotis communis sinistra and v. brachiocephalica sinistra above; the oesophagus low down in front of the aortic groove.",
+        "id": "Paru kanan: impressio cardiaca (atrium dextrum); sulcus untuk v. cava superior dan v. brachiocephalica dextra di depan dan di atas hilum; arcus v. azygos di atas hilum; oesophagus di belakang hilum dan lig. pulmonale; daerah kecil untuk v. cava inferior dekat basis. Paru kiri: impressio cardiaca yang dalam (ventriculus sinister); sulcus aorticus di atas dan di belakang hilum; sulcus untuk a. subclavia sinistra, a. carotis communis sinistra dan v. brachiocephalica sinistra di atas; oesophagus di bagian bawah di depan sulcus aorticus."
+      }
+    },
+    "quiz": {
+      "contains": ["Hilum pulmonis", "hilum"]
+    }
+  },
+  {
+    "key": "diaphragmatic-surface-of-lung",
+    "kind": "landmark",
+    "la": "Facies diaphragmatica pulmonis",
+    "alt": ["Facies diaphragmatica"],
+    "en": "Diaphragmatic surface of lung",
+    "desc": {
+      "en": "Concave inferior surface of the lung that forms its base and lies on the pleura diaphragmatica over the dome of the diaphragm. Its sharp outer edge, the margo inferior, slips into the recessus costodiaphragmaticus during deep inspiration.",
+      "id": "Permukaan bawah paru yang cekung, membentuk basis dan terletak di atas pleura diaphragmatica pada kubah diaphragma. Tepi luarnya yang tajam, margo inferior, masuk ke recessus costodiaphragmaticus saat inspirasi dalam."
+    },
+    "facts": {"bone": "inferior-lobe-of-right-lung"},
+    "quiz": {
+      "faces": ["Diaphragma", "pleura diaphragmatica"]
+    }
+  },
+  {
+    "key": "interlobar-surface-of-lung",
+    "kind": "landmark",
+    "la": "Facies interlobaris pulmonis",
+    "alt": ["Facies interlobaris"],
+    "en": "Interlobar surface of lung",
+    "desc": {
+      "en": "Surface of a lobe that faces a neighbouring lobe inside a fissure. It is covered by visceral pleura and slides on the opposite surface during breathing.",
+      "id": "Permukaan lobus yang menghadap lobus tetangganya di dalam fissura. Permukaan ini ditutupi pleura visceralis dan meluncur terhadap permukaan di seberangnya saat bernapas."
+    },
+    "facts": {
+      "bone": "middle-lobe-of-right-lung",
+      "clinical": {
+        "en": "Fluid trapped in a fissure (interlobar effusion) can look like a round mass on a chest radiograph and disappears with treatment (pseudotumour).",
+        "id": "Cairan yang terperangkap di fissura (efusi interlobar) dapat tampak seperti massa bulat pada foto toraks dan menghilang setelah pengobatan (pseudotumor)."
+      }
+    },
+    "quiz": {
+      "location": ["Di dalam fissura", "fissura obliqua dan fissura horizontalis"]
+    }
+  },
+  {
+    "key": "anterior-border-of-lung",
+    "kind": "landmark",
+    "la": "Margo anterior pulmonis",
+    "alt": ["Margo anterior"],
+    "en": "Anterior border of lung",
+    "desc": {
+      "en": "Thin, sharp border between the costal and mediastinal surfaces in front. It overlaps the pericardium and slides into the recessus costomediastinalis in deep inspiration. On the left lung it is cut by the incisura cardiaca, with the lingula below.",
+      "id": "Tepi tipis dan tajam di antara facies costalis dan facies mediastinalis di depan. Tepi ini menutupi pericardium dan masuk ke recessus costomediastinalis saat inspirasi dalam. Pada paru kiri tepi ini terpotong oleh incisura cardiaca, dengan lingula di bawahnya."
+    },
+    "facts": {
+      "bone": "superior-lobe-of-right-lung",
+      "projection": {
+        "en": "Both borders run from behind the sternoclavicular joint down and medially to near the midline at the level of the sternal angle (2nd costal cartilage). The right border continues straight down behind the sternum to the 6th costal cartilage and turns into the inferior border. The left border descends to the 4th costal cartilage, swings laterally around the incisura cardiaca and then reaches the 6th costal cartilage farther from the sternum.",
+        "id": "Kedua tepi berjalan dari belakang articulatio sternoclavicularis ke bawah dan medial sampai dekat garis tengah setinggi angulus sterni (cartilago costalis II). Tepi kanan terus turun lurus di belakang sternum sampai cartilago costalis VI lalu berlanjut menjadi margo inferior. Tepi kiri turun sampai cartilago costalis IV, membelok ke lateral mengelilingi incisura cardiaca, lalu mencapai cartilago costalis VI lebih jauh dari sternum."
+      }
+    },
+    "quiz": {
+      "left_deviation": ["Cartilago costalis IV", "costa IV"],
+      "midline_meeting": ["Angulus sterni", "cartilago costalis II"]
+    }
+  },
+  {
+    "key": "inferior-border-of-lung",
+    "kind": "landmark",
+    "la": "Margo inferior pulmonis",
+    "alt": ["Margo inferior"],
+    "en": "Inferior border of lung",
+    "desc": {
+      "en": "Border that surrounds the base, sharp where it separates the diaphragmatic from the costal surface and blunt along the mediastinal surface. In quiet breathing it lies about two ribs above the lower limit of the pleura, so the recessus costodiaphragmaticus stays empty.",
+      "id": "Tepi yang mengelilingi basis, tajam di batas facies diaphragmatica dengan facies costalis dan tumpul di sepanjang facies mediastinalis. Pada pernapasan tenang tepi ini terletak kira-kira dua costa di atas batas bawah pleura, sehingga recessus costodiaphragmaticus tetap kosong."
+    },
+    "facts": {
+      "bone": "middle-lobe-of-right-lung",
+      "projection": {
+        "en": "In quiet respiration: 6th rib in the midclavicular line, 8th rib in the midaxillary line and 10th rib in the paravertebral line, ending near the spinous process of T10. It moves down in deep inspiration and up in forced expiration.",
+        "id": "Pada pernapasan tenang: costa VI di linea midclavicularis, costa VIII di linea axillaris media dan costa X di linea paravertebralis, berakhir dekat processus spinosus T10. Tepi ini turun saat inspirasi dalam dan naik saat ekspirasi kuat."
+      },
+      "clinical": {
+        "en": "On percussion the lung resonance ends at these lines. Dullness above them, or loss of their movement with breathing, suggests pleural fluid, consolidation or a raised diaphragm.",
+        "id": "Pada perkusi, bunyi sonor paru berakhir pada garis-garis ini. Bunyi redup di atasnya, atau hilangnya pergerakan batas ini saat bernapas, menunjukkan cairan pleura, konsolidasi atau diaphragma yang terangkat."
+      }
+    },
+    "quiz": {
+      "midclavicular": ["Costa VI", "costa 6", "VI", "6"],
+      "midaxillary": ["Costa VIII", "costa 8", "VIII", "8"],
+      "paravertebral": ["Costa X", "costa 10", "X", "10", "T10"]
+    }
+  },
+  {
+    "key": "posterior-border-of-lung",
+    "kind": "landmark",
+    "model": false,
+    "la": "Margo posterior pulmonis",
+    "alt": ["Margo posterior"],
+    "en": "Posterior border of lung",
+    "desc": {
+      "en": "Thick, rounded posterior border that fills the paravertebral gutter (sulcus pulmonalis) beside the thoracic vertebral bodies. With the margo anterior and margo inferior it makes the three borders asked for in the module.",
+      "id": "Tepi posterior yang tebal dan membulat, mengisi cekungan paravertebral (sulcus pulmonalis) di samping corpus vertebrae thoracicae. Bersama margo anterior dan margo inferior, tepi ini membentuk tiga margo yang ditanyakan di modul."
+    },
+    "facts": {
+      "bone": "right-lung",
+      "note": {
+        "en": "TA98 names only the margo anterior and margo inferior of the lung. The rounded posterior border described by Snell and Moore corresponds to the pars vertebralis.",
+        "id": "TA98 hanya mencantumkan margo anterior dan margo inferior paru. Tepi posterior yang membulat seperti dijelaskan Snell dan Moore sesuai dengan pars vertebralis."
+      }
+    },
+    "quiz": {
+      "lies_in": ["Sulcus pulmonalis", "cekungan paravertebral"]
+    }
+  },
+  {
+    "key": "hilum-of-lung",
+    "kind": "landmark",
+    "la": "Hilum pulmonis",
+    "alt": ["Hilus pulmonis", "Hilus pulmonalis", "Hilum"],
+    "en": "Hilum of lung",
+    "desc": {
+      "en": "Wedge-shaped area in the middle of the mediastinal surface where the structures of the radix pulmonis enter and leave the lung. The pleura reflects around it, and the sleeve hangs down below it as the lig. pulmonale.",
+      "id": "Daerah berbentuk baji di tengah facies mediastinalis, tempat struktur radix pulmonis masuk dan keluar paru. Pleura berbalik di sekelilingnya, dan selubung pleura ini menggantung ke bawah sebagai lig. pulmonale."
+    },
+    "facts": {
+      "bone": "superior-lobe-of-right-lung",
+      "features": {
+        "en": "Front to back on both sides: vv. pulmonales, a. pulmonalis, bronchus. Top to bottom on the right: bronchus lobaris superior (eparterial), a. pulmonalis, bronchus intermedius, v. pulmonalis inferior. Top to bottom on the left: a. pulmonalis, bronchus principalis, v. pulmonalis inferior. The vv. pulmonales are the most anterior and most inferior structures. Also passing: aa. and vv. bronchiales, plexus pulmonalis, lymph vessels and the nodi bronchopulmonales (hilar nodes).",
+        "id": "Dari depan ke belakang pada kedua sisi: vv. pulmonales, a. pulmonalis, bronchus. Dari atas ke bawah di kanan: bronchus lobaris superior (eparterial), a. pulmonalis, bronchus intermedius, v. pulmonalis inferior. Dari atas ke bawah di kiri: a. pulmonalis, bronchus principalis, v. pulmonalis inferior. Vv. pulmonales adalah struktur paling depan dan paling bawah. Struktur lain yang lewat: aa. dan vv. bronchiales, plexus pulmonalis, pembuluh limfe dan nodi bronchopulmonales (kelenjar hilus)."
+      },
+      "clinical": {
+        "en": "Enlarged hilar nodes (tuberculosis, sarcoidosis, lung cancer, lymphoma) widen the hilar shadow on a chest radiograph.",
+        "id": "Pembesaran kelenjar hilus (tuberkulosis, sarkoidosis, kanker paru, limfoma) melebarkan bayangan hilus pada foto toraks."
+      }
+    },
+    "quiz": {
+      "right_superiormost": ["Bronchus lobaris superior dexter", "bronchus eparterialis"],
+      "left_superiormost": ["Arteria pulmonalis sinistra", "A. pulmonalis sinistra", "a. pulmonalis"],
+      "anteriormost": ["Venae pulmonales", "Vv. pulmonales", "v. pulmonalis superior"]
+    }
+  },
+  {
+    "key": "root-of-lung",
+    "kind": "landmark",
+    "la": "Radix pulmonis",
+    "alt": ["Radix pulmonalis"],
+    "en": "Root of lung",
+    "desc": {
+      "en": "Bundle of structures that joins the lung to the heart and trachea at the hilum: the main bronchus, a. pulmonalis, two vv. pulmonales, bronchial vessels, plexus pulmonalis, lymph vessels and nodes. It is wrapped in a sleeve of pleura where the mediastinal pleura turns into the visceral pleura.",
+      "id": "Kumpulan struktur yang menghubungkan paru dengan jantung dan trachea di hilum: bronchus principalis, a. pulmonalis, dua vv. pulmonales, pembuluh bronchial, plexus pulmonalis, pembuluh dan kelenjar limfe. Radix dibungkus selubung pleura, tempat pleura mediastinalis berbalik menjadi pleura visceralis."
+    },
+    "facts": {
+      "bone": "superior-lobe-of-right-lung",
+      "relations": {
+        "en": "Both sides: n. phrenicus in front, n. vagus behind, plexus pulmonalis in front and behind. Right root: v. cava superior and right atrium in front, arch of the v. azygos above. Left root: arch of the aorta above, aorta descendens behind; the n. laryngeus recurrens sinister hooks under the arch near it.",
+        "id": "Kedua sisi: n. phrenicus di depan, n. vagus di belakang, plexus pulmonalis di depan dan di belakang. Radix kanan: v. cava superior dan atrium dextrum di depan, arcus v. azygos di atas. Radix kiri: arcus aortae di atas, aorta descendens di belakang; n. laryngeus recurrens sinister melingkar di bawah arcus dekat radix."
+      }
+    },
+    "quiz": {
+      "anterior_nerve": ["Nervus phrenicus", "N. phrenicus"],
+      "posterior_nerve": ["Nervus vagus", "N. vagus"]
+    }
+  },
+  {
+    "key": "cardiac-impression-of-lung",
+    "kind": "landmark",
+    "la": "Impressio cardiaca pulmonis",
+    "alt": ["Impressio cardiaca"],
+    "en": "Cardiac impression of lung",
+    "desc": {
+      "en": "Hollow on the mediastinal surface, in front of and below the hilum, made by the heart in its pericardium. It is shallow on the right (right atrium) and deep on the left (left ventricle), where it runs forward into the incisura cardiaca.",
+      "id": "Cekungan pada facies mediastinalis di depan dan di bawah hilum yang dibentuk oleh jantung di dalam pericardium. Cekungan ini dangkal di kanan (atrium dextrum) dan dalam di kiri (ventriculus sinister), dan di kiri berlanjut ke depan menjadi incisura cardiaca."
+    },
+    "facts": {"bone": "superior-lobe-of-right-lung"},
+    "quiz": {
+      "deeper_on": ["Pulmo sinister", "paru kiri"]
+    }
+  },
+  {
+    "key": "cardiac-notch-of-left-lung",
+    "kind": "landmark",
+    "la": "Incisura cardiaca pulmonis sinistri",
+    "alt": ["Incisura cardiaca", "Incisura cardiaca pulmonis"],
+    "en": "Cardiac notch of left lung",
+    "desc": {
+      "en": "Deep notch in the anterior border of the left superior lobe, from about the 4th to the 6th costal cartilage, made by the heart bulging to the left. Here part of the pericardium is covered only by pleura, which gives the area of superficial cardiac dullness.",
+      "id": "Lekukan dalam pada margo anterior lobus superior kiri, kira-kira dari cartilago costalis IV sampai VI, akibat jantung yang menonjol ke kiri. Di sini sebagian pericardium hanya ditutupi pleura, sehingga terdapat daerah redup jantung superfisial."
+    },
+    "facts": {
+      "bone": "superior-lobe-of-left-lung",
+      "clinical": {
+        "en": "Pericardiocentesis through the left 5th or 6th intercostal space next to the sternum passes through this area, where the lung does not cover the pericardium.",
+        "id": "Perikardiosentesis melalui spatium intercostale V atau VI kiri di samping sternum melewati daerah ini, tempat paru tidak menutupi pericardium."
+      }
+    },
+    "quiz": {
+      "level": ["Cartilago costalis IV-VI", "costa IV-VI", "IV-VI"]
+    }
+  },
+  {
+    "key": "lingula-of-left-lung",
+    "kind": "landmark",
+    "la": "Lingula pulmonis sinistri",
+    "alt": ["Lingula", "Lingula pulmonis", "Lingula pulmonalis"],
+    "en": "Lingula of left lung",
+    "desc": {
+      "en": "Tongue-shaped lower anterior part of the left superior lobe, below the incisura cardiaca, that curves over the front of the heart. It has the segmentum lingulare superius (S IV) and inferius (S V), aerated by the bronchus lingularis, and corresponds to the right middle lobe.",
+      "id": "Bagian anterior bawah lobus superior kiri yang berbentuk lidah, di bawah incisura cardiaca, dan melengkung di depan jantung. Lingula terdiri atas segmentum lingulare superius (S IV) dan inferius (S V) yang mendapat udara dari bronchus lingularis, dan sepadan dengan lobus medius paru kanan."
+    },
+    "facts": {
+      "bone": "superior-lobe-of-left-lung",
+      "clinical": {
+        "en": "Lingular pneumonia blurs the left heart border on a PA chest radiograph (silhouette sign).",
+        "id": "Pneumonia lingula mengaburkan batas kiri jantung pada foto toraks PA (silhouette sign)."
+      }
+    },
+    "quiz": {
+      "segments": ["Segmentum lingulare superius et inferius", "S IV dan S V"],
+      "homologue": ["Lobus medius pulmonis dextri", "lobus medius"]
+    }
+  },
+  {
+    "key": "oesophageal-groove-of-lung",
+    "kind": "landmark",
+    "model": false,
+    "la": "Sulcus oesophageus",
+    "alt": ["Sulcus esophageus", "Sulcus oesophageus pulmonis", "Impressio oesophagea pulmonis"],
+    "en": "Oesophageal groove of lung",
+    "desc": {
+      "en": "Vertical groove on the mediastinal surface of the right lung, behind the hilum and the lig. pulmonale, made by the oesophagus. On the left lung the oesophagus marks only a small area low down, in front of the sulcus aorticus and just above the diaphragm.",
+      "id": "Alur vertikal pada facies mediastinalis paru kanan, di belakang hilum dan lig. pulmonale, yang dibentuk oleh oesophagus. Pada paru kiri, oesophagus hanya meninggalkan daerah kecil di bagian bawah, di depan sulcus aorticus tepat di atas diaphragma."
+    },
+    "facts": {
+      "bone": "right-lung",
+      "note": {
+        "en": "TA98 does not list the grooves of the mediastinal surface; this name follows the module and atlas usage.",
+        "id": "TA98 tidak mencantumkan sulcus pada facies mediastinalis; nama ini mengikuti modul dan atlas."
+      }
+    },
+    "quiz": {
+      "lung": ["Pulmo dexter", "paru kanan"]
+    }
+  },
+  {
+    "key": "groove-for-superior-vena-cava",
+    "kind": "landmark",
+    "model": false,
+    "la": "Sulcus venae cavae superioris",
+    "alt": ["Sulcus v. cavae superioris", "Sulcus v. cava superior", "Sulcus venae cavae"],
+    "en": "Groove for superior vena cava",
+    "desc": {
+      "en": "Vertical groove on the mediastinal surface of the right lung, in front of and above the hilum, made by the v. cava superior. Above it continues into the groove for the v. brachiocephalica dextra; below it meets the cardiac impression of the right atrium.",
+      "id": "Alur vertikal pada facies mediastinalis paru kanan, di depan dan di atas hilum, yang dibentuk oleh v. cava superior. Ke atas alur ini berlanjut menjadi alur v. brachiocephalica dextra; ke bawah bertemu impressio cardiaca dari atrium dextrum."
+    },
+    "facts": {
+      "bone": "right-lung",
+      "note": {
+        "en": "Not a TA98 term; named as in the module.",
+        "id": "Bukan istilah TA98; dinamai sesuai modul."
+      }
+    },
+    "quiz": {
+      "lung": ["Pulmo dexter", "paru kanan"]
+    }
+  },
+  {
+    "key": "groove-for-azygos-vein",
+    "kind": "landmark",
+    "model": false,
+    "la": "Sulcus venae azygos",
+    "alt": ["Sulcus v. azygos", "Sulcus azygos", "Sulcus venae azygou"],
+    "en": "Groove for azygos vein",
+    "desc": {
+      "en": "Groove on the mediastinal surface of the right lung that arches over the hilum from back to front, made by the arch of the v. azygos on its way to the v. cava superior. Behind the hilum it continues down as a vertical groove for the ascending part of the vein.",
+      "id": "Alur pada facies mediastinalis paru kanan yang melengkung di atas hilum dari belakang ke depan, dibentuk oleh arcus v. azygos dalam perjalanannya ke v. cava superior. Di belakang hilum alur ini berlanjut ke bawah sebagai alur vertikal untuk bagian v. azygos yang naik."
+    },
+    "facts": {
+      "bone": "right-lung",
+      "clinical": {
+        "en": "In about 1% of people the azygos vein runs through the apex in a deep fold of pleura and cuts off an azygos lobe, seen as a curved line on a chest radiograph.",
+        "id": "Pada sekitar 1% orang, v. azygos berjalan menembus apex di dalam lipatan pleura yang dalam dan memisahkan lobus azygos, yang tampak sebagai garis lengkung pada foto toraks."
+      }
+    },
+    "quiz": {
+      "lung": ["Pulmo dexter", "paru kanan"]
+    }
+  },
+  {
+    "key": "aortic-groove-of-left-lung",
+    "kind": "landmark",
+    "model": false,
+    "la": "Sulcus aorticus",
+    "alt": ["Sulcus aortae", "Sulcus arcus aortae", "Impressio aortica"],
+    "en": "Aortic groove of left lung",
+    "desc": {
+      "en": "Broad groove on the mediastinal surface of the left lung that arches over the hilum (arcus aortae) and then runs down behind the hilum and lig. pulmonale to the base (aorta thoracica).",
+      "id": "Alur lebar pada facies mediastinalis paru kiri yang melengkung di atas hilum (arcus aortae), lalu turun di belakang hilum dan lig. pulmonale sampai basis (aorta thoracica)."
+    },
+    "facts": {
+      "bone": "left-lung",
+      "note": {
+        "en": "Not a TA98 term; named as in the module.",
+        "id": "Bukan istilah TA98; dinamai sesuai modul."
+      }
+    },
+    "quiz": {
+      "lung": ["Pulmo sinister", "paru kiri"]
+    }
+  },
+  {
+    "key": "groove-for-left-subclavian-artery",
+    "kind": "landmark",
+    "model": false,
+    "la": "Sulcus arteriae subclaviae",
+    "alt": ["Sulcus a. subclaviae", "Sulcus a. subclavia sinistra", "Sulcus arteriae subclaviae sinistrae"],
+    "en": "Groove for left subclavian artery",
+    "desc": {
+      "en": "Groove on the left lung that runs up from the aortic groove toward the apex, made by the a. subclavia sinistra; it lies behind the groove for the left common carotid artery. Near the apex of the right lung a shorter groove is made by the right subclavian artery.",
+      "id": "Alur pada paru kiri yang naik dari sulcus aorticus ke arah apex, dibentuk oleh a. subclavia sinistra; letaknya di belakang alur a. carotis communis sinistra. Dekat apex paru kanan terdapat alur yang lebih pendek dari a. subclavia dextra."
+    },
+    "facts": {"bone": "left-lung"},
+    "quiz": {
+      "lung": ["Pulmo sinister", "paru kiri"]
+    }
+  },
+  {
+    "key": "groove-for-left-common-carotid-artery",
+    "kind": "landmark",
+    "model": false,
+    "la": "Sulcus arteriae carotidis communis",
+    "alt": ["Sulcus a. carotidis communis", "Sulcus a. carotis communis sinistra", "Sulcus arteriae carotidis communis sinistrae"],
+    "en": "Groove for left common carotid artery",
+    "desc": {
+      "en": "Shallow groove on the mediastinal surface of the left lung above the aortic groove, in front of the groove for the left subclavian artery, made by the a. carotis communis sinistra as it rises from the arch.",
+      "id": "Alur dangkal pada facies mediastinalis paru kiri di atas sulcus aorticus, di depan alur a. subclavia sinistra, yang dibentuk oleh a. carotis communis sinistra saat naik dari arcus aortae."
+    },
+    "facts": {"bone": "left-lung"},
+    "quiz": {
+      "lung": ["Pulmo sinister", "paru kiri"]
+    }
+  }
+]
