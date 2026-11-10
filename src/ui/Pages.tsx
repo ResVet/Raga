@@ -129,8 +129,8 @@ export function AboutPage() {
         {id ? (
           <>
             <p className="lede">
-              Raga adalah atlas anatomi 3D dan kuis isian singkat yang gratis dan terbuka. Raga dibuat oleh Khalid, mahasiswa FK Universitas
-              Sriwijaya angkatan 2026, untuk belajar Blok 4 (tulang, sendi, otot, pembuluh darah, saraf, jantung, dan paru) dan untuk siapa
+              Raga adalah atlas anatomi 3D dan kuis isian singkat yang gratis dan terbuka. Raga dibuat oleh Resvet
+              untuk belajar Blok 4 (tulang, sendi, otot, pembuluh darah, saraf, jantung, dan paru) dan untuk siapa
               saja yang sedang mempelajari anatomi. Pendidikan semestinya dapat diakses semua orang.
             </p>
             <h2>Cara memakai</h2>
@@ -150,8 +150,8 @@ export function AboutPage() {
         ) : (
           <>
             <p className="lede">
-              Raga is a free, open-source 3D anatomy atlas with Latin short-answer quizzes. It was made by Khalid, a 2026 medical student at
-              Universitas Sriwijaya, for Blok 4 (bones, joints, muscles, vessels, nerves, heart and lungs) and for anyone else learning
+              Raga is a free, open-source 3D anatomy atlas with Latin short-answer quizzes. It was made by Resvet
+              for Blok 4 (bones, joints, muscles, vessels, nerves, heart and lungs) and for anyone else learning
               anatomy. Education should be free.
             </p>
             <h2>How to use it</h2>
