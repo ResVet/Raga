@@ -1,0 +1,2004 @@
+[
+ {
+  "key": "articular-capsule-of-sternoclavicular-joint",
+  "kind": "membrane",
+  "la": "Capsula articularis articulationis sternoclavicularis",
+  "alt": [
+   "Capsula articularis sternoclavicularis",
+   "Capsula articularis"
+  ],
+  "en": "Articular capsule of sternoclavicular joint",
+  "desc": {
+   "en": "Fibrous capsule around the sternoclavicular joint. It is thickened in front and behind as the anterior and posterior sternoclavicular ligaments, and all round its inner surface it is attached to the edge of the articular disc that splits the cavity in two.",
+   "id": "Capsula fibrosa yang membungkus articulatio sternoclavicularis. Bagian depan dan belakangnya menebal sebagai lig. sternoclaviculare anterius dan posterius, dan di sekeliling permukaan dalamnya melekat pada tepi discus articularis yang membagi rongga sendi menjadi dua."
+  },
+  "facts": {
+   "joint": "sternoclavicular-joint",
+   "attach": {
+    "en": "Margins of the articular surfaces of the sternal end of the clavicle, the clavicular notch of the manubrium and the first costal cartilage; it also encloses the epiphysis of the sternal end of the clavicle.",
+    "id": "Tepi permukaan sendi extremitas sternalis claviculae, incisura clavicularis manubrii sterni dan cartilago costalis I; capsula ini juga membungkus epifisis extremitas sternalis claviculae."
+   },
+   "function": {
+    "en": "Holds the clavicle against the sternum. With its ligaments and the disc it makes the joint so strong that a fall on the shoulder usually breaks the clavicle before the joint dislocates.",
+    "id": "Mempertahankan clavicula pada sternum. Bersama ligamenta dan discus articularis, capsula ini membuat sendi begitu kuat sehingga jatuh bertumpu pada bahu biasanya mematahkan clavicula lebih dulu sebelum sendi mengalami dislokasi."
+   }
+  }
+ },
+ {
+  "key": "articular-disc-of-sternoclavicular-joint",
+  "kind": "cartilage",
+  "la": "Discus articularis articulationis sternoclavicularis",
+  "alt": [
+   "Discus articularis",
+   "Discus articulationis sternoclavicularis",
+   "Discus articularis sternoclavicularis"
+  ],
+  "en": "Articular disc of sternoclavicular joint",
+  "desc": {
+   "en": "Flat, nearly round plate of fibrocartilage between the sternal end of the clavicle and the manubrium. It divides the joint into two separate synovial cavities and is thickest at its upper posterior edge.",
+   "id": "Lempeng fibrocartilago pipih yang hampir bulat di antara extremitas sternalis claviculae dan manubrium sterni. Discus ini membagi sendi menjadi dua rongga sinovial yang terpisah dan paling tebal di tepi atas belakangnya."
+  },
+  "facts": {
+   "joint": "sternoclavicular-joint",
+   "attach": {
+    "en": "Above, to the upper posterior margin of the sternal articular surface of the clavicle; below, to the first costal cartilage near its junction with the manubrium; around its edge, to the capsule and to the anterior, posterior and interclavicular ligaments.",
+    "id": "Di atas, pada tepi atas posterior facies articularis sternalis claviculae; di bawah, pada cartilago costalis I dekat pertemuannya dengan manubrium; di sekeliling tepinya, pada capsula serta lig. sternoclaviculare anterius, posterius dan interclaviculare."
+   },
+   "function": {
+    "en": "Absorbs forces passed along the clavicle from the upper limb and stops the clavicle from being driven medially over the manubrium. These firm attachments are the main reason the joint rarely dislocates.",
+    "id": "Meredam gaya yang diteruskan dari ekstremitas superior melalui clavicula dan mencegah clavicula terdorong ke medial melewati manubrium. Perlekatan yang kuat ini merupakan alasan utama sendi tersebut jarang mengalami dislokasi."
+   }
+  }
+ },
+ {
+  "key": "anterior-sternoclavicular-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum sternoclaviculare anterius",
+  "alt": [
+   "Lig. sternoclaviculare anterius",
+   "Ligamentum sternoclaviculare",
+   "Lig. sternoclaviculare"
+  ],
+  "en": "Anterior sternoclavicular ligament",
+  "desc": {
+   "en": "Broad band over the front of the sternoclavicular joint, a thickening of the anterior capsule. The sternal head of sternocleidomastoid lies over it.",
+   "id": "Pita lebar yang menutupi bagian depan articulatio sternoclavicularis, merupakan penebalan capsula bagian anterior. Caput sternale m. sternocleidomastoideus terletak di atasnya."
+  },
+  "facts": {
+   "joint": "sternoclavicular-joint",
+   "attach": {
+    "en": "Upper front part of the sternal end of the clavicle, running downward and medially to the front of the upper manubrium; its deep surface is fused with the articular disc.",
+    "id": "Bagian atas depan extremitas sternalis claviculae, berjalan ke bawah medial ke permukaan depan bagian atas manubrium sterni; permukaan dalamnya menyatu dengan discus articularis."
+   },
+   "function": {
+    "en": "Reinforces the joint in front and resists forward displacement of the medial end of the clavicle.",
+    "id": "Memperkuat sendi dari depan dan menahan pergeseran ujung medial clavicula ke depan."
+   },
+   "note": {
+    "en": "The module lists only 'lig. sternoclaviculare'. TA98 names an anterior and a posterior sternoclavicular ligament.",
+    "id": "Modul hanya menyebut 'lig. sternoclaviculare'. TA98 membedakan lig. sternoclaviculare anterius dan posterius."
+   }
+  }
+ },
+ {
+  "key": "posterior-sternoclavicular-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum sternoclaviculare posterius",
+  "alt": [
+   "Lig. sternoclaviculare posterius",
+   "Ligamentum sternoclaviculare",
+   "Lig. sternoclaviculare"
+  ],
+  "en": "Posterior sternoclavicular ligament",
+  "desc": {
+   "en": "Band over the back of the sternoclavicular joint, a thickening of the posterior capsule. Sternohyoid and sternothyroid lie directly behind it, and the brachiocephalic vessels lie further back.",
+   "id": "Pita yang menutupi bagian belakang articulatio sternoclavicularis, merupakan penebalan capsula bagian posterior. M. sternohyoideus dan m. sternothyroideus terletak tepat di belakangnya, dan pembuluh brachiocephalica terletak lebih ke belakang lagi."
+  },
+  "facts": {
+   "joint": "sternoclavicular-joint",
+   "attach": {
+    "en": "Upper back part of the sternal end of the clavicle, running downward and medially to the back of the upper manubrium.",
+    "id": "Bagian atas belakang extremitas sternalis claviculae, berjalan ke bawah medial ke permukaan belakang bagian atas manubrium sterni."
+   },
+   "function": {
+    "en": "Reinforces the joint behind. In biomechanical studies the posterior part of the capsule is the main restraint against both forward and backward displacement of the medial clavicle.",
+    "id": "Memperkuat sendi dari belakang. Pada penelitian biomekanik, bagian posterior capsula merupakan penahan utama pergeseran ujung medial clavicula ke depan maupun ke belakang."
+   },
+   "clinical": {
+    "en": "When the medial end of the clavicle dislocates backward it can press on the trachea, oesophagus and brachiocephalic vessels behind the manubrium.",
+    "id": "Bila ujung medial clavicula mengalami dislokasi ke belakang, tulang ini dapat menekan trachea, oesophagus dan pembuluh brachiocephalica di belakang manubrium."
+   },
+   "note": {
+    "en": "The module lists only 'lig. sternoclaviculare'. TA98 names an anterior and a posterior sternoclavicular ligament.",
+    "id": "Modul hanya menyebut 'lig. sternoclaviculare'. TA98 membedakan lig. sternoclaviculare anterius dan posterius."
+   }
+  }
+ },
+ {
+  "key": "interclavicular-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum interclaviculare",
+  "alt": [
+   "Lig. interclaviculare"
+  ],
+  "en": "Interclavicular ligament",
+  "desc": {
+   "en": "Curved band across the top of the jugular notch that joins the sternal ends of the two clavicles.",
+   "id": "Pita melengkung yang melintang di atas incisura jugularis sterni dan menghubungkan extremitas sternalis kedua clavicula."
+  },
+  "facts": {
+   "joint": "sternoclavicular-joint",
+   "attach": {
+    "en": "Upper part of the sternal end of one clavicle to the same point on the other; fibres in between attach to the upper margin of the manubrium.",
+    "id": "Bagian atas extremitas sternalis clavicula yang satu ke titik yang sama pada clavicula sisi lain; serabut di antaranya melekat pada tepi atas manubrium sterni."
+   },
+   "function": {
+    "en": "Strengthens the capsule from above. It tightens when the shoulder is pulled down, for example when carrying a heavy bag, because the medial end of the clavicle then rises.",
+    "id": "Memperkuat capsula dari atas. Ligamen ini menegang saat bahu tertarik ke bawah, misalnya ketika menjinjing beban berat, karena ujung medial clavicula saat itu terangkat."
+   }
+  }
+ },
+ {
+  "key": "costoclavicular-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum costoclaviculare",
+  "alt": [
+   "Lig. costoclaviculare"
+  ],
+  "en": "Costoclavicular ligament",
+  "desc": {
+   "en": "Short, strong band that anchors the underside of the medial end of the clavicle to the first rib, just lateral to the sternoclavicular joint. It leaves a rough impression on the clavicle.",
+   "id": "Pita pendek dan kuat yang menambatkan permukaan bawah ujung medial clavicula ke costa I, tepat di lateral articulatio sternoclavicularis. Perlekatannya meninggalkan bekas kasar (impressio) pada clavicula."
+  },
+  "facts": {
+   "joint": "sternoclavicular-joint",
+   "attach": {
+    "en": "Upper surface of the first rib and its costal cartilage to the impression for the costoclavicular ligament on the inferior surface of the sternal end of the clavicle. Its anterior fibres run upward and laterally, its posterior fibres upward and medially.",
+    "id": "Permukaan atas costa I dan cartilago costalis I ke impressio ligamenti costoclavicularis pada permukaan inferior extremitas sternalis claviculae. Serabut anteriornya berjalan ke atas lateral, serabut posteriornya ke atas medial."
+   },
+   "function": {
+    "en": "Limits elevation of the clavicle and resists its displacement on the sternum. The movements of the clavicle pivot close to this ligament.",
+    "id": "Membatasi elevasi clavicula dan menahan pergeserannya terhadap sternum. Gerakan clavicula berporos di dekat ligamen ini."
+   }
+  }
+ },
+ {
+  "key": "articular-capsule-of-acromioclavicular-joint",
+  "kind": "membrane",
+  "la": "Capsula articularis articulationis acromioclavicularis",
+  "alt": [
+   "Capsula articularis acromioclavicularis",
+   "Capsula articularis"
+  ],
+  "en": "Articular capsule of acromioclavicular joint",
+  "desc": {
+   "en": "Thin, loose fibrous sleeve around the small acromioclavicular joint, strengthened above by the acromioclavicular ligament and by fibres of trapezius.",
+   "id": "Selubung fibrosa tipis dan longgar yang membungkus articulatio acromioclavicularis yang kecil, diperkuat di bagian atas oleh lig. acromioclaviculare dan serabut m. trapezius."
+  },
+  "facts": {
+   "joint": "acromioclavicular-joint",
+   "attach": {
+    "en": "Margins of the acromial facet of the clavicle and the clavicular facet of the acromion.",
+    "id": "Tepi facies articularis acromialis claviculae dan facies articularis clavicularis acromii."
+   },
+   "function": {
+    "en": "Encloses the joint. On its own it is weak, so the joint relies on the coracoclavicular ligament for most of its stability.",
+    "id": "Membungkus sendi. Capsula ini sendiri lemah, sehingga kestabilan sendi sebagian besar bergantung pada lig. coracoclaviculare."
+   }
+  }
+ },
+ {
+  "key": "articular-disc-of-acromioclavicular-joint",
+  "kind": "cartilage",
+  "la": "Discus articularis articulationis acromioclavicularis",
+  "alt": [
+   "Discus articularis",
+   "Discus articulationis acromioclavicularis",
+   "Discus articularis acromioclavicularis"
+  ],
+  "en": "Articular disc of acromioclavicular joint",
+  "desc": {
+   "en": "Small wedge of fibrocartilage that hangs into the acromioclavicular joint from the upper part of the capsule. It is usually incomplete, varies in size and may be absent.",
+   "id": "Baji kecil fibrocartilago yang menggantung ke dalam articulatio acromioclavicularis dari bagian atas capsula. Discus ini biasanya tidak lengkap, ukurannya bervariasi dan dapat tidak ditemukan."
+  },
+  "facts": {
+   "joint": "acromioclavicular-joint",
+   "attach": {
+    "en": "Upper part of the capsule, between the acromial end of the clavicle and the acromion.",
+    "id": "Bagian atas capsula, di antara extremitas acromialis claviculae dan acromion."
+   },
+   "function": {
+    "en": "Improves the fit between the two flat articular surfaces and partly divides the cavity. It degenerates with age and in older adults often has little function left.",
+    "id": "Menyesuaikan kedua permukaan sendi yang datar dan membagi rongga sendi sebagian. Discus ini mengalami degenerasi seiring usia dan pada orang tua sering hampir tidak berfungsi lagi."
+   }
+  }
+ },
+ {
+  "key": "acromioclavicular-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum acromioclaviculare",
+  "alt": [
+   "Lig. acromioclaviculare",
+   "Ligamentum acromioclaviculare superius",
+   "Ligamentum acromioclaviculare inferius"
+  ],
+  "en": "Acromioclavicular ligament",
+  "desc": {
+   "en": "Fibrous band across the top of the acromioclavicular joint, from the acromion to the lateral end of the clavicle. It is a thickening of the capsule and blends with the aponeuroses of trapezius and deltoid.",
+   "id": "Pita fibrosa yang melintang di atas articulatio acromioclavicularis, dari acromion ke ujung lateral clavicula. Ligamen ini merupakan penebalan capsula dan menyatu dengan aponeurosis m. trapezius dan m. deltoideus."
+  },
+  "facts": {
+   "joint": "acromioclavicular-joint",
+   "attach": {
+    "en": "Upper surface of the acromial end of the clavicle to the adjoining upper surface of the acromion; weaker fibres cover the underside of the joint.",
+    "id": "Permukaan atas extremitas acromialis claviculae ke permukaan atas acromion di dekatnya; serabut yang lebih lemah menutupi sisi bawah sendi."
+   },
+   "function": {
+    "en": "Strengthens the joint from above and limits forward and backward sliding of the clavicle on the acromion. It is the first structure to tear in an acromioclavicular injury.",
+    "id": "Memperkuat sendi dari atas dan membatasi pergeseran clavicula ke depan dan ke belakang terhadap acromion. Ligamen ini yang paling dulu robek pada cedera articulatio acromioclavicularis."
+   }
+  }
+ },
+ {
+  "key": "conoid-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum conoideum",
+  "alt": [
+   "Lig. conoideum",
+   "Pars conoidea ligamenti coracoclavicularis",
+   "Pars conoidea"
+  ],
+  "en": "Conoid ligament",
+  "desc": {
+   "en": "Medial and posterior part of the coracoclavicular ligament, shaped like an inverted cone. It runs almost vertically from the root of the coracoid process up to the conoid tubercle of the clavicle.",
+   "id": "Bagian medial dan posterior lig. coracoclaviculare yang berbentuk kerucut terbalik. Ligamen ini berjalan hampir vertikal dari pangkal processus coracoideus ke atas menuju tuberculum conoideum claviculae."
+  },
+  "facts": {
+   "joint": "acromioclavicular-joint",
+   "attach": {
+    "en": "Apex to the posteromedial part of the root of the coracoid process, close to the suprascapular notch; base to the conoid tubercle on the inferior surface of the clavicle.",
+    "id": "Puncaknya melekat pada bagian posteromedial pangkal processus coracoideus, dekat incisura scapulae; dasarnya melekat pada tuberculum conoideum di permukaan inferior clavicula."
+   },
+   "function": {
+    "en": "Mainly resists upward displacement of the clavicle on the scapula, which is the same as stopping the scapula and arm from dropping away from the clavicle.",
+    "id": "Terutama menahan pergeseran clavicula ke atas terhadap scapula, yang sama artinya dengan menahan scapula dan lengan agar tidak turun menjauhi clavicula."
+   }
+  }
+ },
+ {
+  "key": "trapezoid-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum trapezoideum",
+  "alt": [
+   "Lig. trapezoideum",
+   "Pars trapezoidea ligamenti coracoclavicularis",
+   "Pars trapezoidea"
+  ],
+  "en": "Trapezoid ligament",
+  "desc": {
+   "en": "Lateral and anterior part of the coracoclavicular ligament, a flat four-sided sheet that runs almost horizontally from the upper surface of the coracoid process to the trapezoid line of the clavicle.",
+   "id": "Bagian lateral dan anterior lig. coracoclaviculare, berupa lembaran pipih segi empat yang berjalan hampir horizontal dari permukaan atas processus coracoideus ke linea trapezoidea claviculae."
+  },
+  "facts": {
+   "joint": "acromioclavicular-joint",
+   "attach": {
+    "en": "Upper surface of the coracoid process, lateral to the conoid ligament, to the trapezoid line on the inferior surface of the lateral part of the clavicle.",
+    "id": "Permukaan atas processus coracoideus, di lateral lig. conoideum, ke linea trapezoidea pada permukaan inferior bagian lateral clavicula."
+   },
+   "function": {
+    "en": "Resists compression across the acromioclavicular joint, so the acromion is not driven medially under the clavicle. With the conoid ligament it suspends the scapula from the clavicle.",
+    "id": "Menahan tekanan pada articulatio acromioclavicularis sehingga acromion tidak terdorong ke medial menyusup ke bawah clavicula. Bersama lig. conoideum, ligamen ini menggantungkan scapula pada clavicula."
+   }
+  }
+ },
+ {
+  "key": "coracoclavicular-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum coracoclaviculare",
+  "alt": [
+   "Lig. coracoclaviculare"
+  ],
+  "en": "Coracoclavicular ligament",
+  "desc": {
+   "en": "Strong pair of bands, the conoid and trapezoid ligaments, that binds the lateral part of the clavicle to the coracoid process. It lies medial to the acromioclavicular joint and gives that joint most of its stability.",
+   "id": "Sepasang pita kuat, yaitu lig. conoideum dan lig. trapezoideum, yang mengikat bagian lateral clavicula pada processus coracoideus. Ligamen ini terletak di medial articulatio acromioclavicularis dan memberi sebagian besar kestabilan sendi tersebut."
+  },
+  "facts": {
+   "joint": "acromioclavicular-joint",
+   "attach": {
+    "en": "Coracoid process to the tuberosity for the coracoclavicular ligament on the inferior surface of the clavicle. The conoid part (medial) reaches the conoid tubercle; the trapezoid part (lateral) reaches the trapezoid line.",
+    "id": "Processus coracoideus ke tuberositas ligamenti coracoclavicularis pada permukaan inferior clavicula. Pars conoidea (medial) mencapai tuberculum conoideum; pars trapezoidea (lateral) mencapai linea trapezoidea."
+   },
+   "function": {
+    "en": "Suspends the scapula and the free limb from the clavicle and keeps the acromion from being forced down and under the clavicle.",
+    "id": "Menggantungkan scapula dan ekstremitas superior bebas pada clavicula serta menahan acromion agar tidak terdorong ke bawah clavicula."
+   },
+   "clinical": {
+    "en": "After a fall on the point of the shoulder, a tear of the acromioclavicular ligament alone gives a subluxation. When the coracoclavicular ligament also tears, the shoulder drops with the weight of the arm and the lateral end of the clavicle forms a visible step (acromioclavicular dislocation).",
+    "id": "Setelah jatuh bertumpu pada puncak bahu, robekan lig. acromioclaviculare saja menimbulkan subluksasi. Bila lig. coracoclaviculare ikut robek, bahu turun karena berat lengan dan ujung lateral clavicula tampak menonjol seperti anak tangga (dislokasi acromioclavicularis)."
+   },
+   "note": {
+    "en": "The module describes one coracoclavicular ligament with a pars conoidea and a pars trapezoidea. TA98 lists the two parts as Ligamentum conoideum and Ligamentum trapezoideum, which are separate meshes in the 3D model.",
+    "id": "Modul menyebut satu lig. coracoclaviculare yang terdiri atas pars conoidea dan pars trapezoidea. TA98 mencantumkan kedua bagian itu sebagai Ligamentum conoideum dan Ligamentum trapezoideum, yang pada model 3D merupakan mesh tersendiri."
+   }
+  },
+  "model": false
+ },
+ {
+  "key": "coraco-acromial-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum coracoacromiale",
+  "alt": [
+   "Lig. coracoacromiale",
+   "Ligamentum coraco-acromiale"
+  ],
+  "en": "Coraco-acromial ligament",
+  "desc": {
+   "en": "Strong triangular ligament between the coracoid process and the acromion. With these two processes it forms the coraco-acromial arch over the head of the humerus.",
+   "id": "Ligamen segitiga yang kuat di antara processus coracoideus dan acromion. Bersama kedua processus tersebut, ligamen ini membentuk arcus coracoacromialis di atas caput humeri."
+  },
+  "facts": {
+   "joint": "fibrous-joints-of-pectoral-girdle",
+   "attach": {
+    "en": "Broad base along the lateral border of the coracoid process; apex to the tip of the acromion, in front of its clavicular facet.",
+    "id": "Dasarnya yang lebar melekat sepanjang tepi lateral processus coracoideus; puncaknya pada ujung acromion, di depan facies articularis clavicularis."
+   },
+   "function": {
+    "en": "Completes the roof over the shoulder joint and prevents upward displacement of the head of the humerus. The supraspinatus tendon and the subacromial bursa pass beneath it.",
+    "id": "Melengkapi atap di atas sendi bahu dan mencegah caput humeri bergeser ke atas. Tendo m. supraspinatus dan bursa subacromialis lewat di bawahnya."
+   },
+   "clinical": {
+    "en": "Narrowing of the space under the arch, for example by a bony spur at the acromial attachment, can pinch the supraspinatus tendon and the bursa when the arm is raised (impingement).",
+    "id": "Penyempitan ruang di bawah arcus, misalnya akibat taji tulang pada perlekatan di acromion, dapat menjepit tendo m. supraspinatus dan bursa saat lengan diangkat (impingement)."
+   }
+  }
+ },
+ {
+  "key": "superior-transverse-scapular-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum transversum scapulae superius",
+  "alt": [
+   "Lig. transversum scapulae superius",
+   "Ligamentum transversum superius scapulae"
+  ],
+  "en": "Superior transverse scapular ligament",
+  "desc": {
+   "en": "Thin, flat band that bridges the suprascapular notch on the superior border of the scapula and turns the notch into a foramen.",
+   "id": "Pita tipis dan pipih yang menjembatani incisura scapulae pada margo superior scapula sehingga incisura tersebut menjadi foramen."
+  },
+  "facts": {
+   "joint": "fibrous-joints-of-pectoral-girdle",
+   "attach": {
+    "en": "Base of the coracoid process to the medial end of the suprascapular notch.",
+    "id": "Pangkal processus coracoideus ke ujung medial incisura scapulae."
+   },
+   "function": {
+    "en": "Separates the suprascapular nerve, which passes through the foramen below the ligament, from the suprascapular artery and vein, which pass above it.",
+    "id": "Memisahkan n. suprascapularis, yang melewati foramen di bawah ligamen, dari a. dan v. suprascapularis yang lewat di atasnya."
+   },
+   "clinical": {
+    "en": "The ligament can ossify, and a tight foramen can compress the suprascapular nerve, giving weakness of supraspinatus and infraspinatus with deep pain at the back of the shoulder.",
+    "id": "Ligamen ini dapat mengalami osifikasi, dan foramen yang sempit dapat menekan n. suprascapularis sehingga timbul kelemahan m. supraspinatus dan m. infraspinatus disertai nyeri dalam di bahu bagian belakang."
+   }
+  }
+ },
+ {
+  "key": "inferior-transverse-scapular-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum transversum scapulae inferius",
+  "alt": [
+   "Lig. transversum scapulae inferius",
+   "Ligamentum transversum inferius scapulae"
+  ],
+  "en": "Inferior transverse scapular ligament",
+  "desc": {
+   "en": "Thin, inconstant band that bridges the spinoglenoid notch, between the lateral border of the spine of the scapula and the back of the glenoid neck. It is also called the spinoglenoid ligament.",
+   "id": "Pita tipis yang tidak selalu ada, menjembatani takik spinoglenoid (spinoglenoid notch) di antara tepi lateral spina scapulae dan bagian belakang collum scapulae. Ligamen ini disebut juga ligamen spinoglenoid."
+  },
+  "facts": {
+   "joint": "fibrous-joints-of-pectoral-girdle",
+   "attach": {
+    "en": "Lateral border of the spine of the scapula to the posterior margin of the glenoid cavity (neck of the scapula).",
+    "id": "Tepi lateral spina scapulae ke tepi posterior cavitas glenoidalis (collum scapulae)."
+   },
+   "function": {
+    "en": "Forms an arch under which the suprascapular nerve and vessels pass from the supraspinous to the infraspinous fossa. Its presence varies: one large cadaver study found it in about two thirds of shoulders, often only as a thin membrane.",
+    "id": "Membentuk lengkung yang dilewati n. suprascapularis dan vasa suprascapularia dari fossa supraspinata ke fossa infraspinata. Keberadaannya bervariasi: satu penelitian kadaver yang besar menemukannya pada sekitar dua pertiga bahu, sering hanya berupa membran tipis."
+   },
+   "clinical": {
+    "en": "Compression of the nerve beneath it, for example by a ganglion cyst, weakens only infraspinatus, because the branches to supraspinatus have already left the nerve.",
+    "id": "Penekanan saraf di bawahnya, misalnya oleh kista ganglion, hanya melemahkan m. infraspinatus karena cabang untuk m. supraspinatus sudah dipercabangkan sebelumnya."
+   }
+  }
+ },
+ {
+  "key": "articular-capsule-of-glenohumeral-joint",
+  "kind": "membrane",
+  "la": "Capsula articularis articulationis glenohumeralis",
+  "alt": [
+   "Capsula articularis articulationis humeri",
+   "Capsula articularis humeri",
+   "Capsula articularis glenohumeralis",
+   "Capsula articularis"
+  ],
+  "en": "Articular capsule of glenohumeral joint",
+  "desc": {
+   "en": "Loose fibrous capsule of the shoulder joint, roomy enough for its wide range of movement. In front it is thickened by the three glenohumeral ligaments; its inferior part has no muscle support and lies in a fold when the arm hangs at the side.",
+   "id": "Capsula fibrosa sendi bahu yang longgar dan cukup lapang untuk luas gerak sendi yang besar. Di depan, capsula menebal oleh tiga lig. glenohumerale; bagian inferiornya tidak ditopang otot dan berlipat saat lengan tergantung di samping tubuh."
+  },
+  "facts": {
+   "joint": "glenohumeral-joint",
+   "attach": {
+    "en": "Medially to the margin of the glenoid cavity outside the labrum; above, it reaches the root of the coracoid process, so the origin of the long head of biceps on the supraglenoid tubercle lies inside the capsule. Laterally to the anatomical neck of the humerus, except inferomedially, where it extends about 1 cm down onto the shaft.",
+    "id": "Di medial pada tepi cavitas glenoidalis di luar labrum; di atas mencapai pangkal processus coracoideus, sehingga origo caput longum m. biceps brachii pada tuberculum supraglenoidale berada di dalam capsula. Di lateral pada collum anatomicum humeri, kecuali di bagian inferomedial, tempat perlekatannya turun sekitar 1 cm ke corpus humeri."
+   },
+   "function": {
+    "en": "Encloses the joint while allowing a large range of movement. It has two openings: one between the tubercles for the tendon of the long head of biceps, and one in front below the coracoid process, where the cavity communicates with the subtendinous bursa of subscapularis. The rotator cuff tendons blend with it and hold the head in the socket.",
+    "id": "Membungkus sendi sambil memberi ruang gerak yang luas. Capsula ini memiliki dua celah: satu di antara kedua tuberculum untuk tendo caput longum m. biceps brachii, dan satu di depan di bawah processus coracoideus, tempat rongga sendi berhubungan dengan bursa subtendinea m. subscapularis. Tendo rotator cuff menyatu dengan capsula dan menahan caput humeri di dalam mangkuk sendi."
+   },
+   "clinical": {
+    "en": "The head usually leaves the joint through the weak inferior part in a dislocation. In adhesive capsulitis (frozen shoulder) the capsule thickens and contracts, limiting movement, above all lateral rotation and abduction.",
+    "id": "Saat dislokasi, caput humeri biasanya keluar melalui bagian inferior capsula yang lemah. Pada capsulitis adhesiva (frozen shoulder), capsula menebal dan mengerut sehingga gerak sendi terbatas, terutama rotasi lateral dan abduksi."
+   }
+  }
+ },
+ {
+  "key": "coracohumeral-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum coracohumerale",
+  "alt": [
+   "Lig. coracohumerale"
+  ],
+  "en": "Coracohumeral ligament",
+  "desc": {
+   "en": "Strong, broad band on the upper part of the shoulder joint capsule, from the coracoid process to the tubercles of the humerus. It fills the gap between supraspinatus and subscapularis (the rotator interval).",
+   "id": "Pita lebar dan kuat pada bagian atas capsula sendi bahu, dari processus coracoideus ke tuberculum humeri. Ligamen ini mengisi celah di antara m. supraspinatus dan m. subscapularis (rotator interval)."
+  },
+  "facts": {
+   "joint": "glenohumeral-joint",
+   "attach": {
+    "en": "Lateral border of the base of the coracoid process to the front of the greater tubercle, with a smaller band to the lesser tubercle; it blends with the capsule and the supraspinatus tendon.",
+    "id": "Tepi lateral pangkal processus coracoideus ke bagian depan tuberculum majus humeri, dengan pita yang lebih kecil ke tuberculum minus; ligamen ini menyatu dengan capsula dan tendo m. supraspinatus."
+   },
+   "function": {
+    "en": "Strengthens the capsule from above. With the arm at the side it limits lateral rotation and downward slipping of the humeral head; with the superior glenohumeral ligament it holds the tendon of the long head of biceps at the entrance of the intertubercular sulcus.",
+    "id": "Memperkuat capsula dari atas. Saat lengan berada di samping tubuh, ligamen ini membatasi rotasi lateral dan pergeseran caput humeri ke bawah; bersama lig. glenohumerale superius, ligamen ini menahan tendo caput longum m. biceps brachii di pintu masuk sulcus intertubercularis."
+   },
+   "clinical": {
+    "en": "Thickening and shortening of this ligament is a typical finding in frozen shoulder and explains the early loss of lateral rotation.",
+    "id": "Penebalan dan pemendekan ligamen ini merupakan temuan khas pada frozen shoulder dan menjelaskan hilangnya rotasi lateral sejak awal penyakit."
+   }
+  }
+ },
+ {
+  "key": "glenoid-labrum",
+  "kind": "cartilage",
+  "la": "Labrum glenoidale",
+  "alt": [
+   "Labrum glenoideum",
+   "Labrum glenoidale scapulae"
+  ],
+  "en": "Glenoid labrum",
+  "desc": {
+   "en": "Ring of fibrocartilage, triangular in section, attached around the rim of the glenoid cavity. It deepens and widens the shallow socket of the shoulder joint.",
+   "id": "Cincin fibrocartilago berpenampang segitiga yang melekat di sekeliling tepi cavitas glenoidalis. Labrum ini memperdalam dan memperlebar mangkuk sendi bahu yang dangkal."
+  },
+  "facts": {
+   "joint": "glenohumeral-joint",
+   "attach": {
+    "en": "Margin of the glenoid cavity. Above, it blends with the tendon of the long head of biceps, which arises from the supraglenoid tubercle; the glenohumeral ligaments arise from its anterior part.",
+    "id": "Tepi cavitas glenoidalis. Di atas, labrum menyatu dengan tendo caput longum m. biceps brachii yang berorigo pada tuberculum supraglenoidale; ligamenta glenohumeralia berasal dari bagian anteriornya."
+   },
+   "function": {
+    "en": "Increases the depth and contact area of the socket, protects the bony rim and gives attachment to the capsule and the glenohumeral ligaments.",
+    "id": "Menambah kedalaman dan luas permukaan kontak mangkuk sendi, melindungi tepi tulang, dan menjadi tempat melekat capsula serta ligamenta glenohumeralia."
+   },
+   "clinical": {
+    "en": "Anterior dislocation can tear off its anteroinferior part (Bankart lesion), after which dislocation tends to recur. A tear at the biceps anchor is a SLAP lesion (superior labrum, anterior to posterior).",
+    "id": "Dislokasi ke anterior dapat merobek bagian anteroinferiornya (lesi Bankart), sehingga dislokasi cenderung berulang. Robekan pada perlekatan tendo biceps disebut lesi SLAP (superior labrum, anterior to posterior)."
+   }
+  }
+ },
+ {
+  "key": "superior-glenohumeral-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum glenohumerale superius",
+  "alt": [
+   "Lig. glenohumerale superius"
+  ],
+  "en": "Superior glenohumeral ligament",
+  "desc": {
+   "en": "Uppermost of the three glenohumeral ligaments, which are thickenings of the anterior capsule best seen from inside the joint. It runs parallel to the tendon of the long head of biceps.",
+   "id": "Ligamen paling atas dari tiga lig. glenohumerale, yaitu penebalan capsula bagian anterior yang paling jelas terlihat dari dalam sendi. Ligamen ini berjalan sejajar dengan tendo caput longum m. biceps brachii."
+  },
+  "facts": {
+   "joint": "glenohumeral-joint",
+   "attach": {
+    "en": "Upper anterior glenoid margin and labrum, near the supraglenoid tubercle, to a small depression just above the lesser tubercle of the humerus.",
+    "id": "Tepi anterior atas cavitas glenoidalis dan labrum, dekat tuberculum supraglenoidale, ke cekungan kecil tepat di atas tuberculum minus humeri."
+   },
+   "function": {
+    "en": "With the coracohumeral ligament it limits downward translation and lateral rotation of the humeral head when the arm hangs at the side. It also forms part of the sling that holds the biceps tendon at the top of the intertubercular sulcus.",
+    "id": "Bersama lig. coracohumerale, ligamen ini membatasi pergeseran caput humeri ke bawah dan rotasi lateral saat lengan tergantung di samping tubuh. Ligamen ini juga membentuk sebagian penyangga yang menahan tendo biceps di ujung atas sulcus intertubercularis."
+   }
+  }
+ },
+ {
+  "key": "middle-glenohumeral-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum glenohumerale medium",
+  "alt": [
+   "Lig. glenohumerale medium"
+  ],
+  "en": "Middle glenohumeral ligament",
+  "desc": {
+   "en": "Thickening of the anterior capsule that lies deep to the subscapularis tendon. It is the most variable of the three glenohumeral ligaments and may be thin, cord-like or absent.",
+   "id": "Penebalan capsula bagian anterior yang terletak di sebelah dalam tendo m. subscapularis. Ligamen ini paling bervariasi di antara ketiga lig. glenohumerale dan dapat tipis, berbentuk tali, atau tidak ada."
+  },
+  "facts": {
+   "joint": "glenohumeral-joint",
+   "attach": {
+    "en": "Anterior glenoid margin and labrum just below the superior ligament, to the front of the anatomical neck medial to the lesser tubercle; it blends with the subscapularis tendon.",
+    "id": "Tepi anterior cavitas glenoidalis dan labrum tepat di bawah lig. glenohumerale superius, ke bagian depan collum anatomicum di medial tuberculum minus; ligamen ini menyatu dengan tendo m. subscapularis."
+   },
+   "function": {
+    "en": "Limits lateral rotation and forward translation of the humeral head with the arm partly abducted. The gap between it and the superior ligament is where the joint cavity opens into the subtendinous bursa of subscapularis.",
+    "id": "Membatasi rotasi lateral dan pergeseran caput humeri ke depan saat lengan sedikit diabduksi. Celah antara ligamen ini dan lig. glenohumerale superius menjadi tempat rongga sendi berhubungan dengan bursa subtendinea m. subscapularis."
+   }
+  }
+ },
+ {
+  "key": "inferior-glenohumeral-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum glenohumerale inferius",
+  "alt": [
+   "Lig. glenohumerale inferius"
+  ],
+  "en": "Inferior glenohumeral ligament",
+  "desc": {
+   "en": "Largest and strongest glenohumeral ligament. It forms a hammock under the humeral head, made of an anterior band, a posterior band and a thinner axillary pouch between them.",
+   "id": "Lig. glenohumerale yang paling besar dan kuat. Ligamen ini membentuk ayunan (hammock) di bawah caput humeri, terdiri atas pita anterior, pita posterior, dan kantong aksila yang lebih tipis di antara keduanya."
+  },
+  "facts": {
+   "joint": "glenohumeral-joint",
+   "attach": {
+    "en": "Anteroinferior and inferior margin of the glenoid cavity and labrum to the inferior part of the anatomical neck of the humerus.",
+    "id": "Tepi anteroinferior dan inferior cavitas glenoidalis serta labrum ke bagian inferior collum anatomicum humeri."
+   },
+   "function": {
+    "en": "Main restraint against anterior and inferior dislocation when the arm is abducted and laterally rotated, as in throwing. In this position its anterior band tightens across the front of the head.",
+    "id": "Penahan utama terhadap dislokasi ke anterior dan inferior saat lengan dalam posisi abduksi dan rotasi lateral, seperti pada gerakan melempar. Pada posisi ini pita anteriornya menegang di depan caput humeri."
+   },
+   "clinical": {
+    "en": "In anterior dislocation its glenoid attachment is often torn off together with the labrum (Bankart lesion); less often it tears away from the humerus (HAGL lesion).",
+    "id": "Pada dislokasi ke anterior, perlekatannya pada glenoid sering ikut terlepas bersama labrum (lesi Bankart); lebih jarang ligamen ini lepas dari humerus (lesi HAGL)."
+   }
+  }
+ },
+ {
+  "key": "transverse-humeral-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum transversum humeri",
+  "alt": [
+   "Lig. transversum humeri"
+  ],
+  "en": "Transverse humeral ligament",
+  "desc": {
+   "en": "Broad fibrous band that bridges the upper part of the intertubercular sulcus, between the greater and lesser tubercles of the humerus.",
+   "id": "Pita fibrosa lebar yang menjembatani bagian atas sulcus intertubercularis, di antara tuberculum majus dan tuberculum minus humeri."
+  },
+  "facts": {
+   "joint": "glenohumeral-joint",
+   "attach": {
+    "en": "Runs obliquely from the greater to the lesser tubercle, above the epiphysial line; it is closely blended with fibres of the subscapularis tendon.",
+    "id": "Berjalan miring dari tuberculum majus ke tuberculum minus, di atas linea epiphysialis; ligamen ini menyatu erat dengan serabut tendo m. subscapularis."
+   },
+   "function": {
+    "en": "Turns the sulcus into a canal that keeps the tendon of the long head of biceps and its synovial sheath in place during shoulder movements.",
+    "id": "Mengubah sulcus menjadi saluran yang menahan tendo caput longum m. biceps brachii beserta vagina synovialisnya tetap di tempat selama gerakan bahu."
+   },
+   "clinical": {
+    "en": "If it tears or is weak, the biceps tendon can slip medially out of the sulcus, usually together with a tear of subscapularis.",
+    "id": "Bila ligamen ini robek atau lemah, tendo biceps dapat tergelincir ke medial keluar dari sulcus, biasanya disertai robekan m. subscapularis."
+   }
+  }
+ },
+ {
+  "key": "articular-capsule-of-elbow-joint",
+  "kind": "membrane",
+  "la": "Capsula articularis articulationis cubiti",
+  "alt": [
+   "Capsula articularis cubiti",
+   "Capsula articularis"
+  ],
+  "en": "Articular capsule of elbow joint",
+  "desc": {
+   "en": "Single fibrous capsule that encloses all three articulations of the elbow. It is thin in front and behind and thickened at the sides by the collateral ligaments.",
+   "id": "Satu capsula fibrosa yang membungkus ketiga artikulasi sendi siku. Capsula ini tipis di depan dan belakang serta menebal di kedua sisi oleh ligamenta collateralia."
+  },
+  "facts": {
+   "joint": "elbow-joint",
+   "attach": {
+    "en": "Humerus: margins of the capitulum and trochlea at the sides, above the radial and coronoid fossae in front and above the olecranon fossa behind. Forearm: margins of the trochlear notch (coronoid process and olecranon) and the annular ligament. The fibrous layer does not attach to the radius, which leaves the head free to rotate.",
+    "id": "Humerus: tepi capitulum dan trochlea di kedua sisi, di atas fossa radialis dan fossa coronoidea di depan, dan di atas fossa olecrani di belakang. Lengan bawah: tepi incisura trochlearis (processus coronoideus dan olecranon) dan lig. anulare radii. Lapisan fibrosanya tidak melekat pada radius sehingga caput radii bebas berputar."
+   },
+   "function": {
+    "en": "Encloses the joint. Its synovial lining covers the fat pads in the fossae of the humerus and continues below the annular ligament as a small pouch on the neck of the radius (sacciform recess).",
+    "id": "Membungkus sendi. Membrana synovialis yang melapisinya menutupi bantalan lemak di dalam fossa humeri dan berlanjut ke bawah lig. anulare radii sebagai kantong kecil pada collum radii (recessus sacciformis)."
+   },
+   "clinical": {
+    "en": "Fluid or blood in the joint lifts the fat pads away from the humerus. On a lateral radiograph this shows as the fat pad sign, a clue to a fracture that may not be visible.",
+    "id": "Cairan atau darah di dalam sendi mengangkat bantalan lemak menjauhi humerus. Pada foto rontgen lateral hal ini tampak sebagai fat pad sign, petunjuk adanya fraktur yang mungkin tidak terlihat."
+   }
+  }
+ },
+ {
+  "key": "ulnar-collateral-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum collaterale ulnare",
+  "alt": [
+   "Lig. collaterale ulnare",
+   "Ligamentum collaterale ulnare cubiti",
+   "Ligamentum collaterale ulnare articulationis cubiti"
+  ],
+  "en": "Ulnar collateral ligament (of elbow)",
+  "desc": {
+   "en": "Strong triangular ligament on the medial side of the elbow, from the medial epicondyle to the ulna. It has three bands: a cord-like anterior band (the strongest), a fan-shaped posterior band (the weakest) and a slender oblique band.",
+   "id": "Ligamen segitiga yang kuat di sisi medial siku, dari epicondylus medialis humeri ke ulna. Ligamen ini terdiri atas tiga pita: pita anterior berbentuk tali (paling kuat), pita posterior berbentuk kipas (paling lemah), dan pita oblik yang ramping."
+  },
+  "facts": {
+   "joint": "elbow-joint",
+   "attach": {
+    "en": "Anterior band: medial epicondyle to the medial edge of the coronoid process. Posterior band: medial epicondyle to the medial edge of the olecranon. Oblique band: between the coronoid process and the olecranon.",
+    "id": "Pita anterior: epicondylus medialis ke tepi medial processus coronoideus. Pita posterior: epicondylus medialis ke tepi medial olecranon. Pita oblik: di antara processus coronoideus dan olecranon."
+   },
+   "function": {
+    "en": "Resists valgus stress, the force that opens the medial side of the joint; the anterior band does most of this work. The oblique band deepens the socket for the trochlea. The ulnar nerve lies on the posterior band, behind the medial epicondyle.",
+    "id": "Menahan tekanan valgus, yaitu gaya yang membuka sisi medial sendi; sebagian besar tugas ini dilakukan oleh pita anterior. Pita oblik memperdalam mangkuk untuk trochlea humeri. N. ulnaris terletak di atas pita posterior, di belakang epicondylus medialis."
+   },
+   "clinical": {
+    "en": "Repeated throwing can stretch or tear the anterior band; reconstruction with a tendon graft is known as Tommy John surgery.",
+    "id": "Gerakan melempar yang berulang dapat meregangkan atau merobek pita anterior; rekonstruksinya dengan cangkok tendo dikenal sebagai operasi Tommy John."
+   }
+  }
+ },
+ {
+  "key": "radial-collateral-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum collaterale radiale",
+  "alt": [
+   "Lig. collaterale radiale",
+   "Ligamentum collaterale radiale cubiti",
+   "Ligamentum collaterale radiale articulationis cubiti"
+  ],
+  "en": "Radial collateral ligament (of elbow)",
+  "desc": {
+   "en": "Fan-shaped ligament on the lateral side of the elbow, running from the lateral epicondyle down to the annular ligament. It is weaker than the ulnar collateral ligament.",
+   "id": "Ligamen berbentuk kipas di sisi lateral siku, berjalan dari epicondylus lateralis humeri ke bawah menuju lig. anulare radii. Ligamen ini lebih lemah daripada lig. collaterale ulnare."
+  },
+  "facts": {
+   "joint": "elbow-joint",
+   "attach": {
+    "en": "Lateral epicondyle of the humerus to the annular ligament, with which it blends. It has no direct attachment to the radius, so the radial head can rotate freely. Some posterior fibres continue to the supinator crest of the ulna as the lateral ulnar collateral ligament.",
+    "id": "Epicondylus lateralis humeri ke lig. anulare radii, tempat ligamen ini menyatu. Tidak ada perlekatan langsung pada radius sehingga caput radii dapat berputar bebas. Sebagian serabut posteriornya berlanjut ke crista musculi supinatoris ulnae sebagai lateral ulnar collateral ligament."
+   },
+   "function": {
+    "en": "Resists varus stress on the elbow. Its lateral ulnar part keeps the forearm from rotating outward off the humerus (posterolateral rotatory instability). Part of supinator arises from it.",
+    "id": "Menahan tekanan varus pada siku. Bagian ulnar lateralnya mencegah lengan bawah berputar keluar dari humerus (posterolateral rotatory instability). Sebagian m. supinator berorigo darinya."
+   }
+  }
+ },
+ {
+  "key": "annular-ligament-of-radius",
+  "kind": "ligament",
+  "la": "Ligamentum anulare radii",
+  "alt": [
+   "Lig. anulare radii",
+   "Ligamentum annulare radii",
+   "Lig. anulare"
+  ],
+  "en": "Annular ligament of radius",
+  "desc": {
+   "en": "Strong band that curves around the head of the radius and holds it against the radial notch of the ulna. With the notch it forms a complete ring in which the head turns during pronation and supination.",
+   "id": "Pita kuat yang melingkari caput radii dan menahannya pada incisura radialis ulnae. Bersama incisura tersebut, ligamen ini membentuk cincin utuh tempat caput radii berputar saat pronasi dan supinasi."
+  },
+  "facts": {
+   "joint": "proximal-radio-ulnar-joint",
+   "attach": {
+    "en": "Anterior and posterior margins of the radial notch of the ulna. It encircles the head of the radius, forming about four fifths of the ring, without attaching to it; its upper border blends with the capsule and the radial collateral ligament.",
+    "id": "Tepi anterior dan posterior incisura radialis ulnae. Ligamen ini melingkari caput radii dan membentuk sekitar empat perlima cincin tanpa melekat padanya; tepi atasnya menyatu dengan capsula dan lig. collaterale radiale."
+   },
+   "function": {
+    "en": "Holds the radial head in place while letting it rotate. The ring is narrower below than above, which in adults keeps the head from being pulled down out of it. Its inner surface is lined with synovial membrane.",
+    "id": "Menahan caput radii di tempatnya sambil tetap membiarkannya berputar. Cincin ini lebih sempit di bawah daripada di atas, sehingga pada orang dewasa caput radii tidak mudah tertarik ke bawah keluar dari cincin. Permukaan dalamnya dilapisi membrana synovialis."
+   },
+   "clinical": {
+    "en": "In children under about five years, a sudden pull on the hand can slide the radial head partly out of the ligament (pulled elbow, nursemaid's elbow). The child keeps the forearm pronated and will not use the arm.",
+    "id": "Pada anak di bawah sekitar lima tahun, tarikan mendadak pada tangan dapat membuat caput radii tergelincir sebagian keluar dari ligamen ini (pulled elbow, nursemaid's elbow). Anak menahan lengan bawahnya dalam posisi pronasi dan tidak mau menggunakan lengannya."
+   }
+  }
+ },
+ {
+  "key": "quadrate-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum quadratum",
+  "alt": [
+   "Lig. quadratum"
+  ],
+  "en": "Quadrate ligament",
+  "desc": {
+   "en": "Thin, four-sided fibrous layer below the annular ligament that joins the ulna to the neck of the radius. It covers the synovial membrane of the lower part of the proximal radio-ulnar joint.",
+   "id": "Lapisan fibrosa tipis berbentuk segi empat di bawah lig. anulare radii yang menghubungkan ulna dengan collum radii. Ligamen ini menutupi membrana synovialis bagian bawah articulatio radioulnaris proximalis."
+  },
+  "facts": {
+   "joint": "proximal-radio-ulnar-joint",
+   "attach": {
+    "en": "Lower border of the radial notch of the ulna to the medial side of the neck of the radius.",
+    "id": "Tepi bawah incisura radialis ulnae ke sisi medial collum radii."
+   },
+   "function": {
+    "en": "Reinforces the lower part of the capsule, holds the radial head against the radial notch and tightens at the ends of rotation, mainly in supination.",
+    "id": "Memperkuat bagian bawah capsula, menahan caput radii pada incisura radialis, dan menegang di akhir gerak rotasi, terutama saat supinasi."
+   }
+  }
+ },
+ {
+  "key": "interosseous-membrane-of-forearm",
+  "kind": "membrane",
+  "la": "Membrana interossea antebrachii",
+  "alt": [
+   "Membrana interossea"
+  ],
+  "en": "Interosseous membrane of forearm",
+  "desc": {
+   "en": "Thin, strong fibrous sheet stretched between the interosseous borders of the radius and ulna. It forms the main part of the radio-ulnar syndesmosis and divides the forearm into anterior and posterior compartments.",
+   "id": "Lembaran fibrosa tipis dan kuat yang terbentang di antara margo interosseus radii dan margo interosseus ulnae. Membran ini membentuk bagian utama syndesmosis radioulnaris dan membagi lengan bawah menjadi kompartemen anterior dan posterior."
+  },
+  "facts": {
+   "joint": "radio-ulnar-syndesmoses",
+   "attach": {
+    "en": "Interosseous border of the radius to the interosseous border of the ulna; most fibres run obliquely downward and medially from the radius to the ulna. Its upper edge starts about 2.5 cm below the radial tuberosity. The posterior interosseous vessels pass backward above this edge, and the anterior interosseous vessels pierce the membrane near its lower end.",
+    "id": "Margo interosseus radii ke margo interosseus ulnae; sebagian besar serabutnya berjalan miring ke bawah medial dari radius ke ulna. Tepi atasnya dimulai sekitar 2,5 cm di bawah tuberositas radii. Vasa interossea posteriora lewat ke belakang di atas tepi ini, dan vasa interossea anteriora menembus membran di dekat ujung bawahnya."
+   },
+   "function": {
+    "en": "Binds the two bones together while letting the radius rotate around the ulna. Because of the fibre direction, force from the hand that travels up the radius is passed to the ulna and then to the humerus. Deep muscles arise from it: flexor digitorum profundus and flexor pollicis longus in front; abductor pollicis longus, extensor pollicis brevis, extensor pollicis longus and extensor indicis behind.",
+    "id": "Menyatukan kedua tulang sambil tetap membiarkan radius berputar mengelilingi ulna. Karena arah serabutnya, gaya dari tangan yang naik melalui radius diteruskan ke ulna lalu ke humerus. Otot lapisan dalam berorigo darinya: m. flexor digitorum profundus dan m. flexor pollicis longus di depan; m. abductor pollicis longus, m. extensor pollicis brevis, m. extensor pollicis longus dan m. extensor indicis di belakang."
+   },
+   "clinical": {
+    "en": "A fracture of the radial head combined with a tear of the membrane and dislocation of the distal radio-ulnar joint is an Essex-Lopresti injury; the radius can then shift proximally.",
+    "id": "Fraktur caput radii yang disertai robekan membran ini dan dislokasi articulatio radioulnaris distalis disebut cedera Essex-Lopresti; radius kemudian dapat bergeser ke proksimal."
+   }
+  }
+ },
+ {
+  "key": "oblique-cord",
+  "kind": "ligament",
+  "la": "Chorda obliqua",
+  "alt": [],
+  "en": "Oblique cord",
+  "desc": {
+   "en": "Small flat band at the upper end of the space between the radius and ulna, from the ulnar tuberosity to the radius. Its fibres run in the opposite direction to those of the interosseous membrane.",
+   "id": "Pita kecil dan pipih di ujung atas ruang antara radius dan ulna, dari tuberositas ulnae ke radius. Arah serabutnya berlawanan dengan arah serabut membrana interossea antebrachii."
+  },
+  "facts": {
+   "joint": "radio-ulnar-syndesmoses",
+   "attach": {
+    "en": "Lateral side of the ulnar tuberosity at the base of the coronoid process, running downward and laterally to the radius just below the radial tuberosity.",
+    "id": "Sisi lateral tuberositas ulnae di pangkal processus coronoideus, berjalan ke bawah lateral ke radius tepat di bawah tuberositas radii."
+   },
+   "function": {
+    "en": "Its function is uncertain. Older texts say it limits supination; later studies found it adds little to the stability of the forearm, and it is absent in a sizeable share of people. The posterior interosseous vessels pass backward through the gap between it and the upper edge of the interosseous membrane.",
+    "id": "Fungsinya belum jelas. Buku lama menyebutnya membatasi supinasi; penelitian yang lebih baru mendapati sumbangannya terhadap kestabilan lengan bawah kecil, dan pada cukup banyak orang ligamen ini tidak ditemukan. Vasa interossea posteriora lewat ke belakang melalui celah antara chorda obliqua dan tepi atas membrana interossea."
+   }
+  }
+ },
+ {
+  "key": "articular-disc-of-distal-radio-ulnar-joint",
+  "kind": "cartilage",
+  "la": "Discus articularis articulationis radioulnaris distalis",
+  "alt": [
+   "Discus articularis",
+   "Discus articulationis radioulnaris distalis",
+   "Discus articularis radioulnaris distalis",
+   "Fibrocartilago triangularis",
+   "Discus triangularis",
+   "Discus ulnocarpalis"
+  ],
+  "en": "Articular disc of distal radio-ulnar joint (triangular fibrocartilage)",
+  "desc": {
+   "en": "Triangular plate of fibrocartilage over the head of the ulna that binds the lower ends of the radius and ulna together. It is the central part of the triangular fibrocartilage complex (TFCC) and separates the distal radio-ulnar joint from the wrist joint.",
+   "id": "Lempeng fibrocartilago berbentuk segitiga di atas caput ulnae yang mengikat ujung bawah radius dan ulna. Discus ini merupakan bagian tengah triangular fibrocartilage complex (TFCC) dan memisahkan articulatio radioulnaris distalis dari sendi pergelangan tangan."
+  },
+  "facts": {
+   "joint": "distal-radio-ulnar-joint",
+   "attach": {
+    "en": "Base to the edge between the ulnar notch and the carpal articular surface of the radius; apex to the fovea at the base of the ulnar styloid process and to the process itself. Its dorsal and palmar margins are thickened as the dorsal and palmar radio-ulnar ligaments.",
+    "id": "Dasarnya melekat pada tepi antara incisura ulnaris dan facies articularis carpalis radii; puncaknya pada fovea di pangkal processus styloideus ulnae dan pada processus itu sendiri. Tepi dorsal dan palmarnya menebal sebagai lig. radioulnare dorsale dan palmare."
+   },
+   "function": {
+    "en": "Main bond between the lower ends of the radius and ulna. Its upper surface glides on the head of the ulna in pronation and supination; its lower surface faces the lunate and triquetrum in the wrist joint and cushions load passed from the hand to the ulna.",
+    "id": "Pengikat utama antara ujung bawah radius dan ulna. Permukaan atasnya meluncur pada caput ulnae saat pronasi dan supinasi; permukaan bawahnya berhadapan dengan os lunatum dan os triquetrum pada sendi pergelangan tangan dan meredam beban yang diteruskan dari tangan ke ulna."
+   },
+   "clinical": {
+    "en": "Tears, from a fall on the outstretched hand or from wear, cause pain on the ulnar side of the wrist. With age the disc is often perforated, and the two joint cavities then communicate.",
+    "id": "Robekan, akibat jatuh bertumpu pada tangan yang terulur atau akibat degenerasi, menimbulkan nyeri di sisi ulnar pergelangan tangan. Dengan bertambahnya usia discus ini sering berlubang, sehingga kedua rongga sendi saling berhubungan."
+   }
+  }
+ },
+ {
+  "key": "dorsal-radio-ulnar-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum radioulnare dorsale",
+  "alt": [
+   "Lig. radioulnare dorsale",
+   "Ligamentum radio-ulnare dorsale"
+  ],
+  "en": "Dorsal radio-ulnar ligament",
+  "desc": {
+   "en": "Band across the back of the distal radio-ulnar joint, formed by the thickened dorsal margin of the articular disc.",
+   "id": "Pita yang melintang di bagian belakang articulatio radioulnaris distalis, dibentuk oleh tepi dorsal discus articularis yang menebal."
+  },
+  "facts": {
+   "joint": "distal-radio-ulnar-joint",
+   "attach": {
+    "en": "Dorsal margin of the ulnar notch of the radius to the fovea and base of the ulnar styloid process.",
+    "id": "Tepi dorsal incisura ulnaris radii ke fovea dan pangkal processus styloideus ulnae."
+   },
+   "function": {
+    "en": "With the palmar radio-ulnar ligament it is the main stabiliser of the distal radio-ulnar joint and keeps the head of the ulna in the ulnar notch throughout pronation and supination.",
+    "id": "Bersama lig. radioulnare palmare, ligamen ini merupakan stabilisator utama articulatio radioulnaris distalis dan menjaga caput ulnae tetap berada di incisura ulnaris selama pronasi dan supinasi."
+   }
+  }
+ },
+ {
+  "key": "palmar-radio-ulnar-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum radioulnare palmare",
+  "alt": [
+   "Lig. radioulnare palmare",
+   "Ligamentum radio-ulnare palmare"
+  ],
+  "en": "Palmar radio-ulnar ligament",
+  "desc": {
+   "en": "Band across the front of the distal radio-ulnar joint, formed by the thickened palmar margin of the articular disc.",
+   "id": "Pita yang melintang di bagian depan articulatio radioulnaris distalis, dibentuk oleh tepi palmar discus articularis yang menebal."
+  },
+  "facts": {
+   "joint": "distal-radio-ulnar-joint",
+   "attach": {
+    "en": "Palmar margin of the ulnar notch of the radius to the fovea and base of the ulnar styloid process.",
+    "id": "Tepi palmar incisura ulnaris radii ke fovea dan pangkal processus styloideus ulnae."
+   },
+   "function": {
+    "en": "With the dorsal radio-ulnar ligament it holds the head of the ulna in the ulnar notch during pronation and supination. The ulnolunate and ulnotriquetral ligaments arise from it.",
+    "id": "Bersama lig. radioulnare dorsale, ligamen ini menahan caput ulnae di incisura ulnaris selama pronasi dan supinasi. Lig. ulnolunatum dan lig. ulnotriquetrum berorigo darinya."
+   }
+  }
+ },
+ {
+  "key": "articular-capsule-of-radiocarpal-joint",
+  "kind": "membrane",
+  "la": "Capsula articularis articulationis radiocarpalis",
+  "alt": [
+   "Capsula articularis articulationis radiocarpeae",
+   "Capsula articularis radiocarpalis",
+   "Capsula articularis"
+  ],
+  "en": "Articular capsule of radiocarpal (wrist) joint",
+  "desc": {
+   "en": "Fibrous capsule of the wrist joint. Its palmar, dorsal and side walls are thickened into the radiocarpal, ulnocarpal and collateral ligaments of the wrist.",
+   "id": "Capsula fibrosa sendi pergelangan tangan. Dinding palmar, dorsal dan sisi-sisinya menebal membentuk ligamenta radiocarpalia, ulnocarpalia dan collateralia pergelangan tangan."
+  },
+  "facts": {
+   "joint": "radiocarpal-joint",
+   "attach": {
+    "en": "Distal ends of the radius and ulna, including the edge of the articular disc, to the proximal row of carpal bones (scaphoid, lunate and triquetrum).",
+    "id": "Ujung distal radius dan ulna, termasuk tepi discus articularis, ke tulang carpal baris proksimal (os scaphoideum, os lunatum dan os triquetrum)."
+   },
+   "function": {
+    "en": "Encloses the joint; its synovial membrane has many folds. The articular disc closes the cavity off from the distal radio-ulnar joint, and the interosseous ligaments of the proximal row close it off from the midcarpal joint, but it often communicates with the pisiform joint.",
+    "id": "Membungkus sendi; membrana synovialis-nya memiliki banyak lipatan. Discus articularis memisahkan rongga sendi ini dari articulatio radioulnaris distalis, dan ligamenta interossea baris proksimal memisahkannya dari articulatio mediocarpalis, tetapi rongga ini sering berhubungan dengan sendi os pisiforme."
+   },
+   "clinical": {
+    "en": "Ganglion cysts, the most common lumps of the wrist, usually arise from the dorsal capsule over the scapholunate ligament.",
+    "id": "Kista ganglion, benjolan yang paling sering ditemukan di pergelangan tangan, biasanya berasal dari capsula dorsal di atas lig. scapholunatum."
+   }
+  }
+ },
+ {
+  "key": "dorsal-radiocarpal-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum radiocarpale dorsale",
+  "alt": [
+   "Lig. radiocarpale dorsale",
+   "Ligamentum radiocarpeum dorsale"
+  ],
+  "en": "Dorsal radiocarpal ligament",
+  "desc": {
+   "en": "Main ligament on the back of the wrist joint, running obliquely from the distal radius toward the ulnar side of the carpus.",
+   "id": "Ligamen utama di bagian belakang sendi pergelangan tangan, berjalan miring dari ujung distal radius ke arah sisi ulnar carpus."
+  },
+  "facts": {
+   "joint": "radiocarpal-joint",
+   "attach": {
+    "en": "Dorsal margin of the distal radius, running distally and toward the ulna to the lunate and the dorsal surface of the triquetrum.",
+    "id": "Tepi dorsal ujung distal radius, berjalan ke distal dan ke arah ulna menuju os lunatum dan permukaan dorsal os triquetrum."
+   },
+   "function": {
+    "en": "Strengthens the back of the capsule. Its oblique course makes the hand follow the radius in pronation, and with the dorsal intercarpal ligament it forms a sideways V that steadies the proximal carpal row.",
+    "id": "Memperkuat capsula bagian belakang. Arah serabutnya yang miring membuat tangan ikut bergerak bersama radius saat pronasi, dan bersama ligamen intercarpal dorsal ligamen ini membentuk huruf V mendatar yang menstabilkan tulang carpal baris proksimal."
+   }
+  }
+ },
+ {
+  "key": "radial-collateral-ligament-of-wrist-joint",
+  "kind": "ligament",
+  "la": "Ligamentum collaterale carpi radiale",
+  "alt": [
+   "Lig. collaterale carpi radiale",
+   "Ligamentum collaterale radiale carpi"
+  ],
+  "en": "Radial collateral ligament of wrist joint",
+  "desc": {
+   "en": "Band on the radial side of the wrist joint, from the styloid process of the radius to the scaphoid.",
+   "id": "Pita di sisi radial sendi pergelangan tangan, dari processus styloideus radii ke os scaphoideum."
+  },
+  "facts": {
+   "joint": "radiocarpal-joint",
+   "attach": {
+    "en": "Tip of the radial styloid process to the radial side of the scaphoid; some fibres continue to the trapezium and the flexor retinaculum.",
+    "id": "Ujung processus styloideus radii ke sisi radial os scaphoideum; sebagian serabutnya berlanjut ke os trapezium dan retinaculum musculorum flexorum."
+   },
+   "function": {
+    "en": "Limits ulnar deviation (adduction) of the hand. The radial artery runs across it, between the ligament and the tendons of abductor pollicis longus and extensor pollicis brevis.",
+    "id": "Membatasi deviasi ulnar (adduksi) tangan. A. radialis berjalan melintasinya, di antara ligamen ini dan tendo m. abductor pollicis longus serta m. extensor pollicis brevis."
+   }
+  }
+ },
+ {
+  "key": "ulnar-collateral-ligament-of-wrist-joint",
+  "kind": "ligament",
+  "la": "Ligamentum collaterale carpi ulnare",
+  "alt": [
+   "Lig. collaterale carpi ulnare",
+   "Ligamentum collaterale ulnare carpi"
+  ],
+  "en": "Ulnar collateral ligament of wrist joint",
+  "desc": {
+   "en": "Rounded band on the ulnar side of the wrist joint, from the styloid process of the ulna to the triquetrum.",
+   "id": "Pita bulat di sisi ulnar sendi pergelangan tangan, dari processus styloideus ulnae ke os triquetrum."
+  },
+  "facts": {
+   "joint": "radiocarpal-joint",
+   "attach": {
+    "en": "Tip of the ulnar styloid process to the medial (ulnar) side of the triquetrum. Classical descriptions add a second band to the pisiform and flexor retinaculum, which the 3D model shows separately as the ulnopisiform ligament.",
+    "id": "Ujung processus styloideus ulnae ke sisi medial (ulnar) os triquetrum. Deskripsi klasik menambahkan pita kedua ke os pisiforme dan retinaculum musculorum flexorum, yang pada model 3D ditampilkan terpisah sebagai lig. ulnopisiforme."
+   },
+   "function": {
+    "en": "Limits radial deviation (abduction) of the hand and strengthens the ulnar side of the capsule.",
+    "id": "Membatasi deviasi radial (abduksi) tangan dan memperkuat sisi ulnar capsula."
+   }
+  }
+ },
+ {
+  "key": "radioscaphocapitate-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum radioscaphocapitatum",
+  "alt": [
+   "Lig. radioscaphocapitatum",
+   "Ligamentum radiocarpale palmare",
+   "Ligamentum radiocarpeum palmare"
+  ],
+  "en": "Radioscaphocapitate ligament",
+  "desc": {
+   "en": "Most radial of the palmar radiocarpal ligaments. It runs from the radial styloid process across the waist of the scaphoid to the capitate, like a sling under the scaphoid.",
+   "id": "Ligamen paling radial di antara ligamenta radiocarpalia palmaria. Ligamen ini berjalan dari processus styloideus radii melintasi pinggang os scaphoideum ke os capitatum, seperti ambin (sling) di bawah os scaphoideum."
+  },
+  "facts": {
+   "joint": "radiocarpal-joint",
+   "attach": {
+    "en": "Palmar surface of the radial styloid process and the radial part of the palmar rim of the radius, across the palmar waist of the scaphoid, to the palmar surface of the capitate. There many of its fibres meet those of the ulnocapitate ligament and form the arcuate ligament.",
+    "id": "Permukaan palmar processus styloideus radii dan bagian radial tepi palmar radius, melintasi pinggang os scaphoideum di sisi palmar, ke permukaan palmar os capitatum. Di sana banyak serabutnya bertemu serabut lig. ulnocapitatum dan membentuk ligamen arkuata (arcuate ligament)."
+   },
+   "function": {
+    "en": "Supports the scaphoid, which rotates around it as the wrist flexes and extends, and helps keep the carpus from sliding toward the ulna on the sloping surface of the radius. The weak area between it and the long radiolunate ligament (space of Poirier) is where perilunate and lunate dislocations occur.",
+    "id": "Menopang os scaphoideum yang berputar di sekitarnya saat pergelangan tangan fleksi dan ekstensi, dan membantu mencegah carpus bergeser ke arah ulna di atas permukaan radius yang miring. Daerah lemah antara ligamen ini dan lig. radiolunatum longum (space of Poirier) merupakan tempat terjadinya dislokasi perilunatum dan dislokasi os lunatum."
+   },
+   "note": {
+    "en": "TA98 names only the whole Ligamentum radiocarpale palmare; its subdivision into the radioscaphocapitate and radiolunate ligaments comes from later hand-surgery anatomy and TA2.",
+    "id": "TA98 hanya menyebut Ligamentum radiocarpale palmare secara utuh; pembagiannya menjadi lig. radioscaphocapitatum dan lig. radiolunatum berasal dari anatomi bedah tangan yang lebih baru dan TA2."
+   }
+  }
+ },
+ {
+  "key": "radiocapitate-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum radiocapitatum",
+  "alt": [
+   "Lig. radiocapitatum",
+   "Ligamentum radiocarpale palmare",
+   "Ligamentum radiocarpeum palmare"
+  ],
+  "en": "Radiocapitate ligament",
+  "desc": {
+   "en": "Palmar band from the radial side of the distal radius to the capitate. Older descriptions use this name for the whole radioscaphocapitate ligament; in the 3D model it is a separate band beside that ligament.",
+   "id": "Pita palmar dari sisi radial ujung distal radius ke os capitatum. Deskripsi lama memakai nama ini untuk seluruh lig. radioscaphocapitatum; pada model 3D ligamen ini berupa pita tersendiri di samping ligamen tersebut."
+  },
+  "facts": {
+   "joint": "radiocarpal-joint",
+   "attach": {
+    "en": "Palmar aspect of the radial styloid process to the palmar surface of the capitate.",
+    "id": "Sisi palmar processus styloideus radii ke permukaan palmar os capitatum."
+   },
+   "function": {
+    "en": "Works with the radioscaphocapitate ligament: it supports the radial side of the carpus from the palmar side and helps hold the carpus on the radius.",
+    "id": "Bekerja bersama lig. radioscaphocapitatum: menopang sisi radial carpus dari arah palmar dan membantu menahan carpus pada radius."
+   }
+  },
+  "verify": true
+ },
+ {
+  "key": "dorsal-ulnocarpal-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum ulnocarpale dorsale",
+  "alt": [
+   "Lig. ulnocarpale dorsale",
+   "Ligamentum ulnocarpeum dorsale"
+  ],
+  "en": "Dorsal ulnocarpal ligament",
+  "desc": {
+   "en": "Band on the back of the ulnar side of the wrist, from the styloid process of the ulna to the dorsal surface of the carpus.",
+   "id": "Pita di bagian belakang sisi ulnar pergelangan tangan, dari processus styloideus ulnae ke permukaan dorsal carpus."
+  },
+  "facts": {
+   "joint": "radiocarpal-joint",
+   "attach": {
+    "en": "Styloid process of the ulna to the dorsal surface of the carpus, mainly the triquetrum.",
+    "id": "Processus styloideus ulnae ke permukaan dorsal carpus, terutama os triquetrum."
+   },
+   "function": {
+    "en": "Strengthens the dorsal part of the wrist joint capsule on the ulnar side.",
+    "id": "Memperkuat bagian dorsal capsula sendi pergelangan tangan di sisi ulnar."
+   },
+   "note": {
+    "en": "TA98 and the Thieme (Prometheus) atlas list this ligament, but some hand-surgery studies find no separate dorsal band between the ulna and the carpus.",
+    "id": "TA98 dan atlas Thieme (Prometheus) mencantumkan ligamen ini, tetapi sebagian penelitian bedah tangan tidak menemukan pita dorsal tersendiri antara ulna dan carpus."
+   }
+  }
+ },
+ {
+  "key": "ulnolunate-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum ulnolunatum",
+  "alt": [
+   "Lig. ulnolunatum",
+   "Ligamentum ulnocarpale palmare",
+   "Ligamentum ulnocarpeum palmare"
+  ],
+  "en": "Ulnolunate ligament",
+  "desc": {
+   "en": "Palmar ligament on the ulnar side of the wrist that ties the articular disc complex to the lunate. With the ulnotriquetral and ulnocapitate ligaments it makes up the palmar ulnocarpal ligament.",
+   "id": "Ligamen palmar di sisi ulnar pergelangan tangan yang mengikat kompleks discus articularis ke os lunatum. Bersama lig. ulnotriquetrum dan lig. ulnocapitatum, ligamen ini membentuk lig. ulnocarpale palmare."
+  },
+  "facts": {
+   "joint": "radiocarpal-joint",
+   "attach": {
+    "en": "Palmar radio-ulnar ligament (the palmar edge of the articular disc) to the palmar surface of the lunate, where it blends with the short radiolunate ligament.",
+    "id": "Lig. radioulnare palmare (tepi palmar discus articularis) ke permukaan palmar os lunatum, tempat ligamen ini menyatu dengan lig. radiolunatum breve."
+   },
+   "function": {
+    "en": "Forms part of the palmar capsule on the ulnar side of the wrist joint and links the triangular fibrocartilage complex to the lunate, supporting the ulnar side of the carpus.",
+    "id": "Membentuk sebagian capsula palmar di sisi ulnar sendi pergelangan tangan dan menghubungkan triangular fibrocartilage complex dengan os lunatum, sehingga menopang sisi ulnar carpus."
+   },
+   "note": {
+    "en": "TA98 names only the whole Ligamentum ulnocarpale palmare; the ulnolunate, ulnotriquetral and ulnocapitate ligaments are its parts in TA2 and hand-surgery anatomy.",
+    "id": "TA98 hanya menyebut Ligamentum ulnocarpale palmare secara utuh; lig. ulnolunatum, ulnotriquetrum dan ulnocapitatum merupakan bagian-bagiannya menurut TA2 dan anatomi bedah tangan."
+   }
+  }
+ },
+ {
+  "key": "ulnotriquetral-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum ulnotriquetrum",
+  "alt": [
+   "Lig. ulnotriquetrum",
+   "Ligamentum ulnocarpale palmare",
+   "Ligamentum ulnocarpeum palmare"
+  ],
+  "en": "Ulnotriquetral ligament",
+  "desc": {
+   "en": "Palmar ulnocarpal ligament that runs beside the ulnolunate ligament, from the articular disc complex to the triquetrum.",
+   "id": "Ligamen ulnocarpal palmar yang berjalan di samping lig. ulnolunatum, dari kompleks discus articularis ke os triquetrum."
+  },
+  "facts": {
+   "joint": "radiocarpal-joint",
+   "attach": {
+    "en": "Palmar radio-ulnar ligament, sharing its origin with the ulnolunate ligament, to the proximal and ulnar aspects of the triquetrum.",
+    "id": "Lig. radioulnare palmare, berbagi origo dengan lig. ulnolunatum, ke sisi proksimal dan ulnar os triquetrum."
+   },
+   "function": {
+    "en": "Supports the ulnar side of the carpus from the palmar side and forms part of the triangular fibrocartilage complex.",
+    "id": "Menopang sisi ulnar carpus dari arah palmar dan merupakan bagian dari triangular fibrocartilage complex."
+   }
+  }
+ },
+ {
+  "key": "ulnocapitate-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum ulnocapitatum",
+  "alt": [
+   "Lig. ulnocapitatum",
+   "Ligamentum ulnocarpale palmare",
+   "Ligamentum ulnocarpeum palmare"
+  ],
+  "en": "Ulnocapitate ligament",
+  "desc": {
+   "en": "Most superficial of the palmar ulnocarpal ligaments. It runs from the ulna to the capitate, in front of the ulnolunate and ulnotriquetral ligaments.",
+   "id": "Ligamen ulnocarpal palmar yang paling superfisial. Ligamen ini berjalan dari ulna ke os capitatum, di depan lig. ulnolunatum dan lig. ulnotriquetrum."
+  },
+  "facts": {
+   "joint": "radiocarpal-joint",
+   "attach": {
+    "en": "Palmar part of the fovea of the head of the ulna to the body of the capitate. On the way it reinforces the palmar lunotriquetral ligament, and at the capitate its fibres join those of the radioscaphocapitate ligament in the arcuate ligament.",
+    "id": "Bagian palmar fovea caput ulnae ke badan os capitatum. Dalam perjalanannya ligamen ini memperkuat lig. lunotriquetrum palmare, dan pada os capitatum serabutnya bergabung dengan serabut lig. radioscaphocapitatum membentuk ligamen arkuata."
+   },
+   "function": {
+    "en": "Palmar stabiliser of the ulnar side of the wrist. It is often injured together with the articular disc and in perilunate instability on the ulnar side.",
+    "id": "Stabilisator palmar di sisi ulnar pergelangan tangan. Ligamen ini sering cedera bersama discus articularis dan pada instabilitas perilunatum sisi ulnar."
+   }
+  }
+ },
+ {
+  "key": "ulnopisiform-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum ulnopisiforme",
+  "alt": [
+   "Lig. ulnopisiforme"
+  ],
+  "en": "Ulnopisiform ligament",
+  "desc": {
+   "en": "Band from the lower end of the ulna to the pisiform. Classical texts describe it as the pisiform band of the ulnar collateral ligament of the wrist.",
+   "id": "Pita dari ujung bawah ulna ke os pisiforme. Buku klasik menggambarkannya sebagai pita os pisiforme dari lig. collaterale carpi ulnare."
+  },
+  "facts": {
+   "joint": "radiocarpal-joint",
+   "attach": {
+    "en": "Head of the ulna and the adjoining part of the ulnar styloid process to the proximal ulnar surface of the pisiform.",
+    "id": "Caput ulnae dan bagian processus styloideus ulnae di dekatnya ke permukaan ulnar proksimal os pisiforme."
+   },
+   "function": {
+    "en": "Forms part of the capsule and ligaments of the pisiform joint and helps tie the pisiform to the ulnar side of the wrist. Only a few anatomical studies describe it in detail.",
+    "id": "Membentuk sebagian capsula dan ligamen sendi os pisiforme serta membantu mengikat os pisiforme ke sisi ulnar pergelangan tangan. Hanya sedikit penelitian anatomi yang menggambarkannya secara rinci."
+   }
+  },
+  "verify": true
+ },
+ {
+  "key": "radiate-carpal-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum carpi radiatum",
+  "alt": [
+   "Lig. carpi radiatum",
+   "Ligamentum radiatum carpi"
+  ],
+  "en": "Radiate carpal ligament",
+  "desc": {
+   "en": "Group of bands on the palmar surface of the carpus that fan out from the head of the capitate to the surrounding bones.",
+   "id": "Sekelompok pita pada permukaan palmar carpus yang menyebar seperti kipas dari caput ossis capitati ke tulang-tulang di sekitarnya."
+  },
+  "facts": {
+   "joint": "midcarpal-joint",
+   "attach": {
+    "en": "Palmar surface of the capitate to the scaphoid, lunate and triquetrum; smaller bands reach the neighbouring bones of the distal row.",
+    "id": "Permukaan palmar os capitatum ke os scaphoideum, os lunatum dan os triquetrum; pita-pita yang lebih kecil mencapai tulang baris distal di sebelahnya."
+   },
+   "function": {
+    "en": "Binds the capitate to the proximal row across the palmar side of the midcarpal joint; it lies in the floor of the carpal tunnel.",
+    "id": "Mengikat os capitatum pada tulang baris proksimal di sisi palmar articulatio mediocarpalis; ligamen ini terletak pada dasar canalis carpi."
+   }
+  }
+ },
+ {
+  "key": "dorsal-intercarpal-ligaments",
+  "kind": "ligament",
+  "la": "Ligamenta intercarpalia dorsalia",
+  "alt": [
+   "Ligg. intercarpalia dorsalia",
+   "Ligamenta intercarpea dorsalia",
+   "Ligamentum intercarpale dorsale"
+  ],
+  "en": "Dorsal intercarpal ligaments",
+  "desc": {
+   "en": "Bands on the back of the carpus that join neighbouring carpal bones. The largest runs transversely from the triquetrum to the scaphoid and on to the trapezoid and trapezium; hand surgeons call it the dorsal intercarpal ligament.",
+   "id": "Pita-pita di bagian belakang carpus yang menghubungkan tulang carpal yang bersebelahan. Pita terbesar berjalan melintang dari os triquetrum ke os scaphoideum lalu berlanjut ke os trapezoideum dan os trapezium; ahli bedah tangan menyebutnya dorsal intercarpal ligament."
+  },
+  "facts": {
+   "joint": "intercarpal-joints",
+   "attach": {
+    "en": "Dorsal surfaces of adjacent carpal bones. The main band arises from the dorsal tubercle of the triquetrum, attaches to the lunate in some wrists and inserts on the dorsal groove of the scaphoid, with distal fibres to the trapezoid and trapezium.",
+    "id": "Permukaan dorsal tulang carpal yang bersebelahan. Pita utamanya berasal dari tuberkel dorsal os triquetrum, pada sebagian pergelangan tangan melekat pada os lunatum, dan berinsersio pada alur dorsal os scaphoideum dengan serabut distal ke os trapezoideum dan os trapezium."
+   },
+   "function": {
+    "en": "Hold the carpal bones together from behind. With the dorsal radiocarpal ligament the main band forms a sideways V that steadies the scaphoid and lunate.",
+    "id": "Mengikat tulang-tulang carpal satu sama lain dari belakang. Bersama lig. radiocarpale dorsale, pita utamanya membentuk huruf V mendatar yang menstabilkan os scaphoideum dan os lunatum."
+   }
+  }
+ },
+ {
+  "key": "dorsal-scaphotriquetral-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum scaphotriquetrum dorsale",
+  "alt": [
+   "Lig. scaphotriquetrum dorsale",
+   "Ligamentum intercarpale dorsale"
+  ],
+  "en": "Dorsal scaphotriquetral ligament",
+  "desc": {
+   "en": "Thick proximal part of the dorsal intercarpal ligament, running across the back of the proximal carpal row from the triquetrum to the scaphoid.",
+   "id": "Bagian proksimal ligamen intercarpal dorsal yang tebal, berjalan melintang di belakang tulang carpal baris proksimal dari os triquetrum ke os scaphoideum."
+  },
+  "facts": {
+   "joint": "intercarpal-joints",
+   "attach": {
+    "en": "Dorsal tubercle of the triquetrum to the dorsal groove of the scaphoid, passing over the back of the lunate.",
+    "id": "Tuberkel dorsal os triquetrum ke alur dorsal os scaphoideum, melintas di belakang os lunatum."
+   },
+   "function": {
+    "en": "Binds the scaphoid and triquetrum together across the back of the lunate and is a secondary stabiliser of the scapholunate joint.",
+    "id": "Mengikat os scaphoideum dan os triquetrum di belakang os lunatum dan merupakan stabilisator sekunder sendi antara os scaphoideum dan os lunatum."
+   }
+  }
+ },
+ {
+  "key": "palmar-scaphotriquetral-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum scaphotriquetrum palmare",
+  "alt": [
+   "Lig. scaphotriquetrum palmare",
+   "Ligamentum intercarpale palmare"
+  ],
+  "en": "Palmar scaphotriquetral ligament",
+  "desc": {
+   "en": "Band on the palmar side of the midcarpal joint that runs from the triquetrum to the scaphoid, in front of the head of the capitate.",
+   "id": "Pita di sisi palmar articulatio mediocarpalis yang berjalan dari os triquetrum ke os scaphoideum, di depan caput ossis capitati."
+  },
+  "facts": {
+   "joint": "midcarpal-joint",
+   "attach": {
+    "en": "A substantial band from the palmar surface of the triquetrum to a thin, fan-shaped attachment on the scaphoid, where its fibres interlace with those of the radioscaphocapitate ligament.",
+    "id": "Pita yang cukup tebal dari permukaan palmar os triquetrum ke perlekatan tipis berbentuk kipas pada os scaphoideum, tempat serabutnya bertaut dengan serabut lig. radioscaphocapitatum."
+   },
+   "function": {
+    "en": "Its role in carpal stability has not been studied in detail; it probably supports the head of the capitate when the wrist is extended.",
+    "id": "Perannya dalam kestabilan carpus belum diteliti secara rinci; ligamen ini diduga menopang caput ossis capitati saat pergelangan tangan ekstensi."
+   }
+  }
+ },
+ {
+  "key": "scapholunate-interosseous-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum scapholunatum interosseum",
+  "alt": [
+   "Lig. scapholunatum interosseum",
+   "Ligamentum scapholunatum",
+   "Lig. scapholunatum",
+   "Ligamentum intercarpale interosseum"
+  ],
+  "en": "Scapholunate interosseous ligament",
+  "desc": {
+   "en": "C-shaped ligament that joins the scaphoid to the lunate along their dorsal, proximal and palmar edges. It closes the gap between the two bones, separating the wrist joint from the midcarpal joint.",
+   "id": "Ligamen berbentuk huruf C yang menghubungkan os scaphoideum dengan os lunatum di sepanjang tepi dorsal, proksimal dan palmarnya. Ligamen ini menutup celah di antara kedua tulang sehingga sendi pergelangan tangan terpisah dari articulatio mediocarpalis."
+  },
+  "facts": {
+   "joint": "intercarpal-joints",
+   "attach": {
+    "en": "Facing margins of the scaphoid and lunate, except their distal edges. The dorsal part is the thickest and strongest; the proximal part is thin and fibrocartilaginous.",
+    "id": "Tepi os scaphoideum dan os lunatum yang saling berhadapan, kecuali tepi distalnya. Bagian dorsal paling tebal dan kuat; bagian proksimal tipis dan bersifat fibrocartilago."
+   },
+   "function": {
+    "en": "Main stabiliser between the scaphoid and lunate. It ties the scaphoid, which tends to flex, to the lunate, which tends to extend, so that the proximal row moves as a balanced unit.",
+    "id": "Stabilisator utama antara os scaphoideum dan os lunatum. Ligamen ini mengikat os scaphoideum yang cenderung fleksi dengan os lunatum yang cenderung ekstensi, sehingga baris proksimal bergerak sebagai satu kesatuan yang seimbang."
+   },
+   "clinical": {
+    "en": "Its tear is the most common cause of carpal instability. The gap between the scaphoid and lunate widens on a radiograph (more than about 3 mm), the lunate tilts dorsally (DISI), and without treatment arthritis follows (SLAC wrist).",
+    "id": "Robekannya merupakan penyebab instabilitas carpus yang paling sering. Celah antara os scaphoideum dan os lunatum tampak melebar pada foto rontgen (lebih dari sekitar 3 mm), os lunatum miring ke dorsal (DISI), dan tanpa terapi timbul artritis (SLAC wrist)."
+   }
+  }
+ },
+ {
+  "key": "lunotriquetral-interosseous-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum lunotriquetrum interosseum",
+  "alt": [
+   "Lig. lunotriquetrum interosseum",
+   "Ligamentum lunotriquetrum",
+   "Lig. lunotriquetrum",
+   "Ligamentum intercarpale interosseum"
+  ],
+  "en": "Lunotriquetral interosseous ligament",
+  "desc": {
+   "en": "Horseshoe-shaped ligament that joins the lunate to the triquetrum along their dorsal, proximal and palmar edges, closing the gap between them toward the midcarpal joint.",
+   "id": "Ligamen berbentuk tapal kuda yang menghubungkan os lunatum dengan os triquetrum di sepanjang tepi dorsal, proksimal dan palmarnya, sehingga menutup celah di antara keduanya ke arah articulatio mediocarpalis."
+  },
+  "facts": {
+   "joint": "intercarpal-joints",
+   "attach": {
+    "en": "Facing margins of the lunate and triquetrum, except their distal edges. Its palmar part is the thickest and strongest.",
+    "id": "Tepi os lunatum dan os triquetrum yang saling berhadapan, kecuali tepi distalnya. Bagian palmarnya paling tebal dan kuat."
+   },
+   "function": {
+    "en": "Binds the triquetrum to the lunate so that the two bones move together.",
+    "id": "Mengikat os triquetrum pada os lunatum sehingga kedua tulang bergerak bersama."
+   },
+   "clinical": {
+    "en": "A tear causes pain on the ulnar side of the wrist; if the dorsal ligaments are also damaged, the lunate tilts toward the palm (VISI).",
+    "id": "Robekannya menimbulkan nyeri di sisi ulnar pergelangan tangan; bila ligamen dorsal juga rusak, os lunatum miring ke arah palmar (VISI)."
+   }
+  }
+ },
+ {
+  "key": "palmar-lunotriquetral-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum lunotriquetrum palmare",
+  "alt": [
+   "Lig. lunotriquetrum palmare",
+   "Ligamentum intercarpale palmare"
+  ],
+  "en": "Palmar lunotriquetral ligament",
+  "desc": {
+   "en": "Short band on the palmar side of the joint between the lunate and triquetrum. It is the thick palmar part of the lunotriquetral ligament complex.",
+   "id": "Pita pendek di sisi palmar sendi antara os lunatum dan os triquetrum. Pita ini merupakan bagian palmar kompleks lig. lunotriquetrum yang tebal."
+  },
+  "facts": {
+   "joint": "intercarpal-joints",
+   "attach": {
+    "en": "Palmar surfaces of the lunate and triquetrum; the ulnocapitate ligament runs over it and reinforces it.",
+    "id": "Permukaan palmar os lunatum dan os triquetrum; lig. ulnocapitatum berjalan di atasnya dan memperkuatnya."
+   },
+   "function": {
+    "en": "Strongest part of the bond between the lunate and triquetrum.",
+    "id": "Bagian terkuat dari ikatan antara os lunatum dan os triquetrum."
+   }
+  }
+ },
+ {
+  "key": "scaphocapitate-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum scaphocapitatum",
+  "alt": [
+   "Lig. scaphocapitatum",
+   "Ligamentum intercarpale palmare"
+  ],
+  "en": "Scaphocapitate ligament",
+  "desc": {
+   "en": "Palmar ligament of the midcarpal joint from the distal part of the scaphoid to the capitate. It is the radial counterpart of the triquetrocapitate ligament.",
+   "id": "Ligamen palmar articulatio mediocarpalis dari bagian distal os scaphoideum ke os capitatum. Ligamen ini merupakan pasangan sisi radial dari lig. triquetrocapitatum."
+  },
+  "facts": {
+   "joint": "midcarpal-joint",
+   "attach": {
+    "en": "Palmar surface of the distal pole of the scaphoid to the palmar surface of the body of the capitate, beside the radioscaphocapitate ligament.",
+    "id": "Permukaan palmar kutub distal os scaphoideum ke permukaan palmar badan os capitatum, di samping lig. radioscaphocapitatum."
+   },
+   "function": {
+    "en": "With the scaphotrapeziotrapezoidal ligament it steadies the distal pole of the scaphoid on the distal row and stabilises the radial side of the midcarpal joint.",
+    "id": "Bersama lig. scaphotrapeziotrapezoideum, ligamen ini menstabilkan kutub distal os scaphoideum terhadap baris distal dan menjaga kestabilan sisi radial articulatio mediocarpalis."
+   }
+  }
+ },
+ {
+  "key": "scaphotrapeziotrapezoidal-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum scaphotrapeziotrapezoideum",
+  "alt": [
+   "Lig. scaphotrapeziotrapezoideum",
+   "Ligamentum intercarpale palmare"
+  ],
+  "en": "Scaphotrapeziotrapezoidal (STT) ligament",
+  "desc": {
+   "en": "Fan-shaped ligament on the palmar and radial side of the wrist that ties the distal pole of the scaphoid to the trapezium and trapezoid.",
+   "id": "Ligamen berbentuk kipas di sisi palmar dan radial pergelangan tangan yang mengikat kutub distal os scaphoideum ke os trapezium dan os trapezoideum."
+  },
+  "facts": {
+   "joint": "midcarpal-joint",
+   "attach": {
+    "en": "Palmar surface of the distal pole of the scaphoid, around its tubercle, to the trapezium and the trapezoid.",
+    "id": "Permukaan palmar kutub distal os scaphoideum, di sekitar tuberculum ossis scaphoidei, ke os trapezium dan os trapezoideum."
+   },
+   "function": {
+    "en": "A main stabiliser of the distal pole of the scaphoid; it limits flexion of the scaphoid.",
+    "id": "Salah satu stabilisator utama kutub distal os scaphoideum; ligamen ini membatasi fleksi os scaphoideum."
+   }
+  }
+ },
+ {
+  "key": "triquetrocapitate-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum triquetrocapitatum",
+  "alt": [
+   "Lig. triquetrocapitatum",
+   "Ligamentum intercarpale palmare"
+  ],
+  "en": "Triquetrocapitate ligament",
+  "desc": {
+   "en": "Palmar ligament of the midcarpal joint that runs obliquely from the triquetrum to the capitate. With the triquetrohamate ligament it forms the ulnar limb of the arcuate ligament.",
+   "id": "Ligamen palmar articulatio mediocarpalis yang berjalan miring dari os triquetrum ke os capitatum. Bersama lig. triquetrohamatum, ligamen ini membentuk lengan ulnar ligamen arkuata."
+  },
+  "facts": {
+   "joint": "midcarpal-joint",
+   "attach": {
+    "en": "Distal radial corner of the palmar surface of the triquetrum to the ulnar side of the capitate; it is often continuous with the ulnocapitate ligament.",
+    "id": "Sudut distal radial permukaan palmar os triquetrum ke sisi ulnar os capitatum; ligamen ini sering bersambung dengan lig. ulnocapitatum."
+   },
+   "function": {
+    "en": "Stabilises the ulnar side of the midcarpal joint and, through the arcuate ligament, indirectly the lunate. Weakness of this ligament complex gives palmar midcarpal instability, felt as a painful clunk when the wrist moves into ulnar deviation.",
+    "id": "Menstabilkan sisi ulnar articulatio mediocarpalis dan, melalui ligamen arkuata, secara tidak langsung juga os lunatum. Kelemahan kompleks ligamen ini menimbulkan instabilitas mediocarpal palmar, yang terasa sebagai bunyi 'klunk' disertai nyeri saat pergelangan tangan bergerak ke deviasi ulnar."
+   }
+  }
+ },
+ {
+  "key": "triquetrohamate-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum triquetrohamatum",
+  "alt": [
+   "Lig. triquetrohamatum",
+   "Ligamentum intercarpale palmare"
+  ],
+  "en": "Triquetrohamate ligament",
+  "desc": {
+   "en": "Palmar ligament of the midcarpal joint between the triquetrum and the hamate, lying on the ulnar side of the triquetrocapitate ligament.",
+   "id": "Ligamen palmar articulatio mediocarpalis di antara os triquetrum dan os hamatum, terletak di sisi ulnar lig. triquetrocapitatum."
+  },
+  "facts": {
+   "joint": "midcarpal-joint",
+   "attach": {
+    "en": "Distal margin of the palmar surface of the triquetrum to the palmar surface of the hamate; a weaker dorsal band is sometimes present.",
+    "id": "Tepi distal permukaan palmar os triquetrum ke permukaan palmar os hamatum; kadang terdapat pita dorsal yang lebih lemah."
+   },
+   "function": {
+    "en": "Resists flexion between the triquetrum and hamate. With the triquetrocapitate ligament it forms the ulnar limb of the arcuate ligament.",
+    "id": "Menahan fleksi antara os triquetrum dan os hamatum. Bersama lig. triquetrocapitatum, ligamen ini membentuk lengan ulnar ligamen arkuata."
+   }
+  }
+ },
+ {
+  "key": "palmar-capitohamate-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum capitohamatum palmare",
+  "alt": [
+   "Lig. capitohamatum palmare",
+   "Ligamentum intercarpale palmare"
+  ],
+  "en": "Palmar capitohamate ligament",
+  "desc": {
+   "en": "Short transverse band that joins the palmar surfaces of the capitate and hamate in the distal carpal row.",
+   "id": "Pita pendek melintang yang menghubungkan permukaan palmar os capitatum dan os hamatum pada baris distal carpus."
+  },
+  "facts": {
+   "joint": "intercarpal-joints",
+   "attach": {
+    "en": "Palmar surface of the capitate to the palmar surface of the body of the hamate.",
+    "id": "Permukaan palmar os capitatum ke permukaan palmar badan os hamatum."
+   },
+   "function": {
+    "en": "Binds the capitate and hamate from the palmar side and forms part of the floor of the carpal tunnel.",
+    "id": "Mengikat os capitatum dan os hamatum dari sisi palmar dan membentuk sebagian dasar canalis carpi."
+   }
+  }
+ },
+ {
+  "key": "palmar-trapezoideocapitate-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum trapezoideocapitatum palmare",
+  "alt": [
+   "Lig. trapezoideocapitatum palmare",
+   "Ligamentum intercarpale palmare"
+  ],
+  "en": "Palmar trapezoideocapitate ligament",
+  "desc": {
+   "en": "Short transverse band that joins the palmar surfaces of the trapezoid and capitate in the distal carpal row.",
+   "id": "Pita pendek melintang yang menghubungkan permukaan palmar os trapezoideum dan os capitatum pada baris distal carpus."
+  },
+  "facts": {
+   "joint": "intercarpal-joints",
+   "attach": {
+    "en": "Palmar surface of the trapezoid to the palmar surface of the capitate.",
+    "id": "Permukaan palmar os trapezoideum ke permukaan palmar os capitatum."
+   },
+   "function": {
+    "en": "Binds the trapezoid and capitate from the palmar side. With the other ligaments of the distal row it makes this row move almost as a single unit.",
+    "id": "Mengikat os trapezoideum dan os capitatum dari sisi palmar. Bersama ligamen baris distal lainnya, ligamen ini membuat baris tersebut bergerak hampir sebagai satu kesatuan."
+   }
+  }
+ },
+ {
+  "key": "capitohamate-interosseous-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum capitohamatum interosseum",
+  "alt": [
+   "Lig. capitohamatum interosseum",
+   "Ligamentum capitohamatum",
+   "Ligamentum intercarpale interosseum"
+  ],
+  "en": "Capitohamate interosseous ligament",
+  "desc": {
+   "en": "Short, strong fibres between the facing non-articular surfaces of the capitate and hamate, deep within the distal carpal row.",
+   "id": "Serabut pendek dan kuat di antara permukaan os capitatum dan os hamatum yang saling berhadapan dan tidak berlapis rawan sendi, jauh di dalam baris distal carpus."
+  },
+  "facts": {
+   "joint": "intercarpal-joints",
+   "attach": {
+    "en": "Rough adjacent surfaces of the capitate and hamate.",
+    "id": "Permukaan kasar os capitatum dan os hamatum yang saling berhadapan."
+   },
+   "function": {
+    "en": "Main bond between the capitate and hamate. With the other interosseous ligaments of the distal row it keeps that row nearly rigid.",
+    "id": "Pengikat utama antara os capitatum dan os hamatum. Bersama ligamenta interossea baris distal lainnya, ligamen ini membuat baris tersebut hampir kaku."
+   }
+  }
+ },
+ {
+  "key": "trapeziotrapezoidal-interosseous-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum trapeziotrapezoideum interosseum",
+  "alt": [
+   "Lig. trapeziotrapezoideum interosseum",
+   "Ligamentum trapeziotrapezoideum",
+   "Ligamentum intercarpale interosseum"
+  ],
+  "en": "Trapeziotrapezoidal interosseous ligament",
+  "desc": {
+   "en": "Short fibres between the facing non-articular surfaces of the trapezium and trapezoid, at the radial end of the distal carpal row.",
+   "id": "Serabut pendek di antara permukaan os trapezium dan os trapezoideum yang saling berhadapan dan tidak berlapis rawan sendi, di ujung radial baris distal carpus."
+  },
+  "facts": {
+   "joint": "intercarpal-joints",
+   "attach": {
+    "en": "Rough adjacent surfaces of the trapezium and trapezoid.",
+    "id": "Permukaan kasar os trapezium dan os trapezoideum yang saling berhadapan."
+   },
+   "function": {
+    "en": "Binds the trapezium to the trapezoid and steadies the trapezium, on which the first metacarpal moves.",
+    "id": "Mengikat os trapezium pada os trapezoideum dan menstabilkan os trapezium, tempat os metacarpi I bergerak."
+   }
+  }
+ },
+ {
+  "key": "trapezoideocapitate-interosseous-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum trapezoideocapitatum interosseum",
+  "alt": [
+   "Lig. trapezoideocapitatum interosseum",
+   "Ligamentum trapezoideocapitatum",
+   "Ligamentum intercarpale interosseum"
+  ],
+  "en": "Trapezoideocapitate interosseous ligament",
+  "desc": {
+   "en": "Short fibres between the facing non-articular surfaces of the trapezoid and capitate in the distal carpal row.",
+   "id": "Serabut pendek di antara permukaan os trapezoideum dan os capitatum yang saling berhadapan dan tidak berlapis rawan sendi, pada baris distal carpus."
+  },
+  "facts": {
+   "joint": "intercarpal-joints",
+   "attach": {
+    "en": "Rough adjacent surfaces of the trapezoid and capitate.",
+    "id": "Permukaan kasar os trapezoideum dan os capitatum yang saling berhadapan."
+   },
+   "function": {
+    "en": "Binds the trapezoid to the capitate. These two bones carry the second and third metacarpals, the most rigid part of the hand.",
+    "id": "Mengikat os trapezoideum pada os capitatum. Kedua tulang ini menopang os metacarpi II dan III, bagian tangan yang paling kaku."
+   }
+  }
+ },
+ {
+  "key": "pisohamate-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum pisohamatum",
+  "alt": [
+   "Lig. pisohamatum"
+  ],
+  "en": "Pisohamate ligament",
+  "desc": {
+   "en": "Strong band from the pisiform to the hook of the hamate. It is one of the two distal continuations of the flexor carpi ulnaris tendon, in which the pisiform lies as a sesamoid bone.",
+   "id": "Pita kuat dari os pisiforme ke hamulus ossis hamati. Ligamen ini merupakan salah satu dari dua lanjutan distal tendo m. flexor carpi ulnaris, tempat os pisiforme terletak sebagai os sesamoideum."
+  },
+  "facts": {
+   "joint": "intercarpal-joints",
+   "attach": {
+    "en": "Palmar distal part of the pisiform to the hook of the hamate.",
+    "id": "Bagian distal palmar os pisiforme ke hamulus ossis hamati."
+   },
+   "function": {
+    "en": "Passes the pull of flexor carpi ulnaris on to the hamate and holds the pisiform in place. It forms part of the floor of the ulnar canal (Guyon's canal), through which the ulnar nerve and artery pass.",
+    "id": "Meneruskan tarikan m. flexor carpi ulnaris ke os hamatum dan menahan os pisiforme di tempatnya. Ligamen ini membentuk sebagian dasar canalis ulnaris (kanal Guyon) yang dilalui n. ulnaris dan a. ulnaris."
+   }
+  }
+ },
+ {
+  "key": "pisometacarpal-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum pisometacarpale",
+  "alt": [
+   "Lig. pisometacarpale",
+   "Ligamentum pisometacarpeum"
+  ],
+  "en": "Pisometacarpal ligament",
+  "desc": {
+   "en": "Band from the pisiform to the base of the fifth metacarpal, the second distal continuation of the flexor carpi ulnaris tendon.",
+   "id": "Pita dari os pisiforme ke basis os metacarpi V, yaitu lanjutan distal kedua tendo m. flexor carpi ulnaris."
+  },
+  "facts": {
+   "joint": "intercarpal-joints",
+   "attach": {
+    "en": "Palmar distal part of the pisiform to the base of the fifth metacarpal, passing along the ulnar side of the hook of the hamate.",
+    "id": "Bagian distal palmar os pisiforme ke basis os metacarpi V, melintas di sisi ulnar hamulus ossis hamati."
+   },
+   "function": {
+    "en": "Carries the pull of flexor carpi ulnaris to the fifth metacarpal, so the muscle acts across the wrist even though its tendon ends on the pisiform. Abductor digiti minimi takes part of its origin from the pisiform and this ligament.",
+    "id": "Meneruskan tarikan m. flexor carpi ulnaris ke os metacarpi V, sehingga otot ini bekerja melintasi pergelangan tangan walaupun tendonya berakhir pada os pisiforme. Sebagian origo m. abductor digiti minimi berasal dari os pisiforme dan ligamen ini."
+   }
+  }
+ },
+ {
+  "key": "pisotriquetral-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum pisotriquetrum",
+  "alt": [
+   "Lig. pisotriquetrum"
+  ],
+  "en": "Pisotriquetral ligament",
+  "desc": {
+   "en": "Short fibres around the small joint between the pisiform and the triquetrum (pisiform joint) that reinforce its thin capsule.",
+   "id": "Serabut pendek yang mengelilingi sendi kecil antara os pisiforme dan os triquetrum (articulatio ossis pisiformis) dan memperkuat capsula-nya yang tipis."
+  },
+  "facts": {
+   "joint": "intercarpal-joints",
+   "attach": {
+    "en": "Dorsal part of the pisiform to the triquetrum, wrapping around the radial and ulnar edges of the pisiform's articular facet.",
+    "id": "Bagian dorsal os pisiforme ke os triquetrum, melingkupi tepi radial dan ulnar facies articularis os pisiforme."
+   },
+   "function": {
+    "en": "With the pisohamate and pisometacarpal ligaments it holds the pisiform on the triquetrum against the pull of flexor carpi ulnaris.",
+    "id": "Bersama lig. pisohamatum dan lig. pisometacarpale, ligamen ini menahan os pisiforme pada os triquetrum terhadap tarikan m. flexor carpi ulnaris."
+   }
+  }
+ },
+ {
+  "key": "dorsal-carpometacarpal-ligaments",
+  "kind": "ligament",
+  "la": "Ligamenta carpometacarpalia dorsalia",
+  "alt": [
+   "Ligg. carpometacarpalia dorsalia",
+   "Ligamenta carpometacarpea dorsalia",
+   "Ligamentum carpometacarpale dorsale"
+  ],
+  "en": "Dorsal carpometacarpal ligaments",
+  "desc": {
+   "en": "Short, strong bands on the back of the hand from the distal carpal bones to the bases of the second to fifth metacarpals. They are the strongest of the carpometacarpal ligaments.",
+   "id": "Pita-pita pendek dan kuat di punggung tangan dari tulang carpal baris distal ke basis os metacarpi II sampai V. Ligamen ini paling kuat di antara ligamenta carpometacarpalia."
+  },
+  "facts": {
+   "joint": "carpometacarpal-joints",
+   "attach": {
+    "en": "The second metacarpal receives bands from the trapezium and trapezoid, the third from the trapezoid and capitate, the fourth from the capitate and hamate, and the fifth a single band from the hamate.",
+    "id": "Os metacarpi II menerima pita dari os trapezium dan os trapezoideum, os metacarpi III dari os trapezoideum dan os capitatum, os metacarpi IV dari os capitatum dan os hamatum, dan os metacarpi V satu pita dari os hamatum."
+   },
+   "function": {
+    "en": "Bind the distal carpal row to the metacarpal bases. They hold the second and third metacarpals almost fixed, while the fourth and fifth keep some movement for cupping the palm.",
+    "id": "Mengikat tulang carpal baris distal pada basis ossa metacarpi. Ligamen ini menahan os metacarpi II dan III hampir tidak bergerak, sedangkan os metacarpi IV dan V masih dapat bergerak sedikit untuk mencekungkan telapak tangan."
+   }
+  }
+ },
+ {
+  "key": "palmar-carpometacarpal-ligaments",
+  "kind": "ligament",
+  "la": "Ligamenta carpometacarpalia palmaria",
+  "alt": [
+   "Ligg. carpometacarpalia palmaria",
+   "Ligamenta carpometacarpea palmaria",
+   "Ligamentum carpometacarpale palmare"
+  ],
+  "en": "Palmar carpometacarpal ligaments",
+  "desc": {
+   "en": "Bands on the palmar side of the hand from the distal carpal bones to the bases of the second to fifth metacarpals, arranged much like the dorsal ligaments.",
+   "id": "Pita-pita di sisi palmar tangan dari tulang carpal baris distal ke basis os metacarpi II sampai V, dengan susunan yang mirip ligamenta carpometacarpalia dorsalia."
+  },
+  "facts": {
+   "joint": "carpometacarpal-joints",
+   "attach": {
+    "en": "Palmar surfaces of the distal carpal bones to the palmar surfaces of the metacarpal bases. The third metacarpal receives three bands, from the trapezium, the capitate and the hamate.",
+    "id": "Permukaan palmar tulang carpal baris distal ke permukaan palmar basis ossa metacarpi. Os metacarpi III menerima tiga pita, dari os trapezium, os capitatum dan os hamatum."
+   },
+   "function": {
+    "en": "Reinforce the carpometacarpal joints on the palmar side; they are weaker than the dorsal ligaments.",
+    "id": "Memperkuat articulationes carpometacarpales di sisi palmar; ligamen ini lebih lemah daripada ligamenta dorsalia."
+   }
+  }
+ },
+ {
+  "key": "dorsal-metacarpal-ligaments",
+  "kind": "ligament",
+  "la": "Ligamenta metacarpalia dorsalia",
+  "alt": [
+   "Ligg. metacarpalia dorsalia",
+   "Ligamenta metacarpea dorsalia",
+   "Ligamentum metacarpale dorsale"
+  ],
+  "en": "Dorsal metacarpal ligaments",
+  "desc": {
+   "en": "Short transverse bands on the back of the hand that join the bases of adjacent metacarpals II to V.",
+   "id": "Pita-pita pendek melintang di punggung tangan yang menghubungkan basis os metacarpi II sampai V yang bersebelahan."
+  },
+  "facts": {
+   "joint": "intermetacarpal-joints",
+   "attach": {
+    "en": "Dorsal surfaces of the bases of neighbouring metacarpals.",
+    "id": "Permukaan dorsal basis os metacarpi yang bersebelahan."
+   },
+   "function": {
+    "en": "Bind the metacarpal bases together from behind and reinforce the small intermetacarpal joints.",
+    "id": "Mengikat basis ossa metacarpi satu sama lain dari belakang dan memperkuat articulationes intermetacarpales yang kecil."
+   }
+  }
+ },
+ {
+  "key": "palmar-metacarpal-ligaments",
+  "kind": "ligament",
+  "la": "Ligamenta metacarpalia palmaria",
+  "alt": [
+   "Ligg. metacarpalia palmaria",
+   "Ligamenta metacarpea palmaria",
+   "Ligamentum metacarpale palmare"
+  ],
+  "en": "Palmar metacarpal ligaments",
+  "desc": {
+   "en": "Short transverse bands on the palmar side of the hand that join the bases of adjacent metacarpals II to V.",
+   "id": "Pita-pita pendek melintang di sisi palmar tangan yang menghubungkan basis os metacarpi II sampai V yang bersebelahan."
+  },
+  "facts": {
+   "joint": "intermetacarpal-joints",
+   "attach": {
+    "en": "Palmar surfaces of the bases of neighbouring metacarpals.",
+    "id": "Permukaan palmar basis os metacarpi yang bersebelahan."
+   },
+   "function": {
+    "en": "Bind the metacarpal bases together from the palmar side.",
+    "id": "Mengikat basis ossa metacarpi satu sama lain dari sisi palmar."
+   }
+  }
+ },
+ {
+  "key": "interosseous-metacarpal-ligaments",
+  "kind": "ligament",
+  "la": "Ligamenta metacarpalia interossea",
+  "alt": [
+   "Ligg. metacarpalia interossea",
+   "Ligamenta metacarpea interossea",
+   "Ligamentum metacarpale interosseum"
+  ],
+  "en": "Interosseous metacarpal ligaments",
+  "desc": {
+   "en": "Strong short fibres between the facing sides of adjacent metacarpal bases, just distal to their small articular facets.",
+   "id": "Serabut pendek yang kuat di antara sisi basis os metacarpi bersebelahan yang saling berhadapan, tepat di distal faset sendinya yang kecil."
+  },
+  "facts": {
+   "joint": "intermetacarpal-joints",
+   "attach": {
+    "en": "Rough adjacent surfaces of the bases of metacarpals II to V.",
+    "id": "Permukaan kasar yang saling berhadapan pada basis os metacarpi II sampai V."
+   },
+   "function": {
+    "en": "Main bond between the metacarpal bases.",
+    "id": "Pengikat utama antar-basis ossa metacarpi."
+   }
+  }
+ },
+ {
+  "key": "articular-capsules-of-metacarpophalangeal-joints",
+  "kind": "membrane",
+  "la": "Capsulae articulares articulationum metacarpophalangearum",
+  "alt": [
+   "Capsula articularis articulationis metacarpophalangeae",
+   "Capsula articularis",
+   "Capsulae articulares"
+  ],
+  "en": "Articular capsules of metacarpophalangeal joints",
+  "desc": {
+   "en": "Loose fibrous capsules around each metacarpophalangeal joint, at the knuckles.",
+   "id": "Capsula fibrosa yang longgar di sekeliling setiap articulatio metacarpophalangea, di daerah buku-buku jari."
+  },
+  "facts": {
+   "joint": "metacarpophalangeal-joints",
+   "attach": {
+    "en": "Margins of the head of the metacarpal and the base of the proximal phalanx. The sides are thickened by the collateral ligaments and the palmar side by the palmar ligament (palmar plate).",
+    "id": "Tepi caput os metacarpi dan basis phalanx proximalis. Sisi-sisinya menebal oleh ligamenta collateralia dan sisi palmarnya oleh lig. palmare (lempeng palmar)."
+   },
+   "function": {
+    "en": "Enclose the joints. On the dorsal side the capsule is thin and is covered and reinforced by the extensor expansion.",
+    "id": "Membungkus sendi. Di sisi dorsal capsula tipis serta ditutupi dan diperkuat oleh aponeurosis dorsalis (extensor expansion)."
+   },
+   "clinical": {
+    "en": "In rheumatoid arthritis the synovium of these joints swells early, and the stretched capsules and ligaments let the fingers drift toward the ulnar side.",
+    "id": "Pada artritis reumatoid, membrana synovialis sendi ini membengkak sejak awal, dan capsula serta ligamen yang teregang membuat jari-jari bergeser ke arah ulnar (deviasi ulnar)."
+   }
+  }
+ },
+ {
+  "key": "collateral-metacarpophalangeal-ligaments",
+  "kind": "ligament",
+  "la": "Ligamenta collateralia articulationum metacarpophalangearum",
+  "alt": [
+   "Ligamenta collateralia",
+   "Ligg. collateralia",
+   "Ligamenta metacarpophalangea collateralia",
+   "Ligamentum collaterale"
+  ],
+  "en": "Collateral ligaments of metacarpophalangeal joints",
+  "desc": {
+   "en": "Strong cords on each side of every metacarpophalangeal joint, running obliquely distally and toward the palm from the metacarpal head to the proximal phalanx.",
+   "id": "Tali-tali kuat di kedua sisi setiap articulatio metacarpophalangea, berjalan miring ke distal dan ke arah palmar dari caput os metacarpi ke phalanx proximalis."
+  },
+  "facts": {
+   "joint": "metacarpophalangeal-joints",
+   "attach": {
+    "en": "Tubercle and pit on the side of the metacarpal head, dorsal to its centre, to the side of the base of the proximal phalanx; an accessory fan-shaped part reaches the palmar plate.",
+    "id": "Tuberculum dan cekungan pada sisi caput os metacarpi, di dorsal titik pusatnya, ke sisi basis phalanx proximalis; bagian aksesorius yang berbentuk kipas mencapai lempeng palmar."
+   },
+   "function": {
+    "en": "Limit sideways movement. The metacarpal head is wider on its palmar side and the ligaments attach dorsal to its centre, so they are slack in extension and tight in flexion; the fingers can therefore be spread only when these joints are extended.",
+    "id": "Membatasi gerak ke samping. Caput os metacarpi lebih lebar di sisi palmar dan ligamen melekat di dorsal titik pusatnya, sehingga ligamen kendur saat ekstensi dan tegang saat fleksi; karena itu jari-jari hanya dapat diregangkan bila sendi ini dalam posisi ekstensi."
+   },
+   "clinical": {
+    "en": "A hand that must be immobilised is splinted with these joints flexed, so the ligaments stay long and do not stiffen. A tear of the ulnar collateral ligament of the thumb is skier's (gamekeeper's) thumb.",
+    "id": "Tangan yang harus diimobilisasi dibidai dengan sendi ini dalam posisi fleksi agar ligamen tetap panjang dan tidak menjadi kaku. Robekan ligamentum collaterale ulnare ibu jari disebut skier's thumb (gamekeeper's thumb)."
+   }
+  }
+ },
+ {
+  "key": "deep-transverse-metacarpal-ligament",
+  "kind": "ligament",
+  "la": "Ligamentum metacarpale transversum profundum",
+  "alt": [
+   "Lig. metacarpale transversum profundum",
+   "Ligamenta metacarpalia transversa profunda",
+   "Ligamentum metacarpeum transversum profundum"
+  ],
+  "en": "Deep transverse metacarpal ligament",
+  "desc": {
+   "en": "Three short bands that join the palmar ligaments (plates) of the metacarpophalangeal joints of fingers II to V. The thumb is not included, so the first metacarpal stays free to move.",
+   "id": "Tiga pita pendek yang menghubungkan ligamenta palmaria (lempeng palmar) articulatio metacarpophalangea jari II sampai V. Ibu jari tidak termasuk, sehingga os metacarpi I tetap bebas bergerak."
+  },
+  "facts": {
+   "joint": "metacarpophalangeal-joints",
+   "attach": {
+    "en": "Palmar plates of adjacent metacarpophalangeal joints of digits II to V, across the palmar surfaces of the metacarpal heads.",
+    "id": "Lempeng palmar articulatio metacarpophalangea yang bersebelahan pada jari II sampai V, melintang di permukaan palmar capita ossium metacarpi."
+   },
+   "function": {
+    "en": "Ties the heads of metacarpals II to V together and limits their spreading. The interossei pass dorsal to it, while the lumbricals and the digital vessels and nerves pass palmar to it.",
+    "id": "Mengikat capita ossium metacarpi II sampai V satu sama lain dan membatasi pelebarannya. Mm. interossei lewat di dorsalnya, sedangkan mm. lumbricales serta vasa dan nervi digitales lewat di palmarnya."
+   }
+  }
+ },
+ {
+  "key": "articular-capsules-of-proximal-interphalangeal-joints",
+  "kind": "membrane",
+  "la": "Capsulae articulares articulationum interphalangearum proximalium manus",
+  "alt": [
+   "Capsula articularis articulationis interphalangeae proximalis",
+   "Capsula articularis",
+   "Capsulae articulares"
+  ],
+  "en": "Articular capsules of proximal interphalangeal joints of hand",
+  "desc": {
+   "en": "Fibrous capsules of the joints between the proximal and middle phalanges of fingers II to V.",
+   "id": "Capsula fibrosa sendi-sendi antara phalanx proximalis dan phalanx media jari tangan II sampai V."
+  },
+  "facts": {
+   "joint": "interphalangeal-joints-of-hand",
+   "attach": {
+    "en": "Margins of the head of the proximal phalanx and the base of the middle phalanx; reinforced at the sides by the collateral ligaments and on the palmar side by the palmar ligament.",
+    "id": "Tepi caput phalanx proximalis dan basis phalanx media; diperkuat di kedua sisi oleh ligamenta collateralia dan di sisi palmar oleh lig. palmare."
+   },
+   "function": {
+    "en": "Enclose the joints. On the dorsal side the central slip of the extensor expansion covers the capsule and inserts on the base of the middle phalanx.",
+    "id": "Membungkus sendi. Di sisi dorsal, pita tengah (central slip) aponeurosis dorsalis menutupi capsula dan berinsersio pada basis phalanx media."
+   },
+   "clinical": {
+    "en": "Rupture of the central slip lets the joint push up through the extensor hood, giving a boutonniere deformity. Bony swellings of these joints in osteoarthritis are Bouchard nodes.",
+    "id": "Putusnya central slip membuat sendi menonjol melalui aponeurosis dorsalis sehingga timbul deformitas boutonniere. Benjolan tulang pada sendi ini akibat osteoartritis disebut nodus Bouchard."
+   }
+  }
+ },
+ {
+  "key": "articular-capsules-of-distal-interphalangeal-joints",
+  "kind": "membrane",
+  "la": "Capsulae articulares articulationum interphalangearum distalium manus",
+  "alt": [
+   "Capsula articularis articulationis interphalangeae distalis",
+   "Capsula articularis",
+   "Capsulae articulares"
+  ],
+  "en": "Articular capsules of distal interphalangeal joints of hand",
+  "desc": {
+   "en": "Fibrous capsules of the joints between the middle and distal phalanges of fingers II to V. The single interphalangeal joint of the thumb has a similar capsule.",
+   "id": "Capsula fibrosa sendi-sendi antara phalanx media dan phalanx distalis jari tangan II sampai V. Satu-satunya articulatio interphalangea ibu jari memiliki capsula yang serupa."
+  },
+  "facts": {
+   "joint": "interphalangeal-joints-of-hand",
+   "attach": {
+    "en": "Margins of the head of the middle phalanx and the base of the distal phalanx; reinforced by the collateral and palmar ligaments.",
+    "id": "Tepi caput phalanx media dan basis phalanx distalis; diperkuat oleh ligamenta collateralia dan palmaria."
+   },
+   "function": {
+    "en": "Enclose the joints. The terminal tendon of the extensor expansion covers the dorsal side and inserts on the base of the distal phalanx.",
+    "id": "Membungkus sendi. Tendo terminal aponeurosis dorsalis menutupi sisi dorsal dan berinsersio pada basis phalanx distalis."
+   },
+   "clinical": {
+    "en": "Avulsion of the terminal extensor tendon leaves the fingertip drooping (mallet finger). Bony swellings of these joints in osteoarthritis are Heberden nodes.",
+    "id": "Lepasnya tendo extensor terminal membuat ujung jari terkulai (mallet finger). Benjolan tulang pada sendi ini akibat osteoartritis disebut nodus Heberden."
+   }
+  }
+ },
+ {
+  "key": "collateral-interphalangeal-ligaments-of-hand",
+  "kind": "ligament",
+  "la": "Ligamenta collateralia articulationum interphalangearum manus",
+  "alt": [
+   "Ligamenta collateralia",
+   "Ligg. collateralia",
+   "Ligamenta interphalangea collateralia manus",
+   "Ligamentum collaterale"
+  ],
+  "en": "Collateral ligaments of interphalangeal joints of hand",
+  "desc": {
+   "en": "Cords on both sides of each interphalangeal joint of the fingers and thumb.",
+   "id": "Tali-tali di kedua sisi setiap articulatio interphalangea jari tangan dan ibu jari."
+  },
+  "facts": {
+   "joint": "interphalangeal-joints-of-hand",
+   "attach": {
+    "en": "Sides of the head of the more proximal phalanx to the sides of the base of the next phalanx; accessory fibres fan out to the palmar ligament.",
+    "id": "Sisi caput phalanx yang lebih proksimal ke sisi basis phalanx berikutnya; serabut aksesorius menyebar ke lig. palmare."
+   },
+   "function": {
+    "en": "Prevent sideways movement, so the interphalangeal joints work as hinges.",
+    "id": "Mencegah gerak ke samping sehingga articulationes interphalangeae bekerja sebagai engsel."
+   },
+   "clinical": {
+    "en": "A sideways force on a finger, common in ball sports, often sprains or tears the collateral ligament of a proximal interphalangeal joint.",
+    "id": "Gaya dari samping pada jari, yang sering terjadi pada olahraga bola, kerap menyebabkan terkilir atau robeknya ligamentum collaterale articulatio interphalangea proximalis."
+   }
+  }
+ },
+ {
+  "key": "palmar-interphalangeal-ligaments",
+  "kind": "ligament",
+  "la": "Ligamenta palmaria articulationum interphalangearum manus",
+  "alt": [
+   "Ligamenta palmaria",
+   "Ligg. palmaria",
+   "Ligamenta interphalangea palmaria",
+   "Ligamentum palmare"
+  ],
+  "en": "Palmar ligaments (plates) of interphalangeal joints of hand",
+  "desc": {
+   "en": "Thick fibrocartilaginous plates on the palmar side of the interphalangeal joints of the hand, often called volar plates.",
+   "id": "Lempeng fibrocartilago yang tebal di sisi palmar articulationes interphalangeae tangan, sering disebut volar plate."
+  },
+  "facts": {
+   "joint": "interphalangeal-joints-of-hand",
+   "attach": {
+    "en": "Firmly to the base of the more distal phalanx and loosely to the head and neck of the more proximal one; the collateral ligaments and the fibrous digital sheath attach to their edges.",
+    "id": "Melekat erat pada basis phalanx yang lebih distal dan longgar pada caput dan collum phalanx yang lebih proksimal; ligamenta collateralia dan vagina fibrosa digitorum melekat pada tepinya."
+   },
+   "function": {
+    "en": "Prevent hyperextension and give the long flexor tendons a smooth surface to glide over.",
+    "id": "Mencegah hiperekstensi dan memberi permukaan licin bagi tendo fleksor panjang untuk meluncur."
+   },
+   "clinical": {
+    "en": "Forced hyperextension of a proximal interphalangeal joint can tear the plate or pull off a small fragment of the middle phalanx; a lax plate allows a swan-neck deformity.",
+    "id": "Hiperekstensi paksa pada articulatio interphalangea proximalis dapat merobek lempeng ini atau menarik lepas fragmen kecil dari phalanx media; lempeng yang kendur memungkinkan terjadinya deformitas swan-neck."
+   }
+  }
+ }
+]

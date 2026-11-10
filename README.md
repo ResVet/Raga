@@ -10,14 +10,14 @@ It runs in the browser on laptops and phones, keeps working offline after the fi
 
 ## What is inside
 
-The model has 3,506 structures. Every bone is there with 1,110 landmarks placed on its surface, along with the joints and their ligaments, capsules, discs and menisci, the muscles and tendons, 705 origin and insertion areas drawn on the bones, the heart with its valves and coronary vessels, arteries, veins, nerves, the airways and lungs, lymphoid organs and the skin regions.
+The model has 3,506 structures. Every bone is there with its landmarks placed on the surface (1,111 landmarks in all, including the borders and surfaces of the heart), along with the joints and their ligaments, capsules, discs and menisci, the muscles and tendons, 705 origin and insertion areas drawn on the bones, the heart with its valves and coronary vessels, arteries, veins, nerves, the airways and lungs, lymphoid organs and the skin regions.
 
 ### Atlas
 
 - The depth gauge on the left peels the body from skin down to bone. Drag the handle to peel everything above it, or switch a single layer on or off.
 - The body map below it frames a region: upper limb, knee, thorax, heart, larynx and others.
 - The tray at the bottom has explode, a sagittal, coronal or transverse cut, x-ray (the rest of the body turns to glass), isolate, one side only, preset views and a photo button.
-- Clicking a bone paints its landmarks on the bone in colour. Orange marks processes, tubercles and heads, violet marks fossae and notches, yellow marks lines, crests and borders, cyan marks articular surfaces, and green marks foramina and canals. The list in the side panel uses the same colours and shapes, so it still works for colour-blind readers, and hovering a name flies the camera to that spot.
+- Clicking a bone paints its landmarks on the bone in colour. Orange marks processes, tubercles and heads, violet marks fossae and notches, yellow marks lines, crests, borders and grooves, cyan marks surfaces and articular facets, and green marks foramina and canals. The list in the side panel uses the same colours and shapes, so it still works for colour-blind readers, and hovering a name flies the camera to that spot.
 - Clicking a muscle and choosing "Origin and insertion" paints the attachment areas on the bones, red for the origin and blue for the insertion.
 
 Each structure has a card with the Latin name (Terminologia Anatomica), the English name, a short description in English and Bahasa Indonesia, and the exam facts that fit it: origin, insertion, action, innervation with spinal roots, blood supply, joint class and shape, articulating surfaces, ligaments, nerve course and lesion patterns.
@@ -54,9 +54,9 @@ On a phone each layer downloads only when you open it, so the skeleton alone is 
 
 ## Accuracy
 
-The descriptions and exam facts were written from standard references (Moore's Clinically Oriented Anatomy, Gray's Anatomy for Students, Netter, Sobotta for the Latin) and the FK Unsri practical module. There are 1,514 written entries. The lower limb is fully written: bones, landmarks, joints, ligaments, muscles, vessels and nerves. The upper limb is written except for its ligaments. The skull, vertebrae, thoracic skeleton, larynx, airways and lungs are covered too. Still without exam facts are the ligaments of the upper limb, the heart with its valves and coronary vessels, the great vessels, the pleura, the joints and muscles of the trunk, and the vessels of the thoracic wall. Those structures still have their Latin names and appear in the quiz as naming and finding questions.
+The descriptions and exam facts were written from standard references (Moore's Clinically Oriented Anatomy, Gray's Anatomy for Students, Netter, Sobotta for the Latin) and the FK Unsri practical module. There are 1,832 written entries, covering the topics of all eight practicals: the bones, landmarks, joints, ligaments, muscles, vessels and nerves of both limbs, the skull and vertebral column with their joints and discs, the thoracic wall with its joints, muscles and intercostal vessels and nerves, the larynx, airways and lungs, the pleura and mediastinum, and the heart with its chambers, valves, coronary vessels, cardiac veins, pericardium and great vessels. Where the module uses a spelling or a convention that differs from Terminologia Anatomica (for example margo acutus and margo obtusus for the borders of the heart), the module's term is accepted as an answer and the card explains the difference.
 
-The entries have not had an independent second check yet. If you find a mistake, or something that differs from what your lecturer teaches, follow your lecturer and open an issue here so it can be fixed for everyone.
+A second pass checked the muscle facts (origin, insertion, action, innervation and roots), the joint classifications and the thorax entries against the references. The 31 entries where the sources disagree or are thin carry a notice in the app. If you find a mistake, or something that differs from what your lecturer teaches, follow your lecturer and open an issue here so it can be fixed for everyone.
 
 ## Bahasa Indonesia
 
@@ -78,7 +78,7 @@ The site is plain static files. `BASE=/ npm run build` builds it for hosting at 
 Everything in `public/models` and `public/data` is generated from the Z-Anatomy Blender file by the scripts in `pipeline/`:
 
 1. `export_pack.py` (run with the `bpy` Python module, Blender 5.2) evaluates each system and writes one glTF pack per system with world-space meshes and a canonical tissue material name. `RAGA_TIER=ultra` keeps the full subdivision and tube resolution.
-2. `export_meta.py` reads the label leader lines to place every landmark on the bone surface (left-sided landmarks are mirrored and snapped to the left bone), maps the origin and insertion patches to their bones, and extracts the group tree and the encyclopedia texts.
+2. `export_meta.py` reads the label leader lines to place every landmark on the bone surface (left-sided landmarks are mirrored and snapped to the left bone), maps the origin and insertion patches to their bones, and extracts the group tree and the encyclopedia texts. `fix_landmarks.py` then applies the hand corrections in `landmark_fixes.json` (the source file had the right and left surfaces of the heart swapped and no pin for the left border).
 3. `build_catalog.py` attaches TA2 Latin names and the French, Spanish, Portuguese and Italian names.
 4. `optimize.mjs` welds, simplifies (meshoptimizer), quantizes and compresses each pack, once per tier. Ultra is not simplified.
 5. `bake_ao.mjs` ray-casts ambient occlusion into every vertex. `build_models.sh` runs steps 4 and 5 for all tiers.

@@ -22,9 +22,9 @@ export const LANDMARK_KIND_LABELS: Record<LandmarkKind, { la: string; en: string
   process: { la: 'Processus, tubercula, capita', en: 'Processes, tubercles, heads', id: 'Prosesus, tuberkulum, kaput' },
   fossa: { la: 'Fossae et incisurae', en: 'Fossae and notches', id: 'Fossa dan insisura' },
   line: { la: 'Lineae, cristae, margines, sulci', en: 'Lines, crests, borders, grooves', id: 'Linea, krista, margo, sulkus' },
-  surface: { la: 'Facies articulares', en: 'Articular facets and surfaces', id: 'Permukaan sendi' },
+  surface: { la: 'Facies et facies articulares', en: 'Surfaces and articular facets', id: 'Permukaan dan faset sendi' },
   foramen: { la: 'Foramina et canales', en: 'Foramina and canals', id: 'Foramen dan kanalis' },
-  part: { la: 'Partes ossis', en: 'Parts of a bone', id: 'Bagian tulang' },
+  part: { la: 'Partes', en: 'Parts such as bodies, necks and bases', id: 'Bagian seperti korpus, kolum, dan basis' },
 };
 
 /** Decal radius range in metres (min for small bones, max for long bones). */

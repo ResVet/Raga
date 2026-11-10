@@ -1,0 +1,89 @@
+{
+ "_about": "Hand corrections applied to public/data/landmarks.json after export_meta.py. Positions were measured on the ultra heart meshes (x is the body's left, y up, z anterior). Z-Anatomy had the right and left pulmonary surfaces of the heart swapped, the inferior border on the same point as the inferior interventricular sulcus, and no pin for the left border.",
+ "set": {
+  "right-surface-of-heart": {
+   "on": "right-atrium",
+   "p": [
+    -0.03545,
+    1.29498,
+    0.01958
+   ],
+   "n": [
+    -0.9776,
+    0.052,
+    0.2039
+   ]
+  },
+  "left-surface-of-heart": {
+   "on": "left-ventricle",
+   "p": [
+    0.07972,
+    1.28175,
+    0.02307
+   ],
+   "n": [
+    0.9573,
+    0.2197,
+    -0.188
+   ]
+  },
+  "right-border-of-heart": {
+   "on": "right-atrium",
+   "p": [
+    -0.03323,
+    1.2889,
+    0.0405
+   ],
+   "n": [
+    -0.9554,
+    -0.007,
+    0.2951
+   ]
+  },
+  "inferior-border-of-heart": {
+   "on": "right-ventricle",
+   "p": [
+    0.02992,
+    1.24842,
+    0.0664
+   ],
+   "n": [
+    -0.146,
+    -0.7109,
+    0.6879
+   ]
+  },
+  "inferior-surface-of-heart": {
+   "on": "left-ventricle",
+   "p": [
+    0.04556,
+    1.23778,
+    0.02648
+   ],
+   "n": [
+    -0.149,
+    -0.9879,
+    -0.042
+   ]
+  }
+ },
+ "add": [
+  {
+   "k": "left-border-of-heart",
+   "en": "Left border of heart",
+   "la": "Margo sinister cordis",
+   "side": null,
+   "on": "left-ventricle",
+   "p": [
+    0.07221,
+    1.26818,
+    0.06823
+   ],
+   "n": [
+    0.6771,
+    0.064,
+    0.7331
+   ]
+  }
+ ]
+}

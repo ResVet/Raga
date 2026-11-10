@@ -552,7 +552,7 @@ function Runner({ session, idx, exam, onAnswer, onNext, onQuit }: RunnerProps) {
       const ok = q.ids.includes(hit.id) || rec.k === q.key || db.parentConcept(rec) === q.key;
       const v: Verdict = { ok, typo: false, matched: null, distance: ok ? 0 : 99 };
       setPicked(hit.id);
-      finish(v, db.latin(db.parentConcept(rec) ?? rec.k), hit.id);
+      finish(v, db.clickedName(rec), hit.id);
     });
     return () => {
       off();
@@ -729,7 +729,7 @@ function Runner({ session, idx, exam, onAnswer, onNext, onQuit }: RunnerProps) {
                     ? t.almost
                     : t.correct
                   : q.type === 'find' && picked
-                    ? `${t.wrong}. ${t.findWrong}: ${db.latin(db.parentConcept(db.byId.get(picked)!) ?? db.byId.get(picked)!.k)}`
+                    ? `${t.wrong}. ${t.findWrong}: ${db.clickedName(db.byId.get(picked)!)}`
                     : t.wrong}
             </p>
             <p className="fb-answer">

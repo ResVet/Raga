@@ -1,0 +1,259 @@
+[
+  {
+    "key": "intercostal-space",
+    "kind": "landmark",
+    "la": "Spatium intercostale",
+    "alt": ["Spatia intercostalia", "Spatium intercostalis"],
+    "en": "Intercostal space",
+    "desc": {
+      "en": "The gap between two adjacent ribs, numbered after the rib above it, so there are eleven on each side. It is closed by three layers of muscle, and the intercostal vein, artery and nerve run in the costal groove of the upper rib, between the internal and innermost intercostal muscles, in that order from above down (VAN).",
+      "id": "Celah antara dua costa yang bersebelahan, dinamai menurut costa di atasnya, sehingga ada sebelas spatium intercostale di setiap sisi. Celah ini ditutup tiga lapis otot, dan vena, arteri serta nervus intercostalis berjalan dalam sulcus costae milik costa di atasnya, di antara m. intercostalis internus dan m. intercostalis intimus, dengan urutan dari atas ke bawah vena, arteri, nervus (VAN)."
+    },
+    "facts": {
+      "bone": "rib",
+      "location": {
+        "en": "Between adjacent ribs and their costal cartilages, from the vertebral column to the sternum. The second rib is found at the sternal angle, and the spaces are counted down from it.",
+        "id": "Di antara costa yang bersebelahan beserta cartilago costalis-nya, dari columna vertebralis sampai sternum. Costa II ditemukan setinggi angulus sterni, dan spatium intercostale dihitung ke bawah mulai dari sini."
+      },
+      "features": {
+        "en": "From outside in: external intercostal muscle (external intercostal membrane in front), internal intercostal muscle (internal intercostal membrane behind), the neurovascular plane, the innermost layer (innermost intercostals at the side, subcostales behind, transversus thoracis in front), endothoracic fascia and parietal pleura. In the costal groove the posterior intercostal vein lies highest, the artery below it and the nerve lowest and least sheltered. Small collateral branches run along the upper border of the rib below. Each space receives one posterior intercostal artery and, in spaces 1-9, a pair of small anterior intercostal arteries.",
+        "id": "Dari luar ke dalam: m. intercostalis externus (di depan berupa membrana intercostalis externa), m. intercostalis internus (di belakang berupa membrana intercostalis interna), bidang neurovaskular, lapisan terdalam (mm. intercostales intimi di lateral, mm. subcostales di belakang, m. transversus thoracis di depan), fascia endothoracica dan pleura parietalis. Di dalam sulcus costae, v. intercostalis posterior terletak paling atas, arteri di bawahnya, dan nervus paling bawah serta paling tidak terlindung. Cabang kolateral yang kecil berjalan sepanjang tepi atas costa di bawahnya. Setiap spatium mendapat satu a. intercostalis posterior dan, pada spatium I-IX, sepasang a. intercostalis anterior yang kecil."
+      },
+      "clinical": {
+        "en": "A needle or chest drain is passed just above the upper border of the lower rib, away from the costal groove, to avoid the neurovascular bundle. For an intercostal nerve block the anaesthetic is placed around the nerve near the costal groove, and because neighbouring dermatomes overlap, two or more adjacent nerves must be blocked.",
+        "id": "Jarum atau selang dada dimasukkan tepat di atas tepi atas costa di bawahnya, menjauhi sulcus costae, agar tidak mengenai berkas neurovaskular. Pada blok nervus intercostalis, anestetik disuntikkan di sekitar nervus di dekat sulcus costae, dan karena dermatom yang bersebelahan saling tumpang tindih, dua atau lebih nervus yang berdekatan harus diblok."
+      }
+    },
+    "quiz": {
+      "bone": ["Costae", "costa"]
+    }
+  },
+  {
+    "key": "intercostal-nerves",
+    "kind": "nerve",
+    "la": "Nervi intercostales",
+    "alt": ["Nn. intercostales", "Nervus intercostalis", "N. intercostalis", "Rami anteriores nervorum thoracicorum"],
+    "en": "Intercostal nerves",
+    "desc": {
+      "en": "The anterior rami of the first eleven thoracic spinal nerves (T1-T11), one in each intercostal space; the anterior ramus of T12, below the twelfth rib, is the subcostal nerve. Each runs in the costal groove below its vein and artery, between the internal and innermost intercostal muscles.",
+      "id": "Ramus anterior sebelas nervus spinalis thoracicus pertama (T1-T11), satu pada setiap spatium intercostale; ramus anterior T12 yang berjalan di bawah costa XII disebut n. subcostalis. Setiap nervus berjalan dalam sulcus costae di bawah vena dan arterinya, di antara m. intercostalis internus dan m. intercostalis intimus."
+    },
+    "facts": {
+      "roots": "T1-T11",
+      "from": "Rami anteriores nervorum spinalium thoracicorum",
+      "course": {
+        "en": "Each nerve leaves the intervertebral foramen, first runs between the parietal pleura and the internal intercostal membrane, then enters the costal groove between the internal and innermost intercostal muscles. It gives a collateral branch along the upper border of the rib below and a lateral cutaneous branch near the midaxillary line. The upper six end as anterior cutaneous branches beside the sternum; the 7th-11th leave the spaces at the costal margin and continue into the abdominal wall as thoracoabdominal nerves.",
+        "id": "Setiap nervus keluar dari foramen intervertebrale, mula-mula berjalan di antara pleura parietalis dan membrana intercostalis interna, lalu masuk ke sulcus costae di antara m. intercostalis internus dan m. intercostalis intimus. Nervus ini memberi ramus collateralis sepanjang tepi atas costa di bawahnya dan ramus cutaneus lateralis di dekat linea axillaris media. Enam nervus teratas berakhir sebagai ramus cutaneus anterior di samping sternum; nervus ke-7 sampai ke-11 meninggalkan spatium intercostale di arcus costalis dan berlanjut ke dinding abdomen sebagai nervi thoracoabdominales."
+      },
+      "motor": ["Musculi intercostales externi", "Musculi intercostales interni", "Musculi intercostales intimi", "Musculi subcostales", "Musculus transversus thoracis", "Musculus serratus posterior superior", "Musculus serratus posterior inferior", "Musculus obliquus externus abdominis", "Musculus obliquus internus abdominis", "Musculus transversus abdominis", "Musculus rectus abdominis"],
+      "sensory": {
+        "en": "Skin of the thoracic wall and, through the lower nerves, of the abdominal wall, in one band-shaped dermatome per segment; the costal parietal pleura, and through the lower nerves the periphery of the diaphragm and the parietal peritoneum. The lateral cutaneous branch of the second nerve forms the intercostobrachial nerve to the floor of the axilla and the medial side of the arm.",
+        "id": "Kulit dinding thorax dan, melalui nervus bagian bawah, kulit dinding abdomen, berupa satu dermatom berbentuk pita untuk setiap segmen; pleura parietalis pars costalis, serta melalui nervus bagian bawah, tepi diaphragma dan peritoneum parietale. Ramus cutaneus lateralis n. intercostalis II membentuk n. intercostobrachialis yang mempersarafi dasar axilla dan sisi medial lengan atas."
+      },
+      "lesion": {
+        "en": "Herpes zoster reactivates in a dorsal root ganglion and causes a painful band of vesicles along one dermatome. Because neighbouring dermatomes overlap, cutting a single intercostal nerve leaves little numbness, and an intercostal nerve block must include the nerves above and below.",
+        "id": "Herpes zoster mengalami reaktivasi di ganglion radix dorsalis dan menimbulkan pita vesikel yang nyeri sepanjang satu dermatom. Karena dermatom yang bersebelahan saling tumpang tindih, putusnya satu n. intercostalis hanya menimbulkan sedikit rasa baal, dan blok n. intercostalis harus mencakup nervus di atas dan di bawahnya."
+      },
+      "note": {
+        "en": "Atypical nerves: most of the anterior ramus of T1 joins the brachial plexus, leaving a small first intercostal nerve with no anterior cutaneous branch; the first and second nerves run on the inner surfaces of their ribs; and the 7th-11th continue into the abdominal wall.",
+        "id": "Nervus atipikal: sebagian besar ramus anterior T1 bergabung dengan plexus brachialis, sehingga n. intercostalis I kecil dan tidak memiliki ramus cutaneus anterior; nervus I dan II berjalan pada permukaan dalam costa-nya; dan nervus ke-7 sampai ke-11 berlanjut ke dinding abdomen."
+      }
+    },
+    "quiz": {
+      "roots": ["T1-T11", "Th1-Th11"],
+      "from": ["Rami anteriores nervorum spinalium thoracicorum", "ramus anterior nervi spinalis thoracici", "rami anteriores T1-T11", "rami ventrales T1-T11", "ramus ventralis nervi spinalis thoracici"]
+    }
+  },
+  {
+    "key": "posterior-intercostal-arteries",
+    "kind": "artery",
+    "la": "Arteriae intercostales posteriores",
+    "alt": ["Aa. intercostales posteriores", "Arteria intercostalis posterior", "A. intercostalis posterior"],
+    "en": "Posterior intercostal arteries",
+    "desc": {
+      "en": "Eleven pairs of arteries, one for each intercostal space. The first two come from the supreme intercostal artery, a branch of the costocervical trunk, and the other nine pairs (3rd-11th) arise from the back of the thoracic aorta; the subcostal artery below the twelfth rib follows the same pattern.",
+      "id": "Sebelas pasang arteri, satu untuk setiap spatium intercostale. Dua yang pertama berasal dari a. intercostalis suprema, cabang truncus costocervicalis, dan sembilan pasang sisanya (ke-3 sampai ke-11) keluar dari dinding belakang aorta thoracica; a. subcostalis di bawah costa XII mengikuti pola yang sama."
+    },
+    "facts": {
+      "from": "Aorta thoracica (III-XI); Arteria intercostalis suprema (I-II)",
+      "course": {
+        "en": "The right arteries are longer, crossing the vertebral bodies behind the esophagus, thoracic duct and azygos vein; the left ones pass behind the hemiazygos veins. Each gives a dorsal branch near the head of the rib, then runs forward in the costal groove with the vein above and the nerve below, first between the pleura and the internal intercostal membrane and then between the internal and innermost intercostal muscles. In front it anastomoses with the anterior intercostal branches of the internal thoracic or musculophrenic artery.",
+        "id": "Arteri sisi kanan lebih panjang karena menyilang corpus vertebrae di belakang oesophagus, ductus thoracicus dan v. azygos; arteri sisi kiri lewat di belakang v. hemiazygos. Setiap arteri memberi ramus dorsalis di dekat caput costae, lalu berjalan ke depan dalam sulcus costae dengan vena di atasnya dan nervus di bawahnya, mula-mula di antara pleura dan membrana intercostalis interna, kemudian di antara m. intercostalis internus dan m. intercostalis intimus. Di depan, arteri ini beranastomosis dengan rami intercostales anteriores dari a. thoracica interna atau a. musculophrenica."
+      },
+      "branches": ["Ramus dorsalis", "Ramus spinalis", "Ramus collateralis", "Ramus cutaneus lateralis", "Rami mammarii laterales", "Rami musculares"],
+      "supplies": {
+        "en": "Intercostal muscles, ribs, overlying skin and parietal pleura; through the dorsal branches the deep back muscles, the vertebrae, and the spinal cord and its meninges. Branches in the 2nd-4th spaces also reach the breast.",
+        "id": "Otot intercostal, costae, kulit di atasnya dan pleura parietalis; melalui ramus dorsalis memperdarahi otot punggung dalam, vertebrae, serta medulla spinalis dan meningesnya. Cabang pada spatium II-IV juga mencapai mamma."
+      },
+      "clinical": {
+        "en": "In coarctation of the aorta the intercostal arteries enlarge to carry blood around the narrowing, and their pulsation erodes the lower borders of the ribs, seen on X-ray as rib notching.",
+        "id": "Pada koarktasio aorta, aa. intercostales membesar untuk mengalirkan darah melewati penyempitan, dan denyutannya mengikis tepi bawah costae, yang tampak pada foto Rontgen sebagai rib notching."
+      }
+    },
+    "quiz": {
+      "from": ["Aorta thoracica", "pars thoracica aortae", "aorta descendens", "aorta descendens pars thoracica"]
+    }
+  },
+  {
+    "key": "first-posterior-intercostal-artery",
+    "kind": "artery",
+    "la": "Arteria intercostalis posterior prima",
+    "alt": ["A. intercostalis posterior prima", "Arteria intercostalis posterior I", "A. intercostalis posterior I"],
+    "en": "First posterior intercostal artery",
+    "desc": {
+      "en": "Artery of the first intercostal space. It arises from the supreme intercostal artery, which descends from the costocervical trunk in front of the necks of the first two ribs.",
+      "id": "Arteri untuk spatium intercostale I. Arteri ini berasal dari a. intercostalis suprema, yang turun dari truncus costocervicalis di depan collum costae I dan II."
+    },
+    "facts": {
+      "from": "Arteria intercostalis suprema",
+      "course": {
+        "en": "Runs forward through the first intercostal space, below the first rib, and anastomoses in front with the anterior intercostal branch of the internal thoracic artery for the same space.",
+        "id": "Berjalan ke depan melalui spatium intercostale I, di bawah costa I, dan di depan beranastomosis dengan ramus intercostalis anterior a. thoracica interna untuk spatium yang sama."
+      },
+      "branches": ["Ramus dorsalis", "Ramus collateralis"],
+      "supplies": {
+        "en": "Muscles, ribs and skin of the first intercostal space; its dorsal branch supplies the deep back muscles at this level.",
+        "id": "Otot, costa dan kulit spatium intercostale I; ramus dorsalis-nya memperdarahi otot punggung dalam setinggi ini."
+      },
+      "note": {
+        "en": "The first and second posterior intercostal arteries are the only ones that do not arise directly from the aorta; they belong to the territory of the subclavian artery.",
+        "id": "A. intercostalis posterior I dan II adalah satu-satunya aa. intercostales posteriores yang tidak langsung berasal dari aorta; keduanya termasuk wilayah a. subclavia."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria intercostalis suprema", "A. intercostalis suprema", "truncus costocervicalis", "a. intercostalis superior"]
+    }
+  },
+  {
+    "key": "second-posterior-intercostal-artery",
+    "kind": "artery",
+    "la": "Arteria intercostalis posterior secunda",
+    "alt": ["A. intercostalis posterior secunda", "Arteria intercostalis posterior II", "A. intercostalis posterior II"],
+    "en": "Second posterior intercostal artery",
+    "desc": {
+      "en": "Artery of the second intercostal space. Like the first, it usually arises from the supreme intercostal artery of the costocervical trunk.",
+      "id": "Arteri untuk spatium intercostale II. Seperti arteri pertama, arteri ini biasanya berasal dari a. intercostalis suprema cabang truncus costocervicalis."
+    },
+    "facts": {
+      "from": "Arteria intercostalis suprema",
+      "course": {
+        "en": "Runs forward through the second intercostal space and anastomoses in front with the anterior intercostal branches of the internal thoracic artery. In this space it often joins a branch of the third posterior intercostal artery, the first one from the aorta.",
+        "id": "Berjalan ke depan melalui spatium intercostale II dan di depan beranastomosis dengan rami intercostales anteriores a. thoracica interna. Pada spatium ini arteri tersebut sering bersambung dengan cabang a. intercostalis posterior III, yaitu cabang pertama dari aorta."
+      },
+      "branches": ["Ramus dorsalis", "Ramus collateralis", "Ramus cutaneus lateralis"],
+      "supplies": {
+        "en": "Muscles, ribs and skin of the second intercostal space; its dorsal branch supplies the deep back muscles at this level, and lateral branches reach the breast.",
+        "id": "Otot, costa dan kulit spatium intercostale II; ramus dorsalis-nya memperdarahi otot punggung dalam setinggi ini, dan cabang lateralnya mencapai mamma."
+      }
+    },
+    "quiz": {
+      "from": ["Arteria intercostalis suprema", "A. intercostalis suprema", "truncus costocervicalis", "a. intercostalis superior"]
+    }
+  },
+  {
+    "key": "subcostal-artery",
+    "kind": "artery",
+    "la": "Arteria subcostalis",
+    "alt": ["A. subcostalis", "Arteriae subcostales"],
+    "en": "Subcostal artery",
+    "desc": {
+      "en": "The last paired parietal branch of the thoracic aorta. It runs along the lower border of the twelfth rib, below the last intercostal space, with the subcostal vein and nerve.",
+      "id": "Cabang parietal berpasangan yang terakhir dari aorta thoracica. Arteri ini berjalan sepanjang tepi bawah costa XII, di bawah spatium intercostale terakhir, bersama v. subcostalis dan n. subcostalis."
+    },
+    "facts": {
+      "from": "Aorta thoracica",
+      "course": {
+        "en": "Passes laterally across the body of T12 and enters the abdomen behind the lateral arcuate ligament of the diaphragm. It runs behind the kidney and in front of quadratus lumborum, pierces the aponeurosis of transversus abdominis and continues forward between transversus abdominis and the internal oblique.",
+        "id": "Berjalan ke lateral menyilang corpus vertebrae T12 dan masuk ke abdomen di belakang ligamentum arcuatum laterale diaphragmatis. Arteri ini berjalan di belakang ren dan di depan m. quadratus lumborum, menembus aponeurosis m. transversus abdominis, lalu berlanjut ke depan di antara m. transversus abdominis dan m. obliquus internus abdominis."
+      },
+      "branches": ["Ramus dorsalis", "Ramus spinalis"],
+      "supplies": {
+        "en": "Muscles of the upper posterior and anterolateral abdominal wall below the twelfth rib and the overlying skin; its dorsal branch supplies the back muscles and the vertebral canal at T12.",
+        "id": "Otot dinding abdomen posterior dan anterolateral bagian atas di bawah costa XII beserta kulit di atasnya; ramus dorsalis-nya memperdarahi otot punggung dan canalis vertebralis setinggi T12."
+      }
+    },
+    "quiz": {
+      "from": ["Aorta thoracica", "pars thoracica aortae", "aorta descendens"]
+    }
+  },
+  {
+    "key": "posterior-intercostal-veins",
+    "kind": "vein",
+    "la": "Venae intercostales posteriores",
+    "alt": ["Vv. intercostales posteriores", "Vena intercostalis posterior", "V. intercostalis posterior", "Vena intercostalis", "Venae intercostales"],
+    "en": "Posterior intercostal veins",
+    "desc": {
+      "en": "Veins that run with the posterior intercostal arteries, one in each space, lying highest in the costal groove above the artery and nerve (VAN). In front they communicate with the anterior intercostal veins, which drain into the internal thoracic veins.",
+      "id": "Vena yang menyertai a. intercostalis posterior, satu pada setiap spatium intercostale, dan terletak paling atas di sulcus costae, di atas arteri dan nervus (VAN). Di depan vena ini berhubungan dengan vv. intercostales anteriores, yang bermuara ke v. thoracica interna."
+    },
+    "facts": {
+      "course": {
+        "en": "Each runs backward in the costal groove, receives a dorsal branch from the back muscles and the vertebral venous plexuses near the vertebral column, and ends in the azygos system or a brachiocephalic vein.",
+        "id": "Setiap vena berjalan ke belakang dalam sulcus costae, menerima ramus dorsalis dari otot punggung dan plexus venosus vertebralis di dekat columna vertebralis, lalu bermuara ke sistem azygos atau v. brachiocephalica."
+      },
+      "drains": {
+        "en": "Intercostal muscles, ribs, skin and parietal pleura of each space, and through the dorsal branch the back muscles and the vertebral canal.",
+        "id": "Otot intercostal, costae, kulit dan pleura parietalis setiap spatium, serta melalui ramus dorsalis otot punggung dan canalis vertebralis."
+      },
+      "continues": "Vena azygos (dextra); vena hemiazygos et vena hemiazygos accessoria (sinistra); venae intercostales superiores; venae brachiocephalicae (prima)",
+      "note": {
+        "en": "Right side: the first vein drains into the right brachiocephalic or vertebral vein; the second, third and sometimes fourth join as the right superior intercostal vein, which ends in the azygos vein; the rest enter the azygos vein directly. Left side: the first drains into the left brachiocephalic vein; the second, third and sometimes fourth form the left superior intercostal vein, which crosses the arch of the aorta to the left brachiocephalic vein; the veins from the 4th or 5th to the 8th space drain into the accessory hemiazygos vein and the 9th-11th into the hemiazygos vein.",
+        "id": "Sisi kanan: vena pertama bermuara ke v. brachiocephalica dextra atau v. vertebralis; vena kedua, ketiga dan kadang keempat bergabung menjadi v. intercostalis superior dextra yang bermuara ke v. azygos; sisanya langsung masuk ke v. azygos. Sisi kiri: vena pertama bermuara ke v. brachiocephalica sinistra; vena kedua, ketiga dan kadang keempat membentuk v. intercostalis superior sinistra yang menyilang arcus aortae menuju v. brachiocephalica sinistra; vena dari spatium ke-4 atau ke-5 sampai ke-8 bermuara ke v. hemiazygos accessoria, dan vena ke-9 sampai ke-11 ke v. hemiazygos."
+      }
+    },
+    "quiz": {
+      "continues": ["Vena azygos", "v. azygos", "vena hemiazygos", "v. hemiazygos", "vena hemiazygos accessoria"]
+    },
+    "model": false
+  },
+  {
+    "key": "right-subcostal-vein",
+    "kind": "vein",
+    "la": "Vena subcostalis dextra",
+    "alt": ["V. subcostalis dextra", "Vena subcostalis", "V. subcostalis"],
+    "en": "Right subcostal vein",
+    "desc": {
+      "en": "Vein that runs with the right subcostal artery along the lower border of the twelfth rib. Beside the body of T12 it joins the right ascending lumbar vein, and the two form the azygos vein.",
+      "id": "Vena yang menyertai a. subcostalis dextra sepanjang tepi bawah costa XII. Di samping corpus vertebrae T12 vena ini bergabung dengan v. lumbalis ascendens dextra, dan keduanya membentuk v. azygos."
+    },
+    "facts": {
+      "course": {
+        "en": "Runs medially below the twelfth rib with the artery and the subcostal nerve, then meets the right ascending lumbar vein beside the vertebral column. The azygos vein they form enters the thorax through the aortic hiatus or through the right crus of the diaphragm.",
+        "id": "Berjalan ke medial di bawah costa XII bersama arteri dan n. subcostalis, lalu bertemu v. lumbalis ascendens dextra di samping columna vertebralis. V. azygos yang terbentuk masuk ke thorax melalui hiatus aorticus atau menembus crus dextrum diaphragmatis."
+      },
+      "drains": {
+        "en": "Upper posterior and anterolateral abdominal wall below the twelfth rib, with a dorsal branch from the back muscles.",
+        "id": "Dinding abdomen posterior dan anterolateral bagian atas di bawah costa XII, dengan ramus dorsalis dari otot punggung."
+      },
+      "continues": "Vena azygos"
+    },
+    "quiz": {
+      "continues": ["Vena azygos", "V. azygos"]
+    }
+  },
+  {
+    "key": "left-subcostal-vein",
+    "kind": "vein",
+    "la": "Vena subcostalis sinistra",
+    "alt": ["V. subcostalis sinistra", "Vena subcostalis", "V. subcostalis"],
+    "en": "Left subcostal vein",
+    "desc": {
+      "en": "Vein that runs with the left subcostal artery along the lower border of the twelfth rib. Beside the body of T12 it joins the left ascending lumbar vein, and the two form the hemiazygos vein.",
+      "id": "Vena yang menyertai a. subcostalis sinistra sepanjang tepi bawah costa XII. Di samping corpus vertebrae T12 vena ini bergabung dengan v. lumbalis ascendens sinistra, dan keduanya membentuk v. hemiazygos."
+    },
+    "facts": {
+      "course": {
+        "en": "Runs medially below the twelfth rib with the artery and the subcostal nerve to meet the left ascending lumbar vein. The hemiazygos vein they form ascends on the left of the vertebral bodies to about T9, then crosses behind the aorta, esophagus and thoracic duct to end in the azygos vein.",
+        "id": "Berjalan ke medial di bawah costa XII bersama arteri dan n. subcostalis untuk bertemu v. lumbalis ascendens sinistra. V. hemiazygos yang terbentuk naik di sisi kiri corpus vertebrae sampai kira-kira T9, lalu menyilang di belakang aorta, oesophagus dan ductus thoracicus untuk bermuara ke v. azygos."
+      },
+      "drains": {
+        "en": "Upper posterior and anterolateral abdominal wall below the twelfth rib, with a dorsal branch from the back muscles.",
+        "id": "Dinding abdomen posterior dan anterolateral bagian atas di bawah costa XII, dengan ramus dorsalis dari otot punggung."
+      },
+      "continues": "Vena hemiazygos"
+    },
+    "quiz": {
+      "continues": ["Vena hemiazygos", "V. hemiazygos"]
+    }
+  }
+]

@@ -1,0 +1,2786 @@
+[
+  {
+    "key": "heart",
+    "kind": "organ",
+    "la": "Cor",
+    "alt": [],
+    "en": "Heart",
+    "desc": {
+      "en": "Four-chambered muscular pump that lies inside the pericardium in the middle mediastinum. About two thirds of it lies left of the median plane. The apex points forward, downward and to the left, and the base faces backward toward the vertebral column.",
+      "id": "Pompa berotot dengan empat ruang yang terletak di dalam pericardium di mediastinum medium. Sekitar dua pertiga jantung berada di sebelah kiri bidang median. Apex mengarah ke depan, bawah dan kiri, sedangkan basis menghadap ke belakang ke arah columna vertebralis."
+    },
+    "facts": {
+      "location": {
+        "en": "Middle mediastinum, behind the body of the sternum and the 2nd to 6th costal cartilages, resting on the central tendon of the diaphragm. On the anterior chest wall its outline runs from the 2nd left costal cartilage to the 3rd right costal cartilage above, down the right side to the 6th right costal cartilage, and from there to the apex in the left 5th intercostal space.",
+        "id": "Mediastinum medium, di belakang corpus sterni dan cartilago costalis II sampai VI, bertumpu pada centrum tendineum diaphragma. Pada dinding dada depan, garis batasnya berjalan dari cartilago costalis II kiri ke cartilago costalis III kanan di atas, turun di sisi kanan sampai cartilago costalis VI kanan, lalu dari situ ke apex di spatium intercostale V kiri."
+      },
+      "features": {
+        "en": "Chambers: atrium dextrum, ventriculus dexter, atrium sinistrum and ventriculus sinister. Surfaces: basis cordis (posterior surface), facies sternocostalis, facies diaphragmatica and the right and left facies pulmonales. Borders: right, inferior, left and superior. The sulcus coronarius separates the atria from the ventricles, and the sulci interventriculares anterior and posterior mark the septum between the ventricles. Valves: valva atrioventricularis dextra (tricuspidalis), valva atrioventricularis sinistra (mitralis), valva trunci pulmonalis and valva aortae.",
+        "id": "Ruang: atrium dextrum, ventriculus dexter, atrium sinistrum dan ventriculus sinister. Permukaan: basis cordis (facies posterior), facies sternocostalis, facies diaphragmatica serta facies pulmonalis dextra dan sinistra. Tepi: margo dexter, margo inferior, margo sinister dan batas atas. Sulcus coronarius memisahkan atrium dari ventriculus, sedangkan sulcus interventricularis anterior dan posterior menandai septum di antara kedua ventriculus. Katup: valva atrioventricularis dextra (tricuspidalis), valva atrioventricularis sinistra (mitralis), valva trunci pulmonalis dan valva aortae."
+      },
+      "relations": {
+        "en": "In front: sternum, costal cartilages and the anterior margins of both lungs and pleurae, which leave only a small area left of the lower sternum where the pericardium touches the chest wall. Behind: the oesophagus and the pars thoracica aortae, behind the left atrium. On each side: mediastinal pleura and lung, with the n. phrenicus and the vasa pericardiacophrenica on the pericardium. Below: the diaphragm, and through it the liver and stomach.",
+        "id": "Di depan: sternum, cartilago costalis serta margo anterior kedua paru dan pleura, yang hanya menyisakan daerah kecil di kiri sternum bagian bawah tempat pericardium langsung bersentuhan dengan dinding dada. Di belakang: oesophagus dan pars thoracica aortae, di belakang atrium sinistrum. Di kedua sisi: pleura mediastinalis dan paru, dengan n. phrenicus dan vasa pericardiacophrenica berjalan pada pericardium. Di bawah: diaphragma, dan melalui diaphragma berhubungan dengan hepar dan gaster."
+      },
+      "blood": [
+        "Arteria coronaria dextra",
+        "Arteria coronaria sinistra",
+        "Sinus coronarius"
+      ],
+      "nerve": [
+        "Plexus cardiacus",
+        "Nervus vagus",
+        "Truncus sympathicus"
+      ],
+      "clinical": {
+        "en": "Pain from the heart travels with sympathetic afferent fibres to spinal segments T1-T4 (T5), so angina is felt over the chest wall and along the inner side of the left arm. The apex beat is normally felt in the left 5th intercostal space in the midclavicular line, about 9 cm from the median plane.",
+        "id": "Nyeri dari jantung dibawa serabut aferen simpatis ke segmen medulla spinalis T1-T4 (T5), sehingga angina dirasakan di dinding dada dan sepanjang sisi dalam lengan kiri. Iktus kordis normal teraba di spatium intercostale V kiri pada linea medioclavicularis, kira-kira 9 cm dari bidang median."
+      }
+    },
+    "quiz": {
+      "chambers": [
+        "4",
+        "empat"
+      ],
+      "location": [
+        "Mediastinum medium",
+        "Mediastinum inferius medium"
+      ]
+    }
+  },
+  {
+    "key": "right-atrium",
+    "kind": "organ-part",
+    "la": "Atrium dextrum",
+    "alt": [
+      "Atrium cordis dextrum",
+      "Atrium dextra"
+    ],
+    "en": "Right atrium",
+    "desc": {
+      "en": "Chamber that receives venous blood from the v. cava superior, the v. cava inferior and the sinus coronarius and passes it through the right atrioventricular (tricuspid) orifice into the right ventricle. It forms the right border of the heart and most of its right pulmonary surface.",
+      "id": "Ruang jantung yang menerima darah vena dari v. cava superior, v. cava inferior dan sinus coronarius, lalu mengalirkannya melalui ostium atrioventriculare dextrum (katup trikuspid) ke ventriculus dexter. Atrium dextrum membentuk margo dexter jantung dan sebagian besar facies pulmonalis dextra."
+    },
+    "facts": {
+      "location": {
+        "en": "Right side of the heart, in front of and to the right of the left atrium. The v. cava superior enters its upper part at the level of the right 3rd costal cartilage; the v. cava inferior enters its lower part almost in line with it, at about the level of the 5th costal cartilage.",
+        "id": "Sisi kanan jantung, di depan dan di kanan atrium sinistrum. V. cava superior bermuara di bagian atasnya setinggi cartilago costalis III kanan; v. cava inferior bermuara di bagian bawahnya hampir segaris, kira-kira setinggi cartilago costalis V."
+      },
+      "features": {
+        "en": "A smooth posterior part (sinus venarum cavarum) receives the venae cavae and the sinus coronarius. A rough anterior part carries the musculi pectinati and continues into the auricula dextra. Inside, the crista terminalis separates the two parts; outside, the sulcus terminalis marks the same line. The septal wall shows the fossa ovalis and its limbus. The ostium sinus coronarii lies between the opening of the v. cava inferior and the right atrioventricular orifice, and small valvulae partly guard the openings of the v. cava inferior and the sinus coronarius.",
+        "id": "Bagian posterior yang licin (sinus venarum cavarum) menerima muara kedua v. cava dan sinus coronarius. Bagian anterior yang kasar berisi musculi pectinati dan berlanjut ke auricula dextra. Di sebelah dalam, crista terminalis memisahkan kedua bagian ini; di luar, sulcus terminalis menandai garis yang sama. Dinding septum memperlihatkan fossa ovalis dengan limbusnya. Ostium sinus coronarii terletak di antara muara v. cava inferior dan ostium atrioventriculare dextrum, dan valvula kecil menutupi sebagian muara v. cava inferior dan sinus coronarius."
+      },
+      "relations": {
+        "en": "The nodus sinuatrialis lies under the epicardium at the upper end of the crista terminalis, near the opening of the v. cava superior. The nodus atrioventricularis lies in the lower part of the interatrial septum just above the ostium sinus coronarii. Laterally the atrium faces the mediastinal pleura and the right lung, with the n. phrenicus dexter on the pericardium over it.",
+        "id": "Nodus sinuatrialis terletak di bawah epicardium pada ujung atas crista terminalis, dekat muara v. cava superior. Nodus atrioventricularis terletak di bagian bawah septum interatriale tepat di atas ostium sinus coronarii. Di lateral, atrium berhadapan dengan pleura mediastinalis dan paru kanan, dengan n. phrenicus dexter berjalan pada pericardium di atasnya."
+      },
+      "blood": [
+        "Arteria coronaria dextra",
+        "Ramus nodi sinuatrialis"
+      ],
+      "nerve": [
+        "Plexus cardiacus"
+      ],
+      "clinical": {
+        "en": "On a PA chest radiograph the lower right heart border is the right atrium. The tip of a central venous catheter is placed near the junction of the v. cava superior and the right atrium.",
+        "id": "Pada foto toraks PA, batas kanan bawah bayangan jantung adalah atrium dextrum. Ujung kateter vena sentral ditempatkan dekat pertemuan v. cava superior dengan atrium dextrum."
+      }
+    },
+    "quiz": {
+      "valve": [
+        "Valva atrioventricularis dextra",
+        "Valva tricuspidalis"
+      ],
+      "receives": [
+        "Vena cava superior",
+        "Vena cava inferior",
+        "Sinus coronarius"
+      ]
+    }
+  },
+  {
+    "key": "right-ventricle",
+    "kind": "organ-part",
+    "la": "Ventriculus dexter",
+    "alt": [
+      "Ventriculus cordis dexter",
+      "Ventriculus dextra"
+    ],
+    "en": "Right ventricle",
+    "desc": {
+      "en": "Chamber that pumps venous blood through the valva trunci pulmonalis into the truncus pulmonalis. It forms most of the sternocostal surface, a small part of the diaphragmatic surface and almost the whole inferior border of the heart.",
+      "id": "Ruang jantung yang memompa darah vena melalui valva trunci pulmonalis ke truncus pulmonalis. Ventriculus dexter membentuk sebagian besar facies sternocostalis, sebagian kecil facies diaphragmatica dan hampir seluruh margo inferior jantung."
+    },
+    "facts": {
+      "location": {
+        "en": "Front of the heart, behind the lower part of the sternum and the adjoining left costal cartilages. The septum bulges into it, so in cross section its cavity is crescent shaped and wraps around the front and right side of the left ventricle.",
+        "id": "Bagian depan jantung, di belakang sternum bagian bawah dan cartilago costalis kiri di dekatnya. Septum menonjol ke dalam ruangnya, sehingga pada potongan melintang rongganya berbentuk bulan sabit dan melingkupi sisi depan dan kanan ventriculus sinister."
+      },
+      "features": {
+        "en": "The inflow part has trabeculae carneae, the valva atrioventricularis dextra, chordae tendineae and three musculi papillares (anterior, posterior and septalis). The crista supraventricularis separates it from the smooth outflow part, the conus arteriosus, which leads up to the valva trunci pulmonalis at the level of the left 3rd costal cartilage. The trabecula septomarginalis crosses the cavity from the septum to the base of the anterior papillary muscle. Its wall is much thinner than that of the left ventricle.",
+        "id": "Bagian inflow memiliki trabeculae carneae, valva atrioventricularis dextra, chordae tendineae dan tiga musculi papillares (anterior, posterior dan septalis). Crista supraventricularis memisahkannya dari bagian outflow yang licin, yaitu conus arteriosus, yang naik ke valva trunci pulmonalis setinggi cartilago costalis III kiri. Trabecula septomarginalis menyeberangi rongga dari septum ke pangkal m. papillaris anterior. Dindingnya jauh lebih tipis daripada dinding ventriculus sinister."
+      },
+      "relations": {
+        "en": "The ramus marginalis dexter of the a. coronaria dextra runs along its inferior border, and the ramus interventricularis anterior runs along its left edge in the anterior interventricular sulcus.",
+        "id": "Ramus marginalis dexter dari a. coronaria dextra berjalan sepanjang margo inferiornya, dan ramus interventricularis anterior berjalan di tepi kirinya dalam sulcus interventricularis anterior."
+      },
+      "blood": [
+        "Arteria coronaria dextra",
+        "Ramus interventricularis anterior"
+      ],
+      "nerve": [
+        "Plexus cardiacus"
+      ],
+      "clinical": {
+        "en": "As the most anterior chamber, it is the one most often wounded by a stab injury to the front of the chest.",
+        "id": "Sebagai ruang yang paling depan, ventriculus dexter paling sering terkena luka tusuk pada dada depan."
+      }
+    },
+    "quiz": {
+      "inflow_valve": [
+        "Valva atrioventricularis dextra",
+        "Valva tricuspidalis"
+      ],
+      "outflow_valve": [
+        "Valva trunci pulmonalis",
+        "Valva pulmonalis"
+      ]
+    }
+  },
+  {
+    "key": "left-atrium",
+    "kind": "organ-part",
+    "la": "Atrium sinistrum",
+    "alt": [
+      "Atrium cordis sinistrum",
+      "Atrium sinistra"
+    ],
+    "en": "Left atrium",
+    "desc": {
+      "en": "Chamber that receives oxygenated blood from the four vv. pulmonales and passes it through the left atrioventricular (mitral) orifice into the left ventricle. It is the most posterior chamber and forms most of the base of the heart.",
+      "id": "Ruang jantung yang menerima darah kaya oksigen dari empat vv. pulmonales dan mengalirkannya melalui ostium atrioventriculare sinistrum (katup mitral) ke ventriculus sinister. Atrium sinistrum adalah ruang yang paling posterior dan membentuk sebagian besar basis cordis."
+    },
+    "facts": {
+      "location": {
+        "en": "Back of the heart, behind the right atrium and the roots of the aorta and truncus pulmonalis, directly in front of the oesophagus.",
+        "id": "Bagian belakang jantung, di belakang atrium dextrum serta pangkal aorta dan truncus pulmonalis, tepat di depan oesophagus."
+      },
+      "features": {
+        "en": "A large smooth-walled part receives the two superior and two inferior vv. pulmonales. The small tubular auricula sinistra, the only part with musculi pectinati, forms the upper part of the left border and overlaps the root of the truncus pulmonalis. On the septal wall a shallow depression with a crescent-shaped margin marks the valve of the former foramen ovale (valvula foraminis ovalis). The wall is slightly thicker than that of the right atrium.",
+        "id": "Bagian besar yang berdinding licin menerima dua v. pulmonalis superior dan dua v. pulmonalis inferior. Auricula sinistra yang kecil dan berbentuk tabung, satu-satunya bagian yang memiliki musculi pectinati, membentuk bagian atas margo sinister dan menutupi pangkal truncus pulmonalis. Pada dinding septum terdapat cekungan dangkal dengan tepi berbentuk bulan sabit, yaitu bekas katup foramen ovale (valvula foraminis ovalis). Dindingnya sedikit lebih tebal daripada dinding atrium dextrum."
+      },
+      "relations": {
+        "en": "Behind it lie the oblique pericardial sinus and then the oesophagus. The sinus coronarius runs below it in the posterior part of the coronary sulcus.",
+        "id": "Di belakangnya terdapat sinus obliquus pericardii, lalu oesophagus. Sinus coronarius berjalan di bawahnya dalam bagian posterior sulcus coronarius."
+      },
+      "blood": [
+        "Ramus circumflexus arteriae coronariae sinistrae"
+      ],
+      "nerve": [
+        "Plexus cardiacus"
+      ],
+      "clinical": {
+        "en": "An enlarged left atrium, as in mitral stenosis, presses on the oesophagus; it shows as an indentation on a barium swallow and can cause difficulty swallowing. In atrial fibrillation clots form in the auricula sinistra.",
+        "id": "Atrium sinistrum yang membesar, misalnya pada stenosis mitral, menekan oesophagus; hal ini tampak sebagai lekukan pada pemeriksaan barium esofagus dan dapat menimbulkan disfagia. Pada fibrilasi atrium, trombus terbentuk di auricula sinistra."
+      }
+    },
+    "quiz": {
+      "valve": [
+        "Valva atrioventricularis sinistra",
+        "Valva mitralis",
+        "Valva bicuspidalis"
+      ],
+      "receives": [
+        "Venae pulmonales",
+        "Vv. pulmonales"
+      ]
+    }
+  },
+  {
+    "key": "left-ventricle",
+    "kind": "organ-part",
+    "la": "Ventriculus sinister",
+    "alt": [
+      "Ventriculus cordis sinister",
+      "Ventriculus sinistra"
+    ],
+    "en": "Left ventricle",
+    "desc": {
+      "en": "Chamber that pumps oxygenated blood through the valva aortae into the aorta. It forms the apex, nearly all of the left surface and left border, and most of the diaphragmatic surface. Its wall is two to three times thicker than that of the right ventricle.",
+      "id": "Ruang jantung yang memompa darah kaya oksigen melalui valva aortae ke aorta. Ventriculus sinister membentuk apex, hampir seluruh facies pulmonalis sinistra dan margo sinister, serta sebagian besar facies diaphragmatica. Dindingnya dua sampai tiga kali lebih tebal daripada dinding ventriculus dexter."
+    },
+    "facts": {
+      "location": {
+        "en": "Left and posterior part of the ventricular mass, behind and to the left of the right ventricle. The apex lies behind the left 5th intercostal space, about 9 cm from the median plane.",
+        "id": "Bagian kiri dan posterior massa ventriculus, di belakang dan di kiri ventriculus dexter. Apex terletak di belakang spatium intercostale V kiri, kira-kira 9 cm dari bidang median."
+      },
+      "features": {
+        "en": "Long conical cavity, round in cross section, lined with fine and numerous trabeculae carneae. Two large musculi papillares, anterior and posterior, send chordae tendineae to both cusps of the valva mitralis. Below the aortic orifice lies a smooth outflow part, the vestibulum aortae. The aortic orifice lies in the right posterosuperior part of the ventricle, next to the anterior cusp of the mitral valve.",
+        "id": "Rongga berbentuk kerucut panjang, bulat pada potongan melintang, dilapisi trabeculae carneae yang halus dan banyak. Dua musculi papillares yang besar, anterior dan posterior, mengirim chordae tendineae ke kedua cuspis valva mitralis. Di bawah ostium aortae terdapat bagian outflow yang licin, yaitu vestibulum aortae. Ostium aortae terletak di bagian kanan posterosuperior ventriculus, bersebelahan dengan cuspis anterior katup mitral."
+      },
+      "relations": {
+        "en": "The ramus interventricularis anterior and the ramus interventricularis posterior run along its front and lower edges in the interventricular sulci; the ramus circumflexus and its ramus marginalis sinister run over its left side. Its left surface fits into the cardiac impression of the left lung.",
+        "id": "Ramus interventricularis anterior dan ramus interventricularis posterior berjalan di tepi depan dan bawahnya dalam sulcus interventricularis; ramus circumflexus dan ramus marginalis sinister berjalan di sisi kirinya. Facies kirinya menempati impressio cardiaca paru kiri."
+      },
+      "blood": [
+        "Ramus interventricularis anterior",
+        "Ramus circumflexus",
+        "Ramus interventricularis posterior"
+      ],
+      "nerve": [
+        "Plexus cardiacus"
+      ],
+      "clinical": {
+        "en": "Most myocardial infarctions involve the left ventricle. Hypertrophy or dilatation of the left ventricle, for example in hypertension or aortic stenosis, moves the apex beat downward and laterally.",
+        "id": "Sebagian besar infark miokard mengenai ventriculus sinister. Hipertrofi atau dilatasi ventriculus sinister, misalnya pada hipertensi atau stenosis aorta, menggeser iktus kordis ke bawah dan ke lateral."
+      }
+    },
+    "quiz": {
+      "inflow_valve": [
+        "Valva atrioventricularis sinistra",
+        "Valva mitralis",
+        "Valva bicuspidalis"
+      ],
+      "outflow_valve": [
+        "Valva aortae",
+        "Valva aortica"
+      ]
+    }
+  },
+  {
+    "key": "auricle-of-right-atrium",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Auricula dextra",
+    "alt": [
+      "Auricula cordis dextra",
+      "Auricula dextra cordis",
+      "Auricula atrii dextri"
+    ],
+    "en": "Right auricle",
+    "desc": {
+      "en": "Ear-shaped muscular pouch that projects forward from the upper part of the right atrium and overlaps the right side of the root of the aorta ascendens. Its inner wall is ridged by musculi pectinati.",
+      "id": "Kantong otot berbentuk daun telinga yang menonjol ke depan dari bagian atas atrium dextrum dan menutupi sisi kanan pangkal aorta ascendens. Dinding dalamnya bergerigi oleh musculi pectinati."
+    },
+    "facts": {
+      "location": {
+        "en": "Front of the heart at the upper right end of the coronary sulcus, to the right of the aorta ascendens.",
+        "id": "Bagian depan jantung pada ujung kanan atas sulcus coronarius, di kanan aorta ascendens."
+      },
+      "features": {
+        "en": "Broad-based and triangular, wider and shorter than the left auricle. It adds to the capacity of the atrium.",
+        "id": "Berpangkal lebar dan berbentuk segitiga, lebih lebar dan lebih pendek daripada auricula sinistra. Auricula menambah kapasitas atrium."
+      },
+      "relations": {
+        "en": "The a. coronaria dextra comes forward between the auricula dextra and the truncus pulmonalis before entering the coronary sulcus.",
+        "id": "A. coronaria dextra muncul ke depan di antara auricula dextra dan truncus pulmonalis sebelum masuk ke sulcus coronarius."
+      },
+      "blood": [
+        "Arteria coronaria dextra"
+      ]
+    },
+    "quiz": {
+      "part_of": [
+        "Atrium dextrum"
+      ]
+    }
+  },
+  {
+    "key": "auricle-of-left-atrium",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Auricula sinistra",
+    "alt": [
+      "Auricula cordis sinistra",
+      "Auricula sinistra cordis",
+      "Auricula atrii sinistri"
+    ],
+    "en": "Left auricle",
+    "desc": {
+      "en": "Narrow, hooked muscular pouch of the left atrium that curves forward around the left side of the root of the truncus pulmonalis. It forms the upper part of the left border of the heart.",
+      "id": "Kantong otot yang sempit dan melengkung dari atrium sinistrum, melingkar ke depan di sisi kiri pangkal truncus pulmonalis. Auricula sinistra membentuk bagian atas margo sinister jantung."
+    },
+    "facts": {
+      "location": {
+        "en": "Upper left part of the heart, at the left end of the coronary sulcus, beside the truncus pulmonalis.",
+        "id": "Bagian kiri atas jantung, pada ujung kiri sulcus coronarius, di samping truncus pulmonalis."
+      },
+      "features": {
+        "en": "Longer and narrower than the right auricle, with a notched margin. Musculi pectinati line it; the rest of the left atrium is smooth.",
+        "id": "Lebih panjang dan lebih sempit daripada auricula dextra, dengan tepi berlekuk. Bagian dalamnya dilapisi musculi pectinati, sedangkan bagian lain atrium sinistrum licin."
+      },
+      "relations": {
+        "en": "The a. coronaria sinistra passes between the auricula sinistra and the truncus pulmonalis before it divides.",
+        "id": "A. coronaria sinistra lewat di antara auricula sinistra dan truncus pulmonalis sebelum bercabang."
+      },
+      "blood": [
+        "Ramus circumflexus arteriae coronariae sinistrae"
+      ],
+      "clinical": {
+        "en": "In atrial fibrillation blood stagnates here, and clots formed in the left auricle can embolize to the brain. Closing the auricle is one way to lower the stroke risk.",
+        "id": "Pada fibrilasi atrium darah mengalami stasis di sini, dan trombus yang terbentuk di auricula sinistra dapat menjadi emboli ke otak. Penutupan auricula merupakan salah satu cara menurunkan risiko stroke."
+      }
+    },
+    "quiz": {
+      "part_of": [
+        "Atrium sinistrum"
+      ]
+    }
+  },
+  {
+    "key": "pectinate-muscles",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Musculi pectinati",
+    "alt": [
+      "Mm. pectinati",
+      "Musculus pectinatus",
+      "Musculi pectinati atrii dextri",
+      "Musculi pectinati atrii sinistri"
+    ],
+    "en": "Pectinate muscles",
+    "desc": {
+      "en": "Parallel muscular ridges on the inner wall of the auricles and of the anterior part of the right atrium, arranged like the teeth of a comb. In the right atrium they run forward from the crista terminalis into the auricle.",
+      "id": "Rigi-rigi otot yang sejajar pada dinding dalam auricula dan bagian anterior atrium dextrum, tersusun seperti gigi sisir. Di atrium dextrum rigi ini berjalan ke depan dari crista terminalis menuju auricula."
+    },
+    "facts": {
+      "location": {
+        "en": "Right atrium: anterior wall and auricula dextra. Left atrium: auricula sinistra only.",
+        "id": "Atrium dextrum: dinding anterior dan auricula dextra. Atrium sinistrum: hanya di auricula sinistra."
+      },
+      "features": {
+        "en": "The rough, pectinate part of each atrium comes from the embryonic primitive atrium. The smooth parts come from the sinus venosus on the right and from the absorbed pulmonary veins on the left.",
+        "id": "Bagian atrium yang kasar dan berisi musculi pectinati berasal dari atrium primitif embrio. Bagian yang licin berasal dari sinus venosus di sisi kanan dan dari vv. pulmonales yang tergabung ke dinding atrium di sisi kiri."
+      }
+    },
+    "quiz": {
+      "location": [
+        "Auricula dextra",
+        "Atrium dextrum",
+        "Auricula sinistra"
+      ]
+    }
+  },
+  {
+    "key": "crista-terminalis",
+    "kind": "landmark",
+    "model": false,
+    "la": "Crista terminalis",
+    "alt": [
+      "Crista terminalis atrii dextri"
+    ],
+    "en": "Terminal crest",
+    "desc": {
+      "en": "Smooth vertical muscular ridge on the inner wall of the right atrium, from the front of the opening of the v. cava superior to the front of the opening of the v. cava inferior. It separates the smooth sinus venarum behind from the pectinate part in front and matches the sulcus terminalis on the outer surface.",
+      "id": "Rigi otot vertikal yang licin pada dinding dalam atrium dextrum, dari depan muara v. cava superior sampai depan muara v. cava inferior. Crista ini memisahkan sinus venarum yang licin di belakang dari bagian bermusculi pectinati di depan, dan sesuai dengan sulcus terminalis di permukaan luar."
+    },
+    "facts": {
+      "bone": "right-atrium",
+      "relations": {
+        "en": "The nodus sinuatrialis lies at its upper end near the opening of the v. cava superior. The musculi pectinati start from its anterior side.",
+        "id": "Nodus sinuatrialis terletak di ujung atasnya dekat muara v. cava superior. Musculi pectinati berpangkal dari sisi anteriornya."
+      }
+    },
+    "quiz": {
+      "bone": [
+        "Atrium dextrum"
+      ]
+    }
+  },
+  {
+    "key": "sulcus-terminalis",
+    "kind": "landmark",
+    "model": false,
+    "la": "Sulcus terminalis cordis",
+    "alt": [
+      "Sulcus terminalis"
+    ],
+    "en": "Terminal sulcus",
+    "desc": {
+      "en": "Shallow groove on the outer surface of the right atrium, running from the right side of the v. cava superior to the right side of the v. cava inferior. It marks on the outside the line of the crista terminalis.",
+      "id": "Alur dangkal pada permukaan luar atrium dextrum, berjalan dari sisi kanan v. cava superior ke sisi kanan v. cava inferior. Sulcus ini menandai dari luar garis crista terminalis."
+    },
+    "facts": {
+      "bone": "right-atrium",
+      "relations": {
+        "en": "The nodus sinuatrialis lies under the epicardium at its upper end, at the junction of the v. cava superior and the right atrium.",
+        "id": "Nodus sinuatrialis terletak di bawah epicardium pada ujung atasnya, di pertemuan v. cava superior dengan atrium dextrum."
+      }
+    },
+    "quiz": {
+      "bone": [
+        "Atrium dextrum"
+      ]
+    }
+  },
+  {
+    "key": "fossa-ovalis",
+    "kind": "landmark",
+    "model": false,
+    "la": "Fossa ovalis",
+    "alt": [
+      "Fossa ovalis cordis",
+      "Fossa ovalis atrii dextri"
+    ],
+    "en": "Oval fossa",
+    "desc": {
+      "en": "Oval, thumbprint-sized depression on the septal wall of the right atrium, above and to the left of the opening of the v. cava inferior. It is the remnant of the foramen ovale, through which blood passed from the right to the left atrium before birth. Its raised margin is the limbus fossae ovalis.",
+      "id": "Cekungan lonjong sebesar sidik ibu jari pada dinding septum atrium dextrum, di atas dan di kiri muara v. cava inferior. Fossa ini adalah sisa foramen ovale, tempat darah mengalir dari atrium kanan ke atrium kiri sebelum lahir. Tepinya yang menonjol disebut limbus fossae ovalis."
+    },
+    "facts": {
+      "bone": "right-atrium",
+      "relations": {
+        "en": "Its floor comes from the septum primum and its limbus from the septum secundum. After birth the higher pressure in the left atrium presses the floor against the limbus, and the two usually fuse.",
+        "id": "Dasarnya berasal dari septum primum dan limbusnya dari septum secundum. Setelah lahir, tekanan atrium kiri yang lebih tinggi menekan dasar fossa ke limbus, dan keduanya biasanya menyatu."
+      },
+      "clinical": {
+        "en": "In about a quarter of adults the upper part does not fuse completely and a probe can be passed through (probe-patent foramen ovale). A larger opening is an atrial septal defect, which shunts blood from left to right.",
+        "id": "Pada sekitar seperempat orang dewasa, bagian atasnya tidak menyatu sempurna sehingga sonde dapat dimasukkan (foramen ovale paten). Lubang yang lebih besar adalah defek septum atrium, yang menimbulkan pirau darah dari kiri ke kanan."
+      }
+    },
+    "quiz": {
+      "bone": [
+        "Atrium dextrum"
+      ],
+      "remnant_of": [
+        "Foramen ovale"
+      ]
+    }
+  },
+  {
+    "key": "opening-of-coronary-sinus",
+    "kind": "landmark",
+    "model": false,
+    "la": "Ostium sinus coronarii",
+    "alt": [
+      "Ostium sinus coronarii cordis"
+    ],
+    "en": "Opening of coronary sinus",
+    "desc": {
+      "en": "Opening of the sinus coronarius into the right atrium, between the opening of the v. cava inferior and the right atrioventricular orifice. A thin crescent-shaped fold, the valvula sinus coronarii, may partly cover it.",
+      "id": "Muara sinus coronarius ke atrium dextrum, di antara muara v. cava inferior dan ostium atrioventriculare dextrum. Lipatan tipis berbentuk bulan sabit, valvula sinus coronarii, dapat menutupi sebagian muara ini."
+    },
+    "facts": {
+      "bone": "right-atrium",
+      "relations": {
+        "en": "It lies at the base of the triangle of Koch, the area of the septal wall that holds the nodus atrioventricularis; the other sides are the attachment of the septal cusp of the tricuspid valve and the tendon of Todaro.",
+        "id": "Ostium ini terletak di dasar segitiga Koch, daerah dinding septum yang memuat nodus atrioventricularis; sisi lainnya adalah perlekatan cuspis septalis katup trikuspid dan tendo Todaro."
+      }
+    },
+    "quiz": {
+      "bone": [
+        "Atrium dextrum"
+      ]
+    }
+  },
+  {
+    "key": "interatrial-septum",
+    "kind": "landmark",
+    "la": "Septum interatriale",
+    "alt": [
+      "Septum interatriale cordis",
+      "Septum atriorum"
+    ],
+    "en": "Interatrial septum",
+    "desc": {
+      "en": "Wall between the right and left atria. It lies obliquely, so the right atrium sits in front of and to the right of the left atrium. Its right side shows the fossa ovalis with its limbus.",
+      "id": "Dinding pemisah atrium kanan dan atrium kiri. Septum ini terletak miring, sehingga atrium dextrum berada di depan dan di kanan atrium sinistrum. Sisi kanannya memperlihatkan fossa ovalis dengan limbusnya."
+    },
+    "facts": {
+      "bone": "right-atrium",
+      "relations": {
+        "en": "The nodus atrioventricularis lies in its lower part, near the ostium sinus coronarii. On the left side the septum shows the crescent-shaped valvula foraminis ovalis.",
+        "id": "Nodus atrioventricularis terletak di bagian bawahnya, dekat ostium sinus coronarii. Di sisi kiri, septum memperlihatkan valvula foraminis ovalis yang berbentuk bulan sabit."
+      },
+      "clinical": {
+        "en": "Atrial septal defects, most often at the fossa ovalis, cause a left-to-right shunt and enlarge the right heart.",
+        "id": "Defek septum atrium, paling sering di fossa ovalis, menyebabkan pirau dari kiri ke kanan dan pembesaran jantung kanan."
+      }
+    },
+    "quiz": {
+      "feature": [
+        "Fossa ovalis"
+      ]
+    }
+  },
+  {
+    "key": "interventricular-septum",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Septum interventriculare",
+    "alt": [
+      "Septum interventriculare cordis",
+      "Septum ventriculorum"
+    ],
+    "en": "Interventricular septum",
+    "desc": {
+      "en": "Thick, obliquely placed wall between the two ventricles. Most of it is muscular (pars muscularis); a small thin upper part just below the aortic valve is membranous (pars membranacea). Because the pressure is higher on the left, it bulges into the right ventricle.",
+      "id": "Dinding tebal yang terletak miring di antara kedua ventriculus. Sebagian besar berupa otot (pars muscularis); bagian atas yang kecil dan tipis tepat di bawah valva aortae berupa membran (pars membranacea). Karena tekanan di kiri lebih tinggi, septum menonjol ke arah ventriculus dexter."
+    },
+    "facts": {
+      "location": {
+        "en": "Its edges are marked on the surface of the heart by the sulcus interventricularis anterior and the sulcus interventricularis posterior.",
+        "id": "Tepinya ditandai pada permukaan jantung oleh sulcus interventricularis anterior dan sulcus interventricularis posterior."
+      },
+      "features": {
+        "en": "The fasciculus atrioventricularis (bundle of His) runs along the lower edge of the membranous part and divides on the muscular part into the right and left bundle branches. The trabecula septomarginalis leaves its right side.",
+        "id": "Fasciculus atrioventricularis (berkas His) berjalan di tepi bawah pars membranacea dan bercabang pada pars muscularis menjadi crus dextrum dan crus sinistrum. Trabecula septomarginalis berpangkal dari sisi kanannya."
+      },
+      "blood": [
+        "Rami interventriculares septales",
+        "Ramus interventricularis anterior",
+        "Ramus interventricularis posterior"
+      ],
+      "clinical": {
+        "en": "The septal branches of the ramus interventricularis anterior supply about its anterior two thirds and those of the ramus interventricularis posterior the posterior third. Ventricular septal defects are the most common congenital heart defect, and most lie in or next to the membranous part.",
+        "id": "Rami septales dari ramus interventricularis anterior memperdarahi kira-kira dua pertiga anterior septum, dan rami septales dari ramus interventricularis posterior memperdarahi sepertiga posteriornya. Defek septum ventrikel adalah kelainan jantung bawaan yang paling sering, dan sebagian besar terletak di pars membranacea atau di dekatnya."
+      }
+    },
+    "quiz": {
+      "parts": [
+        "Pars muscularis et pars membranacea",
+        "Pars muscularis",
+        "Pars membranacea"
+      ]
+    }
+  },
+  {
+    "key": "conus-arteriosus",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Conus arteriosus",
+    "alt": [
+      "Infundibulum",
+      "Infundibulum ventriculi dextri"
+    ],
+    "en": "Conus arteriosus (infundibulum)",
+    "desc": {
+      "en": "Smooth-walled, funnel-shaped outflow part of the right ventricle that leads up to the valva trunci pulmonalis. The crista supraventricularis separates it from the trabeculated inflow part.",
+      "id": "Bagian outflow ventriculus dexter yang berdinding licin dan berbentuk corong, naik menuju valva trunci pulmonalis. Crista supraventricularis memisahkannya dari bagian inflow yang bertrabekula."
+    },
+    "facts": {
+      "location": {
+        "en": "Upper left part of the right ventricle, just below the pulmonary valve, which lies behind the medial end of the left 3rd costal cartilage.",
+        "id": "Bagian kiri atas ventriculus dexter, tepat di bawah valva trunci pulmonalis yang terletak di belakang ujung medial cartilago costalis III kiri."
+      },
+      "features": {
+        "en": "It develops from the bulbus cordis of the embryonic heart, which explains its smooth wall.",
+        "id": "Conus arteriosus berkembang dari bulbus cordis jantung embrio, sehingga dindingnya licin."
+      },
+      "blood": [
+        "Ramus coni arteriosi",
+        "Arteria coronaria dextra"
+      ]
+    },
+    "quiz": {
+      "leads_to": [
+        "Truncus pulmonalis",
+        "Valva trunci pulmonalis"
+      ]
+    }
+  },
+  {
+    "key": "supraventricular-crest",
+    "kind": "landmark",
+    "model": false,
+    "la": "Crista supraventricularis",
+    "alt": [
+      "Crista supraventricularis ventriculi dextri"
+    ],
+    "en": "Supraventricular crest",
+    "desc": {
+      "en": "Thick curved muscular ridge on the inner wall of the right ventricle, between the right atrioventricular orifice and the conus arteriosus. It separates the rough inflow part of the chamber from the smooth outflow part.",
+      "id": "Rigi otot tebal yang melengkung pada dinding dalam ventriculus dexter, di antara ostium atrioventriculare dextrum dan conus arteriosus. Crista ini memisahkan bagian inflow yang kasar dari bagian outflow yang licin."
+    },
+    "facts": {
+      "bone": "right-ventricle",
+      "relations": {
+        "en": "Blood entering from the right atrium flows forward toward the apex below the crest, then turns upward through the conus arteriosus to the pulmonary valve.",
+        "id": "Darah yang masuk dari atrium dextrum mengalir ke depan menuju apex di bawah crista, lalu berbelok ke atas melalui conus arteriosus menuju valva trunci pulmonalis."
+      }
+    },
+    "quiz": {
+      "bone": [
+        "Ventriculus dexter"
+      ]
+    }
+  },
+  {
+    "key": "septomarginal-trabecula",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Trabecula septomarginalis",
+    "alt": [
+      "Trabecula septomarginalis ventriculi dextri"
+    ],
+    "en": "Septomarginal trabecula (moderator band)",
+    "desc": {
+      "en": "Curved muscular band in the right ventricle that crosses the cavity from the lower part of the septum interventriculare to the base of the anterior papillary muscle. It is also called the moderator band.",
+      "id": "Pita otot melengkung di dalam ventriculus dexter yang menyeberangi rongga dari bagian bawah septum interventriculare ke pangkal m. papillaris anterior. Struktur ini juga disebut moderator band."
+    },
+    "facts": {
+      "location": {
+        "en": "Lower part of the right ventricle, between the septal wall and the anterior wall.",
+        "id": "Bagian bawah ventriculus dexter, di antara dinding septum dan dinding anterior."
+      },
+      "features": {
+        "en": "It carries part of the right bundle branch (crus dextrum of the AV bundle) straight to the anterior papillary muscle. This short path lets the muscle contract in time with the rest of the ventricle and tense its chordae before the cusps are loaded.",
+        "id": "Trabecula ini membawa sebagian crus dextrum fasciculus atrioventricularis langsung ke m. papillaris anterior. Jalur pendek ini membuat otot tersebut berkontraksi bersamaan dengan bagian ventriculus lainnya dan menegangkan chordae-nya sebelum cuspis mendapat beban."
+      }
+    },
+    "quiz": {
+      "carries": [
+        "Crus dextrum fasciculi atrioventricularis",
+        "Crus dextrum",
+        "Berkas cabang kanan"
+      ]
+    }
+  },
+  {
+    "key": "trabeculae-carneae",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Trabeculae carneae",
+    "alt": [
+      "Trabeculae carneae cordis",
+      "Trabeculae carneae ventriculi dextri",
+      "Trabeculae carneae ventriculi sinistri",
+      "Trabecula carnea"
+    ],
+    "en": "Trabeculae carneae",
+    "desc": {
+      "en": "Irregular muscular ridges and bridges on the inner walls of both ventricles. In the left ventricle they are finer and more numerous than in the right. The outflow parts (conus arteriosus and vestibulum aortae) are smooth.",
+      "id": "Rigi dan jembatan otot yang tidak teratur pada dinding dalam kedua ventriculus. Di ventriculus sinister trabekula ini lebih halus dan lebih banyak daripada di ventriculus dexter. Bagian outflow (conus arteriosus dan vestibulum aortae) licin."
+    },
+    "facts": {
+      "features": {
+        "en": "Some are ridges attached along their whole length; others are bridges attached only at their ends, such as the trabecula septomarginalis. The musculi papillares are conical projections of the same muscle.",
+        "id": "Sebagian berupa rigi yang melekat sepanjang seluruh panjangnya; sebagian lain berupa jembatan yang hanya melekat di kedua ujungnya, misalnya trabecula septomarginalis. Musculi papillares adalah tonjolan kerucut dari otot yang sama."
+      }
+    },
+    "quiz": {
+      "location": [
+        "Ventriculus dexter et sinister",
+        "Ventriculus"
+      ]
+    }
+  },
+  {
+    "key": "chordae-tendineae",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Chordae tendineae",
+    "alt": [
+      "Chorda tendinea",
+      "Chordae tendineae cordis"
+    ],
+    "en": "Tendinous cords (chordae tendineae)",
+    "desc": {
+      "en": "Thin fibrous cords that run from the tips of the papillary muscles to the free edges and ventricular surfaces of the cusps of the atrioventricular valves. Each papillary muscle sends cords to two neighbouring cusps, so the cords hold the cusps together and stop them turning back into the atrium during systole.",
+      "id": "Tali fibrosa tipis yang berjalan dari ujung musculi papillares ke tepi bebas dan permukaan ventrikel cuspis valva atrioventricularis. Setiap m. papillaris mengirim chordae ke dua cuspis yang bersebelahan, sehingga chordae menahan cuspis tetap rapat dan mencegahnya terbalik ke atrium saat sistol."
+    },
+    "facts": {
+      "location": {
+        "en": "Both ventricles, between the musculi papillares and the cusps of the tricuspid and mitral valves. Some cords of the septal cusp arise directly from the septal wall.",
+        "id": "Kedua ventriculus, di antara musculi papillares dan cuspis katup trikuspid serta katup mitral. Sebagian chordae cuspis septalis berpangkal langsung dari dinding septum."
+      },
+      "clinical": {
+        "en": "Rupture of chordae, after infarction or in endocarditis, lets a cusp flail into the atrium and causes sudden valve regurgitation.",
+        "id": "Robeknya chordae, setelah infark atau pada endokarditis, membuat cuspis terayun bebas ke atrium dan menyebabkan regurgitasi katup yang mendadak."
+      }
+    },
+    "quiz": {
+      "connects": [
+        "Musculi papillares et cuspides",
+        "Musculi papillares",
+        "Cuspis"
+      ]
+    }
+  },
+  {
+    "key": "papillary-muscles",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Musculi papillares",
+    "alt": [
+      "Mm. papillares",
+      "Mm. papilares",
+      "Musculus papillaris",
+      "Musculi papillares ventriculi dextri",
+      "Musculi papillares ventriculi sinistri"
+    ],
+    "en": "Papillary muscles",
+    "desc": {
+      "en": "Conical muscular projections of the ventricular wall whose tips give off chordae tendineae to the cusps of the atrioventricular valves. They contract at the start of ventricular systole and keep the cusps from being pushed into the atria.",
+      "id": "Tonjolan otot berbentuk kerucut dari dinding ventriculus yang ujungnya memberikan chordae tendineae ke cuspis valva atrioventricularis. Otot ini berkontraksi pada awal sistol ventrikel dan menahan cuspis agar tidak terdorong ke atrium."
+    },
+    "facts": {
+      "features": {
+        "en": "Right ventricle: three, the musculus papillaris anterior, posterior and septalis. Left ventricle: two, the musculus papillaris anterior and posterior, larger than those on the right. TA2 renames the posterior muscles inferior.",
+        "id": "Ventriculus dexter: tiga, yaitu m. papillaris anterior, posterior dan septalis. Ventriculus sinister: dua, yaitu m. papillaris anterior dan posterior, yang lebih besar daripada di kanan. TA2 menamai m. papillaris posterior sebagai m. papillaris inferior."
+      },
+      "note": {
+        "en": "The valves open and close passively with the pressure changes; the papillary muscles only limit how far the cusps can move toward the atrium.",
+        "id": "Katup membuka dan menutup secara pasif mengikuti perubahan tekanan; musculi papillares hanya membatasi seberapa jauh cuspis dapat bergerak ke arah atrium."
+      }
+    },
+    "quiz": {
+      "right_ventricle": [
+        "3",
+        "tiga"
+      ],
+      "left_ventricle": [
+        "2",
+        "dua"
+      ]
+    }
+  },
+  {
+    "key": "anterior-papillary-muscle-of-right-ventricle",
+    "kind": "organ-part",
+    "la": "Musculus papillaris anterior ventriculi dextri",
+    "alt": [
+      "Musculus papillaris anterior",
+      "M. papillaris anterior",
+      "M. papillaris anterior ventriculi dextri"
+    ],
+    "en": "Anterior papillary muscle of right ventricle",
+    "desc": {
+      "en": "Largest papillary muscle of the right ventricle. It arises from the anterior wall, where the trabecula septomarginalis joins its base, and its chordae tendineae go to the anterior and posterior cusps of the tricuspid valve.",
+      "id": "M. papillaris terbesar di ventriculus dexter. Otot ini berpangkal dari dinding anterior, tempat trabecula septomarginalis bergabung dengan pangkalnya, dan chordae tendineae-nya menuju cuspis anterior dan cuspis posterior katup trikuspid."
+    },
+    "facts": {
+      "location": {
+        "en": "Anterior (sternocostal) wall of the right ventricle.",
+        "id": "Dinding anterior (sternocostal) ventriculus dexter."
+      },
+      "relations": {
+        "en": "The trabecula septomarginalis brings part of the right bundle branch to its base.",
+        "id": "Trabecula septomarginalis membawa sebagian crus dextrum fasciculus atrioventricularis ke pangkalnya."
+      }
+    },
+    "quiz": {
+      "chordae_to": [
+        "Cuspis anterior et posterior",
+        "Cuspis anterior",
+        "Cuspis posterior"
+      ]
+    }
+  },
+  {
+    "key": "inferior-papillary-muscle-of-right-ventricle",
+    "kind": "organ-part",
+    "la": "Musculus papillaris posterior ventriculi dextri",
+    "alt": [
+      "Musculus papillaris posterior",
+      "M. papillaris posterior",
+      "Musculus papillaris inferior ventriculi dextri",
+      "Musculus papillaris inferior",
+      "M. papillaris inferior"
+    ],
+    "en": "Posterior (inferior) papillary muscle of right ventricle",
+    "desc": {
+      "en": "Smaller papillary muscle of the right ventricle, often split into two or three parts. It arises from the inferior (diaphragmatic) wall, and its chordae tendineae go to the posterior and septal cusps of the tricuspid valve. TA98 calls it posterior; TA2 calls it inferior.",
+      "id": "M. papillaris yang lebih kecil di ventriculus dexter, sering terbagi menjadi dua atau tiga bagian. Otot ini berpangkal dari dinding inferior (diaphragmatica), dan chordae tendineae-nya menuju cuspis posterior dan cuspis septalis katup trikuspid. TA98 menamainya posterior; TA2 menamainya inferior."
+    },
+    "facts": {
+      "location": {
+        "en": "Inferior (diaphragmatic) wall of the right ventricle.",
+        "id": "Dinding inferior (diaphragmatica) ventriculus dexter."
+      }
+    },
+    "quiz": {
+      "chordae_to": [
+        "Cuspis posterior et septalis",
+        "Cuspis posterior",
+        "Cuspis septalis"
+      ]
+    }
+  },
+  {
+    "key": "septal-papillary-muscle-of-right-ventricle",
+    "kind": "organ-part",
+    "la": "Musculus papillaris septalis ventriculi dextri",
+    "alt": [
+      "Musculus papillaris septalis",
+      "M. papillaris septalis",
+      "M. papillaris septalis ventriculi dextri"
+    ],
+    "en": "Septal papillary muscle of right ventricle",
+    "desc": {
+      "en": "Small papillary muscle, sometimes only a few slips, arising from the septum interventriculare. Its chordae tendineae go to the anterior and septal cusps of the tricuspid valve.",
+      "id": "M. papillaris kecil, kadang hanya berupa beberapa berkas, yang berpangkal dari septum interventriculare. Chordae tendineae-nya menuju cuspis anterior dan cuspis septalis katup trikuspid."
+    },
+    "facts": {
+      "location": {
+        "en": "Septal wall of the right ventricle. It may be very small, and some chordae of the septal cusp then arise straight from the septum.",
+        "id": "Dinding septum ventriculus dexter. Otot ini bisa sangat kecil, dan sebagian chordae cuspis septalis lalu berpangkal langsung dari septum."
+      }
+    },
+    "quiz": {
+      "chordae_to": [
+        "Cuspis anterior et septalis",
+        "Cuspis anterior",
+        "Cuspis septalis"
+      ]
+    }
+  },
+  {
+    "key": "anterior-papillary-muscle-of-left-ventricle",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Musculus papillaris anterior ventriculi sinistri",
+    "alt": [
+      "Musculus papillaris anterior",
+      "M. papillaris anterior",
+      "M. papillaris anterior ventriculi sinistri"
+    ],
+    "en": "Anterior papillary muscle of left ventricle",
+    "desc": {
+      "en": "One of the two large papillary muscles of the left ventricle, arising from the anterolateral (sternocostal) wall. Its chordae tendineae go to the lateral halves of both cusps of the mitral valve. Clinicians call it the anterolateral papillary muscle.",
+      "id": "Salah satu dari dua m. papillaris besar di ventriculus sinister, berpangkal dari dinding anterolateral (sternocostal). Chordae tendineae-nya menuju separuh lateral kedua cuspis katup mitral. Di klinik otot ini disebut m. papillaris anterolateral."
+    },
+    "facts": {
+      "location": {
+        "en": "Anterolateral wall of the left ventricle.",
+        "id": "Dinding anterolateral ventriculus sinister."
+      },
+      "blood": [
+        "Ramus interventricularis anterior",
+        "Ramus circumflexus"
+      ],
+      "clinical": {
+        "en": "It usually has a double blood supply, from diagonal branches of the ramus interventricularis anterior and marginal branches of the ramus circumflexus, so it ruptures less often after infarction than the posterior muscle.",
+        "id": "Otot ini biasanya mendapat perdarahan ganda, dari cabang diagonal ramus interventricularis anterior dan cabang marginal ramus circumflexus, sehingga lebih jarang robek setelah infark dibandingkan m. papillaris posterior."
+      }
+    },
+    "quiz": {
+      "chordae_to": [
+        "Cuspis anterior et posterior",
+        "Cuspis anterior",
+        "Cuspis posterior"
+      ]
+    }
+  },
+  {
+    "key": "inferior-papillary-muscle-of-left-ventricle",
+    "kind": "organ-part",
+    "la": "Musculus papillaris posterior ventriculi sinistri",
+    "alt": [
+      "Musculus papillaris posterior",
+      "M. papillaris posterior",
+      "Musculus papillaris inferior ventriculi sinistri",
+      "Musculus papillaris inferior",
+      "M. papillaris inferior"
+    ],
+    "en": "Posterior (inferior) papillary muscle of left ventricle",
+    "desc": {
+      "en": "The posterior papillary muscle of the left ventricle (posteromedial in clinical use), arising from the inferior (diaphragmatic) wall. Its chordae tendineae go to the medial halves of both cusps of the mitral valve. TA98 calls it posterior; TA2 calls it inferior.",
+      "id": "M. papillaris posterior ventriculus sinister (di klinik disebut posteromedial), berpangkal dari dinding inferior (diaphragmatica). Chordae tendineae-nya menuju separuh medial kedua cuspis katup mitral. TA98 menamainya posterior; TA2 menamainya inferior."
+    },
+    "facts": {
+      "location": {
+        "en": "Inferior (diaphragmatic) wall of the left ventricle.",
+        "id": "Dinding inferior (diaphragmatica) ventriculus sinister."
+      },
+      "blood": [
+        "Ramus interventricularis posterior"
+      ],
+      "clinical": {
+        "en": "It usually depends on a single artery, the ramus interventricularis posterior, so it is the papillary muscle that ruptures most often after an inferior myocardial infarction, causing acute mitral regurgitation.",
+        "id": "Otot ini biasanya hanya bergantung pada satu arteri, yaitu ramus interventricularis posterior, sehingga paling sering robek setelah infark miokard inferior dan menimbulkan regurgitasi mitral akut."
+      }
+    },
+    "quiz": {
+      "chordae_to": [
+        "Cuspis anterior et posterior",
+        "Cuspis anterior",
+        "Cuspis posterior"
+      ]
+    }
+  },
+  {
+    "key": "right-atrioventricular-valve",
+    "kind": "organ-part",
+    "la": "Valva atrioventricularis dextra",
+    "alt": [
+      "Valva tricuspidalis",
+      "Valva atrioventricularis dextra cordis"
+    ],
+    "en": "Right atrioventricular (tricuspid) valve",
+    "desc": {
+      "en": "Valve between the right atrium and the right ventricle with three cusps: anterior, posterior and septal. The cusps hang from the fibrous ring (anulus fibrosus) around the right atrioventricular orifice and are held by chordae tendineae from three papillary muscles.",
+      "id": "Katup di antara atrium dextrum dan ventriculus dexter dengan tiga cuspis: anterior, posterior dan septalis. Cuspis tergantung pada cincin fibrosa (anulus fibrosus) di sekeliling ostium atrioventriculare dextrum dan ditahan oleh chordae tendineae dari tiga musculi papillares."
+    },
+    "facts": {
+      "location": {
+        "en": "Behind the right half of the sternum at about the level of the 4th intercostal space.",
+        "id": "Di belakang separuh kanan sternum, kira-kira setinggi spatium intercostale IV."
+      },
+      "features": {
+        "en": "The anterior cusp is the largest and the posterior cusp the smallest; the septal cusp is attached to the septum interventriculare. Each papillary muscle sends chordae to two neighbouring cusps: anterior muscle to the anterior and posterior cusps, posterior muscle to the posterior and septal cusps, septal muscle to the anterior and septal cusps.",
+        "id": "Cuspis anterior paling besar dan cuspis posterior paling kecil; cuspis septalis melekat pada septum interventriculare. Setiap m. papillaris mengirim chordae ke dua cuspis yang bersebelahan: m. papillaris anterior ke cuspis anterior dan posterior, m. papillaris posterior ke cuspis posterior dan septalis, m. papillaris septalis ke cuspis anterior dan septalis."
+      },
+      "relations": {
+        "en": "The nodus atrioventricularis and the AV bundle lie close to the attachment of the septal cusp.",
+        "id": "Nodus atrioventricularis dan fasciculus atrioventricularis terletak dekat perlekatan cuspis septalis."
+      },
+      "clinical": {
+        "en": "Best heard at the lower left sternal border (left 4th-5th intercostal space). Tricuspid regurgitation is common when the right ventricle dilates in pulmonary hypertension.",
+        "id": "Paling jelas didengar di tepi kiri bawah sternum (spatium intercostale IV-V kiri). Regurgitasi trikuspid sering terjadi bila ventriculus dexter melebar pada hipertensi pulmonal."
+      }
+    },
+    "quiz": {
+      "cusps": [
+        "3",
+        "tiga"
+      ]
+    }
+  },
+  {
+    "key": "anterior-leaflet-of-right-atrioventricular-valve",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Cuspis anterior valvae atrioventricularis dextrae",
+    "alt": [
+      "Cuspis anterior",
+      "Cuspis anterior valvae tricuspidalis",
+      "Cuspis superior valvae atrioventricularis dextrae",
+      "Cuspis superior"
+    ],
+    "en": "Anterior cusp of tricuspid valve",
+    "desc": {
+      "en": "Largest cusp of the tricuspid valve, attached to the anterior part of the fibrous ring next to the conus arteriosus. It partly separates the inflow path of the right ventricle from the outflow path and receives chordae from the anterior and septal papillary muscles.",
+      "id": "Cuspis terbesar katup trikuspid, melekat pada bagian anterior cincin fibrosa di dekat conus arteriosus. Cuspis ini sebagian memisahkan jalur inflow ventriculus dexter dari jalur outflow-nya dan menerima chordae dari m. papillaris anterior dan septalis."
+    },
+    "facts": {
+      "location": {
+        "en": "Anterosuperior part of the right atrioventricular orifice.",
+        "id": "Bagian anterosuperior ostium atrioventriculare dextrum."
+      },
+      "note": {
+        "en": "TA98 name: cuspis anterior. TA2 gives cuspis superior as the main name and keeps cuspis anterior as a synonym.",
+        "id": "Nama TA98: cuspis anterior. TA2 memakai cuspis superior sebagai nama utama dan tetap menyimpan cuspis anterior sebagai sinonim."
+      }
+    },
+    "quiz": {
+      "valve": [
+        "Valva atrioventricularis dextra",
+        "Valva tricuspidalis"
+      ]
+    }
+  },
+  {
+    "key": "inferior-leaflet-of-right-atrioventricular-valve",
+    "kind": "organ-part",
+    "la": "Cuspis posterior valvae atrioventricularis dextrae",
+    "alt": [
+      "Cuspis posterior",
+      "Cuspis posterior valvae tricuspidalis",
+      "Cuspis inferior valvae atrioventricularis dextrae",
+      "Cuspis inferior"
+    ],
+    "en": "Posterior (inferior) cusp of tricuspid valve",
+    "desc": {
+      "en": "Smallest cusp of the tricuspid valve, attached along the inferior (diaphragmatic) part of the fibrous ring. It receives chordae from the anterior and posterior papillary muscles. TA98 calls it posterior; TA2 calls it inferior.",
+      "id": "Cuspis terkecil katup trikuspid, melekat sepanjang bagian inferior (diaphragmatica) cincin fibrosa. Cuspis ini menerima chordae dari m. papillaris anterior dan posterior. TA98 menamainya posterior; TA2 menamainya inferior."
+    },
+    "facts": {
+      "location": {
+        "en": "Inferior part of the right atrioventricular orifice, toward the diaphragmatic surface.",
+        "id": "Bagian inferior ostium atrioventriculare dextrum, ke arah facies diaphragmatica."
+      }
+    },
+    "quiz": {
+      "valve": [
+        "Valva atrioventricularis dextra",
+        "Valva tricuspidalis"
+      ]
+    }
+  },
+  {
+    "key": "septal-leaflet-of-right-atrioventricular-valve",
+    "kind": "organ-part",
+    "la": "Cuspis septalis valvae atrioventricularis dextrae",
+    "alt": [
+      "Cuspis septalis",
+      "Cuspis septalis valvae tricuspidalis",
+      "Cuspis medialis"
+    ],
+    "en": "Septal cusp of tricuspid valve",
+    "desc": {
+      "en": "Cusp of the tricuspid valve attached to the septum interventriculare, across its membranous part. It receives chordae from the posterior and septal papillary muscles, and some cords arise straight from the septal wall.",
+      "id": "Cuspis katup trikuspid yang melekat pada septum interventriculare, melintasi pars membranacea. Cuspis ini menerima chordae dari m. papillaris posterior dan septalis, dan sebagian chordae berpangkal langsung dari dinding septum."
+    },
+    "facts": {
+      "location": {
+        "en": "Medial (septal) part of the right atrioventricular orifice.",
+        "id": "Bagian medial (septal) ostium atrioventriculare dextrum."
+      },
+      "relations": {
+        "en": "Its attachment forms one side of the triangle of Koch. The nodus atrioventricularis and the AV bundle lie close by and can be injured in operations on this valve.",
+        "id": "Perlekatannya membentuk salah satu sisi segitiga Koch. Nodus atrioventricularis dan fasciculus atrioventricularis terletak di dekatnya dan dapat cedera pada operasi katup ini."
+      }
+    },
+    "quiz": {
+      "valve": [
+        "Valva atrioventricularis dextra",
+        "Valva tricuspidalis"
+      ]
+    }
+  },
+  {
+    "key": "left-atrioventricular-valve",
+    "kind": "organ-part",
+    "la": "Valva atrioventricularis sinistra",
+    "alt": [
+      "Valva mitralis",
+      "Valva bicuspidalis",
+      "Valva atrioventricularis sinistra cordis"
+    ],
+    "en": "Left atrioventricular (mitral) valve",
+    "desc": {
+      "en": "Valve between the left atrium and the left ventricle with two cusps, anterior and posterior; its shape recalls a bishop's mitre. Both papillary muscles of the left ventricle send chordae tendineae to each cusp.",
+      "id": "Katup di antara atrium sinistrum dan ventriculus sinister dengan dua cuspis, anterior dan posterior; bentuknya menyerupai mitra (topi uskup). Kedua m. papillaris ventriculus sinister mengirim chordae tendineae ke masing-masing cuspis."
+    },
+    "facts": {
+      "location": {
+        "en": "Behind the left half of the sternum at the level of the 4th costal cartilage.",
+        "id": "Di belakang separuh kiri sternum setinggi cartilago costalis IV."
+      },
+      "features": {
+        "en": "Anterior (aortic) cusp: larger and deeper, between the mitral and aortic orifices. Posterior (mural) cusp: lower, but attached along a longer part of the ring. Small commissural cusps may lie at the anterolateral and posteromedial commissures.",
+        "id": "Cuspis anterior (aortica): lebih besar dan lebih dalam, di antara ostium mitral dan ostium aortae. Cuspis posterior (muralis): lebih rendah, tetapi melekat sepanjang bagian cincin yang lebih panjang. Cuspis commissuralis kecil dapat ditemukan pada commissura anterolateral dan posteromedial."
+      },
+      "clinical": {
+        "en": "Best heard over the apex, in the left 5th intercostal space in the midclavicular line. Rheumatic mitral stenosis enlarges the left atrium; mitral valve prolapse most often affects the posterior cusp.",
+        "id": "Paling jelas didengar di atas apex, di spatium intercostale V kiri pada linea medioclavicularis. Stenosis mitral akibat demam rematik memperbesar atrium sinistrum; prolaps katup mitral paling sering mengenai cuspis posterior."
+      }
+    },
+    "quiz": {
+      "cusps": [
+        "2",
+        "dua"
+      ]
+    }
+  },
+  {
+    "key": "anterior-leaflet-of-left-atrioventricular-valve",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Cuspis anterior valvae atrioventricularis sinistrae",
+    "alt": [
+      "Cuspis anterior",
+      "Cuspis anterior valvae mitralis",
+      "Cuspis aortica valvae atrioventricularis sinistrae",
+      "Cuspis aortica"
+    ],
+    "en": "Anterior cusp of mitral valve",
+    "desc": {
+      "en": "Larger, roughly semicircular cusp of the mitral valve. It lies between the mitral and aortic orifices and is joined by fibrous tissue to the aortic valve, so blood leaving the left ventricle flows past its ventricular surface toward the aorta.",
+      "id": "Cuspis katup mitral yang lebih besar dan kira-kira berbentuk setengah lingkaran. Cuspis ini terletak di antara ostium mitral dan ostium aortae dan bersambung melalui jaringan fibrosa dengan valva aortae, sehingga darah yang keluar dari ventriculus sinister mengalir melewati permukaan ventrikelnya menuju aorta."
+    },
+    "facts": {
+      "location": {
+        "en": "Anteromedial part of the left atrioventricular orifice, next to the aortic orifice.",
+        "id": "Bagian anteromedial ostium atrioventriculare sinistrum, di samping ostium aortae."
+      },
+      "features": {
+        "en": "Attached to about one third of the ring but deeper than the posterior cusp. It receives chordae from both papillary muscles. TA2 adds the name cuspis aortica.",
+        "id": "Melekat pada sekitar sepertiga cincin, tetapi lebih dalam daripada cuspis posterior. Cuspis ini menerima chordae dari kedua m. papillaris. TA2 menambahkan nama cuspis aortica."
+      }
+    },
+    "quiz": {
+      "valve": [
+        "Valva atrioventricularis sinistra",
+        "Valva mitralis",
+        "Valva bicuspidalis"
+      ]
+    }
+  },
+  {
+    "key": "posterior-leaflet-of-left-atrioventricular-valve",
+    "kind": "organ-part",
+    "la": "Cuspis posterior valvae atrioventricularis sinistrae",
+    "alt": [
+      "Cuspis posterior",
+      "Cuspis posterior valvae mitralis",
+      "Cuspis muralis valvae atrioventricularis sinistrae",
+      "Cuspis muralis"
+    ],
+    "en": "Posterior cusp of mitral valve",
+    "desc": {
+      "en": "Smaller, lower cusp of the mitral valve, attached along about two thirds of the fibrous ring on its posterior side. It usually has three scallops and receives chordae from both papillary muscles of the left ventricle.",
+      "id": "Cuspis katup mitral yang lebih kecil dan lebih rendah, melekat sepanjang kira-kira dua pertiga cincin fibrosa di sisi posteriornya. Cuspis ini biasanya memiliki tiga lekukan (scallop) dan menerima chordae dari kedua m. papillaris ventriculus sinister."
+    },
+    "facts": {
+      "location": {
+        "en": "Posterolateral part of the left atrioventricular orifice, against the ventricular wall (hence the TA2 synonym cuspis muralis).",
+        "id": "Bagian posterolateral ostium atrioventriculare sinistrum, menempel pada dinding ventriculus (karena itu TA2 memberi sinonim cuspis muralis)."
+      },
+      "clinical": {
+        "en": "Mitral valve prolapse most often involves this cusp, especially its middle scallop.",
+        "id": "Prolaps katup mitral paling sering mengenai cuspis ini, terutama lekukan tengahnya."
+      },
+      "note": {
+        "en": "This cusp belongs to the mitral valve (valva atrioventricularis sinistra), although the model's structure list files it under the right atrioventricular valve.",
+        "id": "Cuspis ini milik katup mitral (valva atrioventricularis sinistra), meskipun daftar struktur model menempatkannya di bawah valva atrioventricularis dextra."
+      }
+    },
+    "quiz": {
+      "valve": [
+        "Valva atrioventricularis sinistra",
+        "Valva mitralis",
+        "Valva bicuspidalis"
+      ]
+    }
+  },
+  {
+    "key": "aortic-valve",
+    "kind": "organ-part",
+    "la": "Valva aortae",
+    "alt": [
+      "Valva aortica",
+      "Valva aortae cordis"
+    ],
+    "en": "Aortic valve",
+    "desc": {
+      "en": "Semilunar valve at the aortic orifice of the left ventricle with three cusps: right, left and posterior. Above each cusp the aortic wall bulges as an aortic sinus, and the a. coronaria dextra and sinistra arise from the right and left sinuses.",
+      "id": "Katup semilunar pada ostium aortae ventriculus sinister dengan tiga valvula: dextra, sinistra dan posterior. Di atas setiap valvula, dinding aorta menggembung membentuk sinus aortae, dan a. coronaria dextra serta sinistra berasal dari sinus kanan dan kiri."
+    },
+    "facts": {
+      "location": {
+        "en": "Behind the left half of the sternum at the level of the 3rd intercostal space, in the centre of the heart between the other three valves.",
+        "id": "Di belakang separuh kiri sternum setinggi spatium intercostale III, di tengah jantung di antara tiga katup lainnya."
+      },
+      "features": {
+        "en": "Each cusp has a thickened nodulus at the middle of its free edge and thin lunulae on each side of it. The cusps have no chordae; they fill and close when blood falls back toward the ventricle at the start of diastole.",
+        "id": "Setiap valvula memiliki nodulus yang menebal di tengah tepi bebasnya dan lunula tipis di kedua sisinya. Valvula tidak memiliki chordae; valvula terisi dan menutup saat darah berbalik ke arah ventriculus pada awal diastol."
+      },
+      "clinical": {
+        "en": "Best heard in the right 2nd intercostal space next to the sternum. Aortic stenosis leads to left ventricular hypertrophy; a valve with two cusps (bicuspid aortic valve) is a common congenital variant.",
+        "id": "Paling jelas didengar di spatium intercostale II kanan di samping sternum. Stenosis aorta menyebabkan hipertrofi ventriculus sinister; katup dengan dua valvula (katup aorta bikuspid) adalah varian bawaan yang sering."
+      }
+    },
+    "quiz": {
+      "cusps": [
+        "3",
+        "tiga"
+      ]
+    }
+  },
+  {
+    "key": "right-coronary-leaflet",
+    "kind": "organ-part",
+    "la": "Valvula semilunaris dextra valvae aortae",
+    "alt": [
+      "Valvula semilunaris dextra",
+      "Valvula coronaria dextra",
+      "Valvula coronaria dextra valvae aortae"
+    ],
+    "en": "Right (coronary) cusp of aortic valve",
+    "desc": {
+      "en": "Anterior cusp of the aortic valve. The a. coronaria dextra arises from the right aortic sinus just above it, which is why TA2 calls it the right coronary leaflet.",
+      "id": "Valvula anterior valva aortae. A. coronaria dextra berasal dari sinus aortae dexter tepat di atasnya, sehingga TA2 menamainya valvula coronaria dextra."
+    },
+    "facts": {
+      "location": {
+        "en": "Front of the aortic orifice, facing the outflow part of the right ventricle.",
+        "id": "Bagian depan ostium aortae, menghadap bagian outflow ventriculus dexter."
+      }
+    },
+    "quiz": {
+      "artery": [
+        "Arteria coronaria dextra",
+        "A. coronaria dextra"
+      ]
+    }
+  },
+  {
+    "key": "left-coronary-leaflet",
+    "kind": "organ-part",
+    "la": "Valvula semilunaris sinistra valvae aortae",
+    "alt": [
+      "Valvula semilunaris sinistra",
+      "Valvula coronaria sinistra",
+      "Valvula coronaria sinistra valvae aortae"
+    ],
+    "en": "Left (coronary) cusp of aortic valve",
+    "desc": {
+      "en": "Left posterior cusp of the aortic valve. The a. coronaria sinistra arises from the left aortic sinus just above it, which is why TA2 calls it the left coronary leaflet.",
+      "id": "Valvula kiri belakang valva aortae. A. coronaria sinistra berasal dari sinus aortae sinister tepat di atasnya, sehingga TA2 menamainya valvula coronaria sinistra."
+    },
+    "facts": {
+      "location": {
+        "en": "Left side of the aortic orifice. With the posterior cusp it is joined by fibrous tissue to the anterior cusp of the mitral valve.",
+        "id": "Sisi kiri ostium aortae. Bersama valvula posterior, valvula ini bersambung melalui jaringan fibrosa dengan cuspis anterior katup mitral."
+      }
+    },
+    "quiz": {
+      "artery": [
+        "Arteria coronaria sinistra",
+        "A. coronaria sinistra"
+      ]
+    }
+  },
+  {
+    "key": "non-coronary-leaflet",
+    "kind": "organ-part",
+    "la": "Valvula semilunaris posterior valvae aortae",
+    "alt": [
+      "Valvula semilunaris posterior",
+      "Valvula noncoronaria",
+      "Valvula noncoronaria valvae aortae",
+      "Valvula non coronaria"
+    ],
+    "en": "Posterior (non-coronary) cusp of aortic valve",
+    "desc": {
+      "en": "Right posterior cusp of the aortic valve. No coronary artery arises from its sinus, so it is called the non-coronary cusp in clinical use and in TA2.",
+      "id": "Valvula kanan belakang valva aortae. Tidak ada arteri koroner yang berasal dari sinusnya, sehingga di klinik dan dalam TA2 valvula ini disebut valvula noncoronaria."
+    },
+    "facts": {
+      "location": {
+        "en": "Posterior part of the aortic orifice, facing the atria and the interatrial septum.",
+        "id": "Bagian posterior ostium aortae, menghadap ke atrium dan septum interatriale."
+      }
+    },
+    "quiz": {
+      "valve": [
+        "Valva aortae",
+        "Valva aortica"
+      ]
+    }
+  },
+  {
+    "key": "pulmonary-valve",
+    "kind": "organ-part",
+    "la": "Valva trunci pulmonalis",
+    "alt": [
+      "Valva pulmonalis",
+      "Valva trunci pulmonalis cordis"
+    ],
+    "en": "Pulmonary valve",
+    "desc": {
+      "en": "Semilunar valve at the top of the conus arteriosus, between the right ventricle and the truncus pulmonalis, with three cusps: anterior, right and left. It is the most anterior and highest of the heart valves.",
+      "id": "Katup semilunar di puncak conus arteriosus, di antara ventriculus dexter dan truncus pulmonalis, dengan tiga valvula: anterior, dextra dan sinistra. Katup ini adalah katup jantung yang paling depan dan paling tinggi."
+    },
+    "facts": {
+      "location": {
+        "en": "Behind the medial end of the left 3rd costal cartilage, where it joins the sternum.",
+        "id": "Di belakang ujung medial cartilago costalis III kiri, pada pertemuannya dengan sternum."
+      },
+      "features": {
+        "en": "As in the aortic valve, each cusp has a nodulus and lunulae, and the wall above each cusp forms a small sinus. No arteries arise from these sinuses.",
+        "id": "Seperti pada valva aortae, setiap valvula memiliki nodulus dan lunula, dan dinding di atas setiap valvula membentuk sinus kecil. Tidak ada arteri yang berasal dari sinus ini."
+      },
+      "clinical": {
+        "en": "Best heard in the left 2nd intercostal space next to the sternum.",
+        "id": "Paling jelas didengar di spatium intercostale II kiri di samping sternum."
+      }
+    },
+    "quiz": {
+      "cusps": [
+        "3",
+        "tiga"
+      ]
+    }
+  },
+  {
+    "key": "anterior-semilunar-leaflet-of-pulmonary-valve",
+    "kind": "organ-part",
+    "la": "Valvula semilunaris anterior valvae trunci pulmonalis",
+    "alt": [
+      "Valvula semilunaris anterior",
+      "Valvula semilunaris anterior trunci pulmonalis"
+    ],
+    "en": "Anterior cusp of pulmonary valve",
+    "desc": {
+      "en": "Anterior cusp of the pulmonary valve, the one that does not face the aortic valve.",
+      "id": "Valvula anterior valva trunci pulmonalis, yaitu valvula yang tidak berhadapan dengan valva aortae."
+    },
+    "facts": {
+      "location": {
+        "en": "Front of the pulmonary orifice, directly behind the left 3rd costal cartilage near the sternum.",
+        "id": "Bagian depan ostium trunci pulmonalis, tepat di belakang cartilago costalis III kiri dekat sternum."
+      }
+    },
+    "quiz": {
+      "valve": [
+        "Valva trunci pulmonalis",
+        "Valva pulmonalis"
+      ]
+    }
+  },
+  {
+    "key": "right-semilunar-leaflet-of-pulmonary-valve",
+    "kind": "organ-part",
+    "la": "Valvula semilunaris dextra valvae trunci pulmonalis",
+    "alt": [
+      "Valvula semilunaris dextra",
+      "Valvula semilunaris dextra trunci pulmonalis"
+    ],
+    "en": "Right cusp of pulmonary valve",
+    "desc": {
+      "en": "Right cusp of the pulmonary valve. With the left cusp it faces the aortic root behind.",
+      "id": "Valvula kanan valva trunci pulmonalis. Bersama valvula kiri, valvula ini berhadapan dengan pangkal aorta di belakangnya."
+    },
+    "facts": {
+      "location": {
+        "en": "Right posterior part of the pulmonary orifice.",
+        "id": "Bagian kanan belakang ostium trunci pulmonalis."
+      }
+    },
+    "quiz": {
+      "valve": [
+        "Valva trunci pulmonalis",
+        "Valva pulmonalis"
+      ]
+    }
+  },
+  {
+    "key": "left-semilunar-leaflet-of-pulmonary-valve",
+    "kind": "organ-part",
+    "la": "Valvula semilunaris sinistra valvae trunci pulmonalis",
+    "alt": [
+      "Valvula semilunaris sinistra",
+      "Valvula semilunaris sinistra trunci pulmonalis"
+    ],
+    "en": "Left cusp of pulmonary valve",
+    "desc": {
+      "en": "Left cusp of the pulmonary valve. With the right cusp it faces the aortic root; TA2 gives it the English name left adjacent leaflet.",
+      "id": "Valvula kiri valva trunci pulmonalis. Bersama valvula kanan, valvula ini berhadapan dengan pangkal aorta; TA2 memberi nama Inggris left adjacent leaflet."
+    },
+    "facts": {
+      "location": {
+        "en": "Left posterior part of the pulmonary orifice.",
+        "id": "Bagian kiri belakang ostium trunci pulmonalis."
+      }
+    },
+    "quiz": {
+      "valve": [
+        "Valva trunci pulmonalis",
+        "Valva pulmonalis"
+      ]
+    }
+  },
+  {
+    "key": "apex-of-heart",
+    "kind": "landmark",
+    "la": "Apex cordis",
+    "alt": [
+      "Apex"
+    ],
+    "en": "Apex of heart",
+    "desc": {
+      "en": "Blunt tip of the heart, formed by the inferolateral part of the left ventricle. It points forward, downward and to the left and lies behind the left 5th intercostal space, about 9 cm from the median plane, near the midclavicular line.",
+      "id": "Ujung tumpul jantung yang dibentuk oleh bagian inferolateral ventriculus sinister. Apex mengarah ke depan, bawah dan kiri, dan terletak di belakang spatium intercostale V kiri, kira-kira 9 cm dari bidang median, dekat linea medioclavicularis."
+    },
+    "facts": {
+      "bone": "left-ventricle",
+      "clinical": {
+        "en": "The apex beat (ictus cordis) is felt here. It moves downward and laterally when the left ventricle enlarges. Sounds of the mitral valve are best heard over the apex.",
+        "id": "Iktus kordis teraba di sini. Iktus bergeser ke bawah dan ke lateral bila ventriculus sinister membesar. Bunyi katup mitral paling jelas didengar di atas apex."
+      }
+    },
+    "quiz": {
+      "bone": [
+        "Ventriculus sinister"
+      ],
+      "projection": [
+        "Spatium intercostale V sinistrum",
+        "Spatium intercostale V",
+        "SIC V kiri",
+        "Sela iga V kiri"
+      ]
+    }
+  },
+  {
+    "key": "notch-of-cardiac-apex",
+    "kind": "landmark",
+    "la": "Incisura apicis cordis",
+    "alt": [
+      "Incisura apicis"
+    ],
+    "en": "Notch of cardiac apex",
+    "desc": {
+      "en": "Small notch on the inferior border just to the right of the apex, where the anterior and posterior interventricular sulci meet.",
+      "id": "Lekukan kecil pada margo inferior tepat di kanan apex, tempat sulcus interventricularis anterior dan posterior bertemu."
+    },
+    "facts": {
+      "bone": "left-ventricle",
+      "relations": {
+        "en": "The ramus interventricularis anterior passes around the notch onto the diaphragmatic surface, where it often meets the ramus interventricularis posterior.",
+        "id": "Ramus interventricularis anterior melingkari lekukan ini ke facies diaphragmatica, dan di sana sering bertemu dengan ramus interventricularis posterior."
+      }
+    },
+    "quiz": {
+      "bone": [
+        "Ventriculus sinister"
+      ]
+    }
+  },
+  {
+    "key": "base-of-heart",
+    "kind": "landmark",
+    "la": "Basis cordis",
+    "alt": [
+      "Facies posterior cordis",
+      "Facies posterior",
+      "Facies dorsalis cordis",
+      "Facies dorsalis"
+    ],
+    "en": "Base of heart (posterior surface)",
+    "desc": {
+      "en": "Posterior surface of the heart, opposite the apex, formed mainly by the left atrium with a smaller part of the right atrium. The four vv. pulmonales enter the left atrium here, and the venae cavae enter the right atrium at its right end.",
+      "id": "Permukaan posterior jantung, berlawanan dengan apex, yang terutama dibentuk oleh atrium sinistrum dengan sebagian kecil atrium dextrum. Keempat vv. pulmonales bermuara ke atrium sinistrum di sini, dan kedua v. cava bermuara ke atrium dextrum di ujung kanannya."
+    },
+    "facts": {
+      "bone": "right-atrium",
+      "relations": {
+        "en": "It faces backward toward the bodies of about T6-T9 and is separated from them by the pericardium with the oblique pericardial sinus, the oesophagus and the pars thoracica aortae. The sinus coronarius runs along its lower edge in the coronary sulcus.",
+        "id": "Basis menghadap ke belakang ke arah corpus vertebra kira-kira T6-T9 dan dipisahkan darinya oleh pericardium dengan sinus obliquus pericardii, oesophagus dan pars thoracica aortae. Sinus coronarius berjalan di sepanjang tepi bawahnya di dalam sulcus coronarius."
+      },
+      "note": {
+        "en": "The FK Unsri module calls this the facies dorsalis and asks for the vessels seen on it: the vv. pulmonales, the v. cava superior and inferior, the sinus coronarius and the v. obliqua atrii sinistri. On the adjoining diaphragmatic surface lie the ramus interventricularis posterior and the v. cordis media. TA2 lists facies posterior cordis as a synonym of basis cordis.",
+        "id": "Modul FK Unsri menyebut permukaan ini facies dorsalis dan meminta pembuluh yang tampak padanya: vv. pulmonales, v. cava superior dan inferior, sinus coronarius dan v. obliqua atrii sinistri. Pada facies diaphragmatica yang bersebelahan terdapat ramus interventricularis posterior dan v. cordis media. TA2 mencantumkan facies posterior cordis sebagai sinonim basis cordis."
+      }
+    },
+    "quiz": {
+      "formed_by": [
+        "Atrium sinistrum",
+        "Atrium sinistrum et dextrum"
+      ]
+    }
+  },
+  {
+    "key": "anterior-surface-of-heart",
+    "kind": "landmark",
+    "la": "Facies sternocostalis",
+    "alt": [
+      "Facies sternocostalis cordis",
+      "Facies anterior cordis",
+      "Facies anterior",
+      "Facies sternocotalis"
+    ],
+    "en": "Sternocostal (anterior) surface of heart",
+    "desc": {
+      "en": "Front surface of the heart, behind the sternum and costal cartilages, formed mainly by the right ventricle. The right atrium with its auricle forms its right part and a strip of left ventricle its left edge; the anterior interventricular sulcus crosses it.",
+      "id": "Permukaan depan jantung, di belakang sternum dan cartilago costalis, yang terutama dibentuk oleh ventriculus dexter. Atrium dextrum dengan auriculanya membentuk bagian kanannya dan sejalur ventriculus sinister membentuk tepi kirinya; sulcus interventricularis anterior menyilanginya."
+    },
+    "facts": {
+      "bone": "right-ventricle",
+      "relations": {
+        "en": "Most of it is covered by the anterior margins of the lungs and pleurae. Only a small area to the left of the lower sternum, at the cardiac notch of the left lung, lies directly against the chest wall through the pericardium.",
+        "id": "Sebagian besar permukaan ini tertutup margo anterior paru dan pleura. Hanya daerah kecil di kiri sternum bagian bawah, pada incisura cardiaca paru kiri, yang langsung bersentuhan dengan dinding dada melalui pericardium."
+      }
+    },
+    "quiz": {
+      "formed_by": [
+        "Ventriculus dexter"
+      ]
+    }
+  },
+  {
+    "key": "inferior-surface-of-heart",
+    "kind": "landmark",
+    "la": "Facies diaphragmatica",
+    "alt": [
+      "Facies diaphragmatica cordis",
+      "Facies inferior cordis",
+      "Facies inferior",
+      "Facies diapraghmatica"
+    ],
+    "en": "Diaphragmatic (inferior) surface of heart",
+    "desc": {
+      "en": "Lower surface of the heart that rests on the central tendon of the diaphragm. It is formed mainly by the left ventricle and partly by the right ventricle, and the posterior (inferior) interventricular sulcus runs across it.",
+      "id": "Permukaan bawah jantung yang bertumpu pada centrum tendineum diaphragma. Permukaan ini terutama dibentuk oleh ventriculus sinister dan sebagian oleh ventriculus dexter, dan sulcus interventricularis posterior (inferior) melintasinya."
+    },
+    "facts": {
+      "bone": "left-ventricle",
+      "relations": {
+        "en": "Through the diaphragm it lies above the left lobe of the liver and the stomach. The ramus interventricularis posterior and the v. cordis media run in its groove.",
+        "id": "Melalui diaphragma, permukaan ini terletak di atas lobus sinister hepar dan gaster. Ramus interventricularis posterior dan v. cordis media berjalan di dalam alurnya."
+      }
+    },
+    "quiz": {
+      "formed_by": [
+        "Ventriculus sinister",
+        "Ventriculus sinister et dexter"
+      ]
+    }
+  },
+  {
+    "key": "right-surface-of-heart",
+    "kind": "landmark",
+    "la": "Facies pulmonalis dextra",
+    "alt": [
+      "Facies pulmonalis dextra cordis",
+      "Facies dextra cordis",
+      "Facies dextra"
+    ],
+    "en": "Right pulmonary surface of heart",
+    "desc": {
+      "en": "Right side of the heart, facing the right lung, formed mainly by the right atrium. It lies against the mediastinal pleura and makes the shallow cardiac impression on the right lung.",
+      "id": "Sisi kanan jantung yang menghadap paru kanan, terutama dibentuk oleh atrium dextrum. Permukaan ini bersentuhan dengan pleura mediastinalis dan membentuk impressio cardiaca yang dangkal pada paru kanan."
+    },
+    "facts": {
+      "bone": "right-atrium",
+      "relations": {
+        "en": "The n. phrenicus dexter and the vasa pericardiacophrenica run on the pericardium over this surface.",
+        "id": "N. phrenicus dexter dan vasa pericardiacophrenica berjalan pada pericardium di atas permukaan ini."
+      }
+    },
+    "quiz": {
+      "formed_by": [
+        "Atrium dextrum"
+      ]
+    }
+  },
+  {
+    "key": "left-surface-of-heart",
+    "kind": "landmark",
+    "la": "Facies pulmonalis sinistra",
+    "alt": [
+      "Facies pulmonalis sinistra cordis",
+      "Facies sinistra cordis",
+      "Facies sinistra"
+    ],
+    "en": "Left pulmonary surface of heart",
+    "desc": {
+      "en": "Left side of the heart, facing the left lung, formed mainly by the left ventricle with a small part of the left auricle. It fits into the deep cardiac impression of the left lung.",
+      "id": "Sisi kiri jantung yang menghadap paru kiri, terutama dibentuk oleh ventriculus sinister dengan sebagian kecil auricula sinistra. Permukaan ini menempati impressio cardiaca yang dalam pada paru kiri."
+    },
+    "facts": {
+      "bone": "left-ventricle",
+      "relations": {
+        "en": "The n. phrenicus sinister and the vasa pericardiacophrenica run on the pericardium over this surface.",
+        "id": "N. phrenicus sinister dan vasa pericardiacophrenica berjalan pada pericardium di atas permukaan ini."
+      }
+    },
+    "quiz": {
+      "formed_by": [
+        "Ventriculus sinister"
+      ]
+    }
+  },
+  {
+    "key": "right-border-of-heart",
+    "kind": "landmark",
+    "la": "Margo dexter",
+    "alt": [
+      "Margo dexter cordis",
+      "Margo cordis dexter"
+    ],
+    "en": "Right border of heart",
+    "desc": {
+      "en": "Right edge of the heart in the front view, formed by the right atrium between the openings of the v. cava superior and the v. cava inferior. It is slightly convex to the right and on the chest wall runs from the 3rd to the 6th right costal cartilage, just lateral to the edge of the sternum.",
+      "id": "Tepi kanan jantung pada pandangan depan, dibentuk oleh atrium dextrum di antara muara v. cava superior dan v. cava inferior. Tepi ini sedikit cembung ke kanan dan pada dinding dada berjalan dari cartilago costalis III sampai VI kanan, tepat di lateral tepi sternum."
+    },
+    "facts": {
+      "bone": "right-atrium",
+      "relations": {
+        "en": "It forms the right heart border on a PA chest radiograph, with the middle lobe of the right lung lying against it.",
+        "id": "Tepi ini membentuk batas kanan jantung pada foto toraks PA, dengan lobus medius paru kanan menempel padanya."
+      },
+      "note": {
+        "en": "Books use this name in two ways. TA2 and Moore use margo dexter for this right atrial border, and that is how Raga places it. German-tradition texts such as Sobotta use margo dexter for the sharp lower edge of the right ventricle instead; in Raga that edge is the margo inferior (margo acutus), where margo dexter is also accepted.",
+        "id": "Nama ini dipakai dengan dua cara. TA2 dan Moore memakai margo dexter untuk tepi atrium kanan ini, dan begitulah Raga menempatkannya. Buku tradisi Jerman seperti Sobotta memakai margo dexter untuk tepi bawah ventriculus dexter yang tajam; di Raga tepi itu adalah margo inferior (margo acutus), dan jawaban margo dexter juga diterima di sana."
+      }
+    },
+    "quiz": {
+      "formed_by": [
+        "Atrium dextrum"
+      ],
+      "projection": [
+        "Cartilago costalis III-VI dextra",
+        "Cartilago costalis III-VI",
+        "Costa III-VI kanan"
+      ]
+    }
+  },
+  {
+    "key": "inferior-border-of-heart",
+    "kind": "landmark",
+    "la": "Margo inferior",
+    "alt": [
+      "Margo inferior cordis",
+      "Margo acutus",
+      "Margo acutus cordis",
+      "Margo dexter"
+    ],
+    "en": "Inferior border (acute margin) of heart",
+    "desc": {
+      "en": "Sharp, nearly horizontal lower edge of the heart where the sternocostal and diaphragmatic surfaces meet. It is formed mainly by the right ventricle, with a small part of the left ventricle near the apex, and is called the acute margin (margo acutus).",
+      "id": "Tepi bawah jantung yang tajam dan hampir horizontal, tempat facies sternocostalis bertemu facies diaphragmatica. Tepi ini terutama dibentuk oleh ventriculus dexter, dengan sebagian kecil ventriculus sinister dekat apex, dan disebut margo acutus."
+    },
+    "facts": {
+      "bone": "right-ventricle",
+      "relations": {
+        "en": "On the chest wall it runs from the 6th right costal cartilage to the apex in the left 5th intercostal space. The ramus marginalis dexter of the a. coronaria dextra runs along it toward the apex.",
+        "id": "Pada dinding dada tepi ini berjalan dari cartilago costalis VI kanan ke apex di spatium intercostale V kiri. Ramus marginalis dexter dari a. coronaria dextra berjalan sepanjang tepi ini ke arah apex."
+      },
+      "note": {
+        "en": "Margo inferior is the TA2 name. TA98 has no separate term for this edge, and German-tradition texts such as Sobotta call it margo dexter or margo acutus, so both are accepted here.",
+        "id": "Margo inferior adalah nama TA2. TA98 tidak memiliki istilah tersendiri untuk tepi ini, dan buku tradisi Jerman seperti Sobotta menyebutnya margo dexter atau margo acutus, jadi keduanya diterima di sini."
+      }
+    },
+    "quiz": {
+      "formed_by": [
+        "Ventriculus dexter"
+      ]
+    }
+  },
+  {
+    "key": "left-border-of-heart",
+    "kind": "landmark",
+    "la": "Margo sinister",
+    "alt": [
+      "Margo sinister cordis",
+      "Margo obtusus",
+      "Margo obtusus cordis",
+      "Margo obutusus"
+    ],
+    "en": "Left border (obtuse margin) of heart",
+    "desc": {
+      "en": "Rounded left edge of the heart in the front view, formed mainly by the left ventricle with the left auricle at its upper end. Because it is blunt it is called the obtuse margin (margo obtusus).",
+      "id": "Tepi kiri jantung yang membulat pada pandangan depan, terutama dibentuk oleh ventriculus sinister dengan auricula sinistra di ujung atasnya. Karena tumpul, tepi ini disebut margo obtusus."
+    },
+    "facts": {
+      "bone": "left-ventricle",
+      "relations": {
+        "en": "On the chest wall it runs from the 2nd left costal cartilage, just lateral to the sternum, down to the apex in the left 5th intercostal space near the midclavicular line. The ramus marginalis sinister of the ramus circumflexus runs along it.",
+        "id": "Pada dinding dada tepi ini berjalan dari cartilago costalis II kiri, tepat di lateral sternum, turun ke apex di spatium intercostale V kiri dekat linea medioclavicularis. Ramus marginalis sinister dari ramus circumflexus berjalan sepanjang tepi ini."
+      },
+      "note": {
+        "en": "Margo sinister (left border, obtuse margin) is a TA2 term; TA98 has no entry for it.",
+        "id": "Margo sinister (tepi kiri, margo obtusus) adalah istilah TA2; TA98 tidak mencantumkannya."
+      }
+    },
+    "quiz": {
+      "formed_by": [
+        "Ventriculus sinister"
+      ]
+    }
+  },
+  {
+    "key": "superior-border-of-heart",
+    "kind": "landmark",
+    "model": false,
+    "la": "Margo superior",
+    "alt": [
+      "Margo superior cordis"
+    ],
+    "en": "Superior border of heart",
+    "desc": {
+      "en": "Upper edge of the heart in the front view, formed by the right and left atria and their auricles. The aorta ascendens and the truncus pulmonalis leave through it and the v. cava superior enters at its right end.",
+      "id": "Tepi atas jantung pada pandangan depan, dibentuk oleh atrium dextrum dan sinistrum beserta auriculanya. Aorta ascendens dan truncus pulmonalis keluar melalui tepi ini dan v. cava superior masuk di ujung kanannya."
+    },
+    "facts": {
+      "bone": "heart",
+      "relations": {
+        "en": "On the chest wall it runs from the lower edge of the 2nd left costal cartilage to the upper edge of the 3rd right costal cartilage. Behind the aorta ascendens and truncus pulmonalis it forms the lower boundary of the sinus transversus pericardii.",
+        "id": "Pada dinding dada tepi ini berjalan dari tepi bawah cartilago costalis II kiri ke tepi atas cartilago costalis III kanan. Di belakang aorta ascendens dan truncus pulmonalis, tepi ini membentuk batas bawah sinus transversus pericardii."
+      },
+      "note": {
+        "en": "This border is used for the surface projection of the heart (module item: batas atas) and has no TA term.",
+        "id": "Tepi ini dipakai untuk proyeksi jantung pada dinding dada (butir modul: batas atas) dan tidak memiliki istilah TA."
+      }
+    },
+    "quiz": {
+      "formed_by": [
+        "Atrium dextrum et sinistrum",
+        "Atria",
+        "Auricula dextra et sinistra"
+      ]
+    }
+  },
+  {
+    "key": "coronary-sulcus",
+    "kind": "landmark",
+    "la": "Sulcus coronarius",
+    "alt": [
+      "Sulcus coronarius cordis",
+      "Sulcus atrioventricularis",
+      "Sulci coronarii"
+    ],
+    "en": "Coronary sulcus",
+    "desc": {
+      "en": "Groove that encircles the heart between the atria above and the ventricles below. It holds the a. coronaria dextra, the ramus circumflexus, the sinus coronarius and epicardial fat.",
+      "id": "Alur yang melingkari jantung di antara atrium di atas dan ventriculus di bawah. Sulcus ini berisi a. coronaria dextra, ramus circumflexus, sinus coronarius dan lemak epikardial."
+    },
+    "facts": {
+      "bone": "right-atrium",
+      "relations": {
+        "en": "In front it is interrupted by the roots of the aorta ascendens and the truncus pulmonalis. On the back of the heart the sinus coronarius lies in it, and the point where it crosses the posterior interventricular sulcus is the crux of the heart.",
+        "id": "Di depan, sulcus ini terputus oleh pangkal aorta ascendens dan truncus pulmonalis. Di bagian belakang jantung sinus coronarius terletak di dalamnya, dan titik persilangannya dengan sulcus interventricularis posterior disebut crux cordis."
+      }
+    },
+    "quiz": {
+      "contains": [
+        "Arteria coronaria dextra",
+        "Ramus circumflexus",
+        "Sinus coronarius"
+      ]
+    }
+  },
+  {
+    "key": "anterior-interventricular-sulcus",
+    "kind": "landmark",
+    "la": "Sulcus interventricularis anterior",
+    "alt": [
+      "Sulcus interventricularis anterior cordis",
+      "Sulcus longitudinalis anterior",
+      "Sulcus interventricularis longitudinalis anterior"
+    ],
+    "en": "Anterior interventricular sulcus",
+    "desc": {
+      "en": "Groove on the sternocostal surface that marks the front edge of the septum interventriculare. It runs from the coronary sulcus, to the left of the truncus pulmonalis, down to the notch near the apex and holds the ramus interventricularis anterior and the v. interventricularis anterior (first part of the v. cordis magna).",
+      "id": "Alur pada facies sternocostalis yang menandai tepi depan septum interventriculare. Sulcus ini berjalan dari sulcus coronarius, di kiri truncus pulmonalis, turun ke incisura apicis cordis dan berisi ramus interventricularis anterior serta v. interventricularis anterior (bagian pertama v. cordis magna)."
+    },
+    "facts": {
+      "bone": "right-ventricle",
+      "relations": {
+        "en": "The right ventricle lies to its right and the left ventricle to its left. The FK Unsri module also calls it sulcus interventricularis (longitudinalis) anterior.",
+        "id": "Ventriculus dexter terletak di kanannya dan ventriculus sinister di kirinya. Modul FK Unsri juga menyebutnya sulcus interventricularis (longitudinalis) anterior."
+      }
+    },
+    "quiz": {
+      "contains": [
+        "Ramus interventricularis anterior",
+        "Arteria interventricularis anterior",
+        "Vena cordis magna"
+      ]
+    }
+  },
+  {
+    "key": "inferior-interventricular-sulcus",
+    "kind": "landmark",
+    "la": "Sulcus interventricularis posterior",
+    "alt": [
+      "Sulcus interventricularis inferior",
+      "Sulcus longitudinalis posterior",
+      "Sulcus interventricularis longitudinalis posterior"
+    ],
+    "en": "Posterior (inferior) interventricular sulcus",
+    "desc": {
+      "en": "Groove on the diaphragmatic surface that marks the lower edge of the septum interventriculare, from the coronary sulcus at the crux of the heart to the notch near the apex. It holds the ramus interventricularis posterior and the v. cordis media. TA98 calls it posterior; TA2 calls it inferior.",
+      "id": "Alur pada facies diaphragmatica yang menandai tepi bawah septum interventriculare, dari sulcus coronarius di crux cordis sampai incisura apicis cordis. Sulcus ini berisi ramus interventricularis posterior dan v. cordis media. TA98 menamainya posterior; TA2 menamainya inferior."
+    },
+    "facts": {
+      "bone": "right-ventricle",
+      "relations": {
+        "en": "The FK Unsri module also calls it sulcus interventricularis (longitudinalis) posterior.",
+        "id": "Modul FK Unsri juga menyebutnya sulcus interventricularis (longitudinalis) posterior."
+      }
+    },
+    "quiz": {
+      "contains": [
+        "Ramus interventricularis posterior",
+        "Vena cordis media",
+        "Vena cardiaca media"
+      ]
+    }
+  },
+  {
+    "key": "right-coronary-artery",
+    "kind": "artery",
+    "la": "Arteria coronaria dextra",
+    "alt": [
+      "A. coronaria dextra"
+    ],
+    "en": "Right coronary artery",
+    "desc": {
+      "en": "Arises from the right aortic sinus of the aorta ascendens, comes forward between the truncus pulmonalis and the auricula dextra, and runs in the coronary sulcus around the right border to the back of the heart. In most people it gives the ramus interventricularis posterior and supplies both the sinuatrial and the atrioventricular node.",
+      "id": "Berasal dari sinus aortae dexter pada aorta ascendens, muncul ke depan di antara truncus pulmonalis dan auricula dextra, lalu berjalan dalam sulcus coronarius mengelilingi margo dexter ke bagian belakang jantung. Pada kebanyakan orang arteri ini memberikan ramus interventricularis posterior dan memperdarahi nodus sinuatrialis maupun nodus atrioventricularis."
+    },
+    "facts": {
+      "from": "Aorta ascendens",
+      "course": {
+        "en": "Runs forward and to the right from the right aortic sinus, then descends in the right part of the coronary sulcus. Near the inferior border it gives the ramus marginalis dexter, turns onto the diaphragmatic surface and continues in the coronary sulcus to the crux of the heart. There it usually gives the ramus nodi atrioventricularis and the ramus interventricularis posterior, and it ends as the ramus posterolateralis dexter over the diaphragmatic surface of the left ventricle.",
+        "id": "Berjalan ke depan dan ke kanan dari sinus aortae dexter, lalu turun dalam bagian kanan sulcus coronarius. Dekat margo inferior arteri ini memberikan ramus marginalis dexter, berbelok ke facies diaphragmatica dan melanjutkan diri dalam sulcus coronarius sampai crux cordis. Di sana biasanya keluar ramus nodi atrioventricularis dan ramus interventricularis posterior, dan arteri berakhir sebagai ramus posterolateralis dexter di facies diaphragmatica ventriculus sinister."
+      },
+      "branches": [
+        "Ramus coni arteriosi",
+        "Ramus nodi sinuatrialis",
+        "Rami atriales",
+        "Ramus marginalis dexter",
+        "Ramus nodi atrioventricularis",
+        "Ramus interventricularis posterior",
+        "Ramus posterolateralis dexter"
+      ],
+      "supplies": {
+        "en": "Right atrium, most of the right ventricle, the diaphragmatic part of the left ventricle, the posterior third of the septum interventriculare, the nodus sinuatrialis (in about 60%) and the nodus atrioventricularis (in about 80%).",
+        "id": "Atrium dextrum, sebagian besar ventriculus dexter, bagian diaphragmatica ventriculus sinister, sepertiga posterior septum interventriculare, nodus sinuatrialis (pada sekitar 60%) dan nodus atrioventricularis (pada sekitar 80%)."
+      },
+      "clinical": {
+        "en": "Coronary dominance is named after the artery that gives the ramus interventricularis posterior. About 70% of people are right-dominant, about 10-15% left-dominant (the branch comes from the ramus circumflexus), and the rest codominant. Occlusion of the right coronary artery causes an inferior wall infarction and often bradycardia or AV block through loss of its nodal branches.",
+        "id": "Dominansi koroner dinamai menurut arteri yang memberikan ramus interventricularis posterior. Sekitar 70% orang dominan kanan, sekitar 10-15% dominan kiri (cabang ini berasal dari ramus circumflexus), dan sisanya kodominan. Sumbatan a. coronaria dextra menyebabkan infark dinding inferior dan sering disertai bradikardia atau blok AV karena cabang nodusnya ikut terganggu."
+      }
+    },
+    "quiz": {
+      "from": [
+        "Aorta ascendens",
+        "Sinus aortae dexter",
+        "Bulbus aortae"
+      ]
+    }
+  },
+  {
+    "key": "left-coronary-artery",
+    "kind": "artery",
+    "la": "Arteria coronaria sinistra",
+    "alt": [
+      "A. coronaria sinistra"
+    ],
+    "en": "Left coronary artery",
+    "desc": {
+      "en": "Arises from the left aortic sinus of the aorta ascendens and passes between the truncus pulmonalis and the auricula sinistra. After a short stem it divides in the coronary sulcus into the ramus interventricularis anterior and the ramus circumflexus.",
+      "id": "Berasal dari sinus aortae sinister pada aorta ascendens dan berjalan di antara truncus pulmonalis dan auricula sinistra. Setelah batang yang pendek, arteri ini bercabang dalam sulcus coronarius menjadi ramus interventricularis anterior dan ramus circumflexus."
+    },
+    "facts": {
+      "from": "Aorta ascendens",
+      "course": {
+        "en": "The main stem runs to the left behind the truncus pulmonalis and reaches the coronary sulcus at the upper end of the anterior interventricular sulcus, where it divides.",
+        "id": "Batang utamanya berjalan ke kiri di belakang truncus pulmonalis dan mencapai sulcus coronarius di ujung atas sulcus interventricularis anterior, lalu bercabang di sana."
+      },
+      "branches": [
+        "Ramus interventricularis anterior",
+        "Ramus circumflexus"
+      ],
+      "supplies": {
+        "en": "Left atrium, most of the left ventricle, the part of the right ventricle next to the anterior interventricular sulcus, the anterior two thirds of the septum interventriculare with the AV bundle and its branches, and the nodus sinuatrialis in about 40%.",
+        "id": "Atrium sinistrum, sebagian besar ventriculus sinister, bagian ventriculus dexter di dekat sulcus interventricularis anterior, dua pertiga anterior septum interventriculare beserta fasciculus atrioventricularis dan cabangnya, serta nodus sinuatrialis pada sekitar 40%."
+      },
+      "clinical": {
+        "en": "Narrowing of the main stem (left main disease) endangers most of the left ventricle.",
+        "id": "Penyempitan batang utama (left main disease) mengancam sebagian besar ventriculus sinister."
+      }
+    },
+    "quiz": {
+      "from": [
+        "Aorta ascendens",
+        "Sinus aortae sinister",
+        "Bulbus aortae"
+      ],
+      "branches": [
+        "Ramus interventricularis anterior",
+        "Ramus circumflexus"
+      ]
+    }
+  },
+  {
+    "key": "anterior-interventricular-artery",
+    "kind": "artery",
+    "la": "Ramus interventricularis anterior",
+    "alt": [
+      "Ramus interventricularis anterior arteriae coronariae sinistrae",
+      "R. interventricularis anterior",
+      "Arteria interventricularis anterior",
+      "Ramus descendens anterior"
+    ],
+    "en": "Anterior interventricular branch (LAD)",
+    "desc": {
+      "en": "Branch of the a. coronaria sinistra that runs down the anterior interventricular sulcus to the apex and usually turns around the inferior border to meet the ramus interventricularis posterior. Clinicians call it the left anterior descending artery (LAD).",
+      "id": "Cabang a. coronaria sinistra yang turun dalam sulcus interventricularis anterior sampai apex dan biasanya melingkari margo inferior untuk bertemu dengan ramus interventricularis posterior. Di klinik arteri ini disebut left anterior descending artery (LAD)."
+    },
+    "facts": {
+      "from": "Arteria coronaria sinistra",
+      "course": {
+        "en": "Descends in the anterior interventricular sulcus with the v. interventricularis anterior (first part of the v. cordis magna), passes around the notch near the apex onto the diaphragmatic surface and often anastomoses there with the ramus interventricularis posterior.",
+        "id": "Turun dalam sulcus interventricularis anterior bersama v. interventricularis anterior (bagian pertama v. cordis magna), melingkari incisura apicis cordis ke facies diaphragmatica dan sering beranastomosis di sana dengan ramus interventricularis posterior."
+      },
+      "branches": [
+        "Rami interventriculares septales",
+        "Ramus lateralis",
+        "Ramus coni arteriosi"
+      ],
+      "supplies": {
+        "en": "The front of both ventricles next to the sulcus and the apex. Its lateral (diagonal) branches supply the anterior wall of the left ventricle, and its septal branches the anterior two thirds of the septum interventriculare with the bundle branches.",
+        "id": "Bagian depan kedua ventriculus di dekat sulcus dan apex. Rami laterales (diagonal) memperdarahi dinding anterior ventriculus sinister, dan rami septales memperdarahi dua pertiga anterior septum interventriculare beserta crus fasciculus atrioventricularis."
+      },
+      "clinical": {
+        "en": "It is the coronary artery most often occluded, and its blockage causes an anterior wall infarction. The left a. thoracica interna is the usual graft to bypass it.",
+        "id": "Arteri ini adalah arteri koroner yang paling sering tersumbat, dan sumbatannya menyebabkan infark dinding anterior. A. thoracica interna sinistra adalah graft yang biasa dipakai untuk memintasnya."
+      }
+    },
+    "quiz": {
+      "from": [
+        "Arteria coronaria sinistra",
+        "A. coronaria sinistra"
+      ],
+      "vein": [
+        "Vena cordis magna",
+        "Vena cardiaca magna",
+        "Vena interventricularis anterior"
+      ]
+    }
+  },
+  {
+    "key": "circumflex-artery-of-heart",
+    "kind": "artery",
+    "la": "Ramus circumflexus arteriae coronariae sinistrae",
+    "alt": [
+      "Ramus circumflexus",
+      "R. circumflexus",
+      "Arteria circumflexa cordis",
+      "Arteria circumflexa"
+    ],
+    "en": "Circumflex branch of left coronary artery",
+    "desc": {
+      "en": "Branch of the a. coronaria sinistra that follows the coronary sulcus to the left, around the left border onto the back of the heart. It gives the ramus marginalis sinister and usually ends before the crux; in left-dominant hearts it also gives the ramus interventricularis posterior.",
+      "id": "Cabang a. coronaria sinistra yang mengikuti sulcus coronarius ke kiri, mengelilingi margo sinister ke bagian belakang jantung. Cabang ini memberikan ramus marginalis sinister dan biasanya berakhir sebelum crux cordis; pada jantung dominan kiri cabang ini juga memberikan ramus interventricularis posterior."
+    },
+    "facts": {
+      "from": "Arteria coronaria sinistra",
+      "course": {
+        "en": "Runs in the left part of the coronary sulcus under the auricula sinistra, with the second part of the v. cordis magna, and passes around the left border onto the posterior surface of the heart.",
+        "id": "Berjalan dalam bagian kiri sulcus coronarius di bawah auricula sinistra, bersama bagian kedua v. cordis magna, dan melingkari margo sinister ke facies posterior jantung."
+      },
+      "branches": [
+        "Ramus marginalis sinister",
+        "Ramus posterior ventriculi sinistri",
+        "Rami atriales",
+        "Ramus nodi sinuatrialis"
+      ],
+      "supplies": {
+        "en": "Left atrium, the lateral and posterior walls of the left ventricle, the nodus sinuatrialis in about 40%, and in left-dominant hearts the posterior septum and the nodus atrioventricularis.",
+        "id": "Atrium sinistrum, dinding lateral dan posterior ventriculus sinister, nodus sinuatrialis pada sekitar 40%, dan pada jantung dominan kiri juga septum bagian posterior serta nodus atrioventricularis."
+      }
+    },
+    "quiz": {
+      "from": [
+        "Arteria coronaria sinistra",
+        "A. coronaria sinistra"
+      ],
+      "vein": [
+        "Vena cordis magna",
+        "Vena cardiaca magna"
+      ]
+    }
+  },
+  {
+    "key": "septal-branches-of-anterior-interventricular-artery",
+    "kind": "artery",
+    "la": "Rami interventriculares septales",
+    "alt": [
+      "Rami interventriculares septales rami interventricularis anterioris",
+      "Rr. interventriculares septales",
+      "Rami septales",
+      "Rami septales arteriae interventricularis anterioris"
+    ],
+    "en": "Septal branches of anterior interventricular branch",
+    "desc": {
+      "en": "Perforating branches that leave the deep side of the ramus interventricularis anterior at right angles and run into the septum interventriculare. They supply its anterior two thirds, including the AV bundle and the right and left bundle branches.",
+      "id": "Cabang-cabang perforantes yang keluar dari sisi dalam ramus interventricularis anterior hampir tegak lurus dan masuk ke septum interventriculare. Cabang ini memperdarahi dua pertiga anterior septum, termasuk fasciculus atrioventricularis serta crus dextrum dan crus sinistrum."
+    },
+    "facts": {
+      "from": "Ramus interventricularis anterior",
+      "course": {
+        "en": "Pass backward into the septum from the anterior interventricular sulcus; the first septal branch is usually the largest.",
+        "id": "Berjalan ke belakang masuk ke septum dari sulcus interventricularis anterior; ramus septalis pertama biasanya yang terbesar."
+      },
+      "supplies": {
+        "en": "Anterior two thirds of the septum interventriculare and the conducting tissue in it. The posterior third receives septal branches of the ramus interventricularis posterior.",
+        "id": "Dua pertiga anterior septum interventriculare dan jaringan konduksi di dalamnya. Sepertiga posterior mendapat rami septales dari ramus interventricularis posterior."
+      },
+      "clinical": {
+        "en": "Their occlusion in an anterior septal infarction can cause bundle branch block.",
+        "id": "Sumbatannya pada infark anteroseptal dapat menyebabkan blok cabang berkas."
+      }
+    },
+    "quiz": {
+      "from": [
+        "Ramus interventricularis anterior",
+        "Arteria interventricularis anterior"
+      ]
+    }
+  },
+  {
+    "key": "right-inferolateral-branch-of-right-coronary-artery",
+    "kind": "artery",
+    "la": "Ramus posterolateralis dexter arteriae coronariae dextrae",
+    "alt": [
+      "Ramus posterolateralis dexter",
+      "R. posterolateralis dexter",
+      "Ramus inferolateralis dexter",
+      "Ramus inferolateralis dexter arteriae coronariae dextrae"
+    ],
+    "en": "Right posterolateral (inferolateral) branch",
+    "desc": {
+      "en": "Terminal continuation of the a. coronaria dextra beyond the crux of the heart. In right-dominant hearts it runs to the left over the diaphragmatic surface and supplies the inferolateral wall of the left ventricle. TA98 calls it ramus posterolateralis dexter; TA2 renames it ramus inferolateralis dexter.",
+      "id": "Lanjutan terminal a. coronaria dextra setelah melewati crux cordis. Pada jantung dominan kanan, cabang ini berjalan ke kiri di facies diaphragmatica dan memperdarahi dinding inferolateral ventriculus sinister. TA98 menamainya ramus posterolateralis dexter; TA2 menggantinya menjadi ramus inferolateralis dexter."
+    },
+    "facts": {
+      "from": "Arteria coronaria dextra",
+      "course": {
+        "en": "Leaves the right coronary artery at or beyond the crux, after the origin of the ramus interventricularis posterior, and runs over the diaphragmatic surface of the left ventricle toward the left border, where it may meet branches of the ramus circumflexus.",
+        "id": "Keluar dari a. coronaria dextra di crux cordis atau setelahnya, sesudah percabangan ramus interventricularis posterior, lalu berjalan di facies diaphragmatica ventriculus sinister ke arah margo sinister, tempat cabang ini dapat bertemu cabang ramus circumflexus."
+      },
+      "supplies": {
+        "en": "Inferior and inferolateral wall of the left ventricle. Its size depends on dominance; it is small or absent in left-dominant hearts.",
+        "id": "Dinding inferior dan inferolateral ventriculus sinister. Ukurannya bergantung pada dominansi; pada jantung dominan kiri cabang ini kecil atau tidak ada."
+      }
+    },
+    "quiz": {
+      "from": [
+        "Arteria coronaria dextra",
+        "A. coronaria dextra"
+      ]
+    }
+  },
+  {
+    "key": "posterior-interventricular-branch",
+    "kind": "artery",
+    "model": false,
+    "la": "Ramus interventricularis posterior",
+    "alt": [
+      "R. interventricularis posterior",
+      "Ramus interventricularis inferior",
+      "Arteria interventricularis posterior",
+      "Ramus descendens posterior"
+    ],
+    "en": "Posterior interventricular branch (PDA)",
+    "desc": {
+      "en": "Branch that runs in the posterior interventricular sulcus toward the apex. It comes from the a. coronaria dextra in most people (right dominance) and from the ramus circumflexus in left-dominant hearts. Clinicians call it the posterior descending artery (PDA).",
+      "id": "Cabang yang berjalan dalam sulcus interventricularis posterior ke arah apex. Pada kebanyakan orang cabang ini berasal dari a. coronaria dextra (dominan kanan), dan pada jantung dominan kiri dari ramus circumflexus. Di klinik cabang ini disebut posterior descending artery (PDA)."
+    },
+    "facts": {
+      "from": "Arteria coronaria dextra",
+      "course": {
+        "en": "Descends from the crux of the heart in the posterior interventricular sulcus with the v. cordis media and often meets the ramus interventricularis anterior near the apex.",
+        "id": "Turun dari crux cordis dalam sulcus interventricularis posterior bersama v. cordis media dan sering bertemu ramus interventricularis anterior dekat apex."
+      },
+      "branches": [
+        "Rami interventriculares septales"
+      ],
+      "supplies": {
+        "en": "Diaphragmatic walls of both ventricles next to the sulcus, the posterior third of the septum interventriculare and usually the posterior papillary muscle of the left ventricle.",
+        "id": "Dinding diaphragmatica kedua ventriculus di dekat sulcus, sepertiga posterior septum interventriculare dan biasanya m. papillaris posterior ventriculus sinister."
+      },
+      "clinical": {
+        "en": "The artery that gives this branch defines coronary dominance.",
+        "id": "Arteri yang memberikan cabang ini menentukan dominansi koroner."
+      }
+    },
+    "quiz": {
+      "from": [
+        "Arteria coronaria dextra",
+        "A. coronaria dextra",
+        "Ramus circumflexus"
+      ],
+      "vein": [
+        "Vena cordis media",
+        "Vena cardiaca media",
+        "Vena interventricularis posterior"
+      ]
+    }
+  },
+  {
+    "key": "sinuatrial-nodal-branch",
+    "kind": "artery",
+    "model": false,
+    "la": "Ramus nodi sinuatrialis",
+    "alt": [
+      "R. nodi sinuatrialis",
+      "Ramus nodi sinoatrialis",
+      "Arteria nodi sinuatrialis"
+    ],
+    "en": "Sinuatrial nodal branch",
+    "desc": {
+      "en": "Small branch that supplies the nodus sinuatrialis. It arises from the a. coronaria dextra in about 60% of people and from the ramus circumflexus in about 40%, and runs up to the junction of the v. cava superior and the right atrium, often looping around the opening of the vena cava.",
+      "id": "Cabang kecil yang memperdarahi nodus sinuatrialis. Cabang ini berasal dari a. coronaria dextra pada sekitar 60% orang dan dari ramus circumflexus pada sekitar 40%, lalu naik ke pertemuan v. cava superior dengan atrium dextrum, sering melingkari muara vena cava."
+    },
+    "facts": {
+      "from": "Arteria coronaria dextra",
+      "course": {
+        "en": "From the first part of the right coronary artery it ascends between the auricula dextra and the aorta to the upper end of the sulcus terminalis. When it comes from the circumflex branch it climbs over the posterior surface of the left atrium.",
+        "id": "Dari bagian pertama a. coronaria dextra, cabang ini naik di antara auricula dextra dan aorta ke ujung atas sulcus terminalis. Bila berasal dari ramus circumflexus, cabang ini naik melewati facies posterior atrium sinistrum."
+      },
+      "supplies": {
+        "en": "Nodus sinuatrialis and the nearby wall of the right atrium.",
+        "id": "Nodus sinuatrialis dan dinding atrium dextrum di sekitarnya."
+      }
+    },
+    "quiz": {
+      "from": [
+        "Arteria coronaria dextra",
+        "A. coronaria dextra",
+        "Ramus circumflexus"
+      ]
+    }
+  },
+  {
+    "key": "atrioventricular-nodal-branch",
+    "kind": "artery",
+    "model": false,
+    "la": "Ramus nodi atrioventricularis",
+    "alt": [
+      "R. nodi atrioventricularis",
+      "Arteria nodi atrioventricularis"
+    ],
+    "en": "Atrioventricular nodal branch",
+    "desc": {
+      "en": "Small branch that arises at the crux of the heart, usually from the a. coronaria dextra (about 80%), and runs forward into the lower part of the interatrial septum to the nodus atrioventricularis.",
+      "id": "Cabang kecil yang keluar di crux cordis, biasanya dari a. coronaria dextra (sekitar 80%), lalu berjalan ke depan masuk ke bagian bawah septum interatriale menuju nodus atrioventricularis."
+    },
+    "facts": {
+      "from": "Arteria coronaria dextra",
+      "supplies": {
+        "en": "Nodus atrioventricularis and the start of the AV bundle. In left-dominant hearts it comes from the ramus circumflexus.",
+        "id": "Nodus atrioventricularis dan pangkal fasciculus atrioventricularis. Pada jantung dominan kiri cabang ini berasal dari ramus circumflexus."
+      },
+      "clinical": {
+        "en": "This is why an inferior infarction from right coronary occlusion often causes AV block.",
+        "id": "Karena itu infark inferior akibat sumbatan a. coronaria dextra sering menimbulkan blok AV."
+      }
+    },
+    "quiz": {
+      "from": [
+        "Arteria coronaria dextra",
+        "A. coronaria dextra"
+      ]
+    }
+  },
+  {
+    "key": "right-marginal-branch",
+    "kind": "artery",
+    "model": false,
+    "la": "Ramus marginalis dexter",
+    "alt": [
+      "R. marginalis dexter",
+      "Arteria marginalis dextra"
+    ],
+    "en": "Right marginal branch",
+    "desc": {
+      "en": "Branch of the a. coronaria dextra that runs along the inferior (acute) border of the heart toward the apex, which it usually does not reach. Clinicians call it the acute marginal artery.",
+      "id": "Cabang a. coronaria dextra yang berjalan sepanjang margo inferior (margo acutus) jantung ke arah apex, tetapi biasanya tidak mencapainya. Di klinik cabang ini disebut acute marginal artery."
+    },
+    "facts": {
+      "from": "Arteria coronaria dextra",
+      "supplies": {
+        "en": "Wall of the right ventricle along the inferior border.",
+        "id": "Dinding ventriculus dexter sepanjang margo inferior."
+      }
+    },
+    "quiz": {
+      "from": [
+        "Arteria coronaria dextra",
+        "A. coronaria dextra"
+      ],
+      "vein": [
+        "Vena cordis parva",
+        "Vena cardiaca parva"
+      ]
+    }
+  },
+  {
+    "key": "left-marginal-branch",
+    "kind": "artery",
+    "model": false,
+    "la": "Ramus marginalis sinister",
+    "alt": [
+      "R. marginalis sinister",
+      "Arteria marginalis sinistra"
+    ],
+    "en": "Left marginal branch",
+    "desc": {
+      "en": "Branch of the ramus circumflexus that runs down the left (obtuse) border of the heart over the left ventricle. Clinicians call these branches obtuse marginal arteries.",
+      "id": "Cabang ramus circumflexus yang turun sepanjang margo sinister (margo obtusus) jantung di atas ventriculus sinister. Di klinik cabang-cabang ini disebut obtuse marginal arteries."
+    },
+    "facts": {
+      "from": "Ramus circumflexus arteriae coronariae sinistrae",
+      "supplies": {
+        "en": "Lateral wall of the left ventricle. The v. marginalis sinistra runs with it.",
+        "id": "Dinding lateral ventriculus sinister. V. marginalis sinistra berjalan bersamanya."
+      }
+    },
+    "quiz": {
+      "from": [
+        "Ramus circumflexus",
+        "Ramus circumflexus arteriae coronariae sinistrae"
+      ]
+    }
+  },
+  {
+    "key": "coronary-sinus",
+    "kind": "vein",
+    "la": "Sinus coronarius",
+    "alt": [
+      "Sinus coronarius cordis"
+    ],
+    "en": "Coronary sinus",
+    "desc": {
+      "en": "Main vein of the heart, a wide venous channel in the posterior part of the coronary sulcus between the left atrium and the left ventricle. It collects most of the venous blood of the heart and opens into the right atrium between the opening of the v. cava inferior and the right atrioventricular orifice.",
+      "id": "Vena utama jantung, berupa saluran vena yang lebar di bagian posterior sulcus coronarius di antara atrium sinistrum dan ventriculus sinister. Sinus ini mengumpulkan sebagian besar darah vena jantung dan bermuara ke atrium dextrum di antara muara v. cava inferior dan ostium atrioventriculare dextrum."
+    },
+    "facts": {
+      "from": "Vena cordis magna",
+      "course": {
+        "en": "Begins at the left where the v. obliqua atrii sinistri joins the v. cordis magna, and runs from left to right in the coronary sulcus on the back of the heart to the ostium sinus coronarii.",
+        "id": "Dimulai di kiri, tempat v. obliqua atrii sinistri bergabung dengan v. cordis magna, lalu berjalan dari kiri ke kanan dalam sulcus coronarius di bagian belakang jantung menuju ostium sinus coronarii."
+      },
+      "branches": [
+        "Vena cordis magna",
+        "Vena obliqua atrii sinistri",
+        "Venae posteriores ventriculi sinistri",
+        "Vena cordis media",
+        "Vena cordis parva"
+      ],
+      "drains": {
+        "en": "Areas supplied by both coronary arteries. The v. cordis magna enters its left end and the v. cordis media and v. cordis parva its right end.",
+        "id": "Daerah yang diperdarahi kedua arteri koroner. V. cordis magna masuk di ujung kirinya, sedangkan v. cordis media dan v. cordis parva di ujung kanannya."
+      },
+      "continues": "Atrium dextrum",
+      "clinical": {
+        "en": "A catheter passed through the right atrium into the coronary sinus reaches the veins of the left ventricle; this route is used for the left ventricular lead of a biventricular pacemaker.",
+        "id": "Kateter yang dimasukkan melalui atrium dextrum ke sinus coronarius dapat mencapai vena ventriculus sinister; jalur ini dipakai untuk elektroda ventrikel kiri pada pacu jantung biventrikular."
+      }
+    },
+    "quiz": {
+      "drains": [
+        "Atrium dextrum"
+      ]
+    }
+  },
+  {
+    "key": "great-cardiac-vein",
+    "kind": "vein",
+    "la": "Vena cordis magna",
+    "alt": [
+      "Vena cardiaca magna",
+      "Vena magna cordis",
+      "V. cordis magna"
+    ],
+    "en": "Great cardiac vein",
+    "desc": {
+      "en": "Main tributary of the sinus coronarius. Its first part, the v. interventricularis anterior, begins near the apex and ascends with the ramus interventricularis anterior; its second part turns left in the coronary sulcus and runs with the ramus circumflexus to the left end of the sinus coronarius.",
+      "id": "Anak cabang utama sinus coronarius. Bagian pertamanya, v. interventricularis anterior, dimulai dekat apex dan naik bersama ramus interventricularis anterior; bagian keduanya berbelok ke kiri dalam sulcus coronarius dan berjalan bersama ramus circumflexus ke ujung kiri sinus coronarius."
+    },
+    "facts": {
+      "course": {
+        "en": "Anterior interventricular sulcus, then the left part of the coronary sulcus around the left border of the heart onto its posterior surface.",
+        "id": "Sulcus interventricularis anterior, lalu bagian kiri sulcus coronarius mengelilingi margo sinister jantung ke facies posteriornya."
+      },
+      "branches": [
+        "Vena interventricularis anterior",
+        "Vena marginalis sinistra"
+      ],
+      "drains": {
+        "en": "Areas supplied by the a. coronaria sinistra: the front of both ventricles near the anterior sulcus, the left atrium and the lateral wall of the left ventricle.",
+        "id": "Daerah yang diperdarahi a. coronaria sinistra: bagian depan kedua ventriculus dekat sulcus anterior, atrium sinistrum dan dinding lateral ventriculus sinister."
+      },
+      "continues": "Sinus coronarius"
+    },
+    "quiz": {
+      "drains": [
+        "Sinus coronarius"
+      ],
+      "artery": [
+        "Ramus interventricularis anterior",
+        "Ramus circumflexus"
+      ]
+    }
+  },
+  {
+    "key": "middle-cardiac-vein",
+    "kind": "vein",
+    "la": "Vena cordis media",
+    "alt": [
+      "Vena cardiaca media",
+      "Vena interventricularis posterior",
+      "Vena interventricularis inferior",
+      "Vena media cordis"
+    ],
+    "en": "Middle cardiac vein",
+    "desc": {
+      "en": "Vein that begins near the apex and runs up the posterior interventricular sulcus with the ramus interventricularis posterior to the right end of the sinus coronarius. TA98 also calls it v. interventricularis posterior.",
+      "id": "Vena yang dimulai dekat apex dan naik dalam sulcus interventricularis posterior bersama ramus interventricularis posterior menuju ujung kanan sinus coronarius. TA98 juga menamainya v. interventricularis posterior."
+    },
+    "facts": {
+      "course": {
+        "en": "Posterior (inferior) interventricular sulcus on the diaphragmatic surface.",
+        "id": "Sulcus interventricularis posterior (inferior) pada facies diaphragmatica."
+      },
+      "drains": {
+        "en": "Diaphragmatic walls of both ventricles and the posterior part of the septum.",
+        "id": "Dinding diaphragmatica kedua ventriculus dan bagian posterior septum."
+      },
+      "continues": "Sinus coronarius"
+    },
+    "quiz": {
+      "drains": [
+        "Sinus coronarius"
+      ],
+      "artery": [
+        "Ramus interventricularis posterior"
+      ]
+    }
+  },
+  {
+    "key": "small-cardiac-vein",
+    "kind": "vein",
+    "model": false,
+    "la": "Vena cordis parva",
+    "alt": [
+      "Vena cardiaca parva",
+      "V. cordis parva"
+    ],
+    "en": "Small cardiac vein",
+    "desc": {
+      "en": "Small vein that runs with the ramus marginalis dexter along the inferior border, then in the right part of the coronary sulcus to the right end of the sinus coronarius. It sometimes opens directly into the right atrium.",
+      "id": "Vena kecil yang berjalan bersama ramus marginalis dexter sepanjang margo inferior, lalu dalam bagian kanan sulcus coronarius menuju ujung kanan sinus coronarius. Kadang vena ini langsung bermuara ke atrium dextrum."
+    },
+    "facts": {
+      "course": {
+        "en": "Inferior border of the heart, then the right coronary sulcus beside the a. coronaria dextra.",
+        "id": "Margo inferior jantung, lalu sulcus coronarius kanan di samping a. coronaria dextra."
+      },
+      "drains": {
+        "en": "Back of the right atrium and the wall of the right ventricle along the inferior border.",
+        "id": "Bagian belakang atrium dextrum dan dinding ventriculus dexter sepanjang margo inferior."
+      },
+      "continues": "Sinus coronarius"
+    },
+    "quiz": {
+      "drains": [
+        "Sinus coronarius",
+        "Atrium dextrum"
+      ],
+      "artery": [
+        "Ramus marginalis dexter"
+      ]
+    }
+  },
+  {
+    "key": "inferior-vein-of-left-ventricle",
+    "kind": "vein",
+    "la": "Vena posterior ventriculi sinistri",
+    "alt": [
+      "Venae posteriores ventriculi sinistri",
+      "Vena ventriculi sinistri posterior",
+      "Vena inferior ventriculi sinistri",
+      "Venae ventriculi sinistri inferiores"
+    ],
+    "en": "Posterior (inferior) vein of left ventricle",
+    "desc": {
+      "en": "Vein on the diaphragmatic surface of the left ventricle, running parallel to and to the left of the v. cordis media. It usually ends in the sinus coronarius, sometimes in the v. cordis magna. TA98 calls these veins posterior; TA2 calls them inferior.",
+      "id": "Vena pada facies diaphragmatica ventriculus sinister, berjalan sejajar dan di kiri v. cordis media. Vena ini biasanya bermuara ke sinus coronarius, kadang ke v. cordis magna. TA98 menamai vena ini posterior; TA2 menamainya inferior."
+    },
+    "facts": {
+      "course": {
+        "en": "Ascends over the diaphragmatic surface of the left ventricle to the coronary sulcus.",
+        "id": "Naik di atas facies diaphragmatica ventriculus sinister menuju sulcus coronarius."
+      },
+      "drains": {
+        "en": "Diaphragmatic (inferior) wall of the left ventricle.",
+        "id": "Dinding diaphragmatica (inferior) ventriculus sinister."
+      },
+      "continues": "Sinus coronarius"
+    },
+    "quiz": {
+      "drains": [
+        "Sinus coronarius",
+        "Vena cordis magna"
+      ]
+    }
+  },
+  {
+    "key": "inferior-vein-of-left-ventricle-posterior",
+    "kind": "vein",
+    "la": "Vena posterior ventriculi sinistri",
+    "alt": [
+      "Venae posteriores ventriculi sinistri",
+      "Vena ventriculi sinistri posterior",
+      "Vena inferior ventriculi sinistri",
+      "Venae ventriculi sinistri inferiores"
+    ],
+    "en": "Posterior (inferior) vein of left ventricle, second vessel",
+    "desc": {
+      "en": "Second of the veins on the diaphragmatic surface of the left ventricle. There are often two or more of them, so TA98 names the group in the plural, venae posteriores ventriculi sinistri; this one also drains into the sinus coronarius.",
+      "id": "Vena kedua pada facies diaphragmatica ventriculus sinister. Vena ini sering berjumlah dua atau lebih, sehingga TA98 memakai bentuk jamak, venae posteriores ventriculi sinistri; vena ini juga bermuara ke sinus coronarius."
+    },
+    "facts": {
+      "drains": {
+        "en": "Diaphragmatic wall of the left ventricle.",
+        "id": "Dinding diaphragmatica ventriculus sinister."
+      },
+      "continues": "Sinus coronarius"
+    },
+    "quiz": {
+      "drains": [
+        "Sinus coronarius"
+      ]
+    }
+  },
+  {
+    "key": "oblique-vein-of-left-atrium",
+    "kind": "vein",
+    "model": false,
+    "la": "Vena obliqua atrii sinistri",
+    "alt": [
+      "V. obliqua atrii sinistri"
+    ],
+    "en": "Oblique vein of left atrium",
+    "desc": {
+      "en": "Small vein that descends obliquely over the back of the left atrium and joins the v. cordis magna; their junction marks the beginning of the sinus coronarius. It is the remnant of the embryonic left v. cava superior.",
+      "id": "Vena kecil yang turun miring di bagian belakang atrium sinistrum dan bergabung dengan v. cordis magna; pertemuannya menandai awal sinus coronarius. Vena ini adalah sisa v. cava superior kiri embrio."
+    },
+    "facts": {
+      "course": {
+        "en": "Posterior wall of the left atrium, between the left pulmonary veins and the coronary sulcus.",
+        "id": "Dinding posterior atrium sinistrum, di antara vv. pulmonales sinistrae dan sulcus coronarius."
+      },
+      "drains": {
+        "en": "Posterior wall of the left atrium.",
+        "id": "Dinding posterior atrium sinistrum."
+      },
+      "continues": "Sinus coronarius",
+      "clinical": {
+        "en": "When the embryonic left v. cava superior persists, it drains into a much enlarged coronary sinus.",
+        "id": "Bila v. cava superior kiri embrio menetap, vena ini bermuara ke sinus coronarius yang sangat melebar."
+      }
+    },
+    "quiz": {
+      "drains": [
+        "Sinus coronarius"
+      ]
+    }
+  },
+  {
+    "key": "anterior-cardiac-veins",
+    "kind": "vein",
+    "model": false,
+    "la": "Venae cordis anteriores",
+    "alt": [
+      "Vv. cordis anteriores",
+      "Venae cardiacae anteriores",
+      "Venae anteriores ventriculi dextri",
+      "Venae ventriculi dextri anteriores"
+    ],
+    "en": "Anterior cardiac veins",
+    "desc": {
+      "en": "Two to four small veins on the anterior surface of the right ventricle that cross the coronary sulcus and open directly into the right atrium, bypassing the sinus coronarius. TA98 names them venae anteriores ventriculi dextri.",
+      "id": "Dua sampai empat vena kecil pada permukaan anterior ventriculus dexter yang menyeberangi sulcus coronarius dan langsung bermuara ke atrium dextrum tanpa melalui sinus coronarius. TA98 menamainya venae anteriores ventriculi dextri."
+    },
+    "facts": {
+      "drains": {
+        "en": "Anterior wall of the right ventricle.",
+        "id": "Dinding anterior ventriculus dexter."
+      },
+      "continues": "Atrium dextrum"
+    },
+    "quiz": {
+      "drains": [
+        "Atrium dextrum"
+      ]
+    }
+  },
+  {
+    "key": "smallest-cardiac-veins",
+    "kind": "vein",
+    "model": false,
+    "la": "Venae cordis minimae",
+    "alt": [
+      "Vv. cordis minimae",
+      "Venae cardiacae minimae"
+    ],
+    "en": "Smallest cardiac veins (Thebesian veins)",
+    "desc": {
+      "en": "Minute veins that begin in the capillary beds of the myocardium and open directly into the chambers of the heart, mostly the atria. They have no valves.",
+      "id": "Vena-vena sangat kecil yang berasal dari anyaman kapiler miokard dan langsung bermuara ke ruang-ruang jantung, terutama atrium. Vena ini tidak memiliki katup."
+    },
+    "facts": {
+      "drains": {
+        "en": "Myocardium near the endocardium. Their openings in the chamber walls are the foramina venarum minimarum.",
+        "id": "Miokard di dekat endokardium. Muaranya pada dinding ruang jantung disebut foramina venarum minimarum."
+      },
+      "continues": "Atria et ventriculi cordis"
+    },
+    "quiz": {
+      "drains": [
+        "Atria et ventriculi",
+        "Atrium dextrum",
+        "Atria"
+      ]
+    }
+  },
+  {
+    "key": "pericardium",
+    "kind": "membrane",
+    "model": false,
+    "la": "Pericardium",
+    "alt": [],
+    "en": "Pericardium",
+    "desc": {
+      "en": "Fibroserous sac that encloses the heart and the roots of the great vessels in the middle mediastinum. It has a tough outer pericardium fibrosum and an inner pericardium serosum of two layers, with the pericardial cavity between those layers.",
+      "id": "Kantong fibroserosa yang membungkus jantung dan pangkal pembuluh darah besar di mediastinum medium. Pericardium terdiri atas pericardium fibrosum yang kuat di luar dan pericardium serosum dua lapis di dalam, dengan cavitas pericardiaca di antara kedua lapisan serosa tersebut."
+    },
+    "facts": {
+      "location": {
+        "en": "Middle mediastinum, behind the body of the sternum and the 2nd-6th costal cartilages, at the level of T5-T8.",
+        "id": "Mediastinum medium, di belakang corpus sterni dan cartilago costalis II-VI, setinggi vertebra T5-T8."
+      },
+      "features": {
+        "en": "Pericardium fibrosum outside. Pericardium serosum inside, with a lamina parietalis lining the fibrous layer and a lamina visceralis (epicardium) on the heart. Between the two serous layers lies the cavitas pericardiaca with the sinus transversus and the sinus obliquus.",
+        "id": "Pericardium fibrosum di luar. Pericardium serosum di dalam, dengan lamina parietalis yang melapisi lapisan fibrosa dan lamina visceralis (epicardium) yang melekat pada jantung. Di antara kedua lapisan serosa terdapat cavitas pericardiaca dengan sinus transversus dan sinus obliquus."
+      },
+      "attach": {
+        "en": "Fused below with the central tendon of the diaphragm, attached in front to the back of the sternum by the ligamenta sternopericardiaca, and continuous above with the adventitia of the great vessels.",
+        "id": "Di bawah menyatu dengan centrum tendineum diaphragma, di depan melekat pada permukaan belakang sternum melalui ligamenta sternopericardiaca, dan di atas bersambung dengan tunica adventitia pembuluh darah besar."
+      },
+      "function": {
+        "en": "Anchors the heart, limits sudden overfilling and gives it a lubricated surface to move on.",
+        "id": "Menambatkan jantung, membatasi pengisian berlebih yang mendadak dan memberi permukaan licin bagi gerak jantung."
+      },
+      "blood": [
+        "Arteria pericardiacophrenica",
+        "Arteria musculophrenica",
+        "Rami pericardiaci aortae thoracicae"
+      ],
+      "nerve": [
+        "Nervus phrenicus",
+        "Nervus vagus",
+        "Truncus sympathicus"
+      ],
+      "clinical": {
+        "en": "Pain from the fibrous and parietal layers travels in the nn. phrenici (C3-C5) and is referred to the skin over the shoulder on the same side. Blood or fluid collecting quickly in the pericardial cavity compresses the heart (cardiac tamponade) because the fibrous layer cannot stretch fast; it is drained by pericardiocentesis from below the xiphoid process or through the left 5th or 6th intercostal space next to the sternum.",
+        "id": "Nyeri dari lapisan fibrosa dan lapisan parietal dibawa nn. phrenici (C3-C5) dan dialihkan ke kulit di atas bahu sisi yang sama. Darah atau cairan yang terkumpul cepat di cavitas pericardiaca menekan jantung (tamponade jantung) karena lapisan fibrosa tidak dapat meregang dengan cepat; cairan ini dikeluarkan dengan perikardiosentesis dari bawah processus xiphoideus atau melalui spatium intercostale V atau VI kiri di samping sternum."
+      }
+    },
+    "quiz": {
+      "layers": [
+        "Pericardium fibrosum et serosum",
+        "Pericardium fibrosum",
+        "Pericardium serosum"
+      ]
+    }
+  },
+  {
+    "key": "fibrous-pericardium",
+    "kind": "membrane",
+    "model": false,
+    "la": "Pericardium fibrosum",
+    "alt": [
+      "Pericardium parietale"
+    ],
+    "en": "Fibrous pericardium",
+    "desc": {
+      "en": "Tough outer layer of the pericardium, a cone-shaped sac of dense connective tissue. Its apex blends with the adventitia of the great vessels and its base fuses with the central tendon of the diaphragm. With the parietal serous layer fused to its inner surface it forms the pericardial sac that dissection manuals often call pericardium parietale.",
+      "id": "Lapisan luar pericardium yang kuat, berupa kantong berbentuk kerucut dari jaringan ikat padat. Puncaknya menyatu dengan tunica adventitia pembuluh darah besar dan dasarnya menyatu dengan centrum tendineum diaphragma. Bersama lamina parietalis serosa yang melekat pada permukaan dalamnya, lapisan ini membentuk kantong pericardium yang dalam penuntun diseksi sering disebut pericardium parietale."
+    },
+    "facts": {
+      "location": {
+        "en": "Middle mediastinum. In front it lies behind the sternum and costal cartilages; behind, in front of the oesophagus and the aorta; on each side against the mediastinal pleura, with the n. phrenicus and vasa pericardiacophrenica between them.",
+        "id": "Mediastinum medium. Di depan terletak di belakang sternum dan cartilago costalis; di belakang, di depan oesophagus dan aorta; di kedua sisi bersentuhan dengan pleura mediastinalis, dengan n. phrenicus dan vasa pericardiacophrenica di antaranya."
+      },
+      "attach": {
+        "en": "Central tendon of the diaphragm (ligamentum pericardiacophrenicum), back of the sternum (ligamenta sternopericardiaca), and the adventitia of the aorta, truncus pulmonalis, venae cavae and vv. pulmonales.",
+        "id": "Centrum tendineum diaphragma (ligamentum pericardiacophrenicum), permukaan belakang sternum (ligamenta sternopericardiaca), serta tunica adventitia aorta, truncus pulmonalis, kedua v. cava dan vv. pulmonales."
+      },
+      "function": {
+        "en": "Prevents sudden overdistension of the heart and keeps it in position.",
+        "id": "Mencegah peregangan jantung berlebih secara mendadak dan mempertahankan posisinya."
+      },
+      "nerve": [
+        "Nervus phrenicus"
+      ]
+    },
+    "quiz": {
+      "part_of": [
+        "Pericardium"
+      ]
+    }
+  },
+  {
+    "key": "serous-pericardium",
+    "kind": "membrane",
+    "model": false,
+    "la": "Pericardium serosum",
+    "alt": [],
+    "en": "Serous pericardium",
+    "desc": {
+      "en": "Thin serous membrane of two continuous layers. The lamina parietalis lines the inside of the fibrous pericardium and the lamina visceralis (epicardium) covers the heart and the roots of the great vessels; the two layers turn into each other around the great vessels and enclose the pericardial cavity.",
+      "id": "Membran serosa tipis yang terdiri atas dua lapisan yang bersambung. Lamina parietalis melapisi bagian dalam pericardium fibrosum dan lamina visceralis (epicardium) menutupi jantung serta pangkal pembuluh darah besar; kedua lapisan saling beralih di sekitar pembuluh darah besar dan membungkus cavitas pericardiaca."
+    },
+    "facts": {
+      "features": {
+        "en": "The reflections form two sleeves: an arterial one around the aorta ascendens and the truncus pulmonalis, and a venous one around the venae cavae and the vv. pulmonales. The gap between the sleeves is the sinus transversus pericardii; the recess bounded by the venous sleeve behind the left atrium is the sinus obliquus pericardii.",
+        "id": "Lipatan peralihannya membentuk dua selubung: selubung arteri di sekeliling aorta ascendens dan truncus pulmonalis, serta selubung vena di sekeliling kedua v. cava dan vv. pulmonales. Celah di antara kedua selubung adalah sinus transversus pericardii; cekungan yang dibatasi selubung vena di belakang atrium sinistrum adalah sinus obliquus pericardii."
+      },
+      "function": {
+        "en": "Produces the thin film of serous fluid that lets the heart move without friction.",
+        "id": "Menghasilkan lapisan tipis cairan serosa sehingga jantung dapat bergerak tanpa gesekan."
+      }
+    },
+    "quiz": {
+      "layers": [
+        "Lamina parietalis et lamina visceralis",
+        "Lamina parietalis",
+        "Lamina visceralis",
+        "Epicardium"
+      ]
+    }
+  },
+  {
+    "key": "parietal-layer-of-serous-pericardium",
+    "kind": "membrane",
+    "model": false,
+    "la": "Lamina parietalis pericardii serosi",
+    "alt": [
+      "Lamina parietalis pericardii",
+      "Lamina parietalis",
+      "Pericardium parietale"
+    ],
+    "en": "Parietal layer of serous pericardium",
+    "desc": {
+      "en": "Outer layer of the serous pericardium, fused to the inner surface of the fibrous pericardium. In the dissecting room it is opened together with the fibrous layer as one sac, which the FK Unsri module calls pericardium parietale.",
+      "id": "Lapisan luar pericardium serosum yang melekat erat pada permukaan dalam pericardium fibrosum. Di ruang diseksi lapisan ini dibuka bersama lapisan fibrosa sebagai satu kantong, yang dalam modul FK Unsri disebut pericardium parietale."
+    },
+    "facts": {
+      "location": {
+        "en": "Inner surface of the fibrous pericardium; around the great vessels it turns back as the visceral layer.",
+        "id": "Permukaan dalam pericardium fibrosum; di sekitar pembuluh darah besar lapisan ini berbalik menjadi lamina visceralis."
+      },
+      "nerve": [
+        "Nervus phrenicus"
+      ],
+      "clinical": {
+        "en": "In pericarditis the inflamed parietal and visceral layers rub on each other and produce a pericardial friction rub.",
+        "id": "Pada perikarditis, lamina parietalis dan lamina visceralis yang meradang saling bergesekan dan menimbulkan bunyi gesek perikardium (friction rub)."
+      }
+    },
+    "quiz": {
+      "part_of": [
+        "Pericardium serosum"
+      ]
+    }
+  },
+  {
+    "key": "visceral-layer-of-serous-pericardium",
+    "kind": "membrane",
+    "model": false,
+    "la": "Lamina visceralis pericardii serosi",
+    "alt": [
+      "Epicardium",
+      "Lamina visceralis pericardii",
+      "Lamina visceralis",
+      "Pericardium viscerale"
+    ],
+    "en": "Visceral layer of serous pericardium (epicardium)",
+    "desc": {
+      "en": "Inner layer of the serous pericardium, attached closely to the heart as its outermost coat, the epicardium. It continues onto the roots of the great vessels, where it turns back as the parietal layer.",
+      "id": "Lapisan dalam pericardium serosum yang melekat erat pada jantung sebagai lapisan terluarnya, yaitu epicardium. Lapisan ini berlanjut ke pangkal pembuluh darah besar, lalu berbalik menjadi lamina parietalis."
+    },
+    "facts": {
+      "location": {
+        "en": "Outer surface of the myocardium and the roots of the aorta, truncus pulmonalis, venae cavae and vv. pulmonales.",
+        "id": "Permukaan luar miokard dan pangkal aorta, truncus pulmonalis, kedua v. cava dan vv. pulmonales."
+      },
+      "features": {
+        "en": "The coronary vessels and the epicardial fat in the sulci lie directly under it.",
+        "id": "Pembuluh koroner dan lemak epikardial di dalam sulcus terletak tepat di bawahnya."
+      }
+    },
+    "quiz": {
+      "part_of": [
+        "Pericardium serosum"
+      ]
+    }
+  },
+  {
+    "key": "pericardial-cavity",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Cavitas pericardiaca",
+    "alt": [
+      "Cavitas pericardialis",
+      "Cavum pericardii"
+    ],
+    "en": "Pericardial cavity",
+    "desc": {
+      "en": "Potential space between the parietal and visceral layers of the serous pericardium. It normally holds only a thin film of serous fluid.",
+      "id": "Ruang potensial di antara lamina parietalis dan lamina visceralis pericardium serosum. Dalam keadaan normal ruang ini hanya berisi lapisan tipis cairan serosa."
+    },
+    "facts": {
+      "features": {
+        "en": "Two named recesses: sinus transversus pericardii and sinus obliquus pericardii.",
+        "id": "Dua cekungan yang bernama: sinus transversus pericardii dan sinus obliquus pericardii."
+      },
+      "clinical": {
+        "en": "Rapid filling with blood, for example from a stab wound or a ruptured aorta ascendens, causes cardiac tamponade.",
+        "id": "Pengisian cepat oleh darah, misalnya akibat luka tusuk atau robeknya aorta ascendens, menyebabkan tamponade jantung."
+      }
+    },
+    "quiz": {
+      "between": [
+        "Lamina parietalis et lamina visceralis",
+        "Lamina parietalis",
+        "Lamina visceralis"
+      ]
+    }
+  },
+  {
+    "key": "transverse-pericardial-sinus",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Sinus transversus pericardii",
+    "alt": [
+      "Sinus pericardii transversus",
+      "Sinus transversus",
+      "Sinus perikardium transversalis"
+    ],
+    "en": "Transverse pericardial sinus",
+    "desc": {
+      "en": "Transverse passage in the pericardial cavity behind the intrapericardial parts of the aorta ascendens and the truncus pulmonalis, in front of the v. cava superior and above the atria. It lies between the arterial and the venous reflections of the serous pericardium.",
+      "id": "Lorong melintang di dalam cavitas pericardiaca, di belakang bagian intraperikardial aorta ascendens dan truncus pulmonalis, di depan v. cava superior dan di atas atrium. Sinus ini terletak di antara selubung peralihan arteri dan selubung vena pericardium serosum."
+    },
+    "facts": {
+      "location": {
+        "en": "Behind the aorta ascendens and truncus pulmonalis; its floor is the upper border of the atria.",
+        "id": "Di belakang aorta ascendens dan truncus pulmonalis; dasarnya adalah tepi atas atrium."
+      },
+      "clinical": {
+        "en": "After the pericardium is opened, a finger or a clamp can be passed through the sinus behind the aorta and truncus pulmonalis, so that both vessels can be ligated or cannulated for the heart-lung machine during cardiac surgery.",
+        "id": "Setelah pericardium dibuka, jari atau klem dapat dimasukkan melalui sinus ini di belakang aorta dan truncus pulmonalis, sehingga kedua pembuluh dapat diikat atau dipasangi kanula mesin jantung-paru pada operasi jantung."
+      }
+    },
+    "quiz": {
+      "lies_behind": [
+        "Aorta ascendens et truncus pulmonalis",
+        "Aorta ascendens",
+        "Truncus pulmonalis"
+      ]
+    }
+  },
+  {
+    "key": "oblique-pericardial-sinus",
+    "kind": "organ-part",
+    "model": false,
+    "la": "Sinus obliquus pericardii",
+    "alt": [
+      "Sinus pericardii obliquus",
+      "Sinus obliquus",
+      "Sinus perikardium obliquus"
+    ],
+    "en": "Oblique pericardial sinus",
+    "desc": {
+      "en": "Wide blind recess of the pericardial cavity behind the left atrium. It is bounded on each side by the reflections of serous pericardium around the vv. pulmonales and the v. cava inferior, and behind by the pericardium over the oesophagus.",
+      "id": "Cekungan buntu yang lebar di dalam cavitas pericardiaca, di belakang atrium sinistrum. Di kedua sisi sinus ini dibatasi lipatan peralihan pericardium serosum di sekeliling vv. pulmonales dan v. cava inferior, dan di belakang oleh pericardium yang menutupi oesophagus."
+    },
+    "facts": {
+      "location": {
+        "en": "Behind the left atrium, in front of the oesophagus.",
+        "id": "Di belakang atrium sinistrum, di depan oesophagus."
+      },
+      "relations": {
+        "en": "Fingers passed up behind the heart from below enter it, but they cannot pass around any vessel because the sinus is closed above.",
+        "id": "Jari yang dimasukkan dari bawah ke belakang jantung akan masuk ke sinus ini, tetapi tidak dapat melingkari pembuluh mana pun karena sinus tertutup di bagian atas."
+      }
+    },
+    "quiz": {
+      "lies_behind": [
+        "Atrium sinistrum"
+      ]
+    }
+  }
+]

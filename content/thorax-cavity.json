@@ -1,0 +1,787 @@
+[
+ {
+  "key": "thoracic-cavity",
+  "kind": "organ-part",
+  "la": "Cavitas thoracis",
+  "alt": [
+   "Cavitas thoracica",
+   "Cavum thoracis"
+  ],
+  "en": "Thoracic cavity",
+  "desc": {
+   "en": "Space enclosed by the thoracic wall, from the superior thoracic aperture down to the diaphragm. It is divided into two lateral pulmonary cavities, which hold the lungs and pleurae, and the central mediastinum.",
+   "id": "Rongga yang dibatasi dinding thorax, dari apertura thoracis superior sampai diaphragma. Rongga ini terbagi menjadi dua cavitas pulmonalis di lateral, yang berisi paru dan pleura, dan mediastinum di tengah."
+  },
+  "facts": {
+   "location": {
+    "en": "Inside the thoracic cage (sternum, ribs and costal cartilages, intercostal muscles and thoracic vertebrae). Above, it reaches into the root of the neck as the cupula pleurae over each lung apex; below, the domes of the diaphragm rise to about the 5th rib on the right and the 5th intercostal space on the left in expiration.",
+    "id": "Di dalam rangka thorax (sternum, costa dan cartilago costalis, otot intercostal dan vertebra thoracica). Di atas, rongga ini mencapai pangkal leher sebagai cupula pleurae di atas setiap apex paru; di bawah, kubah diaphragma naik sampai kira-kira costa V di kanan dan spatium intercostale V di kiri saat ekspirasi."
+   },
+   "features": {
+    "en": "Divisions: cavitas pulmonalis dextra and sinistra, and the mediastinum. The mediastinum is divided into the mediastinum superius and inferius, and the inferius into anterius, medium and posterius.",
+    "id": "Pembagian: cavitas pulmonalis dextra dan sinistra, serta mediastinum. Mediastinum terbagi menjadi mediastinum superius dan inferius, dan mediastinum inferius terbagi lagi menjadi anterius, medium dan posterius."
+   },
+   "relations": {
+    "en": "Because the diaphragm domes so high, the liver, stomach and spleen lie under the lower ribs, inside the thoracic cage but outside the thoracic cavity; a stab wound low in the chest can injure them.",
+    "id": "Karena kubah diaphragma tinggi, hepar, gaster dan lien terletak di bawah costa bagian bawah, di dalam rangka thorax tetapi di luar cavitas thoracis; luka tusuk di dada bawah dapat mengenai organ-organ tersebut."
+   }
+  },
+  "quiz": {
+   "divisions": [
+    "Cavitas pulmonalis et mediastinum",
+    "Cavitas pulmonalis",
+    "Mediastinum"
+   ]
+  }
+ },
+ {
+  "key": "superior-thoracic-aperture",
+  "kind": "landmark",
+  "la": "Apertura thoracis superior",
+  "alt": [
+   "Apertura superior thoracis",
+   "Apertura thoracica superior",
+   "Apertura thoracic superior"
+  ],
+  "en": "Superior thoracic aperture (thoracic inlet)",
+  "desc": {
+   "en": "Opening at the top of the thoracic cage, bounded by the body of T1 behind, the first pair of ribs and their costal cartilages at the sides, and the upper border of the manubrium in front. Its plane slopes downward and forward, so the jugular notch lies at about the level of the T2-T3 disc.",
+   "id": "Lubang di puncak rangka thorax yang dibatasi corpus vertebra T1 di belakang, sepasang costa I beserta cartilago costalisnya di samping, dan tepi atas manubrium sterni di depan. Bidangnya miring ke bawah dan ke depan, sehingga incisura jugularis terletak kira-kira setinggi discus T2-T3."
+  },
+  "facts": {
+   "bone": "thoracic-skeleton",
+   "relations": {
+    "en": "Passing through it: the trachea and oesophagus; the vessels of the head, neck and upper limbs (truncus brachiocephalicus, a. carotis communis sinistra, a. subclavia sinistra, aa. thoracicae internae, vv. brachiocephalicae); the nn. vagi, nn. phrenici, n. laryngeus recurrens sinister and trunci sympathici; the ductus thoracicus; and on each side the lung apex covered by the cupula pleurae.",
+    "id": "Struktur yang melewatinya: trachea dan oesophagus; pembuluh kepala, leher dan ekstremitas superior (truncus brachiocephalicus, a. carotis communis sinistra, a. subclavia sinistra, aa. thoracicae internae, vv. brachiocephalicae); nn. vagi, nn. phrenici, n. laryngeus recurrens sinister dan trunci sympathici; ductus thoracicus; dan di setiap sisi apex paru yang ditutupi cupula pleurae."
+   },
+   "clinical": {
+    "en": "Clinicians call this opening the thoracic outlet. Compression of the lower trunk of the plexus brachialis and the subclavian vessels here, for example by a cervical rib, is thoracic outlet syndrome.",
+    "id": "Di klinik lubang ini disebut thoracic outlet. Penekanan truncus inferior plexus brachialis dan pembuluh subclavia di sini, misalnya oleh costa cervicalis, disebut thoracic outlet syndrome."
+   }
+  },
+  "quiz": {
+   "boundaries": [
+    "Vertebra T1, costa I, manubrium sterni",
+    "Vertebra T1",
+    "Costa I",
+    "Manubrium sterni"
+   ]
+  }
+ },
+ {
+  "key": "inferior-thoracic-aperture",
+  "kind": "landmark",
+  "la": "Apertura thoracis inferior",
+  "alt": [
+   "Apertura inferior thoracis",
+   "Apertura thoracica inferior",
+   "Apertura thoracic inferior"
+  ],
+  "en": "Inferior thoracic aperture (thoracic outlet)",
+  "desc": {
+   "en": "Larger, oblique opening at the bottom of the thoracic cage, bounded by the body of T12 behind, the 11th and 12th ribs posterolaterally, the costal margins (joined cartilages of ribs 7-10) anterolaterally and the xiphisternal joint in front. The diaphragm closes it.",
+   "id": "Lubang yang lebih besar dan miring di dasar rangka thorax, dibatasi corpus vertebra T12 di belakang, costa XI dan XII di posterolateral, arcus costalis (gabungan cartilago costalis VII-X) di anterolateral, dan articulatio xiphosternalis di depan. Diaphragma menutup lubang ini."
+  },
+  "facts": {
+   "bone": "thoracic-skeleton",
+   "relations": {
+    "en": "Structures pass between thorax and abdomen through or behind the diaphragm: the v. cava inferior through the foramen venae cavae (T8); the oesophagus with the trunci vagales through the hiatus oesophageus (T10); the aorta with the ductus thoracicus and often the v. azygos through the hiatus aorticus behind the median arcuate ligament (T12).",
+    "id": "Struktur yang lewat di antara thorax dan abdomen melalui atau di belakang diaphragma: v. cava inferior melalui foramen venae cavae (T8); oesophagus bersama trunci vagales melalui hiatus oesophageus (T10); aorta bersama ductus thoracicus dan sering v. azygos melalui hiatus aorticus di belakang ligamentum arcuatum medianum (T12)."
+   },
+   "clinical": {
+    "en": "The angle between the two costal margins at the xiphisternal joint is the infrasternal angle.",
+    "id": "Sudut antara kedua arcus costalis pada articulatio xiphosternalis disebut angulus infrasternalis."
+   }
+  },
+  "quiz": {
+   "closed_by": [
+    "Diaphragma"
+   ],
+   "boundaries": [
+    "Vertebra T12, costa XI-XII, arcus costalis, articulatio xiphosternalis",
+    "Vertebra T12",
+    "Arcus costalis"
+   ]
+  }
+ },
+ {
+  "key": "pulmonary-cavity",
+  "kind": "organ-part",
+  "model": false,
+  "la": "Cavitas pulmonalis",
+  "alt": [
+   "Cavitas pulmonalis dextra",
+   "Cavitas pulmonalis sinistra",
+   "Cavitates pulmonales"
+  ],
+  "en": "Pulmonary cavity",
+  "desc": {
+   "en": "One of the two lateral compartments of the thoracic cavity, each holding a lung in its pleural sac. The two cavities are completely separate, with the mediastinum between them.",
+   "id": "Salah satu dari dua ruang lateral cavitas thoracis, masing-masing berisi satu paru di dalam kantong pleuranya. Kedua cavitas terpisah sempurna, dengan mediastinum di antaranya."
+  },
+  "facts": {
+   "location": {
+    "en": "Right and left of the mediastinum, from the cupula pleurae in the root of the neck down to the diaphragm.",
+    "id": "Di kanan dan kiri mediastinum, dari cupula pleurae di pangkal leher sampai diaphragma."
+   },
+   "features": {
+    "en": "Boundaries: in front, at the side and behind, the inner surface of the thoracic wall (ribs, costal cartilages, intercostal spaces and the sides of the thoracic vertebral bodies); medially, the mediastinum; below, the diaphragm; above, the cupula pleurae, which rises through the superior thoracic aperture 2-3 cm above the medial third of the clavicle. The whole cavity is lined by pleura parietalis.",
+    "id": "Batas: di depan, samping dan belakang, permukaan dalam dinding thorax (costa, cartilago costalis, spatium intercostale dan sisi corpus vertebra thoracica); di medial, mediastinum; di bawah, diaphragma; di atas, cupula pleurae yang naik melalui apertura thoracis superior 2-3 cm di atas sepertiga medial clavicula. Seluruh cavitas dilapisi pleura parietalis."
+   },
+   "relations": {
+    "en": "The left cavity is narrower than the right because the heart bulges to the left, and the right one is shorter because the right dome of the diaphragm is higher.",
+    "id": "Cavitas kiri lebih sempit daripada kanan karena jantung menonjol ke kiri, dan cavitas kanan lebih pendek karena kubah diaphragma kanan lebih tinggi."
+   },
+   "clinical": {
+    "en": "Because the two cavities are separate, a pneumothorax or haemothorax normally affects only one side.",
+    "id": "Karena kedua cavitas terpisah, pneumotoraks atau hemotoraks biasanya hanya mengenai satu sisi."
+   }
+  },
+  "quiz": {
+   "medial_boundary": [
+    "Mediastinum"
+   ],
+   "inferior_boundary": [
+    "Diaphragma"
+   ],
+   "contains": [
+    "Pulmo et pleura",
+    "Pulmo",
+    "Pleura"
+   ]
+  }
+ },
+ {
+  "key": "mediastinum",
+  "kind": "organ-part",
+  "model": false,
+  "la": "Mediastinum",
+  "alt": [],
+  "en": "Mediastinum",
+  "desc": {
+   "en": "Central compartment of the thoracic cavity between the two pulmonary cavities, covered on each side by mediastinal pleura. It contains all the thoracic viscera except the lungs: the heart and great vessels, trachea, oesophagus, thymus, nerves, ductus thoracicus and lymph nodes.",
+   "id": "Ruang tengah cavitas thoracis di antara kedua cavitas pulmonalis, ditutupi pleura mediastinalis di kedua sisinya. Mediastinum berisi semua organ thorax kecuali paru: jantung dan pembuluh darah besar, trachea, oesophagus, thymus, saraf, ductus thoracicus dan kelenjar limfe."
+  },
+  "facts": {
+   "location": {
+    "en": "From the superior thoracic aperture to the diaphragm, and from the sternum and costal cartilages in front to the bodies of the thoracic vertebrae behind.",
+    "id": "Dari apertura thoracis superior sampai diaphragma, dan dari sternum serta cartilago costalis di depan sampai corpus vertebra thoracica di belakang."
+   },
+   "features": {
+    "en": "A horizontal plane from the sternal angle to the T4-T5 disc (transverse thoracic plane) divides it into the mediastinum superius and inferius. The pericardium divides the inferior part into the mediastinum anterius (in front of the pericardium), medium (the pericardium and its contents) and posterius (behind the pericardium).",
+    "id": "Bidang horizontal dari angulus sterni ke discus T4-T5 (bidang transversal thorax) membaginya menjadi mediastinum superius dan inferius. Pericardium membagi bagian inferius menjadi mediastinum anterius (di depan pericardium), medium (pericardium beserta isinya) dan posterius (di belakang pericardium)."
+   },
+   "clinical": {
+    "en": "In life it is mobile: a tension pneumothorax pushes it toward the opposite side. A widened mediastinum on a chest radiograph may mean bleeding from a torn great vessel or enlarged lymph nodes.",
+    "id": "Pada orang hidup mediastinum dapat bergeser: pneumotoraks tension mendorongnya ke sisi yang berlawanan. Mediastinum yang melebar pada foto toraks dapat menandakan perdarahan dari pembuluh besar yang robek atau pembesaran kelenjar limfe."
+   }
+  },
+  "quiz": {
+   "divisions": [
+    "Mediastinum superius et inferius",
+    "Mediastinum superius",
+    "Mediastinum inferius"
+   ],
+   "dividing_plane": [
+    "Angulus sterni",
+    "T4-T5",
+    "Discus intervertebralis T4-T5"
+   ]
+  }
+ },
+ {
+  "key": "superior-mediastinum",
+  "kind": "organ-part",
+  "model": false,
+  "la": "Mediastinum superius",
+  "alt": [],
+  "en": "Superior mediastinum",
+  "desc": {
+   "en": "Upper part of the mediastinum, between the superior thoracic aperture and the transverse thoracic plane through the sternal angle and the T4-T5 disc. It holds the arch of the aorta and its branches, the great veins, the trachea and the oesophagus.",
+   "id": "Bagian atas mediastinum, di antara apertura thoracis superior dan bidang transversal thorax yang melalui angulus sterni dan discus T4-T5. Bagian ini berisi arcus aortae dan cabangnya, vena-vena besar, trachea dan oesophagus."
+  },
+  "facts": {
+   "location": {
+    "en": "Above: superior thoracic aperture. Below: the plane from the sternal angle to the T4-T5 disc. In front: manubrium. Behind: bodies of T1-T4. Sides: mediastinal pleura.",
+    "id": "Atas: apertura thoracis superior. Bawah: bidang dari angulus sterni ke discus T4-T5. Depan: manubrium sterni. Belakang: corpus vertebra T1-T4. Samping: pleura mediastinalis."
+   },
+   "features": {
+    "en": "Contents, roughly from front to back: thymus (or its fatty remnant); vv. brachiocephalicae and the upper half of the v. cava superior; arcus aortae with the truncus brachiocephalicus, a. carotis communis sinistra and a. subclavia sinistra; nn. vagi and nn. phrenici, the plexus cardiacus and the n. laryngeus recurrens sinister; trachea; oesophagus; ductus thoracicus; lymph nodes.",
+    "id": "Isi, kira-kira dari depan ke belakang: thymus (atau sisa lemaknya); vv. brachiocephalicae dan separuh atas v. cava superior; arcus aortae dengan truncus brachiocephalicus, a. carotis communis sinistra dan a. subclavia sinistra; nn. vagi dan nn. phrenici, plexus cardiacus dan n. laryngeus recurrens sinister; trachea; oesophagus; ductus thoracicus; kelenjar limfe."
+   },
+   "clinical": {
+    "en": "Masses here include thymomas, a retrosternal goitre and enlarged lymph nodes (lymphoma); they may compress the trachea or the v. cava superior.",
+    "id": "Massa di daerah ini antara lain timoma, struma retrosternal dan pembesaran kelenjar limfe (limfoma); massa tersebut dapat menekan trachea atau v. cava superior."
+   }
+  },
+  "quiz": {
+   "contents": [
+    "Arcus aortae",
+    "Thymus",
+    "Trachea",
+    "Oesophagus",
+    "Vena cava superior",
+    "Vena brachiocephalica",
+    "Ductus thoracicus",
+    "Nervus vagus",
+    "Nervus phrenicus"
+   ],
+   "lower_boundary": [
+    "Angulus sterni",
+    "T4-T5"
+   ]
+  }
+ },
+ {
+  "key": "inferior-mediastinum",
+  "kind": "organ-part",
+  "model": false,
+  "la": "Mediastinum inferius",
+  "alt": [],
+  "en": "Inferior mediastinum",
+  "desc": {
+   "en": "Part of the mediastinum below the transverse thoracic plane, down to the diaphragm. The pericardium divides it into the mediastinum anterius, medium and posterius.",
+   "id": "Bagian mediastinum di bawah bidang transversal thorax sampai diaphragma. Pericardium membaginya menjadi mediastinum anterius, medium dan posterius."
+  },
+  "facts": {
+   "location": {
+    "en": "Above: the plane from the sternal angle to the T4-T5 disc. Below: diaphragm. In front: body of the sternum. Behind: bodies of T5-T12. Sides: mediastinal pleura.",
+    "id": "Atas: bidang dari angulus sterni ke discus T4-T5. Bawah: diaphragma. Depan: corpus sterni. Belakang: corpus vertebra T5-T12. Samping: pleura mediastinalis."
+   }
+  },
+  "quiz": {
+   "parts": [
+    "Mediastinum anterius, medium et posterius",
+    "Mediastinum anterius",
+    "Mediastinum medium",
+    "Mediastinum posterius"
+   ]
+  }
+ },
+ {
+  "key": "anterior-mediastinum",
+  "kind": "organ-part",
+  "model": false,
+  "la": "Mediastinum anterius",
+  "alt": [
+   "Mediastinum inferius anterius"
+  ],
+  "en": "Anterior mediastinum",
+  "desc": {
+   "en": "Smallest part of the mediastinum, a narrow space between the body of the sternum and the mm. transversi thoracis in front and the pericardium behind.",
+   "id": "Bagian mediastinum yang paling kecil, berupa ruang sempit di antara corpus sterni dan mm. transversi thoracis di depan dan pericardium di belakang."
+  },
+  "facts": {
+   "location": {
+    "en": "Above: the plane of the sternal angle, where it continues into the superior mediastinum. Below: diaphragm. In front: body of the sternum and the mm. transversi thoracis. Behind: pericardium. Sides: mediastinal pleura.",
+    "id": "Atas: bidang angulus sterni, tempat ruang ini berlanjut ke mediastinum superius. Bawah: diaphragma. Depan: corpus sterni dan mm. transversi thoracis. Belakang: pericardium. Samping: pleura mediastinalis."
+   },
+   "features": {
+    "en": "Contents: loose connective tissue and fat, the ligamenta sternopericardiaca, lymph vessels and a few lymph nodes, and branches of the vasa thoracica interna. In infants and children the lower part of the thymus extends into it.",
+    "id": "Isi: jaringan ikat longgar dan lemak, ligamenta sternopericardiaca, pembuluh limfe dan beberapa kelenjar limfe, serta cabang vasa thoracica interna. Pada bayi dan anak, bagian bawah thymus meluas ke ruang ini."
+   }
+  },
+  "quiz": {
+   "contents": [
+    "Ligamenta sternopericardiaca",
+    "Thymus",
+    "Nodi lymphoidei"
+   ]
+  }
+ },
+ {
+  "key": "middle-mediastinum",
+  "kind": "organ-part",
+  "model": false,
+  "la": "Mediastinum medium",
+  "alt": [
+   "Mediastinum inferius medium"
+  ],
+  "en": "Middle mediastinum",
+  "desc": {
+   "en": "Central part of the inferior mediastinum, containing the pericardium, the heart and the roots of the great vessels.",
+   "id": "Bagian tengah mediastinum inferius yang berisi pericardium, jantung dan pangkal pembuluh darah besar."
+  },
+  "facts": {
+   "location": {
+    "en": "Between the anterior and the posterior mediastinum, from the plane of the sternal angle to the diaphragm, with the mediastinal pleura at the sides.",
+    "id": "Di antara mediastinum anterius dan posterius, dari bidang angulus sterni sampai diaphragma, dengan pleura mediastinalis di kedua sisi."
+   },
+   "features": {
+    "en": "Contents: pericardium and heart; aorta ascendens; truncus pulmonalis and the pulmonary arteries; lower half of the v. cava superior with the end of the v. azygos; terminal v. cava inferior; vv. pulmonales; nn. phrenici with the vasa pericardiacophrenica. Some textbooks (Snell) also place the tracheal bifurcation, the two main bronchi and part of the plexus cardiacus here.",
+    "id": "Isi: pericardium dan jantung; aorta ascendens; truncus pulmonalis dan aa. pulmonales; separuh bawah v. cava superior dengan ujung v. azygos; ujung v. cava inferior; vv. pulmonales; nn. phrenici bersama vasa pericardiacophrenica. Sebagian buku (Snell) juga memasukkan bifurcatio tracheae, kedua bronchus principalis dan sebagian plexus cardiacus ke dalam bagian ini."
+   }
+  },
+  "quiz": {
+   "contents": [
+    "Cor",
+    "Pericardium",
+    "Aorta ascendens",
+    "Truncus pulmonalis"
+   ]
+  }
+ },
+ {
+  "key": "posterior-mediastinum",
+  "kind": "organ-part",
+  "model": false,
+  "la": "Mediastinum posterius",
+  "alt": [
+   "Mediastinum inferius posterius"
+  ],
+  "en": "Posterior mediastinum",
+  "desc": {
+   "en": "Part of the inferior mediastinum behind the pericardium and the posterior part of the diaphragm, in front of the bodies of T5-T12. The oesophagus and the pars thoracica aortae descend through it to the diaphragm.",
+   "id": "Bagian mediastinum inferius di belakang pericardium dan bagian posterior diaphragma, di depan corpus vertebra T5-T12. Oesophagus dan pars thoracica aortae turun melaluinya menuju diaphragma."
+  },
+  "facts": {
+   "location": {
+    "en": "Above: the plane of the sternal angle, where it continues into the superior mediastinum. Below: diaphragm. In front: pericardium (over the left atrium) and, lower down, the diaphragm. Behind: bodies of T5-T12. Sides: mediastinal pleura.",
+    "id": "Atas: bidang angulus sterni, tempat ruang ini berlanjut ke mediastinum superius. Bawah: diaphragma. Depan: pericardium (di atas atrium sinistrum) dan, lebih ke bawah, diaphragma. Belakang: corpus vertebra T5-T12. Samping: pleura mediastinalis."
+   },
+   "features": {
+    "en": "Contents: pars thoracica aortae; oesophagus with the plexus oesophageus of the nn. vagi; ductus thoracicus; v. azygos, v. hemiazygos and v. hemiazygos accessoria; posterior mediastinal lymph nodes. The trunci sympathici and the nn. splanchnici lie at its lateral edge on the heads of the ribs, and some books count them as contents.",
+    "id": "Isi: pars thoracica aortae; oesophagus dengan plexus oesophageus dari nn. vagi; ductus thoracicus; v. azygos, v. hemiazygos dan v. hemiazygos accessoria; kelenjar limfe mediastinum posterior. Trunci sympathici dan nn. splanchnici terletak di tepi lateralnya pada caput costae, dan sebagian buku menghitungnya sebagai isi mediastinum posterius."
+   },
+   "relations": {
+    "en": "On its way down the oesophagus crosses in front of the aorta from right to left.",
+    "id": "Saat turun, oesophagus menyilang di depan aorta dari kanan ke kiri."
+   }
+  },
+  "quiz": {
+   "contents": [
+    "Pars thoracica aortae",
+    "Aorta thoracica",
+    "Oesophagus",
+    "Ductus thoracicus",
+    "Vena azygos"
+   ]
+  }
+ },
+ {
+  "key": "oesophageal-impression-of-liver",
+  "kind": "landmark",
+  "la": "Impressio oesophagea",
+  "alt": [
+   "Impressio oesophagea hepatis",
+   "Impressio esophagea",
+   "Impressio esophagea hepatis"
+  ],
+  "en": "Oesophageal impression of liver",
+  "desc": {
+   "en": "Shallow groove on the posterior part of the left lobe of the liver, made by the abdominal part of the oesophagus just after it passes through the hiatus oesophageus of the diaphragm at the level of T10.",
+   "id": "Alur dangkal pada bagian posterior lobus sinister hepar, dibentuk oleh pars abdominalis oesophagi tepat setelah oesophagus menembus hiatus oesophageus diaphragma setinggi T10."
+  },
+  "facts": {
+   "bone": "liver",
+   "relations": {
+    "en": "The gastric impression lies next to it on the visceral surface of the left lobe.",
+    "id": "Impressio gastrica terletak di sebelahnya pada facies visceralis lobus sinister."
+   }
+  },
+  "quiz": {
+   "bone": [
+    "Hepar"
+   ]
+  }
+ },
+ {
+  "key": "pleura",
+  "kind": "membrane",
+  "la": "Pleura",
+  "alt": [
+   "Pleurae"
+  ],
+  "en": "Pleura",
+  "desc": {
+   "en": "Serous membrane that forms a closed sac around each lung. Its visceral layer covers the lung surface and dips into the fissures; its parietal layer lines the pulmonary cavity. The two layers are continuous at the root of the lung, and the potential space between them is the pleural cavity.",
+   "id": "Membran serosa yang membentuk kantong tertutup di sekeliling setiap paru. Lapisan visceralnya menutupi permukaan paru dan masuk ke dalam fissura; lapisan parietalnya melapisi cavitas pulmonalis. Kedua lapisan bersambung di radix pulmonis, dan ruang potensial di antaranya adalah cavitas pleuralis."
+  },
+  "facts": {
+   "location": {
+    "en": "Each pulmonary cavity, from the cupula pleurae above the 1st rib down to the costodiaphragmatic recess.",
+    "id": "Setiap cavitas pulmonalis, dari cupula pleurae di atas costa I sampai recessus costodiaphragmaticus."
+   },
+   "features": {
+    "en": "Division: pleura visceralis (pulmonalis) and pleura parietalis. Parts of the parietal pleura: pars costalis, pars mediastinalis, pars diaphragmatica and the cupula pleurae (cervical pleura). Recesses: recessus costodiaphragmaticus and recessus costomediastinalis. Below the root of the lung the pleural sleeve hangs down as the ligamentum pulmonale.",
+    "id": "Pembagian: pleura visceralis (pulmonalis) dan pleura parietalis. Bagian pleura parietalis: pars costalis, pars mediastinalis, pars diaphragmatica dan cupula pleurae (pleura cervicalis). Recessus: recessus costodiaphragmaticus dan recessus costomediastinalis. Di bawah radix pulmonis, selubung pleura menggantung ke bawah sebagai ligamentum pulmonale."
+   },
+   "relations": {
+    "en": "Surface lines of the parietal pleura: the anterior (sternal) reflections of both sides meet behind the sternal angle and run down together to the 4th costal cartilage; the right line continues to the 6th costal cartilage, while the left turns to the left border of the sternum at the 4th cartilage and descends to the 6th. The inferior (costal) reflection crosses the 8th rib in the midclavicular line, the 10th rib in the midaxillary line and the 12th rib beside the vertebral column. The lower border of the lung lies about two ribs higher on the same lines (6th, 8th and 10th rib).",
+    "id": "Garis proyeksi pleura parietalis: garis lipatan anterior (sternal) kedua sisi bertemu di belakang angulus sterni dan turun bersama sampai cartilago costalis IV; garis kanan berlanjut sampai cartilago costalis VI, sedangkan garis kiri berbelok ke tepi kiri sternum setinggi cartilago IV lalu turun sampai cartilago VI. Garis lipatan inferior (costal) menyilang costa VIII di linea medioclavicularis, costa X di linea axillaris media dan costa XII di samping columna vertebralis. Margo inferior paru terletak kira-kira dua costa lebih tinggi pada garis yang sama (costa VI, VIII dan X)."
+   },
+   "blood": [
+    "Arteriae intercostales",
+    "Arteria thoracica interna",
+    "Arteria musculophrenica",
+    "Rami bronchiales"
+   ],
+   "nerve": [
+    "Nervi intercostales",
+    "Nervus phrenicus",
+    "Plexus pulmonalis"
+   ],
+   "clinical": {
+    "en": "The parietal pleura is sensitive to pain. Its costal part and the edge of the diaphragmatic part are supplied by the intercostal nerves, so pain is felt over the chest or abdominal wall; its mediastinal part and the central diaphragmatic part by the n. phrenicus, so pain is referred to the root of the neck and the shoulder (C3-C5). The visceral pleura has no pain fibres.",
+    "id": "Pleura parietalis peka terhadap nyeri. Pars costalis dan tepi pars diaphragmatica dipersarafi nn. intercostales, sehingga nyeri dirasakan di dinding dada atau dinding perut; pars mediastinalis dan bagian tengah pars diaphragmatica dipersarafi n. phrenicus, sehingga nyeri dialihkan ke pangkal leher dan bahu (C3-C5). Pleura visceralis tidak memiliki serabut nyeri."
+   }
+  },
+  "quiz": {
+   "layers": [
+    "Pleura parietalis et visceralis",
+    "Pleura parietalis",
+    "Pleura visceralis"
+   ]
+  }
+ },
+ {
+  "key": "parietal-pleura",
+  "kind": "membrane",
+  "model": false,
+  "la": "Pleura parietalis",
+  "alt": [
+   "Lamina parietalis pleurae"
+  ],
+  "en": "Parietal pleura",
+  "desc": {
+   "en": "Outer layer of the pleura that lines the pulmonary cavity. It is named after the surface it covers: pars costalis, pars mediastinalis, pars diaphragmatica and the cupula pleurae.",
+   "id": "Lapisan luar pleura yang melapisi cavitas pulmonalis. Bagiannya dinamai menurut permukaan yang ditutupinya: pars costalis, pars mediastinalis, pars diaphragmatica dan cupula pleurae."
+  },
+  "facts": {
+   "location": {
+    "en": "Inner surface of the thoracic wall, the side of the mediastinum, the upper surface of the diaphragm and the root of the neck above the lung apex.",
+    "id": "Permukaan dalam dinding thorax, sisi mediastinum, permukaan atas diaphragma dan pangkal leher di atas apex paru."
+   },
+   "features": {
+    "en": "Where one part turns into another it forms lines of reflection (sternal, costal and vertebral) and the pleural recesses.",
+    "id": "Tempat satu bagian beralih ke bagian lain membentuk garis lipatan (sternal, costal dan vertebral) dan recessus pleurae."
+   },
+   "blood": [
+    "Arteriae intercostales",
+    "Arteria thoracica interna",
+    "Arteria musculophrenica"
+   ],
+   "nerve": [
+    "Nervi intercostales",
+    "Nervus phrenicus"
+   ],
+   "clinical": {
+    "en": "It is sensitive to pain, so inflammation (pleuritis) causes sharp pain that worsens with breathing, and a pleural friction rub may be heard.",
+    "id": "Pleura parietalis peka terhadap nyeri, sehingga peradangan (pleuritis) menimbulkan nyeri tajam yang bertambah saat bernapas, dan dapat terdengar bunyi gesek pleura (friction rub)."
+   }
+  },
+  "quiz": {
+   "parts": [
+    "Pars costalis, pars mediastinalis, pars diaphragmatica, cupula pleurae",
+    "Pars costalis",
+    "Pars mediastinalis",
+    "Pars diaphragmatica",
+    "Cupula pleurae"
+   ]
+  }
+ },
+ {
+  "key": "costal-part-of-parietal-pleura",
+  "kind": "membrane",
+  "model": false,
+  "la": "Pars costalis pleurae parietalis",
+  "alt": [
+   "Pars costalis",
+   "Pleura costalis"
+  ],
+  "en": "Costal part of parietal pleura",
+  "desc": {
+   "en": "Part of the parietal pleura that lines the inner surface of the ribs, costal cartilages, intercostal spaces, the edge of the sternum and the sides of the vertebral bodies. A thin layer of endothoracic fascia separates it from the thoracic wall, so it can be stripped off surgically.",
+   "id": "Bagian pleura parietalis yang melapisi permukaan dalam costa, cartilago costalis, spatium intercostale, tepi sternum dan sisi corpus vertebra. Lapisan tipis fascia endothoracica memisahkannya dari dinding thorax, sehingga bagian ini dapat dilepaskan saat operasi."
+  },
+  "facts": {
+   "location": {
+    "en": "Inner surface of the thoracic wall, from the sternal reflection in front to the vertebral reflection behind.",
+    "id": "Permukaan dalam dinding thorax, dari garis lipatan sternal di depan sampai garis lipatan vertebral di belakang."
+   },
+   "nerve": [
+    "Nervi intercostales"
+   ],
+   "clinical": {
+    "en": "Pain from it is sharp and felt in the chest wall over the lesion; disease near the lower ribs can be felt in the abdominal wall through the lower intercostal nerves.",
+    "id": "Nyeri darinya tajam dan dirasakan di dinding dada di atas lesi; kelainan di dekat costa bawah dapat dirasakan di dinding perut melalui nn. intercostales bawah."
+   }
+  },
+  "quiz": {
+   "nerve": [
+    "Nervi intercostales",
+    "Nervus intercostalis"
+   ]
+  }
+ },
+ {
+  "key": "mediastinal-part-of-parietal-pleura",
+  "kind": "membrane",
+  "model": false,
+  "la": "Pars mediastinalis pleurae parietalis",
+  "alt": [
+   "Pars mediastinalis",
+   "Pleura mediastinalis"
+  ],
+  "en": "Mediastinal part of parietal pleura",
+  "desc": {
+   "en": "Part of the parietal pleura that covers the lateral side of the mediastinum. At the root of the lung it turns onto the lung as visceral pleura, and below the root it forms the ligamentum pulmonale.",
+   "id": "Bagian pleura parietalis yang menutupi sisi lateral mediastinum. Di radix pulmonis bagian ini berbalik ke paru sebagai pleura visceralis, dan di bawah radix membentuk ligamentum pulmonale."
+  },
+  "facts": {
+   "location": {
+    "en": "Side of the mediastinum, between the sternal reflection in front and the vertebral reflection behind; above it continues into the cupula pleurae.",
+    "id": "Sisi mediastinum, di antara garis lipatan sternal di depan dan garis lipatan vertebral di belakang; di atas berlanjut ke cupula pleurae."
+   },
+   "relations": {
+    "en": "The n. phrenicus and the vasa pericardiacophrenica run between it and the pericardium.",
+    "id": "N. phrenicus dan vasa pericardiacophrenica berjalan di antara bagian ini dan pericardium."
+   },
+   "nerve": [
+    "Nervus phrenicus"
+   ],
+   "clinical": {
+    "en": "Its sensory nerve is the n. phrenicus, so pain from it is referred to the root of the neck and the shoulder (C3-C5).",
+    "id": "Saraf sensoriknya adalah n. phrenicus, sehingga nyeri darinya dialihkan ke pangkal leher dan bahu (C3-C5)."
+   }
+  },
+  "quiz": {
+   "nerve": [
+    "Nervus phrenicus"
+   ]
+  }
+ },
+ {
+  "key": "diaphragmatic-part-of-parietal-pleura",
+  "kind": "membrane",
+  "model": false,
+  "la": "Pars diaphragmatica pleurae parietalis",
+  "alt": [
+   "Pars diaphragmatica",
+   "Pleura diaphragmatica"
+  ],
+  "en": "Diaphragmatic part of parietal pleura",
+  "desc": {
+   "en": "Part of the parietal pleura that covers the upper (thoracic) surface of the diaphragm on each side of the mediastinum. It is absent along the costal attachments of the diaphragm and where the pericardium is fused to the central tendon.",
+   "id": "Bagian pleura parietalis yang menutupi permukaan atas (thoracal) diaphragma di kedua sisi mediastinum. Bagian ini tidak ada di sepanjang perlekatan diaphragma pada costa dan di tempat pericardium menyatu dengan centrum tendineum."
+  },
+  "facts": {
+   "location": {
+    "en": "Upper surface of each dome of the diaphragm; a layer of phrenicopleural fascia binds it to the muscle.",
+    "id": "Permukaan atas setiap kubah diaphragma; selapis fascia phrenicopleuralis mengikatnya pada otot."
+   },
+   "nerve": [
+    "Nervus phrenicus",
+    "Nervi intercostales"
+   ],
+   "clinical": {
+    "en": "Its central part is supplied by the n. phrenicus (pain referred to the shoulder) and its peripheral part by the lower intercostal nerves (pain felt in the upper abdominal wall).",
+    "id": "Bagian tengahnya dipersarafi n. phrenicus (nyeri dialihkan ke bahu) dan bagian tepinya oleh nn. intercostales bawah (nyeri dirasakan di dinding perut atas)."
+   }
+  },
+  "quiz": {
+   "nerve": [
+    "Nervus phrenicus",
+    "Nervi intercostales"
+   ]
+  }
+ },
+ {
+  "key": "cupula-of-pleura",
+  "kind": "membrane",
+  "model": false,
+  "la": "Cupula pleurae",
+  "alt": [
+   "Pleura cervicalis",
+   "Cupula pleuralis"
+  ],
+  "en": "Cupula of pleura (cervical pleura)",
+  "desc": {
+   "en": "Dome-shaped top of the parietal pleura that covers the apex of the lung. It rises through the superior thoracic aperture into the root of the neck, 2-3 cm above the medial third of the clavicle, to the level of the neck of the 1st rib.",
+   "id": "Puncak pleura parietalis yang berbentuk kubah dan menutupi apex paru. Cupula naik melalui apertura thoracis superior ke pangkal leher, 2-3 cm di atas sepertiga medial clavicula, sampai setinggi collum costae I."
+  },
+  "facts": {
+   "location": {
+    "en": "Root of the neck, behind the medial third of the clavicle and above the 1st rib.",
+    "id": "Pangkal leher, di belakang sepertiga medial clavicula dan di atas costa I."
+   },
+   "relations": {
+    "en": "It is strengthened by the membrana suprapleuralis (Sibson's fascia), which runs from the transverse process of C7 to the inner border of the 1st rib. The a. subclavia arches over it in front, and the ganglion cervicothoracicum (stellatum) and the lower trunk of the plexus brachialis lie close behind and above it.",
+    "id": "Cupula diperkuat oleh membrana suprapleuralis (fascia Sibson) yang berjalan dari processus transversus C7 ke tepi dalam costa I. A. subclavia melengkung di atasnya di sebelah depan, sedangkan ganglion cervicothoracicum (stellatum) dan truncus inferior plexus brachialis terletak dekat di belakang dan di atasnya."
+   },
+   "clinical": {
+    "en": "Because it reaches above the clavicle, a needle for a subclavian vein catheter or a supraclavicular plexus block can puncture it and cause a pneumothorax. A tumour of the lung apex here can invade the stellate ganglion and the lower plexus (Pancoast tumour).",
+    "id": "Karena mencapai di atas clavicula, jarum untuk kateter v. subclavia atau blok plexus supraclavicular dapat menembusnya dan menyebabkan pneumotoraks. Tumor apex paru di daerah ini dapat menginfiltrasi ganglion stellatum dan plexus bagian bawah (tumor Pancoast)."
+   }
+  },
+  "quiz": {
+   "height": [
+    "2-3 cm di atas sepertiga medial clavicula",
+    "2-3 cm",
+    "Collum costae I"
+   ]
+  }
+ },
+ {
+  "key": "visceral-pleura",
+  "kind": "membrane",
+  "model": false,
+  "la": "Pleura visceralis",
+  "alt": [
+   "Pleura pulmonalis",
+   "Lamina visceralis pleurae"
+  ],
+  "en": "Visceral pleura",
+  "desc": {
+   "en": "Inner layer of the pleura, firmly attached to the whole lung surface, including the surfaces inside the fissures; it cannot be peeled off the lung. It is continuous with the parietal pleura at the root of the lung.",
+   "id": "Lapisan dalam pleura yang melekat erat pada seluruh permukaan paru, termasuk permukaan di dalam fissura; lapisan ini tidak dapat dikupas dari paru. Pleura visceralis bersambung dengan pleura parietalis di radix pulmonis."
+  },
+  "facts": {
+   "location": {
+    "en": "Outer surface of each lung and the walls of its fissures.",
+    "id": "Permukaan luar setiap paru dan dinding fissura-nya."
+   },
+   "blood": [
+    "Rami bronchiales"
+   ],
+   "nerve": [
+    "Plexus pulmonalis"
+   ],
+   "clinical": {
+    "en": "It has autonomic nerves only and no pain fibres, so lung disease that stays inside the lung is painless until it reaches the parietal pleura.",
+    "id": "Pleura visceralis hanya memiliki saraf otonom tanpa serabut nyeri, sehingga penyakit paru yang terbatas di dalam paru tidak nyeri sampai mencapai pleura parietalis."
+   }
+  },
+  "quiz": {
+   "covers": [
+    "Pulmo",
+    "Paru"
+   ]
+  }
+ },
+ {
+  "key": "pleural-cavity",
+  "kind": "organ-part",
+  "model": false,
+  "la": "Cavitas pleuralis",
+  "alt": [
+   "Cavitas pleurae",
+   "Cavum pleurae"
+  ],
+  "en": "Pleural cavity",
+  "desc": {
+   "en": "Potential space between the visceral and parietal pleura of each side, containing a thin film of serous fluid. The fluid lets the layers slide during breathing, and its surface tension holds the lung against the thoracic wall.",
+   "id": "Ruang potensial di antara pleura visceralis dan pleura parietalis di setiap sisi, berisi lapisan tipis cairan serosa. Cairan ini membuat kedua lapisan dapat bergeser saat bernapas, dan tegangan permukaannya menahan paru tetap menempel pada dinding thorax."
+  },
+  "facts": {
+   "features": {
+    "en": "Each cavity is closed and separate from the other side. Where the lung does not reach in quiet breathing the cavity forms recesses: recessus costodiaphragmaticus and recessus costomediastinalis.",
+    "id": "Setiap cavitas tertutup dan terpisah dari sisi lainnya. Di tempat yang tidak dicapai paru saat bernapas tenang, cavitas membentuk recessus: recessus costodiaphragmaticus dan recessus costomediastinalis."
+   },
+   "clinical": {
+    "en": "Air (pneumothorax), fluid (pleural effusion), blood (haemothorax) or pus (empyema) entering the cavity breaks the fluid seal and lets the lung collapse.",
+    "id": "Udara (pneumotoraks), cairan (efusi pleura), darah (hemotoraks) atau nanah (empiema) yang masuk ke cavitas memutus ikatan cairan pleura dan membuat paru kolaps."
+   }
+  },
+  "quiz": {
+   "between": [
+    "Pleura visceralis et parietalis",
+    "Pleura visceralis",
+    "Pleura parietalis"
+   ]
+  }
+ },
+ {
+  "key": "costodiaphragmatic-recess",
+  "kind": "organ-part",
+  "model": false,
+  "la": "Recessus costodiaphragmaticus",
+  "alt": [
+   "Recessus phrenicocostalis",
+   "Sinus phrenicocostalis"
+  ],
+  "en": "Costodiaphragmatic recess",
+  "desc": {
+   "en": "Slit-like lowest part of the pleural cavity, where the costal pleura meets the diaphragmatic pleura along the inferior line of reflection. In quiet breathing the lung does not fill it; in deep inspiration the lower edge of the lung moves down into it.",
+   "id": "Bagian terbawah cavitas pleuralis yang berbentuk celah, tempat pleura costalis bertemu pleura diaphragmatica di sepanjang garis lipatan inferior. Saat bernapas tenang paru tidak mengisinya; saat inspirasi dalam, margo inferior paru turun masuk ke dalamnya."
+  },
+  "facts": {
+   "location": {
+    "en": "Along the costal reflection line. In the midaxillary line it lies between about the 8th rib (lower edge of the lung) and the 10th rib (pleural reflection).",
+    "id": "Sepanjang garis lipatan costal. Pada linea axillaris media recessus ini terletak kira-kira di antara costa VIII (margo inferior paru) dan costa X (garis lipatan pleura)."
+   },
+   "clinical": {
+    "en": "In an upright patient pleural fluid collects here first and blunts the costophrenic angle on a chest radiograph. Fluid is tapped through the 9th intercostal space in the midaxillary line during expiration, with the needle passing just above the upper border of the rib below to spare the intercostal vessels and nerve.",
+    "id": "Pada pasien posisi tegak, cairan pleura terkumpul di sini lebih dahulu dan menumpulkan sudut kostofrenikus pada foto toraks. Cairan diambil melalui spatium intercostale IX pada linea axillaris media saat ekspirasi, dengan jarum lewat tepat di atas tepi atas costa di bawahnya untuk menghindari vasa dan n. intercostalis."
+   }
+  },
+  "quiz": {
+   "between": [
+    "Pleura costalis et pleura diaphragmatica",
+    "Pars costalis et pars diaphragmatica"
+   ]
+  }
+ },
+ {
+  "key": "costomediastinal-recess",
+  "kind": "organ-part",
+  "model": false,
+  "la": "Recessus costomediastinalis",
+  "alt": [
+   "Sinus costomediastinalis"
+  ],
+  "en": "Costomediastinal recess",
+  "desc": {
+   "en": "Narrow anterior recess where the costal pleura meets the mediastinal pleura behind the sternum and costal cartilages. The anterior margins of the lungs slide into it in deep inspiration. The left recess is larger because the left pleura and lung turn away from the sternum at the cardiac notch.",
+   "id": "Recessus anterior yang sempit, tempat pleura costalis bertemu pleura mediastinalis di belakang sternum dan cartilago costalis. Margo anterior paru masuk ke dalamnya saat inspirasi dalam. Recessus kiri lebih besar karena pleura dan paru kiri menjauh dari sternum di incisura cardiaca."
+  },
+  "facts": {
+   "location": {
+    "en": "Behind the sternum and the costal cartilages, along the anterior (sternal) line of reflection; the left one lies over the heart at the 4th-6th costal cartilages.",
+    "id": "Di belakang sternum dan cartilago costalis, sepanjang garis lipatan anterior (sternal); recessus kiri terletak di depan jantung setinggi cartilago costalis IV-VI."
+   }
+  },
+  "quiz": {
+   "between": [
+    "Pleura costalis et pleura mediastinalis",
+    "Pars costalis et pars mediastinalis"
+   ]
+  }
+ },
+ {
+  "key": "pulmonary-ligament",
+  "kind": "ligament",
+  "model": false,
+  "la": "Ligamentum pulmonale",
+  "alt": [
+   "Lig. pulmonale",
+   "Ligamentum pulmonaris"
+  ],
+  "en": "Pulmonary ligament",
+  "desc": {
+   "en": "Double fold of pleura that hangs down from the root of the lung like an empty sleeve, between the mediastinal surface of the lung and the mediastinum. It forms where the mediastinal pleura turns onto the lung below the hilum.",
+   "id": "Lipatan pleura dua lapis yang menggantung dari radix pulmonis seperti lengan baju yang kosong, di antara facies mediastinalis paru dan mediastinum. Lipatan ini terbentuk di tempat pleura mediastinalis berbalik ke paru di bawah hilum."
+  },
+  "facts": {
+   "attach": {
+    "en": "From the lower edge of the root of the lung down toward the diaphragm, joining the mediastinal surface of the lower lobe to the mediastinum.",
+    "id": "Dari tepi bawah radix pulmonis turun ke arah diaphragma, menghubungkan facies mediastinalis lobus inferior dengan mediastinum."
+   },
+   "function": {
+    "en": "Gives room for the root of the lung to move with breathing and for the pulmonary veins to widen; the inferior pulmonary vein lies at its upper end.",
+    "id": "Memberi ruang bagi radix pulmonis untuk bergerak saat bernapas dan bagi vv. pulmonales untuk melebar; v. pulmonalis inferior terletak di ujung atasnya."
+   },
+   "clinical": {
+    "en": "Surgeons divide it to free the inferior lobe and to reach the inferior pulmonary vein during lobectomy.",
+    "id": "Ahli bedah memotongnya untuk membebaskan lobus inferior dan mencapai v. pulmonalis inferior saat lobektomi."
+   }
+  },
+  "quiz": {
+   "formed_by": [
+    "Pleura",
+    "Pleura mediastinalis",
+    "Pleura parietalis et visceralis"
+   ]
+  }
+ }
+]

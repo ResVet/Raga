@@ -1,0 +1,1272 @@
+[
+ {
+  "key": "aorta",
+  "kind": "artery",
+  "la": "Aorta",
+  "alt": [],
+  "en": "Aorta",
+  "desc": {
+   "en": "Main systemic artery, leaving the left ventricle at the aortic valve. It has four parts: aorta ascendens, arcus aortae, pars thoracica and pars abdominalis. The arch begins and ends at the level of the sternal angle (T4-T5), and the aorta ends at L4 by dividing into the two aa. iliacae communes.",
+   "id": "Arteri sistemik utama yang keluar dari ventriculus sinister di valva aortae. Aorta terdiri atas empat bagian: aorta ascendens, arcus aortae, pars thoracica dan pars abdominalis. Arcus dimulai dan berakhir setinggi angulus sterni (T4-T5), dan aorta berakhir setinggi L4 dengan bercabang menjadi kedua a. iliaca communis."
+  },
+  "facts": {
+   "from": "Ventriculus sinister",
+   "course": {
+    "en": "Ascends in the middle mediastinum, arches backward and to the left over the root of the left lung in the superior mediastinum, descends in the posterior mediastinum on the left of the vertebral bodies, passes through the hiatus aorticus of the diaphragm at T12 and runs down the front of the lumbar vertebrae.",
+    "id": "Naik di mediastinum medium, melengkung ke belakang dan ke kiri di atas radix pulmonis sinistri di mediastinum superius, turun di mediastinum posterius di kiri corpus vertebra, melewati hiatus aorticus diaphragma setinggi T12, lalu berjalan di depan vertebra lumbal."
+   },
+   "branches": [
+    "Arteria coronaria dextra",
+    "Arteria coronaria sinistra",
+    "Truncus brachiocephalicus",
+    "Arteria carotis communis sinistra",
+    "Arteria subclavia sinistra",
+    "Arteriae intercostales posteriores",
+    "Arteria iliaca communis"
+   ],
+   "supplies": {
+    "en": "All tissues of the systemic circulation, including the lung tissue itself through the rami bronchiales.",
+    "id": "Seluruh jaringan sirkulasi sistemik, termasuk jaringan paru sendiri melalui rami bronchiales."
+   }
+  },
+  "quiz": {
+   "from": [
+    "Ventriculus sinister"
+   ],
+   "parts": [
+    "Aorta ascendens, arcus aortae, pars thoracica, pars abdominalis",
+    "4",
+    "empat"
+   ]
+  }
+ },
+ {
+  "key": "ascending-aorta",
+  "kind": "artery",
+  "la": "Aorta ascendens",
+  "alt": [
+   "Pars ascendens aortae"
+  ],
+  "en": "Ascending aorta",
+  "desc": {
+   "en": "First part of the aorta, about 5 cm long, from the aortic valve to the level of the sternal angle. It lies inside the pericardium, and its only branches are the two coronary arteries, which arise from the right and left aortic sinuses of its dilated root (bulbus aortae).",
+   "id": "Bagian pertama aorta, panjangnya sekitar 5 cm, dari valva aortae sampai setinggi angulus sterni. Bagian ini terletak di dalam pericardium, dan cabangnya hanya kedua a. coronaria yang berasal dari sinus aortae dexter dan sinister pada pangkalnya yang melebar (bulbus aortae)."
+  },
+  "facts": {
+   "from": "Ventriculus sinister",
+   "course": {
+    "en": "Begins behind the left half of the sternum at the level of the 3rd intercostal space and ascends forward and to the right to the level of the 2nd right costal cartilage, where it becomes the arcus aortae. It shares a sleeve of serous pericardium with the truncus pulmonalis, which lies at first in front of it and then to its left; the v. cava superior lies to its right and the sinus transversus pericardii behind it.",
+    "id": "Dimulai di belakang separuh kiri sternum setinggi spatium intercostale III dan naik ke depan dan ke kanan sampai setinggi cartilago costalis II kanan, lalu menjadi arcus aortae. Bagian ini berbagi satu selubung pericardium serosum dengan truncus pulmonalis, yang mula-mula terletak di depannya lalu di kirinya; v. cava superior terletak di kanannya dan sinus transversus pericardii di belakangnya."
+   },
+   "branches": [
+    "Arteria coronaria dextra",
+    "Arteria coronaria sinistra"
+   ],
+   "supplies": {
+    "en": "The heart, through the coronary arteries.",
+    "id": "Jantung, melalui kedua a. coronaria."
+   },
+   "continues": "Arcus aortae",
+   "clinical": {
+    "en": "Dilatation or aneurysm of the aorta ascendens can stretch the aortic ring and cause aortic regurgitation; rupture inside the pericardium causes tamponade.",
+    "id": "Dilatasi atau aneurisma aorta ascendens dapat meregangkan cincin aorta dan menimbulkan regurgitasi aorta; ruptur di dalam pericardium menyebabkan tamponade."
+   }
+  },
+  "quiz": {
+   "branches": [
+    "Arteria coronaria dextra et sinistra",
+    "Arteria coronaria dextra",
+    "Arteria coronaria sinistra"
+   ],
+   "continues": [
+    "Arcus aortae"
+   ]
+  }
+ },
+ {
+  "key": "aortic-arch",
+  "kind": "artery",
+  "la": "Arcus aortae",
+  "alt": [
+   "Arcus aorticus"
+  ],
+  "en": "Arch of aorta",
+  "desc": {
+   "en": "Curved part of the aorta in the superior mediastinum. It begins behind the 2nd right sternocostal joint at the level of the sternal angle, arches backward and to the left over the root of the left lung, and ends on the left side of the T4-T5 disc, again at the level of the sternal angle. It gives the truncus brachiocephalicus, the a. carotis communis sinistra and the a. subclavia sinistra.",
+   "id": "Bagian aorta yang melengkung di mediastinum superius. Arcus dimulai di belakang articulatio sternocostalis II kanan setinggi angulus sterni, melengkung ke belakang dan ke kiri di atas radix pulmonis sinistri, lalu berakhir di sisi kiri discus T4-T5, juga setinggi angulus sterni. Arcus memberikan truncus brachiocephalicus, a. carotis communis sinistra dan a. subclavia sinistra."
+  },
+  "facts": {
+   "from": "Aorta ascendens",
+   "course": {
+    "en": "Passes first in front of the trachea, then along its left side and that of the oesophagus, and hooks over the left main bronchus. Its highest point lies behind the middle of the manubrium. The left phrenic and vagus nerves cross its left side, with the v. intercostalis superior sinistra between them; the n. laryngeus recurrens sinister hooks under it beside the ligamentum arteriosum.",
+    "id": "Mula-mula berjalan di depan trachea, lalu di sisi kiri trachea dan oesophagus, dan melengkung di atas bronchus principalis sinister. Titik tertingginya terletak di belakang pertengahan manubrium. N. phrenicus dan n. vagus sinister menyilang sisi kirinya, dengan v. intercostalis superior sinistra di antara keduanya; n. laryngeus recurrens sinister melingkar di bawahnya di samping ligamentum arteriosum."
+   },
+   "branches": [
+    "Truncus brachiocephalicus",
+    "Arteria carotis communis sinistra",
+    "Arteria subclavia sinistra"
+   ],
+   "supplies": {
+    "en": "Head, neck and both upper limbs through its three branches, and part of the thoracic wall.",
+    "id": "Kepala, leher dan kedua ekstremitas superior melalui ketiga cabangnya, serta sebagian dinding thorax."
+   },
+   "continues": "Pars thoracica aortae",
+   "clinical": {
+    "en": "Coarctation of the aorta usually lies just beyond the a. subclavia sinistra near the ligamentum arteriosum. An aneurysm of the arch can stretch the n. laryngeus recurrens sinister and cause hoarseness. A common variant is a shared origin of the truncus brachiocephalicus and the a. carotis communis sinistra.",
+    "id": "Koarktasio aorta biasanya terletak tepat setelah a. subclavia sinistra di dekat ligamentum arteriosum. Aneurisma arcus dapat meregangkan n. laryngeus recurrens sinister dan menyebabkan suara serak. Varian yang sering adalah pangkal bersama truncus brachiocephalicus dan a. carotis communis sinistra."
+   }
+  },
+  "quiz": {
+   "branches": [
+    "Truncus brachiocephalicus, arteria carotis communis sinistra, arteria subclavia sinistra",
+    "Truncus brachiocephalicus",
+    "Arteria carotis communis sinistra",
+    "Arteria subclavia sinistra"
+   ],
+   "level": [
+    "T4-T5",
+    "Angulus sterni",
+    "T4"
+   ]
+  }
+ },
+ {
+  "key": "thoracic-aorta",
+  "kind": "artery",
+  "la": "Pars thoracica aortae",
+  "alt": [
+   "Aorta thoracica",
+   "Aorta descendens",
+   "Pars descendens aortae",
+   "Aorta thoracalis"
+  ],
+  "en": "Thoracic aorta (descending thoracic aorta)",
+  "desc": {
+   "en": "Continuation of the arcus aortae from the T4-T5 disc down through the posterior mediastinum to the hiatus aorticus of the diaphragm at T12, where it becomes the pars abdominalis. It starts on the left of the vertebral bodies and moves toward the midline as it descends. The FK Unsri module calls it aorta descendens.",
+   "id": "Lanjutan arcus aortae dari discus T4-T5 turun melalui mediastinum posterius sampai hiatus aorticus diaphragma setinggi T12, lalu menjadi pars abdominalis. Mula-mula terletak di kiri corpus vertebra dan makin ke tengah saat turun. Modul FK Unsri menyebutnya aorta descendens."
+  },
+  "facts": {
+   "from": "Arcus aortae",
+   "course": {
+    "en": "In front of it lie the root of the left lung, the pericardium over the left atrium and, low down, the oesophagus, which crosses in front from right to left. The v. azygos and the ductus thoracicus lie to its right, the left lung and pleura to its left, and the v. hemiazygos and v. hemiazygos accessoria cross behind it.",
+    "id": "Di depannya terletak radix pulmonis sinistri, pericardium yang menutupi atrium sinistrum dan, di bagian bawah, oesophagus yang menyilang di depannya dari kanan ke kiri. V. azygos dan ductus thoracicus terletak di kanannya, paru dan pleura kiri di kirinya, dan v. hemiazygos serta v. hemiazygos accessoria menyilang di belakangnya."
+   },
+   "branches": [
+    "Rami bronchiales",
+    "Rami oesophageales",
+    "Rami pericardiaci",
+    "Rami mediastinales",
+    "Arteriae intercostales posteriores",
+    "Arteria subcostalis",
+    "Arteriae phrenicae superiores"
+   ],
+   "supplies": {
+    "en": "Thoracic wall (posterior intercostal arteries for the 3rd-11th spaces and the subcostal arteries), the bronchi and lung tissue, the oesophagus, the pericardium and the upper surface of the diaphragm.",
+    "id": "Dinding thorax (aa. intercostales posteriores untuk spatium intercostale III-XI dan a. subcostalis), bronchus dan jaringan paru, oesophagus, pericardium serta permukaan atas diaphragma."
+   },
+   "continues": "Pars abdominalis aortae"
+  },
+  "quiz": {
+   "from": [
+    "Arcus aortae"
+   ],
+   "continues": [
+    "Pars abdominalis aortae",
+    "Aorta abdominalis"
+   ],
+   "hiatus": [
+    "Hiatus aorticus",
+    "T12"
+   ]
+  }
+ },
+ {
+  "key": "abdominal-aorta",
+  "kind": "artery",
+  "la": "Pars abdominalis aortae",
+  "alt": [
+   "Aorta abdominalis"
+  ],
+  "en": "Abdominal aorta",
+  "desc": {
+   "en": "Part of the aorta from the hiatus aorticus at T12 to its bifurcation into the two aa. iliacae communes in front of the L4 vertebra, slightly left of the midline. The v. cava inferior runs on its right.",
+   "id": "Bagian aorta dari hiatus aorticus setinggi T12 sampai percabangannya menjadi kedua a. iliaca communis di depan vertebra L4, sedikit di kiri garis tengah. V. cava inferior berjalan di sebelah kanannya."
+  },
+  "facts": {
+   "from": "Pars thoracica aortae",
+   "course": {
+    "en": "Descends on the front of the lumbar vertebral bodies behind the pancreas and the third part of the duodenum. The v. renalis sinistra crosses in front of it just below the a. mesenterica superior.",
+    "id": "Turun di depan corpus vertebra lumbal, di belakang pancreas dan pars horizontalis duodeni. V. renalis sinistra menyilang di depannya tepat di bawah pangkal a. mesenterica superior."
+   },
+   "branches": [
+    "Arteriae phrenicae inferiores",
+    "Truncus coeliacus",
+    "Arteria mesenterica superior",
+    "Arteriae suprarenales mediae",
+    "Arteriae renales",
+    "Arteriae testiculares",
+    "Arteriae ovaricae",
+    "Arteria mesenterica inferior",
+    "Arteriae lumbales",
+    "Arteria sacralis mediana",
+    "Arteria iliaca communis"
+   ],
+   "supplies": {
+    "en": "Abdominal organs, the posterior abdominal wall and, through the aa. iliacae communes, the pelvis and the lower limbs. Usual levels: truncus coeliacus T12, a. mesenterica superior L1, aa. renales L1-L2, a. mesenterica inferior L3.",
+    "id": "Organ abdomen, dinding abdomen posterior dan, melalui aa. iliacae communes, pelvis serta ekstremitas inferior. Tinggi pangkal yang biasa: truncus coeliacus T12, a. mesenterica superior L1, aa. renales L1-L2, a. mesenterica inferior L3."
+   },
+   "continues": "Arteria iliaca communis",
+   "clinical": {
+    "en": "Abdominal aortic aneurysms usually lie below the renal arteries. The bifurcation lies at about the level of the umbilicus, where the pulse of the aorta can be felt in thin people.",
+    "id": "Aneurisma aorta abdominalis biasanya terletak di bawah aa. renales. Percabangan aorta kira-kira setinggi umbilicus, tempat denyut aorta dapat diraba pada orang yang kurus."
+   }
+  },
+  "quiz": {
+   "from": [
+    "Pars thoracica aortae",
+    "Aorta thoracica"
+   ],
+   "continues": [
+    "Arteria iliaca communis",
+    "Arteriae iliacae communes"
+   ]
+  }
+ },
+ {
+  "key": "brachiocephalic-trunk",
+  "kind": "artery",
+  "la": "Truncus brachiocephalicus",
+  "alt": [
+   "Tr. brachiocephalicus",
+   "Arteria anonyma",
+   "Arteria innominata"
+  ],
+  "en": "Brachiocephalic trunk",
+  "desc": {
+   "en": "First and largest branch of the arcus aortae, about 4-5 cm long. It ascends to the right behind the manubrium and divides behind the right sternoclavicular joint into the a. subclavia dextra and the a. carotis communis dextra.",
+   "id": "Cabang pertama dan terbesar arcus aortae, panjangnya sekitar 4-5 cm. Truncus ini naik ke kanan di belakang manubrium dan bercabang di belakang articulatio sternoclavicularis kanan menjadi a. subclavia dextra dan a. carotis communis dextra."
+  },
+  "facts": {
+   "from": "Arcus aortae",
+   "course": {
+    "en": "Starts behind the middle of the manubrium in front of the trachea, with the v. brachiocephalica sinistra crossing in front of it, and runs up and to the right onto the right side of the trachea.",
+    "id": "Dimulai di belakang pertengahan manubrium di depan trachea, dengan v. brachiocephalica sinistra menyilang di depannya, lalu berjalan ke atas dan ke kanan ke sisi kanan trachea."
+   },
+   "branches": [
+    "Arteria subclavia dextra",
+    "Arteria carotis communis dextra"
+   ],
+   "supplies": {
+    "en": "Right side of the head and neck and the right upper limb. It usually has no other branches; an a. thyroidea ima occasionally arises from it.",
+    "id": "Sisi kanan kepala dan leher serta ekstremitas superior kanan. Biasanya tidak ada cabang lain; kadang a. thyroidea ima berasal darinya."
+   },
+   "clinical": {
+    "en": "It crosses in front of the trachea low in the neck, so a low tracheostomy or a tube cuff can erode it and cause severe bleeding.",
+    "id": "Truncus ini menyilang di depan trachea di leher bagian bawah, sehingga trakeostomi yang terlalu rendah atau balon pipa dapat mengikisnya dan menyebabkan perdarahan hebat."
+   }
+  },
+  "quiz": {
+   "from": [
+    "Arcus aortae"
+   ],
+   "branches": [
+    "Arteria subclavia dextra et arteria carotis communis dextra",
+    "Arteria subclavia dextra",
+    "Arteria carotis communis dextra"
+   ]
+  }
+ },
+ {
+  "key": "right-common-carotid-artery",
+  "kind": "artery",
+  "la": "Arteria carotis communis dextra",
+  "alt": [
+   "A. carotis communis dextra",
+   "Arteria carotis communis",
+   "Carotis communis dextra"
+  ],
+  "en": "Right common carotid artery",
+  "desc": {
+   "en": "Arises from the truncus brachiocephalicus behind the right sternoclavicular joint and ascends in the carotid sheath. It has no branches until it divides at the level of the upper border of the thyroid cartilage (C4) into the a. carotis interna and a. carotis externa.",
+   "id": "Berasal dari truncus brachiocephalicus di belakang articulatio sternoclavicularis kanan dan naik di dalam vagina carotica. Arteri ini tidak bercabang sampai terbagi setinggi tepi atas cartilago thyroidea (C4) menjadi a. carotis interna dan a. carotis externa."
+  },
+  "facts": {
+   "from": "Truncus brachiocephalicus",
+   "course": {
+    "en": "Runs up the neck under the anterior border of m. sternocleidomastoideus inside the carotid sheath, with the v. jugularis interna lateral to it and the n. vagus behind, between the two vessels. It has only a cervical part.",
+    "id": "Naik di leher di bawah tepi anterior m. sternocleidomastoideus di dalam vagina carotica, dengan v. jugularis interna di lateralnya dan n. vagus di belakang, di antara kedua pembuluh. Arteri ini hanya memiliki pars cervicalis."
+   },
+   "branches": [
+    "Arteria carotis interna",
+    "Arteria carotis externa"
+   ],
+   "supplies": {
+    "en": "Right side of the head and neck, and the brain through the a. carotis interna.",
+    "id": "Sisi kanan kepala dan leher, serta otak melalui a. carotis interna."
+   },
+   "clinical": {
+    "en": "The carotid pulse is felt at the anterior border of m. sternocleidomastoideus at the level of the thyroid cartilage, pressing the artery back against the transverse process of C6. The sinus caroticus and glomus caroticum lie at the bifurcation.",
+    "id": "Denyut carotis diraba di tepi anterior m. sternocleidomastoideus setinggi cartilago thyroidea dengan menekan arteri ke belakang ke arah processus transversus C6. Sinus caroticus dan glomus caroticum terletak di percabangannya."
+   }
+  },
+  "quiz": {
+   "from": [
+    "Truncus brachiocephalicus"
+   ],
+   "branches": [
+    "Arteria carotis interna et externa",
+    "Arteria carotis interna",
+    "Arteria carotis externa"
+   ]
+  }
+ },
+ {
+  "key": "left-common-carotid-artery",
+  "kind": "artery",
+  "la": "Arteria carotis communis sinistra",
+  "alt": [
+   "A. carotis communis sinistra",
+   "Arteria carotis communis",
+   "Carotis communis sinistra"
+  ],
+  "en": "Left common carotid artery",
+  "desc": {
+   "en": "Second branch of the arcus aortae. Its thoracic part ascends in the superior mediastinum to the left of the trachea and enters the neck behind the left sternoclavicular joint; in the neck it runs like the right artery and divides at the upper border of the thyroid cartilage (C4).",
+   "id": "Cabang kedua arcus aortae. Pars thoracica-nya naik di mediastinum superius di kiri trachea dan masuk ke leher di belakang articulatio sternoclavicularis kiri; di leher arteri ini berjalan seperti arteri kanan dan bercabang setinggi tepi atas cartilago thyroidea (C4)."
+  },
+  "facts": {
+   "from": "Arcus aortae",
+   "course": {
+    "en": "Arises behind the manubrium just to the left of the truncus brachiocephalicus. In the thorax it lies at first in front of the trachea, then on its left, in front of the a. subclavia sinistra; the v. brachiocephalica sinistra crosses in front of it and it grooves the mediastinal surface of the left lung.",
+    "id": "Berasal di belakang manubrium tepat di kiri truncus brachiocephalicus. Di thorax arteri ini mula-mula terletak di depan trachea, lalu di kirinya, di depan a. subclavia sinistra; v. brachiocephalica sinistra menyilang di depannya dan arteri ini membuat alur pada facies mediastinalis paru kiri."
+   },
+   "branches": [
+    "Arteria carotis interna",
+    "Arteria carotis externa"
+   ],
+   "supplies": {
+    "en": "Left side of the head and neck, and the brain through the a. carotis interna.",
+    "id": "Sisi kiri kepala dan leher, serta otak melalui a. carotis interna."
+   },
+   "clinical": {
+    "en": "It sometimes arises together with the truncus brachiocephalicus, a variant that matters in angiography and arch surgery.",
+    "id": "Arteri ini kadang berasal bersama truncus brachiocephalicus, varian yang penting pada angiografi dan operasi arcus aortae."
+   }
+  },
+  "quiz": {
+   "from": [
+    "Arcus aortae"
+   ],
+   "branches": [
+    "Arteria carotis interna et externa",
+    "Arteria carotis interna",
+    "Arteria carotis externa"
+   ]
+  }
+ },
+ {
+  "key": "ligamentum-arteriosum",
+  "kind": "ligament",
+  "model": false,
+  "la": "Ligamentum arteriosum",
+  "alt": [
+   "Lig. arteriosum",
+   "Ligamentum arteriosum Botalli"
+  ],
+  "en": "Ligamentum arteriosum",
+  "desc": {
+   "en": "Short fibrous cord from the start of the a. pulmonalis sinistra (near the bifurcation of the truncus pulmonalis) to the lower surface of the arcus aortae. It is the remnant of the fetal ductus arteriosus, which carried blood from the truncus pulmonalis into the aorta before birth.",
+   "id": "Tali fibrosa pendek dari pangkal a. pulmonalis sinistra (dekat percabangan truncus pulmonalis) ke permukaan bawah arcus aortae. Ligamentum ini adalah sisa ductus arteriosus janin, yang mengalirkan darah dari truncus pulmonalis ke aorta sebelum lahir."
+  },
+  "facts": {
+   "attach": {
+    "en": "Root of the a. pulmonalis sinistra to the concavity of the arcus aortae, just beyond the origin of the a. subclavia sinistra.",
+    "id": "Pangkal a. pulmonalis sinistra ke cekungan arcus aortae, tepat setelah pangkal a. subclavia sinistra."
+   },
+   "function": {
+    "en": "None after birth; it marks where the n. laryngeus recurrens sinister hooks around the arch on its left side.",
+    "id": "Tidak berfungsi setelah lahir; ligamentum ini menandai tempat n. laryngeus recurrens sinister melingkari arcus di sisi kirinya."
+   },
+   "clinical": {
+    "en": "If the ductus stays open (patent ductus arteriosus), blood shunts from the aorta into the pulmonary circulation and a continuous machinery murmur is heard. The nerve is at risk when the duct is ligated.",
+    "id": "Bila ductus tetap terbuka (duktus arteriosus paten), darah mengalir dari aorta ke sirkulasi paru dan terdengar bising kontinu (machinery murmur). Saraf tersebut berisiko cedera saat duktus diligasi."
+   }
+  },
+  "quiz": {
+   "remnant_of": [
+    "Ductus arteriosus",
+    "Ductus arteriosus Botalli"
+   ]
+  }
+ },
+ {
+  "key": "internal-thoracic-artery",
+  "kind": "artery",
+  "la": "Arteria thoracica interna",
+  "alt": [
+   "A. thoracica interna",
+   "Arteria mammaria interna"
+  ],
+  "en": "Internal thoracic artery",
+  "desc": {
+   "en": "Branch of the first part of the a. subclavia that descends behind the upper six costal cartilages, about 1 cm lateral to the edge of the sternum. In the 6th intercostal space it divides into the a. epigastrica superior and the a. musculophrenica.",
+   "id": "Cabang a. subclavia pars pertama yang turun di belakang enam cartilago costalis teratas, kira-kira 1 cm di lateral tepi sternum. Di spatium intercostale VI arteri ini bercabang menjadi a. epigastrica superior dan a. musculophrenica."
+  },
+  "facts": {
+   "from": "Arteria subclavia",
+   "course": {
+    "en": "Arises from the lower side of the a. subclavia, passes behind the clavicle and the first costal cartilage, and runs down on the inner surface of the anterior chest wall in front of the pleura and, lower down, the m. transversus thoracis, with two venae comitantes.",
+    "id": "Berasal dari sisi bawah a. subclavia, berjalan di belakang clavicula dan cartilago costalis I, lalu turun pada permukaan dalam dinding dada depan di depan pleura dan, lebih ke bawah, m. transversus thoracis, disertai dua venae comitantes."
+   },
+   "branches": [
+    "Arteria pericardiacophrenica",
+    "Rami mediastinales",
+    "Rami thymici",
+    "Rami intercostales anteriores",
+    "Rami perforantes",
+    "Arteria musculophrenica",
+    "Arteria epigastrica superior"
+   ],
+   "supplies": {
+    "en": "Anterior thoracic wall and the upper six intercostal spaces, the breast through its perforating branches, the pericardium and diaphragm, the thymus and, through the a. epigastrica superior, the upper rectus abdominis.",
+    "id": "Dinding dada depan dan enam spatium intercostale teratas, mamma melalui rami perforantes, pericardium dan diaphragma, thymus dan, melalui a. epigastrica superior, bagian atas m. rectus abdominis."
+   },
+   "continues": "Arteria epigastrica superior",
+   "clinical": {
+    "en": "The left internal thoracic artery is the graft of choice for bypassing the ramus interventricularis anterior. In coarctation of the aorta it enlarges and carries blood through the intercostal arteries to the aorta below the narrowing, which notches the ribs.",
+    "id": "A. thoracica interna sinistra adalah graft pilihan untuk memintas ramus interventricularis anterior. Pada koarktasio aorta arteri ini melebar dan mengalirkan darah melalui aa. intercostales ke aorta di bawah penyempitan, sehingga timbul takik pada costa (rib notching)."
+   }
+  },
+  "quiz": {
+   "from": [
+    "Arteria subclavia",
+    "A. subclavia"
+   ],
+   "branches": [
+    "Arteria epigastrica superior et arteria musculophrenica",
+    "Arteria epigastrica superior",
+    "Arteria musculophrenica"
+   ]
+  }
+ },
+ {
+  "key": "supreme-intercostal-artery",
+  "kind": "artery",
+  "la": "Arteria intercostalis suprema",
+  "alt": [
+   "A. intercostalis suprema",
+   "Arteria intercostalis superior"
+  ],
+  "en": "Supreme (superior) intercostal artery",
+  "desc": {
+   "en": "Branch of the truncus costocervicalis that descends behind the pleura in front of the necks of the first two ribs. It gives the posterior intercostal arteries of the 1st and 2nd intercostal spaces, which do not come from the aorta.",
+   "id": "Cabang truncus costocervicalis yang turun di belakang pleura, di depan collum costae I dan II. Arteri ini memberikan aa. intercostales posteriores untuk spatium intercostale I dan II, yang tidak berasal dari aorta."
+  },
+  "facts": {
+   "from": "Truncus costocervicalis",
+   "course": {
+    "en": "Crosses the neck of the 1st rib between the sympathetic trunk (medially) and the first thoracic nerve (laterally), then runs down to the 2nd space.",
+    "id": "Menyilang collum costae I di antara truncus sympathicus (di medial) dan n. thoracicus I (di lateral), lalu turun ke spatium intercostale II."
+   },
+   "branches": [
+    "Arteria intercostalis posterior prima",
+    "Arteria intercostalis posterior secunda"
+   ],
+   "supplies": {
+    "en": "The first two intercostal spaces and the nearby vertebral column and back muscles.",
+    "id": "Dua spatium intercostale pertama serta columna vertebralis dan otot punggung di dekatnya."
+   }
+  },
+  "quiz": {
+   "from": [
+    "Truncus costocervicalis"
+   ],
+   "supplies": [
+    "Spatium intercostale I et II",
+    "Spatium intercostale I-II",
+    "ICS I-II"
+   ]
+  }
+ },
+ {
+  "key": "marginal-artery",
+  "kind": "artery",
+  "la": "Arteria marginalis coli",
+  "alt": [
+   "A. marginalis coli",
+   "Arteria marginalis"
+  ],
+  "en": "Marginal artery of colon (of Drummond)",
+  "desc": {
+   "en": "Continuous arterial channel along the mesenteric border of the colon, formed by anastomoses between the colic branches of the a. mesenterica superior and a. mesenterica inferior. Short vasa recta run from it to the colon wall.",
+   "id": "Saluran arteri yang bersambung di sepanjang tepi mesenterik colon, dibentuk oleh anastomosis cabang-cabang colica dari a. mesenterica superior dan a. mesenterica inferior. Vasa recta pendek berjalan darinya ke dinding colon."
+  },
+  "facts": {
+   "from": "Arteria mesenterica superior",
+   "course": {
+    "en": "Runs in the mesocolon close to the colon, from the ileocaecal region to the sigmoid colon, linking the aa. ileocolica, colica dextra, colica media, colica sinistra and sigmoideae.",
+    "id": "Berjalan di dalam mesocolon dekat colon, dari daerah ileocaecal sampai colon sigmoideum, menghubungkan a. ileocolica, a. colica dextra, a. colica media, a. colica sinistra dan aa. sigmoideae."
+   },
+   "supplies": {
+    "en": "Wall of the colon through the vasa recta.",
+    "id": "Dinding colon melalui vasa recta."
+   },
+   "clinical": {
+    "en": "It is usually large enough to keep the left colon alive when the a. mesenterica inferior is tied in aortic surgery. It can be thin near the left colic flexure, a watershed area for ischaemic colitis.",
+    "id": "Arteri ini biasanya cukup besar untuk mempertahankan perdarahan colon kiri bila a. mesenterica inferior diikat pada operasi aorta. Arteri ini dapat tipis di dekat flexura coli sinistra, daerah perbatasan perdarahan yang rentan kolitis iskemik."
+   }
+  },
+  "quiz": {
+   "connects": [
+    "Arteria mesenterica superior et inferior",
+    "Arteria mesenterica superior",
+    "Arteria mesenterica inferior"
+   ]
+  }
+ },
+ {
+  "key": "pulmonary-trunk",
+  "kind": "artery",
+  "la": "Truncus pulmonalis",
+  "alt": [
+   "Tr. pulmonalis"
+  ],
+  "en": "Pulmonary trunk",
+  "desc": {
+   "en": "Artery about 5 cm long and 3 cm wide that carries venous blood from the right ventricle to the lungs. It begins at the pulmonary valve behind the left 3rd costal cartilage and divides in the concavity of the arcus aortae, at about the level of the sternal angle (T4-T5), into the right and left pulmonary arteries.",
+   "id": "Arteri sepanjang kira-kira 5 cm dan selebar 3 cm yang membawa darah vena dari ventriculus dexter ke paru. Truncus ini dimulai di valva trunci pulmonalis di belakang cartilago costalis III kiri dan bercabang di cekungan arcus aortae, kira-kira setinggi angulus sterni (T4-T5), menjadi a. pulmonalis dextra dan sinistra."
+  },
+  "facts": {
+   "from": "Ventriculus dexter",
+   "course": {
+    "en": "Leaves the conus arteriosus and runs upward, backward and to the left, first in front of the aorta ascendens and then to its left. It lies inside the pericardium in a common sleeve of serous pericardium with the aorta ascendens; the auricula sinistra and the a. coronaria sinistra lie on its left.",
+    "id": "Keluar dari conus arteriosus dan berjalan ke atas, ke belakang dan ke kiri, mula-mula di depan aorta ascendens lalu di kirinya. Truncus ini terletak di dalam pericardium dalam satu selubung pericardium serosum bersama aorta ascendens; auricula sinistra dan a. coronaria sinistra terletak di kirinya."
+   },
+   "branches": [
+    "Arteria pulmonalis dextra",
+    "Arteria pulmonalis sinistra"
+   ],
+   "supplies": {
+    "en": "The functional (gas exchange) circulation of both lungs.",
+    "id": "Sirkulasi fungsional (pertukaran gas) kedua paru."
+   },
+   "clinical": {
+    "en": "A large embolus from the deep leg veins can lodge at its bifurcation (saddle embolus) and cause sudden death. Its dilated outline forms part of the left heart border on a chest radiograph in pulmonary hypertension.",
+    "id": "Emboli besar dari vena dalam tungkai dapat tersangkut di percabangannya (saddle embolus) dan menyebabkan kematian mendadak. Pada hipertensi pulmonal, bayangannya yang melebar menjadi bagian batas kiri jantung pada foto toraks."
+   }
+  },
+  "quiz": {
+   "from": [
+    "Ventriculus dexter"
+   ],
+   "branches": [
+    "Arteria pulmonalis dextra et sinistra",
+    "Arteria pulmonalis dextra",
+    "Arteria pulmonalis sinistra"
+   ],
+   "level": [
+    "T4-T5",
+    "Angulus sterni"
+   ]
+  }
+ },
+ {
+  "key": "bifurcation-of-pulmonary-trunk",
+  "kind": "artery",
+  "la": "Bifurcatio trunci pulmonalis",
+  "alt": [],
+  "en": "Bifurcation of pulmonary trunk",
+  "desc": {
+   "en": "Point where the truncus pulmonalis divides into the a. pulmonalis dextra and the a. pulmonalis sinistra. It lies in the concavity of the arcus aortae at about the level of the sternal angle (T4-T5), in front of the left main bronchus and to the left of the aorta ascendens.",
+   "id": "Titik tempat truncus pulmonalis bercabang menjadi a. pulmonalis dextra dan a. pulmonalis sinistra. Percabangan ini terletak di cekungan arcus aortae kira-kira setinggi angulus sterni (T4-T5), di depan bronchus principalis sinister dan di kiri aorta ascendens."
+  },
+  "facts": {
+   "from": "Truncus pulmonalis",
+   "course": {
+    "en": "The ligamentum arteriosum attaches just to its left, at the start of the a. pulmonalis sinistra, and the superficial part of the plexus cardiacus lies below the arch nearby.",
+    "id": "Ligamentum arteriosum melekat tepat di kirinya, pada pangkal a. pulmonalis sinistra, dan bagian superfisial plexus cardiacus terletak di bawah arcus di dekatnya."
+   },
+   "branches": [
+    "Arteria pulmonalis dextra",
+    "Arteria pulmonalis sinistra"
+   ]
+  },
+  "quiz": {
+   "level": [
+    "T4-T5",
+    "Angulus sterni",
+    "Discus intervertebralis T4-T5"
+   ]
+  }
+ },
+ {
+  "key": "right-pulmonary-artery",
+  "kind": "artery",
+  "la": "Arteria pulmonalis dextra",
+  "alt": [
+   "A. pulmonalis dextra"
+  ],
+  "en": "Right pulmonary artery",
+  "desc": {
+   "en": "The longer of the two pulmonary arteries. It runs horizontally to the right under the arcus aortae, behind the aorta ascendens and the v. cava superior and in front of the right main bronchus, to the hilum of the right lung.",
+   "id": "Arteri pulmonalis yang lebih panjang. Arteri ini berjalan horizontal ke kanan di bawah arcus aortae, di belakang aorta ascendens dan v. cava superior serta di depan bronchus principalis dexter, menuju hilum paru kanan."
+  },
+  "facts": {
+   "from": "Truncus pulmonalis",
+   "course": {
+    "en": "Before or at the hilum it gives its first branch to the superior lobe (truncus anterior), then continues as the interlobar part to the middle and inferior lobes. At the right hilum it lies below the eparterial superior lobe bronchus and in front of the main bronchus.",
+    "id": "Sebelum atau di hilum arteri ini memberikan cabang pertama ke lobus superior (truncus anterior), lalu berlanjut sebagai pars interlobaris ke lobus medius dan inferior. Di hilum kanan arteri ini terletak di bawah bronchus lobaris superior yang eparterial dan di depan bronchus principalis."
+   },
+   "branches": [
+    "Arteria lobaris superior pulmonis dextri",
+    "Arteria lobaris media pulmonis dextri",
+    "Arteria lobaris inferior pulmonis dextri"
+   ],
+   "supplies": {
+    "en": "Gas exchange circulation of the right lung; its branches follow the bronchi into each segment.",
+    "id": "Sirkulasi pertukaran gas paru kanan; cabang-cabangnya mengikuti bronchus ke setiap segmen."
+   }
+  },
+  "quiz": {
+   "from": [
+    "Truncus pulmonalis"
+   ]
+  }
+ },
+ {
+  "key": "left-pulmonary-artery",
+  "kind": "artery",
+  "la": "Arteria pulmonalis sinistra",
+  "alt": [
+   "A. pulmonalis sinistra"
+  ],
+  "en": "Left pulmonary artery",
+  "desc": {
+   "en": "Shorter pulmonary artery that passes to the left in front of the pars thoracica aortae and the left main bronchus to the hilum of the left lung, where it is the highest structure. The ligamentum arteriosum ties its root to the arcus aortae.",
+   "id": "Arteri pulmonalis yang lebih pendek, berjalan ke kiri di depan pars thoracica aortae dan bronchus principalis sinister menuju hilum paru kiri, tempat arteri ini menjadi struktur yang paling atas. Ligamentum arteriosum mengikat pangkalnya ke arcus aortae."
+  },
+  "facts": {
+   "from": "Truncus pulmonalis",
+   "course": {
+    "en": "Arches over the left main bronchus at the hilum and spirals down behind it, giving branches to the superior lobe and the lingula before entering the inferior lobe.",
+    "id": "Melengkung di atas bronchus principalis sinister di hilum lalu berputar turun di belakangnya, memberikan cabang ke lobus superior dan lingula sebelum masuk ke lobus inferior."
+   },
+   "branches": [
+    "Arteria lobaris superior pulmonis sinistri",
+    "Arteria lobaris inferior pulmonis sinistri"
+   ],
+   "supplies": {
+    "en": "Gas exchange circulation of the left lung.",
+    "id": "Sirkulasi pertukaran gas paru kiri."
+   }
+  },
+  "quiz": {
+   "from": [
+    "Truncus pulmonalis"
+   ]
+  }
+ },
+ {
+  "key": "pulmonary-veins",
+  "kind": "vein",
+  "la": "Venae pulmonales",
+  "alt": [
+   "Vv. pulmonales",
+   "Vena pulmonalis"
+  ],
+  "en": "Pulmonary veins",
+  "desc": {
+   "en": "Usually four valveless veins, a superior and an inferior on each side, that carry oxygenated blood from the lungs to the left atrium. In the hilum they are the most anterior and the lowest structures.",
+   "id": "Biasanya empat vena tanpa katup, satu superior dan satu inferior di setiap sisi, yang membawa darah kaya oksigen dari paru ke atrium sinistrum. Di hilum, vena ini adalah struktur yang paling depan dan paling bawah."
+  },
+  "facts": {
+   "course": {
+    "en": "Their tributaries run between the bronchopulmonary segments. They pierce the pericardium and open into the upper part of the posterior wall of the left atrium.",
+    "id": "Anak cabangnya berjalan di antara segmentum bronchopulmonale. Vena ini menembus pericardium dan bermuara di bagian atas dinding posterior atrium sinistrum."
+   },
+   "drains": {
+    "en": "Oxygenated blood from the alveoli, and part of the bronchial venous blood.",
+    "id": "Darah kaya oksigen dari alveolus, dan sebagian darah vena bronchial."
+   },
+   "continues": "Atrium sinistrum",
+   "clinical": {
+    "en": "The muscle sleeves around their openings into the left atrium are a common source of atrial fibrillation; catheter ablation isolates them electrically.",
+    "id": "Selubung otot di sekitar muaranya ke atrium sinistrum sering menjadi sumber fibrilasi atrium; ablasi kateter mengisolasinya secara listrik."
+   }
+  },
+  "quiz": {
+   "drains": [
+    "Atrium sinistrum"
+   ],
+   "number": [
+    "4",
+    "empat"
+   ]
+  }
+ },
+ {
+  "key": "right-superior-pulmonary-vein",
+  "kind": "vein",
+  "la": "Vena pulmonalis dextra superior",
+  "alt": [
+   "V. pulmonalis dextra superior",
+   "Vena pulmonalis superior dextra"
+  ],
+  "en": "Right superior pulmonary vein",
+  "desc": {
+   "en": "Upper vein of the right lung. It drains the superior and the middle lobe, passes behind the v. cava superior and opens into the left atrium.",
+   "id": "Vena atas paru kanan. Vena ini mengalirkan darah dari lobus superior dan lobus medius, berjalan di belakang v. cava superior dan bermuara ke atrium sinistrum."
+  },
+  "facts": {
+   "course": {
+    "en": "Most anterior structure of the right hilum, in front of and below the a. pulmonalis dextra.",
+    "id": "Struktur paling depan di hilum kanan, di depan dan di bawah a. pulmonalis dextra."
+   },
+   "drains": {
+    "en": "Superior and middle lobes of the right lung; the middle lobe vein sometimes opens separately.",
+    "id": "Lobus superior dan lobus medius paru kanan; vena lobus medius kadang bermuara tersendiri."
+   },
+   "continues": "Atrium sinistrum"
+  },
+  "quiz": {
+   "drains": [
+    "Atrium sinistrum"
+   ]
+  }
+ },
+ {
+  "key": "right-inferior-pulmonary-vein",
+  "kind": "vein",
+  "la": "Vena pulmonalis dextra inferior",
+  "alt": [
+   "V. pulmonalis dextra inferior",
+   "Vena pulmonalis inferior dextra"
+  ],
+  "en": "Right inferior pulmonary vein",
+  "desc": {
+   "en": "Lower vein of the right lung. It drains the inferior lobe, passes behind the right atrium and opens into the left atrium.",
+   "id": "Vena bawah paru kanan. Vena ini mengalirkan darah dari lobus inferior, berjalan di belakang atrium dextrum dan bermuara ke atrium sinistrum."
+  },
+  "facts": {
+   "course": {
+    "en": "Lowest structure of the right hilum, at the upper end of the pulmonary ligament.",
+    "id": "Struktur paling bawah di hilum kanan, pada ujung atas ligamentum pulmonale."
+   },
+   "drains": {
+    "en": "Inferior lobe of the right lung.",
+    "id": "Lobus inferior paru kanan."
+   },
+   "continues": "Atrium sinistrum"
+  },
+  "quiz": {
+   "drains": [
+    "Atrium sinistrum"
+   ]
+  }
+ },
+ {
+  "key": "left-superior-pulmonary-vein",
+  "kind": "vein",
+  "la": "Vena pulmonalis sinistra superior",
+  "alt": [
+   "V. pulmonalis sinistra superior",
+   "Vena pulmonalis superior sinistra"
+  ],
+  "en": "Left superior pulmonary vein",
+  "desc": {
+   "en": "Upper vein of the left lung. It drains the superior lobe including the lingula, passes in front of the pars thoracica aortae and opens into the left atrium.",
+   "id": "Vena atas paru kiri. Vena ini mengalirkan darah dari lobus superior termasuk lingula, berjalan di depan pars thoracica aortae dan bermuara ke atrium sinistrum."
+  },
+  "facts": {
+   "course": {
+    "en": "Most anterior structure of the left hilum.",
+    "id": "Struktur paling depan di hilum kiri."
+   },
+   "drains": {
+    "en": "Superior lobe of the left lung with the lingula.",
+    "id": "Lobus superior paru kiri beserta lingula."
+   },
+   "continues": "Atrium sinistrum",
+   "clinical": {
+    "en": "The two left veins sometimes join into a single trunk before entering the atrium.",
+    "id": "Kedua vena kiri kadang bersatu menjadi satu batang sebelum masuk ke atrium."
+   }
+  },
+  "quiz": {
+   "drains": [
+    "Atrium sinistrum"
+   ]
+  }
+ },
+ {
+  "key": "left-inferior-pulmonary-vein",
+  "kind": "vein",
+  "la": "Vena pulmonalis sinistra inferior",
+  "alt": [
+   "V. pulmonalis sinistra inferior",
+   "Vena pulmonalis inferior sinistra"
+  ],
+  "en": "Left inferior pulmonary vein",
+  "desc": {
+   "en": "Lower vein of the left lung. It drains the inferior lobe and opens into the left atrium.",
+   "id": "Vena bawah paru kiri. Vena ini mengalirkan darah dari lobus inferior dan bermuara ke atrium sinistrum."
+  },
+  "facts": {
+   "course": {
+    "en": "Lowest structure of the left hilum, at the upper end of the pulmonary ligament.",
+    "id": "Struktur paling bawah di hilum kiri, pada ujung atas ligamentum pulmonale."
+   },
+   "drains": {
+    "en": "Inferior lobe of the left lung.",
+    "id": "Lobus inferior paru kiri."
+   },
+   "continues": "Atrium sinistrum"
+  },
+  "quiz": {
+   "drains": [
+    "Atrium sinistrum"
+   ]
+  }
+ },
+ {
+  "key": "superior-vena-cava",
+  "kind": "vein",
+  "la": "Vena cava superior",
+  "alt": [
+   "V. cava superior"
+  ],
+  "en": "Superior vena cava",
+  "desc": {
+   "en": "Valveless vein about 7 cm long that returns blood from everything above the diaphragm except the lungs and heart. It forms behind the lower border of the 1st right costal cartilage from the two brachiocephalic veins and enters the right atrium at the level of the 3rd right costal cartilage.",
+   "id": "Vena tanpa katup sepanjang kira-kira 7 cm yang mengembalikan darah dari semua bagian di atas diaphragma kecuali paru dan jantung. Vena ini terbentuk di belakang tepi bawah cartilago costalis I kanan dari gabungan kedua v. brachiocephalica dan bermuara ke atrium dextrum setinggi cartilago costalis III kanan."
+  },
+  "facts": {
+   "from": "Vena brachiocephalica dextra et sinistra",
+   "course": {
+    "en": "Descends on the right side of the superior mediastinum, anterolateral to the trachea and posterolateral to the aorta ascendens. Just before it pierces the pericardium it receives the arch of the v. azygos at the level of T4; its lower half lies inside the pericardium, where it forms the back wall of the sinus transversus. The n. phrenicus dexter runs on its right side between it and the mediastinal pleura.",
+    "id": "Turun di sisi kanan mediastinum superius, di anterolateral trachea dan posterolateral aorta ascendens. Tepat sebelum menembus pericardium vena ini menerima arcus v. azygos setinggi T4; separuh bawahnya terletak di dalam pericardium, tempat vena ini membentuk dinding belakang sinus transversus. N. phrenicus dexter berjalan di sisi kanannya, di antara vena ini dan pleura mediastinalis."
+   },
+   "branches": [
+    "Vena brachiocephalica dextra",
+    "Vena brachiocephalica sinistra",
+    "Vena azygos"
+   ],
+   "drains": {
+    "en": "Head, neck, upper limbs and thoracic wall, and through the v. azygos part of the posterior abdominal wall.",
+    "id": "Kepala, leher, ekstremitas superior dan dinding thorax, serta melalui v. azygos sebagian dinding abdomen posterior."
+   },
+   "continues": "Atrium dextrum",
+   "clinical": {
+    "en": "A tumour of the right lung apex or mediastinal nodes can obstruct it (superior vena cava syndrome): the face and arms swell and the veins of the neck and chest wall distend.",
+    "id": "Tumor apex paru kanan atau kelenjar mediastinum dapat menyumbatnya (sindrom vena cava superior): wajah dan lengan membengkak dan vena leher serta dinding dada melebar."
+   }
+  },
+  "quiz": {
+   "from": [
+    "Vena brachiocephalica dextra et sinistra",
+    "Vena brachiocephalica"
+   ],
+   "drains": [
+    "Atrium dextrum"
+   ]
+  }
+ },
+ {
+  "key": "inferior-vena-cava-thoracic-part",
+  "kind": "vein",
+  "la": "Vena cava inferior",
+  "alt": [
+   "V. cava inferior",
+   "Pars thoracica venae cavae inferioris"
+  ],
+  "en": "Inferior vena cava (thoracic part)",
+  "desc": {
+   "en": "Very short last part of the v. cava inferior, from the foramen venae cavae in the central tendon of the diaphragm (T8) to the lower part of the right atrium. It is partly enclosed in the pericardium.",
+   "id": "Bagian akhir v. cava inferior yang sangat pendek, dari foramen venae cavae pada centrum tendineum diaphragma (T8) sampai bagian bawah atrium dextrum. Sebagian bagian ini terbungkus pericardium."
+  },
+  "facts": {
+   "from": "Pars abdominalis venae cavae inferioris",
+   "course": {
+    "en": "Passes through the diaphragm with branches of the n. phrenicus dexter and opens into the right atrium almost in line with the v. cava superior. A rudimentary valvula venae cavae inferioris lies at its opening.",
+    "id": "Menembus diaphragma bersama cabang n. phrenicus dexter dan bermuara ke atrium dextrum hampir segaris dengan v. cava superior. Valvula venae cavae inferioris yang rudimenter terdapat di muaranya."
+   },
+   "drains": {
+    "en": "All blood from below the diaphragm, including the liver through the vv. hepaticae just below the diaphragm.",
+    "id": "Seluruh darah dari bagian di bawah diaphragma, termasuk hepar melalui vv. hepaticae tepat di bawah diaphragma."
+   },
+   "continues": "Atrium dextrum"
+  },
+  "quiz": {
+   "drains": [
+    "Atrium dextrum"
+   ],
+   "level": [
+    "T8",
+    "Foramen venae cavae"
+   ]
+  }
+ },
+ {
+  "key": "inferior-vena-cava-abdominal-part",
+  "kind": "vein",
+  "la": "Vena cava inferior",
+  "alt": [
+   "V. cava inferior",
+   "Pars abdominalis venae cavae inferioris"
+  ],
+  "en": "Inferior vena cava (abdominal part)",
+  "desc": {
+   "en": "Largest vein of the body, formed in front of L5, to the right of the midline, by the union of the two vv. iliacae communes. It ascends on the right of the abdominal aorta, grooves the bare area of the liver and passes through the foramen venae cavae of the diaphragm at T8.",
+   "id": "Vena terbesar tubuh, terbentuk di depan L5, di kanan garis tengah, dari gabungan kedua v. iliaca communis. Vena ini naik di kanan aorta abdominalis, membuat alur pada area nuda hepar dan menembus foramen venae cavae diaphragma setinggi T8."
+  },
+  "facts": {
+   "from": "Vena iliaca communis",
+   "course": {
+    "en": "Runs up on the right side of the lumbar vertebral bodies and the right crus of the diaphragm, behind the duodenum, the head of the pancreas and the liver.",
+    "id": "Naik di sisi kanan corpus vertebra lumbal dan crus dextrum diaphragma, di belakang duodenum, caput pancreatis dan hepar."
+   },
+   "branches": [
+    "Vena iliaca communis",
+    "Venae lumbales",
+    "Vena testicularis dextra",
+    "Vena ovarica dextra",
+    "Venae renales",
+    "Vena suprarenalis dextra",
+    "Venae phrenicae inferiores",
+    "Venae hepaticae"
+   ],
+   "drains": {
+    "en": "Lower limbs, pelvis, abdominal wall and abdominal organs. The gut drains first through the v. portae hepatis and the liver. The left gonadal and left suprarenal veins open into the left renal vein.",
+    "id": "Ekstremitas inferior, pelvis, dinding abdomen dan organ abdomen. Darah usus mengalir dahulu melalui v. portae hepatis dan hepar. V. testicularis atau ovarica sinistra dan v. suprarenalis sinistra bermuara ke v. renalis sinistra."
+   },
+   "continues": "Pars thoracica venae cavae inferioris"
+  },
+  "quiz": {
+   "from": [
+    "Vena iliaca communis",
+    "Venae iliacae communes"
+   ],
+   "level": [
+    "L5"
+   ]
+  }
+ },
+ {
+  "key": "right-brachiocephalic-vein",
+  "kind": "vein",
+  "la": "Vena brachiocephalica dextra",
+  "alt": [
+   "V. brachiocephalica dextra",
+   "Vena brachiocephalica",
+   "Vena anonyma dextra",
+   "V. anonyma dextra"
+  ],
+  "en": "Right brachiocephalic vein",
+  "desc": {
+   "en": "Short vein, about 2.5 cm long, formed behind the right sternoclavicular joint by the union of the v. jugularis interna dextra and the v. subclavia dextra. It descends almost vertically and joins the left brachiocephalic vein behind the lower border of the 1st right costal cartilage to form the v. cava superior. The FK Unsri module uses the older name v. anonyma dextra.",
+   "id": "Vena pendek, sepanjang kira-kira 2,5 cm, yang terbentuk di belakang articulatio sternoclavicularis kanan dari gabungan v. jugularis interna dextra dan v. subclavia dextra. Vena ini turun hampir vertikal dan bergabung dengan v. brachiocephalica sinistra di belakang tepi bawah cartilago costalis I kanan membentuk v. cava superior. Modul FK Unsri memakai nama lama v. anonyma dextra."
+  },
+  "facts": {
+   "from": "Vena jugularis interna et vena subclavia",
+   "course": {
+    "en": "Lies in front of and to the right of the truncus brachiocephalicus, against the right mediastinal pleura, with the n. phrenicus dexter on its lateral side. The ductus lymphaticus dexter opens at the right venous angle where it begins.",
+    "id": "Terletak di depan dan di kanan truncus brachiocephalicus, bersentuhan dengan pleura mediastinalis kanan, dengan n. phrenicus dexter di sisi lateralnya. Ductus lymphaticus dexter bermuara di angulus venosus dexter tempat vena ini dimulai."
+   },
+   "branches": [
+    "Vena vertebralis",
+    "Vena thoracica interna",
+    "Vena thyroidea inferior",
+    "Vena intercostalis suprema"
+   ],
+   "drains": {
+    "en": "Right side of the head and neck, the right upper limb and the upper right thoracic wall.",
+    "id": "Sisi kanan kepala dan leher, ekstremitas superior kanan dan dinding thorax kanan atas."
+   },
+   "continues": "Vena cava superior"
+  },
+  "quiz": {
+   "from": [
+    "Vena jugularis interna et vena subclavia",
+    "Vena jugularis interna",
+    "Vena subclavia"
+   ],
+   "drains": [
+    "Vena cava superior"
+   ]
+  }
+ },
+ {
+  "key": "left-brachiocephalic-vein",
+  "kind": "vein",
+  "la": "Vena brachiocephalica sinistra",
+  "alt": [
+   "V. brachiocephalica sinistra",
+   "Vena brachiocephalica",
+   "Vena anonyma sinistra",
+   "V. anonyma sinistra"
+  ],
+  "en": "Left brachiocephalic vein",
+  "desc": {
+   "en": "Vein formed behind the left sternoclavicular joint by the union of the v. jugularis interna sinistra and the v. subclavia sinistra. It is more than twice as long as the right vein and runs obliquely to the right behind the upper half of the manubrium, in front of the three branches of the arcus aortae, to join the right vein. The FK Unsri module uses the older name v. anonyma sinistra.",
+   "id": "Vena yang terbentuk di belakang articulatio sternoclavicularis kiri dari gabungan v. jugularis interna sinistra dan v. subclavia sinistra. Panjangnya lebih dari dua kali vena kanan, dan vena ini berjalan miring ke kanan di belakang separuh atas manubrium, di depan ketiga cabang arcus aortae, untuk bergabung dengan vena kanan. Modul FK Unsri memakai nama lama v. anonyma sinistra."
+  },
+  "facts": {
+   "from": "Vena jugularis interna et vena subclavia",
+   "course": {
+    "en": "Crosses in front of the a. subclavia sinistra, the a. carotis communis sinistra, the truncus brachiocephalicus and the trachea, behind the manubrium and the thymus. The ductus thoracicus opens at the left venous angle where it begins.",
+    "id": "Menyilang di depan a. subclavia sinistra, a. carotis communis sinistra, truncus brachiocephalicus dan trachea, di belakang manubrium dan thymus. Ductus thoracicus bermuara di angulus venosus sinister tempat vena ini dimulai."
+   },
+   "branches": [
+    "Vena vertebralis",
+    "Vena thoracica interna",
+    "Vena intercostalis superior sinistra",
+    "Venae thyroideae inferiores",
+    "Venae thymicae",
+    "Venae pericardiacophrenicae"
+   ],
+   "drains": {
+    "en": "Left side of the head and neck, the left upper limb, the upper left thoracic wall and, through the ductus thoracicus, most of the lymph of the body.",
+    "id": "Sisi kiri kepala dan leher, ekstremitas superior kiri, dinding thorax kiri atas dan, melalui ductus thoracicus, sebagian besar limfe tubuh."
+   },
+   "continues": "Vena cava superior",
+   "clinical": {
+    "en": "In infants and children it may rise above the jugular notch, where it can be injured during tracheostomy.",
+    "id": "Pada bayi dan anak, vena ini dapat menonjol di atas incisura jugularis sehingga dapat cedera saat trakeostomi."
+   }
+  },
+  "quiz": {
+   "from": [
+    "Vena jugularis interna et vena subclavia",
+    "Vena jugularis interna",
+    "Vena subclavia"
+   ],
+   "drains": [
+    "Vena cava superior"
+   ]
+  }
+ },
+ {
+  "key": "azygos-vein",
+  "kind": "vein",
+  "la": "Vena azygos",
+  "alt": [
+   "V. azygos",
+   "Vena azyga"
+  ],
+  "en": "Azygos vein",
+  "desc": {
+   "en": "Vein on the right side of the posterior mediastinum that drains the posterior wall of the thorax and abdomen. It ascends on the right of the thoracic vertebral bodies and at T4 arches forward over the root of the right lung (right main bronchus) to end in the v. cava superior.",
+   "id": "Vena di sisi kanan mediastinum posterius yang mengalirkan darah dari dinding posterior thorax dan abdomen. Vena ini naik di kanan corpus vertebra thoracica dan setinggi T4 melengkung ke depan di atas radix pulmonis dextri (bronchus principalis dexter) untuk bermuara ke v. cava superior."
+  },
+  "facts": {
+   "from": "Vena lumbalis ascendens dextra et vena subcostalis dextra",
+   "course": {
+    "en": "Arises at about T12 from the junction of the right ascending lumbar and subcostal veins, or from the back of the v. cava inferior. It enters the thorax through the hiatus aorticus or the right crus, ascends on the right of the ductus thoracicus and the aorta and behind the oesophagus, and at T4 arches over the right main bronchus to join the v. cava superior just before it enters the pericardium.",
+    "id": "Berasal kira-kira setinggi T12 dari gabungan v. lumbalis ascendens dextra dan v. subcostalis dextra, atau dari dinding belakang v. cava inferior. Vena ini masuk ke thorax melalui hiatus aorticus atau crus dextrum, naik di kanan ductus thoracicus dan aorta serta di belakang oesophagus, lalu setinggi T4 melengkung di atas bronchus principalis dexter untuk bermuara ke v. cava superior tepat sebelum vena itu masuk ke pericardium."
+   },
+   "branches": [
+    "Venae intercostales posteriores dextrae",
+    "Vena intercostalis superior dextra",
+    "Vena hemiazygos",
+    "Vena hemiazygos accessoria",
+    "Venae oesophageales",
+    "Venae bronchiales",
+    "Venae pericardiacae"
+   ],
+   "drains": {
+    "en": "Right posterior intercostal spaces, the left spaces through the hemiazygos veins, the oesophagus, the bronchi and part of the posterior abdominal wall.",
+    "id": "Spatium intercostale posterior kanan, spatium kiri melalui kedua v. hemiazygos, oesophagus, bronchus dan sebagian dinding abdomen posterior."
+   },
+   "continues": "Vena cava superior",
+   "clinical": {
+    "en": "It links the v. cava inferior and v. cava superior, so it carries blood back to the heart when either is blocked. If the developing vein passes through the apex of the right lung instead of arching over it, a small azygos lobe is cut off, a harmless variant.",
+    "id": "Vena ini menghubungkan v. cava inferior dan v. cava superior, sehingga dapat mengembalikan darah ke jantung bila salah satunya tersumbat. Bila selama perkembangan vena ini menembus apex paru kanan dan tidak melengkung di atasnya, terbentuk lobus azygos kecil, suatu varian yang tidak berbahaya."
+   }
+  },
+  "quiz": {
+   "drains": [
+    "Vena cava superior"
+   ],
+   "arches_over": [
+    "Bronchus principalis dexter",
+    "Radix pulmonis dextri"
+   ],
+   "level": [
+    "T4"
+   ]
+  }
+ },
+ {
+  "key": "hemi-azygos-vein",
+  "kind": "vein",
+  "la": "Vena hemiazygos",
+  "alt": [
+   "V. hemiazygos",
+   "Vena hemiazyga"
+  ],
+  "en": "Hemiazygos vein",
+  "desc": {
+   "en": "Left-sided counterpart of the lower azygos vein. It ascends on the left of the vertebral bodies and at about T8-T9 crosses to the right behind the aorta, the ductus thoracicus and the oesophagus to join the v. azygos.",
+   "id": "Padanan v. azygos bagian bawah di sisi kiri. Vena ini naik di kiri corpus vertebra dan kira-kira setinggi T8-T9 menyeberang ke kanan di belakang aorta, ductus thoracicus dan oesophagus untuk bermuara ke v. azygos."
+  },
+  "facts": {
+   "from": "Vena lumbalis ascendens sinistra et vena subcostalis sinistra",
+   "course": {
+    "en": "Arises from the junction of the left ascending lumbar and subcostal veins (sometimes from the left renal vein), enters the thorax through the left crus of the diaphragm and runs up behind the pars thoracica aortae.",
+    "id": "Berasal dari gabungan v. lumbalis ascendens sinistra dan v. subcostalis sinistra (kadang dari v. renalis sinistra), masuk ke thorax melalui crus sinistrum diaphragma dan naik di belakang pars thoracica aortae."
+   },
+   "branches": [
+    "Venae intercostales posteriores sinistrae inferiores",
+    "Vena subcostalis sinistra",
+    "Venae oesophageales"
+   ],
+   "drains": {
+    "en": "The lower three left posterior intercostal spaces (9th-11th), the left subcostal region, the lower oesophagus and small mediastinal veins.",
+    "id": "Tiga spatium intercostale posterior kiri terbawah (IX-XI), daerah subcostal kiri, oesophagus bagian bawah dan vena mediastinum kecil."
+   },
+   "continues": "Vena azygos"
+  },
+  "quiz": {
+   "drains": [
+    "Vena azygos"
+   ],
+   "level": [
+    "T8-T9",
+    "T8",
+    "T9"
+   ]
+  }
+ },
+ {
+  "key": "accessory-hemi-azygos-vein",
+  "kind": "vein",
+  "la": "Vena hemiazygos accessoria",
+  "alt": [
+   "V. hemiazygos accessoria",
+   "Vena hemiazyga accessoria"
+  ],
+  "en": "Accessory hemiazygos vein",
+  "desc": {
+   "en": "Vein on the left of the upper thoracic vertebrae that collects the middle left posterior intercostal veins. It descends on the left of T5-T8 and crosses at about T7-T8 behind the aorta and the ductus thoracicus to join the v. azygos, or ends in the v. hemiazygos.",
+   "id": "Vena di kiri vertebra thoracica atas yang mengumpulkan vv. intercostales posteriores kiri bagian tengah. Vena ini turun di kiri T5-T8 dan kira-kira setinggi T7-T8 menyeberang di belakang aorta dan ductus thoracicus untuk bermuara ke v. azygos, atau berakhir di v. hemiazygos."
+  },
+  "facts": {
+   "course": {
+    "en": "Begins at the medial end of the 4th or 5th left intercostal space; above, it often communicates with the v. intercostalis superior sinistra.",
+    "id": "Dimulai di ujung medial spatium intercostale IV atau V kiri; di atas, vena ini sering berhubungan dengan v. intercostalis superior sinistra."
+   },
+   "branches": [
+    "Venae intercostales posteriores sinistrae",
+    "Venae bronchiales sinistrae"
+   ],
+   "drains": {
+    "en": "Left posterior intercostal spaces 4 (5) to 8, and sometimes the left bronchial veins.",
+    "id": "Spatium intercostale posterior kiri IV (V) sampai VIII, dan kadang vv. bronchiales kiri."
+   },
+   "continues": "Vena azygos"
+  },
+  "quiz": {
+   "drains": [
+    "Vena azygos",
+    "Vena hemiazygos"
+   ],
+   "level": [
+    "T7-T8",
+    "T7",
+    "T8"
+   ]
+  }
+ },
+ {
+  "key": "right-superior-intercostal-vein",
+  "kind": "vein",
+  "la": "Vena intercostalis superior dextra",
+  "alt": [
+   "V. intercostalis superior dextra"
+  ],
+  "en": "Right superior intercostal vein",
+  "desc": {
+   "en": "Short trunk formed by the right posterior intercostal veins of the 2nd, 3rd and often 4th spaces. It runs down beside the upper thoracic vertebrae and opens into the arch of the v. azygos.",
+   "id": "Batang pendek yang dibentuk oleh vv. intercostales posteriores kanan dari spatium II, III dan sering IV. Vena ini turun di samping vertebra thoracica atas dan bermuara ke arcus v. azygos."
+  },
+  "facts": {
+   "from": "Venae intercostales posteriores dextrae II-IV",
+   "drains": {
+    "en": "Right intercostal spaces 2-4 (the 1st space drains through the v. intercostalis suprema into the right brachiocephalic vein).",
+    "id": "Spatium intercostale kanan II-IV (spatium I mengalir melalui v. intercostalis suprema ke v. brachiocephalica dextra)."
+   },
+   "continues": "Vena azygos"
+  },
+  "quiz": {
+   "drains": [
+    "Vena azygos",
+    "Arcus venae azygos"
+   ]
+  }
+ },
+ {
+  "key": "left-superior-intercostal-vein",
+  "kind": "vein",
+  "la": "Vena intercostalis superior sinistra",
+  "alt": [
+   "V. intercostalis superior sinistra"
+  ],
+  "en": "Left superior intercostal vein",
+  "desc": {
+   "en": "Vein formed by the left posterior intercostal veins of the 2nd and 3rd (sometimes 4th) spaces. It runs forward across the left side of the arcus aortae, deep to the n. phrenicus sinister and superficial to the n. vagus sinister, and opens into the left brachiocephalic vein.",
+   "id": "Vena yang dibentuk oleh vv. intercostales posteriores kiri dari spatium II dan III (kadang IV). Vena ini berjalan ke depan menyilang sisi kiri arcus aortae, di sebelah dalam n. phrenicus sinister dan di sebelah luar n. vagus sinister, lalu bermuara ke v. brachiocephalica sinistra."
+  },
+  "facts": {
+   "from": "Venae intercostales posteriores sinistrae II-III",
+   "course": {
+    "en": "Its lower end often communicates with the v. hemiazygos accessoria; it may also receive the left bronchial veins.",
+    "id": "Ujung bawahnya sering berhubungan dengan v. hemiazygos accessoria; vena ini juga dapat menerima vv. bronchiales kiri."
+   },
+   "drains": {
+    "en": "Left intercostal spaces 2-3 (4).",
+    "id": "Spatium intercostale kiri II-III (IV)."
+   },
+   "continues": "Vena brachiocephalica sinistra"
+  },
+  "quiz": {
+   "drains": [
+    "Vena brachiocephalica sinistra",
+    "Vena brachiocephalica"
+   ]
+  }
+ },
+ {
+  "key": "internal-thoracic-veins",
+  "kind": "vein",
+  "la": "Venae thoracicae internae",
+  "alt": [
+   "Vv. thoracicae internae",
+   "Vena thoracica interna",
+   "Venae mammariae internae"
+  ],
+  "en": "Internal thoracic veins",
+  "desc": {
+   "en": "Paired companion veins (venae comitantes) of the a. thoracica interna, formed by the union of the vv. epigastricae superiores and vv. musculophrenicae. They ascend behind the costal cartilages beside the artery, usually join into a single vein in the upper intercostal spaces, and end in the brachiocephalic vein of the same side.",
+   "id": "Venae comitantes berpasangan dari a. thoracica interna, dibentuk oleh gabungan vv. epigastricae superiores dan vv. musculophrenicae. Vena ini naik di belakang cartilago costalis di samping arteri, biasanya bersatu menjadi satu vena di spatium intercostale atas, lalu bermuara ke v. brachiocephalica sisi yang sama."
+  },
+  "facts": {
+   "from": "Vena epigastrica superior et vena musculophrenica",
+   "branches": [
+    "Venae intercostales anteriores",
+    "Venae perforantes",
+    "Venae mediastinales",
+    "Vena pericardiacophrenica"
+   ],
+   "drains": {
+    "en": "Anterior thoracic wall, the upper anterior abdominal wall and the medial part of the breast.",
+    "id": "Dinding dada depan, dinding abdomen depan bagian atas dan bagian medial mamma."
+   },
+   "continues": "Vena brachiocephalica"
+  },
+  "quiz": {
+   "drains": [
+    "Vena brachiocephalica"
+   ]
+  }
+ }
+]

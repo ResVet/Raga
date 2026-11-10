@@ -114,6 +114,12 @@ export class DB {
     return null;
   }
 
+  /** Name shown for a clicked mesh: the whole muscle for a muscle head, otherwise the mesh's own structure. */
+  clickedName(s: StructureRec): string {
+    const p = this.parentConcept(s);
+    return this.latin(p && this.content.get(p)?.kind === 'muscle' ? p : s.k);
+  }
+
   idsForKey(key: string): string[] {
     const direct = this.byKey.get(key);
     if (direct?.length) return direct.map((s) => s.id);

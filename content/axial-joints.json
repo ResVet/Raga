@@ -1,0 +1,2092 @@
+[
+  {
+    "key": "thoracic-joints",
+    "kind": "joint",
+    "la": "Juncturae thoracis",
+    "alt": ["Articulationes thoracis", "Junctura thoracis"],
+    "en": "Joints of the thoracic wall",
+    "desc": {
+      "en": "The thoracic wall moves with each breath through a chain of joints. Behind, every rib meets the vertebral column at the costovertebral joints. In front, the ribs join their cartilages at the costochondral joints, the cartilages join the sternum and each other at the sternocostal and interchondral joints, and the parts of the sternum are joined at the manubriosternal and xiphisternal joints.",
+      "id": "Dinding thorax bergerak pada setiap tarikan napas melalui serangkaian sendi. Di belakang, setiap costa bersendi dengan columna vertebralis melalui articulationes costovertebrales. Di depan, costa bersambung dengan cartilago-nya pada articulationes costochondrales, cartilago costalis bersendi dengan sternum dan satu sama lain pada articulationes sternocostales dan interchondrales, dan bagian-bagian sternum dihubungkan oleh symphysis manubriosternalis serta symphysis xiphosternalis."
+    },
+    "facts": {
+      "parts": ["costovertebral-joints", "sternochondral-synchondrosis-of-first-rib", "sternochondral-joints", "costochondral-joints", "interchondral-joints", "manubriosternal-joint", "xiphisternal-joint", "intervertebral-symphysis", "sternoclavicular-joint"],
+      "movements": {
+        "en": "In inspiration the ribs rotate at the costovertebral joints. The upper ribs lift the sternum forward (pump-handle movement) and the lower ribs swing outward (bucket-handle movement); the costal cartilages twist and the sternal joints bend slightly to allow this.",
+        "id": "Pada inspirasi, costa berotasi pada articulationes costovertebrales. Costa bagian atas mengangkat sternum ke depan (gerakan pump-handle) dan costa bagian bawah berayun ke lateral (gerakan bucket-handle); cartilago costalis sedikit terpuntir dan sendi-sendi sternum sedikit menekuk agar gerakan ini dapat terjadi."
+      },
+      "note": {
+        "en": "The practical module asks for five joints of the thoracic wall. Moore lists eight: the intervertebral joints, the costovertebral joints (joints of the heads of the ribs and costotransverse joints), and the costochondral, interchondral, sternocostal, sternoclavicular, manubriosternal and xiphisternal joints.",
+        "id": "Modul praktikum meminta lima sendi dinding thorax. Moore menyebut delapan: sendi intervertebral, articulationes costovertebrales (articulatio capitis costae dan articulatio costotransversaria), articulationes costochondrales, interchondrales dan sternocostales, articulatio sternoclavicularis, symphysis manubriosternalis, serta symphysis xiphosternalis."
+      }
+    }
+  },
+  {
+    "key": "costovertebral-joints",
+    "kind": "joint",
+    "la": "Articulationes costovertebrales",
+    "alt": ["Art. costovertebrales", "Articulatio costovertebralis"],
+    "en": "Costovertebral joints",
+    "desc": {
+      "en": "Each rib meets the vertebral column at two synovial joints: the joint of the head of the rib, with the vertebral bodies, and the costotransverse joint, between the tubercle of the rib and the transverse process. Ribs 11 and 12 have only the first. The two joints work as one unit, so the rib turns about an axis running through its neck.",
+      "id": "Setiap costa bersendi dengan columna vertebralis melalui dua sendi sinovial: articulatio capitis costae dengan corpus vertebrae, dan articulatio costotransversaria antara tuberculum costae dan processus transversus. Costa XI dan XII hanya memiliki sendi yang pertama. Kedua sendi bekerja sebagai satu unit, sehingga costa berputar pada sumbu yang melalui collum costae."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio plana",
+      "parts": ["joint-of-head-of-rib", "costotransverse-joint"],
+      "movements": {
+        "en": "In the upper six ribs this rotation raises the front end of the rib and the sternum (pump-handle movement), which deepens the thorax from front to back. In ribs 7-10 the tubercles glide on flat facets and the lateral parts of the ribs rise (bucket-handle movement), which widens the lower thorax.",
+        "id": "Pada enam costa teratas, rotasi ini mengangkat ujung depan costa dan sternum (gerakan pump-handle) sehingga diameter anteroposterior thorax bertambah. Pada costa VII-X, tuberculum meluncur pada facies yang datar dan bagian lateral costa terangkat (gerakan bucket-handle) sehingga thorax bagian bawah melebar."
+      },
+      "ligaments": ["Ligamentum radiatum capitis costae", "Ligamentum intraarticulare capitis costae", "Ligamentum costotransversarium", "Ligamentum costotransversarium superius", "Ligamentum costotransversarium laterale", "Ligamentum lumbocostale"]
+    },
+    "quiz": {
+      "type": ["Articulatio plana", "plana", "plana (gliding)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"]
+    }
+  },
+  {
+    "key": "joint-of-head-of-rib",
+    "kind": "joint",
+    "la": "Articulatio capitis costae",
+    "alt": ["Art. capitis costae", "Articulationes capitum costarum"],
+    "en": "Joint of head of rib",
+    "desc": {
+      "en": "Synovial joint between the head of a rib and the side of the vertebral column. In a typical rib the head meets two vertebral bodies (the superior costal facet of its own vertebra and the inferior costal facet of the vertebra above) and the intervertebral disc between them, and an intra-articular ligament splits the joint into two cavities.",
+      "id": "Sendi sinovial antara caput costae dan sisi columna vertebralis. Pada costa tipikal, caput costae bersendi dengan dua corpus vertebrae (fovea costalis superior vertebra yang senomor dan fovea costalis inferior vertebra di atasnya) serta discus intervertebralis di antaranya, dan ligamentum intraarticulare membagi sendi ini menjadi dua rongga."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio plana",
+      "complexity": "Articulatio composita",
+      "axes": "multiaxial",
+      "surfaces": "Facies articularis capitis costae; foveae costales superior et inferior corporum vertebrarum adjacentium; discus intervertebralis",
+      "movements": {
+        "en": "Slight gliding and rotation of the head. Together with the costotransverse joint it lets the rib turn about the long axis of its neck, which raises and lowers the rib in breathing.",
+        "id": "Gerak meluncur dan rotasi kecil caput costae. Bersama articulatio costotransversaria, sendi ini memungkinkan costa berputar pada sumbu panjang collum costae sehingga costa naik dan turun saat bernapas."
+      },
+      "ligaments": ["Ligamentum radiatum capitis costae", "Ligamentum intraarticulare capitis costae"],
+      "note": {
+        "en": "Ribs 1, 11 and 12, and usually rib 10, meet one vertebra only: the head has a single facet, the joint has one cavity and no intra-articular ligament, and it is an articulatio simplex. In ribs 2-9 three bones meet, so the joint counts as an articulatio composita. Plane joints only glide, and textbooks call them multiaxial or nonaxial.",
+        "id": "Costa I, XI dan XII, dan biasanya costa X, hanya bersendi dengan satu vertebra: caput-nya memiliki satu facies articularis, rongga sendinya satu dan tidak ada ligamentum intraarticulare, sehingga sendinya articulatio simplex. Pada costa II-IX tiga tulang bertemu, sehingga sendinya termasuk articulatio composita. Sendi plana hanya meluncur, dan buku ajar menyebutnya multiaksial atau nonaksial."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio plana", "plana", "plana (gliding)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["multiaxial", "multiaksial", "nonaxial", "nonaksial"]
+    }
+  },
+  {
+    "key": "radiate-ligament-of-head-of-rib",
+    "kind": "ligament",
+    "la": "Ligamentum radiatum capitis costae",
+    "alt": ["Lig. radiatum capitis costae", "Ligamentum capitis costae radiatum", "Ligamenta radiata capitum costarum"],
+    "en": "Radiate ligament of head of rib",
+    "desc": {
+      "en": "Fan-shaped ligament on the front of the joint of the head of the rib, spreading from the head to the two vertebral bodies and the disc between them.",
+      "id": "Ligamen berbentuk kipas di depan articulatio capitis costae, menyebar dari caput costae ke dua corpus vertebrae dan discus intervertebralis di antaranya."
+    },
+    "facts": {
+      "joint": "joint-of-head-of-rib",
+      "attach": {
+        "en": "Anterior margin of the head of the rib. Its upper band goes to the body of the vertebra above, its lower band to the body of the vertebra of the same number, and its middle band to the intervertebral disc.",
+        "id": "Tepi anterior caput costae. Berkas atasnya menuju corpus vertebra di atas, berkas bawahnya ke corpus vertebra yang senomor, dan berkas tengahnya ke discus intervertebralis."
+      },
+      "function": {
+        "en": "Strengthens the front of the joint capsule and holds the head of the rib against the vertebral bodies and the disc.",
+        "id": "Memperkuat bagian depan capsula articularis dan menahan caput costae tetap menempel pada corpus vertebrae dan discus intervertebralis."
+      }
+    }
+  },
+  {
+    "key": "intra-articular-ligament-of-head-of-rib",
+    "kind": "ligament",
+    "la": "Ligamentum intraarticulare capitis costae",
+    "alt": ["Lig. intraarticulare capitis costae", "Ligamentum capitis costae intraarticulare"],
+    "en": "Intra-articular ligament of head of rib",
+    "desc": {
+      "en": "Short flat band inside the joint of the head of a typical rib, running from the crest of the head to the intervertebral disc. It divides the joint into an upper and a lower synovial cavity.",
+      "id": "Pita pendek dan pipih di dalam articulatio capitis costae pada costa tipikal, berjalan dari crista capitis costae ke discus intervertebralis. Ligamen ini membagi sendi menjadi rongga sinovial atas dan bawah."
+    },
+    "facts": {
+      "joint": "joint-of-head-of-rib",
+      "attach": {
+        "en": "Crest of the head of the rib to the anulus fibrosus of the intervertebral disc.",
+        "id": "Crista capitis costae ke anulus fibrosus discus intervertebralis."
+      },
+      "function": {
+        "en": "Ties the head to the disc and separates the two joint cavities. It is absent in ribs 1, 11 and 12 (usually also rib 10), whose heads meet one vertebra only.",
+        "id": "Mengikat caput costae ke discus dan memisahkan kedua rongga sendi. Ligamen ini tidak ada pada costa I, XI dan XII (biasanya juga costa X), yang caput-nya hanya bersendi dengan satu vertebra."
+      }
+    }
+  },
+  {
+    "key": "costotransverse-joint",
+    "kind": "joint",
+    "la": "Articulatio costotransversaria",
+    "alt": ["Art. costotransversaria", "Articulationes costotransversariae"],
+    "en": "Costotransverse joint",
+    "desc": {
+      "en": "Synovial joint between the articular part of the tubercle of a rib and the costal facet on the transverse process of the vertebra of the same number. It is present on ribs 1-10 and missing on ribs 11 and 12, which do not reach the transverse processes.",
+      "id": "Sendi sinovial antara facies articularis tuberculi costae dan fovea costalis processus transversi vertebra yang senomor. Sendi ini ada pada costa I-X dan tidak ada pada costa XI dan XII, yang tidak bersendi dengan processus transversus."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio plana",
+      "complexity": "Articulatio simplex",
+      "axes": "multiaxial",
+      "surfaces": "Facies articularis tuberculi costae et fovea costalis processus transversi",
+      "movements": {
+        "en": "In the upper six ribs a convex tubercle sits in a concave facet, so the rib rotates; in ribs 7-10 both surfaces are flat and the tubercle glides. With the joint of the head of the rib this gives the pump-handle movement of the upper ribs and the bucket-handle movement of the lower ribs.",
+        "id": "Pada enam costa teratas, tuberculum yang cembung duduk pada fovea yang cekung sehingga costa berotasi; pada costa VII-X kedua permukaan datar dan tuberculum meluncur. Bersama articulatio capitis costae, sendi ini menghasilkan gerakan pump-handle pada costa atas dan gerakan bucket-handle pada costa bawah."
+      },
+      "ligaments": ["Ligamentum costotransversarium", "Ligamentum costotransversarium superius", "Ligamentum costotransversarium laterale"],
+      "note": {
+        "en": "The costotransverse ligament fills the gap between the neck of the rib and the transverse process. The superior costotransverse ligament runs from the crest of the neck to the transverse process above, and the dorsal ramus of the spinal nerve and the dorsal branch of the posterior intercostal artery pass between it and the vertebra. The lateral costotransverse ligament joins the tip of the transverse process to the tubercle.",
+        "id": "Ligamentum costotransversarium mengisi celah antara collum costae dan processus transversus. Ligamentum costotransversarium superius berjalan dari crista colli costae ke processus transversus di atasnya, dan ramus dorsalis nervus spinalis serta ramus dorsalis a. intercostalis posterior lewat di antara ligamen ini dan vertebra. Ligamentum costotransversarium laterale menghubungkan ujung processus transversus dengan tuberculum costae."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio plana", "plana", "plana (gliding)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["multiaxial", "multiaksial", "nonaxial", "nonaksial"]
+    }
+  },
+  {
+    "key": "costotransverse-ligament",
+    "kind": "ligament",
+    "la": "Ligamentum costotransversarium",
+    "alt": ["Lig. costotransversarium"],
+    "en": "Costotransverse ligament",
+    "desc": {
+      "en": "Short, strong fibres that join the back of the neck of a rib to the front of the transverse process of its own vertebra, filling the costotransverse foramen between them.",
+      "id": "Serabut pendek dan kuat yang menghubungkan bagian belakang collum costae dengan bagian depan processus transversus vertebra yang senomor, mengisi foramen costotransversarium di antara keduanya."
+    },
+    "facts": {
+      "joint": "costotransverse-joint",
+      "attach": {
+        "en": "Posterior surface of the neck of the rib to the anterior surface of the adjacent transverse process.",
+        "id": "Facies posterior collum costae ke facies anterior processus transversus di sebelahnya."
+      },
+      "function": {
+        "en": "Binds the neck of the rib to the transverse process and steadies the costotransverse joint. The superior costotransverse ligament (crest of the neck to the transverse process above) and the lateral costotransverse ligament (tip of the transverse process to the tubercle) complete the hold.",
+        "id": "Mengikat collum costae ke processus transversus dan menstabilkan articulatio costotransversaria. Ligamentum costotransversarium superius (crista colli costae ke processus transversus di atasnya) dan ligamentum costotransversarium laterale (ujung processus transversus ke tuberculum costae) melengkapi ikatan ini."
+      }
+    }
+  },
+  {
+    "key": "sternochondral-joints",
+    "kind": "joint",
+    "la": "Articulationes sternocostales",
+    "alt": ["Art. sternocostales", "Articulatio sternocostalis", "Articulationes sternochondrales", "Articulatio sternochondralis"],
+    "en": "Sternocostal joints (ribs 2-7)",
+    "desc": {
+      "en": "Joints between the costal cartilages of ribs 2-7 and the costal notches on the lateral border of the sternum. They are synovial plane joints, held in front and behind by radiate sternocostal ligaments. The cartilage of the first rib is fused to the manubrium by a synchondrosis.",
+      "id": "Sendi antara cartilago costalis II-VII dan incisura costalis pada tepi lateral sternum. Sendi ini sinovial tipe plana dan diperkuat ligamenta sternocostalia radiata di depan dan di belakang. Cartilago costalis I menyatu dengan manubrium melalui synchondrosis."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio plana",
+      "complexity": "Articulatio simplex",
+      "axes": "multiaxial",
+      "surfaces": "Extremitates sternales cartilaginum costalium II-VII et incisurae costales sterni",
+      "movements": {
+        "en": "Slight gliding as the ribs rise and fall in breathing.",
+        "id": "Gerak meluncur sedikit saat costa naik dan turun ketika bernapas."
+      },
+      "ligaments": ["Ligamenta sternocostalia radiata", "Ligamentum sternocostale intraarticulare", "Membrana sterni", "Ligamenta costoxiphoidea"],
+      "note": {
+        "en": "The second cartilage meets both the manubrium and the body of the sternum at the sternal angle, and an intra-articular ligament divides this joint into two cavities. The radiate ligaments blend with the periosteum as the sternal membrane, and costoxiphoid ligaments tie the seventh cartilage (sometimes the sixth) to the xiphoid process. In older people the cavities of some of these joints disappear.",
+        "id": "Cartilago costalis II bersendi dengan manubrium sekaligus corpus sterni setinggi angulus sterni, dan ligamentum intraarticulare membagi sendi ini menjadi dua rongga. Ligamenta radiata menyatu dengan periosteum sebagai membrana sterni, dan ligamenta costoxiphoidea mengikat cartilago costalis VII (kadang juga VI) ke processus xiphoideus. Pada usia lanjut, rongga sebagian sendi ini dapat menghilang."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio plana", "plana", "plana (gliding)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["multiaxial", "multiaksial", "nonaxial", "nonaksial"]
+    }
+  },
+  {
+    "key": "sternochondral-synchondrosis-of-first-rib",
+    "kind": "joint",
+    "la": "Synchondrosis costae primae",
+    "alt": ["Synchondrosis sternocostalis costae primae", "Synchondrosis sternochondralis costae primae", "Synchondrosis costae I", "Articulatio sternocostalis prima"],
+    "en": "Synchondrosis of first rib (first sternocostal joint)",
+    "desc": {
+      "en": "The first sternocostal joint. The cartilage of the first rib is joined directly to the manubrium by cartilage, with no joint cavity, so the first rib and the manubrium move as one unit.",
+      "id": "Articulatio sternocostalis pertama. Cartilago costalis I menyatu langsung dengan manubrium sterni melalui cartilago tanpa rongga sendi, sehingga costa I dan manubrium bergerak sebagai satu kesatuan."
+    },
+    "facts": {
+      "class": "Junctura cartilaginea",
+      "subtype": "Synchondrosis",
+      "surfaces": "Extremitas sternalis cartilaginis costalis I et incisura costalis prima manubrii sterni",
+      "movements": {
+        "en": "None at the joint itself; the first rib rises and falls together with the manubrium.",
+        "id": "Sendi ini sendiri tidak bergerak; costa I naik dan turun bersama manubrium."
+      },
+      "note": {
+        "en": "It is a primary cartilaginous joint (synchondrosis), while sternocostal joints 2-7 are synovial.",
+        "id": "Sendi ini termasuk sendi kartilaginosa primer (synchondrosis), sedangkan articulationes sternocostales II-VII bersifat sinovial."
+      }
+    },
+    "quiz": {
+      "type": ["Synchondrosis", "synchondrosis"],
+      "class": ["Junctura cartilaginea", "cartilaginea", "articulatio cartilaginea", "sendi kartilaginosa", "synarthrosis"]
+    }
+  },
+  {
+    "key": "costochondral-joints",
+    "kind": "joint",
+    "la": "Articulationes costochondrales",
+    "alt": ["Art. costochondrales", "Articulatio costochondralis", "Juncturae costochondrales", "Junctura costochondralis"],
+    "en": "Costochondral joints",
+    "desc": {
+      "en": "Junctions between the anterior end of each rib and its costal cartilage. The cartilage sits in a cup-shaped pit at the sternal end of the rib and is bound to it by the periosteum, which is continuous with the perichondrium. There is no joint cavity and normally no movement.",
+      "id": "Hubungan antara ujung anterior setiap costa dan cartilago costalis-nya. Cartilago duduk pada cekungan berbentuk mangkuk di extremitas sternalis costae dan terikat padanya oleh periosteum yang bersambung dengan perichondrium. Tidak ada rongga sendi dan normalnya tidak ada gerakan."
+    },
+    "facts": {
+      "class": "Junctura cartilaginea",
+      "subtype": "Synchondrosis",
+      "surfaces": "Extremitas sternalis costae et extremitas lateralis cartilaginis costalis",
+      "movements": {
+        "en": "None normally; the flexibility of the costal cartilage itself allows the ribs to move.",
+        "id": "Normalnya tidak bergerak; kelenturan cartilago costalis sendirilah yang memungkinkan costa bergerak."
+      },
+      "clinical": {
+        "en": "A blow to the chest can separate a rib from its cartilage at this junction (rib separation).",
+        "id": "Benturan pada dada dapat memisahkan costa dari cartilago-nya pada sambungan ini (separasi costa)."
+      },
+      "note": {
+        "en": "TA98 lists the costochondral joints under articulationes thoracis, the synovial joints of the thorax. By structure they have no cavity, and Moore and TA2 class them as primary cartilaginous joints.",
+        "id": "TA98 mencantumkan articulationes costochondrales di bawah articulationes thoracis, yaitu sendi sinovial thorax. Secara struktur sendi ini tidak memiliki rongga, dan Moore serta TA2 menggolongkannya sebagai sendi kartilaginosa primer."
+      }
+    },
+    "quiz": {
+      "type": ["Synchondrosis", "synchondrosis"],
+      "class": ["Junctura cartilaginea", "cartilaginea", "articulatio cartilaginea", "sendi kartilaginosa", "synarthrosis"]
+    }
+  },
+  {
+    "key": "interchondral-joints",
+    "kind": "joint",
+    "la": "Articulationes interchondrales",
+    "alt": ["Art. interchondrales", "Articulatio interchondralis"],
+    "en": "Interchondral joints",
+    "desc": {
+      "en": "Small synovial plane joints between the adjacent borders of the costal cartilages of ribs 6-7, 7-8 and 8-9, strengthened by interchondral ligaments. The cartilages of ribs 9 and 10 are joined by fibrous tissue only.",
+      "id": "Sendi sinovial kecil tipe plana antara tepi cartilago costalis yang bersebelahan pada costa VI-VII, VII-VIII dan VIII-IX, diperkuat ligamenta interchondralia. Cartilago costa IX dan X hanya dihubungkan oleh jaringan fibrosa."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio plana",
+      "complexity": "Articulatio simplex",
+      "axes": "multiaxial",
+      "surfaces": "Margines adjacentes cartilaginum costalium VI-IX",
+      "movements": {
+        "en": "Slight gliding between the cartilages, which lets the costal margin bend as the lower ribs move.",
+        "id": "Gerak meluncur sedikit antarcartilago sehingga arcus costalis dapat melentur saat costa bawah bergerak."
+      },
+      "ligaments": ["Ligamenta interchondralia"]
+    },
+    "quiz": {
+      "type": ["Articulatio plana", "plana", "plana (gliding)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["multiaxial", "multiaksial", "nonaxial", "nonaksial"]
+    }
+  },
+  {
+    "key": "cartilaginous-joints-of-sternum",
+    "kind": "joint",
+    "la": "Synchondroses sternales",
+    "alt": ["Juncturae cartilagineae sterni", "Synchondrosis sternalis"],
+    "en": "Cartilaginous joints of sternum",
+    "desc": {
+      "en": "Terminologia Anatomica groups the joints between the parts of the sternum as sternal synchondroses: the manubriosternal joint at the sternal angle and the xiphisternal joint between the body and the xiphoid process. Both tend to ossify with age.",
+      "id": "Terminologia Anatomica mengelompokkan sendi di antara bagian-bagian sternum sebagai synchondroses sternales: symphysis manubriosternalis setinggi angulus sterni dan symphysis xiphosternalis antara corpus sterni dan processus xiphoideus. Keduanya cenderung mengalami osifikasi seiring bertambahnya usia."
+    },
+    "facts": {
+      "class": "Junctura cartilaginea",
+      "parts": ["manubriosternal-joint", "xiphisternal-joint"]
+    },
+    "quiz": {
+      "class": ["Junctura cartilaginea", "cartilaginea", "articulatio cartilaginea", "sendi kartilaginosa"]
+    }
+  },
+  {
+    "key": "manubriosternal-joint",
+    "kind": "joint",
+    "la": "Symphysis manubriosternalis",
+    "alt": ["Articulatio manubriosternalis", "Synchondrosis manubriosternalis", "Junctura manubriosternalis"],
+    "en": "Manubriosternal joint",
+    "desc": {
+      "en": "Secondary cartilaginous joint (symphysis) between the manubrium and the body of the sternum. It forms the sternal angle, which lies at the level of the T4-T5 intervertebral disc and marks where the second costal cartilage joins the sternum.",
+      "id": "Sendi kartilaginosa sekunder (symphysis) antara manubrium dan corpus sterni. Sendi ini membentuk angulus sterni, yang terletak setinggi discus intervertebralis T4-T5 dan menandai tempat cartilago costalis II melekat pada sternum."
+    },
+    "facts": {
+      "class": "Junctura cartilaginea",
+      "subtype": "Symphysis",
+      "surfaces": "Margo inferior manubrii sterni et margo superior corporis sterni",
+      "movements": {
+        "en": "A small hinge-like movement of the body on the manubrium as the sternum moves forward in inspiration.",
+        "id": "Gerak kecil menyerupai engsel antara corpus sterni dan manubrium saat sternum bergerak ke depan pada inspirasi."
+      },
+      "discs": "Discus fibrocartilagineus",
+      "clinical": {
+        "en": "The sternal angle can be felt through the skin, so the second rib, and from it the ribs and intercostal spaces below, are counted from here. The joint often ossifies in older people.",
+        "id": "Angulus sterni dapat diraba melalui kulit, sehingga costa II, lalu costa dan spatium intercostale di bawahnya, dihitung mulai dari titik ini. Sendi ini sering mengalami osifikasi pada usia lanjut."
+      }
+    },
+    "quiz": {
+      "type": ["Symphysis", "symphysis"],
+      "class": ["Junctura cartilaginea", "cartilaginea", "articulatio cartilaginea", "sendi kartilaginosa", "amphiarthrosis"]
+    },
+    "model": false
+  },
+  {
+    "key": "xiphisternal-joint",
+    "kind": "joint",
+    "la": "Symphysis xiphosternalis",
+    "alt": ["Synchondrosis xiphosternalis", "Articulatio xiphosternalis", "Junctura xiphosternalis"],
+    "en": "Xiphisternal joint",
+    "desc": {
+      "en": "Joint between the lower end of the body of the sternum and the xiphoid process. The two are joined by cartilage without a cavity, and the joint usually ossifies by about 40 years of age.",
+      "id": "Sendi antara ujung bawah corpus sterni dan processus xiphoideus. Keduanya dihubungkan oleh cartilago tanpa rongga sendi, dan sendi ini biasanya mengalami osifikasi sekitar usia 40 tahun."
+    },
+    "facts": {
+      "class": "Junctura cartilaginea",
+      "subtype": "Synchondrosis",
+      "surfaces": "Extremitas inferior corporis sterni et basis processus xiphoidei",
+      "movements": {
+        "en": "None.",
+        "id": "Tidak bergerak."
+      },
+      "clinical": {
+        "en": "A midline landmark for the upper limit of the liver, the central tendon of the diaphragm and the lower border of the heart.",
+        "id": "Penanda di garis tengah untuk batas atas hepar, centrum tendineum diaphragmatis dan batas bawah jantung."
+      },
+      "note": {
+        "en": "TA98 names it symphysis xiphosternalis. Moore classes it by structure as a primary cartilaginous joint (synchondrosis), the classification used here; some texts call it a symphysis.",
+        "id": "TA98 menamainya symphysis xiphosternalis. Moore menggolongkannya menurut struktur sebagai sendi kartilaginosa primer (synchondrosis), dan penggolongan itu yang dipakai di sini; sebagian buku menyebutnya symphysis."
+      }
+    },
+    "quiz": {
+      "type": ["Synchondrosis", "synchondrosis", "symphysis"],
+      "class": ["Junctura cartilaginea", "cartilaginea", "articulatio cartilaginea", "sendi kartilaginosa", "synarthrosis"]
+    },
+    "model": false
+  },
+  {
+    "key": "external-intercostal-membrane",
+    "kind": "membrane",
+    "la": "Membrana intercostalis externa",
+    "alt": ["Membranae intercostales externae"],
+    "en": "External intercostal membrane",
+    "desc": {
+      "en": "Thin aponeurotic sheet that continues the external intercostal muscle forward in each intercostal space, from the costochondral junction to the sternum. Its fibres run in the same direction as the muscle, downward and forward.",
+      "id": "Lembaran aponeurosis tipis yang melanjutkan m. intercostalis externus ke depan pada setiap spatium intercostale, dari batas costochondral sampai sternum. Arah serabutnya sama dengan otot tersebut, yaitu ke bawah dan ke depan."
+    },
+    "facts": {
+      "class": "Junctura fibrosa",
+      "subtype": "Syndesmosis",
+      "attach": {
+        "en": "Lower border of the costal cartilage above to the upper border of the cartilage below, between the front end of the muscle and the sternum.",
+        "id": "Tepi bawah cartilago costalis di atas ke tepi atas cartilago di bawahnya, antara ujung depan otot dan sternum."
+      },
+      "function": {
+        "en": "Closes the front of the intercostal space where the external muscle has ended. It is thin enough for the internal intercostal muscle to be seen through it.",
+        "id": "Menutup bagian depan spatium intercostale yang tidak lagi ditempati m. intercostalis externus. Membran ini cukup tipis sehingga m. intercostalis internus terlihat melaluinya."
+      }
+    }
+  },
+  {
+    "key": "internal-intercostal-membrane",
+    "kind": "membrane",
+    "la": "Membrana intercostalis interna",
+    "alt": ["Membranae intercostales internae"],
+    "en": "Internal intercostal membrane",
+    "desc": {
+      "en": "Thin sheet that continues the internal intercostal muscle backward in each intercostal space, from the angle of the rib to the vertebral column, where it blends with the superior costotransverse ligament.",
+      "id": "Lembaran tipis yang melanjutkan m. intercostalis internus ke belakang pada setiap spatium intercostale, dari angulus costae sampai columna vertebralis, tempat membran ini menyatu dengan ligamentum costotransversarium superius."
+    },
+    "facts": {
+      "class": "Junctura fibrosa",
+      "subtype": "Syndesmosis",
+      "attach": {
+        "en": "Between adjacent ribs from their angles to the vertebral column; medially it is continuous with the superior costotransverse ligament.",
+        "id": "Di antara costa yang bersebelahan, dari angulus costae sampai columna vertebralis; di medial bersambung dengan ligamentum costotransversarium superius."
+      },
+      "function": {
+        "en": "Closes the back of the intercostal space. Near the vertebral column the intercostal nerve and vessels run on its inner surface, between it and the endothoracic fascia, before they enter the costal groove.",
+        "id": "Menutup bagian belakang spatium intercostale. Di dekat columna vertebralis, nervus dan vasa intercostalia berjalan pada permukaan dalamnya, di antara membran ini dan fascia endothoracica, sebelum masuk ke sulcus costae."
+      }
+    }
+  },
+  {
+    "key": "intervertebral-symphysis",
+    "kind": "joint",
+    "la": "Symphysis intervertebralis",
+    "alt": ["Symphyses intervertebrales", "Junctura intervertebralis", "Articulatio intervertebralis"],
+    "en": "Intervertebral symphysis (joints of vertebral bodies)",
+    "desc": {
+      "en": "Secondary cartilaginous joints between the bodies of adjacent vertebrae, from C2-C3 down to L5-S1. Each body is capped by a hyaline cartilage end plate, and an intervertebral disc, with an outer anulus fibrosus and a central nucleus pulposus, joins the two. The anterior and posterior longitudinal ligaments run along the whole series.",
+      "id": "Sendi kartilaginosa sekunder antara corpus vertebrae yang bersebelahan, mulai dari C2-C3 sampai L5-S1. Setiap corpus dilapisi lempeng ujung cartilago hyalina, dan discus intervertebralis yang terdiri atas anulus fibrosus di luar dan nucleus pulposus di tengah menyatukan keduanya. Ligamentum longitudinale anterius dan posterius berjalan di sepanjang deretan sendi ini."
+    },
+    "facts": {
+      "class": "Junctura cartilaginea",
+      "subtype": "Symphysis",
+      "surfaces": "Facies intervertebrales corporum vertebrarum adjacentium (laminae cartilagineae hyalinae)",
+      "movements": {
+        "en": "Each joint moves only a little, but together they allow flexion, extension, lateral flexion and rotation of the vertebral column. The range in each region depends on disc thickness and on the orientation of the zygapophysial joints.",
+        "id": "Setiap sendi hanya bergerak sedikit, tetapi bersama-sama memungkinkan fleksi, ekstensi, fleksi lateral dan rotasi columna vertebralis. Luas gerak pada setiap regio bergantung pada tebal discus dan arah articulationes zygapophysiales."
+      },
+      "ligaments": ["Ligamentum longitudinale anterius", "Ligamentum longitudinale posterius"],
+      "discs": "Disci intervertebrales (anulus fibrosus et nucleus pulposus)",
+      "clinical": {
+        "en": "With age the nucleus loses water and the anulus develops fissures. The nucleus can then herniate, usually posterolaterally where the posterior longitudinal ligament is narrow, and press on a spinal nerve root.",
+        "id": "Dengan bertambahnya usia, nucleus pulposus kehilangan air dan anulus fibrosus mengalami celah. Nucleus pulposus kemudian dapat mengalami herniasi, biasanya ke posterolateral tempat ligamentum longitudinale posterius sempit, dan menekan radix nervus spinalis."
+      },
+      "note": {
+        "en": "There is no disc between the skull and the atlas or between the atlas and the axis. The 23 discs make up about a quarter of the height of the presacral column; they are thickest in the lumbar region and thinnest in the upper thoracic region, and the cervical and lumbar discs are thicker in front, which helps shape the lordoses. Only the outer anulus has nerves and vessels; the rest of the disc is fed by diffusion through the end plates.",
+        "id": "Tidak ada discus antara cranium dan atlas maupun antara atlas dan axis. Ke-23 discus membentuk sekitar seperempat tinggi columna vertebralis presacral; paling tebal di regio lumbalis dan paling tipis di regio thoracica atas, dan discus cervicalis serta lumbalis lebih tebal di bagian depan sehingga ikut membentuk lordosis. Hanya bagian luar anulus fibrosus yang memiliki saraf dan pembuluh darah; bagian lain discus mendapat nutrisi melalui difusi dari lempeng ujung."
+      }
+    },
+    "quiz": {
+      "type": ["Symphysis", "symphysis"],
+      "class": ["Junctura cartilaginea", "cartilaginea", "articulatio cartilaginea", "sendi kartilaginosa", "amphiarthrosis"]
+    }
+  },
+  {
+    "key": "anulus-fibrosus",
+    "kind": "cartilage",
+    "la": "Anulus fibrosus",
+    "alt": ["Annulus fibrosus", "Anulus fibrosus disci intervertebralis"],
+    "en": "Anulus fibrosus",
+    "desc": {
+      "en": "Outer ring of each intervertebral disc, made of concentric lamellae of fibrocartilage. The fibres of each lamella run obliquely, in the opposite direction to those of the next, and the ring encloses the nucleus pulposus.",
+      "id": "Cincin luar setiap discus intervertebralis, tersusun atas lamela fibrocartilago yang konsentris. Serabut pada setiap lamela berjalan miring dengan arah berlawanan terhadap lamela di sebelahnya, dan cincin ini membungkus nucleus pulposus."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Rounded rims (anular epiphyses) on the surfaces of the adjacent vertebral bodies.",
+        "id": "Tepi bulat (epiphysis anularis) pada facies intervertebralis corpus vertebrae yang bersebelahan."
+      },
+      "function": {
+        "en": "Holds in the pressure of the nucleus and limits rotation between vertebrae. It is thinner at the back, so tears and herniations mostly occur posterolaterally.",
+        "id": "Menahan tekanan dari nucleus pulposus dan membatasi rotasi antarvertebra. Bagian belakangnya lebih tipis, sehingga robekan dan herniasi paling sering terjadi di posterolateral."
+      }
+    },
+    "model": false
+  },
+  {
+    "key": "zygapophysial-joints",
+    "kind": "joint",
+    "la": "Articulationes zygapophysiales",
+    "alt": ["Art. zygapophysiales", "Articulatio zygapophysialis", "Articulationes zygapophyseales"],
+    "en": "Zygapophysial (facet) joints",
+    "desc": {
+      "en": "Paired synovial plane joints between the inferior articular process of one vertebra and the superior articular process of the vertebra below, from C2-C3 to L5-S1. Their capsules are thin and loose, most of all in the cervical region.",
+      "id": "Sendi sinovial tipe plana yang berpasangan antara processus articularis inferior satu vertebra dan processus articularis superior vertebra di bawahnya, dari C2-C3 sampai L5-S1. Capsula articularis-nya tipis dan longgar, terutama di regio cervicalis."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio plana",
+      "complexity": "Articulatio simplex",
+      "axes": "multiaxial",
+      "surfaces": "Facies articularis processus articularis inferioris et facies articularis processus articularis superioris vertebrae subjacentis",
+      "movements": {
+        "en": "Gliding, steered by the plane of the facets. Cervical facets are inclined about 45 degrees and permit a wide range of movement. Thoracic facets lie close to the coronal plane and favour rotation and lateral flexion, which the ribs limit further. Lumbar facets are curved and lie close to the sagittal plane, so they favour flexion and extension and limit rotation.",
+        "id": "Gerak meluncur yang arahnya ditentukan oleh bidang facies articularis. Facies di regio cervicalis miring sekitar 45 derajat dan memberi gerak yang luas. Facies di regio thoracica hampir sejajar bidang frontal sehingga memudahkan rotasi dan fleksi lateral, yang masih dibatasi oleh costae. Facies di regio lumbalis melengkung dan hampir sejajar bidang sagital, sehingga memudahkan fleksi dan ekstensi serta membatasi rotasi."
+      },
+      "ligaments": ["Ligamenta flava", "Ligamenta interspinalia", "Ligamentum supraspinale", "Ligamenta intertransversaria", "Ligamentum nuchae"],
+      "clinical": {
+        "en": "Each joint receives articular branches from the medial branches of two dorsal rami, so blocking or denervating a painful facet joint has to reach both.",
+        "id": "Setiap sendi mendapat cabang artikular dari ramus medialis dua ramus dorsalis, sehingga blok atau denervasi sendi faset yang nyeri harus mencapai keduanya."
+      },
+      "note": {
+        "en": "The ligaments listed are the accessory ligaments of the joints of the vertebral arches (Moore).",
+        "id": "Ligamen yang dicantumkan adalah ligamen aksesori sendi-sendi arcus vertebrae (Moore)."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio plana", "plana", "plana (gliding)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["multiaxial", "multiaksial", "nonaxial", "nonaksial"]
+    }
+  },
+  {
+    "key": "lateral-atlanto-axial-joint",
+    "kind": "joint",
+    "la": "Articulatio atlantoaxialis lateralis",
+    "alt": ["Art. atlantoaxialis lateralis", "Articulationes atlantoaxiales laterales"],
+    "en": "Lateral atlanto-axial joint",
+    "desc": {
+      "en": "Paired synovial joint between the inferior articular facet of each lateral mass of the atlas and the superior articular facet of the axis. It glides as the atlas and the head turn on the dens.",
+      "id": "Sendi sinovial berpasangan antara facies articularis inferior massa lateralis atlas dan facies articularis superior axis. Sendi ini meluncur saat atlas bersama kepala berputar pada dens axis."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio plana",
+      "complexity": "Articulatio simplex",
+      "axes": "multiaxial",
+      "surfaces": "Facies articularis inferior massae lateralis atlantis et facies articularis superior axis",
+      "movements": {
+        "en": "Gliding that accompanies rotation of the atlas at the median atlanto-axial joint. Together the atlanto-axial joints provide about half of the rotation of the neck.",
+        "id": "Gerak meluncur yang menyertai rotasi atlas pada articulatio atlantoaxialis mediana. Bersama-sama, sendi-sendi atlantoaxial memberi sekitar separuh gerak rotasi leher."
+      },
+      "stability": {
+        "en": "The alar ligaments, from the sides of the dens to the occipital condyles, check excessive rotation of the head.",
+        "id": "Ligamenta alaria, yang berjalan dari sisi dens ke condylus occipitalis, menahan rotasi kepala yang berlebihan."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio plana", "plana", "plana (gliding)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["multiaxial", "multiaksial", "nonaxial", "nonaksial"]
+    }
+  },
+  {
+    "key": "median-atlanto-axial-joint",
+    "kind": "joint",
+    "la": "Articulatio atlantoaxialis mediana",
+    "alt": ["Art. atlantoaxialis mediana"],
+    "en": "Median atlanto-axial joint",
+    "desc": {
+      "en": "Pivot joint between the dens of the axis and the ring formed by the anterior arch of the atlas in front and the transverse ligament of the atlas behind. The atlas, carrying the skull, rotates around the dens, as when shaking the head to say no.",
+      "id": "Sendi putar antara dens axis dan cincin yang dibentuk arcus anterior atlas di depan serta ligamentum transversum atlantis di belakang. Atlas yang membawa kepala berputar di sekeliling dens, seperti saat menggeleng."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Articulatio trochoidea",
+      "complexity": "Articulatio simplex",
+      "axes": "uniaxial",
+      "surfaces": "Facies articularis anterior dentis et fovea dentis atlantis; facies articularis posterior dentis et ligamentum transversum atlantis",
+      "movements": {
+        "en": "Rotation of the atlas and the head about the vertical axis of the dens.",
+        "id": "Rotasi atlas dan kepala pada sumbu vertikal yang melalui dens."
+      },
+      "ligaments": ["Ligamentum transversum atlantis", "Ligamentum cruciforme atlantis", "Ligamenta alaria", "Ligamentum apicis dentis", "Membrana tectoria"],
+      "clinical": {
+        "en": "If the transverse ligament tears or softens, as in rheumatoid arthritis, the dens can move backward and compress the spinal cord (atlanto-axial subluxation).",
+        "id": "Bila ligamentum transversum atlantis robek atau melemah, misalnya pada artritis reumatoid, dens dapat bergeser ke belakang dan menekan medulla spinalis (subluksasi atlantoaxial)."
+      },
+      "note": {
+        "en": "The joint has two small synovial cavities, one between the dens and the anterior arch and one between the dens and the transverse ligament.",
+        "id": "Sendi ini memiliki dua rongga sinovial kecil, satu antara dens dan arcus anterior atlas dan satu lagi antara dens dan ligamentum transversum atlantis."
+      }
+    },
+    "quiz": {
+      "type": ["Articulatio trochoidea", "trochoidea", "trochoidea (pivot)"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"],
+      "axes": ["uniaxial", "uniaksial"]
+    }
+  },
+  {
+    "key": "uncovertebral-joints",
+    "kind": "joint",
+    "la": "Articulationes uncovertebrales",
+    "alt": ["Art. uncovertebrales", "Articulatio uncovertebralis"],
+    "en": "Uncovertebral joints (joints of Luschka)",
+    "desc": {
+      "en": "Small joints at the lateral edges of the cervical discs, between the uncinate process of a vertebral body (C3-C7) and the bevelled lower margin of the body above. They form part of the front wall of the intervertebral foramen, medial to the vertebral artery.",
+      "id": "Sendi kecil di tepi lateral discus cervicalis, antara processus uncinatus corpus vertebrae (C3-C7) dan tepi bawah corpus di atasnya yang melandai. Sendi ini membentuk sebagian dinding depan foramen intervertebrale, medial terhadap a. vertebralis."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "movements": {
+        "en": "They limit sideways sliding of one cervical vertebra on the next.",
+        "id": "Membatasi pergeseran ke samping antarvertebra cervicalis."
+      },
+      "clinical": {
+        "en": "Osteophytes from these joints narrow the intervertebral foramen and can press on the spinal nerve roots or the vertebral artery, a common source of neck and arm pain in older people.",
+        "id": "Osteofit dari sendi ini mempersempit foramen intervertebrale dan dapat menekan radix nervus spinalis atau a. vertebralis, penyebab umum nyeri leher dan lengan pada usia lanjut."
+      },
+      "note": {
+        "en": "Their nature is debated. They were first described as synovial joints, but later studies found no true synovial membrane.",
+        "id": "Sifat sendi ini masih diperdebatkan. Awalnya sendi ini digambarkan sebagai sendi sinovial, tetapi penelitian berikutnya tidak menemukan membrana synovialis yang sejati."
+      }
+    }
+  },
+  {
+    "key": "lumbosacral-symphysis",
+    "kind": "joint",
+    "la": "Articulatio lumbosacralis",
+    "alt": ["Symphysis lumbosacralis", "Art. lumbosacralis", "Junctura lumbosacralis"],
+    "en": "Lumbosacral joint (lumbosacral symphysis)",
+    "desc": {
+      "en": "Joint between the fifth lumbar vertebra and the base of the sacrum. The bodies are joined by the L5-S1 disc as a symphysis, and behind them the zygapophysial joints between L5 and S1 complete the junction. The iliolumbar ligaments tie the transverse processes of L5 to the iliac crests.",
+      "id": "Sendi antara vertebra lumbalis V dan basis ossis sacri. Kedua corpus disatukan oleh discus L5-S1 sebagai symphysis, dan di belakangnya articulationes zygapophysiales antara L5 dan S1 melengkapi sambungan ini. Ligamenta iliolumbalia mengikat processus transversus L5 ke crista iliaca."
+    },
+    "facts": {
+      "class": "Junctura cartilaginea",
+      "subtype": "Symphysis",
+      "surfaces": "Facies inferior corporis vertebrae lumbalis V et basis ossis sacri",
+      "movements": {
+        "en": "Mainly flexion and extension of the lumbar column on the sacrum.",
+        "id": "Terutama fleksi dan ekstensi columna lumbalis terhadap os sacrum."
+      },
+      "ligaments": ["Ligamentum iliolumbale", "Ligamentum longitudinale anterius", "Ligamentum longitudinale posterius"],
+      "discs": "Discus intervertebralis L5-S1",
+      "clinical": {
+        "en": "The sacral base slopes forward, so L5 tends to slide forward on it. The articular processes of S1 and the iliolumbar ligaments resist this; when the pars interarticularis of L5 is defective, the vertebra can slip forward (spondylolisthesis).",
+        "id": "Basis ossis sacri miring ke depan sehingga L5 cenderung tergelincir ke depan. Processus articularis S1 dan ligamenta iliolumbalia menahannya; bila pars interarticularis L5 mengalami defek, vertebra ini dapat bergeser ke depan (spondylolisthesis)."
+      }
+    },
+    "quiz": {
+      "type": ["Symphysis", "symphysis"],
+      "class": ["Junctura cartilaginea", "cartilaginea", "articulatio cartilaginea", "sendi kartilaginosa", "amphiarthrosis"]
+    }
+  },
+  {
+    "key": "sacrococcygeal-symphysis",
+    "kind": "joint",
+    "la": "Articulatio sacrococcygea",
+    "alt": ["Symphysis sacrococcygea", "Junctura sacrococcygea", "Art. sacrococcygea"],
+    "en": "Sacrococcygeal joint (symphysis)",
+    "desc": {
+      "en": "Secondary cartilaginous joint between the apex of the sacrum and the base of the coccyx, with a thin fibrocartilaginous disc. Anterior, posterior and lateral sacrococcygeal ligaments and the intercornual ligaments hold it.",
+      "id": "Sendi kartilaginosa sekunder antara apex ossis sacri dan basis ossis coccygis, dengan discus fibrocartilago yang tipis. Sendi ini diperkuat ligamenta sacrococcygea anterius, posterius dan laterale serta ligamenta intercornualia."
+    },
+    "facts": {
+      "class": "Junctura cartilaginea",
+      "subtype": "Symphysis",
+      "surfaces": "Apex ossis sacri et basis ossis coccygis",
+      "movements": {
+        "en": "Slight flexion and extension of the coccyx; it moves back during childbirth.",
+        "id": "Fleksi dan ekstensi coccyx yang sedikit; coccyx bergerak ke belakang saat persalinan."
+      },
+      "ligaments": ["Ligamentum sacrococcygeum anterius", "Ligamentum sacrococcygeum posterius superficiale", "Ligamentum sacrococcygeum posterius profundum", "Ligamentum sacrococcygeum laterale", "Ligamentum intercornuale"],
+      "discs": "Discus fibrocartilagineus",
+      "clinical": {
+        "en": "A fall on the buttocks can injure the joint and leave persistent pain over the coccyx (coccydynia). The joint often fuses in older people.",
+        "id": "Jatuh terduduk dapat mencederai sendi ini dan menimbulkan nyeri menetap di daerah coccyx (coccydynia). Sendi ini sering menyatu pada usia lanjut."
+      }
+    },
+    "quiz": {
+      "type": ["Symphysis", "symphysis"],
+      "class": ["Junctura cartilaginea", "cartilaginea", "articulatio cartilaginea", "sendi kartilaginosa", "amphiarthrosis"]
+    }
+  },
+  {
+    "key": "anterior-longitudinal-ligament",
+    "kind": "ligament",
+    "la": "Ligamentum longitudinale anterius",
+    "alt": ["Lig. longitudinale anterius"],
+    "en": "Anterior longitudinal ligament",
+    "desc": {
+      "en": "Broad, strong band on the front of the vertebral bodies and discs, running from the occipital bone in front of the foramen magnum and the anterior tubercle of the atlas down to the pelvic surface of the sacrum.",
+      "id": "Pita lebar dan kuat pada permukaan depan corpus vertebrae dan discus intervertebralis, berjalan dari os occipitale di depan foramen magnum dan tuberculum anterius atlantis sampai facies pelvica ossis sacri."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Anterior and anterolateral surfaces of the vertebral bodies and the intervertebral discs along the whole column.",
+        "id": "Permukaan anterior dan anterolateral corpus vertebrae serta discus intervertebralis di sepanjang columna vertebralis."
+      },
+      "function": {
+        "en": "Holds the bodies together in front and limits extension of the vertebral column; it is the only intervertebral ligament that limits extension. A hyperextension (whiplash) injury of the neck can tear it.",
+        "id": "Menyatukan corpus vertebrae di bagian depan dan membatasi ekstensi columna vertebralis; inilah satu-satunya ligamen intervertebral yang membatasi ekstensi. Cedera hiperekstensi leher (whiplash) dapat merobeknya."
+      }
+    }
+  },
+  {
+    "key": "posterior-longitudinal-ligament",
+    "kind": "ligament",
+    "la": "Ligamentum longitudinale posterius",
+    "alt": ["Lig. longitudinale posterius"],
+    "en": "Posterior longitudinal ligament",
+    "desc": {
+      "en": "Narrower band inside the vertebral canal on the back of the vertebral bodies, running from the axis to the sacrum. Above the axis it continues as the tectorial membrane.",
+      "id": "Pita yang lebih sempit di dalam canalis vertebralis pada permukaan belakang corpus vertebrae, berjalan dari axis sampai os sacrum. Di atas axis ligamen ini berlanjut sebagai membrana tectoria."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Mainly the posterior surfaces of the intervertebral discs, and less firmly the posterior edges of the vertebral bodies. It widens over each disc and narrows over the bodies.",
+        "id": "Terutama permukaan posterior discus intervertebralis, dan dengan ikatan yang lebih lemah pada tepi posterior corpus vertebrae. Ligamen ini melebar di setiap discus dan menyempit di atas corpus."
+      },
+      "function": {
+        "en": "Weakly limits flexion and helps keep the nucleus pulposus from herniating straight back. Because it is narrow at the sides, herniations usually pass posterolaterally and press on a nerve root.",
+        "id": "Membatasi fleksi secara lemah dan membantu mencegah nucleus pulposus mengalami herniasi lurus ke belakang. Karena bagian sisinya sempit, herniasi biasanya mengarah ke posterolateral dan menekan radix nervus spinalis."
+      }
+    }
+  },
+  {
+    "key": "ligamenta-flava",
+    "kind": "ligament",
+    "la": "Ligamenta flava",
+    "alt": ["Ligamentum flavum", "Lig. flavum", "Ligg. flava"],
+    "en": "Ligamenta flava",
+    "desc": {
+      "en": "Paired bands of yellow elastic tissue that join the laminae of adjacent vertebrae from the axis down to the sacrum. They form part of the posterior wall of the vertebral canal.",
+      "id": "Pita jaringan elastis berwarna kuning yang berpasangan dan menghubungkan lamina arcus vertebrae yang bersebelahan, dari axis sampai os sacrum. Ligamen ini membentuk sebagian dinding posterior canalis vertebralis."
+    },
+    "facts": {
+      "joint": "zygapophysial-joints",
+      "attach": {
+        "en": "Anterior surface of the lamina above to the posterior surface and upper margin of the lamina below; laterally they reach the capsules of the zygapophysial joints.",
+        "id": "Facies anterior lamina di atas ke facies posterior dan tepi atas lamina di bawahnya; ke lateral mencapai capsula articularis articulationes zygapophysiales."
+      },
+      "function": {
+        "en": "Their elastic recoil resists abrupt flexion, helps the column straighten after bending and preserves its curvatures. A lumbar puncture or epidural needle passes through them, and thickened ligamenta flava contribute to lumbar spinal stenosis.",
+        "id": "Daya lenting elastisnya menahan fleksi yang mendadak, membantu columna vertebralis tegak kembali setelah membungkuk dan mempertahankan lengkungannya. Jarum pungsi lumbal atau anestesi epidural menembus ligamen ini, dan penebalan ligamenta flava ikut menyebabkan stenosis canalis lumbalis."
+      }
+    }
+  },
+  {
+    "key": "interspinous-ligaments",
+    "kind": "ligament",
+    "la": "Ligamenta interspinalia",
+    "alt": ["Ligamentum interspinale", "Lig. interspinale", "Ligg. interspinalia"],
+    "en": "Interspinous ligaments",
+    "desc": {
+      "en": "Thin membranous ligaments between adjacent spinous processes, from the root to the tip of each process. They meet the ligamenta flava in front and the supraspinous ligament behind, and are best developed in the lumbar region.",
+      "id": "Ligamen tipis berbentuk membran di antara processus spinosus yang bersebelahan, dari pangkal sampai ujung setiap processus. Di depan bertemu ligamenta flava dan di belakang bertemu ligamentum supraspinale; paling berkembang di regio lumbalis."
+    },
+    "facts": {
+      "joint": "zygapophysial-joints",
+      "attach": {
+        "en": "Lower border of one spinous process to the upper border of the next.",
+        "id": "Tepi bawah satu processus spinosus ke tepi atas processus spinosus berikutnya."
+      },
+      "function": {
+        "en": "Limit flexion by checking the separation of the spinous processes. In the neck they are thin and merge with the ligamentum nuchae.",
+        "id": "Membatasi fleksi dengan menahan renggangnya processus spinosus. Di leher ligamen ini tipis dan menyatu dengan ligamentum nuchae."
+      }
+    }
+  },
+  {
+    "key": "supraspinous-ligament",
+    "kind": "ligament",
+    "la": "Ligamentum supraspinale",
+    "alt": ["Lig. supraspinale"],
+    "en": "Supraspinous ligament",
+    "desc": {
+      "en": "Strong cord that joins the tips of the spinous processes from C7 down to the sacrum. Above C7 it merges with the ligamentum nuchae.",
+      "id": "Tali fibrosa yang kuat, menghubungkan ujung processus spinosus dari C7 sampai os sacrum. Di atas C7 ligamen ini menyatu dengan ligamentum nuchae."
+    },
+    "facts": {
+      "joint": "zygapophysial-joints",
+      "attach": {
+        "en": "Apices of the spinous processes from C7 to the sacrum.",
+        "id": "Apex processus spinosus dari C7 sampai os sacrum."
+      },
+      "function": {
+        "en": "Limits flexion of the vertebral column. It lies just under the skin, so a midline lumbar puncture needle pierces it first, then the interspinous ligament and the ligamentum flavum.",
+        "id": "Membatasi fleksi columna vertebralis. Letaknya tepat di bawah kulit, sehingga jarum pungsi lumbal di garis tengah menembusnya lebih dahulu, kemudian ligamentum interspinale dan ligamentum flavum."
+      }
+    }
+  },
+  {
+    "key": "nuchal-ligament",
+    "kind": "ligament",
+    "la": "Ligamentum nuchae",
+    "alt": ["Lig. nuchae"],
+    "en": "Nuchal ligament",
+    "desc": {
+      "en": "Strong median sheet of fibroelastic tissue at the back of the neck, from the external occipital protuberance and the posterior border of the foramen magnum to the spinous processes of the cervical vertebrae. It is the cervical continuation of the supraspinous and interspinous ligaments.",
+      "id": "Lembaran fibroelastis yang kuat di garis tengah tengkuk, dari protuberantia occipitalis externa dan tepi posterior foramen magnum sampai processus spinosus vertebrae cervicales. Ligamen ini merupakan lanjutan ligamentum supraspinale dan ligamenta interspinalia di regio cervicalis."
+    },
+    "facts": {
+      "joint": "zygapophysial-joints",
+      "attach": {
+        "en": "External occipital protuberance and external occipital crest above; posterior tubercle of the atlas and the spinous processes of C2-C7 below.",
+        "id": "Di atas: protuberantia occipitalis externa dan crista occipitalis externa. Di bawah: tuberculum posterius atlantis dan processus spinosus C2-C7."
+      },
+      "function": {
+        "en": "Gives attachment to neck and upper back muscles such as trapezius, splenius capitis, rhomboid minor and serratus posterior superior, standing in for the short spinous processes of C3-C5. It also helps hold the head up.",
+        "id": "Menjadi tempat perlekatan otot leher dan punggung atas seperti m. trapezius, m. splenius capitis, m. rhomboideus minor dan m. serratus posterior superior, menggantikan processus spinosus C3-C5 yang pendek. Ligamen ini juga membantu menahan kepala tetap tegak."
+      }
+    }
+  },
+  {
+    "key": "intertransverse-ligaments",
+    "kind": "ligament",
+    "la": "Ligamenta intertransversaria",
+    "alt": ["Ligamentum intertransversarium", "Lig. intertransversarium", "Ligg. intertransversaria"],
+    "en": "Intertransverse ligaments",
+    "desc": {
+      "en": "Ligaments that join adjacent transverse processes. In the neck they are scattered fibres, in the thoracic region rounded cords, and in the lumbar region thin membranes.",
+      "id": "Ligamen yang menghubungkan processus transversus yang bersebelahan. Di leher berupa serabut yang tersebar, di regio thoracica berupa tali bulat, dan di regio lumbalis berupa membran tipis."
+    },
+    "facts": {
+      "joint": "zygapophysial-joints",
+      "attach": {
+        "en": "Between the transverse processes of adjacent vertebrae.",
+        "id": "Di antara processus transversus vertebra yang bersebelahan."
+      },
+      "function": {
+        "en": "Limit lateral flexion of the vertebral column; those on the convex side of the bend become tense.",
+        "id": "Membatasi fleksi lateral columna vertebralis; ligamen pada sisi yang cembung menjadi tegang."
+      }
+    },
+    "model": false
+  },
+  {
+    "key": "intercornual-ligament",
+    "kind": "ligament",
+    "la": "Ligamentum intercornuale",
+    "alt": ["Ligamenta intercornualia", "Lig. intercornuale"],
+    "en": "Intercornual ligament",
+    "desc": {
+      "en": "Small ligament on each side between the sacral cornu and the coccygeal cornu, at the back of the sacrococcygeal joint.",
+      "id": "Ligamen kecil di setiap sisi antara cornu sacrale dan cornu coccygeum, di belakang articulatio sacrococcygea."
+    },
+    "facts": {
+      "joint": "sacrococcygeal-symphysis",
+      "attach": {
+        "en": "Sacral cornu to the coccygeal cornu of the same side.",
+        "id": "Cornu sacrale ke cornu coccygeum pada sisi yang sama."
+      },
+      "function": {
+        "en": "Joins the sacrum and coccyx behind, together with the posterior sacrococcygeal ligaments.",
+        "id": "Menyatukan os sacrum dan coccyx di bagian belakang, bersama ligamenta sacrococcygea posteriora."
+      }
+    }
+  },
+  {
+    "key": "intervertebral-disc-c2-c3",
+    "kind": "cartilage",
+    "la": "Discus intervertebralis C2-C3",
+    "alt": ["Discus intervertebralis", "Anulus fibrosus"],
+    "en": "Intervertebral disc C2-C3",
+    "desc": {
+      "en": "The highest intervertebral disc, between the bodies of the axis (C2) and C3. Above it there are no discs: the skull, atlas and axis are joined by synovial joints and ligaments.",
+      "id": "Discus intervertebralis yang paling atas, antara corpus axis (C2) dan C3. Di atasnya tidak ada discus: cranium, atlas dan axis dihubungkan oleh sendi sinovial dan ligamen."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Inferior surface of the body of C2 and superior surface of the body of C3.",
+        "id": "Facies inferior corpus axis (C2) dan facies superior corpus vertebrae C3."
+      },
+      "function": {
+        "en": "Joins C2 to C3 and spreads load between them. Like the other cervical discs it is thicker in front, which helps form the cervical lordosis, and uncovertebral joints lie at its lateral edges.",
+        "id": "Menyatukan C2 dan C3 serta menyebarkan beban di antara keduanya. Seperti discus cervicalis lainnya, discus ini lebih tebal di bagian depan sehingga ikut membentuk lordosis cervicalis, dan articulationes uncovertebrales terletak di tepi lateralnya."
+      }
+    }
+  },
+  {
+    "key": "intervertebral-disc-c3-c4",
+    "kind": "cartilage",
+    "la": "Discus intervertebralis C3-C4",
+    "alt": ["Discus intervertebralis", "Anulus fibrosus"],
+    "en": "Intervertebral disc C3-C4",
+    "desc": {
+      "en": "Disc between the bodies of C3 and C4. Its anulus fibrosus surrounds a nucleus pulposus that lies a little behind the centre of the disc.",
+      "id": "Discus antara corpus vertebrae C3 dan C4. Anulus fibrosus-nya membungkus nucleus pulposus yang terletak sedikit di belakang titik tengah discus."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Inferior surface of the body of C3 and superior surface of the body of C4.",
+        "id": "Facies inferior corpus vertebrae C3 dan facies superior corpus vertebrae C4."
+      },
+      "function": {
+        "en": "Takes part in the wide range of movement of the neck. A posterolateral herniation here presses on the C4 nerve root, which leaves through the foramen between C3 and C4.",
+        "id": "Ikut serta dalam gerak leher yang luas. Herniasi ke posterolateral pada tingkat ini menekan radix nervus C4, yang keluar melalui foramen intervertebrale antara C3 dan C4."
+      }
+    }
+  },
+  {
+    "key": "intervertebral-disc-c4-c5",
+    "kind": "cartilage",
+    "la": "Discus intervertebralis C4-C5",
+    "alt": ["Discus intervertebralis", "Anulus fibrosus"],
+    "en": "Intervertebral disc C4-C5",
+    "desc": {
+      "en": "Disc between the bodies of C4 and C5, in the middle of the cervical lordosis.",
+      "id": "Discus antara corpus vertebrae C4 dan C5, di tengah lengkung lordosis cervicalis."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Inferior surface of the body of C4 and superior surface of the body of C5.",
+        "id": "Facies inferior corpus vertebrae C4 dan facies superior corpus vertebrae C5."
+      },
+      "function": {
+        "en": "A posterolateral herniation of this disc presses on the C5 nerve root. In the neck each spinal nerve leaves above the vertebra of the same number, so a disc compresses the root named after the vertebra below it.",
+        "id": "Herniasi ke posterolateral pada discus ini menekan radix nervus C5. Di leher setiap nervus spinalis keluar di atas vertebra yang senomor, sehingga discus menekan radix yang bernomor sama dengan vertebra di bawahnya."
+      }
+    }
+  },
+  {
+    "key": "intervertebral-disc-c5-c6",
+    "kind": "cartilage",
+    "la": "Discus intervertebralis C5-C6",
+    "alt": ["Discus intervertebralis", "Anulus fibrosus"],
+    "en": "Intervertebral disc C5-C6",
+    "desc": {
+      "en": "Disc between the bodies of C5 and C6. With C6-C7 it is the cervical disc that herniates most often.",
+      "id": "Discus antara corpus vertebrae C5 dan C6. Bersama discus C6-C7, discus ini paling sering mengalami herniasi di regio cervicalis."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Inferior surface of the body of C5 and superior surface of the body of C6.",
+        "id": "Facies inferior corpus vertebrae C5 dan facies superior corpus vertebrae C6."
+      },
+      "function": {
+        "en": "Joins C5 and C6 and absorbs load in the lower neck.",
+        "id": "Menyatukan C5 dan C6 serta meredam beban di leher bagian bawah."
+      },
+      "clinical": {
+        "en": "A posterolateral herniation compresses the C6 nerve root, with pain and tingling along the lateral forearm toward the thumb.",
+        "id": "Herniasi ke posterolateral menekan radix nervus C6, dengan nyeri dan kesemutan sepanjang sisi lateral lengan bawah ke arah ibu jari."
+      }
+    }
+  },
+  {
+    "key": "intervertebral-disc-c6-c7",
+    "kind": "cartilage",
+    "la": "Discus intervertebralis C6-C7",
+    "alt": ["Discus intervertebralis", "Anulus fibrosus"],
+    "en": "Intervertebral disc C6-C7",
+    "desc": {
+      "en": "Disc between the bodies of C6 and C7, at the lower end of the cervical lordosis. It is one of the two cervical discs that herniate most often.",
+      "id": "Discus antara corpus vertebrae C6 dan C7, di ujung bawah lordosis cervicalis. Discus ini termasuk dua discus cervicalis yang paling sering mengalami herniasi."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Inferior surface of the body of C6 and superior surface of the body of C7.",
+        "id": "Facies inferior corpus vertebrae C6 dan facies superior corpus vertebrae C7."
+      },
+      "function": {
+        "en": "Joins C6 and C7 and spreads load between them.",
+        "id": "Menyatukan C6 dan C7 serta menyebarkan beban di antara keduanya."
+      },
+      "clinical": {
+        "en": "A posterolateral herniation compresses the C7 nerve root; pain runs down the back of the arm toward the middle finger, and triceps may weaken.",
+        "id": "Herniasi ke posterolateral menekan radix nervus C7; nyeri menjalar ke belakang lengan ke arah jari tengah, dan m. triceps brachii dapat melemah."
+      }
+    }
+  },
+  {
+    "key": "intervertebral-disc-c7-t1",
+    "kind": "cartilage",
+    "la": "Discus intervertebralis C7-T1",
+    "alt": ["Discus intervertebralis", "Anulus fibrosus"],
+    "en": "Intervertebral disc C7-T1",
+    "desc": {
+      "en": "Disc at the cervicothoracic junction, between the bodies of C7 and T1, where the mobile neck meets the thoracic spine held by the ribs.",
+      "id": "Discus pada peralihan cervicothoracal, antara corpus vertebrae C7 dan T1, tempat leher yang mudah bergerak bertemu tulang belakang thoracal yang ditahan oleh costae."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Inferior surface of the body of C7 and superior surface of the body of T1.",
+        "id": "Facies inferior corpus vertebrae C7 dan facies superior corpus vertebrae T1."
+      },
+      "function": {
+        "en": "Joins C7 to T1. A posterolateral herniation here compresses the C8 nerve root, which leaves between C7 and T1.",
+        "id": "Menyatukan C7 dan T1. Herniasi ke posterolateral pada tingkat ini menekan radix nervus C8, yang keluar antara C7 dan T1."
+      }
+    }
+  },
+  {
+    "key": "intervertebral-disc-t1-t2",
+    "kind": "cartilage",
+    "la": "Discus intervertebralis T1-T2",
+    "alt": ["Discus intervertebralis", "Anulus fibrosus"],
+    "en": "Intervertebral disc T1-T2",
+    "desc": {
+      "en": "The first thoracic disc, between the bodies of T1 and T2. The head of the second rib meets the side of this disc.",
+      "id": "Discus thoracalis pertama, antara corpus vertebrae T1 dan T2. Caput costae II bersendi dengan sisi discus ini."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Inferior surface of the body of T1 and superior surface of the body of T2; on each side the intra-articular ligament of the head of the second rib attaches to it.",
+        "id": "Facies inferior corpus vertebrae T1 dan facies superior corpus vertebrae T2; di setiap sisi ligamentum intraarticulare capitis costae II melekat padanya."
+      },
+      "function": {
+        "en": "Joins T1 and T2. The thoracic discs are thin, thinnest in the upper thoracic region, and the rib cage limits movement here, so thoracic disc herniations are rare.",
+        "id": "Menyatukan T1 dan T2. Discus thoracalis tipis, paling tipis di regio thoracica atas, dan kerangka dada membatasi gerak di daerah ini sehingga herniasi discus thoracalis jarang terjadi."
+      }
+    }
+  },
+  {
+    "key": "intervertebral-disc-t2-t3",
+    "kind": "cartilage",
+    "la": "Discus intervertebralis T2-T3",
+    "alt": ["Discus intervertebralis", "Anulus fibrosus"],
+    "en": "Intervertebral disc T2-T3",
+    "desc": {
+      "en": "Disc between the bodies of T2 and T3. The head of the third rib articulates with its side.",
+      "id": "Discus antara corpus vertebrae T2 dan T3. Caput costae III bersendi dengan sisi discus ini."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Inferior surface of the body of T2 and superior surface of the body of T3; the intra-articular ligament of the head of the third rib attaches to it on each side.",
+        "id": "Facies inferior corpus vertebrae T2 dan facies superior corpus vertebrae T3; ligamentum intraarticulare capitis costae III melekat padanya di setiap sisi."
+      },
+      "function": {
+        "en": "Joins T2 and T3 in the upper thoracic region, where the discs are thinnest.",
+        "id": "Menyatukan T2 dan T3 di regio thoracica atas, tempat discus paling tipis."
+      }
+    }
+  },
+  {
+    "key": "intervertebral-disc-t3-t4",
+    "kind": "cartilage",
+    "la": "Discus intervertebralis T3-T4",
+    "alt": ["Discus intervertebralis", "Anulus fibrosus"],
+    "en": "Intervertebral disc T3-T4",
+    "desc": {
+      "en": "Disc between the bodies of T3 and T4, met on each side by the head of the fourth rib.",
+      "id": "Discus antara corpus vertebrae T3 dan T4, yang di setiap sisinya bersendi dengan caput costae IV."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Inferior surface of the body of T3 and superior surface of the body of T4; the intra-articular ligament of the head of the fourth rib attaches to it.",
+        "id": "Facies inferior corpus vertebrae T3 dan facies superior corpus vertebrae T4; ligamentum intraarticulare capitis costae IV melekat padanya."
+      },
+      "function": {
+        "en": "Joins T3 and T4. Thoracic discs are almost even in height from front to back, so the thoracic kyphosis comes mainly from the wedge shape of the vertebral bodies.",
+        "id": "Menyatukan T3 dan T4. Tebal discus thoracalis hampir sama di depan dan di belakang, sehingga kyphosis thoracalis terutama berasal dari bentuk baji corpus vertebrae."
+      }
+    }
+  },
+  {
+    "key": "intervertebral-disc-t4-t5",
+    "kind": "cartilage",
+    "la": "Discus intervertebralis T4-T5",
+    "alt": ["Discus intervertebralis", "Anulus fibrosus"],
+    "en": "Intervertebral disc T4-T5",
+    "desc": {
+      "en": "Disc between the bodies of T4 and T5. It lies at the level of the sternal angle, and the transverse thoracic plane through both separates the superior from the inferior mediastinum.",
+      "id": "Discus antara corpus vertebrae T4 dan T5. Discus ini setinggi angulus sterni, dan bidang transversal thorax yang melalui keduanya memisahkan mediastinum superius dari mediastinum inferius."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Inferior surface of the body of T4 and superior surface of the body of T5; the intra-articular ligament of the head of the fifth rib attaches to it.",
+        "id": "Facies inferior corpus vertebrae T4 dan facies superior corpus vertebrae T5; ligamentum intraarticulare capitis costae V melekat padanya."
+      },
+      "function": {
+        "en": "Joins T4 and T5. Its level is a reference for the thorax: the arch of the aorta begins and ends and the trachea divides at about this plane.",
+        "id": "Menyatukan T4 dan T5. Tingkat discus ini menjadi patokan di thorax: arcus aortae berawal dan berakhir serta trachea bercabang kira-kira pada bidang ini."
+      }
+    }
+  },
+  {
+    "key": "intervertebral-disc-t5-t6",
+    "kind": "cartilage",
+    "la": "Discus intervertebralis T5-T6",
+    "alt": ["Discus intervertebralis", "Anulus fibrosus"],
+    "en": "Intervertebral disc T5-T6",
+    "desc": {
+      "en": "Disc between the bodies of T5 and T6, met on each side by the head of the sixth rib.",
+      "id": "Discus antara corpus vertebrae T5 dan T6, yang di setiap sisinya bersendi dengan caput costae VI."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Inferior surface of the body of T5 and superior surface of the body of T6; the intra-articular ligament of the head of the sixth rib attaches to it.",
+        "id": "Facies inferior corpus vertebrae T5 dan facies superior corpus vertebrae T6; ligamentum intraarticulare capitis costae VI melekat padanya."
+      },
+      "function": {
+        "en": "Joins T5 and T6 in the mid-thoracic region, where the ribs and sternum limit movement.",
+        "id": "Menyatukan T5 dan T6 di regio thoracica tengah, tempat costae dan sternum membatasi gerak."
+      }
+    }
+  },
+  {
+    "key": "intervertebral-disc-t6-t7",
+    "kind": "cartilage",
+    "la": "Discus intervertebralis T6-T7",
+    "alt": ["Discus intervertebralis", "Anulus fibrosus"],
+    "en": "Intervertebral disc T6-T7",
+    "desc": {
+      "en": "Disc between the bodies of T6 and T7, met on each side by the head of the seventh rib.",
+      "id": "Discus antara corpus vertebrae T6 dan T7, yang di setiap sisinya bersendi dengan caput costae VII."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Inferior surface of the body of T6 and superior surface of the body of T7; the intra-articular ligament of the head of the seventh rib attaches to it.",
+        "id": "Facies inferior corpus vertebrae T6 dan facies superior corpus vertebrae T7; ligamentum intraarticulare capitis costae VII melekat padanya."
+      },
+      "function": {
+        "en": "Joins T6 and T7. The thoracic vertebral canal is narrow, so a rare thoracic herniation that bulges straight back can press on the spinal cord.",
+        "id": "Menyatukan T6 dan T7. Canalis vertebralis thoracalis sempit, sehingga herniasi discus thoracalis yang jarang terjadi tetapi menonjol lurus ke belakang dapat menekan medulla spinalis."
+      }
+    }
+  },
+  {
+    "key": "intervertebral-disc-t7-t8",
+    "kind": "cartilage",
+    "la": "Discus intervertebralis T7-T8",
+    "alt": ["Discus intervertebralis", "Anulus fibrosus"],
+    "en": "Intervertebral disc T7-T8",
+    "desc": {
+      "en": "Disc between the bodies of T7 and T8, met on each side by the head of the eighth rib.",
+      "id": "Discus antara corpus vertebrae T7 dan T8, yang di setiap sisinya bersendi dengan caput costae VIII."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Inferior surface of the body of T7 and superior surface of the body of T8; the intra-articular ligament of the head of the eighth rib attaches to it.",
+        "id": "Facies inferior corpus vertebrae T7 dan facies superior corpus vertebrae T8; ligamentum intraarticulare capitis costae VIII melekat padanya."
+      },
+      "function": {
+        "en": "Joins T7 and T8 and spreads load between them; like the other thoracic discs it is thin and moves little.",
+        "id": "Menyatukan T7 dan T8 serta menyebarkan beban di antara keduanya; seperti discus thoracalis lainnya, discus ini tipis dan sedikit bergerak."
+      }
+    }
+  },
+  {
+    "key": "intervertebral-disc-t8-t9",
+    "kind": "cartilage",
+    "la": "Discus intervertebralis T8-T9",
+    "alt": ["Discus intervertebralis", "Anulus fibrosus"],
+    "en": "Intervertebral disc T8-T9",
+    "desc": {
+      "en": "Disc between the bodies of T8 and T9, met on each side by the head of the ninth rib, the lowest rib whose head regularly meets two vertebrae.",
+      "id": "Discus antara corpus vertebrae T8 dan T9, yang di setiap sisinya bersendi dengan caput costae IX, costa terbawah yang caput-nya secara tetap bersendi dengan dua vertebra."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Inferior surface of the body of T8 and superior surface of the body of T9; the intra-articular ligament of the head of the ninth rib attaches to it.",
+        "id": "Facies inferior corpus vertebrae T8 dan facies superior corpus vertebrae T9; ligamentum intraarticulare capitis costae IX melekat padanya."
+      },
+      "function": {
+        "en": "Joins T8 and T9 and spreads load between them.",
+        "id": "Menyatukan T8 dan T9 serta menyebarkan beban di antara keduanya."
+      }
+    }
+  },
+  {
+    "key": "intervertebral-disc-t9-t10",
+    "kind": "cartilage",
+    "la": "Discus intervertebralis T9-T10",
+    "alt": ["Discus intervertebralis", "Anulus fibrosus"],
+    "en": "Intervertebral disc T9-T10",
+    "desc": {
+      "en": "Disc between the bodies of T9 and T10. The tenth rib usually articulates with T10 alone, so in most people no rib head meets this disc.",
+      "id": "Discus antara corpus vertebrae T9 dan T10. Costa X biasanya hanya bersendi dengan T10, sehingga pada kebanyakan orang tidak ada caput costae yang bersendi dengan discus ini."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Inferior surface of the body of T9 and superior surface of the body of T10.",
+        "id": "Facies inferior corpus vertebrae T9 dan facies superior corpus vertebrae T10."
+      },
+      "function": {
+        "en": "Joins T9 and T10 and spreads load between them.",
+        "id": "Menyatukan T9 dan T10 serta menyebarkan beban di antara keduanya."
+      }
+    }
+  },
+  {
+    "key": "intervertebral-disc-t10-t11",
+    "kind": "cartilage",
+    "la": "Discus intervertebralis T10-T11",
+    "alt": ["Discus intervertebralis", "Anulus fibrosus"],
+    "en": "Intervertebral disc T10-T11",
+    "desc": {
+      "en": "Disc between the bodies of T10 and T11. Ribs 11 and 12 each meet a single vertebra, so the lowest thoracic discs take no part in rib joints.",
+      "id": "Discus antara corpus vertebrae T10 dan T11. Costa XI dan XII masing-masing hanya bersendi dengan satu vertebra, sehingga discus thoracalis terbawah tidak ikut membentuk sendi costa."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Inferior surface of the body of T10 and superior surface of the body of T11.",
+        "id": "Facies inferior corpus vertebrae T10 dan facies superior corpus vertebrae T11."
+      },
+      "function": {
+        "en": "Joins T10 and T11. Below this level the floating ribs restrain the column less, and the discs grow thicker toward the lumbar region.",
+        "id": "Menyatukan T10 dan T11. Di bawah tingkat ini costae fluctuantes kurang menahan gerak columna vertebralis, dan discus makin tebal ke arah regio lumbalis."
+      }
+    }
+  },
+  {
+    "key": "intervertebral-disc-t11-t12",
+    "kind": "cartilage",
+    "la": "Discus intervertebralis T11-T12",
+    "alt": ["Discus intervertebralis", "Anulus fibrosus"],
+    "en": "Intervertebral disc T11-T12",
+    "desc": {
+      "en": "Disc between the bodies of T11 and T12, just above the thoracolumbar junction.",
+      "id": "Discus antara corpus vertebrae T11 dan T12, tepat di atas peralihan thoracolumbal."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Inferior surface of the body of T11 and superior surface of the body of T12.",
+        "id": "Facies inferior corpus vertebrae T11 dan facies superior corpus vertebrae T12."
+      },
+      "function": {
+        "en": "Joins T11 and T12 and spreads load between them.",
+        "id": "Menyatukan T11 dan T12 serta menyebarkan beban di antara keduanya."
+      }
+    }
+  },
+  {
+    "key": "intervertebral-disc-t12-l1",
+    "kind": "cartilage",
+    "la": "Discus intervertebralis T12-L1",
+    "alt": ["Discus intervertebralis", "Anulus fibrosus"],
+    "en": "Intervertebral disc T12-L1",
+    "desc": {
+      "en": "Disc at the thoracolumbar junction, between the bodies of T12 and L1, where the stiff thoracic column meets the more mobile lumbar column.",
+      "id": "Discus pada peralihan thoracolumbal, antara corpus vertebrae T12 dan L1, tempat columna thoracalis yang kaku bertemu columna lumbalis yang lebih mudah bergerak."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Inferior surface of the body of T12 and superior surface of the body of L1.",
+        "id": "Facies inferior corpus vertebrae T12 dan facies superior corpus vertebrae L1."
+      },
+      "function": {
+        "en": "Joins T12 and L1. The change in mobility at this junction makes the region around T11-L2 a common site of vertebral fractures.",
+        "id": "Menyatukan T12 dan L1. Perubahan mobilitas pada peralihan ini membuat daerah sekitar T11-L2 sering menjadi lokasi fraktur vertebra."
+      }
+    }
+  },
+  {
+    "key": "intervertebral-disc-l1-l2",
+    "kind": "cartilage",
+    "la": "Discus intervertebralis L1-L2",
+    "alt": ["Discus intervertebralis", "Anulus fibrosus"],
+    "en": "Intervertebral disc L1-L2",
+    "desc": {
+      "en": "The first lumbar disc, between the bodies of L1 and L2. In adults the spinal cord usually ends (conus medullaris) at about the level of this disc.",
+      "id": "Discus lumbalis pertama, antara corpus vertebrae L1 dan L2. Pada orang dewasa medulla spinalis biasanya berakhir (conus medullaris) kira-kira setinggi discus ini."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Inferior surface of the body of L1 and superior surface of the body of L2.",
+        "id": "Facies inferior corpus vertebrae L1 dan facies superior corpus vertebrae L2."
+      },
+      "function": {
+        "en": "Joins L1 and L2. The lumbar discs are the thickest in the column and thicker in front, which shapes the lumbar lordosis.",
+        "id": "Menyatukan L1 dan L2. Discus lumbalis paling tebal di seluruh columna vertebralis dan lebih tebal di bagian depan, sehingga membentuk lordosis lumbalis."
+      }
+    }
+  },
+  {
+    "key": "intervertebral-disc-l2-l3",
+    "kind": "cartilage",
+    "la": "Discus intervertebralis L2-L3",
+    "alt": ["Discus intervertebralis", "Anulus fibrosus"],
+    "en": "Intervertebral disc L2-L3",
+    "desc": {
+      "en": "Disc between the bodies of L2 and L3, below the end of the spinal cord, where the vertebral canal holds the cauda equina.",
+      "id": "Discus antara corpus vertebrae L2 dan L3, di bawah ujung medulla spinalis, tempat canalis vertebralis berisi cauda equina."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Inferior surface of the body of L2 and superior surface of the body of L3.",
+        "id": "Facies inferior corpus vertebrae L2 dan facies superior corpus vertebrae L3."
+      },
+      "function": {
+        "en": "Joins L2 and L3. In the lumbar region a posterolateral herniation usually compresses the root that leaves one level lower, here the L3 root.",
+        "id": "Menyatukan L2 dan L3. Di regio lumbalis, herniasi ke posterolateral biasanya menekan radix yang keluar satu tingkat di bawahnya, dalam hal ini radix L3."
+      }
+    }
+  },
+  {
+    "key": "intervertebral-disc-l3-l4",
+    "kind": "cartilage",
+    "la": "Discus intervertebralis L3-L4",
+    "alt": ["Discus intervertebralis", "Anulus fibrosus"],
+    "en": "Intervertebral disc L3-L4",
+    "desc": {
+      "en": "Disc between the bodies of L3 and L4. Lumbar puncture is done below the end of the cord, usually between the spinous processes of L3 and L4 or of L4 and L5.",
+      "id": "Discus antara corpus vertebrae L3 dan L4. Pungsi lumbal dilakukan di bawah ujung medulla spinalis, biasanya di antara processus spinosus L3 dan L4 atau L4 dan L5."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Inferior surface of the body of L3 and superior surface of the body of L4.",
+        "id": "Facies inferior corpus vertebrae L3 dan facies superior corpus vertebrae L4."
+      },
+      "function": {
+        "en": "Joins L3 and L4. A posterolateral herniation here usually compresses the L4 nerve root.",
+        "id": "Menyatukan L3 dan L4. Herniasi ke posterolateral pada tingkat ini biasanya menekan radix nervus L4."
+      }
+    }
+  },
+  {
+    "key": "intervertebral-disc-l4-l5",
+    "kind": "cartilage",
+    "la": "Discus intervertebralis L4-L5",
+    "alt": ["Discus intervertebralis", "Anulus fibrosus"],
+    "en": "Intervertebral disc L4-L5",
+    "desc": {
+      "en": "Disc between the bodies of L4 and L5. Together with L5-S1 it accounts for about 95 percent of lumbar disc herniations.",
+      "id": "Discus antara corpus vertebrae L4 dan L5. Bersama discus L5-S1, discus ini mencakup sekitar 95 persen herniasi discus lumbalis."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "attach": {
+        "en": "Inferior surface of the body of L4 and superior surface of the body of L5.",
+        "id": "Facies inferior corpus vertebrae L4 dan facies superior corpus vertebrae L5."
+      },
+      "function": {
+        "en": "Joins L4 and L5 and carries a large share of the load and movement of the lower back.",
+        "id": "Menyatukan L4 dan L5 serta menanggung sebagian besar beban dan gerak punggung bawah."
+      },
+      "clinical": {
+        "en": "A posterolateral herniation compresses the L5 nerve root: pain down the lateral leg, numbness on the dorsum of the foot and weakness of extension of the big toe.",
+        "id": "Herniasi ke posterolateral menekan radix nervus L5: nyeri menjalar di sisi lateral tungkai, baal di dorsum pedis dan kelemahan ekstensi ibu jari kaki."
+      }
+    }
+  },
+  {
+    "key": "intervertebral-disc-l5-s1",
+    "kind": "cartilage",
+    "la": "Discus intervertebralis L5-S1",
+    "alt": ["Discus intervertebralis", "Anulus fibrosus", "Discus lumbosacralis"],
+    "en": "Intervertebral disc L5-S1 (lumbosacral disc)",
+    "desc": {
+      "en": "The last disc, between the body of L5 and the base of the sacrum. It is the most wedge-shaped disc, much thicker in front, and forms the lumbosacral symphysis.",
+      "id": "Discus terakhir, antara corpus vertebrae L5 dan basis ossis sacri. Discus ini paling berbentuk baji, jauh lebih tebal di bagian depan, dan membentuk symphysis lumbosacralis."
+    },
+    "facts": {
+      "joint": "lumbosacral-symphysis",
+      "attach": {
+        "en": "Inferior surface of the body of L5 and the upper surface of the body of S1 (base of the sacrum).",
+        "id": "Facies inferior corpus vertebrae L5 dan facies superior corpus vertebrae S1 (basis ossis sacri)."
+      },
+      "function": {
+        "en": "Transmits the weight of the trunk to the sacrum and forms the angle between the lumbar column and the sacrum.",
+        "id": "Meneruskan berat tubuh bagian atas ke os sacrum dan membentuk sudut antara columna lumbalis dan os sacrum."
+      },
+      "clinical": {
+        "en": "A posterolateral herniation compresses the S1 nerve root: pain down the back of the leg to the lateral foot and a weak or absent ankle reflex.",
+        "id": "Herniasi ke posterolateral menekan radix nervus S1: nyeri menjalar di belakang tungkai sampai sisi lateral kaki dan refleks Achilles melemah atau hilang."
+      }
+    }
+  },
+  {
+    "key": "nucleus-pulposus-c2-c3",
+    "kind": "organ-part",
+    "la": "Nucleus pulposus C2-C3",
+    "alt": ["Nucleus pulposus"],
+    "en": "Nucleus pulposus C2-C3",
+    "desc": {
+      "en": "Gelatinous core of the C2-C3 intervertebral disc, the highest nucleus pulposus of the column, enclosed by the anulus fibrosus.",
+      "id": "Inti gelatinosa discus intervertebralis C2-C3, nucleus pulposus yang paling atas di columna vertebralis, dibungkus oleh anulus fibrosus."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "location": {
+        "en": "Centre of the disc between C2 and C3, slightly nearer its posterior edge.",
+        "id": "Di tengah discus antara C2 dan C3, sedikit lebih dekat ke tepi posteriornya."
+      },
+      "features": {
+        "en": "A water-rich gel derived from the notochord. Under load it flattens and pushes outward on the anulus, which spreads the pressure over the end plates.",
+        "id": "Gel kaya air yang berasal dari notochorda. Saat menerima beban, nucleus memipih dan mendorong anulus fibrosus ke luar, sehingga tekanan tersebar ke seluruh lempeng ujung."
+      }
+    }
+  },
+  {
+    "key": "nucleus-pulposus-c3-c4",
+    "kind": "organ-part",
+    "la": "Nucleus pulposus C3-C4",
+    "alt": ["Nucleus pulposus"],
+    "en": "Nucleus pulposus C3-C4",
+    "desc": {
+      "en": "Gelatinous core of the C3-C4 intervertebral disc.",
+      "id": "Inti gelatinosa discus intervertebralis C3-C4."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "location": {
+        "en": "Centre of the disc between C3 and C4, a little behind the midpoint.",
+        "id": "Di tengah discus antara C3 dan C4, sedikit di belakang titik tengahnya."
+      },
+      "features": {
+        "en": "In young people it is mostly water and cannot be compressed, so it works like a ball bearing on which the vertebra above tilts and turns.",
+        "id": "Pada usia muda sebagian besar isinya air dan tidak dapat dimampatkan, sehingga bekerja seperti bantalan bola tempat vertebra di atasnya menekuk dan berputar."
+      }
+    }
+  },
+  {
+    "key": "nucleus-pulposus-c4-c5",
+    "kind": "organ-part",
+    "la": "Nucleus pulposus C4-C5",
+    "alt": ["Nucleus pulposus"],
+    "en": "Nucleus pulposus C4-C5",
+    "desc": {
+      "en": "Gelatinous core of the C4-C5 intervertebral disc.",
+      "id": "Inti gelatinosa discus intervertebralis C4-C5."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "location": {
+        "en": "Centre of the disc between C4 and C5, slightly nearer its posterior edge.",
+        "id": "Di tengah discus antara C4 dan C5, sedikit lebih dekat ke tepi posteriornya."
+      },
+      "features": {
+        "en": "When the neck bends forward the front of the disc is compressed and the nucleus is pushed backward; when the neck bends back the nucleus moves forward.",
+        "id": "Saat leher menunduk, bagian depan discus tertekan dan nucleus terdorong ke belakang; saat leher menengadah, nucleus bergeser ke depan."
+      }
+    }
+  },
+  {
+    "key": "nucleus-pulposus-c5-c6",
+    "kind": "organ-part",
+    "la": "Nucleus pulposus C5-C6",
+    "alt": ["Nucleus pulposus"],
+    "en": "Nucleus pulposus C5-C6",
+    "desc": {
+      "en": "Gelatinous core of the C5-C6 intervertebral disc, one of the two cervical levels where the nucleus herniates most often.",
+      "id": "Inti gelatinosa discus intervertebralis C5-C6, salah satu dari dua tingkat cervical tempat nucleus paling sering mengalami herniasi."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "location": {
+        "en": "Centre of the disc between C5 and C6, slightly nearer its posterior edge.",
+        "id": "Di tengah discus antara C5 dan C6, sedikit lebih dekat ke tepi posteriornya."
+      },
+      "features": {
+        "en": "Repeated flexion pushes it against the posterior anulus, where fissures let it escape.",
+        "id": "Fleksi yang berulang mendorongnya ke anulus fibrosus bagian belakang, tempat celah pada anulus memungkinkannya keluar."
+      },
+      "clinical": {
+        "en": "Herniation through a posterolateral tear compresses the C6 nerve root.",
+        "id": "Herniasi melalui robekan posterolateral menekan radix nervus C6."
+      }
+    }
+  },
+  {
+    "key": "nucleus-pulposus-c6-c7",
+    "kind": "organ-part",
+    "la": "Nucleus pulposus C6-C7",
+    "alt": ["Nucleus pulposus"],
+    "en": "Nucleus pulposus C6-C7",
+    "desc": {
+      "en": "Gelatinous core of the C6-C7 intervertebral disc, the other cervical level where herniation is most common.",
+      "id": "Inti gelatinosa discus intervertebralis C6-C7, tingkat cervical lain yang paling sering mengalami herniasi."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "location": {
+        "en": "Centre of the disc between C6 and C7, slightly nearer its posterior edge.",
+        "id": "Di tengah discus antara C6 dan C7, sedikit lebih dekat ke tepi posteriornya."
+      },
+      "features": {
+        "en": "Like the other nuclei it has no blood vessels and is nourished by diffusion through the end plates.",
+        "id": "Seperti nucleus lainnya, bagian ini tidak memiliki pembuluh darah dan mendapat nutrisi melalui difusi dari lempeng ujung."
+      },
+      "clinical": {
+        "en": "Herniation through a posterolateral tear compresses the C7 nerve root.",
+        "id": "Herniasi melalui robekan posterolateral menekan radix nervus C7."
+      }
+    }
+  },
+  {
+    "key": "nucleus-pulposus-c7-t1",
+    "kind": "organ-part",
+    "la": "Nucleus pulposus C7-T1",
+    "alt": ["Nucleus pulposus"],
+    "en": "Nucleus pulposus C7-T1",
+    "desc": {
+      "en": "Gelatinous core of the C7-T1 intervertebral disc, at the cervicothoracic junction.",
+      "id": "Inti gelatinosa discus intervertebralis C7-T1, pada peralihan cervicothoracal."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "location": {
+        "en": "Centre of the disc between C7 and T1, slightly nearer its posterior edge.",
+        "id": "Di tengah discus antara C7 dan T1, sedikit lebih dekat ke tepi posteriornya."
+      },
+      "features": {
+        "en": "A semifluid core that absorbs axial load and lets the disc deform during movement.",
+        "id": "Inti setengah cair yang meredam beban aksial dan memungkinkan discus berubah bentuk saat bergerak."
+      },
+      "clinical": {
+        "en": "Herniation here compresses the C8 nerve root, with numbness along the little finger and the medial hand.",
+        "id": "Herniasi pada tingkat ini menekan radix nervus C8, dengan rasa baal di jari kelingking dan sisi medial tangan."
+      }
+    }
+  },
+  {
+    "key": "nucleus-pulposus-t1-t2",
+    "kind": "organ-part",
+    "la": "Nucleus pulposus T1-T2",
+    "alt": ["Nucleus pulposus"],
+    "en": "Nucleus pulposus T1-T2",
+    "desc": {
+      "en": "Gelatinous core of the T1-T2 intervertebral disc, the first thoracic nucleus pulposus.",
+      "id": "Inti gelatinosa discus intervertebralis T1-T2, nucleus pulposus thoracalis yang pertama."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "location": {
+        "en": "Centre of the disc between T1 and T2, slightly nearer its posterior edge.",
+        "id": "Di tengah discus antara T1 dan T2, sedikit lebih dekat ke tepi posteriornya."
+      },
+      "features": {
+        "en": "The thoracic discs are thin and the rib cage limits their movement, so herniation of a thoracic nucleus is rare.",
+        "id": "Discus thoracalis tipis dan kerangka dada membatasi geraknya, sehingga herniasi nucleus pulposus thoracalis jarang terjadi."
+      }
+    }
+  },
+  {
+    "key": "nucleus-pulposus-t2-t3",
+    "kind": "organ-part",
+    "la": "Nucleus pulposus T2-T3",
+    "alt": ["Nucleus pulposus"],
+    "en": "Nucleus pulposus T2-T3",
+    "desc": {
+      "en": "Gelatinous core of the T2-T3 intervertebral disc.",
+      "id": "Inti gelatinosa discus intervertebralis T2-T3."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "location": {
+        "en": "Centre of the disc between T2 and T3, slightly nearer its posterior edge.",
+        "id": "Di tengah discus antara T2 dan T3, sedikit lebih dekat ke tepi posteriornya."
+      },
+      "features": {
+        "en": "With age it loses water and proteoglycans and gains collagen, so the disc becomes thinner and stiffer and the nucleus becomes harder to tell apart from the anulus.",
+        "id": "Seiring usia, nucleus kehilangan air dan proteoglikan serta bertambah kolagennya, sehingga discus makin tipis dan kaku dan nucleus makin sulit dibedakan dari anulus fibrosus."
+      }
+    }
+  },
+  {
+    "key": "nucleus-pulposus-t3-t4",
+    "kind": "organ-part",
+    "la": "Nucleus pulposus T3-T4",
+    "alt": ["Nucleus pulposus"],
+    "en": "Nucleus pulposus T3-T4",
+    "desc": {
+      "en": "Gelatinous core of the T3-T4 intervertebral disc.",
+      "id": "Inti gelatinosa discus intervertebralis T3-T4."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "location": {
+        "en": "Centre of the disc between T3 and T4. Behind it lie the posterior anulus, the posterior longitudinal ligament, the epidural space and then the spinal cord.",
+        "id": "Di tengah discus antara T3 dan T4. Di belakangnya terdapat anulus fibrosus bagian posterior, ligamentum longitudinale posterius, spatium epidurale, lalu medulla spinalis."
+      },
+      "features": {
+        "en": "A water-rich gel that spreads load evenly over the vertebral end plates.",
+        "id": "Gel kaya air yang menyebarkan beban secara merata ke lempeng ujung corpus vertebrae."
+      }
+    }
+  },
+  {
+    "key": "nucleus-pulposus-t4-t5",
+    "kind": "organ-part",
+    "la": "Nucleus pulposus T4-T5",
+    "alt": ["Nucleus pulposus"],
+    "en": "Nucleus pulposus T4-T5",
+    "desc": {
+      "en": "Gelatinous core of the T4-T5 intervertebral disc, which lies at the level of the sternal angle.",
+      "id": "Inti gelatinosa discus intervertebralis T4-T5, yang terletak setinggi angulus sterni."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "location": {
+        "en": "Centre of the disc between T4 and T5, slightly nearer its posterior edge.",
+        "id": "Di tengah discus antara T4 dan T5, sedikit lebih dekat ke tepi posteriornya."
+      },
+      "features": {
+        "en": "Incompressible but deformable: it changes shape as the vertebrae tilt and keeps the anulus under even tension.",
+        "id": "Tidak dapat dimampatkan tetapi dapat berubah bentuk: nucleus menyesuaikan bentuknya saat vertebra menekuk dan menjaga tegangan anulus fibrosus tetap merata."
+      }
+    }
+  },
+  {
+    "key": "nucleus-pulposus-t5-t6",
+    "kind": "organ-part",
+    "la": "Nucleus pulposus T5-T6",
+    "alt": ["Nucleus pulposus"],
+    "en": "Nucleus pulposus T5-T6",
+    "desc": {
+      "en": "Gelatinous core of the T5-T6 intervertebral disc.",
+      "id": "Inti gelatinosa discus intervertebralis T5-T6."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "location": {
+        "en": "Centre of the disc between T5 and T6, slightly nearer its posterior edge.",
+        "id": "Di tengah discus antara T5 dan T6, sedikit lebih dekat ke tepi posteriornya."
+      },
+      "features": {
+        "en": "It has no blood vessels in the adult and depends on diffusion through the end plates for nutrition.",
+        "id": "Pada orang dewasa bagian ini tidak memiliki pembuluh darah dan bergantung pada difusi dari lempeng ujung untuk nutrisinya."
+      }
+    }
+  },
+  {
+    "key": "nucleus-pulposus-t6-t7",
+    "kind": "organ-part",
+    "la": "Nucleus pulposus T6-T7",
+    "alt": ["Nucleus pulposus"],
+    "en": "Nucleus pulposus T6-T7",
+    "desc": {
+      "en": "Gelatinous core of the T6-T7 intervertebral disc.",
+      "id": "Inti gelatinosa discus intervertebralis T6-T7."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "location": {
+        "en": "Centre of the disc between T6 and T7, slightly nearer its posterior edge.",
+        "id": "Di tengah discus antara T6 dan T7, sedikit lebih dekat ke tepi posteriornya."
+      },
+      "features": {
+        "en": "Water moves out of the nucleus under load during the day and back in during rest, so a person is slightly taller in the morning than in the evening.",
+        "id": "Air keluar dari nucleus saat menerima beban sepanjang hari dan masuk kembali saat beristirahat, sehingga tinggi badan sedikit lebih tinggi pada pagi hari dibanding sore hari."
+      }
+    }
+  },
+  {
+    "key": "nucleus-pulposus-t7-t8",
+    "kind": "organ-part",
+    "la": "Nucleus pulposus T7-T8",
+    "alt": ["Nucleus pulposus"],
+    "en": "Nucleus pulposus T7-T8",
+    "desc": {
+      "en": "Gelatinous core of the T7-T8 intervertebral disc.",
+      "id": "Inti gelatinosa discus intervertebralis T7-T8."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "location": {
+        "en": "Centre of the disc between T7 and T8, slightly nearer its posterior edge.",
+        "id": "Di tengah discus antara T7 dan T8, sedikit lebih dekat ke tepi posteriornya."
+      },
+      "features": {
+        "en": "Its pressure keeps the fibres of the anulus taut, which makes the disc firm during small movements.",
+        "id": "Tekanannya menjaga serabut anulus fibrosus tetap tegang, sehingga discus tetap kokoh saat gerakan kecil."
+      }
+    }
+  },
+  {
+    "key": "nucleus-pulposus-t8-t9",
+    "kind": "organ-part",
+    "la": "Nucleus pulposus T8-T9",
+    "alt": ["Nucleus pulposus"],
+    "en": "Nucleus pulposus T8-T9",
+    "desc": {
+      "en": "Gelatinous core of the T8-T9 intervertebral disc.",
+      "id": "Inti gelatinosa discus intervertebralis T8-T9."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "location": {
+        "en": "Centre of the disc between T8 and T9, slightly nearer its posterior edge.",
+        "id": "Di tengah discus antara T8 dan T9, sedikit lebih dekat ke tepi posteriornya."
+      },
+      "features": {
+        "en": "Because the nucleus sits slightly behind the centre, the posterior anulus is thinner and takes more strain.",
+        "id": "Karena nucleus terletak sedikit di belakang titik tengah, anulus fibrosus bagian belakang lebih tipis dan menanggung regangan yang lebih besar."
+      }
+    }
+  },
+  {
+    "key": "nucleus-pulposus-t9-t10",
+    "kind": "organ-part",
+    "la": "Nucleus pulposus T9-T10",
+    "alt": ["Nucleus pulposus"],
+    "en": "Nucleus pulposus T9-T10",
+    "desc": {
+      "en": "Gelatinous core of the T9-T10 intervertebral disc.",
+      "id": "Inti gelatinosa discus intervertebralis T9-T10."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "location": {
+        "en": "Centre of the disc between T9 and T10, slightly nearer its posterior edge.",
+        "id": "Di tengah discus antara T9 dan T10, sedikit lebih dekat ke tepi posteriornya."
+      },
+      "features": {
+        "en": "Its proteoglycans bind water, and the bound water gives the nucleus its turgor.",
+        "id": "Proteoglikan di dalamnya mengikat air, dan air yang terikat inilah yang memberi tekanan turgor pada nucleus."
+      }
+    }
+  },
+  {
+    "key": "nucleus-pulposus-t10-t11",
+    "kind": "organ-part",
+    "la": "Nucleus pulposus T10-T11",
+    "alt": ["Nucleus pulposus"],
+    "en": "Nucleus pulposus T10-T11",
+    "desc": {
+      "en": "Gelatinous core of the T10-T11 intervertebral disc.",
+      "id": "Inti gelatinosa discus intervertebralis T10-T11."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "location": {
+        "en": "Centre of the disc between T10 and T11, slightly nearer its posterior edge.",
+        "id": "Di tengah discus antara T10 dan T11, sedikit lebih dekat ke tepi posteriornya."
+      },
+      "features": {
+        "en": "When the nucleus degenerates the disc loses height, and the intervertebral foramina beside it become smaller.",
+        "id": "Bila nucleus mengalami degenerasi, tinggi discus berkurang dan foramen intervertebrale di sampingnya menjadi lebih sempit."
+      }
+    }
+  },
+  {
+    "key": "nucleus-pulposus-t11-t12",
+    "kind": "organ-part",
+    "la": "Nucleus pulposus T11-T12",
+    "alt": ["Nucleus pulposus"],
+    "en": "Nucleus pulposus T11-T12",
+    "desc": {
+      "en": "Gelatinous core of the T11-T12 intervertebral disc.",
+      "id": "Inti gelatinosa discus intervertebralis T11-T12."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "location": {
+        "en": "Centre of the disc between T11 and T12, slightly nearer its posterior edge.",
+        "id": "Di tengah discus antara T11 dan T12, sedikit lebih dekat ke tepi posteriornya."
+      },
+      "features": {
+        "en": "Thoracic disc herniation is rare, and most of the cases occur in the lower thoracic discs, where the column moves more.",
+        "id": "Herniasi discus thoracalis jarang terjadi, dan sebagian besar kasusnya terjadi pada discus thoracalis bawah, tempat columna vertebralis lebih banyak bergerak."
+      }
+    }
+  },
+  {
+    "key": "nucleus-pulposus-t12-l1",
+    "kind": "organ-part",
+    "la": "Nucleus pulposus T12-L1",
+    "alt": ["Nucleus pulposus"],
+    "en": "Nucleus pulposus T12-L1",
+    "desc": {
+      "en": "Gelatinous core of the T12-L1 intervertebral disc, at the thoracolumbar junction.",
+      "id": "Inti gelatinosa discus intervertebralis T12-L1, pada peralihan thoracolumbal."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "location": {
+        "en": "Centre of the disc between T12 and L1, slightly nearer its posterior edge; behind it lies the lower end of the spinal cord.",
+        "id": "Di tengah discus antara T12 dan L1, sedikit lebih dekat ke tepi posteriornya; di belakangnya terdapat ujung bawah medulla spinalis."
+      },
+      "features": {
+        "en": "From this level down the nuclei become larger, in step with the thicker lumbar discs.",
+        "id": "Mulai tingkat ini ke bawah nucleus makin besar, sejalan dengan discus lumbalis yang lebih tebal."
+      }
+    }
+  },
+  {
+    "key": "nucleus-pulposus-l1-l2",
+    "kind": "organ-part",
+    "la": "Nucleus pulposus L1-L2",
+    "alt": ["Nucleus pulposus"],
+    "en": "Nucleus pulposus L1-L2",
+    "desc": {
+      "en": "Gelatinous core of the L1-L2 intervertebral disc, the first lumbar nucleus pulposus.",
+      "id": "Inti gelatinosa discus intervertebralis L1-L2, nucleus pulposus lumbalis yang pertama."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "location": {
+        "en": "Centre of the disc between L1 and L2, slightly nearer its posterior edge, in front of the conus medullaris and the start of the cauda equina.",
+        "id": "Di tengah discus antara L1 dan L2, sedikit lebih dekat ke tepi posteriornya, di depan conus medullaris dan pangkal cauda equina."
+      },
+      "features": {
+        "en": "A large, water-rich core that absorbs the axial load of the trunk.",
+        "id": "Inti yang besar dan kaya air, yang meredam beban aksial dari batang tubuh."
+      }
+    }
+  },
+  {
+    "key": "nucleus-pulposus-l2-l3",
+    "kind": "organ-part",
+    "la": "Nucleus pulposus L2-L3",
+    "alt": ["Nucleus pulposus"],
+    "en": "Nucleus pulposus L2-L3",
+    "desc": {
+      "en": "Gelatinous core of the L2-L3 intervertebral disc.",
+      "id": "Inti gelatinosa discus intervertebralis L2-L3."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "location": {
+        "en": "Centre of the disc between L2 and L3, slightly nearer its posterior edge, in front of the cauda equina.",
+        "id": "Di tengah discus antara L2 dan L3, sedikit lebih dekat ke tepi posteriornya, di depan cauda equina."
+      },
+      "features": {
+        "en": "Pressure in a lumbar nucleus is lowest lying down, higher standing, higher still sitting and leaning forward, and highest when lifting with a bent back.",
+        "id": "Tekanan dalam nucleus lumbalis paling rendah saat berbaring, lebih tinggi saat berdiri, makin tinggi saat duduk sambil membungkuk, dan paling tinggi saat mengangkat beban dengan punggung membungkuk."
+      }
+    }
+  },
+  {
+    "key": "nucleus-pulposus-l3-l4",
+    "kind": "organ-part",
+    "la": "Nucleus pulposus L3-L4",
+    "alt": ["Nucleus pulposus"],
+    "en": "Nucleus pulposus L3-L4",
+    "desc": {
+      "en": "Gelatinous core of the L3-L4 intervertebral disc.",
+      "id": "Inti gelatinosa discus intervertebralis L3-L4."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "location": {
+        "en": "Centre of the disc between L3 and L4, slightly nearer its posterior edge.",
+        "id": "Di tengah discus antara L3 dan L4, sedikit lebih dekat ke tepi posteriornya."
+      },
+      "features": {
+        "en": "Lies in front of the cauda equina at the level usually chosen for lumbar puncture.",
+        "id": "Terletak di depan cauda equina, setinggi tempat yang biasa dipilih untuk pungsi lumbal."
+      },
+      "clinical": {
+        "en": "A herniated nucleus pulposus at this level usually compresses the L4 root, weakening knee extension and reducing the knee jerk.",
+        "id": "Hernia nucleus pulposus (HNP) pada tingkat ini biasanya menekan radix L4, sehingga ekstensi lutut melemah dan refleks patella menurun."
+      }
+    }
+  },
+  {
+    "key": "nucleus-pulposus-l4-l5",
+    "kind": "organ-part",
+    "la": "Nucleus pulposus L4-L5",
+    "alt": ["Nucleus pulposus"],
+    "en": "Nucleus pulposus L4-L5",
+    "desc": {
+      "en": "Gelatinous core of the L4-L5 intervertebral disc, the most common level of lumbar disc herniation together with L5-S1.",
+      "id": "Inti gelatinosa discus intervertebralis L4-L5, bersama L5-S1 merupakan tingkat herniasi discus lumbalis yang paling sering."
+    },
+    "facts": {
+      "joint": "intervertebral-symphysis",
+      "location": {
+        "en": "Centre of the disc between L4 and L5, slightly nearer its posterior edge.",
+        "id": "Di tengah discus antara L4 dan L5, sedikit lebih dekat ke tepi posteriornya."
+      },
+      "features": {
+        "en": "Repeated bending and lifting drive it backward against the posterolateral anulus, the usual exit point.",
+        "id": "Gerakan membungkuk dan mengangkat beban yang berulang mendorongnya ke belakang, ke arah anulus fibrosus bagian posterolateral, tempat nucleus biasanya keluar."
+      },
+      "clinical": {
+        "en": "A herniated nucleus pulposus here compresses the L5 root.",
+        "id": "Hernia nucleus pulposus (HNP) pada tingkat ini menekan radix L5."
+      }
+    }
+  },
+  {
+    "key": "nucleus-pulposus-l5-s1",
+    "kind": "organ-part",
+    "la": "Nucleus pulposus L5-S1",
+    "alt": ["Nucleus pulposus"],
+    "en": "Nucleus pulposus L5-S1",
+    "desc": {
+      "en": "Gelatinous core of the lumbosacral (L5-S1) intervertebral disc, the lowest nucleus pulposus.",
+      "id": "Inti gelatinosa discus intervertebralis lumbosacral (L5-S1), nucleus pulposus yang paling bawah."
+    },
+    "facts": {
+      "joint": "lumbosacral-symphysis",
+      "location": {
+        "en": "Centre of the disc between L5 and the sacrum, slightly nearer its posterior edge.",
+        "id": "Di tengah discus antara L5 dan os sacrum, sedikit lebih dekat ke tepi posteriornya."
+      },
+      "features": {
+        "en": "Carries the weight of the trunk at the point where the column meets the sloping base of the sacrum.",
+        "id": "Menanggung berat batang tubuh pada titik pertemuan columna vertebralis dengan basis ossis sacri yang miring."
+      },
+      "clinical": {
+        "en": "A herniated nucleus pulposus here compresses the S1 root. A large central herniation can compress the cauda equina, with saddle anaesthesia and bladder dysfunction; this needs urgent surgery.",
+        "id": "Hernia nucleus pulposus (HNP) pada tingkat ini menekan radix S1. Herniasi sentral yang besar dapat menekan cauda equina, dengan baal di daerah sadel dan gangguan berkemih; keadaan ini memerlukan operasi segera."
+      }
+    }
+  },
+  {
+    "key": "temporomandibular-joint",
+    "kind": "joint",
+    "la": "Articulatio temporomandibularis",
+    "alt": ["Art. temporomandibularis"],
+    "en": "Temporomandibular joint",
+    "desc": {
+      "en": "Synovial joint between the head of the mandible and the mandibular fossa and articular tubercle of the temporal bone. An articular disc divides it into an upper compartment, where the disc and head glide forward, and a lower compartment, where the head rotates.",
+      "id": "Sendi sinovial antara caput mandibulae dan fossa mandibularis serta tuberculum articulare os temporale. Discus articularis membaginya menjadi kompartemen atas, tempat discus dan caput mandibulae meluncur ke depan, dan kompartemen bawah, tempat caput mandibulae berputar."
+    },
+    "facts": {
+      "class": "Articulatio synovialis",
+      "subtype": "Ginglymus",
+      "complexity": "Articulatio simplex",
+      "surfaces": "Caput mandibulae; fossa mandibularis et tuberculum articulare ossis temporalis",
+      "movements": {
+        "en": "Depression and elevation of the mandible (opening and closing the mouth), protrusion and retrusion, and side-to-side grinding. Wide opening combines rotation in the lower compartment with forward gliding in the upper one.",
+        "id": "Depresi dan elevasi mandibula (membuka dan menutup mulut), protrusi dan retrusi, serta gerak menggiling ke samping. Membuka mulut lebar menggabungkan rotasi di kompartemen bawah dengan gerak meluncur ke depan di kompartemen atas."
+      },
+      "ligaments": ["Ligamentum laterale", "Ligamentum sphenomandibulare", "Ligamentum stylomandibulare"],
+      "discs": "Discus articularis",
+      "clinical": {
+        "en": "When the mouth opens too wide, as in a big yawn, the head of the mandible can slide in front of the articular tubercle and lock there (anterior dislocation).",
+        "id": "Bila mulut terbuka terlalu lebar, misalnya saat menguap lebar, caput mandibulae dapat tergelincir ke depan tuberculum articulare dan terkunci di sana (dislokasi anterior)."
+      },
+      "note": {
+        "en": "It is usually described as a modified hinge (ginglymoarthrodial) joint, because it both rotates and glides.",
+        "id": "Sendi ini biasanya digambarkan sebagai sendi engsel yang termodifikasi (ginglymoarthrodial), karena dapat berputar sekaligus meluncur."
+      }
+    },
+    "quiz": {
+      "type": ["Ginglymus", "ginglymus", "ginglymus (hinge)", "ginglymoarthrodialis"],
+      "class": ["Articulatio synovialis", "synovialis", "diarthrosis", "sendi sinovial"]
+    }
+  },
+  {
+    "key": "articular-capsule-of-temporomandibular-joint",
+    "kind": "membrane",
+    "la": "Capsula articularis articulationis temporomandibularis",
+    "alt": ["Capsula articularis temporomandibularis", "Capsula articularis"],
+    "en": "Articular capsule of temporomandibular joint",
+    "desc": {
+      "en": "Loose fibrous capsule of the temporomandibular joint. The margin of the articular disc is attached to it all round.",
+      "id": "Capsula fibrosa sendi temporomandibularis yang longgar. Tepi discus articularis melekat padanya di sekelilingnya."
+    },
+    "facts": {
+      "joint": "temporomandibular-joint",
+      "attach": {
+        "en": "Above: margins of the mandibular fossa and the articular tubercle. Below: neck of the mandible.",
+        "id": "Di atas: tepi fossa mandibularis dan tuberculum articulare. Di bawah: collum mandibulae."
+      },
+      "function": {
+        "en": "Encloses the upper and lower synovial compartments. It is loose above the disc, which allows the forward glide, and laterally it is thickened as the lateral ligament.",
+        "id": "Membungkus kompartemen sinovial atas dan bawah. Bagian di atas discus longgar sehingga memungkinkan gerak meluncur ke depan, dan di lateral capsula menebal menjadi ligamentum laterale."
+      }
+    }
+  },
+  {
+    "key": "articular-disc-of-temporomandibular-joint",
+    "kind": "cartilage",
+    "la": "Discus articularis articulationis temporomandibularis",
+    "alt": ["Discus articularis", "Discus articularis temporomandibularis"],
+    "en": "Articular disc of temporomandibular joint",
+    "desc": {
+      "en": "Oval plate of dense fibrous tissue between the head of the mandible and the temporal bone, thicker at its front and back and thin in the middle. It divides the joint into upper and lower synovial cavities.",
+      "id": "Lempeng lonjong dari jaringan fibrosa padat di antara caput mandibulae dan os temporale, lebih tebal di bagian depan dan belakang serta tipis di bagian tengah. Discus ini membagi sendi menjadi rongga sinovial atas dan bawah."
+    },
+    "facts": {
+      "joint": "temporomandibular-joint",
+      "attach": {
+        "en": "Its margin joins the capsule and the medial and lateral poles of the head of the mandible. In front, fibres of the superior head of lateral pterygoid attach to it; behind, it continues into loose vascular retrodiscal tissue.",
+        "id": "Tepinya melekat pada capsula serta kutub medial dan lateral caput mandibulae. Di depan, serabut caput superius m. pterygoideus lateralis melekat padanya; di belakang, discus berlanjut menjadi jaringan retrodiscal yang longgar dan kaya pembuluh darah."
+      },
+      "function": {
+        "en": "Fits the rounded head of the mandible to the uneven temporal surface and moves forward with it when the mouth opens wide. If the disc slips forward and fails to return, the jaw clicks or locks.",
+        "id": "Menyesuaikan caput mandibulae yang bulat dengan permukaan os temporale yang tidak rata dan ikut bergerak ke depan saat mulut terbuka lebar. Bila discus tergeser ke depan dan tidak kembali, rahang berbunyi klik atau terkunci."
+      }
+    }
+  },
+  {
+    "key": "lateral-temporomandibular-ligament",
+    "kind": "ligament",
+    "la": "Ligamentum laterale articulationis temporomandibularis",
+    "alt": ["Ligamentum laterale", "Lig. laterale", "Ligamentum temporomandibulare", "Ligamentum temporomandibulare laterale"],
+    "en": "Lateral (temporomandibular) ligament",
+    "desc": {
+      "en": "Thickened lateral part of the capsule of the temporomandibular joint.",
+      "id": "Bagian lateral capsula sendi temporomandibularis yang menebal."
+    },
+    "facts": {
+      "joint": "temporomandibular-joint",
+      "attach": {
+        "en": "From the articular tubercle and the zygomatic process of the temporal bone, running downward and backward to the lateral surface and posterior border of the neck of the mandible.",
+        "id": "Dari tuberculum articulare dan processus zygomaticus os temporale, berjalan ke bawah dan ke belakang menuju permukaan lateral dan tepi posterior collum mandibulae."
+      },
+      "function": {
+        "en": "Strengthens the joint laterally and, with the postglenoid (retroarticular) tubercle, keeps the head of the mandible from being driven backward.",
+        "id": "Memperkuat sendi di sisi lateral dan, bersama tuberculum retroarticulare, mencegah caput mandibulae terdorong ke belakang."
+      }
+    }
+  },
+  {
+    "key": "cranial-syndesmoses",
+    "kind": "joint",
+    "la": "Syndesmoses cranii",
+    "alt": ["Syndesmosis cranii"],
+    "en": "Cranial syndesmoses",
+    "desc": {
+      "en": "Ligaments that bind bones of the skull to each other or to the mandible without a joint cavity. In the model this group holds the stylohyoid, pterygospinous, sphenomandibular and stylomandibular ligaments.",
+      "id": "Ligamen yang mengikat tulang-tulang tengkorak satu sama lain atau dengan mandibula tanpa rongga sendi. Dalam model ini kelompok tersebut berisi lig. stylohyoideum, lig. pterygospinale, lig. sphenomandibulare dan lig. stylomandibulare."
+    },
+    "facts": {
+      "class": "Junctura fibrosa",
+      "subtype": "Syndesmosis",
+      "ligaments": ["Ligamentum stylohyoideum", "Ligamentum pterygospinale", "Ligamentum sphenomandibulare", "Ligamentum stylomandibulare"],
+      "note": {
+        "en": "TA98 lists the sphenomandibular ligament with the temporomandibular joint, and textbooks treat it and the stylomandibular ligament as accessory ligaments of that joint.",
+        "id": "TA98 mencantumkan lig. sphenomandibulare pada sendi temporomandibularis, dan buku ajar menganggapnya bersama lig. stylomandibulare sebagai ligamen aksesori sendi tersebut."
+      }
+    },
+    "quiz": {
+      "type": ["Syndesmosis", "syndesmosis"],
+      "class": ["Junctura fibrosa", "fibrosa", "articulatio fibrosa", "sendi fibrosa"]
+    }
+  },
+  {
+    "key": "pterygospinous-ligament",
+    "kind": "ligament",
+    "la": "Ligamentum pterygospinale",
+    "alt": ["Lig. pterygospinale"],
+    "en": "Pterygospinous ligament",
+    "desc": {
+      "en": "Band between the spine of the sphenoid and the upper part of the posterior border of the lateral pterygoid plate.",
+      "id": "Pita antara spina ossis sphenoidalis dan bagian atas tepi posterior lamina lateralis processus pterygoidei."
+    },
+    "facts": {
+      "joint": "cranial-syndesmoses",
+      "attach": {
+        "en": "Spine of the sphenoid bone to the posterior border of the lateral pterygoid plate, near its upper end.",
+        "id": "Spina ossis sphenoidalis ke tepi posterior lamina lateralis processus pterygoidei, di dekat ujung atasnya."
+      },
+      "function": {
+        "en": "When it ossifies it forms a bony bar that closes a pterygospinous foramen; the bar can press on branches of the mandibular nerve and block needles aimed at the foramen ovale.",
+        "id": "Bila mengalami osifikasi, ligamen ini membentuk jembatan tulang yang menutup foramen pterygospinosum; jembatan ini dapat menekan cabang n. mandibularis dan menghalangi jarum yang diarahkan ke foramen ovale."
+      }
+    }
+  },
+  {
+    "key": "sphenomandibular-ligament",
+    "kind": "ligament",
+    "la": "Ligamentum sphenomandibulare",
+    "alt": ["Lig. sphenomandibulare"],
+    "en": "Sphenomandibular ligament",
+    "desc": {
+      "en": "Flat band on the medial side of the temporomandibular joint, from the spine of the sphenoid to the lingula of the mandible. It develops from the sheath of Meckel's cartilage of the first pharyngeal arch.",
+      "id": "Pita pipih di sisi medial sendi temporomandibularis, dari spina ossis sphenoidalis ke lingula mandibulae. Ligamen ini berkembang dari selubung cartilago Meckel pada arcus pharyngeus pertama."
+    },
+    "facts": {
+      "joint": "cranial-syndesmoses",
+      "attach": {
+        "en": "Spine of the sphenoid bone to the lingula and the lower margin of the mandibular foramen.",
+        "id": "Spina ossis sphenoidalis ke lingula dan tepi bawah foramen mandibulae."
+      },
+      "function": {
+        "en": "Accessory ligament of the temporomandibular joint that acts as a swinging support for the mandible. The inferior alveolar nerve and vessels pass between it and the ramus to reach the mandibular foramen, which matters for the inferior alveolar nerve block.",
+        "id": "Ligamen aksesori sendi temporomandibularis yang menjadi penyangga ayun bagi mandibula. N. alveolaris inferior dan pembuluh darahnya lewat di antara ligamen ini dan ramus mandibulae menuju foramen mandibulae, hal yang perlu diperhatikan pada blok n. alveolaris inferior."
+      }
+    }
+  },
+  {
+    "key": "stylomandibular-ligament",
+    "kind": "ligament",
+    "la": "Ligamentum stylomandibulare",
+    "alt": ["Lig. stylomandibulare"],
+    "en": "Stylomandibular ligament",
+    "desc": {
+      "en": "Thickened band of the deep cervical fascia, where it forms the capsule of the parotid gland, running from the styloid process to the angle of the mandible.",
+      "id": "Pita penebalan fascia cervicalis profunda, pada bagian yang membentuk capsula glandula parotidea, berjalan dari processus styloideus ke angulus mandibulae."
+    },
+    "facts": {
+      "joint": "cranial-syndesmoses",
+      "attach": {
+        "en": "Styloid process of the temporal bone to the posterior border of the ramus near the angle of the mandible.",
+        "id": "Processus styloideus os temporale ke tepi posterior ramus mandibulae di dekat angulus mandibulae."
+      },
+      "function": {
+        "en": "Accessory ligament of the temporomandibular joint that adds little to its strength. It separates the parotid gland from the submandibular gland.",
+        "id": "Ligamen aksesori sendi temporomandibularis yang hanya sedikit menambah kekuatannya. Ligamen ini memisahkan glandula parotidea dari glandula submandibularis."
+      }
+    }
+  }
+]

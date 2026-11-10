@@ -1,0 +1,478 @@
+[
+  {
+    "key": "external-intercostal-muscles",
+    "kind": "muscle",
+    "la": "Musculi intercostales externi",
+    "alt": ["Mm. intercostales externi", "Musculus intercostalis externus", "M. intercostalis externus", "Intercostales externi"],
+    "en": "External intercostal muscles",
+    "desc": {
+      "en": "Outer layer of the intercostal muscles: eleven pairs that fill the intercostal spaces from the tubercles of the ribs to the costochondral junctions, where the external intercostal membrane takes over. Their fibres run downward and forward, which on the front of the chest means inferomedially, like hands slipped into front pockets.",
+      "id": "Lapisan luar otot intercostal: sebelas pasang otot yang mengisi spatium intercostale dari tuberculum costae sampai batas costochondral, lalu digantikan membrana intercostalis externa. Serabutnya berjalan ke bawah dan ke depan, yang pada dada depan berarti ke arah inferomedial, seperti tangan yang dimasukkan ke saku depan celana."
+    },
+    "facts": {
+      "group": {
+        "en": "Muscles of the thoracic wall, outer layer of the intercostal muscles",
+        "id": "Otot dinding thorax, lapisan luar otot intercostal"
+      },
+      "origin": {
+        "la": "Margo inferior costae superioris",
+        "en": "Lower border of the rib above"
+      },
+      "insertion": {
+        "la": "Margo superior costae inferioris",
+        "en": "Upper border of the rib below"
+      },
+      "action": {
+        "en": "Raise the ribs and are most active in inspiration, especially forced inspiration. With the other intercostal layers they keep the intercostal spaces from bulging out or being drawn in during breathing.",
+        "id": "Mengangkat costa (elevasi) dan paling aktif pada inspirasi, terutama inspirasi kuat. Bersama lapisan intercostal lainnya, otot ini menjaga spatium intercostale agar tidak menggembung atau tertarik ke dalam saat bernapas."
+      },
+      "nerve": {
+        "la": "Nervi intercostales",
+        "roots": "T1-T11"
+      },
+      "blood": ["Arteriae intercostales posteriores", "Rami intercostales anteriores arteriae thoracicae internae", "Arteria musculophrenica"]
+    },
+    "quiz": {
+      "origin": ["Margo inferior costae", "margo inferior costae superioris", "tepi bawah costa di atasnya", "tepi inferior costa atas"],
+      "insertion": ["Margo superior costae", "margo superior costae inferioris", "tepi atas costa di bawahnya", "tepi superior costa bawah"],
+      "nerve": ["Nervi intercostales", "N. intercostalis", "Nn. intercostales", "nervus intercostalis T1-T11"],
+      "action": ["Elevatio costarum", "elevasi costa", "mengangkat costa", "inspirasi", "membantu inspirasi"]
+    }
+  },
+  {
+    "key": "internal-intercostal-muscles",
+    "kind": "muscle",
+    "la": "Musculi intercostales interni",
+    "alt": ["Mm. intercostales interni", "Musculus intercostalis internus", "M. intercostalis internus", "Intercostales interni"],
+    "en": "Internal intercostal muscles",
+    "desc": {
+      "en": "Middle layer of the intercostal muscles, deep to the external intercostals, with fibres at right angles to them that run downward and backward. They reach from the sternum to the angles of the ribs, and the internal intercostal membrane carries the layer on to the vertebral column.",
+      "id": "Lapisan tengah otot intercostal, di sebelah dalam m. intercostalis externus, dengan serabut yang tegak lurus terhadapnya dan berjalan ke bawah dan ke belakang. Otot ini terbentang dari sternum sampai angulus costae, lalu membrana intercostalis interna melanjutkan lapisan ini sampai columna vertebralis."
+    },
+    "facts": {
+      "group": {
+        "en": "Muscles of the thoracic wall, middle layer of the intercostal muscles",
+        "id": "Otot dinding thorax, lapisan tengah otot intercostal"
+      },
+      "origin": {
+        "la": "Margo inferior costae superioris (labium laterale sulci costae)",
+        "en": "Lower border of the rib above, from the outer lip of the costal groove"
+      },
+      "insertion": {
+        "la": "Margo superior costae inferioris",
+        "en": "Upper border of the rib below"
+      },
+      "action": {
+        "en": "The interosseous part, between the bony ribs, lowers the ribs in forced expiration. The interchondral part, between the costal cartilages beside the sternum, raises the ribs in inspiration. The whole layer also keeps the intercostal spaces firm.",
+        "id": "Bagian interosseus, di antara bagian tulang costa, menurunkan costa pada ekspirasi kuat. Bagian interkondral, di antara cartilago costalis di samping sternum, mengangkat costa pada inspirasi. Seluruh lapisan ini juga menjaga spatium intercostale tetap kaku."
+      },
+      "nerve": {
+        "la": "Nervi intercostales",
+        "roots": "T1-T11"
+      },
+      "blood": ["Arteriae intercostales posteriores", "Rami intercostales anteriores arteriae thoracicae internae", "Arteria musculophrenica"]
+    },
+    "quiz": {
+      "origin": ["Sulcus costae", "margo inferior costae superioris", "tepi bawah costa di atasnya", "labium laterale sulci costae"],
+      "insertion": ["Margo superior costae", "margo superior costae inferioris", "tepi atas costa di bawahnya"],
+      "nerve": ["Nervi intercostales", "N. intercostalis", "Nn. intercostales", "nervus intercostalis T1-T11"],
+      "action": ["Depressio costarum", "depresi costa", "menurunkan costa", "ekspirasi kuat", "ekspirasi paksa"]
+    }
+  },
+  {
+    "key": "innermost-intercostal-muscles",
+    "kind": "muscle",
+    "la": "Musculi intercostales intimi",
+    "alt": ["Mm. intercostales intimi", "Musculus intercostalis intimus", "M. intercostalis intimus", "Intercostales intimi"],
+    "en": "Innermost intercostal muscles",
+    "desc": {
+      "en": "Deepest layer of the intercostal muscles, with fibres in the same direction as the internal intercostals. They occupy the middle, lateral part of each space and are best developed in the lower spaces. The intercostal vein, artery and nerve run between them and the internal intercostals, so these muscles lie deep to the neurovascular bundle.",
+      "id": "Lapisan terdalam otot intercostal, dengan arah serabut sama seperti m. intercostalis internus. Otot ini menempati bagian tengah (lateral) setiap spatium intercostale dan paling berkembang di ruang-ruang bawah. Vena, arteri dan nervus intercostalis berjalan di antara otot ini dan m. intercostalis internus, sehingga otot ini terletak di sebelah dalam berkas neurovaskular."
+    },
+    "facts": {
+      "group": {
+        "en": "Muscles of the thoracic wall, inner layer (with the subcostales and transversus thoracis)",
+        "id": "Otot dinding thorax, lapisan dalam (bersama mm. subcostales dan m. transversus thoracis)"
+      },
+      "origin": {
+        "la": "Facies interna costae superioris (labium mediale sulci costae)",
+        "en": "Inner surface of the rib above, along the inner lip of the costal groove"
+      },
+      "insertion": {
+        "la": "Facies interna marginis superioris costae inferioris",
+        "en": "Inner aspect of the upper border of the rib below"
+      },
+      "action": {
+        "en": "Probably act with the internal intercostals, lowering the ribs in forced expiration, and keep the intercostal spaces firm; their exact role is still unclear.",
+        "id": "Diduga bekerja bersama m. intercostalis internus, menurunkan costa pada ekspirasi kuat, dan menjaga spatium intercostale tetap kaku; peran pastinya masih belum jelas."
+      },
+      "nerve": {
+        "la": "Nervi intercostales",
+        "roots": "T1-T11"
+      },
+      "blood": ["Arteriae intercostales posteriores", "Rami intercostales anteriores arteriae thoracicae internae", "Arteria musculophrenica"]
+    },
+    "quiz": {
+      "origin": ["Labium mediale sulci costae", "facies interna costae superioris", "permukaan dalam costa di atasnya", "tepi medial sulcus costae"],
+      "insertion": ["Margo superior costae", "margo superior costae inferioris", "tepi atas costa di bawahnya"],
+      "nerve": ["Nervi intercostales", "N. intercostalis", "Nn. intercostales", "nervus intercostalis T1-T11"],
+      "action": ["Depressio costarum", "depresi costa", "menurunkan costa", "ekspirasi kuat"]
+    }
+  },
+  {
+    "key": "subcostal-muscles",
+    "kind": "muscle",
+    "la": "Musculi subcostales",
+    "alt": ["Mm. subcostales", "Musculus subcostalis", "M. subcostalis", "Subcostales"],
+    "en": "Subcostal muscles (subcostales)",
+    "desc": {
+      "en": "Thin, variable slips on the inner surface of the posterior thoracic wall near the angles of the lower ribs. Each passes from one rib to the second or third rib below, in the same plane and direction as the innermost intercostals.",
+      "id": "Berkas otot tipis yang bervariasi pada permukaan dalam dinding thorax posterior, dekat angulus costae bagian bawah. Setiap berkas berjalan dari satu costa ke costa kedua atau ketiga di bawahnya, sebidang dan searah dengan mm. intercostales intimi."
+    },
+    "facts": {
+      "group": {
+        "en": "Muscles of the thoracic wall, inner layer (posterior part)",
+        "id": "Otot dinding thorax, lapisan dalam (bagian posterior)"
+      },
+      "origin": {
+        "la": "Facies interna costarum inferiorum prope angulos",
+        "en": "Inner surface of the lower ribs near their angles"
+      },
+      "insertion": {
+        "la": "Facies interna costae secundae vel tertiae inferioris",
+        "en": "Inner surface of the second or third rib below"
+      },
+      "action": {
+        "en": "Probably act with the internal intercostals, lowering the ribs in forced expiration.",
+        "id": "Diduga bekerja bersama m. intercostalis internus, menurunkan costa pada ekspirasi kuat."
+      },
+      "nerve": {
+        "la": "Nervi intercostales"
+      },
+      "blood": ["Arteriae intercostales posteriores", "Arteria musculophrenica"],
+      "note": {
+        "en": "They are best developed in the lower part of the thorax and are often absent higher up. Textbooks give their nerve supply simply as the intercostal nerves, without segment numbers.",
+        "id": "Otot ini paling berkembang di thorax bagian bawah dan sering tidak ada di bagian atas. Buku ajar hanya menyebut persarafannya sebagai nervi intercostales, tanpa nomor segmen."
+      }
+    },
+    "quiz": {
+      "origin": ["Facies interna costae prope angulum", "permukaan dalam costa bawah dekat angulus", "angulus costae"],
+      "insertion": ["Costa kedua atau ketiga di bawahnya", "facies interna costae secundae vel tertiae inferioris", "costa 2-3 di bawahnya"],
+      "nerve": ["Nervi intercostales", "N. intercostalis", "Nn. intercostales"],
+      "action": ["Depressio costarum", "depresi costa", "menurunkan costa", "ekspirasi kuat"]
+    },
+    "model": false,
+    "verify": true
+  },
+  {
+    "key": "transversus-thoracis-muscle",
+    "kind": "muscle",
+    "la": "Musculus transversus thoracis",
+    "alt": ["M. transversus thoracis", "Transversus thoracis", "Musculus triangularis sterni", "Musculus sternocostalis"],
+    "en": "Transversus thoracis",
+    "desc": {
+      "en": "Thin muscle on the inner surface of the anterior thoracic wall, behind the sternum and costal cartilages. Its slips fan upward and laterally from the lower sternum to costal cartilages 2-6, and the internal thoracic vessels run between it and the cartilages.",
+      "id": "Otot tipis pada permukaan dalam dinding thorax anterior, di belakang sternum dan cartilago costalis. Berkas-berkasnya menyebar ke atas dan lateral dari sternum bagian bawah ke cartilago costalis II-VI, dan vasa thoracica interna berjalan di antara otot ini dan cartilago costalis."
+    },
+    "facts": {
+      "group": {
+        "en": "Muscles of the thoracic wall, inner layer (anterior part)",
+        "id": "Otot dinding thorax, lapisan dalam (bagian anterior)"
+      },
+      "origin": {
+        "la": "Facies posterior partis inferioris corporis sterni et processus xiphoidei; extremitates sternales cartilaginum costalium IV-VII",
+        "en": "Posterior surface of the lower body of the sternum and of the xiphoid process, and the sternal ends of costal cartilages 4-7"
+      },
+      "insertion": {
+        "la": "Facies interna cartilaginum costalium II-VI",
+        "en": "Inner surfaces of costal cartilages 2-6"
+      },
+      "action": {
+        "en": "Pulls costal cartilages 2-6 down, weakly depressing the ribs in forced expiration.",
+        "id": "Menarik cartilago costalis II-VI ke bawah, sehingga menurunkan costa secara lemah pada ekspirasi kuat."
+      },
+      "nerve": {
+        "la": "Nervi intercostales",
+        "roots": "T2-T6"
+      },
+      "blood": ["Arteria thoracica interna", "Rami intercostales anteriores arteriae thoracicae internae"],
+      "note": {
+        "en": "Its lowest fibres are continuous with transversus abdominis; together they form the innermost muscle layer of the trunk wall.",
+        "id": "Serabut terbawahnya bersambung dengan m. transversus abdominis; keduanya membentuk lapisan otot terdalam dinding batang tubuh."
+      }
+    },
+    "quiz": {
+      "origin": ["Facies posterior sterni et processus xiphoideus", "permukaan posterior sternum bagian bawah", "processus xiphoideus", "corpus sterni bagian bawah"],
+      "insertion": ["Cartilagines costales II-VI", "cartilago costalis 2-6", "kartilago kosta II-VI", "facies interna cartilaginum costalium II-VI"],
+      "nerve": ["Nervi intercostales", "N. intercostalis", "Nn. intercostales", "nervi intercostales T2-T6"],
+      "action": ["Depressio costarum", "depresi costa", "ekspirasi kuat", "menarik cartilago costalis ke bawah"]
+    }
+  },
+  {
+    "key": "levatores-costarum",
+    "kind": "muscle",
+    "la": "Musculi levatores costarum",
+    "alt": ["Mm. levatores costarum", "Levatores costarum", "Musculus levator costae", "M. levator costae"],
+    "en": "Levatores costarum",
+    "desc": {
+      "en": "Twelve pairs of small fan-shaped muscles on the back of the thorax, from the transverse processes of C7-T11 to the ribs below. Their fibres run downward and laterally, parallel to the external intercostals, and in the lower muscles a long bundle skips one rib.",
+      "id": "Dua belas pasang otot kecil berbentuk kipas di dinding belakang thorax, dari processus transversus C7-T11 ke costa di bawahnya. Serabutnya berjalan ke bawah dan lateral, sejajar dengan m. intercostalis externus, dan pada otot-otot bagian bawah terdapat berkas panjang yang melompati satu costa."
+    },
+    "facts": {
+      "group": {
+        "en": "Muscles of the thoracic wall (posterior); supplied by dorsal rami like the deep back muscles",
+        "id": "Otot dinding thorax bagian posterior; dipersarafi ramus dorsalis seperti otot punggung dalam"
+      },
+      "origin": {
+        "la": "Apices processuum transversorum vertebrarum C7 et T1-T11",
+        "en": "Tips of the transverse processes of C7 and T1-T11"
+      },
+      "insertion": {
+        "la": "Facies externa costae subjacentis inter tuberculum et angulum (breves); costa secunda infra originem (longi)",
+        "en": "Outer surface of the rib below, between its tubercle and angle (breves); the second rib below (longi)"
+      },
+      "action": {
+        "en": "Raise the ribs, although their part in quiet breathing is debated. They also help bend the vertebral column to the side and rotate it.",
+        "id": "Mengangkat costa, walaupun perannya pada pernapasan tenang masih diperdebatkan. Otot ini juga membantu fleksi lateral dan rotasi columna vertebralis."
+      },
+      "nerve": {
+        "la": "Rami posteriores nervorum spinalium",
+        "roots": "C8-T11"
+      },
+      "blood": ["Rami dorsales arteriarum intercostalium posteriorum"],
+      "parts": ["levatores-breves-costarum", "levatores-longi-costarum"],
+      "note": {
+        "en": "The other muscles of the thoracic wall are supplied by intercostal nerves (anterior rami); the levatores costarum are supplied by dorsal (posterior) rami.",
+        "id": "Otot dinding thorax lainnya dipersarafi nervi intercostales (ramus anterior), sedangkan mm. levatores costarum dipersarafi ramus dorsalis (ramus posterior)."
+      }
+    },
+    "quiz": {
+      "origin": ["Processus transversus C7-T11", "processus transversi C7-T11", "processus transversus vertebrae C7-T11", "prosesus transversus C7-T11"],
+      "insertion": ["Costa di bawahnya (antara tuberculum dan angulus)", "costa di bawahnya", "antara tuberculum dan angulus costae", "costa subjacens"],
+      "nerve": ["Rami posteriores nervorum spinalium", "ramus dorsalis nervi spinalis", "ramus posterior nervi spinalis", "rami dorsales C8-T11", "ramus dorsalis"],
+      "action": ["Elevatio costarum", "elevasi costa", "mengangkat costa"]
+    }
+  },
+  {
+    "key": "levatores-breves-costarum",
+    "kind": "muscle-part",
+    "la": "Musculi levatores costarum breves",
+    "alt": ["Mm. levatores costarum breves", "Levatores costarum breves", "Levatores breves costarum", "Musculi levatores breves costarum"],
+    "en": "Levatores costarum breves",
+    "desc": {
+      "en": "The short bundles of the levatores costarum. Each passes from the tip of a transverse process to the rib immediately below.",
+      "id": "Berkas pendek mm. levatores costarum. Setiap berkas berjalan dari ujung processus transversus ke costa tepat di bawahnya."
+    },
+    "facts": {
+      "muscle": "levatores-costarum",
+      "origin": {
+        "la": "Apex processus transversi vertebrae (C7-T11)",
+        "en": "Tip of a transverse process (C7-T11)"
+      },
+      "insertion": {
+        "la": "Facies externa costae proxime inferioris inter tuberculum et angulum",
+        "en": "Outer surface of the rib immediately below, between tubercle and angle"
+      }
+    }
+  },
+  {
+    "key": "levatores-longi-costarum",
+    "kind": "muscle-part",
+    "la": "Musculi levatores costarum longi",
+    "alt": ["Mm. levatores costarum longi", "Levatores costarum longi", "Levatores longi costarum", "Musculi levatores longi costarum"],
+    "en": "Levatores costarum longi",
+    "desc": {
+      "en": "The long bundles found in the lower levatores costarum. Each skips one rib and attaches to the second rib below its origin.",
+      "id": "Berkas panjang yang terdapat pada mm. levatores costarum bagian bawah. Setiap berkas melompati satu costa dan melekat pada costa kedua di bawah origonya."
+    },
+    "facts": {
+      "muscle": "levatores-costarum",
+      "origin": {
+        "la": "Apex processus transversi vertebrae thoracicae inferioris",
+        "en": "Tip of a transverse process of a lower thoracic vertebra"
+      },
+      "insertion": {
+        "la": "Facies externa costae secundae infra originem",
+        "en": "Outer surface of the second rib below the origin"
+      }
+    }
+  },
+  {
+    "key": "serratus-posterior-superior-muscle",
+    "kind": "muscle",
+    "la": "Musculus serratus posterior superior",
+    "alt": ["M. serratus posterior superior", "Serratus posterior superior"],
+    "en": "Serratus posterior superior",
+    "desc": {
+      "en": "Thin quadrilateral muscle in the upper back, deep to the rhomboids. It runs downward and laterally from the lower nuchal ligament and the spinous processes of C7-T3 to ribs 2-5.",
+      "id": "Otot tipis berbentuk segi empat di punggung atas, di sebelah dalam mm. rhomboidei. Otot ini berjalan ke bawah dan lateral dari bagian bawah ligamentum nuchae dan processus spinosus C7-T3 menuju costa II-V."
+    },
+    "facts": {
+      "group": {
+        "en": "Intermediate (respiratory) layer of the back muscles, superficial to the deep back muscles",
+        "id": "Lapisan intermedia otot punggung (kelompok respirasi), di superfisial otot punggung dalam"
+      },
+      "origin": {
+        "la": "Pars inferior ligamenti nuchae, processus spinosi vertebrarum C7-T3 et ligamenta supraspinalia",
+        "en": "Lower part of the nuchal ligament, spinous processes of C7-T3 and their supraspinous ligaments"
+      },
+      "insertion": {
+        "la": "Margines superiores costarum II-V lateral ab angulis",
+        "en": "Upper borders of ribs 2-5, lateral to their angles"
+      },
+      "action": {
+        "en": "Raises ribs 2-5 and is listed as an accessory muscle of inspiration. Its effect on breathing is small, and some authors think its main role is proprioceptive.",
+        "id": "Mengangkat costa II-V dan digolongkan sebagai otot bantu inspirasi. Pengaruhnya pada pernapasan kecil, dan sebagian penulis menduga peran utamanya bersifat proprioseptif."
+      },
+      "nerve": {
+        "la": "Nervi intercostales II-V",
+        "roots": "T2-T5"
+      },
+      "blood": ["Arteriae intercostales posteriores"]
+    },
+    "quiz": {
+      "origin": ["Processus spinosus C7-T3", "ligamentum nuchae et processus spinosi C7-T3", "prosesus spinosus C7-T3", "processus spinosi C7-T3"],
+      "insertion": ["Costae II-V", "costa 2-5", "margo superior costae II-V", "costa II-V"],
+      "nerve": ["Nervi intercostales", "N. intercostalis", "Nn. intercostales II-V", "nervi intercostales T2-T5"],
+      "action": ["Elevatio costarum", "elevasi costa", "mengangkat costa II-V", "inspirasi"]
+    }
+  },
+  {
+    "key": "serratus-posterior-inferior-muscle",
+    "kind": "muscle",
+    "la": "Musculus serratus posterior inferior",
+    "alt": ["M. serratus posterior inferior", "Serratus posterior inferior"],
+    "en": "Serratus posterior inferior",
+    "desc": {
+      "en": "Thin muscle at the junction of the thoracic and lumbar back, deep to latissimus dorsi. It runs upward and laterally from the spinous processes of T11-L2, by a thin aponeurosis that blends with the thoracolumbar fascia, to the lower four ribs.",
+      "id": "Otot tipis di peralihan punggung thoracal dan lumbal, di sebelah dalam m. latissimus dorsi. Otot ini berjalan ke atas dan lateral dari processus spinosus T11-L2, melalui aponeurosis tipis yang menyatu dengan fascia thoracolumbalis, menuju empat costa terbawah."
+    },
+    "facts": {
+      "group": {
+        "en": "Intermediate (respiratory) layer of the back muscles, superficial to the deep back muscles",
+        "id": "Lapisan intermedia otot punggung (kelompok respirasi), di superfisial otot punggung dalam"
+      },
+      "origin": {
+        "la": "Processus spinosi vertebrarum T11-L2 et ligamenta supraspinalia",
+        "en": "Spinous processes of T11-L2 and their supraspinous ligaments"
+      },
+      "insertion": {
+        "la": "Margines inferiores costarum IX-XII lateral ab angulis",
+        "en": "Lower borders of ribs 9-12, lateral to their angles"
+      },
+      "action": {
+        "en": "Pulls ribs 9-12 downward and backward, so it is listed as an accessory muscle of expiration; its real part in breathing is debated.",
+        "id": "Menarik costa IX-XII ke bawah dan ke belakang, sehingga digolongkan sebagai otot bantu ekspirasi; peran sebenarnya dalam pernapasan masih diperdebatkan."
+      },
+      "nerve": {
+        "la": "Nervi intercostales IX-XI et nervus subcostalis",
+        "roots": "T9-T12"
+      },
+      "blood": ["Arteriae intercostales posteriores", "Arteria subcostalis", "Arteriae lumbales"]
+    },
+    "quiz": {
+      "origin": ["Processus spinosus T11-L2", "processus spinosi T11-L2", "prosesus spinosus T11-L2"],
+      "insertion": ["Costae IX-XII", "costa 9-12", "margo inferior costae IX-XII", "costa IX-XII"],
+      "nerve": ["Nervi intercostales et nervus subcostalis", "nervi intercostales", "N. intercostalis IX-XI", "nervus subcostalis", "rami anteriores T9-T12"],
+      "action": ["Depressio costarum", "depresi costa", "menurunkan costa IX-XII", "ekspirasi"]
+    }
+  },
+  {
+    "key": "diaphragm",
+    "kind": "muscle",
+    "la": "Diaphragma",
+    "alt": [],
+    "en": "Diaphragm",
+    "desc": {
+      "en": "Dome-shaped sheet of muscle and tendon that separates the thoracic from the abdominal cavity. Muscle fibres from the whole margin of the inferior thoracic aperture converge on a central tendon, and it is the main muscle of inspiration.",
+      "id": "Lembaran otot dan tendo berbentuk kubah yang memisahkan cavitas thoracis dari cavitas abdominis. Serabut otot dari seluruh tepi apertura thoracis inferior menyatu pada centrum tendineum, dan diaphragma merupakan otot utama inspirasi."
+    },
+    "facts": {
+      "group": {
+        "en": "Muscle of respiration between thorax and abdomen",
+        "id": "Otot pernapasan pemisah thorax dan abdomen"
+      },
+      "origin": {
+        "la": "Pars sternalis: facies posterior processus xiphoidei. Pars costalis: facies internae cartilaginum costalium et costarum VII-XII. Pars lumbalis: ligamenta arcuata mediale et laterale, crus dextrum (corpora vertebrarum L1-L3) et crus sinistrum (corpora vertebrarum L1-L2)",
+        "en": "Sternal part: back of the xiphoid process. Costal part: inner surfaces of the lower six costal cartilages and ribs 7-12. Lumbar part: medial and lateral arcuate ligaments and the crura (right crus from the bodies of L1-L3, left crus from L1-L2)"
+      },
+      "insertion": {
+        "la": "Centrum tendineum",
+        "en": "Central tendon"
+      },
+      "action": {
+        "en": "Contraction pulls the central tendon down, lengthening the thoracic cavity and lowering the pressure inside it so that air flows in; it does most of the work of quiet inspiration. With the glottis closed and the abdominal wall tense it also raises intra-abdominal pressure, for example when straining.",
+        "id": "Kontraksinya menarik centrum tendineum ke bawah sehingga rongga thorax memanjang dan tekanan di dalamnya turun, lalu udara masuk; diaphragma melakukan sebagian besar kerja inspirasi tenang. Bila glottis tertutup dan dinding abdomen tegang, otot ini juga meningkatkan tekanan intraabdomen, misalnya saat mengejan."
+      },
+      "nerve": {
+        "la": "Nervus phrenicus",
+        "roots": "C3-C5"
+      },
+      "blood": ["Arteria pericardiacophrenica", "Arteria musculophrenica", "Arteriae phrenicae superiores", "Arteriae phrenicae inferiores", "Arteriae intercostales posteriores inferiores"],
+      "clinical": {
+        "en": "Each half has its own phrenic nerve, so injury to one nerve paralyses that half, which then rises and moves paradoxically in breathing. Irritation of the central part, carried by C3-C5, is felt as pain at the shoulder.",
+        "id": "Setiap belahan dipersarafi n. phrenicus-nya sendiri, sehingga cedera pada satu nervus melumpuhkan belahan tersebut, yang kemudian naik dan bergerak paradoks saat bernapas. Iritasi bagian sentral, yang dihantarkan melalui C3-C5, dirasakan sebagai nyeri di bahu."
+      },
+      "note": {
+        "en": "The main openings are the caval opening for the inferior vena cava at T8, the esophageal hiatus at T10 and the aortic hiatus at T12. The periphery of the diaphragm receives sensory fibres from the lower intercostal and subcostal nerves.",
+        "id": "Lubang utamanya adalah foramen venae cavae untuk v. cava inferior setinggi T8, hiatus oesophageus setinggi T10 dan hiatus aorticus setinggi T12. Bagian tepi diaphragma mendapat serabut sensorik dari nervi intercostales bawah dan n. subcostalis."
+      }
+    },
+    "quiz": {
+      "origin": ["Processus xiphoideus, cartilagines costales VII-XII et vertebrae lumbales", "pars sternalis, costalis et lumbalis", "tepi apertura thoracis inferior", "processus xiphoideus, costa 7-12, crura L1-L3"],
+      "insertion": ["Centrum tendineum", "centrum tendineum diaphragmatis", "tendo sentral"],
+      "nerve": ["Nervus phrenicus", "N. phrenicus", "n. phrenicus C3-C5"],
+      "action": ["Inspirasi", "otot utama inspirasi", "menarik centrum tendineum ke bawah", "memperbesar rongga thorax"]
+    }
+  },
+  {
+    "key": "pectoral-fascia",
+    "kind": "fascia",
+    "la": "Fascia pectoralis",
+    "alt": [],
+    "en": "Pectoral fascia",
+    "desc": {
+      "en": "Deep fascia that covers pectoralis major and is attached to the clavicle and the sternum. The breast lies on it, separated by the loose retromammary space.",
+      "id": "Fascia profunda yang membungkus m. pectoralis major dan melekat pada clavicula serta sternum. Glandula mammaria terletak di atasnya, dipisahkan oleh spatium retromammarium yang longgar."
+    },
+    "facts": {
+      "location": {
+        "en": "Front of the thoracic wall, over pectoralis major",
+        "id": "Dinding thorax anterior, di atas m. pectoralis major"
+      },
+      "attach": {
+        "en": "Clavicle above and sternum medially. At the lateral border of pectoralis major it becomes the axillary fascia, and below it continues into the fascia of the anterior abdominal wall.",
+        "id": "Clavicula di atas dan sternum di medial. Pada tepi lateral m. pectoralis major fascia ini menjadi fascia axillaris, dan ke bawah berlanjut menjadi fascia dinding abdomen anterior."
+      },
+      "function": {
+        "en": "Encloses pectoralis major. The retromammary space lets the breast move over it; a breast cancer that invades the fascia fixes the breast, which then rides up when pectoralis major contracts.",
+        "id": "Membungkus m. pectoralis major. Spatium retromammarium memungkinkan mamma bergeser di atasnya; karsinoma mammae yang menginvasi fascia ini membuat mamma terfiksasi, sehingga mamma ikut terangkat saat m. pectoralis major berkontraksi."
+      }
+    }
+  },
+  {
+    "key": "clavipectoral-fascia",
+    "kind": "fascia",
+    "la": "Fascia clavipectoralis",
+    "alt": [],
+    "en": "Clavipectoral fascia",
+    "desc": {
+      "en": "Deep fascial sheet behind pectoralis major. It starts at the clavicle, encloses subclavius and pectoralis minor, and continues down as the suspensory ligament of the axilla to the axillary fascia.",
+      "id": "Lembaran fascia profunda di belakang m. pectoralis major. Fascia ini berawal dari clavicula, membungkus m. subclavius dan m. pectoralis minor, lalu berlanjut ke bawah sebagai ligamentum suspensorium axillae menuju fascia axillaris."
+    },
+    "facts": {
+      "location": {
+        "en": "Under pectoralis major, between the clavicle, the coracoid process and the floor of the axilla",
+        "id": "Di bawah m. pectoralis major, antara clavicula, processus coracoideus dan dasar axilla"
+      },
+      "attach": {
+        "en": "Clavicle above, where it splits around subclavius; laterally the coracoid process; below pectoralis minor it joins the axillary fascia.",
+        "id": "Clavicula di atas, tempat fascia ini membelah membungkus m. subclavius; di lateral processus coracoideus; di bawah m. pectoralis minor fascia ini bergabung dengan fascia axillaris."
+      },
+      "function": {
+        "en": "The part between subclavius and pectoralis minor, the costocoracoid membrane, is pierced by the cephalic vein, the thoracoacromial artery and the lateral pectoral nerve. The suspensory ligament pulls the axillary fascia and skin upward when the arm is abducted, forming the hollow of the armpit.",
+        "id": "Bagian di antara m. subclavius dan m. pectoralis minor, yaitu membrana costocoracoidea, ditembus v. cephalica, a. thoracoacromialis dan n. pectoralis lateralis. Ligamentum suspensorium axillae menarik fascia axillaris dan kulit ke atas saat lengan diabduksi, sehingga terbentuk cekungan ketiak."
+      }
+    }
+  }
+]

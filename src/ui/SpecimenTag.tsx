@@ -203,7 +203,9 @@ export function SpecimenTag(p: Props) {
   const c = db.content.get(key);
   const part = partKey ? db.content.get(partKey) : undefined;
   const kind = c?.kind ?? kindFallback;
-  const kindName = KIND_NAMES[kind] ?? KIND_NAMES[kindFallback] ?? { en: '', id: '' };
+  // a landmark on the heart or another organ is not a bone landmark
+  const onOrgan = kind === 'landmark' && !!onBone && db.byId.get(onBone)?.pack !== 'skeleton';
+  const kindName = onOrgan ? { en: 'Landmark', id: 'Penanda' } : KIND_NAMES[kind] ?? KIND_NAMES[kindFallback] ?? { en: '', id: '' };
   const latin = db.latin(key);
   const english = c?.en ?? (partKey ? db.english(key) : enName);
   const rec0 = sel.type === 'structure' ? db.byId.get(sel.id) : undefined;
