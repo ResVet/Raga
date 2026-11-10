@@ -23,7 +23,11 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run build
-      - run: touch dist/.nojekyll
+      - name: Stamp the build
+        # a new stamp on every run means a re-run always publishes a fresh Pages deployment
+        run: |
+          touch dist/.nojekyll
+          echo "${GITHUB_SHA} run ${GITHUB_RUN_ID}.${GITHUB_RUN_ATTEMPT}" > dist/version.txt
       - name: Publish dist/ to the gh-pages branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
