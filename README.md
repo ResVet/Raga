@@ -96,4 +96,4 @@ The renderer is three.js with a deferred ambient occlusion pass, shadow maps, se
 
 Raga's source code is under the [MIT licence](LICENSE). The models, data and written content in `public/models`, `public/data` and `content` are under [CC BY-SA 4.0](LICENSE-CONTENT.md), as the Z-Anatomy licence requires.
 
-Made by Khalid ([ResVet](https://github.com/ResVet)), FK Universitas Sriwijaya, because education should be free.
+Made by Raffa Gamadan Rifandi ([ResVet](https://github.com/ResVet)), FK Universitas Sriwijaya, because education should be free.
