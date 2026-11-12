@@ -1,0 +1,43 @@
+name: Preview build
+
+# Builds the "next" branch and publishes the result to "next-preview" so it can be tried before it goes live.
+on:
+  push:
+    branches: [next]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: preview
+  cancel-in-progress: true
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Type-check, test and build
+        run: |
+          mkdir -p out
+          set +e
+          {
+            echo "commit ${GITHUB_SHA}"
+            echo "== tsc"; npx tsc --noEmit --pretty false; echo "tsc exit $?"
+            echo "== test"; npm test; echo "test exit $?"
+            echo "== build"; npx vite build --minify false --sourcemap --outDir out/site; echo "build exit $?"
+          } > out/log.txt 2>&1
+          rm -rf out/site/models out/site/data
+          tail -n 40 out/log.txt
+          exit 0
+      - name: Publish to next-preview
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: next-preview
+          folder: out
+          single-commit: true
