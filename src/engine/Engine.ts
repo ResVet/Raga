@@ -119,6 +119,7 @@ export class Engine {
   private plainNormal = new THREE.MeshNormalMaterial();
   private lost = false;
   private lostL = new Set<() => void>();
+  private restoredL = new Set<() => void>();
 
   // view state
   private layerOn = new Map<string, boolean>();
@@ -220,6 +221,18 @@ export class Engine {
       cancelAnimationFrame(this.raf);
       this.lostL.forEach((f) => f());
     });
+    // The browser may hand the context back (after a GPU reset, or once memory frees up). three.js
+    // re-uploads meshes and textures by itself; the baked environment map has to be made again.
+    r.domElement.addEventListener('webglcontextrestored', () => {
+      if (!this.lost) return;
+      this.lost = false;
+      this.buildEnvironment();
+      this.shadowKey = '';
+      this.pickablesDirty = true;
+      this.invalidate();
+      this.raf = requestAnimationFrame(this.loop);
+      this.restoredL.forEach((f) => f());
+    });
 
     this.camera = new THREE.PerspectiveCamera(32, 1, 0.01, 30);
     this.camera.position.set(0, 1.0, 3.6);
@@ -228,9 +241,7 @@ export class Engine {
 
     // Light rig: a warm key that casts soft shadows, a cool fill and a back rim, all placed relative to
     // the camera so every view is lit like a studio plate, plus soft image-based light from a room.
-    const pmrem = new THREE.PMREMGenerator(r);
-    this.scene.environment = pmrem.fromScene(new RoomEnvironment(), 0.04).texture;
-    pmrem.dispose();
+    this.buildEnvironment();
     (this.scene as any).environmentIntensity = 0.42;
     this.key = new THREE.DirectionalLight('#fff1e2', 2.7);
     this.key.castShadow = true;
@@ -321,10 +332,29 @@ export class Engine {
     return { ...this.effects };
   }
 
-  /** Called if the WebGL context is lost (the interface falls back to 'high' and reloads). */
+  /** Called if the WebGL context is lost (the interface steps the graphics tier down or waits for it to come back). */
   onContextLost(cb: () => void) {
     this.lostL.add(cb);
     return () => this.lostL.delete(cb);
+  }
+
+  /** Called when a lost WebGL context has been restored and drawing has resumed. */
+  onContextRestored(cb: () => void) {
+    this.restoredL.add(cb);
+    return () => this.restoredL.delete(cb);
+  }
+
+  /** True while the WebGL context is lost. */
+  get contextLost() {
+    return this.lost;
+  }
+
+  private buildEnvironment() {
+    const old = this.scene.environment;
+    const pmrem = new THREE.PMREMGenerator(this.renderer);
+    this.scene.environment = pmrem.fromScene(new RoomEnvironment(), 0.04).texture;
+    pmrem.dispose();
+    old?.dispose();
   }
 
   private computeBasePR(w: number, h: number) {
@@ -389,6 +419,7 @@ export class Engine {
             this.loadedPacks.add(pack);
             this.pickablesDirty = true;
             this.applyAll();
+            this.motion.packLoaded();
             resolve();
           } catch (e) {
             reject(e);
@@ -818,7 +849,12 @@ export class Engine {
     // keep a little elevation so the view does not look straight up or down
     if (Math.abs(dir.y) > 0.85) dir.y = Math.sign(dir.y) * 0.85;
     dir.normalize();
-    this.flyTo(p.clone().addScaledVector(dir, dist), p.clone(), instant);
+    // `dist` is meant for a view at least as wide as it is tall; a portrait phone shows a narrower
+    // slice at the same distance, so step back until the same width fits
+    const freeH = Math.max(120, this.container.clientHeight - this.insets.bottom);
+    const freeW = Math.max(120, this.container.clientWidth - this.insets.left - this.insets.right);
+    const d = dist * Math.min(2.4, Math.max(1, freeH / freeW));
+    this.flyTo(p.clone().addScaledVector(dir, d), p.clone(), instant);
   }
 
   view(name: 'anterior' | 'posterior' | 'left' | 'right' | 'superior' | 'inferior') {
@@ -1007,13 +1043,45 @@ export class Engine {
       const dir = p.clone().sub(this.camera.position);
       const dist = dir.length();
       this.raycaster.set(this.camera.position, dir.normalize());
-      this.raycaster.far = dist - 0.004;
-      (this.raycaster as any).firstHitOnly = true;
-      const hits = this.raycaster.intersectObjects(this.getPickables(), false);
-      out.occluded = hits.some((h) => !this.isGhostMesh(h.object));
+      if (this.clip && this.clipPlane.distanceToPoint(p) < -0.002) out.occluded = true; // the point itself was cut away
+      else if (this.limitRayToCut()) {
+        this.raycaster.far = Math.min(this.raycaster.far, dist - 0.004);
+        if (this.raycaster.far > this.raycaster.near) {
+          (this.raycaster as any).firstHitOnly = !this.clip;
+          const hits = this.raycaster.intersectObjects(this.getPickables(), false);
+          out.occluded = hits.some((h) => this.keptByCut(h.point) && !this.isGhostMesh(h.object));
+        }
+      }
+      this.raycaster.near = 0;
       this.raycaster.far = Infinity;
     }
     return out;
+  }
+
+  /**
+   * Shortens the ray to the stretch that lies on the side the cut plane keeps, so picking sees what
+   * the renderer draws. Returns false when the whole ray runs through the part that was cut away.
+   */
+  private limitRayToCut(): boolean {
+    this.raycaster.near = 0;
+    this.raycaster.far = Infinity;
+    if (!this.clip) return true;
+    const ray = this.raycaster.ray;
+    const d0 = this.clipPlane.distanceToPoint(ray.origin);
+    const dn = this.clipPlane.normal.dot(ray.direction);
+    if (Math.abs(dn) < 1e-9) return d0 >= 0;
+    const t = -d0 / dn;
+    if (d0 >= 0) {
+      if (dn < 0) this.raycaster.far = t; // leaves the kept side at t
+    } else {
+      if (dn < 0) return false;
+      this.raycaster.near = t; // enters the kept side at t
+    }
+    return true;
+  }
+
+  private keptByCut(p: THREE.Vector3) {
+    return !this.clip || this.clipPlane.distanceToPoint(p) >= -1e-4;
   }
 
   // ------------------------------------------------------------------ picking
@@ -1035,20 +1103,31 @@ export class Engine {
     const rect = this.renderer.domElement.getBoundingClientRect();
     this.pointer.set(((clientX - rect.left) / rect.width) * 2 - 1, -((clientY - rect.top) / rect.height) * 2 + 1);
     this.raycaster.setFromCamera(this.pointer, this.camera);
-    (this.raycaster as any).firstHitOnly = false;
-    if (this.lmMesh) {
-      const lh = this.raycaster.intersectObject(this.lmMesh, false);
-      if (lh.length && lh[0].instanceId !== undefined) {
-        const l = this.lmList[lh[0].instanceId];
-        return { id: l.on, point: lh[0].point, landmark: l };
-      }
+    if (!this.limitRayToCut()) {
+      this.raycaster.near = 0;
+      this.raycaster.far = Infinity;
+      return null;
     }
-    (this.raycaster as any).firstHitOnly = true;
-    const hits = this.raycaster.intersectObjects(this.getPickables(), false);
-    if (!hits.length) return null;
-    const solid = hits.find((h) => !this.isGhostMesh(h.object)) ?? hits[0];
-    const sid = solid.object.userData.sid as string;
-    return { id: sid, point: solid.point };
+    // With a cut plane the nearest triangle of a mesh may be one that is not drawn, so take every hit
+    // and drop those on the removed side; without a cut the first hit per mesh is enough.
+    (this.raycaster as any).firstHitOnly = !this.clip;
+    const hits = this.raycaster.intersectObjects(this.getPickables(), false).filter((h) => this.keptByCut(h.point));
+    const solid = hits.find((h) => !this.isGhostMesh(h.object)) ?? hits[0] ?? null;
+    let lm: THREE.Intersection | null = null;
+    if (this.lmMesh) {
+      (this.raycaster as any).firstHitOnly = false;
+      const lh = this.raycaster.intersectObject(this.lmMesh, false).filter((h) => this.keptByCut(h.point));
+      // a landmark dot counts only when nothing solid lies in front of it
+      if (lh.length && lh[0].instanceId !== undefined && (!solid || this.isGhostMesh(solid.object) || lh[0].distance <= solid.distance + 0.004)) lm = lh[0];
+    }
+    this.raycaster.near = 0;
+    this.raycaster.far = Infinity;
+    if (lm) {
+      const l = this.lmList[lm.instanceId!];
+      return { id: l.on, point: lm.point, landmark: l };
+    }
+    if (!solid) return null;
+    return { id: solid.object.userData.sid as string, point: solid.point };
   }
 
   private bindPointer() {
