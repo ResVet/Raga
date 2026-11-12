@@ -66,12 +66,12 @@ vec3 org_perturb(vec3 surf_pos, vec3 surf_norm, vec2 dHdxy, float faceDir){
 
 /** Vertex rig: muscle bulge plus up to four chained joint rotations, all in world space. */
 export const RIG_GLSL = /* glsl */ `
+attribute vec4 rigW; // how far this vertex follows each of the four joints of its limb (rigWeights.ts)
+attribute vec4 rigP; // pull toward the insertion: fibre direction * sqrt(share) in xyz, straight share in w
 uniform float uRigOn;
-uniform vec4 uJP[4]; // pivot xyz, blend band half-width (m)
-uniform vec4 uJN[4]; // joint plane normal (towards the distal segment), plane offset along it
+uniform vec4 uJP[4]; // pivot xyz
 uniform vec4 uJA[4]; // rotation axis, angle (rad)
-uniform vec4 uJL[4]; // radial limit axis direction (from the pivot along the segment)
-uniform vec4 uJR[4]; // outer radius (0 = no radial limit), mask, inner radius, capsule length (0 = infinite line)
+uniform vec3 uPull;      // how far the insertion of this muscle has moved from rest
 uniform vec4 uBulge;     // belly centre xyz, half length
 uniform vec4 uBulgeAxis; // belly axis xyz, radial swelling
 uniform float uShorten;  // axial shortening of the belly
@@ -79,22 +79,7 @@ vec3 rig_rot(vec3 v, vec3 a, float ang){
   float c=cos(ang), s=sin(ang);
   return v*c + cross(a,v)*s + a*dot(a,v)*(1.0-c);
 }
-float rig_weight(int j, vec3 p){
-  if (uJR[j].y < 0.5) return 0.0;
-  vec3 d = p - uJP[j].xyz;
-  float s = dot(d, uJN[j].xyz) - uJN[j].w;
-  float w = smoothstep(-uJP[j].w, uJP[j].w, s);
-  if (uJR[j].x > 0.0) {
-    vec3 L = uJL[j].xyz;
-    float a = dot(d, L);
-    if (uJR[j].w > 0.0) a = clamp(a, 0.0, uJR[j].w);
-    float r = length(d - L*a);
-    w *= 1.0 - smoothstep(uJR[j].z, uJR[j].x, r);
-  }
-  return w;
-}
 void rig_apply(inout vec3 p, inout vec3 n){
-  vec3 p0 = p;
   if (uBulgeAxis.w > 0.0 || uShorten > 0.0) {
     vec3 a = uBulgeAxis.xyz;
     vec3 d = p - uBulge.xyz;
@@ -107,13 +92,14 @@ void rig_apply(inout vec3 p, inout vec3 n){
     p += rv*(uBulgeAxis.w*prof) - a*(z*uShorten*prof);
   }
   for (int j = 3; j >= 0; j--) {
-    float w = rig_weight(j, p0);
+    float w = rigW[j];
     if (w > 0.0005) {
       float ang = uJA[j].w * w;
       p = uJP[j].xyz + rig_rot(p - uJP[j].xyz, uJA[j].xyz, ang);
       n = rig_rot(n, uJA[j].xyz, ang);
     }
   }
+  p += rigP.xyz * dot(rigP.xyz, uPull) + uPull * rigP.w;
 }
 `;
 
@@ -129,10 +115,8 @@ type U<T> = { value: T };
 export interface RigUniforms {
   uRigOn: U<number>;
   uJP: U<THREE.Vector4[]>;
-  uJN: U<THREE.Vector4[]>;
   uJA: U<THREE.Vector4[]>;
-  uJL: U<THREE.Vector4[]>;
-  uJR: U<THREE.Vector4[]>;
+  uPull: U<THREE.Vector3>;
   uBulge: U<THREE.Vector4>;
   uBulgeAxis: U<THREE.Vector4>;
   uShorten: U<number>;
@@ -176,10 +160,8 @@ export function makeRigUniforms(): RigUniforms {
   return {
     uRigOn: { value: 0 },
     uJP: { value: v4() },
-    uJN: { value: v4() },
     uJA: { value: v4() },
-    uJL: { value: v4() },
-    uJR: { value: v4() },
+    uPull: { value: new THREE.Vector3() },
     uBulge: { value: new THREE.Vector4(0, 0, 0, 1) },
     uBulgeAxis: { value: new THREE.Vector4(0, 1, 0, 0) },
     uShorten: { value: 0 },

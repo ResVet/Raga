@@ -31,6 +31,17 @@ export const START: Partial<Record<string, { movement: MovementId; deg: number }
   'knee:extension': { movement: 'flexion', deg: 90 },
 };
 
+/**
+ * A neighbouring joint held bent for the whole clip so the movement can be seen: rotation of the
+ * shoulder and hip is shown, as it is examined, with the elbow or knee at a right angle.
+ */
+export const START_ALSO: Partial<Record<string, { joint: JointId; movement: MovementId; deg: number }>> = {
+  'shoulder:medial-rotation': { joint: 'elbow', movement: 'flexion', deg: 90 },
+  'shoulder:lateral-rotation': { joint: 'elbow', movement: 'flexion', deg: 90 },
+  'hip:medial-rotation': { joint: 'knee', movement: 'flexion', deg: 90 },
+  'hip:lateral-rotation': { joint: 'knee', movement: 'flexion', deg: 90 },
+};
+
 const J = (joint: JointId, movement: MovementId, deg?: number): Move => ({ joint, movement, deg });
 
 /** Latin, English and Indonesian names of each joint movement. */

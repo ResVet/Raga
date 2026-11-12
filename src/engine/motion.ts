@@ -8,17 +8,20 @@
 //
 // Bones move rigidly (node matrices, chained: moving the elbow carries the radius and the hand).
 // Soft tissue of the same limb (muscles, tendons, ligaments, capsules, fasciae, vessels, nerves, skin)
-// bends in the vertex shader (organic.ts RIG_GLSL) with a smooth weight from the signed distance to
-// each joint plane; the shoulder and hip planes lean laterally and are limited radially so trunk
-// muscles that insert on the humerus or femur only bend near the insertion. Structures outside the
-// limb never move. Contracting muscles glow eosin and bulge; antagonists tint violet while lengthening.
+// bends in the vertex shader (organic.ts RIG_GLSL) with per-vertex joint weights worked out once per limb
+// in rigWeights.ts: at the shoulder and hip from how close a vertex lies to the moving bones compared
+// with the fixed ones, at the hinges from the joint planes. Trunk muscles that insert on the limb
+// (latissimus dorsi, pectoralis major) also slide along their fibres toward the insertion, so the whole
+// muscle lengthens. Structures outside the limb never move. Contracting muscles glow eosin and bulge;
+// antagonists tint violet while lengthening.
 import * as THREE from 'three';
 import type { DB } from '../data/db';
 import type { PackId } from '../data/types';
 import { slug } from '../data/text';
 import type { SObj } from './Engine';
 import { makeRigDepthMaterial, type TissueMaterial } from './materials';
-import { MUSCLES, MOVERS, LABEL, RANGE, START, JOINT_MOVES, JOINT_KEYS, type Move } from './motionTable';
+import { MUSCLES, MOVERS, LABEL, RANGE, START, START_ALSO, JOINT_MOVES, JOINT_KEYS, type Move } from './motionTable';
+import { buildField, skin, type Cloud, type Field, type Hinge, type SkinPart } from './rigWeights';
 
 export type JointId = 'shoulder' | 'elbow' | 'radioulnar' | 'wrist' | 'hip' | 'knee' | 'ankle' | 'subtalar';
 export type MovementId =
@@ -188,6 +191,40 @@ function restVerts(o: SObj, cb: (p: THREE.Vector3, n: THREE.Vector3) => void, ki
   });
 }
 
+const FIELD_MARGIN = 0.14; // the distance fields reach this far past the bones the limb moves (m)
+const FIELD_VOXELS = 1.1e6;
+
+/** World-space rest positions (and unit normals) of one mesh of a structure, as plain arrays. */
+function restArrays(o: SObj, mesh: THREE.Mesh, normals: boolean): { pos: Float32Array; nrm: Float32Array | null; index: ArrayLike<number> | null } {
+  const m = new THREE.Matrix4().copy(o.restMatrix);
+  if (mesh !== o.root) m.multiply(mesh.matrix);
+  const g = mesh.geometry as THREE.BufferGeometry;
+  const pa = g.getAttribute('position');
+  const na = normals ? g.getAttribute('normal') : undefined;
+  const n = pa.count, e = m.elements;
+  const pos = new Float32Array(n * 3);
+  for (let i = 0; i < n; i++) {
+    const x = pa.getX(i), y = pa.getY(i), z = pa.getZ(i);
+    pos[i * 3] = e[0] * x + e[4] * y + e[8] * z + e[12];
+    pos[i * 3 + 1] = e[1] * x + e[5] * y + e[9] * z + e[13];
+    pos[i * 3 + 2] = e[2] * x + e[6] * y + e[10] * z + e[14];
+  }
+  let nrm: Float32Array | null = null;
+  if (na) {
+    const k = new THREE.Matrix3().getNormalMatrix(m).elements;
+    nrm = new Float32Array(n * 3);
+    for (let i = 0; i < n; i++) {
+      const x = na.getX(i), y = na.getY(i), z = na.getZ(i);
+      const a = k[0] * x + k[3] * y + k[6] * z, b = k[1] * x + k[4] * y + k[7] * z, c = k[2] * x + k[5] * y + k[8] * z;
+      const l = Math.hypot(a, b, c) || 1;
+      nrm[i * 3] = a / l;
+      nrm[i * 3 + 1] = b / l;
+      nrm[i * 3 + 2] = c / l;
+    }
+  }
+  return { pos, nrm, index: g.index ? (g.index.array as ArrayLike<number>) : null };
+}
+
 interface Frames {
   sh: THREE.Vector3; el: THREE.Vector3; eEl: THREE.Vector3; rh: THREE.Vector3; uh: THREE.Vector3; wr: THREE.Vector3; eWr: THREE.Vector3;
   hip: THREE.Vector3; kn: THREE.Vector3; eKn: THREE.Vector3; an: THREE.Vector3; eAn: THREE.Vector3; st: THREE.Vector3; aSt: THREE.Vector3;
@@ -280,13 +317,18 @@ function mirrorFrames(f: Frames): Frames {
 // ------------------------------------------------------------------ rig per limb and side
 interface JointRig {
   pivot: THREE.Vector3;
+  /** Hinges only: plane through the pivot that separates the two segments, its offset and blend half-width. */
   plane: THREE.Vector3;
   offset: number;
   band: number;
-  line: THREE.Vector3; // segment axis for the radial (capsule) limit
-  r0: number; // limb structures: capsule inner/outer radius and length (0 = no limit)
-  r1: number;
-  len: number;
+}
+
+/** Per-vertex weights of one structure for one limb, ready to attach to its meshes. */
+interface Skin {
+  w: THREE.BufferAttribute[];
+  pull: THREE.BufferAttribute[] | null;
+  insertion: THREE.Vector3 | null;
+  insertionW: number[];
 }
 
 interface Limb {
@@ -295,14 +337,11 @@ interface Limb {
   L: number; // +1 left, -1 right (direction of lateral along x)
   joints: JointRig[];
   axes: Record<string, THREE.Vector3>;
-  shared: { uJP: THREE.Vector4[]; uJN: THREE.Vector4[]; uJA: THREE.Vector4[]; uJL: THREE.Vector4[] };
+  shared: { uJP: THREE.Vector4[]; uJA: THREE.Vector4[] };
 }
 
 function makeLimb(f: Frames, side: 'l' | 'r', upper: boolean): Limb {
   const L = side === 'r' ? -1 : 1;
-  const lat = new THREE.Vector3(L, 0, 0);
-  const lean = (axis: THREE.Vector3, deg: number) => axis.clone().multiplyScalar(Math.cos((deg * Math.PI) / 180)).addScaledVector(lat, Math.sin((deg * Math.PI) / 180)).normalize();
-  const none = new THREE.Vector3(0, 1, 0);
   let joints: JointRig[];
   let axes: Record<string, THREE.Vector3>;
   if (upper) {
@@ -311,30 +350,26 @@ function makeLimb(f: Frames, side: 'l' | 'r', upper: boolean): Limb {
     const uRU = f.uh.clone().sub(f.rh).normalize();
     const mid = f.el.clone().add(f.wr).multiplyScalar(0.5);
     joints = [
-      { pivot: f.sh, plane: lean(uHum, 40), offset: 0, band: 0.04, line: uHum, r0: 0, r1: 0, len: 0 },
-      { pivot: f.el, plane: uHum, offset: 0, band: 0.035, line: none, r0: 0, r1: 0, len: 0 },
-      { pivot: f.rh, plane: uFore, offset: mid.clone().sub(f.rh).dot(uFore), band: 0.42 * f.wr.distanceTo(f.el), line: none, r0: 0, r1: 0, len: 0 },
-      { pivot: f.wr, plane: uFore, offset: 0, band: 0.025, line: none, r0: 0, r1: 0, len: 0 },
+      { pivot: f.sh, plane: uHum, offset: 0, band: 0.04 },
+      { pivot: f.el, plane: uHum, offset: 0, band: 0.035 },
+      { pivot: f.rh, plane: uFore, offset: mid.clone().sub(f.rh).dot(uFore), band: 0.42 * f.wr.distanceTo(f.el) },
+      { pivot: f.wr, plane: uFore, offset: 0, band: 0.025 },
     ];
     axes = { long: uHum, eEl: f.eEl, uRU, eWr: f.eWr, ap: new THREE.Vector3().crossVectors(uFore, f.eWr).normalize() };
   } else {
     const uFem = f.kn.clone().sub(f.hip).normalize();
     const uTib = f.an.clone().sub(f.kn).normalize();
     joints = [
-      { pivot: f.hip, plane: lean(uFem, 48), offset: 0, band: 0.045, line: uFem, r0: 0, r1: 0, len: 0 },
-      { pivot: f.kn, plane: uFem, offset: 0, band: 0.045, line: none, r0: 0, r1: 0, len: 0 },
-      { pivot: f.an, plane: uTib, offset: 0, band: 0.03, line: none, r0: 0, r1: 0, len: 0 },
-      { pivot: f.st, plane: uTib, offset: f.an.clone().sub(f.st).dot(uTib), band: 0.03, line: none, r0: 0, r1: 0, len: 0 },
+      { pivot: f.hip, plane: uFem, offset: 0, band: 0.045 },
+      { pivot: f.kn, plane: uFem, offset: 0, band: 0.045 },
+      { pivot: f.an, plane: uTib, offset: 0, band: 0.03 },
+      { pivot: f.st, plane: uTib, offset: f.an.clone().sub(f.st).dot(uTib), band: 0.03 },
     ];
     axes = { long: uFem, eKn: f.eKn, eAn: f.eAn, aSt: f.aSt };
   }
   const v4 = () => [0, 1, 2, 3].map(() => new THREE.Vector4());
-  const shared = { uJP: v4(), uJN: v4(), uJA: v4(), uJL: v4() };
-  joints.forEach((j, i) => {
-    shared.uJP[i].set(j.pivot.x, j.pivot.y, j.pivot.z, j.band);
-    shared.uJN[i].set(j.plane.x, j.plane.y, j.plane.z, j.offset);
-    shared.uJL[i].set(j.line.x, j.line.y, j.line.z, 0);
-  });
+  const shared = { uJP: v4(), uJA: v4() };
+  joints.forEach((j, i) => shared.uJP[i].set(j.pivot.x, j.pivot.y, j.pivot.z, 0));
   return { side, upper, L, joints, axes, shared };
 }
 
@@ -400,6 +435,9 @@ export class Motion {
   private active: Limb | null = null;
   private bones: { o: SObj; w: number[] }[] = [];
   private soft: SObj[] = [];
+  private pulled: { o: SObj; at: THREE.Vector3; w: number[] }[] = [];
+  private fields = new Map<string, { distal: Field; proximal: Field }>();
+  private skins = new Map<string, Map<string, Skin | null>>();
   private contract: SObj[] = [];
   private stretchSet: SObj[] = [];
   private bellies = new Map<string, Belly>();
@@ -583,6 +621,15 @@ export class Motion {
         pose[m.joint][i] = sg * s.deg;
       }
     }
+    // a single-joint clip may hold a neighbouring joint bent so the movement can be seen
+    // (rotation of the shoulder or hip shows best with the elbow or knee at a right angle)
+    if (clip.moves.length === 1) {
+      const also = START_ALSO[`${clip.moves[0].joint}:${clip.moves[0].movement}`];
+      if (also) {
+        const [i, sg] = DOF[also.movement];
+        pose[also.joint][i] = sg * also.deg;
+      }
+    }
     for (const m of clip.moves) {
       const [i, sg] = DOF[m.movement];
       if (i < DOF_COUNT[m.joint]) pose[m.joint][i] += sg * m.deg * p;
@@ -609,78 +656,15 @@ export class Motion {
 
   private bind(limb: Limb, clip: MotionClip) {
     const objs = this.host.objects;
-    const s = limb.side;
     if (this.active !== limb) {
       this.unbindRig();
       this.active = limb;
-      // rigid bones and the weight each joint has on them
       this.bones = [];
-      const add = (id: string, w: number[]) => {
-        const o = objs.get(id);
-        if (o) this.bones.push({ o, w });
-      };
-      for (const o of objs.values()) {
-        const id = o.rec.id;
-        if (o.rec.pack !== 'skeleton' || o.rec.side !== s) continue;
-        if (limb.upper) {
-          if (id === `humerus-${s}`) add(id, [1, 0, 0, 0]);
-          else if (id === `ulna-${s}`) add(id, [1, 1, 0, 0]);
-          else if (id === `radius-${s}`) add(id, [1, 1, 1, 0]);
-          else if (HAND.test(id)) add(id, [1, 1, 1, 1]);
-        } else {
-          if (id === `femur-${s}`) add(id, [1, 0, 0, 0]);
-          else if (id === `patella-${s}`) add(id, [1, 0.7, 0, 0]);
-          else if (id === `tibia-${s}` || id === `fibula-${s}`) add(id, [1, 1, 0, 0]);
-          else if (id === `talus-${s}`) add(id, [1, 1, 1, 0]);
-          else if (FOOT.test(id)) add(id, [1, 1, 1, 1]);
-        }
-      }
-      // origin/insertion patches ride on their bone
-      const boneW = new Map(this.bones.map((b) => [b.o.rec.id, b.w]));
-      for (const [att, bone] of this.host.attachBoneMap()) {
-        const w = boneW.get(bone);
-        const o = objs.get(att);
-        if (w && o) this.bones.push({ o, w });
-      }
-      for (const b of this.bones) b.o.root.matrixAutoUpdate = false;
+      this.bindRigid(limb);
       // soft tissue of this limb bends in the shader
       this.soft = [];
-      const sh = limb.joints[0].pivot;
-      for (const o of objs.values()) {
-        const r = o.rec;
-        if (r.side !== s || r.pack === 'skeleton' || r.pack === 'attachments' || r.pack === 'viscera' || r.pack === 'lymphoid') continue;
-        const path = r.path.join('|');
-        let member = false;
-        let shoulderOnly = false;
-        if (r.pack === 'muscles' || r.pack === 'skin') {
-          member = limb.upper ? /upper limb/i.test(path) : /lower limb/i.test(path);
-          if (!member && limb.upper && TRUNK_TO_HUMERUS.test(r.id)) member = shoulderOnly = true;
-          // muscles whose bulk lies on the scapula (deltoid, rotator cuff, teres major) follow the arm
-          // only near the humerus
-          if (member && limb.upper && /Scapulohumeral muscles/i.test(path)) shoulderOnly = true;
-        } else if (r.pack === 'joints') {
-          member = limb.upper ? /free upper limb/i.test(path) : /free lower limb/i.test(path);
-        } else {
-          const c = o.center;
-          // vessels and nerves have no limb grouping: lateral to the glenoid (arm) or below the hip joint (leg)
-          member = limb.upper ? Math.abs(c.x) > Math.abs(sh.x) - 0.012 && c.y < sh.y + 0.03 && c.y > 0.5 : c.y < sh.y - 0.03 && Math.abs(c.x) > 0.02;
-        }
-        if (!member) continue;
-        const rig = o.rig;
-        rig.uJP.value = limb.shared.uJP;
-        rig.uJN.value = limb.shared.uJN;
-        rig.uJA.value = limb.shared.uJA;
-        rig.uJL.value = limb.shared.uJL;
-        // trunk and scapular muscles that insert on the humerus follow only within a short capsule
-        // around the proximal humerus; the free limb follows its joint planes alone
-        limb.joints.forEach((j, i) => {
-          if (shoulderOnly) rig.uJR.value[i].set(i === 0 ? 0.085 : 0, i === 0 ? 1 : 0, 0.035, 0.16);
-          else rig.uJR.value[i].set(j.r1, 1, j.r0, j.len);
-        });
-        rig.uRigOn.value = 1;
-        for (const m of o.meshes) if (!m.customDepthMaterial) m.customDepthMaterial = makeRigDepthMaterial(rig);
-        this.soft.push(o);
-      }
+      this.pulled = [];
+      this.bindSoft(limb);
     }
     // looks for this clip
     this.contract = clip.muscles.map((id) => objs.get(id)).filter((o): o is SObj => !!o);
@@ -690,6 +674,145 @@ export class Motion {
       o.rig.uBulge.value.set(b.c.x, b.c.y, b.c.z, b.half);
       o.rig.uBulgeAxis.value.set(b.a.x, b.a.y, b.a.z, 0);
     }
+  }
+
+  /** A pack finished loading: let its structures join the limb that is posed. */
+  packLoaded() {
+    const limb = this.active;
+    if (!limb) return;
+    this.bindRigid(limb);
+    this.bindSoft(limb);
+    this.applyPose();
+    this.host.invalidate();
+  }
+
+  /** Rigid parts of the limb and the weight each joint has on them. Adds only what is not bound yet. */
+  private bindRigid(limb: Limb) {
+    const objs = this.host.objects;
+    const s = limb.side;
+    const have = new Set(this.bones.map((b) => b.o));
+    const add = (o: SObj | undefined, w: number[]) => {
+      if (!o || have.has(o)) return;
+      have.add(o);
+      o.root.matrixAutoUpdate = false;
+      this.bones.push({ o, w });
+    };
+    for (const o of objs.values()) {
+      const id = o.rec.id;
+      if (o.rec.pack !== 'skeleton' || o.rec.side !== s) continue;
+      if (limb.upper) {
+        if (id === `humerus-${s}`) add(o, [1, 0, 0, 0]);
+        else if (id === `ulna-${s}`) add(o, [1, 1, 0, 0]);
+        else if (id === `radius-${s}`) add(o, [1, 1, 1, 0]);
+        else if (HAND.test(id)) add(o, [1, 1, 1, 1]);
+      } else {
+        if (id === `femur-${s}`) add(o, [1, 0, 0, 0]);
+        else if (id === `patella-${s}`) add(o, [1, 0.7, 0, 0]);
+        else if (id === `tibia-${s}` || id === `fibula-${s}`) add(o, [1, 1, 0, 0]);
+        else if (id === `talus-${s}`) add(o, [1, 1, 1, 0]);
+        else if (FOOT.test(id)) add(o, [1, 1, 1, 1]);
+      }
+    }
+    // origin/insertion patches ride on their bone
+    const boneW = new Map(this.bones.filter((b) => b.o.rec.pack === 'skeleton').map((b) => [b.o.rec.id, b.w]));
+    for (const [att, bone] of this.host.attachBoneMap()) {
+      const w = boneW.get(bone);
+      if (w) add(objs.get(att), w);
+    }
+  }
+
+  /** Soft tissue of the limb: who belongs, per-vertex weights, shader uniforms. Adds only what is not bound yet. */
+  private bindSoft(limb: Limb) {
+    const s = limb.side;
+    const key = s + (limb.upper ? 'u' : 'd');
+    const sh = limb.joints[0].pivot;
+    const have = new Set(this.soft);
+    let cache = this.skins.get(key);
+    if (!cache) this.skins.set(key, (cache = new Map()));
+    for (const o of this.host.objects.values()) {
+      if (have.has(o)) continue;
+      const r = o.rec;
+      if (r.side !== s || r.pack === 'skeleton' || r.pack === 'attachments' || r.pack === 'viscera' || r.pack === 'lymphoid') continue;
+      const path = r.path.join('|');
+      let member = false;
+      if (r.pack === 'muscles' || r.pack === 'skin') {
+        member = limb.upper ? /upper limb/i.test(path) || TRUNK_TO_HUMERUS.test(r.id) : /lower limb/i.test(path);
+      } else if (r.pack === 'joints') {
+        member = limb.upper ? /free upper limb/i.test(path) : /free lower limb/i.test(path);
+      } else {
+        const c = o.center;
+        // vessels and nerves have no limb grouping: lateral to the glenoid (arm) or below the hip joint (leg)
+        member = limb.upper ? Math.abs(c.x) > Math.abs(sh.x) - 0.012 && c.y < sh.y + 0.03 && c.y > 0.5 : c.y < sh.y - 0.03 && Math.abs(c.x) > 0.02;
+      }
+      if (!member) continue;
+      let sk = cache.get(r.id);
+      if (sk === undefined) {
+        sk = this.skinFor(limb, key, o);
+        cache.set(r.id, sk);
+      }
+      if (!sk) continue; // no part of it follows this limb
+      const rig = o.rig;
+      rig.uJP.value = limb.shared.uJP;
+      rig.uJA.value = limb.shared.uJA;
+      rig.uPull.value.set(0, 0, 0);
+      const weights = sk;
+      o.meshes.forEach((mesh, i) => {
+        const g = mesh.geometry as THREE.BufferGeometry;
+        g.setAttribute('rigW', weights.w[i]);
+        if (weights.pull) g.setAttribute('rigP', weights.pull[i]);
+        if (!mesh.customDepthMaterial) mesh.customDepthMaterial = makeRigDepthMaterial(rig);
+      });
+      rig.uRigOn.value = 1;
+      this.soft.push(o);
+      if (sk.pull && sk.insertion) this.pulled.push({ o, at: sk.insertion, w: sk.insertionW });
+    }
+  }
+
+  /** Distance fields to the bones this limb moves and to the bones that stay, built once per limb. */
+  private fieldsFor(limb: Limb, key: string) {
+    let F = this.fields.get(key);
+    if (F) return F;
+    const moving = new Set(this.bones.filter((b) => b.o.rec.pack === 'skeleton' && b.w[0] === 1).map((b) => b.o));
+    const pv = limb.joints[0].pivot;
+    const box = [pv.x - 0.2, pv.y - 0.2, pv.z - 0.2, pv.x + 0.2, pv.y + 0.2, pv.z + 0.2];
+    const distal: Cloud[] = [];
+    for (const o of moving) for (const mesh of o.meshes) distal.push(restArrays(o, mesh, false));
+    for (const c of distal)
+      for (let i = 0; i < c.pos.length; i += 3)
+        for (let a = 0; a < 3; a++) {
+          const v = c.pos[i + a];
+          if (v < box[a]) box[a] = v;
+          if (v > box[a + 3]) box[a + 3] = v;
+        }
+    for (let a = 0; a < 3; a++) {
+      box[a] -= FIELD_MARGIN;
+      box[a + 3] += FIELD_MARGIN;
+    }
+    const proximal: Cloud[] = [];
+    for (const o of this.host.objects.values()) {
+      if (o.rec.pack !== 'skeleton' || moving.has(o)) continue;
+      const b = o.box;
+      if (b.max.x < box[0] || b.min.x > box[3] || b.max.y < box[1] || b.min.y > box[4] || b.max.z < box[2] || b.min.z > box[5]) continue;
+      for (const mesh of o.meshes) proximal.push(restArrays(o, mesh, false));
+    }
+    const voxel = Math.max(0.005, Math.cbrt(((box[3] - box[0]) * (box[4] - box[1]) * (box[5] - box[2])) / FIELD_VOXELS));
+    F = { distal: buildField(distal, box, voxel), proximal: buildField(proximal, box, voxel) };
+    this.fields.set(key, F);
+    return F;
+  }
+
+  private skinFor(limb: Limb, key: string, o: SObj): Skin | null {
+    const F = this.fieldsFor(limb, key);
+    const hinges: Hinge[] = limb.joints.slice(1).map((j) => ({ px: j.pivot.x, py: j.pivot.y, pz: j.pivot.z, nx: j.plane.x, ny: j.plane.y, nz: j.plane.z, off: j.offset, band: j.band }));
+    const parts: SkinPart[] = o.meshes.map((mesh) => restArrays(o, mesh, true));
+    const res = skin(parts, F.distal, F.proximal, hinges, o.rec.pack === 'muscles');
+    if (!res.moved) return null;
+    return {
+      w: res.w.map((a) => new THREE.BufferAttribute(a, 4, true)),
+      pull: res.pull ? res.pull.map((a) => new THREE.BufferAttribute(a, 4, true)) : null,
+      insertion: res.insertion ? new THREE.Vector3(res.insertion[0], res.insertion[1], res.insertion[2]) : null,
+      insertionW: res.insertionW,
+    };
   }
 
   private belly(o: SObj): Belly {
@@ -754,6 +877,16 @@ export class Motion {
       b.o.root.updateMatrixWorld(true);
       this.boneM.set(b.o.rec.id, m.clone());
     }
+    // trunk muscles that insert on the limb: tell the shader where their insertion has gone
+    for (const pl of this.pulled) {
+      m.identity();
+      for (let j = 0; j < 4; j++) {
+        if (!pl.w[j]) continue;
+        qq.copy(id).slerp(qs[j], pl.w[j]);
+        m.multiply(pivotMatrix(limb.joints[j].pivot, qq, part));
+      }
+      pl.o.rig.uPull.value.copy(pl.at).applyMatrix4(m).sub(pl.at);
+    }
     // contraction looks: activation follows the joint excursion; the belly works hardest while shortening
     const p = this.phase === 'cycle' ? this.progress() : this.phase === 'pre' ? 0 : 0;
     const concentric = this.t < 0.5;
@@ -779,7 +912,11 @@ export class Motion {
   }
 
   private unbindRig() {
-    for (const o of this.soft) o.rig.uRigOn.value = 0;
+    for (const o of this.soft) {
+      o.rig.uRigOn.value = 0;
+      o.rig.uPull.value.set(0, 0, 0);
+    }
+    this.pulled = [];
     for (const b of this.bones) {
       b.o.root.matrix.copy(b.o.restMatrix);
       b.o.root.matrix.decompose(b.o.root.position, b.o.root.quaternion, b.o.root.scale);

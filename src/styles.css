@@ -2023,8 +2023,14 @@ details.more p {
   z-index: 12;
   pointer-events: none;
 }
+/* Panels take taps; the pin's leader line and its tag are drawings on top of the model and must let
+   every tap and drag through (the leader is a full-screen SVG). */
 .quiz-wrap > * {
   pointer-events: auto;
+}
+.quiz-wrap > .leader,
+.quiz-wrap > .pin-tag {
+  pointer-events: none;
 }
 .quiz-scroll {
   position: absolute;
