@@ -546,7 +546,7 @@ export function Station({ q, idx, total, exam, choice, seed, marks, onDone, onQu
             )}
           </p>
           <p className={isCase ? 'placard-prompt stem' : 'placard-prompt'}>{promptFor(q, t, lang)}</p>
-          {showsName(q) && <p className="placard-latin latin">{db.latin(q.key)}</p>}
+          {showsName(q) && <p className="placard-latin latin">{q.label ?? db.latin(q.key)}</p>}
           {!exam && card && (
             <p className="placard-card num">
               {card.right}/{card.seen}

@@ -27,6 +27,8 @@ export interface Question {
   kind?: string;
   /** "Name one of these" questions: the names that count, without their spelling variants. */
   oneOf?: string[];
+  /** Name shown on the placard when the plain Latin name is not enough (a lung segment needs its side). */
+  label?: string;
   /** Clinical case: the vignette this question shows. */
   case?: ClinicalCase;
   /** Meshes shown once the question is answered (clinical cases). */
@@ -207,6 +209,8 @@ function lobeQuestions(db: DB, deck: string, lobeIds: Set<string>): Question[] {
     if (!lobe?.length) continue;
     seen.add(l.k);
     out.push({
+      // both lungs have a segment of the same name, so the lung is part of the question
+      label: `${db.latin(l.k)} pulmonis ${/left-lung/.test(l.on) ? 'sinistri' : 'dextri'}`,
       id: `lobe:${l.k}`, type: 'lobe', key: l.k, ids: [l.on], side: l.side, landmark: l, answers: lobe, display: lobe[0],
       layers: ['respiratory'], packs: ['viscera'], ghost: false, region: 'thorax', deck, group: 'lobe', kind: 'landmark',
     });
@@ -239,8 +243,10 @@ function caseQuestions(db: DB, deck: string): Question[] {
       }
     }
     const right = optionText(c.options[0]);
+    // a limb is shown on the right side only, like the limb decks; the chest is shown whole
+    const side = c.area === 'upper' || c.area === 'lower' ? 'r' : null;
     out.push({
-      id: `case:${c.id}`, type: 'case', key: c.focus?.[0] ?? c.id, ids: [], reveal, side: 'r', answers: [right], display: right,
+      id: `case:${c.id}`, type: 'case', key: c.focus?.[0] ?? c.id, ids: [], reveal, side, answers: [right], display: right,
       layers: [...layers], packs: [...packs], ghost: true, region: CASE_REGION[c.area] ?? 'thorax', deck, group: c.area, kind: 'case', case: c,
     });
   }
@@ -386,7 +392,7 @@ export const DECKS: DeckDef[] = [
   },
   {
     id: 'pa8', code: 'PA8', en: 'Vessels and nerves of the limbs', idn: 'Vaskularisasi dan inervasi ekstremitas',
-    blurb: { en: 'Arteries, veins and nerves of the arm and leg: names, parent vessels, drainage and nerve roots.', id: 'Arteri, vena, dan saraf lengan dan tungkai: nama, asal percabangan, muara, dan radiks.' },
+    blurb: { en: 'Arteries, veins and nerves of the limbs, with their origins and roots.', id: 'Arteri, vena, dan saraf ekstremitas, beserta asal dan radiksnya.' },
     types: ['name', 'find', 'roots', 'from', 'drains', 'continues'], packs: ['skeleton', 'vessels', 'nerves'],
     build: (db, english) => {
       // the deck holds the vessels and nerves the course text was written for, so every card has an explanation
@@ -407,8 +413,8 @@ export const DECKS: DeckDef[] = [
   {
     id: 'dx', code: 'Dx', en: 'Clinical cases', idn: 'Kasus klinis',
     blurb: {
-      en: 'Short cases on nerve injuries, fractures, dislocations and the chest. Pick the one best answer.',
-      id: 'Kasus singkat tentang cedera saraf, fraktur, dislokasi, dan toraks. Pilih satu jawaban yang paling tepat.',
+      en: 'Nerve injuries, fractures and chest cases, each with one best answer.',
+      id: 'Cedera saraf, fraktur, dan kasus toraks, masing-masing dengan satu jawaban terbaik.',
     },
     types: ['case'], packs: ['skeleton'],
     build: (db) => caseQuestions(db, 'dx'),

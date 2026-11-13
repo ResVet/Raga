@@ -36,7 +36,11 @@ function skeletonOf(engine: Engine, q: Question): string[] {
   return q.region ? idsInRegion(engine, q.region).filter((id) => engine.objects.get(id)?.layer === 'skeleton') : [];
 }
 
-function pinLandmark(engine: Engine, q: Question) {
+/**
+ * Pin the landmark of a question. `close` moves in on the pin, for naming the landmark itself. Otherwise the
+ * whole bone or lobe stays in view with the pin on it, which is what an answer about that bone needs.
+ */
+function pinLandmark(engine: Engine, q: Question, close: boolean) {
   const l = q.landmark;
   if (!l) return;
   const pnt = engine.worldPointOn(l.on, new THREE.Vector3(...l.p));
@@ -44,9 +48,11 @@ function pinLandmark(engine: Engine, q: Question) {
   const bone = engine.objects.get(l.on);
   const out = bone ? pnt.clone().sub(bone.center).normalize() : n.clone();
   const dir = n.clone().multiplyScalar(0.65).add(out.multiplyScalar(0.35)).normalize();
-  const dist = Math.max(0.15, (bone?.radius ?? 0.1) * 1.3);
-  engine.setPin(pnt, dir, '#ff5d8f', Math.min(1.4, Math.max(0.4, dist / 0.3)));
-  engine.framePoint(pnt, dir, dist);
+  // the pin is sized for the distance it is seen from
+  const dist = close ? Math.max(0.15, (bone?.radius ?? 0.1) * 1.3) : (bone?.radius ?? 0.1) * 4.5;
+  engine.setPin(pnt, dir, '#ff5d8f', Math.min(close ? 1.4 : 3, Math.max(0.4, dist / 0.3)));
+  if (close || !bone) engine.framePoint(pnt, dir, dist);
+  else engine.frameIds([l.on], { dir, pad: 1.25 });
 }
 
 /**
@@ -85,7 +91,7 @@ export function stageQuestion(engine: Engine, q: Question) {
     engine.setRegion(null);
   });
   engine.setExplode(0, false);
-  engine.setSide(q.type === 'find' || q.type === 'case' ? 'both' : (q.side ?? 'both'));
+  engine.setSide(q.type === 'find' ? 'both' : (q.side ?? 'both'));
   let iso: Set<string> | null = null;
   if (q.type === 'case') iso = new Set(skeletonOf(engine, q));
   else if (q.region) {
@@ -104,7 +110,7 @@ export function stageQuestion(engine: Engine, q: Question) {
   } else engine.setXray(false, null);
   engine.setPin(null);
   if (q.type === 'landmark') {
-    pinLandmark(engine, q);
+    pinLandmark(engine, q, true);
     return;
   }
   if (hidden) {
@@ -149,7 +155,9 @@ export function revealAnswer(engine: Engine, q: Question, ok: boolean, pickedId:
     engine.setIsolate(new Set([...skeletonOf(engine, q), ...ids]));
     ids.forEach((id) => tints.set(id, ok ? 'right' : 'target'));
     engine.setTint(tints);
-    engine.frameIds(ids, { pad: 1.8 });
+    // fade the bones so that what lies behind them (the heart, a nerve under the clavicle) can be seen
+    engine.setXray(true, new Set(ids));
+    engine.frameIds(ids, { pad: 1.7 });
     return;
   }
   if (q.type !== 'landmark') q.ids.forEach((id) => tints.set(id, ok ? 'right' : 'target'));
@@ -161,5 +169,5 @@ export function revealAnswer(engine: Engine, q: Question, ok: boolean, pickedId:
     engine.setXray(true, focus);
     engine.frameIds(q.ids, { pad: 1.8 });
   }
-  if (q.type === 'lmBone' || q.type === 'lobe') pinLandmark(engine, q);
+  if (q.type === 'lmBone' || q.type === 'lobe') pinLandmark(engine, q, false);
 }
