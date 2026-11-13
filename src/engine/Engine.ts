@@ -142,7 +142,7 @@ export class Engine {
   private pickablesDirty = true;
   private regionBoxes: THREE.Box3[] | null = null;
   private regionPath: RegExp | null = null;
-  private insets = { left: 0, right: 0, bottom: 0 };
+  private insets = { left: 0, right: 0, bottom: 0, top: 0 };
   private batching = 0;
   private pendingApply = false;
   private visVersion = 0;
@@ -579,8 +579,11 @@ export class Engine {
   }
 
   /** Panels covering the left/right edge of the canvas (CSS px); framing centres on the free area. */
-  setInsets(left: number, right: number, bottom = 0) {
-    this.insets = { left, right, bottom };
+  /** Space the panels take on each side of the view, in CSS pixels. The specimen is centred in what is left. */
+  setInsets(left: number, right: number, bottom = 0, top = 0) {
+    const cur = this.insets;
+    if (cur.left === left && cur.right === right && cur.bottom === bottom && cur.top === top) return;
+    this.insets = { left, right, bottom, top };
     this.applyViewOffset();
     this.invalidate();
   }
@@ -589,8 +592,8 @@ export class Engine {
     const w = Math.max(1, this.container.clientWidth);
     const h = Math.max(1, this.container.clientHeight);
     const shift = (this.insets.left - this.insets.right) / 2;
-    const shiftY = this.insets.bottom / 2;
-    if (Math.abs(shift) < 1 && shiftY < 1) this.camera.clearViewOffset();
+    const shiftY = (this.insets.bottom - this.insets.top) / 2;
+    if (Math.abs(shift) < 1 && Math.abs(shiftY) < 1) this.camera.clearViewOffset();
     else this.camera.setViewOffset(w, h, -shift, shiftY, w, h);
     this.camera.updateProjectionMatrix();
   }
@@ -832,7 +835,7 @@ export class Engine {
   frameBox(box: THREE.Box3, opts: { dir?: THREE.Vector3; pad?: number; instant?: boolean } = {}) {
     const sphere = box.getBoundingSphere(new THREE.Sphere());
     const r = Math.max(sphere.radius * (opts.pad ?? 1.08), 0.02);
-    const freeH = Math.max(120, this.container.clientHeight - this.insets.bottom);
+    const freeH = Math.max(120, this.container.clientHeight - this.insets.bottom - this.insets.top);
     const vfov = 2 * Math.atan(Math.tan(THREE.MathUtils.degToRad(this.camera.fov) / 2) * (freeH / Math.max(1, this.container.clientHeight)));
     const freeW = Math.max(120, this.container.clientWidth - this.insets.left - this.insets.right);
     const hfov = 2 * Math.atan(Math.tan(THREE.MathUtils.degToRad(this.camera.fov) / 2) * (freeW / Math.max(1, this.container.clientHeight)));
@@ -851,7 +854,7 @@ export class Engine {
     dir.normalize();
     // `dist` is meant for a view at least as wide as it is tall; a portrait phone shows a narrower
     // slice at the same distance, so step back until the same width fits
-    const freeH = Math.max(120, this.container.clientHeight - this.insets.bottom);
+    const freeH = Math.max(120, this.container.clientHeight - this.insets.bottom - this.insets.top);
     const freeW = Math.max(120, this.container.clientWidth - this.insets.left - this.insets.right);
     const d = dist * Math.min(2.4, Math.max(1, freeH / freeW));
     this.flyTo(p.clone().addScaledVector(dir, d), p.clone(), instant);
