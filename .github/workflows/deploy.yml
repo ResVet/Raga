@@ -22,6 +22,7 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - run: npm test
       - run: npm run build
       - name: Stamp the build
         # a new stamp on every run means a re-run always publishes a fresh Pages deployment

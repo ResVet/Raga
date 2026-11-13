@@ -1,0 +1,193 @@
+[
+  {
+    "id": "lad-occlusion",
+    "stem": {
+      "en": "A 60-year-old man has crushing chest pain. The ECG shows an infarct of the anterior wall of the left ventricle and the front part of the interventricular septum. Which artery is blocked?",
+      "id": "Seorang laki-laki 60 tahun mengalami nyeri dada seperti tertindih. EKG menunjukkan infark dinding anterior ventriculus sinister dan bagian depan septum interventriculare. Arteri apa yang tersumbat?"
+    },
+    "options": ["Ramus interventricularis anterior", "Arteria coronaria dextra", "Ramus circumflexus", "Ramus marginalis dexter"],
+    "explain": {
+      "en": "The anterior interventricular branch of the left coronary artery (left anterior descending artery) runs in the anterior interventricular groove to the apex. It supplies the anterior wall of the left ventricle, the anterior two thirds of the septum and the apex. It is the coronary artery that is blocked most often.",
+      "id": "Ramus interventricularis anterior dari a. coronaria sinistra (left anterior descending artery) berjalan di sulcus interventricularis anterior menuju apex. Cabang ini memperdarahi dinding anterior ventriculus sinister, dua pertiga anterior septum, dan apex. Arteri koroner inilah yang paling sering tersumbat."
+    },
+    "focus": ["anterior-interventricular-artery", "left-coronary-artery", "left-ventricle"]
+  },
+  {
+    "id": "rca-inferior-infarct",
+    "stem": {
+      "en": "A patient with an infarct of the inferior wall of the heart develops a slow heart rate and a block at the atrioventricular node. Which artery usually supplies both the inferior wall and the atrioventricular node?",
+      "id": "Seorang pasien dengan infark dinding inferior jantung mengalami denyut jantung lambat dan blok di nodus atrioventricularis. Arteri apa yang biasanya memperdarahi dinding inferior sekaligus nodus atrioventricularis?"
+    },
+    "options": ["Arteria coronaria dextra", "Ramus interventricularis anterior", "Ramus circumflexus", "Arteria coronaria sinistra"],
+    "explain": {
+      "en": "In most people the right coronary artery gives off the posterior interventricular branch. It then supplies the inferior wall of the ventricles, the posterior third of the septum and the atrioventricular node. It also supplies the sinuatrial node in about 60 percent of people.",
+      "id": "Pada kebanyakan orang, a. coronaria dextra memberikan ramus interventricularis posterior. Arteri ini kemudian memperdarahi dinding inferior ventrikel, sepertiga posterior septum, dan nodus atrioventricularis. Arteri ini juga memperdarahi nodus sinuatrialis pada sekitar 60 persen orang."
+    },
+    "focus": ["right-coronary-artery", "right-inferolateral-branch-of-right-coronary-artery", "right-ventricle"]
+  },
+  {
+    "id": "coronary-dominance",
+    "stem": {
+      "en": "What decides whether a heart is called right dominant or left dominant?",
+      "id": "Apa yang menentukan apakah suatu jantung disebut dominan kanan atau dominan kiri?"
+    },
+    "options": [
+      { "en": "Which coronary artery gives off the posterior interventricular branch", "id": "Arteri koroner mana yang memberikan ramus interventricularis posterior" },
+      { "en": "Which ventricle has the thicker wall", "id": "Ventrikel mana yang dindingnya lebih tebal" },
+      { "en": "Which coronary artery is wider at its origin", "id": "Arteri koroner mana yang lebih lebar di pangkalnya" },
+      { "en": "Which coronary artery supplies the sinuatrial node", "id": "Arteri koroner mana yang memperdarahi nodus sinuatrialis" }
+    ],
+    "explain": {
+      "en": "Dominance is named after the artery that gives off the posterior interventricular branch. In about two thirds of hearts this is the right coronary artery. In the others the branch comes from the circumflex branch of the left coronary artery, or both arteries contribute.",
+      "id": "Dominansi dinamai menurut arteri yang memberikan ramus interventricularis posterior. Pada sekitar dua pertiga jantung, arteri itu adalah a. coronaria dextra. Pada yang lain, cabang ini berasal dari ramus circumflexus a. coronaria sinistra, atau kedua arteri ikut memberi cabang."
+    },
+    "focus": ["right-coronary-artery", "circumflex-artery-of-heart"]
+  },
+  {
+    "id": "mitral-auscultation",
+    "stem": {
+      "en": "Where is the stethoscope placed to hear the mitral valve best?",
+      "id": "Di mana stetoskop diletakkan untuk mendengar katup mitral dengan paling jelas?"
+    },
+    "options": [
+      { "en": "Left fifth intercostal space in the midclavicular line", "id": "Spatium intercostale V kiri di linea medioclavicularis" },
+      { "en": "Right second intercostal space beside the sternum", "id": "Spatium intercostale II kanan di tepi sternum" },
+      { "en": "Left second intercostal space beside the sternum", "id": "Spatium intercostale II kiri di tepi sternum" },
+      { "en": "Lower end of the sternum, slightly to the left", "id": "Ujung bawah sternum, sedikit ke kiri" }
+    ],
+    "explain": {
+      "en": "The sound of a valve is carried in the direction of the blood flow, so each valve is heard some distance from where it lies. The mitral valve is heard at the apex, in the left fifth intercostal space at the midclavicular line. The aortic valve is heard in the right second space, the pulmonary valve in the left second space, and the tricuspid valve near the lower left border of the sternum.",
+      "id": "Bunyi katup dihantarkan searah aliran darah, sehingga setiap katup terdengar agak jauh dari letaknya. Katup mitral terdengar di apex, di spatium intercostale V kiri pada linea medioclavicularis. Katup aorta terdengar di spatium intercostale II kanan, katup pulmonal di spatium intercostale II kiri, dan katup trikuspid di dekat tepi kiri bawah sternum."
+    },
+    "focus": ["left-ventricle", "posterior-leaflet-of-left-atrioventricular-valve"]
+  },
+  {
+    "id": "aortic-stenosis-murmur",
+    "stem": {
+      "en": "A harsh systolic murmur is loudest in the right second intercostal space beside the sternum and spreads to the neck. Which valve is narrowed?",
+      "id": "Bising sistolik kasar terdengar paling keras di spatium intercostale II kanan di tepi sternum dan menjalar ke leher. Katup mana yang menyempit?"
+    },
+    "options": [
+      { "en": "Aortic valve", "id": "Valva aortae" },
+      { "en": "Pulmonary valve", "id": "Valva trunci pulmonalis" },
+      { "en": "Mitral valve", "id": "Valva atrioventricularis sinistra (mitralis)" },
+      { "en": "Tricuspid valve", "id": "Valva atrioventricularis dextra (tricuspidalis)" }
+    ],
+    "explain": {
+      "en": "The aortic valve is heard where the ascending aorta comes closest to the chest wall, in the right second intercostal space. Its murmur follows the blood into the carotid arteries. The pulmonary valve is heard at the same level on the left.",
+      "id": "Katup aorta terdengar di tempat aorta ascendens paling dekat dengan dinding dada, yaitu di spatium intercostale II kanan. Bisingnya mengikuti aliran darah ke a. carotis. Katup pulmonal terdengar setinggi itu juga di sisi kiri."
+    },
+    "focus": ["ascending-aorta", "left-coronary-leaflet", "right-coronary-leaflet", "non-coronary-leaflet"]
+  },
+  {
+    "id": "left-atrium-base",
+    "stem": {
+      "en": "In mitral stenosis one chamber of the heart enlarges and can press on the oesophagus, which makes swallowing difficult. Which chamber forms most of the base (posterior surface) of the heart?",
+      "id": "Pada stenosis mitral, salah satu ruang jantung membesar dan dapat menekan oesophagus sehingga pasien sulit menelan. Ruang mana yang membentuk sebagian besar basis cordis (permukaan posterior jantung)?"
+    },
+    "options": ["Atrium sinistrum", "Atrium dextrum", "Ventriculus sinister", "Ventriculus dexter"],
+    "explain": {
+      "en": "The base of the heart faces backward and is formed mainly by the left atrium, which receives the four pulmonary veins. Only the pericardium separates it from the oesophagus. When the mitral valve is narrow, blood dams back into the left atrium and the chamber swells.",
+      "id": "Basis cordis menghadap ke belakang dan terutama dibentuk oleh atrium sinistrum, yang menerima keempat vv. pulmonales. Ruang ini hanya dipisahkan dari oesophagus oleh pericardium. Bila katup mitral menyempit, darah terbendung di atrium sinistrum dan ruang ini membesar."
+    },
+    "focus": ["left-atrium", "right-superior-pulmonary-vein", "left-superior-pulmonary-vein"]
+  },
+  {
+    "id": "right-ventricle-stab",
+    "stem": {
+      "en": "A knife enters the chest just to the left of the lower part of the sternum. Which chamber of the heart is most likely to be hit first?",
+      "id": "Sebilah pisau menembus dada tepat di sebelah kiri bagian bawah sternum. Ruang jantung mana yang paling mungkin terkena lebih dahulu?"
+    },
+    "options": ["Ventriculus dexter", "Ventriculus sinister", "Atrium dextrum", "Atrium sinistrum"],
+    "explain": {
+      "en": "The anterior (sternocostal) surface of the heart is formed mainly by the right ventricle. The left ventricle forms the apex and the left border, the right atrium forms the right border, and the left atrium forms the back.",
+      "id": "Facies sternocostalis (anterior) jantung terutama dibentuk oleh ventriculus dexter. Ventriculus sinister membentuk apex dan tepi kiri, atrium dextrum membentuk tepi kanan, dan atrium sinistrum membentuk bagian belakang."
+    },
+    "focus": ["right-ventricle", "body-of-sternum"]
+  },
+  {
+    "id": "papillary-muscle-rupture",
+    "stem": {
+      "en": "A few days after a heart attack, a patient suddenly develops severe mitral regurgitation. Which structures normally keep the cusps of the valve from being pushed back into the atrium during systole?",
+      "id": "Beberapa hari setelah serangan jantung, seorang pasien mendadak mengalami regurgitasi mitral berat. Struktur apa yang biasanya menahan cuspis katup agar tidak terdorong kembali ke atrium saat sistol?"
+    },
+    "options": [
+      { "en": "Papillary muscles and tendinous cords", "id": "Musculi papillares dan chordae tendineae" },
+      { "en": "Pectinate muscles", "id": "Musculi pectinati" },
+      { "en": "The fibrous ring of the valve alone", "id": "Anulus fibrosus katup saja" },
+      { "en": "The septomarginal trabecula", "id": "Trabecula septomarginalis" }
+    ],
+    "explain": {
+      "en": "The papillary muscles contract with the ventricle and pull on the tendinous cords. The cords hold the edges of the cusps so that they meet without turning inside out. If a papillary muscle dies and tears, part of the mitral valve swings loose and blood runs back into the left atrium with each beat.",
+      "id": "Musculi papillares berkontraksi bersama ventrikel dan menarik chordae tendineae. Chordae ini menahan tepi cuspis sehingga keduanya bertemu tanpa terbalik ke arah atrium. Bila sebuah musculus papillaris nekrosis dan robek, sebagian katup mitral terlepas dan darah mengalir kembali ke atrium sinistrum pada setiap denyut."
+    },
+    "focus": ["inferior-papillary-muscle-of-left-ventricle", "posterior-leaflet-of-left-atrioventricular-valve", "left-ventricle"]
+  },
+  {
+    "id": "coronary-sinus-opening",
+    "stem": {
+      "en": "Most of the venous blood of the heart wall returns through one large vein in the posterior part of the coronary groove. Into which chamber does it open?",
+      "id": "Sebagian besar darah vena dari dinding jantung kembali melalui satu vena besar di bagian posterior sulcus coronarius. Ke ruang jantung mana vena itu bermuara?"
+    },
+    "options": ["Atrium dextrum", "Atrium sinistrum", "Ventriculus dexter", "Ventriculus sinister"],
+    "explain": {
+      "en": "The coronary sinus collects the great, middle and small cardiac veins and opens into the right atrium, between the opening of the inferior vena cava and the tricuspid valve. The anterior cardiac veins open into the right atrium directly.",
+      "id": "Sinus coronarius menampung v. cordis magna, v. cordis media, dan v. cordis parva, lalu bermuara ke atrium dextrum di antara muara v. cava inferior dan katup trikuspid. Vv. cordis anteriores bermuara langsung ke atrium dextrum."
+    },
+    "focus": ["coronary-sinus", "great-cardiac-vein", "middle-cardiac-vein", "right-atrium"]
+  },
+  {
+    "id": "pulmonary-embolism-path",
+    "stem": {
+      "en": "A clot breaks off from a deep vein of the leg. Through which vessels and chambers does it travel before it lodges?",
+      "id": "Sebuah bekuan darah terlepas dari vena dalam tungkai. Melalui pembuluh dan ruang jantung mana bekuan itu berjalan sebelum tersangkut?"
+    },
+    "options": [
+      { "en": "Inferior vena cava, right atrium, right ventricle, pulmonary trunk", "id": "V. cava inferior, atrium dextrum, ventriculus dexter, truncus pulmonalis" },
+      { "en": "Inferior vena cava, left atrium, left ventricle, aorta", "id": "V. cava inferior, atrium sinistrum, ventriculus sinister, aorta" },
+      { "en": "Superior vena cava, right atrium, right ventricle, pulmonary veins", "id": "V. cava superior, atrium dextrum, ventriculus dexter, vv. pulmonales" },
+      { "en": "Inferior vena cava, right ventricle, right atrium, pulmonary trunk", "id": "V. cava inferior, ventriculus dexter, atrium dextrum, truncus pulmonalis" }
+    ],
+    "explain": {
+      "en": "Blood from the lower limb returns through the femoral and iliac veins to the inferior vena cava, which opens into the right atrium. It passes the tricuspid valve into the right ventricle and is pumped through the pulmonary valve into the pulmonary trunk. The clot stops where the pulmonary arteries become too narrow for it.",
+      "id": "Darah dari ekstremitas inferior kembali melalui v. femoralis dan vv. iliacae ke v. cava inferior, yang bermuara ke atrium dextrum. Darah melewati katup trikuspid ke ventriculus dexter, lalu dipompa melalui katup pulmonal ke truncus pulmonalis. Bekuan berhenti di tempat a. pulmonalis menjadi terlalu sempit untuk dilaluinya."
+    },
+    "focus": ["inferior-vena-cava-thoracic-part", "right-atrium", "right-ventricle", "pulmonary-trunk"]
+  },
+  {
+    "id": "aortic-arch-branches",
+    "stem": {
+      "en": "Which three arteries arise from the arch of the aorta, from right to left?",
+      "id": "Tiga arteri apa yang berasal dari arcus aortae, dari kanan ke kiri?"
+    },
+    "options": [
+      { "en": "Brachiocephalic trunk, left common carotid artery, left subclavian artery", "id": "Truncus brachiocephalicus, a. carotis communis sinistra, a. subclavia sinistra" },
+      { "en": "Right subclavian artery, right common carotid artery, left common carotid artery", "id": "A. subclavia dextra, a. carotis communis dextra, a. carotis communis sinistra" },
+      { "en": "Brachiocephalic trunk, left subclavian artery, left common carotid artery", "id": "Truncus brachiocephalicus, a. subclavia sinistra, a. carotis communis sinistra" },
+      { "en": "Right common carotid artery, left common carotid artery, left subclavian artery", "id": "A. carotis communis dextra, a. carotis communis sinistra, a. subclavia sinistra" }
+    ],
+    "explain": {
+      "en": "The brachiocephalic trunk arises first and divides behind the right sternoclavicular joint into the right common carotid and right subclavian arteries. The left common carotid and left subclavian arteries arise from the arch directly.",
+      "id": "Truncus brachiocephalicus keluar paling dahulu dan bercabang di belakang articulatio sternoclavicularis dextra menjadi a. carotis communis dextra dan a. subclavia dextra. A. carotis communis sinistra dan a. subclavia sinistra keluar langsung dari arcus aortae."
+    },
+    "focus": ["aortic-arch", "brachiocephalic-trunk", "left-common-carotid-artery", "left-subclavian-artery"]
+  },
+  {
+    "id": "cardiac-tamponade",
+    "stem": {
+      "en": "After a stab wound, blood fills the pericardial cavity. The neck veins swell and the blood pressure falls. Why does a small amount of blood have such a large effect?",
+      "id": "Setelah luka tusuk, darah mengisi cavitas pericardiaca. Vena leher membengkak dan tekanan darah turun. Mengapa darah dalam jumlah sedikit menimbulkan akibat sebesar itu?"
+    },
+    "options": [
+      { "en": "The fibrous pericardium cannot stretch quickly, so the heart cannot fill", "id": "Pericardium fibrosum tidak dapat meregang dengan cepat, sehingga jantung tidak dapat terisi" },
+      { "en": "The blood blocks the coronary arteries from outside", "id": "Darah menyumbat arteri koroner dari luar" },
+      { "en": "The phrenic nerves are compressed", "id": "N. phrenicus tertekan" },
+      { "en": "The blood enters the pleural cavity and collapses the lung", "id": "Darah masuk ke cavitas pleuralis dan membuat paru kolaps" }
+    ],
+    "explain": {
+      "en": "The fibrous pericardium is a tough sac that does not stretch, and it is fused to the central tendon of the diaphragm. Fluid that collects quickly inside it squeezes the heart, the thin-walled atria and veins first, so the chambers cannot fill between beats (cardiac tamponade).",
+      "id": "Pericardium fibrosum adalah kantong kuat yang tidak dapat meregang dan menyatu dengan centrum tendineum diaphragma. Cairan yang terkumpul dengan cepat di dalamnya menekan jantung, mula-mula atrium dan vena yang berdinding tipis, sehingga ruang jantung tidak dapat terisi di antara denyut (tamponade jantung)."
+    },
+    "focus": ["right-atrium", "right-ventricle", "left-ventricle"]
+  }
+]
