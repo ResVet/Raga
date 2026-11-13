@@ -2,11 +2,12 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import * as THREE from 'three';
 import { Engine, type Tint } from './engine/Engine';
 import { DB, type SearchItem } from './data/db';
-import { STRINGS } from './i18n';
+import { STRINGS, fmt } from './i18n';
 import { Ctx, loadSettings, saveSettings, setNotice, takeNotice, TIER_EFFECTS, type AppCtx, type AtlasState, type Effects, type Selection, type Settings } from './ui/ctx';
 import { LAYERS, REGIONS, layerOf, type LayerId, type RegionId } from './engine/layers';
 import type { LandmarkRec, PackId, StructureRec } from './data/types';
-import { Header, type Mode } from './ui/Header';
+import { Header, tierName, type Mode } from './ui/Header';
+import { lowerTier } from './ui/tier';
 import { Search } from './ui/Search';
 import { DepthGauge } from './ui/DepthGauge';
 import { BodyMap } from './ui/BodyMap';
@@ -152,14 +153,27 @@ export default function App() {
     setFxSupported(supportsEffects(e));
     applyEffects(e, { ...defaults, ...s0.effects });
     setEngine(e);
+    // A lost WebGL context usually means the GPU ran out of memory. The browser sometimes hands it back
+    // by itself (after a tab switch on a phone, say), so wait a moment. If it stays lost, step the
+    // graphics tier down and reload; a quiz session in progress is kept and offered again afterwards.
+    let lostTimer = 0;
     const offLost = onContextLost(e, () => {
-      const s = loadSettings();
-      const tt = STRINGS[s.lang];
-      if (s.quality === 'ultra') {
-        saveSettings({ ...s, quality: 'high', effects: {} });
-        setNotice('ctxLostUltra');
-        window.location.reload();
-      } else toast(tt.ctxLost, { label: tt.reload, run: () => window.location.reload() });
+      window.clearTimeout(lostTimer);
+      lostTimer = window.setTimeout(() => {
+        if (!e.contextLost) return;
+        const s = loadSettings();
+        const tt = STRINGS[s.lang];
+        const lower = lowerTier(s.quality);
+        if (lower) {
+          saveSettings({ ...s, quality: lower, autoQuality: false, effects: {} });
+          setNotice(`ctxLost:${lower}`);
+          window.location.reload();
+        } else toast(tt.ctxLost, { label: tt.reload, run: () => window.location.reload() });
+      }, 2500);
+    });
+    const offBack = e.onContextRestored(() => {
+      window.clearTimeout(lostTimer);
+      toast(STRINGS[loadSettings().lang].ctxBack);
     });
     const d = new DB(base);
     d.load()
@@ -171,7 +185,9 @@ export default function App() {
       .catch((err) => setBoot({ p: 0, err: String(err), done: false }));
     loadMotionModule().then(setMotionMod);
     return () => {
+      window.clearTimeout(lostTimer);
       offLost();
+      offBack();
       e.dispose();
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -219,7 +235,11 @@ export default function App() {
         setIntro(true);
         window.setTimeout(() => setIntro(false), 1800);
         window.setTimeout(() => setBootGone(true), 1100);
-        if (takeNotice() === 'ctxLostUltra') toast(STRINGS[loadSettings().lang].ctxLostUltra);
+        const notice = takeNotice();
+        if (notice?.startsWith('ctxLost:')) {
+          const s = loadSettings();
+          toast(fmt(STRINGS[s.lang].ctxLostStep, { x: tierName(STRINGS[s.lang], s.quality) }));
+        }
         // open a deep link if there is one
         const h = new URLSearchParams(window.location.hash.slice(1));
         const s = h.get('s');
@@ -385,7 +405,8 @@ export default function App() {
   // the engine centres the specimen in the area the glass leaves free
   const rightPanel = inAtlas && (!!sel || (mode === 'motion' && motionAvailable));
   useEffect(() => {
-    if (!engine) return;
+    // a quiz station measures its own panels and sets the insets itself (ui/QuizStation.tsx)
+    if (!engine || mode === 'quiz') return;
     const apply = () => {
       const w = window.innerWidth, h = window.innerHeight;
       const safeB = probe.current ? parseFloat(getComputedStyle(probe.current).paddingBottom) || 0 : 0;
@@ -401,7 +422,7 @@ export default function App() {
           const sheetH = rightPanel ? (sheet === 'peek' ? 112 : Math.round(h * 0.5)) : 0;
           bottom = GUTTER + 64 + safeB + 8 + sheetH + bar;
         }
-      } else if (mode === 'quiz') bottom = compact ? 150 : 120;
+      }
       engine.setInsets(left, right, bottom);
     };
     apply();
@@ -816,7 +837,7 @@ export default function App() {
                 )}
               </>
             )}
-            {mode === 'quiz' && <Quiz focusKey={quizFocus} onFocusDone={() => setQuizFocus(null)} />}
+            {mode === 'quiz' && <Quiz focusKey={quizFocus} onFocusDone={() => setQuizFocus(null)} onAtlas={onKey} />}
             {mode === 'progress' && <ProgressPage />}
             {mode === 'about' && <AboutPage />}
             <SettingsDialog open={settingsOpen} onClose={() => setSettingsOpen(false)} onAbout={() => setMode('about')} />
