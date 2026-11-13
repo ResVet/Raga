@@ -328,7 +328,9 @@ export default function App() {
     if (!rec || (rec.pack !== 'muscles' && rec.pack !== 'joints')) return [];
     try {
       const key = rec.pack === 'muscles' ? muscleKeyOf(rec) : db.parentConcept(rec) ?? rec.k;
-      const list = motionMod.clipsForKey(db, key, rec.side ?? 'r');
+      let list = motionMod.clipsForKey(db, key, rec.side ?? 'r');
+      // the movement table lists some muscles under the key of each head only
+      if ((!Array.isArray(list) || !list.length) && key !== rec.k) list = motionMod.clipsForKey(db, rec.k, rec.side ?? 'r');
       return Array.isArray(list) ? list.slice(0, 4) : [];
     } catch {
       return [];

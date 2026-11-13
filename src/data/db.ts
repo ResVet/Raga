@@ -120,13 +120,13 @@ export class DB {
     const known = this.parents.get(s.id);
     if (known !== undefined) return known;
     let found: string | null = null;
-    for (let i = s.path.length - 1; i >= Math.max(0, s.path.length - 2); i--) {
+    // the written entry of a muscle head names its muscle; the model hierarchy groups only some of them
+    const whole = this.content.get(s.k)?.kind === 'muscle-part' ? this.content.get(s.k)!.facts?.muscle : undefined;
+    if (typeof whole === 'string' && this.content.get(whole)?.kind === 'muscle') found = whole;
+    for (let i = s.path.length - 1; !found && i >= Math.max(0, s.path.length - 2); i--) {
       const k = slug(s.path[i]);
       const c = this.content.get(k);
-      if ((c && (c.kind === 'muscle' || c.kind === 'joint' || c.kind === 'bone' || c.kind === 'organ')) || (i === s.path.length - 1 && /muscle$|^Gastrocnemius|^Quadriceps|^Triceps|joint$/i.test(s.path[i]))) {
-        found = k;
-        break;
-      }
+      if ((c && (c.kind === 'muscle' || c.kind === 'joint' || c.kind === 'bone' || c.kind === 'organ')) || (i === s.path.length - 1 && /muscle$|^Gastrocnemius|^Quadriceps|^Triceps|joint$/i.test(s.path[i]))) found = k;
     }
     this.parents.set(s.id, found);
     return found;
