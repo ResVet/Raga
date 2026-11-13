@@ -33,6 +33,8 @@ export interface Question {
   case?: ClinicalCase;
   /** Meshes shown once the question is answered (clinical cases). */
   reveal?: string[];
+  /** How many of the first `reveal` meshes belong to the structure the case is about. */
+  lead?: number;
 }
 
 export interface DeckDef {
@@ -232,21 +234,23 @@ function caseQuestions(db: DB, deck: string): Question[] {
     const reveal: string[] = [];
     const packs = new Set<PackId>(['skeleton']);
     const layers = new Set<LayerId>(['skeleton']);
+    let lead = 0;
     for (const key of c.focus ?? []) {
       for (const id of meshesFor(db, key, 'r')) {
         const s = db.byId.get(id);
         const layer = s && layerOf(s);
-        if (!s || !layer || layer === 'attachments') continue;
+        if (!s || !layer || layer === 'attachments' || reveal.includes(id)) continue;
         reveal.push(id);
         packs.add(s.pack);
         layers.add(layer);
       }
+      if (!lead) lead = reveal.length;
     }
     const right = optionText(c.options[0]);
     // a limb is shown on the right side only, like the limb decks; the chest is shown whole
     const side = c.area === 'upper' || c.area === 'lower' ? 'r' : null;
     out.push({
-      id: `case:${c.id}`, type: 'case', key: c.focus?.[0] ?? c.id, ids: [], reveal, side, answers: [right], display: right,
+      id: `case:${c.id}`, type: 'case', key: c.focus?.[0] ?? c.id, ids: [], reveal, lead, side, answers: [right], display: right,
       layers: [...layers], packs: [...packs], ghost: true, region: CASE_REGION[c.area] ?? 'thorax', deck, group: c.area, kind: 'case', case: c,
     });
   }

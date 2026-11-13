@@ -159,6 +159,28 @@ export function stageQuestion(engine: Engine, q: Question) {
 }
 
 /** Show the answer on the model: colour the target, mark a wrong pick, bring hidden targets into view. */
+/**
+ * The part of a case to look at: the structure the case is about, widened until nearly half of everything
+ * the case shows is in the picture. A small artery beside a long bone would otherwise be a dot.
+ */
+function caseBox(engine: Engine, ids: string[], lead: number): THREE.Box3 {
+  const boxOf = (list: string[]) => {
+    const b = new THREE.Box3();
+    for (const id of list) {
+      const o = engine.objects.get(id);
+      if (o) b.union(o.box);
+    }
+    return b;
+  };
+  const all = boxOf(ids);
+  const main = boxOf(ids.slice(0, Math.max(1, lead)));
+  if (main.isEmpty()) return all;
+  const span = (b: THREE.Box3) => Math.max(...b.getSize(new THREE.Vector3()).toArray());
+  const short = 0.45 * span(all) - span(main);
+  if (short > 0) main.expandByScalar(short / 2);
+  return main;
+}
+
 export function revealAnswer(engine: Engine, q: Question, ok: boolean, pickedId: string | null) {
   const tints = new Map<string, Tint>();
   if (q.type === 'case') {
@@ -169,7 +191,7 @@ export function revealAnswer(engine: Engine, q: Question, ok: boolean, pickedId:
     engine.setTint(tints);
     // fade the bones so that what lies behind them (the heart, a nerve under the clavicle) can be seen
     engine.setXray(true, new Set(ids));
-    engine.frameIds(ids, { pad: 1.7 });
+    engine.frameBox(caseBox(engine, ids, q.lead ?? ids.length), { pad: 1.2 });
     return;
   }
   if (q.type !== 'landmark') q.ids.forEach((id) => tints.set(id, ok ? 'right' : 'target'));
