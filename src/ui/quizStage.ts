@@ -51,8 +51,20 @@ function pinLandmark(engine: Engine, q: Question, close: boolean) {
   // the pin is sized for the distance it is seen from
   const dist = close ? Math.max(0.15, (bone?.radius ?? 0.1) * 1.3) : (bone?.radius ?? 0.1) * 4.5;
   engine.setPin(pnt, dir, '#ff5d8f', Math.min(close ? 1.4 : 3, Math.max(0.4, dist / 0.3)));
-  if (close || !bone) engine.framePoint(pnt, dir, dist);
-  else engine.frameIds([l.on], { dir, pad: 1.25 });
+  if (close || !bone) {
+    engine.framePoint(pnt, dir, dist);
+    return;
+  }
+  // a long bone is looked at from the side the landmark is on, never along its shaft
+  const view = dir.clone();
+  const size = bone.box.getSize(new THREE.Vector3()).toArray();
+  const long = size.indexOf(Math.max(...size));
+  if (size[long] > 1.8 * Math.max(...size.filter((_, i) => i !== long))) {
+    view.setComponent(long, 0);
+    if (view.length() > 0.25) view.normalize();
+    else view.copy(dir);
+  }
+  engine.frameIds([l.on], { dir: view, pad: 1.25 });
 }
 
 /**

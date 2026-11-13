@@ -109,6 +109,74 @@ All free-text facts are objects `{"en": "...", "id": "..."}`; Latin-only facts a
 - organ / organ-part / cartilage: `location` {en,id}, `features` {en,id}, optional `relations` {en,id},
   `blood`, `nerve`, optional `clinical` {en,id}.
 
+## What the quiz reads
+
+The quiz decks are built from these files alone, so a field that is missing means a question that is never
+asked. This is where each kind of question comes from:
+
+| Question | Field |
+| --- | --- |
+| Name the pinned structure, find the named structure | `la` and `alt` |
+| Origin, insertion, innervation, action of a muscle | `quiz.origin`, `quiz.insertion`, `quiz.nerve`, `quiz.action` |
+| Type of a joint, type of a bone | `quiz.type` |
+| Axes of a joint | `quiz.axes` |
+| Ligaments of a joint | `facts.ligaments` |
+| Bones a bone articulates with | `facts.articulates` |
+| Bone a landmark belongs to | `quiz.bone` on the landmark |
+| Roots of a nerve | `quiz.roots` |
+| Where a vessel, nerve or bronchus comes from | `quiz.from` |
+| Where a vein drains, what a vessel continues as | `quiz.drains`, `quiz.continues` |
+| Lobe of a bronchopulmonary segment | `quiz.lobe` on the segment |
+
+For the two list questions (`facts.articulates`, `facts.ligaments`) the student gives any one item of the
+list, so every item must be a name that can stand alone. Write the name first and any remark in brackets
+after it, for example "Ligamentum collaterale ulnare (pars anterior)": the quiz shows and grades the name and
+drops the bracket. Names inside the bracket that begin with Ligamentum, Ligamenta, Os or Ossa and are joined
+by "et" are accepted as answers as well, as in "Ligamentum deltoideum (Ligamentum tibionaviculare et
+Ligamentum tibiocalcaneum)".
+
+The wrong options of a multiple-choice question are the right answers of other cards in the same deck. A
+card whose first answer is a full sentence, or English where the others are Latin, stands out among them, so
+keep the first item of every `quiz` array a short Latin term or phrase.
+
+A muscle whose heads are separate meshes is asked as one muscle. The link is the `facts.muscle` field of
+each `muscle-part` entry: it must hold the key of the `muscle` entry with the facts. Without it the heads
+are asked by name only and the origin, insertion, nerve and action of the whole muscle are never asked.
+
+## Clinical cases
+
+Cases live in `content/cases/upper.json`, `lower.json`, `thorax.json` and `heart.json`. Each file is a JSON
+array, and `python3 pipeline/build_cases.py` (or `npm run cases`) checks them and writes
+`public/data/cases.json`.
+
+```json
+{
+  "id": "axillary-nerve-surgical-neck",
+  "stem": {"en": "A 24-year-old man falls from a motorcycle and ... Which nerve is injured?", "id": "..."},
+  "options": ["Nervus axillaris", "Nervus radialis", "Nervus suprascapularis", "Nervus musculocutaneus"],
+  "explain": {"en": "...", "id": "..."},
+  "focus": ["axillary-nerve", "deltoid-muscle", "teres-minor-muscle"]
+}
+```
+
+- `id`: lowercase words joined by hyphens, unique across all four files. The student's progress is stored
+  under it, so do not rename a case once it is published.
+- `stem`: a short clinical story that ends in one question. Give the findings a student could use to reason
+  to the answer (mechanism, what the patient cannot do, where sensation is lost). The stem must not contain
+  the answer itself; `npm test` fails when it does.
+- `options`: three to five, the correct one first. The app shuffles them. An option is a Latin term, or
+  `{"en": "...", "id": "..."}` when the answer is a statement. Wrong options should be things a student
+  could confuse with the answer: the neighbouring nerve, the other head, the vessel of the next compartment.
+- `explain`: two to four sentences per language that say why the answer is right and, where it helps, why
+  the nearest wrong option is wrong.
+- `focus`: keys of the structures to show on the model after the answer, the most important one first. The
+  builder stops when a key has no mesh. For the limbs the right side is shown.
+
+Cases follow the same sources and the same writing rules as the rest of the content. Keep to anatomy a
+Blok 4 student can reason out from the structures: nerve injuries, fractures and what they endanger,
+compartments, pulses, surface anatomy, auscultation points, coronary territories. Drug doses, laboratory
+values and management belong to later blocks.
+
 ## Writing style (strict)
 
 The texts must read like a careful human teacher wrote them.
