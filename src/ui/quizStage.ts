@@ -160,12 +160,12 @@ export function stageQuestion(engine: Engine, q: Question) {
 
 /** Show the answer on the model: colour the target, mark a wrong pick, bring hidden targets into view. */
 /**
- * Where a case takes place. Its small structures mark the spot: a long nerve listed with two muscles of
- * the thumb is about the thumb. When all of them are of a size, the first structure of the case is the
- * place. The box is widened until the surroundings are in the picture as well.
+ * Where a case takes place and what must stay in sight there. Structures much smaller than the longest
+ * one mark the spot: a nerve that runs the length of the arm, listed with two muscles of the thumb, is a
+ * case about the thumb. The view then closes in on them and keeps some of the surroundings. When all
+ * structures are of a size, everything is shown and the first one is kept in sight.
  */
-function casePlace(engine: Engine, ids: string[], lead: number): { box: THREE.Box3; site: string[] } {
-  const span = (b: THREE.Box3) => Math.max(...b.getSize(new THREE.Vector3()).toArray());
+function casePlace(engine: Engine, ids: string[], lead: number): { box: THREE.Box3; look: string[] } {
   const boxOf = (list: string[]) => {
     const b = new THREE.Box3();
     for (const id of list) {
@@ -174,15 +174,16 @@ function casePlace(engine: Engine, ids: string[], lead: number): { box: THREE.Bo
     }
     return b;
   };
-  const spans = ids.map((id) => span(boxOf([id])));
+  const spans = ids.map((id) => Math.max(...boxOf([id]).getSize(new THREE.Vector3()).toArray()));
   const longest = Math.max(...spans);
-  const small = ids.filter((_, i) => spans[i] <= 0.5 * longest);
-  const site = small.length ? small : ids.slice(0, Math.max(1, lead));
-  const all = boxOf(ids);
-  const box = boxOf(site);
-  const short = Math.max(0.45 * span(all), Math.min(span(all), 0.12)) - span(box);
-  if (short > 0) box.expandByScalar(short / 2);
-  return { box, site };
+  const small = ids.filter((_, i) => spans[i] <= 0.3 * longest);
+  const all = boxOf(ids).getBoundingSphere(new THREE.Sphere());
+  if (!small.length) return { box: boxOf(ids), look: ids.slice(0, Math.max(1, lead)) };
+  const spot = boxOf(small).getBoundingSphere(new THREE.Sphere());
+  const r = Math.max(spot.radius, 0.45 * all.radius, Math.min(all.radius, 0.07));
+  // a cube whose corners lie on the sphere of that radius, since the camera fits the corners
+  const half = r / Math.sqrt(3);
+  return { box: new THREE.Box3().setFromCenterAndSize(spot.center, new THREE.Vector3(2 * half, 2 * half, 2 * half)), look: small };
 }
 
 /** The side of the body part that a place lies on, with a little of the front in view. */
@@ -208,11 +209,11 @@ export function revealAnswer(engine: Engine, q: Question, ok: boolean, pickedId:
     engine.setTint(tints);
     // fade the bones so that what lies behind them (the heart, a nerve under the clavicle) can be seen
     engine.setXray(true, new Set(ids));
-    const { box, site } = casePlace(engine, ids, q.lead ?? ids.length);
+    const { box, look } = casePlace(engine, ids, q.lead ?? ids.length);
     // a limb is turned to the side the place lies on; the chest keeps the view the student had
     const dir = q.side ? sideOf(engine, q, box) : engine.camera.position.clone().sub(engine.controls.target).normalize();
     const shown = new Set(ids);
-    engine.frameBox(box, { dir: clearestSide(engine, site, dir, (id) => shown.has(id)), pad: 1.2 });
+    engine.frameBox(box, { dir: clearestSide(engine, look, dir, (id) => shown.has(id)), pad: 1.25 });
     return;
   }
   if (q.type !== 'landmark') q.ids.forEach((id) => tints.set(id, ok ? 'right' : 'target'));
