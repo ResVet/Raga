@@ -205,7 +205,7 @@ export function Station({ q, idx, total, exam, choice, seed, marks, onDone, onQu
       }
       const reach = 78;
       let x = pr.x + dx * reach, y = pr.y + dy * reach;
-      const lo = band.current.top + 12, hi = box.height - band.current.bottom - 20;
+      const lo = band.current.top + 14, hi = box.height - band.current.bottom - 28;
       if (y < lo || y > hi) {
         // no room above or below the pin: the chip goes beside it, at the same distance
         y = Math.max(lo, Math.min(hi, y));
