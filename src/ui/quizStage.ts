@@ -49,6 +49,27 @@ function pinLandmark(engine: Engine, q: Question) {
   engine.framePoint(pnt, dir, dist);
 }
 
+/**
+ * The side to look from. `dir` is kept unless the target is mostly hidden from there and turning around
+ * the body shows clearly more of it (a carpal bone seen from the wrong side sits behind its neighbours).
+ */
+function clearestSide(engine: Engine, ids: string[], dir: THREE.Vector3, solid?: (id: string) => boolean): THREE.Vector3 {
+  let best = dir;
+  let share = engine.visibleShare(ids, dir, solid);
+  if (share >= 0.6) return dir;
+  const up = new THREE.Vector3(0, 1, 0);
+  for (const deg of [60, -60, 120, -120, 180]) {
+    const alt = dir.clone().applyAxisAngle(up, THREE.MathUtils.degToRad(deg));
+    const s = engine.visibleShare(ids, alt, solid);
+    if (s > share + 0.12) {
+      best = alt;
+      share = s;
+      if (s >= 0.8) break;
+    }
+  }
+  return best;
+}
+
 /** Set up the model for a station. Call once the packs of the question are loaded. */
 export function stageQuestion(engine: Engine, q: Question) {
   const hidden = hidesTarget(q);
@@ -114,7 +135,9 @@ export function stageQuestion(engine: Engine, q: Question) {
   d.y *= 0.25;
   const dir = d.lengthSq() > 1e-5 ? d.normalize().multiplyScalar(0.8).add(new THREE.Vector3(0, 0.1, 0.35)).normalize() : FRONT;
   const pad = q.layers.some((l) => l === 'muscles' || l === 'arteries' || l === 'veins' || l === 'nerves') ? 1.5 : 1.9;
-  engine.frameBox(box, { dir, pad });
+  // faded structures do not hide anything; with the X-ray on, only bone can be in the way
+  const solid = q.ghost ? (id: string) => engine.objects.get(id)?.layer === 'skeleton' : undefined;
+  engine.frameBox(box, { dir: clearestSide(engine, q.ids, dir, solid), pad });
 }
 
 /** Show the answer on the model: colour the target, mark a wrong pick, bring hidden targets into view. */

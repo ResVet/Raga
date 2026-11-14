@@ -1,0 +1,208 @@
+[
+  {
+    "id": "thoracentesis-site",
+    "stem": {
+      "en": "A needle is passed into the pleural cavity to drain fluid, through the ninth intercostal space in the midaxillary line. Along which edge of the space should it go, and why?",
+      "id": "Sebuah jarum dimasukkan ke cavitas pleuralis untuk mengeluarkan cairan, melalui spatium intercostale IX di linea axillaris media. Di tepi mana jarum itu harus dimasukkan, dan mengapa?"
+    },
+    "options": [
+      { "en": "Just above the upper border of the lower rib, to avoid the intercostal vessels and nerve", "id": "Tepat di atas tepi atas costa di bawahnya, untuk menghindari pembuluh dan saraf interkostal" },
+      { "en": "Just below the lower border of the upper rib, to avoid the lung", "id": "Tepat di bawah tepi bawah costa di atasnya, untuk menghindari paru" },
+      { "en": "Through the middle of the space, to avoid the periosteum", "id": "Melalui pertengahan ruang, untuk menghindari periosteum" },
+      { "en": "Just below the lower border of the upper rib, to avoid the diaphragm", "id": "Tepat di bawah tepi bawah costa di atasnya, untuk menghindari diaphragma" }
+    ],
+    "explain": {
+      "en": "The main intercostal vein, artery and nerve run in the costal groove under the lower border of each rib, in that order from above down. A needle kept close to the upper border of the rib below stays clear of them. In the midaxillary line the lung reaches only the eighth rib in quiet breathing while the pleura reaches the tenth, so the ninth space enters the costodiaphragmatic recess below the lung.",
+      "id": "Vena, arteri, dan saraf interkostal utama berjalan di sulcus costae di bawah tepi bawah setiap costa, dengan urutan tersebut dari atas ke bawah. Jarum yang dimasukkan dekat tepi atas costa di bawahnya tidak mengenai struktur itu. Di linea axillaris media, paru hanya mencapai costa VIII pada pernapasan tenang sedangkan pleura mencapai costa X, sehingga spatium intercostale IX masuk ke recessus costodiaphragmaticus di bawah paru."
+    },
+    "focus": ["intercostal-nerves", "posterior-intercostal-arteries", "ninth-rib", "tenth-rib"]
+  },
+  {
+    "id": "inhaled-foreign-body",
+    "stem": {
+      "en": "A child inhales a peanut. In which bronchus is it most likely to lodge, and why?",
+      "id": "Seorang anak menghirup sebutir kacang. Di bronkus mana benda itu paling mungkin tersangkut, dan mengapa?"
+    },
+    "options": [
+      { "en": "Right main bronchus, which is wider, shorter and more vertical", "id": "Bronchus principalis dexter, karena lebih lebar, lebih pendek, dan lebih vertikal" },
+      { "en": "Left main bronchus, which is wider and more vertical", "id": "Bronchus principalis sinister, karena lebih lebar dan lebih vertikal" },
+      { "en": "Right main bronchus, which is longer and narrower", "id": "Bronchus principalis dexter, karena lebih panjang dan lebih sempit" },
+      { "en": "Left main bronchus, which lies in line with the trachea", "id": "Bronchus principalis sinister, karena segaris dengan trachea" }
+    ],
+    "explain": {
+      "en": "The right main bronchus leaves the trachea at a smaller angle and is wider and shorter than the left, so inhaled objects tend to fall into it. In an upright person they usually reach the right lower lobe. The left main bronchus is longer and turns more sharply because it passes under the arch of the aorta.",
+      "id": "Bronchus principalis dexter keluar dari trachea dengan sudut yang lebih kecil serta lebih lebar dan lebih pendek daripada yang kiri, sehingga benda yang terhirup cenderung masuk ke sana. Pada orang yang tegak, benda itu biasanya mencapai lobus inferior paru kanan. Bronchus principalis sinister lebih panjang dan membelok lebih tajam karena lewat di bawah arcus aortae."
+    },
+    "focus": ["right-main-bronchus", "trachea", "left-main-bronchus"]
+  },
+  {
+    "id": "aspiration-supine",
+    "stem": {
+      "en": "An unconscious patient lying on his back inhales stomach contents. Which of these bronchopulmonary segments is affected most often?",
+      "id": "Seorang pasien tidak sadar yang berbaring telentang menghirup isi lambung. Di antara segmen bronkopulmonal berikut, mana yang paling sering terkena?"
+    },
+    "options": [
+      { "en": "Superior segment of the right lower lobe", "id": "Segmentum superius lobus inferior paru kanan" },
+      { "en": "Anterior basal segment of the right lower lobe", "id": "Segmentum basale anterius lobus inferior paru kanan" },
+      { "en": "Medial segment of the right middle lobe", "id": "Segmentum mediale lobus medius paru kanan" },
+      { "en": "Inferior lingular segment of the left lung", "id": "Segmentum lingulare inferius paru kiri" }
+    ],
+    "explain": {
+      "en": "In a person lying on the back, the bronchus to the superior segment of the lower lobe points straight backward and is the lowest opening, so fluid runs into it. The posterior segment of the upper lobe is the other common site. The right side is favoured because the right main bronchus is more in line with the trachea. In a person who is sitting or standing, the basal segments of the right lower lobe are affected.",
+      "id": "Pada orang yang berbaring telentang, bronkus untuk segmentum superius lobus inferior mengarah lurus ke belakang dan menjadi muara yang paling rendah, sehingga cairan mengalir ke sana. Segmentum posterius lobus superior adalah tempat lain yang sering terkena. Sisi kanan lebih sering terkena karena bronchus principalis dexter lebih segaris dengan trachea. Pada orang yang duduk atau berdiri, yang terkena adalah segmen-segmen basal lobus inferior paru kanan."
+    },
+    "focus": ["inferior-lobe-of-right-lung", "superior-segmental-bronchus-of-right-lung-bvi", "right-main-bronchus"]
+  },
+  {
+    "id": "recurrent-laryngeal-nerve",
+    "stem": {
+      "en": "After removal of the thyroid gland a patient is hoarse. Laryngoscopy shows one vocal fold lying still near the midline. Which nerve was injured, and which laryngeal muscle does that nerve not supply?",
+      "id": "Setelah pengangkatan kelenjar tiroid, seorang pasien menjadi serak. Laringoskopi memperlihatkan satu plica vocalis diam di dekat garis tengah. Saraf apa yang cedera, dan otot laring mana yang tidak dipersarafi saraf itu?"
+    },
+    "options": [
+      { "en": "Recurrent laryngeal nerve; cricothyroid", "id": "N. laryngeus recurrens; m. cricothyroideus" },
+      { "en": "External branch of the superior laryngeal nerve; posterior crico-arytenoid", "id": "Ramus externus n. laryngeus superior; m. cricoarytenoideus posterior" },
+      { "en": "Recurrent laryngeal nerve; posterior crico-arytenoid", "id": "N. laryngeus recurrens; m. cricoarytenoideus posterior" },
+      { "en": "Internal branch of the superior laryngeal nerve; vocalis", "id": "Ramus internus n. laryngeus superior; m. vocalis" }
+    ],
+    "explain": {
+      "en": "The recurrent laryngeal nerve runs up in the groove between the trachea and the oesophagus, close to the inferior thyroid artery, and supplies every intrinsic muscle of the larynx except cricothyroid. Cricothyroid is supplied by the external branch of the superior laryngeal nerve. Loss of one recurrent nerve paralyses the fold on that side and makes the voice hoarse. Loss of both can close the airway.",
+      "id": "N. laryngeus recurrens berjalan naik di alur antara trachea dan oesophagus, dekat a. thyroidea inferior, dan mempersarafi semua otot intrinsik laring kecuali m. cricothyroideus. M. cricothyroideus dipersarafi ramus externus n. laryngeus superior. Kerusakan satu n. laryngeus recurrens melumpuhkan plica vocalis sisi itu dan membuat suara serak. Kerusakan kedua sisi dapat menutup jalan napas."
+    },
+    "focus": ["cricothyroid-muscle", "posterior-crico-arytenoid-muscle", "thyroid-cartilage"]
+  },
+  {
+    "id": "posterior-cricoarytenoid",
+    "stem": {
+      "en": "Which is the only muscle that opens the rima glottidis, so that paralysis of it on both sides can suffocate the patient?",
+      "id": "Otot apa yang merupakan satu-satunya pembuka rima glottidis, sehingga kelumpuhannya di kedua sisi dapat membuat pasien tercekik?"
+    },
+    "options": ["Musculus cricoarytenoideus posterior", "Musculus cricoarytenoideus lateralis", "Musculus cricothyroideus", "Musculus arytenoideus transversus"],
+    "explain": {
+      "en": "The posterior crico-arytenoid turns the arytenoid cartilages outward and swings the vocal processes apart. Every other intrinsic muscle closes the glottis or changes the tension of the folds. The lateral crico-arytenoid and the arytenoid muscles close it, and cricothyroid tenses the folds.",
+      "id": "M. cricoarytenoideus posterior memutar cartilago arytenoidea ke luar dan menjauhkan kedua processus vocalis. Semua otot intrinsik lainnya menutup glotis atau mengubah ketegangan plica vocalis. M. cricoarytenoideus lateralis dan mm. arytenoidei menutupnya, sedangkan m. cricothyroideus menegangkan plica vocalis."
+    },
+    "focus": ["posterior-crico-arytenoid-muscle", "cricoid-cartilage", "arytenoid-cartilage"]
+  },
+  {
+    "id": "cricothyrotomy",
+    "stem": {
+      "en": "In an emergency the airway is opened below the vocal folds through a membrane that can be felt as a soft dip in the midline of the neck. Between which two cartilages does it lie?",
+      "id": "Dalam keadaan darurat, jalan napas dibuka di bawah plica vocalis melalui membran yang teraba sebagai cekungan lunak di garis tengah leher. Di antara dua tulang rawan apa membran itu terletak?"
+    },
+    "options": [
+      { "en": "Thyroid and cricoid cartilages", "id": "Cartilago thyroidea dan cartilago cricoidea" },
+      { "en": "Hyoid bone and thyroid cartilage", "id": "Os hyoideum dan cartilago thyroidea" },
+      { "en": "Cricoid cartilage and the first tracheal ring", "id": "Cartilago cricoidea dan cincin trakea pertama" },
+      { "en": "Arytenoid and cricoid cartilages", "id": "Cartilago arytenoidea dan cartilago cricoidea" }
+    ],
+    "explain": {
+      "en": "The median cricothyroid ligament joins the lower border of the thyroid cartilage to the arch of the cricoid cartilage. It lies just under the skin, below the level of the vocal folds, and has no large vessels in the midline. This makes it the quickest route to the airway (cricothyrotomy).",
+      "id": "Ligamentum cricothyroideum medianum menghubungkan tepi bawah cartilago thyroidea dengan arcus cartilaginis cricoideae. Ligamentum ini terletak tepat di bawah kulit, di bawah plica vocalis, dan tidak mempunyai pembuluh besar di garis tengah. Karena itu, tempat ini merupakan jalan tercepat menuju jalan napas (krikotirotomi)."
+    },
+    "focus": ["median-cricothyroid-ligament", "thyroid-cartilage", "cricoid-cartilage"]
+  },
+  {
+    "id": "sternal-angle",
+    "stem": {
+      "en": "A doctor counts the ribs starting from a ridge on the sternum. Which costal cartilage joins the sternum at this ridge, and at which vertebral level does the ridge lie?",
+      "id": "Seorang dokter menghitung costa mulai dari sebuah rigi pada sternum. Cartilago costalis mana yang melekat pada sternum di rigi ini, dan setinggi vertebra mana letaknya?"
+    },
+    "options": [
+      { "en": "Second costal cartilage; between T4 and T5", "id": "Cartilago costalis II; di antara T4 dan T5" },
+      { "en": "First costal cartilage; T2", "id": "Cartilago costalis I; T2" },
+      { "en": "Third costal cartilage; T6", "id": "Cartilago costalis III; T6" },
+      { "en": "Second costal cartilage; T2", "id": "Cartilago costalis II; T2" }
+    ],
+    "explain": {
+      "en": "The sternal angle is the joint between the manubrium and the body of the sternum. The second costal cartilage attaches there, so the ribs are counted from it. A horizontal plane through the angle meets the disc between T4 and T5. The same plane marks the start and end of the arch of the aorta, the bifurcation of the trachea and the border between the superior and inferior mediastinum.",
+      "id": "Angulus sterni adalah sendi antara manubrium sterni dan corpus sterni. Cartilago costalis II melekat di sini, sehingga costa dihitung mulai dari tempat ini. Bidang horizontal yang melalui angulus sterni memotong discus antara T4 dan T5. Bidang yang sama menandai awal dan akhir arcus aortae, bifurcatio tracheae, serta batas antara mediastinum superius dan inferius."
+    },
+    "focus": ["manubrium-of-sternum", "body-of-sternum", "second-rib"]
+  },
+  {
+    "id": "phrenic-referred-pain",
+    "stem": {
+      "en": "A patient with an abscess under the diaphragm complains of pain at the tip of the shoulder. Which nerve carries this referred pain, and from which segments does it come?",
+      "id": "Seorang pasien dengan abses di bawah diaphragma mengeluh nyeri di puncak bahu. Saraf apa yang menghantarkan nyeri alih ini, dan dari segmen mana asalnya?"
+    },
+    "options": [
+      { "en": "Phrenic nerve; C3 to C5", "id": "N. phrenicus; C3 sampai C5" },
+      { "en": "Vagus nerve; brainstem", "id": "N. vagus; batang otak" },
+      { "en": "Lower intercostal nerves; T7 to T11", "id": "Nn. intercostales bawah; T7 sampai T11" },
+      { "en": "Long thoracic nerve; C5 to C7", "id": "N. thoracicus longus; C5 sampai C7" }
+    ],
+    "explain": {
+      "en": "The phrenic nerve (C3, C4 and C5) is the only motor nerve of the diaphragm. It also carries sensation from the central part of the diaphragm and from the pleura and peritoneum that cover it. The skin over the shoulder is supplied by the supraclavicular nerves from C3 and C4, so irritation of the diaphragm is felt there. The edge of the diaphragm gets its sensory fibres from the lower intercostal nerves.",
+      "id": "N. phrenicus (C3, C4, dan C5) adalah satu-satunya saraf motorik diaphragma. Saraf ini juga membawa sensasi dari bagian tengah diaphragma serta pleura dan peritoneum yang melapisinya. Kulit bahu dipersarafi nn. supraclaviculares dari C3 dan C4, sehingga iritasi diaphragma dirasakan di sana. Bagian tepi diaphragma mendapat serabut sensorik dari nn. intercostales bawah."
+    },
+    "focus": ["diaphragm"]
+  },
+  {
+    "id": "diaphragm-openings",
+    "stem": {
+      "en": "At which vertebral levels do the inferior vena cava, the oesophagus and the aorta pass the diaphragm, in that order?",
+      "id": "Setinggi vertebra mana v. cava inferior, oesophagus, dan aorta melewati diaphragma, sesuai urutan tersebut?"
+    },
+    "options": [
+      { "en": "T8, T10 and T12", "id": "T8, T10, dan T12" },
+      { "en": "T6, T8 and T10", "id": "T6, T8, dan T10" },
+      { "en": "T10, T8 and T12", "id": "T10, T8, dan T12" },
+      { "en": "T8, T12 and T10", "id": "T8, T12, dan T10" }
+    ],
+    "explain": {
+      "en": "The caval opening lies in the central tendon at T8. It carries the inferior vena cava and often branches of the right phrenic nerve. The oesophageal hiatus at T10 lies in the muscle of the right crus and carries the oesophagus and the vagal trunks. The aortic hiatus at T12 lies behind the diaphragm, between the crura, and carries the aorta, the thoracic duct and usually the azygos vein.",
+      "id": "Foramen venae cavae terletak di centrum tendineum setinggi T8. Lubang ini dilalui v. cava inferior dan sering juga cabang n. phrenicus dexter. Hiatus oesophageus setinggi T10 terletak di dalam otot crus dextrum dan dilalui oesophagus serta truncus vagalis. Hiatus aorticus setinggi T12 terletak di belakang diaphragma, di antara kedua crus, dan dilalui aorta, ductus thoracicus, dan biasanya v. azygos."
+    },
+    "focus": ["diaphragm", "inferior-vena-cava-thoracic-part", "thoracic-aorta"]
+  },
+  {
+    "id": "lung-apex-neck-wound",
+    "stem": {
+      "en": "A stab wound just above the medial third of the clavicle causes a pneumothorax. Why?",
+      "id": "Luka tusuk tepat di atas sepertiga medial clavicula menyebabkan pneumotoraks. Mengapa?"
+    },
+    "options": [
+      { "en": "The apex of the lung and its dome of pleura rise above the first rib into the root of the neck", "id": "Apex pulmonis dan cupula pleurae menonjol di atas costa I sampai ke pangkal leher" },
+      { "en": "The bronchus of the upper lobe lies directly under the clavicle", "id": "Bronchus lobaris superior terletak tepat di bawah clavicula" },
+      { "en": "The clavicle forms the roof of the pleural cavity", "id": "Clavicula membentuk atap cavitas pleuralis" },
+      { "en": "The costodiaphragmatic recess extends up to the neck", "id": "Recessus costodiaphragmaticus meluas sampai ke leher" }
+    ],
+    "explain": {
+      "en": "Because the first rib slopes downward toward the front, the apex of the lung with its dome of pleura reaches 2 to 3 cm above the medial third of the clavicle. A wound or a needle in the root of the neck can therefore open the pleural cavity.",
+      "id": "Karena costa I miring ke bawah ke arah depan, apex pulmonis beserta cupula pleurae mencapai 2 sampai 3 cm di atas sepertiga medial clavicula. Oleh sebab itu, luka atau jarum di pangkal leher dapat membuka cavitas pleuralis."
+    },
+    "focus": ["superior-lobe-of-right-lung", "first-rib", "clavicle"]
+  },
+  {
+    "id": "rib-fracture-site",
+    "stem": {
+      "en": "When the chest is crushed, a rib usually breaks at its weakest point. Where is that?",
+      "id": "Ketika dada tertekan kuat, costa biasanya patah di titik terlemahnya. Di manakah itu?"
+    },
+    "options": [
+      { "en": "Just in front of the angle of the rib", "id": "Tepat di depan angulus costae" },
+      { "en": "At the head of the rib", "id": "Di caput costae" },
+      { "en": "At the junction with the costal cartilage", "id": "Di perbatasan dengan cartilago costalis" },
+      { "en": "At the tubercle of the rib", "id": "Di tuberculum costae" }
+    ],
+    "explain": {
+      "en": "A rib bends most sharply at its angle, and the part just in front of the angle is the weakest. The middle ribs break most often. The first two ribs are protected by the clavicle, and the last two move freely. A broken lower rib can injure the diaphragm, the liver or the spleen.",
+      "id": "Costa melengkung paling tajam di angulusnya, dan bagian tepat di depan angulus adalah yang paling lemah. Costa bagian tengah paling sering patah. Dua costa pertama terlindung oleh clavicula, dan dua costa terakhir bergerak bebas. Costa bawah yang patah dapat mencederai diaphragma, hati, atau limpa."
+    },
+    "focus": ["sixth-rib", "seventh-rib"]
+  },
+  {
+    "id": "t4-dermatome",
+    "stem": {
+      "en": "Shingles produces a band of blisters around one side of the chest at the level of the nipple. Which spinal nerve is affected?",
+      "id": "Herpes zoster menimbulkan lepuh berbentuk sabuk di satu sisi dada setinggi papilla mammae. Saraf spinal mana yang terkena?"
+    },
+    "options": ["T4", "T2", "T7", "T10"],
+    "explain": {
+      "en": "The anterior rami of the thoracic nerves run around the chest wall as intercostal nerves and supply the skin in bands. The nipple usually lies in the T4 dermatome and the umbilicus in T10.",
+      "id": "Rami anteriores nervi thoracici berjalan mengelilingi dinding dada sebagai nn. intercostales dan mempersarafi kulit dalam bentuk sabuk. Papilla mammae biasanya terletak di dermatom T4 dan umbilicus di dermatom T10."
+    },
+    "focus": ["intercostal-nerves", "fourth-rib"]
+  }
+]
