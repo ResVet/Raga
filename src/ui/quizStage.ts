@@ -59,13 +59,18 @@ function pinLandmark(engine: Engine, q: Question, close: boolean) {
   const view = dir.clone();
   const size = bone.box.getSize(new THREE.Vector3()).toArray();
   const long = size.indexOf(Math.max(...size));
-  if (size[long] > 1.8 * Math.max(...size.filter((_, i) => i !== long))) {
+  const slender = size[long] > 1.8 * Math.max(...size.filter((_, i) => i !== long));
+  if (slender) {
+    const along = view.getComponent(long);
     view.setComponent(long, 0);
-    if (view.length() > 0.25) view.normalize();
-    else view.copy(dir);
+    // a joint surface at the end of the shaft faces along it: take the front (the top for a bone that
+    // points forward) and tip the view toward that end
+    if (view.length() < 0.25) view.set(0, long === 2 ? 1 : 0, long === 2 ? 0 : 1);
+    view.normalize().setComponent(long, THREE.MathUtils.clamp(along, -0.35, 0.35));
+    view.normalize();
   }
   // room at both ends, so that the head of a pin at the tip of the bone stays clear of the panels
-  engine.frameIds([l.on], { dir: view, pad: 1.4 });
+  engine.frameIds([l.on], { dir: view, pad: slender ? 1.6 : 1.4 });
 }
 
 /**
