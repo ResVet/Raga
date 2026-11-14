@@ -2,7 +2,6 @@ import { useRef, useState, type ReactNode } from 'react';
 import type { Strings } from '../i18n';
 import { fmt } from '../i18n';
 import { QUALITIES, type Quality, type Settings } from './ctx';
-import { autoTier } from './tier';
 import { useDismiss } from './hooks';
 import { IconChevron, IconSearch, IconSliders, Mark } from './icons';
 
@@ -24,17 +23,9 @@ interface Props {
 export const tierName = (t: Strings, q: Quality) => (q === 'ultra' ? t.tierUltra : q === 'high' ? t.tierHigh : t.tierLite);
 const tierHelp = (t: Strings, q: Quality) => (q === 'ultra' ? t.tierUltraHelp : q === 'high' ? t.tierHighHelp : t.tierLiteHelp);
 
-/**
- * Store a new graphics tier, or hand the choice back to Raga with 'auto'. The engine picks its models
- * at start-up, so the page reloads when the tier in use changes.
- */
-export function switchTier(settings: Settings, setSettings: (s: Partial<Settings>) => void, q: Quality | 'auto') {
-  const next = q === 'auto' ? autoTier() : q;
-  if (next === settings.quality) {
-    setSettings({ autoQuality: q === 'auto' });
-    return;
-  }
-  setSettings({ quality: next, autoQuality: q === 'auto', effects: {} });
+/** Store a new graphics tier and reload, since the engine picks its models at start-up. */
+export function switchTier(setSettings: (s: Partial<Settings>) => void, q: Quality) {
+  setSettings({ quality: q, effects: {} });
   window.setTimeout(() => window.location.reload(), 60);
 }
 
@@ -45,44 +36,34 @@ function QualitySwitch({ t, settings, setSettings }: { t: Strings; settings: Set
   useDismiss(open, () => setOpen(false), [btn, menu]);
   return (
     <div className="qswitch">
-      <button
-        ref={btn}
-        className="hdr-btn"
-        aria-haspopup="menu"
-        aria-expanded={open}
-        aria-label={fmt(t.graphicsNow, { x: settings.autoQuality ? fmt(t.tierAutoNow, { x: tierName(t, settings.quality) }) : tierName(t, settings.quality) })}
-        onClick={() => setOpen(!open)}
-      >
+      <button ref={btn} className="hdr-btn" aria-haspopup="menu" aria-expanded={open} aria-label={fmt(t.graphicsNow, { x: tierName(t, settings.quality) })} onClick={() => setOpen(!open)}>
         <span className="q-pips" aria-hidden="true" data-q={settings.quality}>
           <i />
           <i />
           <i />
         </span>
-        {settings.autoQuality ? t.tierAuto : tierName(t, settings.quality)}
+        {tierName(t, settings.quality)}
       </button>
       {open && (
         <div ref={menu} className="menu glass" role="menu" aria-label={t.graphics}>
-          {(['auto', ...QUALITIES] as const).map((q) => {
-            const on = q === 'auto' ? settings.autoQuality : !settings.autoQuality && settings.quality === q;
-            return (
-              <button
-                key={q}
-                role="menuitemradio"
-                aria-checked={on}
-                className="menu-item"
-                onClick={() => {
-                  setOpen(false);
-                  if (!on) switchTier(settings, setSettings, q);
-                }}
-              >
-                <span className="menu-mark" aria-hidden="true" />
-                <span>
-                  {q === 'auto' ? t.tierAuto : tierName(t, q)}
-                  <small>{q === 'auto' ? `${t.tierAutoHelp} (${tierName(t, autoTier())})` : tierHelp(t, q)}</small>
-                </span>
-              </button>
-            );
-          })}
+          {QUALITIES.map((q) => (
+            <button
+              key={q}
+              role="menuitemradio"
+              aria-checked={settings.quality === q}
+              className="menu-item"
+              onClick={() => {
+                setOpen(false);
+                if (q !== settings.quality) switchTier(setSettings, q);
+              }}
+            >
+              <span className="menu-mark" aria-hidden="true" />
+              <span>
+                {tierName(t, q)}
+                <small>{tierHelp(t, q)}</small>
+              </span>
+            </button>
+          ))}
           <p className="menu-note">{t.tierReload}</p>
         </div>
       )}

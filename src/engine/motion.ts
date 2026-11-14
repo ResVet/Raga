@@ -804,7 +804,7 @@ export class Motion {
   private skinFor(limb: Limb, key: string, o: SObj): Skin | null {
     const F = this.fieldsFor(limb, key);
     const hinges: Hinge[] = limb.joints.slice(1).map((j) => ({ px: j.pivot.x, py: j.pivot.y, pz: j.pivot.z, nx: j.plane.x, ny: j.plane.y, nz: j.plane.z, off: j.offset, band: j.band }));
-    const parts: SkinPart[] = o.meshes.map((mesh, i) => ({ ...restArrays(o, mesh, true), core: (o.mats[i] as TissueMaterial).userData.kind === 'muscle' }));
+    const parts: SkinPart[] = o.meshes.map((mesh) => restArrays(o, mesh, true));
     const res = skin(parts, F.distal, F.proximal, hinges, o.rec.pack === 'muscles');
     if (!res.moved) return null;
     return {

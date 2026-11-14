@@ -2,8 +2,6 @@ import { useEffect, useRef } from 'react';
 import { useApp, EFFECT_KEYS, QUALITIES, type Effects } from './ctx';
 import { IconClose } from './icons';
 import { switchTier, tierName } from './Header';
-import { SecondsInput } from './SecondsInput';
-import { autoTier } from './tier';
 import type { Strings } from '../i18n';
 
 const FX_LABEL: Record<keyof Effects, [keyof Strings, keyof Strings]> = {
@@ -47,21 +45,12 @@ export function SettingsDialog({ open, onClose, onAbout }: { open: boolean; onCl
         <fieldset>
           <legend>{t.graphics}</legend>
           <div className="tiers" role="radiogroup" aria-label={t.graphics}>
-            <button role="radio" aria-checked={settings.autoQuality} className="tier" onClick={() => !settings.autoQuality && switchTier(settings, setSettings, 'auto')}>
-              <b>{t.tierAuto}</b>
-              <small>
-                {t.tierAutoHelp} ({tierName(t, autoTier())})
-              </small>
-            </button>
-            {QUALITIES.map((q) => {
-              const on = !settings.autoQuality && settings.quality === q;
-              return (
-                <button key={q} role="radio" aria-checked={on} className="tier" onClick={() => !on && switchTier(settings, setSettings, q)}>
-                  <b>{tierName(t, q)}</b>
-                  <small>{help(q)}</small>
-                </button>
-              );
-            })}
+            {QUALITIES.map((q) => (
+              <button key={q} role="radio" aria-checked={settings.quality === q} className="tier" onClick={() => q !== settings.quality && switchTier(setSettings, q)}>
+                <b>{tierName(t, q)}</b>
+                <small>{help(q)}</small>
+              </button>
+            ))}
           </div>
           <p className="note">{t.tierReload}</p>
           <h3 className="sub-legend">{t.effects}</h3>
@@ -106,7 +95,15 @@ export function SettingsDialog({ open, onClose, onAbout }: { open: boolean; onCl
           </label>
           <label className="field-row">
             <span>{t.secondsPerStation}</span>
-            <SecondsInput value={settings.examSeconds} onChange={(n) => setSettings({ examSeconds: n })} />
+            <input
+              type="number"
+              className="num-input"
+              min={15}
+              max={300}
+              step={5}
+              value={settings.examSeconds}
+              onChange={(e) => setSettings({ examSeconds: Math.max(15, Math.min(300, parseInt(e.target.value || '60', 10))) })}
+            />
           </label>
         </fieldset>
         {onAbout && (

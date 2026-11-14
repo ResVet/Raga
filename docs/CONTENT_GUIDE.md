@@ -1,4 +1,4 @@
-# Raga content guide
+# Raga content guide (read fully before writing)
 
 Raga is a free, open-source 3D anatomy atlas and quiz built on the Z-Anatomy model (CC BY-SA 4.0).
 First audience: medical students at FK Universitas Sriwijaya (Indonesia), Blok 4 "Struktur Jaringan dan
@@ -9,7 +9,7 @@ bilingual (English + Bahasa Indonesia) and names are Latin (Terminologia Anatomi
 Students will be graded on this material in an OSPE (practical exam with cadaver/models) where they must
 write the Latin name of a pinned structure, plus written exams on origin, insertion, action, innervation and
 joint classification. A wrong fact in this dataset means a student learns something wrong. Accuracy beats
-coverage: if you are not sure about a fact, check it against a second source (Kenhub, TeachMeAnatomy,
+coverage: if you are not sure about a fact, verify it (WebSearch / WebFetch on Kenhub, TeachMeAnatomy,
 Radiopaedia, Wikipedia, IMAIOS e-Anatomy) or leave the field out and add "verify": true to the entry.
 
 ## Reference standard
@@ -18,7 +18,7 @@ Radiopaedia, Wikipedia, IMAIOS e-Anatomy) or leave the field out and add "verify
 - Latin: Terminologia Anatomica 1998 (TA98), the form used in Indonesian lectures and in Sobotta.
   TA2 (2019) variants go into `alt` when they differ (example: TA98 "Cavitas glenoidalis",
   TA2 "Fossa glenoidea"; TA98 "Femur", TA2 "Os femoris").
-- The FK Unsri practical module (Modul Praktikum Anatomi Blok 4) sets the scope. Every structure,
+- The FK Unsri module text is in /home/claude/work/ref/modul_praktikum_anatomi_blok4.txt. Every structure,
   landmark, joint and muscle it names must have an entry. Where the module spells a term in a non-standard
   way (for example "Facies articularis acromia", "Os Fibuka", "Linea musculi scapulae"), put the module
   spelling into `alt` so the quiz accepts it, but keep `la` correct. If the module states a fact that
@@ -27,10 +27,10 @@ Radiopaedia, Wikipedia, IMAIOS e-Anatomy) or leave the field out and add "verify
 
 ## File format
 
-Entries live in `content/` as UTF-8 JSON files named `<domain>-<part>.json` (for example
-`upper-bones.json`, `upper-muscles.json`). Each file is a JSON array of entries. Keep a file to one part
-of a domain, which makes it easier to review. After editing, check that every file still parses:
-`python3 -c "import json,sys; json.load(open(sys.argv[1]))" FILE`.
+Write UTF-8 JSON files into /home/claude/work/content/ named `<domain>-<part>.json` (for example
+`upper-bones.json`, `upper-muscles.json`). Each file is a JSON array of entries. Write in several files or
+chunks; never one giant write. After writing, validate every file with
+`python3 -c "import json,sys; json.load(open(sys.argv[1]))" FILE` and fix errors.
 
 ### Common fields (every entry)
 
@@ -47,7 +47,7 @@ of a domain, which makes it easier to review. After editing, check that every fi
 }
 ```
 
-- `key`: copy it exactly from the first column of your domain TSV (`docs/keys/keys_<domain>.tsv`).
+- `key`: copy it exactly from the first column of your domain TSV (/home/claude/work/ref/keys_<domain>.tsv).
   The TSV lists what exists in the 3D model: meshes, `[GROUP]` rows (a whole muscle or joint made of several
   meshes) and `landmark` rows. For a muscle split into heads or parts in the model, write one full `muscle`
   entry on the `[GROUP]` key (e.g. `biceps-brachii-muscle`) and short `muscle-part` entries on each head key
@@ -109,96 +109,23 @@ All free-text facts are objects `{"en": "...", "id": "..."}`; Latin-only facts a
 - organ / organ-part / cartilage: `location` {en,id}, `features` {en,id}, optional `relations` {en,id},
   `blood`, `nerve`, optional `clinical` {en,id}.
 
-## What the quiz reads
-
-The quiz decks are built from these files alone, so a field that is missing means a question that is never
-asked. This is where each kind of question comes from:
-
-| Question | Field |
-| --- | --- |
-| Name the pinned structure, find the named structure | `la` and `alt` |
-| Origin, insertion, innervation, action of a muscle | `quiz.origin`, `quiz.insertion`, `quiz.nerve`, `quiz.action` |
-| Type of a joint, type of a bone | `quiz.type` |
-| Axes of a joint | `quiz.axes` |
-| Ligaments of a joint | `facts.ligaments` |
-| Bones a bone articulates with | `facts.articulates` |
-| Bone a landmark belongs to | `quiz.bone` on the landmark |
-| Roots of a nerve | `quiz.roots` |
-| Where a vessel, nerve or bronchus comes from | `quiz.from` |
-| Where a vein drains, what a vessel continues as | `quiz.drains`, `quiz.continues` |
-| Lobe of a bronchopulmonary segment | `quiz.lobe` on the segment |
-
-For the two list questions (`facts.articulates`, `facts.ligaments`) the student gives any one item of the
-list, so every item must be a name that can stand alone. Write the name first and any remark in brackets
-after it, for example "Ligamentum collaterale ulnare (pars anterior)": the quiz shows and grades the name and
-drops the bracket. Names inside the bracket that begin with Ligamentum, Ligamenta, Os or Ossa and are joined
-by "et" are accepted as answers as well, as in "Ligamentum deltoideum (Ligamentum tibionaviculare et
-Ligamentum tibiocalcaneum)".
-
-The wrong options of a multiple-choice question are the right answers of other cards in the same deck. A
-card whose first answer is a full sentence, or English where the others are Latin, stands out among them, so
-keep the first item of every `quiz` array a short Latin term or phrase.
-
-A muscle whose heads are separate meshes is asked as one muscle. The link is the `facts.muscle` field of
-each `muscle-part` entry: it must hold the key of the `muscle` entry with the facts. Without it the heads
-are asked by name only and the origin, insertion, nerve and action of the whole muscle are never asked.
-
-## Clinical cases
-
-Cases live in `content/cases/upper.json`, `lower.json`, `thorax.json` and `heart.json`. Each file is a JSON
-array, and `python3 pipeline/build_cases.py` (or `npm run cases`) checks them and writes
-`public/data/cases.json`.
-
-```json
-{
-  "id": "axillary-nerve-surgical-neck",
-  "stem": {"en": "A 24-year-old man falls from a motorcycle and ... Which nerve is injured?", "id": "..."},
-  "options": ["Nervus axillaris", "Nervus radialis", "Nervus suprascapularis", "Nervus musculocutaneus"],
-  "explain": {"en": "...", "id": "..."},
-  "focus": ["axillary-nerve", "deltoid-muscle", "teres-minor-muscle"]
-}
-```
-
-- `id`: lowercase words joined by hyphens, unique across all four files. The student's progress is stored
-  under it, so do not rename a case once it is published.
-- `stem`: a short clinical story that ends in one question. Give the findings a student could use to reason
-  to the answer (mechanism, what the patient cannot do, where sensation is lost). The stem must not contain
-  the answer itself; `npm test` fails when it does.
-- `options`: three to five, the correct one first. The app shuffles them. An option is a Latin term, or
-  `{"en": "...", "id": "..."}` when the answer is a statement. Wrong options should be things a student
-  could confuse with the answer: the neighbouring nerve, the other head, the vessel of the next compartment.
-- `explain`: two to four sentences per language that say why the answer is right and, where it helps, why
-  the nearest wrong option is wrong.
-- `focus`: keys of the structures to show on the model after the answer, the most important one first. The
-  builder stops when a key has no mesh. For the limbs the right side is shown.
-
-Cases follow the same sources and the same writing rules as the rest of the content. Keep to anatomy a
-Blok 4 student can reason out from the structures: nerve injuries, fractures and what they endanger,
-compartments, pulses, surface anatomy, auscultation points, coronary territories. Drug doses, laboratory
-values and management belong to later blocks.
-
 ## Writing style (strict)
 
-Write the way a careful teacher explains a structure to a first-year student.
+The texts must read like a careful human teacher wrote them.
 
 - No em dashes or en dashes anywhere in prose. Use commas, periods, colons or parentheses. For number or
   segment ranges use a hyphen: "C5-C6", "T1-T12".
-- Say what a structure is and does. Skip sentences that only announce that it matters ("plays a crucial
-  role", "is of vital importance") and use plain verbs: is, has, lies, runs, attaches, supplies.
-- List what the anatomy has, in the order a student would meet it on the specimen.
-- No bold, no emojis, no rhetorical questions, no closing summary sentence.
+- No "not X but Y" contrasts, no "not only... but also", no one-line dramatic closers.
+- No filler or hype words: crucial, pivotal, vital, key (as adjective), robust, intricate, delve, showcase,
+  highlight (verb), underscore, testament, landscape, plays a key/crucial role, serves as, stands as.
+  Use plain verbs: is, has, lies, runs, attaches, supplies.
+- Do not group things in threes for rhythm. List what the anatomy actually has.
+- No bold, no emojis, no rhetorical questions, no "In summary".
 - Vary sentence length. Concrete facts beat adjectives.
 - Indonesian: natural sentences, formal but simple, as in an Indonesian anatomy handout. Latin terms stay
   Latin (in Indonesian text you can write "melekat pada tuberculum majus humeri").
 
-## Checking your work
+## Final step
 
-- `python3 pipeline/build_content.py content` rebuilds `public/data/content.json`. It counts the entries by
-  domain and lists keys that match nothing in the model, entries with a problem and entries that still
-  contain dashes.
-- `python3 pipeline/build_cases.py` checks the clinical cases (ids, both languages, three to five options,
-  focus keys that exist in the model) and writes `public/data/cases.json`. It writes nothing while a case
-  has a problem.
-- `npm test` builds every quiz deck from the data. It fails on duplicate cards, on a wrong option that would
-  be accepted as right when typed and on a case whose stem gives the answer away.
-- In the pull request, list the keys you marked `"verify": true` and say what the sources disagree on.
+When done, print a short summary: files written, entry counts by kind, and the keys you marked
+`"verify": true`.

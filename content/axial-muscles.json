@@ -157,7 +157,7 @@
     },
     "quiz": {
       "origin": ["Facies interna costae prope angulum", "permukaan dalam costa bawah dekat angulus", "angulus costae"],
-      "insertion": ["Facies interna costae secundae vel tertiae inferioris", "Costa kedua atau ketiga di bawahnya", "costa 2-3 di bawahnya"],
+      "insertion": ["Costa kedua atau ketiga di bawahnya", "facies interna costae secundae vel tertiae inferioris", "costa 2-3 di bawahnya"],
       "nerve": ["Nervi intercostales", "N. intercostalis", "Nn. intercostales"],
       "action": ["Depressio costarum", "depresi costa", "menurunkan costa", "ekspirasi kuat"]
     },
@@ -248,7 +248,7 @@
     },
     "quiz": {
       "origin": ["Processus transversus C7-T11", "processus transversi C7-T11", "processus transversus vertebrae C7-T11", "prosesus transversus C7-T11"],
-      "insertion": ["Costa subjacens, inter tuberculum et angulum", "Costa di bawahnya (antara tuberculum dan angulus)", "costa di bawahnya", "antara tuberculum dan angulus costae", "costa subjacens"],
+      "insertion": ["Costa di bawahnya (antara tuberculum dan angulus)", "costa di bawahnya", "antara tuberculum dan angulus costae", "costa subjacens"],
       "nerve": ["Rami posteriores nervorum spinalium", "ramus dorsalis nervi spinalis", "ramus posterior nervi spinalis", "rami dorsales C8-T11", "ramus dorsalis"],
       "action": ["Elevatio costarum", "elevasi costa", "mengangkat costa"]
     }
