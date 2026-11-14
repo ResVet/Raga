@@ -4,18 +4,21 @@ Run with the bpy module, one pack per process (bpy leaks memory):
     bvenv/bin/python -I -u scripts/export_pack.py <pack>
     RAGA_TIER=ultra bvenv/bin/python -I -u scripts/export_pack.py <pack>
 Default tier ("high"): subdivision capped at level 1, curve tubes at resolution_u 6 / bevel_resolution 2
-(the high and lite web packs are simplified from this). Outputs go to /home/claude/work/build/.
+(the high and lite web packs are simplified from this). Outputs go to $RAGA_WORK/build/.
 Ultra tier: Z-Anatomy viewport subdivision levels (cap 2) and smooth tubes (resolution_u up to 12,
-bevel_resolution 4); outputs go to /home/claude/work/build/ultra/. Node names (structure ids) are
+bevel_resolution 4); outputs go to $RAGA_WORK/build/ultra/. Node names (structure ids) are
 identical in both tiers because targets are visited in the same order.
 """
 import bpy, bmesh, json, math, os, re, sys, collections
 import mathutils
 from mathutils.bvhtree import BVHTree
 
-SRC = "/home/claude/work/zsrc/Z-Anatomy/Startup.blend"
+# the pipeline workspace, as in build_models.sh: RAGA_WORK, or the folder next to the app
+HERE = os.path.dirname(os.path.abspath(__file__))
+WORK = os.environ.get("RAGA_WORK") or (os.path.dirname(os.path.dirname(HERE)) if os.path.basename(HERE) == "pipeline" else os.path.dirname(HERE))
+SRC = os.path.join(WORK, "zsrc", "Z-Anatomy", "Startup.blend")
 TIER = os.environ.get("RAGA_TIER", "high")
-OUT = "/home/claude/work/build" + ("/ultra" if TIER == "ultra" else "")
+OUT = os.path.join(WORK, "build") + ("/ultra" if TIER == "ultra" else "")
 os.makedirs(OUT + "/packs", exist_ok=True)
 SUBSURF_CAP = 2 if TIER == "ultra" else 1
 CURVE_RES_U = 12 if TIER == "ultra" else 6
