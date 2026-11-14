@@ -39,3 +39,4 @@
 - Hand and scapular motion (needs the carpus, fingers and scapulothoracic joint in the rig).
 - Histology slide quiz for the Blok 4 OSPE histologi.
 - More clinical cases for the larynx and the vertebral column, which have few.
+- A case could name the exact spot to look at (a landmark), so that the view after the answer closes in on it. Today the view is worked out from the sizes of the structures in `focus`.

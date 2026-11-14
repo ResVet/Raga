@@ -41,6 +41,10 @@ Visual meaning changes only: `select`/`target` render as an eosin (#ff5d8f) rim 
   the share of sample points on their surfaces that no other visible structure covers. `solid` narrows what
   counts as cover, for example to bone only while the X-ray fades everything else. The quiz uses it to look at
   a small or deep target from the side where it is not hidden.
+- `framePoint(p, n, dist)` returns the position the camera flies to, and `covered(p, eye, own?)` tells whether
+  another visible structure stands between a point and that position. The quiz uses the pair for landmark
+  questions: a joint surface faces the neighbouring bone, so when that bone is in the way everything except
+  the bone of the landmark is faded with `setXray`.
 
 ## Motion API (new, `src/engine/motion.ts`, reachable as `engine.motion`)
 
