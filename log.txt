@@ -1,0 +1,102 @@
+commit b700c93e6dba8d6ab8bd8aa7e9ff2acd0b6cccae
+== tsc
+tsc exit 0
+== test
+
+> raga@1.0.0 test
+> esbuild src/quiz/grader.ts --bundle --format=esm --platform=node --outfile=.cache/grader.mjs --log-level=error && esbuild tests/entry.ts --bundle --format=esm --platform=node --outfile=.cache/app.mjs --log-level=error && node tests/grader.test.mjs && node tests/quiz.test.mjs && node tests/rig.test.mjs
+
+ok   "m. biceps brachii" -> true 
+ok   "M. Biceps Brachii" -> true 
+ok   "biceps brachi" -> true (typo)
+ok   "tuberculum majus humeri" -> true 
+ok   "tuberkulum majus" -> true (typo)
+ok   "tuberculum minus" -> false 
+ok   "obturator internus" -> false 
+ok   "m obturator externus" -> true 
+ok   "intercostales interni" -> false 
+ok   "teres minor" -> false 
+ok   "teres mayor" -> true (typo)
+ok   "extensor carpi radialis brevis" -> false 
+ok   "flexor carpi ulnaris" -> false 
+ok   "epicondylus medialis" -> false 
+ok   "epicondilus lateralis humeri" -> true (typo)
+ok   "os femur" -> true 
+ok   "os femoris" -> true 
+ok   "vertebra thoracica 6" -> true 
+ok   "costa v" -> true 
+ok   "n medianus" -> true 
+ok   "n ulnaris" -> false 
+ok   "peroneus longus" -> true 
+ok   "art. sellaris" -> true 
+ok   "sellaris" -> true 
+ok   "ellipsoidea" -> false 
+ok   "processus coracoideus" -> true 
+ok   "processus coronoideus" -> false 
+ok   "cavitas glenoidalis" -> true 
+ok   "" -> false 
+ok   "humerus dextra" -> true 
+ok   "caput longum musculi bicipitis brachii" -> true 
+ok   "C5-C6" -> true 
+ok   "c5 c6" -> true 
+ok   "C5-T1" -> false 
+all passing
+ok   "epicondylus laterale" -> true (typo)
+ok   "tuberculum major" -> true (typo)
+ok   "os metatarsi" -> false 
+ok   "m. obturator interna" -> true (typo)
+ok   "m gluteus medialis" -> false 
+ok   "fossa coronoidea" -> true 
+ok   "fossa coracoidea" -> false 
+ok   PA1   475 questions
+ok   PA2   365 questions
+ok   PA3   467 questions
+ok   PA4   294 questions
+ok   PA5   313 questions
+ok   PA6   349 questions
+ok   PA7   214 questions
+ok   PA8   756 questions
+ok   Dx     76 questions
+ok   options for 2612 questions, 5 typed only
+ok   76 clinical cases
+all 63 checks passing
+ok   the field is near zero on the bone
+ok   the field measures the distance to the bone
+ok   far outside the box counts as far away
+ok   a muscle that lies mostly on the trunk is classed as a trunk muscle
+ok   part of the muscle follows the limb
+ok   the end on the trunk stays put
+ok   the end on the moving bone follows it fully
+ok   the weight never falls on the way from the trunk to the limb
+ok   a joint further down never moves a vertex more than the joint above it
+ok   the hinge weight changes across its plane
+ok   a trunk muscle gets a pull toward its insertion
+ok   the insertion lies at the limb end of the muscle
+ok   the pull runs along the sheet toward the insertion, not out of it
+ok   the pull is weaker near the origin
+ok   anything that is not a muscle gets plain weights and no pull
+all passing
+test exit 0
+== build
+[36mvite v6.4.1 [32mbuilding for production...[36m[39m
+transforming...
+[32m✓[39m 134 modules transformed.
+[33m[plugin vite:reporter] 
+(!) /home/runner/work/Raga/Raga/src/engine/motion.ts is dynamically imported by /home/runner/work/Raga/Raga/src/ui/engineExtras.ts but also statically imported by /home/runner/work/Raga/Raga/src/engine/Engine.ts, /home/runner/work/Raga/Raga/src/ui/engineExtras.ts, dynamic import will not move module into another chunk.
+[39m
+rendering chunks...
+computing gzip size...
+[2mout/site/[22m[32mindex.html                                                     [39m[1m[2m    1.60 kB[22m[1m[22m[2m │ gzip:   0.69 kB[22m
+[2mout/site/[22m[2massets/[22m[32mbrygada-1918-cyrillic-ext-wght-italic-DASVmsTn.woff2    [39m[1m[2m    6.36 kB[22m[1m[22m
+[2mout/site/[22m[2massets/[22m[32mbrygada-1918-vietnamese-wght-italic-DAyAmCJ5.woff2      [39m[1m[2m    8.28 kB[22m[1m[22m
+[2mout/site/[22m[2massets/[22m[32mbrygada-1918-greek-wght-italic-DdSeWpAw.woff2           [39m[1m[2m    9.56 kB[22m[1m[22m
+[2mout/site/[22m[2massets/[22m[32mbrygada-1918-cyrillic-wght-italic-ocOz0nya.woff2        [39m[1m[2m   15.17 kB[22m[1m[22m
+[2mout/site/[22m[2massets/[22m[32mschibsted-grotesk-latin-ext-wght-normal-hsMS0n0O.woff2  [39m[1m[2m   20.92 kB[22m[1m[22m
+[2mout/site/[22m[2massets/[22m[32mbrygada-1918-latin-wght-italic-BZdSQ4kq.woff2           [39m[1m[2m   24.39 kB[22m[1m[22m
+[2mout/site/[22m[2massets/[22m[32mbrygada-1918-latin-ext-wght-italic-qZwCBA70.woff2       [39m[1m[2m   33.21 kB[22m[1m[22m
+[2mout/site/[22m[2massets/[22m[32mschibsted-grotesk-latin-wght-normal-Bb8VGrTG.woff2      [39m[1m[2m   46.75 kB[22m[1m[22m
+[2mout/site/[22m[2massets/[22m[35mindex-iqwZZ72a.css                                      [39m[1m[2m   67.61 kB[22m[1m[22m[2m │ gzip:  13.49 kB[22m
+[2mout/site/[22m[2massets/[22m[36mindex-Bn78icpp.js                                       [39m[1m[2m  878.88 kB[22m[1m[22m[2m │ gzip: 211.30 kB[22m[2m │ map: 1,569.55 kB[22m
+[2mout/site/[22m[2massets/[22m[36mthree-BZT79BOs.js                                       [39m[1m[33m1,327.59 kB[39m[22m[2m │ gzip: 241.48 kB[22m[2m │ map: 2,983.46 kB[22m
+[32m✓ built in 2.37s[39m
+build exit 0
