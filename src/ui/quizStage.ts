@@ -39,10 +39,11 @@ function skeletonOf(engine: Engine, q: Question): string[] {
 /**
  * Pin the landmark of a question. `close` moves in on the pin, for naming the landmark itself. Otherwise the
  * whole bone or lobe stays in view with the pin on it, which is what an answer about that bone needs.
+ * Returns true when, in the close view, another structure stands in front of the landmark.
  */
-function pinLandmark(engine: Engine, q: Question, close: boolean) {
+function pinLandmark(engine: Engine, q: Question, close: boolean): boolean {
   const l = q.landmark;
-  if (!l) return;
+  if (!l) return false;
   const pnt = engine.worldPointOn(l.on, new THREE.Vector3(...l.p));
   const n = new THREE.Vector3(...l.n);
   const bone = engine.objects.get(l.on);
@@ -53,15 +54,14 @@ function pinLandmark(engine: Engine, q: Question, close: boolean) {
   const scale = Math.min(close ? 1.4 : 3, Math.max(0.4, dist / 0.3));
   if (close || !bone) {
     engine.setPin(pnt, dir, '#ff5d8f', scale);
-    engine.framePoint(pnt, dir, dist);
-    return;
+    return engine.covered(pnt, engine.framePoint(pnt, dir, dist), l.on);
   }
   const size = bone.box.getSize(new THREE.Vector3()).toArray();
   const long = size.indexOf(Math.max(...size));
   if (size[long] <= 1.8 * Math.max(...size.filter((_, i) => i !== long))) {
     engine.setPin(pnt, dir, '#ff5d8f', scale);
     engine.frameIds([l.on], { dir, pad: 1.4 });
-    return;
+    return false;
   }
   // a long bone is looked at from the side the landmark is on, never along its shaft
   const along = dir.getComponent(long);
@@ -78,6 +78,7 @@ function pinLandmark(engine: Engine, q: Question, close: boolean) {
   across.addScaledVector(axis, 0.4 * Math.sign(along)).normalize();
   engine.setPin(pnt, across, '#ff5d8f', scale);
   engine.frameIds([l.on], { dir: view, pad: 1.5 });
+  return false;
 }
 
 /**
@@ -135,7 +136,8 @@ export function stageQuestion(engine: Engine, q: Question) {
   } else engine.setXray(false, null);
   engine.setPin(null);
   if (q.type === 'landmark') {
-    pinLandmark(engine, q, true);
+    // a joint surface faces the next bone; when that bone is in the way, all but the bone of the landmark is faded
+    if (pinLandmark(engine, q, true) && q.landmark) engine.setXray(true, new Set([q.landmark.on]));
     return;
   }
   if (hidden) {

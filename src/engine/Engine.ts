@@ -846,8 +846,8 @@ export class Engine {
     this.flyTo(sphere.center.clone().addScaledVector(dir, dist), sphere.center.clone(), opts.instant);
   }
 
-  /** Look at a surface point along its normal (used for landmark pins). */
-  framePoint(p: THREE.Vector3, n: THREE.Vector3, dist = 0.16, instant = false) {
+  /** Look at a surface point along its normal (used for landmark pins). Returns where the camera ends up. */
+  framePoint(p: THREE.Vector3, n: THREE.Vector3, dist = 0.16, instant = false): THREE.Vector3 {
     const dir = n.clone().normalize();
     // keep a little elevation so the view does not look straight up or down
     if (Math.abs(dir.y) > 0.85) dir.y = Math.sign(dir.y) * 0.85;
@@ -857,7 +857,27 @@ export class Engine {
     const freeH = Math.max(120, this.container.clientHeight - this.insets.bottom - this.insets.top);
     const freeW = Math.max(120, this.container.clientWidth - this.insets.left - this.insets.right);
     const d = dist * Math.min(2.4, Math.max(1, freeH / freeW));
-    this.flyTo(p.clone().addScaledVector(dir, d), p.clone(), instant);
+    const eye = p.clone().addScaledVector(dir, d);
+    this.flyTo(eye, p.clone(), instant);
+    return eye;
+  }
+
+  /**
+   * Whether another visible structure stands between a point and an eye position. `own` is the structure the
+   * point lies on, which never counts.
+   */
+  covered(p: THREE.Vector3, eye: THREE.Vector3, own?: string): boolean {
+    const back = p.clone().sub(eye);
+    const dist = back.length();
+    if (dist < 1e-4) return false;
+    const cover = this.getPickables().filter((m) => m.userData.sid !== own);
+    (this.raycaster as any).firstHitOnly = true;
+    this.raycaster.near = 0;
+    this.raycaster.far = Math.max(0, dist - 0.002);
+    this.raycaster.set(eye, back.normalize());
+    const hit = this.raycaster.intersectObjects(cover, false).length > 0;
+    this.raycaster.far = Infinity;
+    return hit;
   }
 
   view(name: 'anterior' | 'posterior' | 'left' | 'right' | 'superior' | 'inferior') {
