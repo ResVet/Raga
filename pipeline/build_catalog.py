@@ -1,8 +1,11 @@
 """Merge exported structures with TA2 names, group tree, landmarks and attachments into web data files."""
 import json, glob, re, collections, os, sys
 
-B = "/home/claude/work/build"
-OUT = "/home/claude/work/build/data"
+# the pipeline workspace, as in build_models.sh: RAGA_WORK, or the folder next to the app
+HERE = os.path.dirname(os.path.abspath(__file__))
+WORK = os.environ.get("RAGA_WORK") or (os.path.dirname(os.path.dirname(HERE)) if os.path.basename(HERE) == "pipeline" else os.path.dirname(HERE))
+B = os.path.join(WORK, "build")
+OUT = os.path.join(B, "data")
 os.makedirs(OUT, exist_ok=True)
 
 
@@ -13,7 +16,7 @@ def slug(n):
 
 # ---------------------------------------------------------------- TA2 table
 rows = []
-raw = open("/home/claude/work/zsrc/TA2.csv", encoding="utf-8-sig").read()
+raw = open(os.path.join(WORK, "zsrc", "TA2.csv"), encoding="utf-8-sig").read()
 for line in raw.splitlines():
     line = line.strip()
     if line.startswith('"') and line.endswith('"'):

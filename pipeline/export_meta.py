@@ -1,9 +1,12 @@
 """Extract landmark anchors, attachment mapping, group tree and definition texts from Z-Anatomy."""
-import bpy, json, re, glob, collections
+import bpy, json, os, re, glob, collections
 from mathutils.bvhtree import BVHTree
 
-OUT = "/home/claude/work/build"
-bpy.ops.wm.open_mainfile(filepath="/home/claude/work/zsrc/Z-Anatomy/Startup.blend")
+# the pipeline workspace, as in build_models.sh: RAGA_WORK, or the folder next to the app
+HERE = os.path.dirname(os.path.abspath(__file__))
+WORK = os.environ.get("RAGA_WORK") or (os.path.dirname(os.path.dirname(HERE)) if os.path.basename(HERE) == "pipeline" else os.path.dirname(HERE))
+OUT = os.path.join(WORK, "build")
+bpy.ops.wm.open_mainfile(filepath=os.path.join(WORK, "zsrc", "Z-Anatomy", "Startup.blend"))
 
 
 def s(f, d=None):

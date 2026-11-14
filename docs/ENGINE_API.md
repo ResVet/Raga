@@ -1,6 +1,6 @@
-# Engine contract (shared by the engine work and the interface work)
+# Engine contract
 
-File ownership while two people work in parallel:
+The engine and the interface are kept apart, so that either side can change without breaking the other.
 - Engine side owns `src/engine/**`, `src/data/**`, `pipeline/**`, `public/models/**`, `public/data/*` except content.json.
 - Interface side owns `src/App.tsx`, `src/ui/**`, `src/i18n.ts`, `src/styles.css`, `src/main.tsx`, `index.html`, `public/icons/**`, `public/manifest.webmanifest`.
 - `window.__raga = { engine, db }` must stay exposed by App.tsx (used by automated visual tests).

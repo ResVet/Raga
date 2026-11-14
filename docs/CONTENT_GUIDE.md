@@ -1,4 +1,4 @@
-# Raga content guide (read fully before writing)
+# Raga content guide
 
 Raga is a free, open-source 3D anatomy atlas and quiz built on the Z-Anatomy model (CC BY-SA 4.0).
 First audience: medical students at FK Universitas Sriwijaya (Indonesia), Blok 4 "Struktur Jaringan dan
@@ -9,7 +9,7 @@ bilingual (English + Bahasa Indonesia) and names are Latin (Terminologia Anatomi
 Students will be graded on this material in an OSPE (practical exam with cadaver/models) where they must
 write the Latin name of a pinned structure, plus written exams on origin, insertion, action, innervation and
 joint classification. A wrong fact in this dataset means a student learns something wrong. Accuracy beats
-coverage: if you are not sure about a fact, verify it (WebSearch / WebFetch on Kenhub, TeachMeAnatomy,
+coverage: if you are not sure about a fact, check it against a second source (Kenhub, TeachMeAnatomy,
 Radiopaedia, Wikipedia, IMAIOS e-Anatomy) or leave the field out and add "verify": true to the entry.
 
 ## Reference standard
@@ -18,7 +18,7 @@ Radiopaedia, Wikipedia, IMAIOS e-Anatomy) or leave the field out and add "verify
 - Latin: Terminologia Anatomica 1998 (TA98), the form used in Indonesian lectures and in Sobotta.
   TA2 (2019) variants go into `alt` when they differ (example: TA98 "Cavitas glenoidalis",
   TA2 "Fossa glenoidea"; TA98 "Femur", TA2 "Os femoris").
-- The FK Unsri module text is in /home/claude/work/ref/modul_praktikum_anatomi_blok4.txt. Every structure,
+- The FK Unsri practical module (Modul Praktikum Anatomi Blok 4) sets the scope. Every structure,
   landmark, joint and muscle it names must have an entry. Where the module spells a term in a non-standard
   way (for example "Facies articularis acromia", "Os Fibuka", "Linea musculi scapulae"), put the module
   spelling into `alt` so the quiz accepts it, but keep `la` correct. If the module states a fact that
@@ -27,10 +27,10 @@ Radiopaedia, Wikipedia, IMAIOS e-Anatomy) or leave the field out and add "verify
 
 ## File format
 
-Write UTF-8 JSON files into /home/claude/work/content/ named `<domain>-<part>.json` (for example
-`upper-bones.json`, `upper-muscles.json`). Each file is a JSON array of entries. Write in several files or
-chunks; never one giant write. After writing, validate every file with
-`python3 -c "import json,sys; json.load(open(sys.argv[1]))" FILE` and fix errors.
+Entries live in `content/` as UTF-8 JSON files named `<domain>-<part>.json` (for example
+`upper-bones.json`, `upper-muscles.json`). Each file is a JSON array of entries. Keep a file to one part
+of a domain, which makes it easier to review. After editing, check that every file still parses:
+`python3 -c "import json,sys; json.load(open(sys.argv[1]))" FILE`.
 
 ### Common fields (every entry)
 
@@ -47,7 +47,7 @@ chunks; never one giant write. After writing, validate every file with
 }
 ```
 
-- `key`: copy it exactly from the first column of your domain TSV (/home/claude/work/ref/keys_<domain>.tsv).
+- `key`: copy it exactly from the first column of your domain TSV (`docs/keys/keys_<domain>.tsv`).
   The TSV lists what exists in the 3D model: meshes, `[GROUP]` rows (a whole muscle or joint made of several
   meshes) and `landmark` rows. For a muscle split into heads or parts in the model, write one full `muscle`
   entry on the `[GROUP]` key (e.g. `biceps-brachii-muscle`) and short `muscle-part` entries on each head key
@@ -179,21 +179,26 @@ values and management belong to later blocks.
 
 ## Writing style (strict)
 
-The texts must read like a careful human teacher wrote them.
+Write the way a careful teacher explains a structure to a first-year student.
 
 - No em dashes or en dashes anywhere in prose. Use commas, periods, colons or parentheses. For number or
   segment ranges use a hyphen: "C5-C6", "T1-T12".
-- No "not X but Y" contrasts, no "not only... but also", no one-line dramatic closers.
-- No filler or hype words: crucial, pivotal, vital, key (as adjective), robust, intricate, delve, showcase,
-  highlight (verb), underscore, testament, landscape, plays a key/crucial role, serves as, stands as.
-  Use plain verbs: is, has, lies, runs, attaches, supplies.
-- Do not group things in threes for rhythm. List what the anatomy actually has.
-- No bold, no emojis, no rhetorical questions, no "In summary".
+- Say what a structure is and does. Skip sentences that only announce that it matters ("plays a crucial
+  role", "is of vital importance") and use plain verbs: is, has, lies, runs, attaches, supplies.
+- List what the anatomy has, in the order a student would meet it on the specimen.
+- No bold, no emojis, no rhetorical questions, no closing summary sentence.
 - Vary sentence length. Concrete facts beat adjectives.
 - Indonesian: natural sentences, formal but simple, as in an Indonesian anatomy handout. Latin terms stay
   Latin (in Indonesian text you can write "melekat pada tuberculum majus humeri").
 
-## Final step
+## Checking your work
 
-When done, print a short summary: files written, entry counts by kind, and the keys you marked
-`"verify": true`.
+- `python3 pipeline/build_content.py content` rebuilds `public/data/content.json`. It counts the entries by
+  domain and lists keys that match nothing in the model, entries with a problem and entries that still
+  contain dashes.
+- `python3 pipeline/build_cases.py` checks the clinical cases (ids, both languages, three to five options,
+  focus keys that exist in the model) and writes `public/data/cases.json`. It writes nothing while a case
+  has a problem.
+- `npm test` builds every quiz deck from the data. It fails on duplicate cards, on a wrong option that would
+  be accepted as right when typed and on a case whose stem gives the answer away.
+- In the pull request, list the keys you marked `"verify": true` and say what the sources disagree on.
