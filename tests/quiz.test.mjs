@@ -88,6 +88,8 @@ for (const q of cases) {
   const ok = c && c.options.length >= 3 && c.stem.en && c.stem.id && c.explain.en && c.explain.id;
   if (!ok) check(false, `${q.id}: incomplete case`);
   if (!q.reveal?.length) check(false, `${q.id}: nothing to show on the model`);
+  if (!(q.lead >= 1 && q.lead <= q.reveal.length)) check(false, `${q.id}: the first focus structure has no mesh`);
+  if (new Set(q.reveal).size !== q.reveal.length) check(false, `${q.id}: a mesh is listed twice`);
   if (!q.packs.includes('skeleton')) check(false, `${q.id}: the skeleton is not staged`);
   for (const lang of ['en', 'id']) {
     const texts = c.options.map((o) => optionText(o, lang));

@@ -2581,9 +2581,12 @@ details.more p {
   text-align: left;
   transition: border-color 0.15s, background 0.15s;
 }
-.choice:hover:not(:disabled) {
-  border-color: rgba(255, 93, 143, 0.65);
-  background: rgba(255, 93, 143, 0.08);
+/* only where a pointer can hover: on a touch screen the last tapped spot would stay lit on the next station */
+@media (hover: hover) {
+  .choice:hover:not(:disabled) {
+    border-color: rgba(255, 93, 143, 0.65);
+    background: rgba(255, 93, 143, 0.08);
+  }
 }
 .choice:disabled {
   opacity: 0.55;

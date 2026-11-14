@@ -68,6 +68,8 @@ export function Station({ q, idx, total, exam, choice, seed, marks, onDone, onQu
   const inputRef = useRef<HTMLInputElement>(null);
   const tagRef = useRef<HTMLDivElement>(null);
   const pinLine = useRef<SVGSVGElement>(null);
+  // the height the placard and the bottom panel take, kept for placing the pin chip between them
+  const band = useRef({ top: 0, bottom: 0 });
   const answered = useRef(false);
   const shownAt = useRef(0);
   const advance = useRef<number | null>(null);
@@ -124,6 +126,7 @@ export function Station({ q, idx, total, exam, choice, seed, marks, onDone, onQu
     const top = placardRef.current ? Math.max(0, Math.round(placardRef.current.getBoundingClientRect().bottom - w.top + 8)) : 0;
     let bottom = bottomRef.current ? Math.max(0, Math.round(w.bottom - bottomRef.current.getBoundingClientRect().top + 8)) : 0;
     bottom = Math.max(0, Math.min(bottom, w.height - 140 - top));
+    band.current = { top, bottom };
     engine.setInsets(0, 0, bottom, top);
   }, [engine]);
 
@@ -201,8 +204,14 @@ export function Station({ q, idx, total, exam, choice, seed, marks, onDone, onQu
         }
       }
       const reach = 78;
-      const x = Math.max(36, Math.min(box.width - 36, pr.x + dx * reach));
-      const y = Math.max(box.height * 0.22, Math.min(box.height * 0.72, pr.y + dy * reach));
+      let x = pr.x + dx * reach, y = pr.y + dy * reach;
+      const lo = band.current.top + 14, hi = box.height - band.current.bottom - 28;
+      if (y < lo || y > hi) {
+        // no room above or below the pin: the chip goes beside it, at the same distance
+        y = Math.max(lo, Math.min(hi, y));
+        x = pr.x + (dx < 0 ? -1 : 1) * Math.max(Math.abs(dx) * reach, Math.sqrt(Math.max(0, reach * reach - (y - pr.y) ** 2)));
+      }
+      x = Math.max(36, Math.min(box.width - 36, x));
       el.style.display = 'grid';
       svg.style.visibility = 'visible';
       el.style.transform = `translate(${x.toFixed(1)}px, ${y.toFixed(1)}px) translate(-50%, -50%)`;
@@ -546,7 +555,7 @@ export function Station({ q, idx, total, exam, choice, seed, marks, onDone, onQu
             )}
           </p>
           <p className={isCase ? 'placard-prompt stem' : 'placard-prompt'}>{promptFor(q, t, lang)}</p>
-          {showsName(q) && <p className="placard-latin latin">{db.latin(q.key)}</p>}
+          {showsName(q) && <p className="placard-latin latin">{q.label ?? db.latin(q.key)}</p>}
           {!exam && card && (
             <p className="placard-card num">
               {card.right}/{card.seen}
