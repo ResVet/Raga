@@ -64,7 +64,8 @@ function pinLandmark(engine: Engine, q: Question, close: boolean) {
     if (view.length() > 0.25) view.normalize();
     else view.copy(dir);
   }
-  engine.frameIds([l.on], { dir: view, pad: 1.25 });
+  // room at both ends, so that the head of a pin at the tip of the bone stays clear of the panels
+  engine.frameIds([l.on], { dir: view, pad: 1.4 });
 }
 
 /**
@@ -225,5 +226,11 @@ export function revealAnswer(engine: Engine, q: Question, ok: boolean, pickedId:
     engine.setXray(true, focus);
     engine.frameIds(q.ids, { pad: 1.8 });
   }
-  if (q.type === 'lmBone' || q.type === 'lobe') pinLandmark(engine, q, false);
+  if (q.type === 'lmBone' || q.type === 'lobe') {
+    // a joint surface faces the next bone, which would stand in front of the answer: fade the rest
+    const focus = new Set(q.ids);
+    if (q.landmark) focus.add(q.landmark.on);
+    engine.setXray(true, focus);
+    pinLandmark(engine, q, false);
+  }
 }
