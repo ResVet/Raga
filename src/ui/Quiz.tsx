@@ -495,7 +495,7 @@ function Results({ run, onMisses, onBack }: { run: Run; onMisses: (misses: Quest
   const total = scored.length;
   const label = (q: Question) => {
     if (q.case) return q.case.stem[lang] ?? q.case.stem.en ?? '';
-    return q.type === 'name' || q.type === 'landmark' || q.type === 'find' ? db.latin(q.key) : `${db.latin(q.key)}: ${q.display}`;
+    return q.type === 'name' || q.type === 'landmark' || q.type === 'find' ? db.latin(q.key) : `${q.label ?? db.latin(q.key)}: ${q.display}`;
   };
   return (
     <div className="quiz-wrap">
