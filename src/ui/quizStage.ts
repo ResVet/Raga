@@ -50,27 +50,34 @@ function pinLandmark(engine: Engine, q: Question, close: boolean) {
   const dir = n.clone().multiplyScalar(0.65).add(out.multiplyScalar(0.35)).normalize();
   // the pin is sized for the distance it is seen from
   const dist = close ? Math.max(0.15, (bone?.radius ?? 0.1) * 1.3) : (bone?.radius ?? 0.1) * 4.5;
-  engine.setPin(pnt, dir, '#ff5d8f', Math.min(close ? 1.4 : 3, Math.max(0.4, dist / 0.3)));
+  const scale = Math.min(close ? 1.4 : 3, Math.max(0.4, dist / 0.3));
   if (close || !bone) {
+    engine.setPin(pnt, dir, '#ff5d8f', scale);
     engine.framePoint(pnt, dir, dist);
     return;
   }
-  // a long bone is looked at from the side the landmark is on, never along its shaft
-  const view = dir.clone();
   const size = bone.box.getSize(new THREE.Vector3()).toArray();
   const long = size.indexOf(Math.max(...size));
-  const slender = size[long] > 1.8 * Math.max(...size.filter((_, i) => i !== long));
-  if (slender) {
-    const along = view.getComponent(long);
-    view.setComponent(long, 0);
-    // a joint surface at the end of the shaft faces along it: take the front (the top for a bone that
-    // points forward) and tip the view toward that end
-    if (view.length() < 0.25) view.set(0, long === 2 ? 1 : 0, long === 2 ? 0 : 1);
-    view.normalize().setComponent(long, THREE.MathUtils.clamp(along, -0.35, 0.35));
-    view.normalize();
+  if (size[long] <= 1.8 * Math.max(...size.filter((_, i) => i !== long))) {
+    engine.setPin(pnt, dir, '#ff5d8f', scale);
+    engine.frameIds([l.on], { dir, pad: 1.4 });
+    return;
   }
-  // room at both ends, so that the head of a pin at the tip of the bone stays clear of the panels
-  engine.frameIds([l.on], { dir: view, pad: slender ? 1.6 : 1.4 });
+  // a long bone is looked at from the side the landmark is on, never along its shaft
+  const along = dir.getComponent(long);
+  const view = dir.clone().setComponent(long, 0);
+  // a joint surface at the end of the shaft faces along it: take the front (the top for a bone that
+  // points forward) and tip the view toward that end
+  if (view.length() < 0.25) view.set(0, long === 2 ? 1 : 0, long === 2 ? 0 : 1);
+  view.normalize().setComponent(long, THREE.MathUtils.clamp(along, -0.35, 0.35));
+  view.normalize();
+  // a pin along the shaft would run off the picture at the end of the bone, so it is laid across
+  const axis = new THREE.Vector3().setComponent(long, 1);
+  const across = axis.clone().cross(view).normalize();
+  if (across.dot(dir) < 0) across.negate();
+  across.addScaledVector(axis, 0.4 * Math.sign(along)).normalize();
+  engine.setPin(pnt, across, '#ff5d8f', scale);
+  engine.frameIds([l.on], { dir: view, pad: 1.5 });
 }
 
 /**
