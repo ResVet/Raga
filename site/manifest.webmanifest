@@ -1,0 +1,16 @@
+{
+  "name": "Raga: 3D anatomy atlas",
+  "short_name": "Raga",
+  "description": "Free 3D anatomy atlas with Latin short-answer quizzes.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f0c24",
+  "theme_color": "#0f0c24",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
