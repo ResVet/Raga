@@ -1,22 +1,19 @@
 import { useMemo, useState } from 'react';
 import { useApp } from './ctx';
-import { DECKS, deckStats } from '../quiz/decks';
+import { DECKS, buildDeck, deckStats } from '../quiz/decks';
 import { allCards, resetAll } from '../quiz/srs';
-import { inRegion } from './regions';
 import { IconGithub } from './icons';
 import { fmt } from '../i18n';
+import { cardLabel } from './quizText';
 
 export function ProgressPage() {
-  const { db, engine, t, settings } = useApp();
+  const { db, t, settings } = useApp();
   const [v, setV] = useState(0);
   const rows = useMemo(() => {
-    return DECKS.map((d) => {
-      const ready = d.packs.every((pk) => engine.isLoaded(pk));
-      const s = ready ? deckStats(d.build(db, { inRegion: (id, r) => inRegion(engine, id, r), english: false })) : null;
-      return { d, s };
-    });
+    return DECKS.map((d) => ({ d, s: deckStats(buildDeck(db, d, false)) })).filter((x) => x.s.total > 0);
+    // `v` changes when the progress is reset
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [db, engine, v]);
+  }, [db, v]);
   const cards = allCards();
   const ids = Object.keys(cards);
   const seen = ids.reduce((a, k) => a + cards[k].seen, 0);
@@ -25,11 +22,6 @@ export function ProgressPage() {
     .filter((k) => cards[k].lapses > 0)
     .sort((a, b) => cards[b].lapses - cards[a].lapses || cards[a].right / cards[a].seen - cards[b].right / cards[b].seen)
     .slice(0, 15);
-  const label = (cardId: string) => {
-    const type = cardId.slice(0, cardId.indexOf(':'));
-    const key = cardId.slice(cardId.indexOf(':') + 1);
-    return { type, name: db.latin(key) };
-  };
   return (
     <main className="page">
       <article className="doc glass settle">
@@ -65,10 +57,10 @@ export function ProgressPage() {
                     <span className="code">{d.code}</span>
                     {settings.lang === 'id' ? d.idn : d.en}
                   </th>
-                  <td className="num">{s?.total ?? ''}</td>
-                  <td className="num">{s?.due ?? ''}</td>
-                  <td className="num">{s?.fresh ?? ''}</td>
-                  <td className="num">{s?.mastered ?? ''}</td>
+                  <td className="num">{s.total}</td>
+                  <td className="num">{s.due}</td>
+                  <td className="num">{s.fresh}</td>
+                  <td className="num">{s.mastered}</td>
                 </tr>
               ))}
             </tbody>
@@ -81,10 +73,10 @@ export function ProgressPage() {
               <table>
                 <tbody>
                   {hardest.map((k) => {
-                    const l = label(k);
+                    const l = cardLabel(db, t, settings.lang, k);
                     return (
                       <tr key={k}>
-                        <th scope="row" className="latin">
+                        <th scope="row" className={l.latin ? 'latin' : undefined}>
                           {l.name}
                         </th>
                         <td className="muted">{l.type}</td>
@@ -137,8 +129,9 @@ export function AboutPage() {
             <p>
               Di Atlas, klik sebuah struktur untuk membaca nama Latin, origo, insersio, aksi, persarafan, dan penanda tulangnya. Geser
               pengukur kedalaman di kiri untuk mengupas lapisan dari kulit sampai tulang, dan pilih regio pada peta tubuh. Di Gerak, pilih
-              gerakan sendi untuk melihat otot yang berkontraksi. Di Kuis, pilih materi praktikum lalu jawab dengan nama Latin. Soal yang
-              salah akan muncul lagi lebih cepat, dan simulasi OSPE memberi waktu per stase seperti ujian sebenarnya.
+              gerakan sendi untuk melihat otot yang berkontraksi. Di Kuis, pilih materi praktikum lalu jawab dengan mengetik nama Latin
+              atau memilih dari pilihan ganda. Soal yang salah akan muncul lagi lebih cepat, simulasi OSPE memberi waktu per stase
+              seperti ujian sebenarnya, dan kasus klinis melatih penerapan anatomi pada pasien. Sesi yang terputus dapat dilanjutkan.
             </p>
             <h2>Penting</h2>
             <p>
@@ -158,8 +151,9 @@ export function AboutPage() {
             <p>
               In the Atlas, click a structure to read its Latin name, origin, insertion, action, innervation and landmarks. Drag the depth
               gauge on the left to peel the layers from skin to bone, and pick a region on the body map. In Motion, choose a joint movement
-              to see which muscles contract. In the Quiz, pick a practical and answer with the Latin name. Cards you miss come back sooner,
-              and the OSPE simulation times each station like the real exam.
+              to see which muscles contract. In the Quiz, pick a practical and answer by typing the Latin name or by multiple choice.
+              Cards you miss come back sooner, the OSPE simulation times each station like the real exam, and the clinical cases
+              apply the anatomy to patients. A session you leave halfway can be picked up again.
             </p>
             <h2>Please note</h2>
             <p>

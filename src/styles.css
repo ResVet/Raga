@@ -2411,7 +2411,8 @@ details.more p {
 .feedback {
   position: absolute;
   left: 50%;
-  bottom: calc(var(--gutter) + env(safe-area-inset-bottom));
+  /* --kb is the height of an open phone keyboard (set by the quiz station), 0 otherwise */
+  bottom: calc(var(--gutter) + var(--kb, 0px) + env(safe-area-inset-bottom));
   transform: translateX(-50%);
   width: min(640px, calc(100% - 32px));
   border-radius: var(--r-panel);
@@ -2530,6 +2531,177 @@ details.more p {
   gap: 10px;
   margin-top: 14px;
 }
+.fb-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 16px;
+}
+.fb-answer .plain,
+.fb-you .plain {
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 1.3;
+}
+.fb-you .plain {
+  font-weight: 500;
+  color: var(--ink-1);
+}
+.fb-answer .latin.list {
+  font-size: 20px;
+  line-height: 1.25;
+}
+.feedback .desc.note {
+  padding: 8px 12px;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--rule);
+}
+.feedback .desc b {
+  color: var(--ink-0);
+}
+
+/* multiple choice */
+.choices {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+.choices.one {
+  grid-template-columns: 1fr;
+}
+.choice {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 48px;
+  padding: 7px 12px 7px 8px;
+  border-radius: var(--r-inst);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  background: rgba(8, 6, 24, 0.4);
+  text-align: left;
+  transition: border-color 0.15s, background 0.15s;
+}
+.choice:hover:not(:disabled) {
+  border-color: rgba(255, 93, 143, 0.65);
+  background: rgba(255, 93, 143, 0.08);
+}
+.choice:disabled {
+  opacity: 0.55;
+}
+.choice[data-s='picked'] {
+  opacity: 1;
+  border-color: var(--eosin);
+  background: rgba(255, 93, 143, 0.16);
+  box-shadow: inset 0 0 0 1px var(--eosin);
+}
+.choice-key {
+  flex: none;
+  width: 26px;
+  height: 26px;
+  display: grid;
+  place-items: center;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--ink-1);
+}
+.choice-text {
+  min-width: 0;
+  font-size: 15px;
+  line-height: 1.3;
+  overflow-wrap: anywhere;
+}
+.choice-text.latin {
+  font-size: 18px;
+  line-height: 1.2;
+}
+.answer-wait {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin: 8px;
+  font-size: 15px;
+  color: var(--ink-1);
+}
+.answer-retry {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin: 4px 0 6px;
+}
+
+/* clinical cases: the placard carries the whole vignette */
+.placard-prompt.stem {
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.45;
+}
+.quiz-wrap.case .placard {
+  width: min(720px, calc(100% - 32px));
+  max-height: 40dvh;
+  overflow: auto;
+}
+
+/* with the phone keyboard up there is little room left: keep the question, drop the extras */
+.quiz-wrap.kb .placard-track,
+.quiz-wrap.kb .placard-card,
+.quiz-wrap.kb .answer-aux {
+  display: none;
+}
+.quiz-wrap.kb .placard {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.quiz-wrap.kb .placard-num {
+  width: 40px;
+  height: 40px;
+}
+.quiz-wrap.kb .placard-num .big {
+  font-size: 21px;
+}
+.quiz-wrap.kb .placard-num .ring {
+  display: none;
+}
+
+/* what to do right now: an unfinished session, cards that are due */
+.deck-now {
+  max-width: 1120px;
+  margin: 0 auto 22px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 12px 24px;
+}
+.now-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px 16px;
+  padding: 12px 14px 12px 16px;
+  border-radius: var(--r-tag);
+  border-color: rgba(255, 93, 143, 0.45);
+}
+.now-card p {
+  margin: 0;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.now-card p b {
+  font-size: 15px;
+}
+.now-card p > span {
+  font-size: 13px;
+  color: var(--ink-1);
+}
+.now-actions {
+  flex: none;
+  display: flex;
+  gap: 8px;
+}
 .score {
   display: flex;
   align-items: baseline;
@@ -2576,6 +2748,14 @@ details.more p {
   display: block;
   font-size: 13px;
   color: var(--ink-1);
+}
+.res-list .res-stem {
+  display: block;
+  font-size: 14px;
+  line-height: 1.45;
+}
+.res-list li[data-void] .mark .ico {
+  color: var(--ink-2);
 }
 
 /* ---------------------------------------------------------------- pages */
@@ -2707,7 +2887,7 @@ tbody th {
 }
 .tiers {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 8px;
 }
 .tier {
@@ -3045,7 +3225,7 @@ tbody th {
   .answer,
   .feedback {
     width: calc(100% - 32px);
-    bottom: calc(12px + env(safe-area-inset-bottom));
+    bottom: calc(12px + var(--kb, 0px) + env(safe-area-inset-bottom));
   }
   .answer-row {
     flex-wrap: wrap;
@@ -3098,6 +3278,29 @@ tbody th {
   .modes,
   .tiers {
     grid-template-columns: 1fr;
+  }
+  .choices {
+    grid-template-columns: 1fr;
+    gap: 6px;
+  }
+  .choice {
+    min-height: 44px;
+  }
+  .choice-text.latin {
+    font-size: 17px;
+  }
+  .quiz-wrap.case .placard {
+    width: calc(100% - 32px);
+    max-height: 36dvh;
+  }
+  .placard-prompt.stem {
+    font-size: 14px;
+  }
+  .now-card {
+    flex-wrap: wrap;
+  }
+  .fb-actions {
+    flex-wrap: wrap;
   }
   .doc {
     padding: 22px 18px;

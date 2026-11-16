@@ -5,6 +5,7 @@ import type { Strings } from '../i18n';
 import type { Lang, PackId } from '../data/types';
 import type { LayerId, RegionId } from '../engine/layers';
 import type { ClipAxis, ColorMode } from '../engine/Engine';
+import { autoTier } from './tier';
 
 export type Quality = 'ultra' | 'high' | 'lite';
 export const QUALITIES: Quality[] = ['ultra', 'high', 'lite'];
@@ -28,12 +29,17 @@ export const TIER_EFFECTS: Record<Quality, Effects> = {
 
 export interface Settings {
   lang: Lang;
+  /** The graphics tier in use: the one the user picked, or the one chosen for this device while `autoQuality` is on. */
   quality: Quality;
+  /** Raga picks the tier for the device. On until the user picks one by hand. */
+  autoQuality: boolean;
   /** Switches the user changed on top of the tier defaults. Cleared when the tier changes. */
   effects: Partial<Effects>;
   acceptEnglish: boolean;
   requireSide: boolean;
   examSeconds: number;
+  /** How quiz answers are given: typed, or picked from options. */
+  answerMode: 'type' | 'choice';
 }
 
 export type Selection =
@@ -84,22 +90,32 @@ const NOTICE = 'raga.notice.v1';
 export function loadSettings(): Settings {
   const def: Settings = {
     lang: typeof navigator !== 'undefined' && navigator.language?.toLowerCase().startsWith('id') ? 'id' : 'en',
-    quality: 'ultra',
+    quality: 'high',
+    autoQuality: true,
     effects: {},
     acceptEnglish: false,
     requireSide: false,
     examSeconds: 60,
+    answerMode: 'type',
   };
+  let s = def;
   try {
     const raw = JSON.parse(localStorage.getItem(SKEY) || '{}') as Partial<Settings>;
-    const s: Settings = { ...def, ...raw };
-    if (!QUALITIES.includes(s.quality)) s.quality = 'ultra';
+    s = { ...def, ...raw };
+    // Settings saved before the automatic tier existed: Ultra was the default for everyone then, so a stored
+    // "ultra" says nothing about what the user wants. A stored High or Lite was picked on purpose and stays.
+    if (typeof raw.autoQuality !== 'boolean') s.autoQuality = !raw.quality || raw.quality === 'ultra';
+    if (!QUALITIES.includes(s.quality)) s.autoQuality = true;
     if (s.lang !== 'en' && s.lang !== 'id') s.lang = def.lang;
     if (!s.effects || typeof s.effects !== 'object') s.effects = {};
-    return s;
+    if (s.answerMode !== 'choice') s.answerMode = 'type';
+    if (!Number.isFinite(s.examSeconds)) s.examSeconds = 60;
+    s.examSeconds = Math.max(15, Math.min(300, Math.round(s.examSeconds)));
   } catch {
-    return def;
+    s = def;
   }
+  if (s.autoQuality) s.quality = autoTier();
+  return s;
 }
 
 export function saveSettings(s: Settings) {
