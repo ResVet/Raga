@@ -47,8 +47,6 @@ export interface SkinPart {
   pos: Float32Array;
   /** World-space unit normals, xyz per vertex (optional, used to lay fibres flat). */
   nrm: Float32Array | null;
-  /** True for the fleshy part of a muscle. When any part is marked, only those decide where its bulk lies. */
-  core?: boolean;
 }
 
 export interface SkinResult {
@@ -195,7 +193,6 @@ export function skin(parts: SkinPart[], distal: Field, proximal: Field, hinges: 
   // how far along the way from the fixed bones to the moving bones each vertex lies
   const rho: Float32Array[] = [], far: Float32Array[] = [];
   const sampleRho: number[] = [];
-  const coreOnly = parts.some((p) => p.core);
   for (const p of parts) {
     const n = p.pos.length / 3;
     const r = new Float32Array(n), fd = new Float32Array(n);
@@ -205,7 +202,7 @@ export function skin(parts: SkinPart[], distal: Field, proximal: Field, hinges: 
       const dD = sampleField(distal, x, y, z), dP = sampleField(proximal, x, y, z);
       r[i] = dP / (dP + dD + 1e-5);
       fd[i] = 1 - smooth(FAR0, FAR1, dD);
-      if (i % step === 0 && (!coreOnly || p.core)) sampleRho.push(r[i]);
+      if (i % step === 0) sampleRho.push(r[i]);
     }
     rho.push(r);
     far.push(fd);

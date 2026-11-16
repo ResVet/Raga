@@ -57,19 +57,6 @@ export interface ContentEntry {
   domain?: string;
 }
 
-/** A clinical vignette with one best answer. Written in content/cases, built into public/data/cases.json. */
-export interface ClinicalCase {
-  id: string;
-  /** Which part of the course the case belongs to. */
-  area: 'upper' | 'lower' | 'thorax' | 'heart';
-  stem: Bi;
-  /** The first option is the correct one; the app shuffles them. Latin terms are plain strings. */
-  options: (string | Bi)[];
-  explain: Bi;
-  /** Concept keys shown on the model once the question is answered. */
-  focus: string[];
-}
-
 export interface Definition {
   t: string;
   src: string | null;

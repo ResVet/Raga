@@ -142,7 +142,7 @@ export class Engine {
   private pickablesDirty = true;
   private regionBoxes: THREE.Box3[] | null = null;
   private regionPath: RegExp | null = null;
-  private insets = { left: 0, right: 0, bottom: 0, top: 0 };
+  private insets = { left: 0, right: 0, bottom: 0 };
   private batching = 0;
   private pendingApply = false;
   private visVersion = 0;
@@ -579,11 +579,8 @@ export class Engine {
   }
 
   /** Panels covering the left/right edge of the canvas (CSS px); framing centres on the free area. */
-  /** Space the panels take on each side of the view, in CSS pixels. The specimen is centred in what is left. */
-  setInsets(left: number, right: number, bottom = 0, top = 0) {
-    const cur = this.insets;
-    if (cur.left === left && cur.right === right && cur.bottom === bottom && cur.top === top) return;
-    this.insets = { left, right, bottom, top };
+  setInsets(left: number, right: number, bottom = 0) {
+    this.insets = { left, right, bottom };
     this.applyViewOffset();
     this.invalidate();
   }
@@ -592,8 +589,8 @@ export class Engine {
     const w = Math.max(1, this.container.clientWidth);
     const h = Math.max(1, this.container.clientHeight);
     const shift = (this.insets.left - this.insets.right) / 2;
-    const shiftY = (this.insets.bottom - this.insets.top) / 2;
-    if (Math.abs(shift) < 1 && Math.abs(shiftY) < 1) this.camera.clearViewOffset();
+    const shiftY = this.insets.bottom / 2;
+    if (Math.abs(shift) < 1 && shiftY < 1) this.camera.clearViewOffset();
     else this.camera.setViewOffset(w, h, -shift, shiftY, w, h);
     this.camera.updateProjectionMatrix();
   }
@@ -835,7 +832,7 @@ export class Engine {
   frameBox(box: THREE.Box3, opts: { dir?: THREE.Vector3; pad?: number; instant?: boolean } = {}) {
     const sphere = box.getBoundingSphere(new THREE.Sphere());
     const r = Math.max(sphere.radius * (opts.pad ?? 1.08), 0.02);
-    const freeH = Math.max(120, this.container.clientHeight - this.insets.bottom - this.insets.top);
+    const freeH = Math.max(120, this.container.clientHeight - this.insets.bottom);
     const vfov = 2 * Math.atan(Math.tan(THREE.MathUtils.degToRad(this.camera.fov) / 2) * (freeH / Math.max(1, this.container.clientHeight)));
     const freeW = Math.max(120, this.container.clientWidth - this.insets.left - this.insets.right);
     const hfov = 2 * Math.atan(Math.tan(THREE.MathUtils.degToRad(this.camera.fov) / 2) * (freeW / Math.max(1, this.container.clientHeight)));
@@ -846,38 +843,18 @@ export class Engine {
     this.flyTo(sphere.center.clone().addScaledVector(dir, dist), sphere.center.clone(), opts.instant);
   }
 
-  /** Look at a surface point along its normal (used for landmark pins). Returns where the camera ends up. */
-  framePoint(p: THREE.Vector3, n: THREE.Vector3, dist = 0.16, instant = false): THREE.Vector3 {
+  /** Look at a surface point along its normal (used for landmark pins). */
+  framePoint(p: THREE.Vector3, n: THREE.Vector3, dist = 0.16, instant = false) {
     const dir = n.clone().normalize();
     // keep a little elevation so the view does not look straight up or down
     if (Math.abs(dir.y) > 0.85) dir.y = Math.sign(dir.y) * 0.85;
     dir.normalize();
     // `dist` is meant for a view at least as wide as it is tall; a portrait phone shows a narrower
     // slice at the same distance, so step back until the same width fits
-    const freeH = Math.max(120, this.container.clientHeight - this.insets.bottom - this.insets.top);
+    const freeH = Math.max(120, this.container.clientHeight - this.insets.bottom);
     const freeW = Math.max(120, this.container.clientWidth - this.insets.left - this.insets.right);
     const d = dist * Math.min(2.4, Math.max(1, freeH / freeW));
-    const eye = p.clone().addScaledVector(dir, d);
-    this.flyTo(eye, p.clone(), instant);
-    return eye;
-  }
-
-  /**
-   * Whether another visible structure stands between a point and an eye position. `own` is the structure the
-   * point lies on, which never counts.
-   */
-  covered(p: THREE.Vector3, eye: THREE.Vector3, own?: string): boolean {
-    const back = p.clone().sub(eye);
-    const dist = back.length();
-    if (dist < 1e-4) return false;
-    const cover = this.getPickables().filter((m) => m.userData.sid !== own);
-    (this.raycaster as any).firstHitOnly = true;
-    this.raycaster.near = 0;
-    this.raycaster.far = Math.max(0, dist - 0.002);
-    this.raycaster.set(eye, back.normalize());
-    const hit = this.raycaster.intersectObjects(cover, false).length > 0;
-    this.raycaster.far = Infinity;
-    return hit;
+    this.flyTo(p.clone().addScaledVector(dir, d), p.clone(), instant);
   }
 
   view(name: 'anterior' | 'posterior' | 'left' | 'right' | 'superior' | 'inferior') {
@@ -1115,48 +1092,6 @@ export class Engine {
       this.pickablesDirty = false;
     }
     return this.pickables;
-  }
-
-  /**
-   * How much of some structures can be seen from a direction: the share of sample points on their
-   * surfaces that no other visible structure covers. `solid` narrows what counts as cover (leave
-   * faded structures out). The quiz uses this to pick the side to look from.
-   */
-  visibleShare(ids: Iterable<string>, dir: THREE.Vector3, solid?: (id: string) => boolean, samples = 30): number {
-    const target = new Set(ids);
-    const meshes: THREE.Mesh[] = [];
-    for (const id of target) {
-      const o = this.objects.get(id);
-      if (o && o.root.visible) meshes.push(...o.meshes);
-    }
-    if (!meshes.length) return 0;
-    const pts: THREE.Vector3[] = [];
-    const per = Math.max(2, Math.ceil(samples / meshes.length));
-    for (const m of meshes) {
-      const pos = (m.geometry as THREE.BufferGeometry).getAttribute('position');
-      if (!pos) continue;
-      m.updateMatrixWorld();
-      const step = Math.max(1, Math.floor(pos.count / per));
-      for (let i = step >> 1; i < pos.count && pts.length < samples * 2; i += step) pts.push(new THREE.Vector3().fromBufferAttribute(pos, i).applyMatrix4(m.matrixWorld));
-    }
-    if (!pts.length) return 0;
-    const d = dir.clone().normalize();
-    const back = d.clone().negate();
-    const reach = 4;
-    const cover = this.getPickables().filter((m) => {
-      const sid = m.userData.sid as string;
-      return !target.has(sid) && (!solid || solid(sid));
-    });
-    let seen = 0;
-    (this.raycaster as any).firstHitOnly = true;
-    this.raycaster.near = 0;
-    this.raycaster.far = reach - 0.003;
-    for (const p of pts) {
-      this.raycaster.set(this._v.copy(p).addScaledVector(d, reach), back);
-      if (!this.raycaster.intersectObjects(cover, false).length) seen++;
-    }
-    this.raycaster.far = Infinity;
-    return seen / pts.length;
   }
 
   private isGhostMesh(obj: THREE.Object3D) {

@@ -1,4 +1,4 @@
-import type { AttachmentRec, ClinicalCase, ContentEntry, Definition, GroupRec, LandmarkRec, StructureRec } from './types';
+import type { AttachmentRec, ContentEntry, Definition, GroupRec, LandmarkRec, StructureRec } from './types';
 import { editDistance, norm, slug } from './text';
 
 export interface SearchItem {
@@ -33,37 +33,26 @@ export class DB {
   attByMuscle = new Map<string, AttachmentRec[]>();
   attByBone = new Map<string, AttachmentRec[]>();
   content = new Map<string, ContentEntry>();
-  cases: ClinicalCase[] = [];
   search: SearchItem[] = [];
   private defs: Record<string, Definition> | null = null;
   private i18n: Record<string, Record<string, string>> | null = null;
-  private parents = new Map<string, string | null>();
-  private parts: Map<string, StructureRec[]> | null = null;
 
   constructor(base: string) {
     this.base = base;
   }
 
   async load() {
-    // the atlas still works without the written content or the clinical cases, so neither may stop the start-up
-    const [cat, lms, atts, content, cases] = await Promise.all([
+    const [cat, lms, atts] = await Promise.all([
       json<{ structures: StructureRec[]; groups: Record<string, GroupRec> }>(`${this.base}data/catalog.json`),
       json<LandmarkRec[]>(`${this.base}data/landmarks.json`),
       json<AttachmentRec[]>(`${this.base}data/attachments.json`),
-      json<ContentEntry[]>(`${this.base}data/content.json`).catch(() => [] as ContentEntry[]),
-      json<ClinicalCase[]>(`${this.base}data/cases.json`).catch(() => [] as ClinicalCase[]),
     ]);
-    this.ingest(cat, lms, atts, content, cases);
-  }
-
-  /** Fill the tables from the parsed data files. The tests call this with files read from disk. */
-  ingest(
-    cat: { structures: StructureRec[]; groups: Record<string, GroupRec> },
-    lms: LandmarkRec[],
-    atts: AttachmentRec[],
-    content: ContentEntry[],
-    cases: ClinicalCase[] = [],
-  ) {
+    let content: ContentEntry[] = [];
+    try {
+      content = await json<ContentEntry[]>(`${this.base}data/content.json`);
+    } catch {
+      content = [];
+    }
     this.structures = cat.structures.map((s) => ({ ...s, en: fixParen(s.en) }));
     for (const s of this.structures) {
       this.byId.set(s.id, s);
@@ -91,7 +80,6 @@ export class DB {
       if (a.bone) push(this.attByBone, a.bone, a);
     }
     for (const c of content) this.content.set(c.key, c);
-    this.cases = Array.isArray(cases) ? cases : [];
     this.buildSearch();
   }
 
@@ -117,33 +105,13 @@ export class DB {
 
   /** The "whole" concept a mesh belongs to: a muscle for a muscle head, a joint for a ligament. */
   parentConcept(s: StructureRec): string | null {
-    const known = this.parents.get(s.id);
-    if (known !== undefined) return known;
-    let found: string | null = null;
-    // the written entry of a muscle head names its muscle; the model hierarchy groups only some of them
-    const whole = this.content.get(s.k)?.kind === 'muscle-part' ? this.content.get(s.k)!.facts?.muscle : undefined;
-    if (typeof whole === 'string' && this.content.get(whole)?.kind === 'muscle') found = whole;
-    for (let i = s.path.length - 1; !found && i >= Math.max(0, s.path.length - 2); i--) {
+    for (let i = s.path.length - 1; i >= Math.max(0, s.path.length - 2); i--) {
       const k = slug(s.path[i]);
       const c = this.content.get(k);
-      if ((c && (c.kind === 'muscle' || c.kind === 'joint' || c.kind === 'bone' || c.kind === 'organ')) || (i === s.path.length - 1 && /muscle$|^Gastrocnemius|^Quadriceps|^Triceps|joint$/i.test(s.path[i]))) found = k;
+      if (c && (c.kind === 'muscle' || c.kind === 'joint' || c.kind === 'bone' || c.kind === 'organ')) return k;
+      if (i === s.path.length - 1 && /muscle$|^Gastrocnemius|^Quadriceps|^Triceps|joint$/i.test(s.path[i])) return k;
     }
-    this.parents.set(s.id, found);
-    return found;
-  }
-
-  /** Meshes that are parts of a whole (the heads of a muscle, the ligaments of a joint). */
-  partsOf(key: string): StructureRec[] {
-    if (!this.parts) {
-      const m = new Map<string, StructureRec[]>();
-      for (const s of this.structures) {
-        if (s.pack === 'attachments') continue;
-        const p = this.parentConcept(s);
-        if (p) push(m, p, s);
-      }
-      this.parts = m;
-    }
-    return this.parts.get(key) ?? [];
+    return null;
   }
 
   /** Name shown for a clicked mesh: the whole muscle for a muscle head, otherwise the mesh's own structure. */
