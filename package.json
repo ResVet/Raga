@@ -9,7 +9,8 @@
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview",
     "data": "python3 pipeline/build_content.py",
-    "test": "esbuild src/quiz/grader.ts --bundle --format=esm --platform=node --outfile=.cache/grader.mjs --log-level=error && node tests/grader.test.mjs"
+    "cases": "python3 pipeline/build_cases.py",
+    "test": "esbuild src/quiz/grader.ts --bundle --format=esm --platform=node --outfile=.cache/grader.mjs --log-level=error && esbuild tests/entry.ts --bundle --format=esm --platform=node --outfile=.cache/app.mjs --log-level=error && node tests/grader.test.mjs && node tests/quiz.test.mjs && node tests/rig.test.mjs"
   },
   "license": "MIT",
   "dependencies": {

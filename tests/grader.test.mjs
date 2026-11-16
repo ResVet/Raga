@@ -51,4 +51,9 @@ for (const [inp, acc, exp] of [
   ['m gluteus medialis', ['Musculus gluteus medius'], false],
   ['fossa coronoidea', ['Fossa coronoidea'], true],
   ['fossa coracoidea', ['Fossa coronoidea'], false],
-]) { const v = grade(inp, acc); console.log(v.ok === exp ? 'ok  ' : 'FAIL', JSON.stringify(inp), '->', v.ok, v.typo ? '(typo)' : ''); }
+]) {
+  const v = grade(inp, acc);
+  if (v.ok !== exp) fail++;
+  console.log(v.ok === exp ? 'ok  ' : 'FAIL', JSON.stringify(inp), '->', v.ok, v.typo ? '(typo)' : '');
+}
+process.exit(fail ? 1 : 0);

@@ -1097,6 +1097,48 @@ export class Engine {
     return this.pickables;
   }
 
+  /**
+   * How much of some structures can be seen from a direction: the share of sample points on their
+   * surfaces that no other visible structure covers. `solid` narrows what counts as cover (leave
+   * faded structures out). The quiz uses this to pick the side to look from.
+   */
+  visibleShare(ids: Iterable<string>, dir: THREE.Vector3, solid?: (id: string) => boolean, samples = 30): number {
+    const target = new Set(ids);
+    const meshes: THREE.Mesh[] = [];
+    for (const id of target) {
+      const o = this.objects.get(id);
+      if (o && o.root.visible) meshes.push(...o.meshes);
+    }
+    if (!meshes.length) return 0;
+    const pts: THREE.Vector3[] = [];
+    const per = Math.max(2, Math.ceil(samples / meshes.length));
+    for (const m of meshes) {
+      const pos = (m.geometry as THREE.BufferGeometry).getAttribute('position');
+      if (!pos) continue;
+      m.updateMatrixWorld();
+      const step = Math.max(1, Math.floor(pos.count / per));
+      for (let i = step >> 1; i < pos.count && pts.length < samples * 2; i += step) pts.push(new THREE.Vector3().fromBufferAttribute(pos, i).applyMatrix4(m.matrixWorld));
+    }
+    if (!pts.length) return 0;
+    const d = dir.clone().normalize();
+    const back = d.clone().negate();
+    const reach = 4;
+    const cover = this.getPickables().filter((m) => {
+      const sid = m.userData.sid as string;
+      return !target.has(sid) && (!solid || solid(sid));
+    });
+    let seen = 0;
+    (this.raycaster as any).firstHitOnly = true;
+    this.raycaster.near = 0;
+    this.raycaster.far = reach - 0.003;
+    for (const p of pts) {
+      this.raycaster.set(this._v.copy(p).addScaledVector(d, reach), back);
+      if (!this.raycaster.intersectObjects(cover, false).length) seen++;
+    }
+    this.raycaster.far = Infinity;
+    return seen / pts.length;
+  }
+
   private isGhostMesh(obj: THREE.Object3D) {
     const m = (obj as THREE.Mesh).material as TissueMaterial | undefined;
     return !!m && m.opacity < 0.2;
